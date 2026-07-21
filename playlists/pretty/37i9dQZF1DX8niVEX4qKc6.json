@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193489,
+  "num_followers": 193492,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
-        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 179393,
-      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
-      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+      "duration_ms": 225773,
+      "name": "Barro Tal Vez (with Luis Alberto Spinetta)",
+      "url": "https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -455,22 +459,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Barro Tal Vez (with Luis Alberto Spinetta)",
-      "url": "https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb"
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 133859,
       "name": "No me pidas que no sea un inconsciente",
       "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1087,6 +1071,22 @@
       "duration_ms": 220375,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/3kow098wMsKCVyKSyiNEuO"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
-        "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Alfonsina y El Mar - En Vivo",
-      "url": "https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
+        "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Alfonsina y El Mar - En Vivo",
+      "url": "https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
-      },
-      "artists": [
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169487,
       "name": "el film - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Congelamiento Global",
-        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        }
-      ],
-      "duration_ms": 185644,
-      "name": "Amar No Est\u00e1 de Moda",
-      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 165504,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "AC\u00daSTICO Vol.1",
         "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 168500,
       "name": "Amor Roto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 165504,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Guardar",
-        "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
-      },
-      "artists": [
-        {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        }
-      ],
-      "duration_ms": 179121,
-      "name": "Chimenea",
-      "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
+        "name": "Guardar",
+        "url": "https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj"
       },
       "artists": [
         {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
+      "duration_ms": 179121,
+      "name": "Chimenea",
+      "url": "https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1723,6 +1707,22 @@
       "duration_ms": 246000,
       "name": "Por una cabeza",
       "url": "https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

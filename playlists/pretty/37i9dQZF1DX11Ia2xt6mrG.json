@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73175,
+  "num_followers": 73186,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "pOCHO",
         "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 168000,
       "name": "teksi",
       "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1003,42 +1003,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Escoto",
-          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
-        }
-      ],
-      "duration_ms": 297230,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "ESTAMOS READY",
         "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
@@ -1059,6 +1023,42 @@
       "duration_ms": 214846,
       "name": "ESTAMOS READY",
       "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Escoto",
+          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
+        }
+      ],
+      "duration_ms": 297230,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
     },
     {
       "added_at": "2026-07-03 06:00:25",

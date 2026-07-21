@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Canada.",
-  "num_followers": 38175,
+  "num_followers": 38177,
   "original_name": "Top Songs - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MfBCUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MfGPIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-07-17 15:16:13",
@@ -223,18 +223,18 @@
     {
       "added_at": "2026-07-17 15:16:13",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "",
+        "url": "https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ"
     },
     {
       "added_at": "2026-07-17 15:16:13",

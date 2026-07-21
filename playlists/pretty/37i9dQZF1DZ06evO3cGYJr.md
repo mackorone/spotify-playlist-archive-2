@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cGYJr.md) - [plain]
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 38 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cGYJr.md) - [plain]
 | 23 | [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/3qHOPE9thwIvqfO274o8Gn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:17 |
 | 24 | [Give it up](https://open.spotify.com/track/4XaaW3qfaXeHqbFfazrJnj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [scrubi](https://open.spotify.com/artist/4Mz7QIwe9O2ZXzpDWIwNWu) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:04 |
 | 25 | [Temporary Forever](https://open.spotify.com/track/6b30rJ7Nhx3EdIzVToFBjg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:56 |
-| 26 | [U\_KNOWN \- 2021 Version](https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:39 |
+| 26 | [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 |
 | 27 | [An Introduction](https://open.spotify.com/track/7mvNEzP42conWXjEP9k4bG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 1:54 |
-| 28 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 |
-| 29 | [EUPHORIA](https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:25 |
-| 30 | [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 |
+| 28 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog) | 2:36 |
+| 29 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 |
+| 30 | [U\_KNOWN \- 2021 Version](https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:39 |
 | 31 | [Halcyon](https://open.spotify.com/track/0StvsZs3EbWGSINUC5NEUT) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:40 |
-| 32 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog) | 2:36 |
-| 33 | [nine forty\-five](https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 |
-| 34 | [RUSH.](https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [RUSH.](https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi) | 4:01 |
-| 35 | [Futile](https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:20 |
-| 36 | [Time To Spare](https://open.spotify.com/track/2xoAo5u7Tce4ggNWfVQPQg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 |
-| 37 | [Filter](https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 2:53 |
+| 32 | [nine forty\-five](https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 |
+| 33 | [RUSH.](https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [RUSH.](https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi) | 4:01 |
+| 34 | [Futile](https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:20 |
+| 35 | [Time To Spare](https://open.spotify.com/track/2xoAo5u7Tce4ggNWfVQPQg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 |
+| 36 | [Filter](https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 2:53 |
+| 37 | [EUPHORIA](https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:25 |
 | 38 | [Alright](https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP), [Leon Walker](https://open.spotify.com/artist/0ljquJdetWvOosXTCIFgXY) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:06 |
 
-Snapshot ID: `alrCAAAAAAC6AMc91pLYBd2WzPuJvsZs`
+Snapshot ID: `alwTgAAAAACxwzmGTWN4OqOBXbIPuNBR`

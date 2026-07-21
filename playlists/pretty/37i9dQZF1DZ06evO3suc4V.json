@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10966,
+  "num_followers": 10972,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAACo33oFMCsXam4/rDfl1SX3",
+  "snapshot_id": "alwTgAAAAABSfs4Tr2bowM84sm0NQDfy",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 188209,
-      "name": "Glass Flows",
-      "url": "https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 183337,
       "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
       "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 188209,
+      "name": "Glass Flows",
+      "url": "https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163796,
-      "name": "Glo-Fi (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Room 25",
         "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 163616,
       "name": "Montego Bae",
       "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "Glo-Fi (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Blossom Dearie",
+      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 285802,
       "name": "Tequan (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Blossom Dearie",
-      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Right of Spring",
+      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
         "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 153133,
       "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
       "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Right of Spring",
-      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
     },
     {
       "added_at": null,

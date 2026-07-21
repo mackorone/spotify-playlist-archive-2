@@ -1,28 +1,28 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Whitney Whitney",
-  "num_followers": 565952,
+  "description": "Feeling dramatic? All eyes on you. Cover: PEGGY",
+  "num_followers": 565947,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfFtUUORuWAhmGKEgR5MeQpDqnj",
+  "snapshot_id": "AAAAAOoIp/Q4Xhm2MjMBAAP3HjMnhtTv",
   "tracks": [
     {
-      "added_at": "2026-07-10 04:24:09",
+      "added_at": "2026-07-20 18:13:27",
       "album": {
-        "name": "All That It Is",
-        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+        "name": "ORPHEUS",
+        "url": "https://open.spotify.com/album/4VYOon2ocn14m34JHiKVd1"
       },
       "artists": [
         {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
         }
       ],
-      "duration_ms": 230960,
-      "name": "All That It Is",
-      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
+      "duration_ms": 200666,
+      "name": "ORPHEUS",
+      "url": "https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ"
     },
     {
       "added_at": "2026-05-22 04:02:09",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
-      "added_at": "2026-07-06 15:45:05",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "THE CINEMA",
-      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
-    },
-    {
       "added_at": "2026-04-03 04:01:43",
       "album": {
         "name": "Night at the Opera",
@@ -71,6 +55,54 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-07-10 04:24:09",
+      "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
+    },
+    {
+      "added_at": "2026-07-20 18:13:27",
+      "album": {
+        "name": "Caught In A Jam",
+        "url": "https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 253250,
+      "name": "Caught In A Jam",
+      "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
+    },
+    {
+      "added_at": "2026-07-06 15:45:05",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "added_at": "2026-06-26 04:53:27",
@@ -121,6 +153,30 @@
       "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
     },
     {
+      "added_at": "2026-07-20 18:13:27",
+      "album": {
+        "name": "juliet",
+        "url": "https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        },
+        {
+          "name": "Emilio Piano",
+          "url": "https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT"
+        }
+      ],
+      "duration_ms": 187910,
+      "name": "juliet",
+      "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
+    },
+    {
       "added_at": "2026-04-24 04:01:20",
       "album": {
         "name": "Vampire at the Beach",
@@ -167,6 +223,22 @@
       "duration_ms": 185000,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
+    },
+    {
+      "added_at": "2026-07-20 18:13:27",
+      "album": {
+        "name": "Season 3",
+        "url": "https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "duration_ms": 49345,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A"
     },
     {
       "added_at": "2026-07-10 04:24:09",
@@ -741,22 +813,6 @@
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
-      "added_at": "2026-03-17 01:24:31",
-      "album": {
-        "name": "Dolomites",
-        "url": "https://open.spotify.com/album/3xXGw52jV1FoN6qxOntSNn"
-      },
-      "artists": [
-        {
-          "name": "Ella Clayton",
-          "url": "https://open.spotify.com/artist/1ZByOuc2TRBPaHWXl8Nyem"
-        }
-      ],
-      "duration_ms": 156030,
-      "name": "Dolomites",
-      "url": "https://open.spotify.com/track/6JRmBFYjeT7lmrM6asXkPx"
-    },
-    {
       "added_at": "2026-02-20 05:29:14",
       "album": {
         "name": "I\u2019m Going To Die",
@@ -903,22 +959,6 @@
       "duration_ms": 217649,
       "name": "Never Be Me (M\u2605therf\u2605cker)",
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
-    },
-    {
-      "added_at": "2026-01-30 05:00:43",
-      "album": {
-        "name": "Numbers 31:17-18",
-        "url": "https://open.spotify.com/album/5sZ1NEQVwz1jizFMf4DuW9"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 344302,
-      "name": "Numbers 31:17-18",
-      "url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
     },
     {
       "added_at": "2026-01-09 05:00:22",

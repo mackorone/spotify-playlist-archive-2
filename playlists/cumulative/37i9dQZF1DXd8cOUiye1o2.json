@@ -3807,6 +3807,32 @@
     },
     {
       "album": {
+        "name": "Darmiyaan (From \"Musafir Cafe\")",
+        "url": "https://open.spotify.com/album/3GE8PVCSO32TjZYzDDcIzZ"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270125,
+      "name": "Darmiyaan (From \"Musafir Cafe\")",
+      "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX"
+    },
+    {
+      "album": {
         "name": "Das Haasil Sau Baaki - Acapella (From \"Metro ... In Dino\")",
         "url": "https://open.spotify.com/album/5DyDPjmYBREB3XfG8mqQjG"
       },
@@ -8170,7 +8196,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 205893,
       "name": "Jaaniye",
       "url": "https://open.spotify.com/track/711yZ5MrFLgZHJ47lyAAYV"
@@ -8524,7 +8550,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 203718,
       "name": "Janam Mera",
       "url": "https://open.spotify.com/track/0jXCiJGruGGCpwroWg76Ry"
@@ -19474,6 +19500,32 @@
       "duration_ms": 195728,
       "name": "Tu Bewafa",
       "url": "https://open.spotify.com/track/0prEgNY46jYlQRY1pZdevO"
+    },
+    {
+      "album": {
+        "name": "Tu Chal (From \"The India Story\")",
+        "url": "https://open.spotify.com/album/5maPxjWUciD1LfIdQG2G4E"
+      },
+      "artists": [
+        {
+          "name": "Mangesh Dhakde",
+          "url": "https://open.spotify.com/artist/4zdNcohSOQooKGsNaLAzjJ"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Shakeel Azmi",
+          "url": "https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301077,
+      "name": "Tu Chal (From \"The India Story\")",
+      "url": "https://open.spotify.com/track/5LKj9xMYNIewhd8XOIJkTE"
     },
     {
       "album": {

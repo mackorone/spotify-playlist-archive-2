@@ -1319,6 +1319,36 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/3w9e5o5f2WqSwQ7pEyIVEY"
+      },
+      "artists": [
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        },
+        {
+          "name": "Mar\u00e9va",
+          "url": "https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV"
+        },
+        {
+          "name": "Luke James Shaffer",
+          "url": "https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP"
+        },
+        {
+          "name": "Garnic",
+          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/72YjbcJ9gjTsUmOEOtVUrY"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D"
       },
@@ -2614,7 +2644,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 147000,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/60IMM6Pswld6W0DSc3seaQ"
@@ -2636,7 +2666,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 174358,
       "name": "Better With You Around",
       "url": "https://open.spotify.com/track/6wLWPDZT4jvsbTcnMYe2lE"
@@ -2830,7 +2860,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 160463,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/10R034epSKCQdHFaaxfFUW"
@@ -3474,6 +3504,28 @@
       "duration_ms": 159310,
       "name": "But Home",
       "url": "https://open.spotify.com/track/24ox7cafgWQksodMoZZKGY"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/44RvOoT6C7RalZYX9aHPxy"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9ne",
+          "url": "https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/2sKb6TTgeNNsvZ5b2c12iO"
     },
     {
       "album": {
@@ -4774,7 +4826,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 182169,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/2Yj6saJ5EcnzIsxQbkQX45"
@@ -5436,7 +5488,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 170249,
       "name": "Dancing In The Distance",
       "url": "https://open.spotify.com/track/7lwlgaQVTCbQL10jLIhLzA"
@@ -9907,6 +9959,24 @@
     },
     {
       "album": {
+        "name": "Golden Ticket (runaway)",
+        "url": "https://open.spotify.com/album/3PW6pJ9KoAiLyJUBu9ZueA"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Golden Ticket (runaway)",
+      "url": "https://open.spotify.com/track/0RZ5f33yE6l3L8RWIDvnyG"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/17vdzxxOgxkuBCqXC5pV7M"
       },
@@ -11380,7 +11450,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 151000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0UI1a7EoYVlyTFS6DmKZin"
@@ -13282,7 +13352,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 147600,
       "name": "In Love With You",
       "url": "https://open.spotify.com/track/63pYUvvOWBmCPv1mBxCU88"
@@ -17776,7 +17846,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 118205,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/1bPd9OinK4PlrVpo656wHG"
@@ -21744,7 +21814,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 128399,
       "name": "Reality",
       "url": "https://open.spotify.com/track/3azLyS7XX1iJyKFCj4A5V6"
@@ -22228,6 +22298,36 @@
       "duration_ms": 173898,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1xJWrQnsGxAHXOh4sfhdDF"
+    },
+    {
+      "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/29eIQzKnHcOAOj8K4HkQwZ"
+      },
+      "artists": [
+        {
+          "name": "Sunkisses",
+          "url": "https://open.spotify.com/artist/2mNp6bL3EZi26mUwlqNish"
+        },
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        },
+        {
+          "name": "No ExpressioN",
+          "url": "https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo"
+        },
+        {
+          "name": "Moody Violet",
+          "url": "https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/28TGjXbK96nxa1iLwbIouj"
     },
     {
       "album": {
@@ -25802,6 +25902,24 @@
       "duration_ms": 144827,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/0zMx4Tg8GAv7A9yvsoGFxy"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/2qWy7g7QcOYpGb57arJhid"
+      },
+      "artists": [
+        {
+          "name": "VIS",
+          "url": "https://open.spotify.com/artist/1Ntxpk3QGrN1J5eEOl4Ygg"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150243,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/1DxnGf4wQZG9Fe1J7bgSrH"
     },
     {
       "album": {

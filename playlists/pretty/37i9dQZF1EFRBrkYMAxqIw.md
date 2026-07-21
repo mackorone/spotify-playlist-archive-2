@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 146 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 146 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 77 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
 | 78 | [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 |
 | 79 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
-| 80 | [Run To You](https://open.spotify.com/track/5tpOJ3kwYtrIQAnkrk4aUp) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/7aJlBlKLS1saPojoTAGhST) | 2:59 |
-| 81 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
+| 80 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
+| 81 | [Run To You](https://open.spotify.com/track/5tpOJ3kwYtrIQAnkrk4aUp) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/7aJlBlKLS1saPojoTAGhST) | 2:59 |
 | 82 | [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 |
 | 83 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
 | 84 | [Concrete](https://open.spotify.com/track/2uYlI0bKR6m7kkjHLmEI76) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:19 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 145 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 146 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcXTpgAAAACk5Q1zppoquWNHXywdPUkJ`
+Snapshot ID: `AcXZCgAAAAB0gq1w0D4GrPqyffTVWXJD`

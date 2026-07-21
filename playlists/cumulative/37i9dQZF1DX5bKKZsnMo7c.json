@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Whitney Whitney",
+  "description": "Feeling dramatic? All eyes on you. Cover: PEGGY",
   "name": "Limelight",
   "tracks": [
     {
@@ -882,6 +882,24 @@
       "duration_ms": 213804,
       "name": "BAD LUCK!",
       "url": "https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP"
+    },
+    {
+      "album": {
+        "name": "Season 3",
+        "url": "https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49345,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A"
     },
     {
       "album": {
@@ -1939,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Caught In A Jam",
+        "url": "https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253250,
+      "name": "Caught In A Jam",
+      "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
+    },
+    {
+      "album": {
         "name": "Centralia",
         "url": "https://open.spotify.com/album/0ovV2Ev2jH4e5MuBgA0XBE"
       },
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 156030,
       "name": "Dolomites",
       "url": "https://open.spotify.com/track/6JRmBFYjeT7lmrM6asXkPx"
@@ -5465,6 +5501,32 @@
     },
     {
       "album": {
+        "name": "juliet",
+        "url": "https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        },
+        {
+          "name": "Emilio Piano",
+          "url": "https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187910,
+      "name": "juliet",
+      "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -7108,7 +7170,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 344302,
       "name": "Numbers 31:17-18",
       "url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
@@ -7202,6 +7264,24 @@
       "duration_ms": 285746,
       "name": "Ooh! Sumthin' New",
       "url": "https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU"
+    },
+    {
+      "album": {
+        "name": "ORPHEUS",
+        "url": "https://open.spotify.com/album/4VYOon2ocn14m34JHiKVd1"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "ORPHEUS",
+      "url": "https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 877842,
+  "num_followers": 877804,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 133615,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
         "name": "RIDDEM",
         "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 207428,
       "name": "RIDDEM",
       "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 133615,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
+        "name": "MONSOON",
+        "url": "https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT"
+      },
+      "artists": [
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "MONSOON",
+      "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
@@ -1343,24 +1359,8 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "MONSOON",
-        "url": "https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT"
-      },
-      "artists": [
-        {
-          "name": "FLY",
-          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "MONSOON",
-      "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
         "name": "LOOK",
         "url": "https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 159964,
       "name": "LOOK",
       "url": "https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 138857,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/4TxFxkekKZ0tBtcezdyeHB"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 251076,
       "name": "STAB UP (feat. Shakewell)",
       "url": "https://open.spotify.com/track/0kGpfbVDi9K8srRsJBeVla"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
-        "name": "Get Off The Internet",
-        "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
-      },
-      "artists": [
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "EGOTRIP",
-      "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "FLY",
-      "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
         "name": "WONKY",
         "url": "https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 172682,
       "name": "WONKY",
       "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "BACKSPIN",
-        "url": "https://open.spotify.com/album/0sv29XhXrVeHSgs7CFLNMa"
+        "name": "UH OH!",
+        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
       },
       "artists": [
         {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
         }
       ],
-      "duration_ms": 191831,
-      "name": "BACKSPIN",
-      "url": "https://open.spotify.com/track/00n0pSDChqnHu56HE0hDP9"
+      "duration_ms": 238344,
+      "name": "UH OH!",
+      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
     }
   ],
   "unique_name": "Trap Mojito",

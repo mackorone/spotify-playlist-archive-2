@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,818 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,944 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 21 | [Say You'll Be There](https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [LIVING ROOM 2](https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy) | 3:37 |
 | 22 | [The Moon Is Made of Gold](https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Balm in Gilead](https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e) | 3:00 |
 | 23 | [Sunny](https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:56 |
-| 24 | [The Sun Is Shining for Our Love](https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ) | [Jeff Cascaro](https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v) | [Mother and Brother](https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o) | 3:39 |
-| 25 | [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 |
-| 26 | [Some Kind Of Wonderful](https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws) | 3:32 |
-| 27 | [Morning Sun](https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man \(The Artist's Cut\)](https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR) | 5:05 |
+| 24 | [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 |
+| 25 | [The Sun Is Shining for Our Love](https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ) | [Jeff Cascaro](https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v) | [Mother and Brother](https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o) | 3:39 |
+| 26 | [Morning Sun](https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man \(The Artist's Cut\)](https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR) | 5:05 |
+| 27 | [Some Kind Of Wonderful](https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws) | 3:32 |
 | 28 | [Hit The Ground](https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9) | 3:30 |
 | 29 | [Jimmy Jazz](https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 2:30 |
 | 30 | [Here's to Life](https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG) | [Jacintha](https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2) | [Autumn Leaves \(The Songs of Johnny Mercer\)](https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU) | 4:47 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 51 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 |
 | 52 | [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 |
 | 53 | [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 |
-| 54 | [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 |
-| 55 | [Make You Feel My Love](https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reawakened](https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW) | 3:32 |
+| 54 | [Make You Feel My Love](https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reawakened](https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW) | 3:32 |
+| 55 | [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 |
 | 56 | [You Better Go Now](https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [You Better Go Now](https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU) | 2:50 |
 | 57 | [You Are My Sunshine](https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:34 |
 | 58 | [A Whiter Shade of Pale](https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [They Oughta Write a Song](https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i) | 4:43 |

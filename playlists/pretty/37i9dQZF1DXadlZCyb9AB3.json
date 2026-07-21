@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 212286,
+  "num_followers": 212324,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Wargasm",
+      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 93493,
       "name": "New Radio",
       "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Wargasm",
-      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Shadow (I'm Breaking Down)",
         "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "That's Not What I Heard",
-        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Where the Girls Are",
-      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 270360,
       "name": "No One's Little Girl",
       "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "That's Not What I Heard",
+        "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Where the Girls Are",
+      "url": "https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/3b9w0oFof58xtgknc3wMPW"
-      },
-      "artists": [
-        {
-          "name": "Mere Women",
-          "url": "https://open.spotify.com/artist/3VhrdhymJTzDnVEbXwkkJb"
-        }
-      ],
-      "duration_ms": 193378,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1Bu4dpaiLJBugBfI2yrmJ7"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/50H78cd7BSk6xi8iWR5j6X"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 165473,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/5LZmZSVTcDoGqhds6YJuBF"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3b9w0oFof58xtgknc3wMPW"
+      },
+      "artists": [
+        {
+          "name": "Mere Women",
+          "url": "https://open.spotify.com/artist/3VhrdhymJTzDnVEbXwkkJb"
+        }
+      ],
+      "duration_ms": 193378,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1Bu4dpaiLJBugBfI2yrmJ7"
     },
     {
       "added_at": "2024-10-07 20:36:39",

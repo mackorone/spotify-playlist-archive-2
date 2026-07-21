@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 51 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
 | 52 | [Mad Woman](https://open.spotify.com/track/5zMvjDWCoNtH3KJZZVYiHf) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Mad Woman](https://open.spotify.com/album/01XFfAn904bPwUQ8Hgt2fy) | 2:48 |
 | 53 | [I'll Be There](https://open.spotify.com/track/5RYyRqmxjNLGhnhFNTeHGe) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/3kdIhR8CnYyNhDpAuj5iJK) | 2:35 |
-| 54 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 |
-| 55 | [Håll käften](https://open.spotify.com/track/6YOtzSvqCW6DXX5NRrfMZi) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 2:42 |
+| 54 | [Håll käften](https://open.spotify.com/track/6YOtzSvqCW6DXX5NRrfMZi) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 2:42 |
+| 55 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 |
 | 56 | [What Are You Scared Of?](https://open.spotify.com/track/12YqybH8qHtBQPAsB8T6Z2) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 1:31 |
 | 57 | [Förlora mig](https://open.spotify.com/track/6jqfdx0A1KcpQ0jf88lxx3) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mellan hägg och syrén](https://open.spotify.com/album/5LnC7V6eorCnMISq9JAXbs) | 4:36 |
 | 58 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 118 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AcXTnAAAAADqarYucFK7EB4FXje+4l5u`
+Snapshot ID: `AcXZAAAAAAARlP0c38D8C6VO0O+fjGpF`

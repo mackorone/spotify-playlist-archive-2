@@ -1,15 +1,15 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 112701,
+  "num_followers": 112721,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G",
+  "snapshot_id": "AAAAAKqp/avGPN9JecizHZJTAl+aZfxQ",
   "tracks": [
     {
-      "added_at": "2026-05-29 05:29:44",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Secret Comes Out",
         "url": "https://open.spotify.com/album/1FIS1oNTz6WBXu2XdlTQ4J"
@@ -49,7 +49,35 @@
       "url": "https://open.spotify.com/track/0ehOUvtjmiTFKLpcvSJS7L"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
+      "album": {
+        "name": "Murder at the Gates",
+        "url": "https://open.spotify.com/album/71Bg4bIZMUKRJKc9pwKy8P"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Mason Alexander Park",
+          "url": "https://open.spotify.com/artist/3ny3FEBM4xX3JHKfHU4LKH"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        },
+        {
+          "name": "James Bourne",
+          "url": "https://open.spotify.com/artist/4b9X9koqzHEUbaG6dr0OJQ"
+        }
+      ],
+      "duration_ms": 154253,
+      "name": "A Fine Rigor Mortis",
+      "url": "https://open.spotify.com/track/1m8FcSZndXqi07hRSkMzpy"
+    },
+    {
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "What's The Buzz?",
         "url": "https://open.spotify.com/album/247w5vjEniD9Ta9sHdX1Rl"
@@ -69,7 +97,23 @@
       "url": "https://open.spotify.com/track/33M0bBbV0KZgncDTzqNDOy"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
+      "album": {
+        "name": "Songs from Monte Cristo",
+        "url": "https://open.spotify.com/album/5gmY17YOxImP1LH0DX01He"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess",
+          "url": "https://open.spotify.com/artist/6QB1J3JKvV9KXWu33g1r7W"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "How DId I Get So Far Away",
+      "url": "https://open.spotify.com/track/0BH87iCVaECbqGKFkv0gsO"
+    },
+    {
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Ernxst, Or The Importance Of Being (Studio Cast Recording)",
         "url": "https://open.spotify.com/album/3FEpJqPv1XIwZeqa9Cvmo1"
@@ -85,7 +129,7 @@
       "url": "https://open.spotify.com/track/7cZDJhLUBhk9lmsM9B7tcA"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Caesar: The Musical",
         "url": "https://open.spotify.com/album/3LGYdH5aIFGHTZWMIcRyvb"
@@ -109,31 +153,35 @@
       "url": "https://open.spotify.com/track/55RChJIHT7r3K7ZBlPvvqf"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
-        "name": "Fuckin' Scream",
-        "url": "https://open.spotify.com/album/2DJ6M3L16QyZZzHBTMZoLr"
+        "name": "The Jack of Hearts Club (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/02uBhwW4i1Qe9o2sIZerqI"
       },
       "artists": [
         {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+          "name": "Jon Richardson",
+          "url": "https://open.spotify.com/artist/4o5bVNALB0hrPAMDSCnISw"
         },
         {
-          "name": "James Bourne",
-          "url": "https://open.spotify.com/artist/4b9X9koqzHEUbaG6dr0OJQ"
+          "name": "Marissa Miller",
+          "url": "https://open.spotify.com/artist/4fOrB1JMzTI0hZwggCATgK"
         },
         {
-          "name": "Gaten Matarazzo",
-          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+          "name": "Brittany Rolfs",
+          "url": "https://open.spotify.com/artist/4DGwaHGkhLO4Tzx6uBiQcu"
+        },
+        {
+          "name": "The Jack of Hearts Club Company",
+          "url": "https://open.spotify.com/artist/1fcPayTqe3twAmPxiv1HmM"
         }
       ],
-      "duration_ms": 130774,
-      "name": "Fuckin' Scream",
-      "url": "https://open.spotify.com/track/15yhLoLn3YlXJ7rdsSFPwF"
+      "duration_ms": 163158,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7odxZrwryL60oRELZVS2wd"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Liberal Love (from Good Guy with a Gun!)",
         "url": "https://open.spotify.com/album/0H7XlmDom8gTTwLQcSA4ye"
@@ -153,7 +201,47 @@
       "url": "https://open.spotify.com/track/74FcG3EYfa5qu2xtIhfmvz"
     },
     {
-      "added_at": "2026-06-22 23:07:16",
+      "added_at": "2026-07-20 14:30:57",
+      "album": {
+        "name": "Been Awhile",
+        "url": "https://open.spotify.com/album/38jPJLJIDQCju0svnwsAkG"
+      },
+      "artists": [
+        {
+          "name": "Original \u201cLike Father: The Bloody Good EP\u201d Cast",
+          "url": "https://open.spotify.com/artist/622Hi5tyhWijVybHbxw9GD"
+        },
+        {
+          "name": "Jacob Ryan Smith",
+          "url": "https://open.spotify.com/artist/1qBnjQHcARZz76ctw9kleB"
+        },
+        {
+          "name": "Caroline Pernick",
+          "url": "https://open.spotify.com/artist/0jTTuc8A3W3Cg6EIlq20hh"
+        },
+        {
+          "name": "Keaton Whittaker",
+          "url": "https://open.spotify.com/artist/2zS3OrIcUZqrMWWTqusXDD"
+        },
+        {
+          "name": "Eleri Ward",
+          "url": "https://open.spotify.com/artist/2tDDozfRiM8hb85ptdVKUt"
+        },
+        {
+          "name": "James Monroe Iglehart",
+          "url": "https://open.spotify.com/artist/11Rx4XYSI83B1cBsuNBmYM"
+        },
+        {
+          "name": "Ramin Karimloo",
+          "url": "https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP"
+        }
+      ],
+      "duration_ms": 299049,
+      "name": "Been Awhile",
+      "url": "https://open.spotify.com/track/1W6drVcdKPSKgOM6DKOE1t"
+    },
+    {
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Penelope (from \"Penelope: Live at Joe's Pub\")",
         "url": "https://open.spotify.com/album/48LRHZG7C6Y2bvhOWd68Sr"
@@ -177,27 +265,31 @@
       "url": "https://open.spotify.com/track/7tEX2QZ05KwU0aEGU3LPYH"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
-        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+        "name": "Fuckin' Scream",
+        "url": "https://open.spotify.com/album/2DJ6M3L16QyZZzHBTMZoLr"
       },
       "artists": [
         {
-          "name": "Lea Michele",
-          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
         },
         {
-          "name": "CHESS 2025 Broadway Company",
-          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+          "name": "James Bourne",
+          "url": "https://open.spotify.com/artist/4b9X9koqzHEUbaG6dr0OJQ"
+        },
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
         }
       ],
-      "duration_ms": 208095,
-      "name": "Nobody's Side",
-      "url": "https://open.spotify.com/track/5UJM25CcSmA092F16PlFxp"
+      "duration_ms": 130774,
+      "name": "Fuckin' Scream",
+      "url": "https://open.spotify.com/track/15yhLoLn3YlXJ7rdsSFPwF"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Paddington The Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy"
@@ -221,7 +313,7 @@
       "url": "https://open.spotify.com/track/5POzg2k4cmzaxfUhaJ7PRE"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "The Last Five Years (25th Anniversary Live at the London Palladium)",
         "url": "https://open.spotify.com/album/4Ya7fUjY2UmqhCrSnwavm8"
@@ -237,7 +329,7 @@
       "url": "https://open.spotify.com/track/3Dq3ovvhFjc352Phv1j99t"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Two Strangers (Carry A Cake Across New York) [Original Broadway Cast Recording]",
         "url": "https://open.spotify.com/album/2VCk6ZJ6r08eBszCToxbxO"
@@ -261,7 +353,7 @@
       "url": "https://open.spotify.com/track/2TxozelS2QOxZUKNFwCdIn"
     },
     {
-      "added_at": "2026-06-12 04:00:35",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Keep on Walking, Mr. Fry",
         "url": "https://open.spotify.com/album/1adqPTLKl5IAHQznVFoig1"
@@ -277,7 +369,7 @@
       "url": "https://open.spotify.com/track/0GvtJhJlZuuHhAlJmk1Jgw"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "CHESS the Musical (2025 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
@@ -293,7 +385,7 @@
       "url": "https://open.spotify.com/track/5SeRxFU1l2JhOxPWRG2wAW"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Something To Shout About",
         "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
@@ -317,7 +409,7 @@
       "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Next To Normal (Original London Cast Recording)",
         "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
@@ -333,7 +425,7 @@
       "url": "https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Pirates! The Penzance Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5YzCqgIfgJs9dvyPmefenA"
@@ -353,7 +445,7 @@
       "url": "https://open.spotify.com/track/5gyUct7wk9c3v0qjkuIlrK"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Caviar Dreams (from \"The Queen of Versailles - Original Broadway Cast Recording\")",
         "url": "https://open.spotify.com/album/3Cu5mrfqp1vZg9x8VTRWmF"
@@ -373,7 +465,7 @@
       "url": "https://open.spotify.com/track/4Z3nq1IfaUF9NQ5dzN4sus"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Paddington The Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy"
@@ -397,7 +489,7 @@
       "url": "https://open.spotify.com/track/3AQ1T7Mals0sazdkTDgBpE"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "The Devil Wears Prada: A New Musical",
         "url": "https://open.spotify.com/album/4wVOH8PfZ1PCYsGqyVjOYM"
@@ -433,7 +525,7 @@
       "url": "https://open.spotify.com/track/2Ch8dkdQmoc2A4PlatC8Le"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "The Last Five Years (25th Anniversary Live at the London Palladium)",
         "url": "https://open.spotify.com/album/4Ya7fUjY2UmqhCrSnwavm8"
@@ -453,7 +545,7 @@
       "url": "https://open.spotify.com/track/4v5AC9QbYbgYeMDPSYlZlz"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1"
@@ -469,7 +561,7 @@
       "url": "https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0KKuGKaHvSPtYYUXHq2YNN"
@@ -501,7 +593,7 @@
       "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "The Pantomime (Live)",
         "url": "https://open.spotify.com/album/64JbvcaNOhClr9LeiqKUfS"
@@ -537,7 +629,7 @@
       "url": "https://open.spotify.com/track/7DGXvp8bQzG2chQqRx5d3t"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Miranda Girl",
         "url": "https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7"
@@ -557,7 +649,7 @@
       "url": "https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Buena Vista Social Club (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4hhestx62URk30bHlDHrOp"
@@ -589,7 +681,7 @@
       "url": "https://open.spotify.com/track/5BquOusMamGg7QoUhvpKLd"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "This Could Be The Start Of Something Big",
         "url": "https://open.spotify.com/album/75nOdlCjTfWcMwaqPyz3qo"
@@ -621,7 +713,7 @@
       "url": "https://open.spotify.com/track/303nIQSkkcgcMrUUWbhOWL"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/754yLT3vjFS3aXnmm7fMh6"
@@ -637,35 +729,7 @@
       "url": "https://open.spotify.com/track/3vqO1I1h0IFbrI2HVUJWYp"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "SMASH (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2x60w553yPI3eafK51BgsH"
-      },
-      "artists": [
-        {
-          "name": "Caroline Bowman",
-          "url": "https://open.spotify.com/artist/0gu3llwN4eXvpqpy8Z4REK"
-        },
-        {
-          "name": "Robyn Hurder",
-          "url": "https://open.spotify.com/artist/1saEviAIhddEAjIOvZEeDi"
-        },
-        {
-          "name": "Brooks Ashmanskas",
-          "url": "https://open.spotify.com/artist/78jrMIbX0AQ9frBm04lKt4"
-        },
-        {
-          "name": "\u2018SMASH\u2019 Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/0lIS6nH9VDtHlsLHn1STyM"
-        }
-      ],
-      "duration_ms": 205059,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/3T8Im78k7i7fg148A2V759"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Dead Outlaw (Original Broadway Cast Recording) [Part 1]",
         "url": "https://open.spotify.com/album/5TrxLMMsOgy6civ2TNTUI0"
@@ -689,7 +753,7 @@
       "url": "https://open.spotify.com/track/6kLDNaxlldKxaJnGgDE5If"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "My Generation (From \"Just For One Day - The Live Aid Musical\")",
         "url": "https://open.spotify.com/album/7HONyghLMIla5wCjC8dgIe"
@@ -709,7 +773,7 @@
       "url": "https://open.spotify.com/track/2gCG5sYdP6oTTjJpe2EJVO"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "In the Leaves",
         "url": "https://open.spotify.com/album/2ZZysVfn8CW27dXqO3jAEL"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/6dvLYjhqprthcB6b4v3WyO"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "She Knocks Me Out",
         "url": "https://open.spotify.com/album/6gcJAl6HZ3fzN7MXCxlBv3"
@@ -753,7 +817,7 @@
       "url": "https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
@@ -769,7 +833,7 @@
       "url": "https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1yPicjQltK5h3RmfZ116Bp"
@@ -801,7 +865,7 @@
       "url": "https://open.spotify.com/track/3IQsP9pkvP7OI1VZEqJ3vQ"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Death Becomes Her (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5nUimQrGD2Ay1FgVUGJDnm"
@@ -821,7 +885,7 @@
       "url": "https://open.spotify.com/track/5m49YE9s4PwgiQeOWuJx7w"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Catch a Shooting Star",
         "url": "https://open.spotify.com/album/6cYXwrnoTCj8Q8coDmMK9M"
@@ -841,7 +905,7 @@
       "url": "https://open.spotify.com/track/45fmBuitHcVjfyZEoiSumO"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Little Redwood",
         "url": "https://open.spotify.com/album/79t4T1NSSlyCBlLmW7WWey"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/6yer9QS19iA47TCMbd0hBZ"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Ta-Da!",
         "url": "https://open.spotify.com/album/17QDhjdX3deaiHzWtfGgVh"
@@ -885,31 +949,7 @@
       "url": "https://open.spotify.com/track/76hbMjjyPowtCZ3UwNUMvm"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Boop! The Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3MbP9MhBn2U54WYFxKFTEn"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Amy Rogers",
-          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
-        },
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Original Broadway Cast of Boop! The Musical",
-          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
-        }
-      ],
-      "duration_ms": 286786,
-      "name": "A Little Versatility",
-      "url": "https://open.spotify.com/track/0i4QVqqtB2mnisaPLYztbh"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Together, Wherever We Go",
         "url": "https://open.spotify.com/album/33ZlpPLNoqsMbMMltr3VaU"
@@ -937,7 +977,7 @@
       "url": "https://open.spotify.com/track/4F8bLCBX09gQ4gJ0QwCVYw"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Boom Boom (feat. Michael Thurber & Austin Scott) [from Goddess: The Musical (Nights In Mombasa)]",
         "url": "https://open.spotify.com/album/2IY8qlmbXIR2Wp7DRhroMt"
@@ -961,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0fkOTH4394hlNxrgOG9mKg"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Why Am I So Single? (Original London Cast Recording)",
         "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
@@ -989,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6VVnMWw1CRwpBbl2fv6P5o"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
@@ -1017,23 +1057,7 @@
       "url": "https://open.spotify.com/track/5up1bRxoRSpLSR1OPHPafO"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "I Don't Care Much",
-        "url": "https://open.spotify.com/album/7JM5QN0Q7W1FJii9r1vPga"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "I Don't Care Much",
-      "url": "https://open.spotify.com/track/6turEB7sq2UqiB3D1nLwyx"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
@@ -1049,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3erRbtsj9KJrSUcQZ4ZRG0"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Everything You Long For (Is In New Jersey)",
         "url": "https://open.spotify.com/album/2mlDCrC6Bzsjz19R22TxGr"
@@ -1073,7 +1097,7 @@
       "url": "https://open.spotify.com/track/18qIH3TEyw3597CeV0uFmY"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Why Am I So Single? (Original London Cast Recording)",
         "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
@@ -1097,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0MZGMlpQiV2sMaQ9stJf7w"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Man Of The House",
         "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
@@ -1113,7 +1137,7 @@
       "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Starlight Express",
         "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
@@ -1137,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl"
     },
     {
-      "added_at": "2026-05-04 01:43:59",
+      "added_at": "2026-07-20 14:30:57",
       "album": {
         "name": "Playing With Fire (World Premiere Recording)",
         "url": "https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY"

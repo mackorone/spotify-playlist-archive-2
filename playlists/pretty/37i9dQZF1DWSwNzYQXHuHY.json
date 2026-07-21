@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12761,
+  "num_followers": 12764,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 173732,
-      "name": "Still In Time",
-      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Wanna Love You",
         "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 220472,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
       "added_at": "2026-07-03 07:31:26",

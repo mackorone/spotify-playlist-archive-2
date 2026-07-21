@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 132 | [Never Let You Down](https://open.spotify.com/track/3BWLsSYZKEkUSpeJq7CkhF) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:54 |
 | 133 | [Come Back To Me](https://open.spotify.com/track/6ZYmNdZdNoOKuFt8jrzwuh) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:06 |
 | 134 | [Venus & Mars](https://open.spotify.com/track/4AOFs0CEAYUK4FbGAxVwic) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hallo Monaco](https://open.spotify.com/album/3SVxcnywXfBRGwt1uyWrcu) | 3:47 |
-| 135 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 |
-| 136 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 135 | [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 136 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 |
 | 137 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
 | 138 | [Heiser vor Glück](https://open.spotify.com/track/0hbAHOsuIjCnosCRmxLWP3) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5BTIoEov1qCJiCtjQmm9id) | 3:34 |
 | 139 | [Kopfsache](https://open.spotify.com/track/6hvyb2fpuk8SOtIEs022wm) | [LiZZA](https://open.spotify.com/artist/7wiUyQkeFf7MvAEGpF7wzR) | [Kopfsache](https://open.spotify.com/album/2tkPSTwRNIA2X8FSZkCAq9) | 3:37 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcXTpgAAAADGIY5MGFo7B+qBl0uYEnrE`
+Snapshot ID: `AcXZCgAAAADcvaAp7AXp582bg3xQmcl1`

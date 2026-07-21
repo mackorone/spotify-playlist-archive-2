@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 145048,
+  "num_followers": 145052,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
+        "url": "https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Jerusalema (feat. Nomcebo Zikode) - Edit",
+      "url": "https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 194232,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
-        "url": "https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z"
-      },
-      "artists": [
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Jerusalema (feat. Nomcebo Zikode) - Edit",
-      "url": "https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok"
     },
     {
       "added_at": "2024-07-24 13:57:08",

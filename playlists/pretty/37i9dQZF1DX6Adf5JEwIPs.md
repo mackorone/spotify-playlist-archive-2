@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Primos del Este 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,839 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,867 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 42 | [Pórtese Bien](https://open.spotify.com/track/0dYiIrWTXYExf6ncjaZM0M) | [Grupo MM](https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY) | [Pórtese Bien](https://open.spotify.com/album/5SXvY0sfeqPEBNfuhI2pxi) | 2:45 |
 | 43 | [El Corrido De Lamberto \- En Vivo](https://open.spotify.com/track/2SRD3NIIR6BvGuwhdRZ5zD) | [Grupo 3 Mandos](https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS), [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [El Corrido De Lamberto \(En Vivo\)](https://open.spotify.com/album/3SCWhStO7yyBZpAzrd7JEA) | 2:38 |
 | 44 | [Fineline Performance \(FLP\)](https://open.spotify.com/track/3KR7wAc37gk7a8LjWQFupI) | [LA DIFERENCIA](https://open.spotify.com/artist/56Bgv8NobSf7vr83bUsPWV) | [Fineline Performance \(FLP\)](https://open.spotify.com/album/5HMBruTqUOkvURPEowoeyO) | 2:48 |
-| 45 | [1212](https://open.spotify.com/track/1H1Ic6mNv5FLlm35jvDZTw) | [Martin Marquez](https://open.spotify.com/artist/4vDFthUo2UHQMdcyyhD3zx), [Diego Castro](https://open.spotify.com/artist/56maph4FysjDh7yQDdNlkS) | [1212](https://open.spotify.com/album/4ldO4qc9nITZCGKEgCYOWy) | 3:03 |
+| 45 | [1212](https://open.spotify.com/track/1H1Ic6mNv5FLlm35jvDZTw) | [Martin Marquez](https://open.spotify.com/artist/4vDFthUo2UHQMdcyyhD3zx), [Diego castro](https://open.spotify.com/artist/1aFXXJQJeAe1THVC4hKpXF) | [1212](https://open.spotify.com/album/4ldO4qc9nITZCGKEgCYOWy) | 3:03 |
 | 46 | [Casi Nada](https://open.spotify.com/track/1E3GCTGLLtpQv2B8p3n081) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Casi Nada](https://open.spotify.com/album/1CpXyNyxdQpzYYI0002Vp0) | 3:01 |
 | 47 | [Luto en el Cielo](https://open.spotify.com/track/291qIx63th1Syx0is5JcjL) | [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Luto en el Cielo](https://open.spotify.com/album/06Bf6B894EamabSuLX7TvQ) | 2:37 |
 | 48 | [INSOMNIA](https://open.spotify.com/track/4zmnHy0b4HKHAskA5Jj1iH) | [Abelito Balderas](https://open.spotify.com/artist/2ZmYth32TwySIdYRmmeCRH) | [INSOMNIA](https://open.spotify.com/album/70EdmY7dXfzQRTKt3DbLtR) | 3:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 117188,
+  "num_followers": 117263,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -162,6 +162,10 @@
         {
           "name": "Salwa El Katrib",
           "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        },
+        {
+          "name": "Romeo Lahoud",
+          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
         }
       ],
       "duration_ms": 254640,
@@ -242,6 +246,10 @@
         {
           "name": "Mohamed Jamal",
           "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
+        },
+        {
+          "name": "Michel Tohme",
+          "url": "https://open.spotify.com/artist/2gtAW56RYK5D8WsCW0dneG"
         }
       ],
       "duration_ms": 272253,
@@ -363,18 +371,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Aghany Film Mamnoa El Hob Pt.1",
-        "url": "https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp"
+        "name": "Set El Habayeb",
+        "url": "https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP"
       },
       "artists": [
         {
-          "name": "Mohammed Abdel Wahab",
-          "url": "https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG"
+          "name": "Fayza Ahmed",
+          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
         }
       ],
-      "duration_ms": 448962,
-      "name": "Ya Mesafer Wahdak",
-      "url": "https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze"
+      "duration_ms": 383700,
+      "name": "Set El Habayib",
+      "url": "https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -395,18 +403,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Set El Habayeb",
-        "url": "https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP"
+        "name": "Aghany Film Mamnoa El Hob Pt.1",
+        "url": "https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp"
       },
       "artists": [
         {
-          "name": "Fayza Ahmed",
-          "url": "https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG"
+          "name": "Mohammed Abdel Wahab",
+          "url": "https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG"
         }
       ],
-      "duration_ms": 383700,
-      "name": "Set El Habayib",
-      "url": "https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R"
+      "duration_ms": 448962,
+      "name": "Ya Mesafer Wahdak",
+      "url": "https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -450,6 +458,10 @@
         {
           "name": "Pascale Sakr",
           "url": "https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B"
+        },
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
         }
       ],
       "duration_ms": 392840,
@@ -563,22 +575,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "In the Country Bid'dayaa",
-        "url": "https://open.spotify.com/album/1ipepXXHzY5fO9pnuOCxuO"
-      },
-      "artists": [
-        {
-          "name": "Toni Hanna",
-          "url": "https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Al Dalouna",
-      "url": "https://open.spotify.com/track/4taU34sUdcaY8GRJNabiQq"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
@@ -591,6 +587,26 @@
       "duration_ms": 376386,
       "name": "Wahashtini",
       "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "In the Country Bid'dayaa",
+        "url": "https://open.spotify.com/album/1ipepXXHzY5fO9pnuOCxuO"
+      },
+      "artists": [
+        {
+          "name": "Toni Hanna",
+          "url": "https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q"
+        },
+        {
+          "name": "Rafic Hobeika",
+          "url": "https://open.spotify.com/artist/7qD0NDD3F24pzeNLmYSo81"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Al Dalouna",
+      "url": "https://open.spotify.com/track/4taU34sUdcaY8GRJNabiQq"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -634,27 +650,19 @@
         {
           "name": "Rabih El Khawli",
           "url": "https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV"
+        },
+        {
+          "name": "Shafic El Moghrabi",
+          "url": "https://open.spotify.com/artist/6VDnmNkQJL115BejVxmOiX"
+        },
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
         }
       ],
       "duration_ms": 308226,
       "name": "Nwina Al Jazi Nwina",
       "url": "https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Samir Hanna Sings Elias Rahbani, Vol. 1",
-        "url": "https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq"
-      },
-      "artists": [
-        {
-          "name": "Samir Hanna",
-          "url": "https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Ma Zal Bhob Rbina",
-      "url": "https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -671,6 +679,26 @@
       "duration_ms": 449226,
       "name": "Ibaati Gawab",
       "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Samir Hanna Sings Elias Rahbani, Vol. 1",
+        "url": "https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq"
+      },
+      "artists": [
+        {
+          "name": "Samir Hanna",
+          "url": "https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW"
+        },
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Ma Zal Bhob Rbina",
+      "url": "https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -714,27 +742,19 @@
         {
           "name": "Rabih El Khawli",
           "url": "https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV"
+        },
+        {
+          "name": "Sami El Mallah",
+          "url": "https://open.spotify.com/artist/3N12ATcXTIJlxPy97k0lgP"
+        },
+        {
+          "name": "Nour El Mallah",
+          "url": "https://open.spotify.com/artist/5qxorz4IaiQ3zzLAvNZWs3"
         }
       ],
       "duration_ms": 415040,
       "name": "Ya Ahl El Hawa",
       "url": "https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Agmal Aghany Laila Mourad",
-        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
-      },
-      "artists": [
-        {
-          "name": "Laila Mourad",
-          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
-        }
-      ],
-      "duration_ms": 332291,
-      "name": "Ana Alby Daleely",
-      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -751,6 +771,22 @@
       "duration_ms": 389773,
       "name": "Al-Hobbi Koullou",
       "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Agmal Aghany Laila Mourad",
+        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
+      },
+      "artists": [
+        {
+          "name": "Laila Mourad",
+          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
+        }
+      ],
+      "duration_ms": 332291,
+      "name": "Ana Alby Daleely",
+      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -778,6 +814,10 @@
         {
           "name": "Azar Habib",
           "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        },
+        {
+          "name": "Elias Naser",
+          "url": "https://open.spotify.com/artist/561DiR7jvCZPfVL3rVaAMx"
         }
       ],
       "duration_ms": 250466,
@@ -794,6 +834,14 @@
         {
           "name": "Alain Merheb",
           "url": "https://open.spotify.com/artist/5E5MDX191b6nQbOpwA3k8I"
+        },
+        {
+          "name": "Boutros Nasrallah",
+          "url": "https://open.spotify.com/artist/7HtC5YxMSK0cKRPRC8X1Jk"
+        },
+        {
+          "name": "Folklore",
+          "url": "https://open.spotify.com/artist/5ZKwyrw4LcRI7FI0Wuqw0G"
         }
       ],
       "duration_ms": 424840,
@@ -862,6 +910,10 @@
         {
           "name": "Azar Habib",
           "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        },
+        {
+          "name": "Elias Naser",
+          "url": "https://open.spotify.com/artist/561DiR7jvCZPfVL3rVaAMx"
         }
       ],
       "duration_ms": 451093,
@@ -878,6 +930,10 @@
         {
           "name": "Mohamed Jamal",
           "url": "https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug"
+        },
+        {
+          "name": "George Khalil",
+          "url": "https://open.spotify.com/artist/7kUOSoXAq1Fi88R6TUotZ1"
         }
       ],
       "duration_ms": 265200,
@@ -935,22 +991,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Samir Hanna Sings Elias Rahbani, Vol. 2",
-        "url": "https://open.spotify.com/album/1jWBZVLtrIMaB81Q1s3SSs"
-      },
-      "artists": [
-        {
-          "name": "Samir Hanna",
-          "url": "https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Men Douwara La Douwara",
-      "url": "https://open.spotify.com/track/1MRDz5Z3xTpq10yZL1dgVy"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -963,6 +1003,26 @@
       "duration_ms": 666840,
       "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
       "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Samir Hanna Sings Elias Rahbani, Vol. 2",
+        "url": "https://open.spotify.com/album/1jWBZVLtrIMaB81Q1s3SSs"
+      },
+      "artists": [
+        {
+          "name": "Samir Hanna",
+          "url": "https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW"
+        },
+        {
+          "name": "Maroun Rouhana",
+          "url": "https://open.spotify.com/artist/7vqOBVdr91yypKycJONhvh"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Men Douwara La Douwara",
+      "url": "https://open.spotify.com/track/1MRDz5Z3xTpq10yZL1dgVy"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1006,6 +1066,10 @@
         {
           "name": "Salwa El Katrib",
           "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        },
+        {
+          "name": "Romeo Lahoud",
+          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
         }
       ],
       "duration_ms": 187026,
@@ -1022,6 +1086,10 @@
         {
           "name": "Azar Habib",
           "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        },
+        {
+          "name": "Youness Al Eben",
+          "url": "https://open.spotify.com/artist/7B998bAW7QS8Oij1onMYLe"
         }
       ],
       "duration_ms": 329280,

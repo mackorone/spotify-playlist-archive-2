@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,567 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,669 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 57 | [Crazy People 2026](https://open.spotify.com/track/4yqOK3jja63u5BRT2tRBWb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS) | [Crazy People 2026](https://open.spotify.com/album/1B8Vuct1eCGz5UWP7FlLIW) | 3:03 |
 | 58 | [Mouth Go LaLa](https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Mouth Go LaLa](https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI) | 2:41 |
 | 59 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
-| 60 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
-| 61 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
+| 60 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
+| 61 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
 | 62 | [My Favourite Regrets](https://open.spotify.com/track/2o77A89Br1dHoz6O2bCvL4) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [MOVEMENT:X EP](https://open.spotify.com/album/77AA7tGtxYu52V0IZXqNdE) | 2:38 |
 | 63 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
 | 64 | [Euphoria](https://open.spotify.com/track/3dL80LEvdLfZllIKdCeGFN) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Nasha](https://open.spotify.com/artist/4rjMrD55Od3MSYRyl3xt6n) | [Euphoria](https://open.spotify.com/album/0QJZAHxcKEhpQPkBgiCwX4) | 3:58 |

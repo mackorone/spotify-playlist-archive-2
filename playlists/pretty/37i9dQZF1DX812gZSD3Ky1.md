@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: PP KRIT, NEX OF BUS, ONGLEE PROXIE, GELBOYS \(OST.GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,912 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,911 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

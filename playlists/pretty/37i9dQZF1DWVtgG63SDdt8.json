@@ -1,6 +1,6 @@
 {
   "description": "This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres!  Cover: Tenroc",
-  "num_followers": 372454,
+  "num_followers": 372445,
   "original_name": "All New Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -571,17 +571,21 @@
     {
       "added_at": "2026-07-17 04:01:57",
       "album": {
-        "name": "Encounter",
+        "name": "Encounter (Live)",
         "url": "https://open.spotify.com/album/2iFVvhB146gnRYkjT923qM"
       },
       "artists": [
         {
           "name": "Grace City",
           "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
         }
       ],
       "duration_ms": 363186,
-      "name": "Encounter",
+      "name": "Encounter - Live",
       "url": "https://open.spotify.com/track/5JistWe8zGFV8wOvGjrvIa"
     },
     {

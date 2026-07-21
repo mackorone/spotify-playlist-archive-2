@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lido Pimienta
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,819 likes - 98 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,820 likes - 98 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

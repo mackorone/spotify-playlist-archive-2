@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,775 songs - 3 day 14 hr 19 min
+1,780 songs - 3 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Moment](https://open.spotify.com/track/0OAe3X4UFaUJoThyNE88Ah) | [Baimine](https://open.spotify.com/artist/44h6Gl9hvuL0OUFdxYhmU2) | [A Moment](https://open.spotify.com/album/3f5viWsZmXNgKUUVayDeN6) | 2:10 | 2022-03-15 | 2024-02-08 |
 | [A Moment](https://open.spotify.com/track/5rwq3bHJ2MeqeMrOzRkhFM) | [Ólfur](https://open.spotify.com/artist/6WCfCK4VbJnH7w6IBF156P) | [A Moment](https://open.spotify.com/album/1BtAYI88SZeTBHFjD1A8OO) | 2:35 | 2022-10-21 | 2024-02-08 |
 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 | 2024-02-08 |
+| [A New Chapter](https://open.spotify.com/track/50TRIzlxl5jOCIU0WEBe8c) | [Syfjaður](https://open.spotify.com/artist/5kdOHIeSUebjZdlYo7rZb0) | [A New Chapter](https://open.spotify.com/album/4QNYmFvBy4PGUTCSsJOXtZ) | 2:57 | 2026-07-20 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2020-10-20\* | 2021-03-14 |
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-05-04 | 2022-08-16 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-15 | 2024-02-08 |
@@ -59,6 +60,7 @@
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-18 | 2025-01-15 |
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2022-01-28 | 2023-06-10 |
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-04 | 2023-06-03 |
+| [Afloat](https://open.spotify.com/track/1jHqAElpdlcpGLOhyNVCgf) | [Mirrorglow](https://open.spotify.com/artist/507UiOOEkCIu1aaRO0osOB) | [Afloat](https://open.spotify.com/album/6Gv2RPnJuVjktz9qnAg114) | 2:32 | 2026-07-20 |  |
 | [After Dusk](https://open.spotify.com/track/5jlj0qkXgcRieANDFvg0mw) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ) | [After Dusk](https://open.spotify.com/album/6BZuHMDtHuMmAhRReJ7wTf) | 2:04 | 2021-03-14 | 2022-03-25 |
 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 | 2025-04-09 |  |
 | [Afterthought](https://open.spotify.com/track/3E2dsbt4QWyHsgLgWktE4z) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Afterthought](https://open.spotify.com/album/2zguEFgXd8mk0nFYoay25R) | 2:34 | 2025-10-07 |  |
@@ -666,6 +668,7 @@
 | [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2021-08-17 | 2023-02-10 |
 | [Gateway](https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Gateway](https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl) | 2:51 | 2024-01-17 | 2024-05-05 |
 | [Genle Communication](https://open.spotify.com/track/2iK90DtVc0kA9U2oklh73C) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Genle Communication](https://open.spotify.com/album/3C8W5gutTYiZTdXvsB84TN) | 2:30 | 2025-12-17 |  |
+| [Gentle Air](https://open.spotify.com/track/6c0HYnt1CQmoK29ubDi8Zv) | [August Cole](https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O) | [Gentle Air](https://open.spotify.com/album/5lLmThQWFLEqQl5LVLDnez) | 2:28 | 2026-07-20 |  |
 | [Gentle Air](https://open.spotify.com/track/3n8DZSXOzfr8PtQ1jHT7pp) | [Zonovia](https://open.spotify.com/artist/1vVOSYYOb8CpXiZ0nFEFvc) | [Gentle Air](https://open.spotify.com/album/10ck14X7IsaU50Z2qDvu9c) | 2:32 | 2026-02-27 |  |
 | [Gentle Climb](https://open.spotify.com/track/4RjeUqphmFXSr7gG3IWwaG) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Climb](https://open.spotify.com/album/0GVvceBCnVEvxM8EZl7DbR) | 2:33 | 2024-01-17 | 2024-05-05 |
 | [Gentle Eclipse](https://open.spotify.com/track/49W8j7bgx9fOSBZEdnYFHP) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Gentle Eclipse](https://open.spotify.com/album/7GngdrkCPVNlmgrXdVhweO) | 2:24 | 2025-02-04 | 2026-01-28 |
@@ -1149,6 +1152,7 @@
 | [Path](https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY) | [Zeejo Report](https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h) | [Path](https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53) | 2:47 | 2024-01-17 | 2024-02-08 |
 | [Path to Rest](https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO) | [Plasma Nomad](https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb) | [Path to Rest](https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr) | 3:03 | 2024-05-20 | 2025-09-11 |
 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 | 2020-10-20\* | 2021-06-16 |
+| [Pathways](https://open.spotify.com/track/4H6WAd9rENg9DterNXour9) | [Atmosfeel](https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy) | [Pathways](https://open.spotify.com/album/2Q9qMT1QwuculwUuATyxfM) | 2:53 | 2026-07-20 |  |
 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 | 2024-03-06 | 2024-04-06 |
 | [Patterns](https://open.spotify.com/track/3bF0QR3cIkE5bSXPuLYnuL) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Patterns](https://open.spotify.com/album/2EZsiUDSdF1LR8Cr7EMsgN) | 3:03 | 2023-10-10 | 2024-03-21 |
 | [Pause](https://open.spotify.com/track/2IrOsuqSttz8KBastkZCzy) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Pause](https://open.spotify.com/album/5BXX9xYJVjUczw1gsM51Yx) | 2:43 | 2021-07-07 | 2023-06-03 |
@@ -1245,6 +1249,7 @@
 | [Reflections](https://open.spotify.com/track/0WMxqTBStEzYizr2V3Z35z) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Reflections](https://open.spotify.com/album/7CBdIfVzECewERr8nvYolp) | 3:17 | 2025-02-04 |  |
 | [Reflections](https://open.spotify.com/track/2gKnV835oRUC5XXtzRSUEl) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Continuum](https://open.spotify.com/album/1HRBd6bU9JxHmzGOHX2HJn) | 3:09 | 2020-10-20\* | 2021-05-04 |
 | [Reflective moments](https://open.spotify.com/track/4cmuVNLXezTGcr03kewBP1) | [Graphite Sounds](https://open.spotify.com/artist/2rBTSkY7hIHfya4L45hFS1) | [Reflective moments](https://open.spotify.com/album/5Rdv5powZMQVSLB6Lc1uui) | 3:10 | 2024-01-17 | 2024-07-23 |
+| [Regimens](https://open.spotify.com/track/66fjqZtyckhhkZaRsBibgl) | [Solenotte](https://open.spotify.com/artist/2vOGSidPf3VvxFRpgXQILQ) | [Regimens](https://open.spotify.com/album/4BitA8pMsmBOTABu0RhUU2) | 2:46 | 2026-07-20 |  |
 | [Relations](https://open.spotify.com/track/66uQkXu45zDJSxvbUR4jPk) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [Relations](https://open.spotify.com/album/6bXV4rq5bUsnjnFwi0Xm7c) | 3:04 | 2023-01-20 | 2024-05-21 |
 | [Relatively](https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Relatively](https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t) | 2:47 | 2024-07-09 | 2025-02-05 |
 | [Relaxed Mind](https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Relaxed Mind](https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5) | 3:02 | 2024-01-17 | 2025-03-20 |

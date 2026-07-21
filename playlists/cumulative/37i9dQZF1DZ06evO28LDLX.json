@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "\"A Summer Journey: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/1RSf2iSHBdc2LfdYHlqNS8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106586,
+      "name": "Lyric Pieces Book 3, Op. 43: No. 3, In My Native Country",
+      "url": "https://open.spotify.com/track/1NHFPidsRN6uhVHrf3fEzK"
+    },
+    {
+      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -672,6 +694,28 @@
       "duration_ms": 193666,
       "name": "Minuet in G Minor, HWV 434/4 (Arr. Kempff for Piano)",
       "url": "https://open.spotify.com/track/0OL03IyN7LEAnN2cJCdR4B"
+    },
+    {
+      "album": {
+        "name": "Refreshing Classics",
+        "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
+      },
+      "artists": [
+        {
+          "name": "Moritz Moszkowski",
+          "url": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Moszkowski: 6 Klavierst\u00fccke, Op. 15: No. 1, Serenata",
+      "url": "https://open.spotify.com/track/0tol2GiNJ5qJA8m52hscNb"
     },
     {
       "album": {
@@ -828,7 +872,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
@@ -872,7 +916,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 192800,
       "name": "Nocturne No. 5 in F-Sharp Major, Op. 15 No. 2",
       "url": "https://open.spotify.com/track/799J3kj5WhJqQD1WTDpi5q"

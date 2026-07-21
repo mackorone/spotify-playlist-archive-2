@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,355 likes - 28 songs - 2 hr 11 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 29 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 26 | [Cut Up Piano & Xylophone \- Remastered](https://open.spotify.com/track/1Ein8esT4WjvsYXSsa2wAJ) | [Fridge](https://open.spotify.com/artist/5g9s6dQAhse0qgjQOKQXHG) | [Happiness \(Anniversary Edition\)](https://open.spotify.com/album/248Bgo68wTNh9mCNNNYEfE) | 2:34 |
 | 27 | [TheBestVersionOfMyself](https://open.spotify.com/track/19OiQKVPoouf1SzhGRkLm1) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/6RhN0H5mnDVMXTtx0d3sJX) | 1:12 |
 | 28 | [Hurt In Your Heart](https://open.spotify.com/track/65BB3nJS7LYwu8O83WVTDx) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Grace & Danger](https://open.spotify.com/album/05FPn66m4Ry59KRrKFCg3Q) | 4:57 |
+| 29 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/0zprBQpAaNFdV82NqjyiNx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:54 |
 
-Snapshot ID: `AAAOoCecOsS2akl3EAB1FFmX27XnOZeU`
+Snapshot ID: `AAAOobYHspZEcWe89ExpZCIOxRjHAmoh`

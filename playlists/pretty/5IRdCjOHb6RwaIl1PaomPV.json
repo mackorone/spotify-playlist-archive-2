@@ -1,13 +1,89 @@
 {
   "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
-  "num_followers": 50286,
+  "num_followers": 50285,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAerWVfUctxmF9xwsftljAh4B6KpDy1",
+  "snapshot_id": "AAAevuLHzGczUTHDiLDE8BZH39reSpj1",
   "tracks": [
+    {
+      "added_at": "2026-07-20 19:07:38",
+      "album": {
+        "name": "pAPi wiTH tOKisCha (DJ Gigola REMIX)",
+        "url": "https://open.spotify.com/album/4s20K6E5vxvpnQe83PrZGz"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "pAPi wiTH tOKisCha - DJ Gigola REMIX",
+      "url": "https://open.spotify.com/track/3j6jcFsiIEYrOUOHoN6Bg6"
+    },
+    {
+      "added_at": "2026-07-20 19:08:13",
+      "album": {
+        "name": "Heavenly Body: If I'm The Bottle You\u2019re The Message",
+        "url": "https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/6s8ioX79ZOLA4ulh1Ns7D6"
+    },
+    {
+      "added_at": "2026-07-20 19:07:57",
+      "album": {
+        "name": "pAPi wiTH tOKisCha (Safety Trance REMIX)",
+        "url": "https://open.spotify.com/album/3wpz1qM0Qn5mInwvXTyVZO"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "pAPi wiTH tOKisCha - Safety Trance REMIX",
+      "url": "https://open.spotify.com/track/7u0sl0AWB2Bjo9uIjTLrcX"
+    },
+    {
+      "added_at": "2026-07-20 19:08:22",
+      "album": {
+        "name": "Heavenly Body: If I'm The Bottle You\u2019re The Message",
+        "url": "https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wasp In the Fig",
+      "url": "https://open.spotify.com/track/1ki2XO6NQobhSKlVO7rfNP"
+    },
     {
       "added_at": "2026-07-05 22:09:03",
       "album": {
@@ -353,22 +429,6 @@
       "url": "https://open.spotify.com/track/0a0bypjWNDPshetjw2HSIN"
     },
     {
-      "added_at": "2026-05-08 22:37:01",
-      "album": {
-        "name": "Ne Plus Ultra",
-        "url": "https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80"
-      },
-      "artists": [
-        {
-          "name": "ear",
-          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Ne Plus Ultra",
-      "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
-    },
-    {
       "added_at": "2026-04-24 21:20:42",
       "album": {
         "name": "Irish Tears",
@@ -531,46 +591,6 @@
       "duration_ms": 128955,
       "name": "PointBreaK",
       "url": "https://open.spotify.com/track/6t8M5CYfa6Z66BNn4dDIs1"
-    },
-    {
-      "added_at": "2026-04-09 19:53:09",
-      "album": {
-        "name": "duro",
-        "url": "https://open.spotify.com/album/6WUyAonkEH8JZtx60JV2nK"
-      },
-      "artists": [
-        {
-          "name": "Safety Trance",
-          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
-        },
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        },
-        {
-          "name": "Kinara",
-          "url": "https://open.spotify.com/artist/3m3htXTs226gOEiAwiP6hd"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "duro",
-      "url": "https://open.spotify.com/track/16qDusAUuoWIC6Q54bwud0"
-    },
-    {
-      "added_at": "2026-04-09 19:57:54",
-      "album": {
-        "name": "In Order",
-        "url": "https://open.spotify.com/album/6OyqqxLZGbqJUOkMvHtEbB"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "skittles",
-      "url": "https://open.spotify.com/track/3JZMGkOGJZMGkvVl6cDPy4"
     },
     {
       "added_at": "2026-03-20 20:01:50",
@@ -843,26 +863,6 @@
       "duration_ms": 222682,
       "name": "Reno Moon",
       "url": "https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE"
-    },
-    {
-      "added_at": "2026-02-27 17:52:52",
-      "album": {
-        "name": "Apotelesma",
-        "url": "https://open.spotify.com/album/7lCSj0e2ZMNEK2KgHxSeYD"
-      },
-      "artists": [
-        {
-          "name": "Baby Pantera",
-          "url": "https://open.spotify.com/artist/2BvDJauylrTkLmxrT6S1Eg"
-        },
-        {
-          "name": "Mssingno",
-          "url": "https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W"
-        }
-      ],
-      "duration_ms": 185445,
-      "name": "Apotelesma",
-      "url": "https://open.spotify.com/track/18TSHNsT0VXjJxPTBcZQKI"
     },
     {
       "added_at": "2026-02-27 17:59:08",

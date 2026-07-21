@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,897 likes - 109 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,899 likes - 109 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 11 | [Poem of Spring](https://open.spotify.com/track/6bvm2Ej8Q1P7a6TL5lLd4y) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Poem of Spring](https://open.spotify.com/album/7IDzVxjASo7fI7uAWpWvlE) | 3:06 |
 | 12 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
 | 13 | [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 |
-| 14 | [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 |
+| 14 | [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [Henry Lau](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 |
 | 15 | [BUTTERFLIES](https://open.spotify.com/track/4nNpY2RyMQMvlKkQMRb5XQ) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:43 |
 | 16 | [Flicker \(feat\. Car, the garden\)](https://open.spotify.com/track/1c1AzkIEm7n4D8QiIfZLiD) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/42FrH2HstVRabB6hWQjuxT) | 3:17 |
 | 17 | [Fairy Tale](https://open.spotify.com/track/02bKxwW9XY9LElj0TqDK6S) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |

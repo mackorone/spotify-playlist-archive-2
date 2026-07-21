@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108292,
+  "num_followers": 108303,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
+        }
+      ],
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/07t3hsY7JknUkSNE0fBA8c"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 170281,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/63hnT3AMJltR6TLHP8eBa8"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 202525,
       "name": "Yo la Tengo",
       "url": "https://open.spotify.com/track/71SVOiLqzoTGtI8P90Pt8Q"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
         "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 249576,
       "name": "Coritos Medley 2.0",
       "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Me Encontr\u00f3",
+        "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 234432,
+      "name": "Me Encontr\u00f3",
+      "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "Verso de Amor",
         "url": "https://open.spotify.com/album/2puEEYFBPFfmMQqXbaEITd"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 197173,
       "name": "Verso de Amor",
       "url": "https://open.spotify.com/track/20Wr0dFjG4qfFBnlZqJmh1"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Me Encontr\u00f3",
-        "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 234432,
-      "name": "Me Encontr\u00f3",
-      "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Adorar A Dios",
-        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
-      },
-      "artists": [
-        {
-          "name": "El Swing Divino",
-          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Nos Vamos A Gozar",
-      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 243608,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Adorar A Dios",
+        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
+      },
+      "artists": [
+        {
+          "name": "El Swing Divino",
+          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Nos Vamos A Gozar",
+      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Merengueton",
-        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
-      },
-      "artists": [
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Merengueton",
-      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 185598,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Merengueton",
+        "url": "https://open.spotify.com/album/6cQdkMoB6vqMU4orFz2WeP"
+      },
+      "artists": [
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Merengueton",
+      "url": "https://open.spotify.com/track/72VmExJKcEzxCJZJo5f7HO"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Mi Cruz",
-        "url": "https://open.spotify.com/album/4TCvbFH9rgpmqoWEp2MBVK"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Mi Cruz",
-      "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 211000,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Mi Cruz",
+        "url": "https://open.spotify.com/album/4TCvbFH9rgpmqoWEp2MBVK"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Mi Cruz",
+      "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
     },
     {
       "added_at": "2026-06-26 12:29:56",

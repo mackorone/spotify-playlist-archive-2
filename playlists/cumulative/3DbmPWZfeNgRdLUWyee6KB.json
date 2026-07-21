@@ -20979,6 +20979,24 @@
     },
     {
       "album": {
+        "name": "The Ghost You Keep",
+        "url": "https://open.spotify.com/album/0SYyJDhzFiOymUxtwoyYAd"
+      },
+      "artists": [
+        {
+          "name": "Marionette Noir",
+          "url": "https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "The Ghost You Keep",
+      "url": "https://open.spotify.com/track/1760jOHkD2BCjsDl6WdO2t"
+    },
+    {
+      "album": {
         "name": "The Good Ole Days",
         "url": "https://open.spotify.com/album/47YSw42Eop1hf2w7eK3xK8"
       },

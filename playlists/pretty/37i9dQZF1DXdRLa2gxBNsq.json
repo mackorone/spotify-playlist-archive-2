@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116547,
+  "num_followers": 116551,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Sin Perd\u00f3n",
-        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
       "artists": [
         {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 190980,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "Sin Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 190980,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "La Calle Arde",
-        "url": "https://open.spotify.com/album/63TDd5KeunGk8rzpaBk4kP"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        },
-        {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
-        }
-      ],
-      "duration_ms": 158068,
-      "name": "La Calle Arde",
-      "url": "https://open.spotify.com/track/6TmRbFHBRM3utbSk8epHBZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "La Calle Arde",
+        "url": "https://open.spotify.com/album/63TDd5KeunGk8rzpaBk4kP"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        },
+        {
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+        }
+      ],
+      "duration_ms": 158068,
+      "name": "La Calle Arde",
+      "url": "https://open.spotify.com/track/6TmRbFHBRM3utbSk8epHBZ"
     },
     {
       "added_at": "2026-06-11 22:00:32",

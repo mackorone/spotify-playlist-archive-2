@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 450516,
+  "num_followers": 450542,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -603,22 +587,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Meu Mestre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Isabela Agustinho",
-          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 286680,
-      "name": "Meu Mestre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -635,6 +615,26 @@
       "duration_ms": 348499,
       "name": "H\u00e1 um Lugar",
       "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Meu Mestre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Isabela Agustinho",
+          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Meu Mestre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Pra Te Ferir",
+        "url": "https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Eleoterio",
+          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
+        }
+      ],
+      "duration_ms": 266664,
+      "name": "Pra te Ferir",
+      "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Pra Te Ferir",
-        "url": "https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo"
-      },
-      "artists": [
-        {
-          "name": "Samuel Eleoterio",
-          "url": "https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv"
-        }
-      ],
-      "duration_ms": 266664,
-      "name": "Pra te Ferir",
-      "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
     },
     {
       "added_at": "2026-01-30 13:05:09",

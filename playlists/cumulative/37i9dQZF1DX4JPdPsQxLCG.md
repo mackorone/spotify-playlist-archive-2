@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-543 songs - 1 day 10 hr 15 min
+544 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,12 +284,13 @@
 | [Maybe It's Me](https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Maybe It's Me](https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB) | 3:17 | 2025-08-21 | 2025-11-02 |
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-08-04 | 2023-10-05 |
 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 | 2022-05-02 | 2022-07-28 |
+| [Miracle](https://open.spotify.com/track/5AQpnrPrm24ZP7atf04VCB) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [Miracle](https://open.spotify.com/album/2Zz7Y1hhV5RYc9Nd6tSu3F) | 2:44 | 2026-07-20 |  |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 | 2022-09-10 | 2022-09-15 |
 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 | 2024-03-23 |
 | [Monkey Bars](https://open.spotify.com/track/3hkXBT0vqoXzxmLRzBYAZl) | [Coney Hatch](https://open.spotify.com/artist/7gvIFmjP5KZ9ifQt599A6B) | [Best Of Three](https://open.spotify.com/album/5kbhLIHfnbBP4cZDGfNJ32) | 4:16 | 2022-05-02 | 2022-07-28 |
 | [Monster Hospital](https://open.spotify.com/track/3cFumR9mKXUyQutmdLELqb) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Live It Out](https://open.spotify.com/album/5HxOvmgzLJJfN3B6ecuYSi) | 3:30 | 2023-05-18 | 2023-06-29 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-09-10 | 2022-09-15 |
-| [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 | 2024-04-19 |  |
+| [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 | 2024-04-19 | 2026-07-21 |
 | [My Girl \(Gone, Gone, Gone\)](https://open.spotify.com/track/0m28f73Piz111HOdimOmmf) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Wanna Be A Star](https://open.spotify.com/album/5wNswr8i8yHBRrijyMKADW) | 4:14 | 2022-05-02 | 2022-07-29 |
 | [My Girl \(Gone, Gone, Gone\)](https://open.spotify.com/track/3F3qMsKHOAmHDezIK840bp) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Wanna Be A Star](https://open.spotify.com/album/2kBrliB2nFyFGVTUtIQrge) | 4:14 | 2022-05-02 | 2022-10-16 |
 | [My Old Self](https://open.spotify.com/track/0doqW4qT48jk1KfKbJA3Xh) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:48 | 2022-05-02 | 2022-07-22 |

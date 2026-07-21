@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,127 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,135 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Content](https://open.spotify.com/track/29crrP2F5ZqYRJ9xMYB1dV) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Content](https://open.spotify.com/album/4AGhFSoozPKVOe7uUXiUc4) | 3:17 |
 | 80 | [Point of View](https://open.spotify.com/track/5sBxWkq2qsA5duwonnm3Tv) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Point of View](https://open.spotify.com/album/1rI6OT45iNO83oKJwP34JK) | 3:16 |
 
-Snapshot ID: `AAAAAEfbTgQiK1bTnQFSAPCkZMlW/mUM`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

@@ -2521,6 +2521,36 @@
     },
     {
       "album": {
+        "name": "Entha Haal (From \"Kerala Underground\")",
+        "url": "https://open.spotify.com/album/0SPdDPXJGjcaUaSq2Kygax"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        },
+        {
+          "name": "The Imbachi",
+          "url": "https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Entha Haal - From \"Kerala Underground\"",
+      "url": "https://open.spotify.com/track/5hEYWCzHY16Tyieti7xlQ6"
+    },
+    {
+      "album": {
         "name": "Enthavo",
         "url": "https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1"
       },
@@ -8212,6 +8242,36 @@
       "duration_ms": 270239,
       "name": "Panimathimukhi - Anilatharala",
       "url": "https://open.spotify.com/track/1voUJLt8701cO62ecgIG6h"
+    },
+    {
+      "album": {
+        "name": "Panjara Girl",
+        "url": "https://open.spotify.com/album/17JUtWGItQWcUw4ZUgVyCJ"
+      },
+      "artists": [
+        {
+          "name": "Sidhik Nazar Niza",
+          "url": "https://open.spotify.com/artist/67J1LonhbXjQZmcWSE4XnE"
+        },
+        {
+          "name": "Bity Kairali Mohan",
+          "url": "https://open.spotify.com/artist/30DfmBNgBwWhzPqfLOZHJ4"
+        },
+        {
+          "name": "Sibu Sukumaran",
+          "url": "https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei"
+        },
+        {
+          "name": "Nikhil Anil Kumar",
+          "url": "https://open.spotify.com/artist/1cLx5oaXhvIcSNfJCkGtwv"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155965,
+      "name": "Panjara Girl",
+      "url": "https://open.spotify.com/track/0Zxo9KxazsQwAihu6w32iq"
     },
     {
       "album": {

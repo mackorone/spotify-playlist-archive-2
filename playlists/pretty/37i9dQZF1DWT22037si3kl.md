@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> pralém de outfit\. AURA\. Foto: M'DEP, DESIIKKK
+> pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,732 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,775 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [EU SOU A FONTE](https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy) | [RIRI](https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS), [SlimeCunha](https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [NXRTHFACE14X](https://open.spotify.com/artist/1tFeb1mSWakaz6SPK5fwF2) | [NÓS CONTRA O MUNDO](https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni) | 2:47 |
 | 50 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
 
-Snapshot ID: `AAAAAC09oX3Bj7TDx8VJtPca9eAWLOoY`
+Snapshot ID: `AAAAAMw/JygqRYH/s/TbUJ+UowG0oTgO`

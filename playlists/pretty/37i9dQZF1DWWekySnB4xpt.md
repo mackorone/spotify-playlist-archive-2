@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Acompáñanos en un concierto benéfico el 16 de agosto en Kaseya Center \(Miami\) 🇻🇪❤️ <a href="https://www.ticketmaster.com/event/0D0064EA9A88501D">Entradas a la venta 17 Jul 10AM EST.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,082 likes - 97 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,079 likes - 97 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

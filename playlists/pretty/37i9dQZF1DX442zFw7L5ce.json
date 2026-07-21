@@ -1,6 +1,6 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 62473,
+  "num_followers": 62485,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
@@ -745,6 +745,38 @@
       "url": "https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX"
     },
     {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Thammudu",
+        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
+      },
+      "artists": [
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        }
+      ],
+      "duration_ms": 316656,
+      "name": "Vayari Bhama",
+      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+    },
+    {
       "added_at": "2022-12-30 11:00:51",
       "album": {
         "name": "Geetha Govindam",
@@ -763,22 +795,6 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Attarrintiki Daaredi",
-        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Bapu Gari Bommo",
-      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
         "name": "Aadavari Matalaku Ardhalu Veruley",
         "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 319686,
       "name": "Emaindhi Eevela",
       "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Thammudu",
-        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
-      },
-      "artists": [
-        {
-          "name": "Ramana Gogula",
-          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
-        }
-      ],
-      "duration_ms": 316656,
-      "name": "Vayari Bhama",
-      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -843,8 +843,8 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+        "name": "Attarrintiki Daaredi",
+        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+      "duration_ms": 280000,
+      "name": "Bapu Gari Bommo",
+      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
     },
     {
       "added_at": "2024-10-04 05:05:53",

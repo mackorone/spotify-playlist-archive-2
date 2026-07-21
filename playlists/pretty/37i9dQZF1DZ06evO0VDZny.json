@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 517876,
+  "num_followers": 517921,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADlEYDzujYleWhcQrhGsNf8",
+  "snapshot_id": "alwTgAAAAADp8lICybyQL91ccionnjfI",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 131940,
-      "name": "A Lot Like Vegas - 2026 Repented",
-      "url": "https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V"
+      "duration_ms": 266369,
+      "name": "Pray for Plagues - 2026 Repented",
+      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 266369,
-      "name": "Pray for Plagues - 2026 Repented",
-      "url": "https://open.spotify.com/track/2h2z6VlYWtw5jUZ1GRSrg8"
+      "duration_ms": 131940,
+      "name": "A Lot Like Vegas - 2026 Repented",
+      "url": "https://open.spotify.com/track/2eVe1iElkSZB34FmsiHT9V"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 205212,
-      "name": "drwn.vvv",
-      "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     },
     {
       "added_at": null,
@@ -843,6 +843,30 @@
       "duration_ms": 240586,
       "name": "heavy metal (feat. Rahzel)",
       "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "duration_ms": 122329,
+      "name": "Throne.GOD",
+      "url": "https://open.spotify.com/track/61Y6tZT9hnupcSktOnDVqN"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

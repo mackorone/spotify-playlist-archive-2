@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-561 songs - 1 day 9 hr 7 min
+562 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh) | 3:27 | 2026-04-10 |  |
 | [Alive](https://open.spotify.com/track/3M8s7vURp7yYZF8AngUrWh) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [Alive](https://open.spotify.com/album/0pn8kKMj3jinaa3bGwXsTM) | 2:58 | 2025-05-16 | 2026-06-12 |
 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 | 2026-04-30 |  |
-| [All Day \- Jackie Hollander Remix](https://open.spotify.com/track/4Jy1rvDyPYkRP74TGXciBN) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All Day \(Jackie Hollander Remix\)](https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx) | 3:17 | 2026-07-01 |  |
+| [All Day \- Jackie Hollander Remix](https://open.spotify.com/track/4Jy1rvDyPYkRP74TGXciBN) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All Day \(Jackie Hollander Remix\)](https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx) | 3:17 | 2026-07-01 | 2026-07-21 |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-08-26 | 2024-07-19 |
 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 | 2023-06-13 | 2025-04-18 |
 | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [LonelyBrothers](https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f), [Kush Rust](https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1) | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj) | 2:52 | 2024-09-18 | 2026-04-11 |
@@ -470,6 +470,7 @@
 | [Sunday Shoutin' \- TSHA Remix](https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz) | [Johnny Corporate](https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sunday Shoutin' \(TSHA Remix\)](https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC) | 3:36 | 2024-06-14 | 2025-02-20 |
 | [Sungazing \- Electronic Mix](https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB) | [Sungazing \(Electronic Mix\)](https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg) | 4:07 | 2025-04-24 | 2026-05-01 |
 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-08 | 2025-06-21 |
+| [Superstitious](https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Superstitious](https://open.spotify.com/album/4OFWmT2MVOf56J4u4WMe1b) | 3:12 | 2026-07-16 |  |
 | [Sweat It Out](https://open.spotify.com/track/4nyzWJpxvJkl6I8KEXwbTf) | [ALEXANDER RYA](https://open.spotify.com/artist/3wvx6caa5hMf36Ori5nXsY) | [Sweat It Out](https://open.spotify.com/album/664MLChYil6XVJSQZ1K2qr) | 2:41 | 2025-05-29 | 2026-06-12 |
 | [Sweatbox](https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3) | [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS), [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E) | [Sweatbox](https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ) | 2:46 | 2025-04-17 | 2025-05-18 |
 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 | 2024-05-17 | 2025-04-18 |

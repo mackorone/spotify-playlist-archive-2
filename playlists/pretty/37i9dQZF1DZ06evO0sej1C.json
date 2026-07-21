@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46082,
+  "num_followers": 46080,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAACPFpyRdoqyLARUoj7f8imu",
+  "snapshot_id": "alwTgAAAAADjDdr2pvjtvJlVQ2Z1k6oc",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piloncillo y Bacanora",
-        "url": "https://open.spotify.com/album/3GMPhAVHTmc2k57kXPnNSN"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/6PpwTN6oWZoSE1goj9Su96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 225923,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piloncillo y Bacanora",
+        "url": "https://open.spotify.com/album/3GMPhAVHTmc2k57kXPnNSN"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/6PpwTN6oWZoSE1goj9Su96"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
-      },
-      "artists": [
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Golden Ganga",
-          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Serendipia",
-      "url": "https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 228292,
       "name": "No quiero que amanezca",
       "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
+      },
+      "artists": [
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Serendipia",
+      "url": "https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu"
     },
     {
       "added_at": null,

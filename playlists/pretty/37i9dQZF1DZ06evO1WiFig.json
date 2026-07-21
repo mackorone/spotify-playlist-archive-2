@@ -1,12 +1,12 @@
 {
   "description": "This is Aldous Harding. The essential tracks, all in one playlist.",
-  "num_followers": 5062,
+  "num_followers": 5065,
   "original_name": "This Is Aldous Harding",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADNDZ7Ag8e8sVdxCuqHDcHL",
+  "snapshot_id": "alwTgAAAAADoopFxKn9me422T317aHuH",
   "tracks": [
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 160310,
-      "name": "Beast",
-      "url": "https://open.spotify.com/track/2SM3Y0wuaxlJM5BpKL3mqp"
+      "duration_ms": 317008,
+      "name": "Titus Alone",
+      "url": "https://open.spotify.com/track/4S4BG20TWQtuYmpJLOzVUe"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 317008,
-      "name": "Titus Alone",
-      "url": "https://open.spotify.com/track/4S4BG20TWQtuYmpJLOzVUe"
+      "duration_ms": 160310,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/2SM3Y0wuaxlJM5BpKL3mqp"
     },
     {
       "added_at": null,

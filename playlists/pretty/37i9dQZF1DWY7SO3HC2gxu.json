@@ -1,6 +1,6 @@
 {
   "description": "Aduma Presents: Greasy Tunes Nairobi takeover of Oontz. Cover: One Down",
-  "num_followers": 11566,
+  "num_followers": 11569,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
@@ -507,8 +507,8 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Kadenge",
-        "url": "https://open.spotify.com/album/7pDr7EvA0JGQg0GUqUIb7E"
+        "name": "Laiti",
+        "url": "https://open.spotify.com/album/3euHDQjDrgAaPWoOhAobxM"
       },
       "artists": [
         {
@@ -516,17 +516,13 @@
           "url": "https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh"
         },
         {
-          "name": "Braines",
-          "url": "https://open.spotify.com/artist/0hHuep1ggkKFFBIB2AP5AO"
-        },
-        {
-          "name": "DJ IV",
-          "url": "https://open.spotify.com/artist/7Iws2gAJpiZH4fpoGbAzqo"
+          "name": "Chris Barr",
+          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
         }
       ],
-      "duration_ms": 288196,
-      "name": "Kadenge",
-      "url": "https://open.spotify.com/track/68WbDr1pTMV5f7ijSl8bXE"
+      "duration_ms": 356000,
+      "name": "Laiti",
+      "url": "https://open.spotify.com/track/343ZBsbFwekBnuId9NwY9P"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -575,26 +571,6 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Omba",
-        "url": "https://open.spotify.com/album/3rRfdorDJ7aYw9RYGuk4oc"
-      },
-      "artists": [
-        {
-          "name": "LEMI (KE)",
-          "url": "https://open.spotify.com/artist/6HdnVMk5jVYtQpNDzG0ZIJ"
-        },
-        {
-          "name": "Zippie Nyumu",
-          "url": "https://open.spotify.com/artist/5LGAJWLY5XCG3SXVElw8JW"
-        }
-      ],
-      "duration_ms": 438708,
-      "name": "Omba",
-      "url": "https://open.spotify.com/track/7Bve5DQwUy8VnaJN97IF50"
-    },
-    {
-      "added_at": "2026-07-15 13:16:52",
-      "album": {
         "name": "Ha-He (Mike Muema 3 Step Remix)",
         "url": "https://open.spotify.com/album/0KmKNfNwbGzmfbwlJocPoD"
       },
@@ -615,8 +591,28 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Laiti",
-        "url": "https://open.spotify.com/album/3euHDQjDrgAaPWoOhAobxM"
+        "name": "Omba",
+        "url": "https://open.spotify.com/album/3rRfdorDJ7aYw9RYGuk4oc"
+      },
+      "artists": [
+        {
+          "name": "LEMI (KE)",
+          "url": "https://open.spotify.com/artist/6HdnVMk5jVYtQpNDzG0ZIJ"
+        },
+        {
+          "name": "Zippie Nyumu",
+          "url": "https://open.spotify.com/artist/5LGAJWLY5XCG3SXVElw8JW"
+        }
+      ],
+      "duration_ms": 438708,
+      "name": "Omba",
+      "url": "https://open.spotify.com/track/7Bve5DQwUy8VnaJN97IF50"
+    },
+    {
+      "added_at": "2026-07-15 13:16:52",
+      "album": {
+        "name": "Kadenge",
+        "url": "https://open.spotify.com/album/7pDr7EvA0JGQg0GUqUIb7E"
       },
       "artists": [
         {
@@ -624,13 +620,37 @@
           "url": "https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh"
         },
         {
-          "name": "Chris Barr",
-          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
+          "name": "Braines",
+          "url": "https://open.spotify.com/artist/0hHuep1ggkKFFBIB2AP5AO"
+        },
+        {
+          "name": "DJ IV",
+          "url": "https://open.spotify.com/artist/7Iws2gAJpiZH4fpoGbAzqo"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Laiti",
-      "url": "https://open.spotify.com/track/343ZBsbFwekBnuId9NwY9P"
+      "duration_ms": 288196,
+      "name": "Kadenge",
+      "url": "https://open.spotify.com/track/68WbDr1pTMV5f7ijSl8bXE"
+    },
+    {
+      "added_at": "2026-07-15 13:16:52",
+      "album": {
+        "name": "Nuru",
+        "url": "https://open.spotify.com/album/0kT20fWJGp1wGQzIkM049r"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        },
+        {
+          "name": "Nyadollar",
+          "url": "https://open.spotify.com/artist/0QPDWI6UYu3Lv9MDEoTd2p"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Nuru",
+      "url": "https://open.spotify.com/track/5qRbjx69FyX71hC620bmn6"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -663,26 +683,6 @@
       "duration_ms": 439722,
       "name": "I Found It",
       "url": "https://open.spotify.com/track/1UjdbEf2CrdQa3NTync0e0"
-    },
-    {
-      "added_at": "2026-07-15 13:16:52",
-      "album": {
-        "name": "Nuru",
-        "url": "https://open.spotify.com/album/0kT20fWJGp1wGQzIkM049r"
-      },
-      "artists": [
-        {
-          "name": "DJ Gibbzy",
-          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
-        },
-        {
-          "name": "Nyadollar",
-          "url": "https://open.spotify.com/artist/0QPDWI6UYu3Lv9MDEoTd2p"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nuru",
-      "url": "https://open.spotify.com/track/5qRbjx69FyX71hC620bmn6"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -811,30 +811,6 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Kazi",
-        "url": "https://open.spotify.com/album/4bSi9bzqEHgMAHErJYy9Xk"
-      },
-      "artists": [
-        {
-          "name": "Mura",
-          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
-        },
-        {
-          "name": "DJ Fita",
-          "url": "https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49"
-        },
-        {
-          "name": "N'Jiru",
-          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
-        }
-      ],
-      "duration_ms": 329491,
-      "name": "Kazi",
-      "url": "https://open.spotify.com/track/5VOE6uCqKSloeMTdlX9jwG"
-    },
-    {
-      "added_at": "2026-07-15 13:16:52",
-      "album": {
         "name": "Chukua",
         "url": "https://open.spotify.com/album/5yGQFX1KnW8364RQLpGyY4"
       },
@@ -859,26 +835,26 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Soulful Respect, Vol. 11",
-        "url": "https://open.spotify.com/album/3kLcBn2hjRPmL2z70bFe43"
+        "name": "Kazi",
+        "url": "https://open.spotify.com/album/4bSi9bzqEHgMAHErJYy9Xk"
       },
       "artists": [
         {
-          "name": "Tina Ardor",
-          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+          "name": "Mura",
+          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
         },
         {
-          "name": "OneDown",
-          "url": "https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0"
+          "name": "DJ Fita",
+          "url": "https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49"
         },
         {
-          "name": "Timmy Regisford",
-          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
         }
       ],
-      "duration_ms": 314146,
-      "name": "Nitunogete (we are tired) - Timmy Regisford Edit",
-      "url": "https://open.spotify.com/track/6wmSiEbsxu7Q0HrxjcolTv"
+      "duration_ms": 329491,
+      "name": "Kazi",
+      "url": "https://open.spotify.com/track/5VOE6uCqKSloeMTdlX9jwG"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -907,46 +883,26 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "IO BASS",
-        "url": "https://open.spotify.com/album/1sPEcOEcG1YB3q2eM0OIKD"
+        "name": "Soulful Respect, Vol. 11",
+        "url": "https://open.spotify.com/album/3kLcBn2hjRPmL2z70bFe43"
       },
       "artists": [
         {
-          "name": "Kayrop",
-          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
         },
         {
-          "name": "Ayrosh",
-          "url": "https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l"
+          "name": "OneDown",
+          "url": "https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0"
         },
         {
-          "name": "YAH LISTEN",
-          "url": "https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc"
+          "name": "Timmy Regisford",
+          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
         }
       ],
-      "duration_ms": 189279,
-      "name": "DJ - Remix",
-      "url": "https://open.spotify.com/track/2w108VnT8rmlC4cGH8RVVs"
-    },
-    {
-      "added_at": "2026-07-15 13:16:52",
-      "album": {
-        "name": "Mimi",
-        "url": "https://open.spotify.com/album/7j1tyoIjWscTnX28AYpty3"
-      },
-      "artists": [
-        {
-          "name": "Pweza",
-          "url": "https://open.spotify.com/artist/31Z2cE0NWU43AXHIzmdolu"
-        },
-        {
-          "name": "Ayah Tlhanyane",
-          "url": "https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8"
-        }
-      ],
-      "duration_ms": 350163,
-      "name": "Mimi",
-      "url": "https://open.spotify.com/track/5PhzduyCZ3ZfLwQmwnFTSb"
+      "duration_ms": 314146,
+      "name": "Nitunogete (we are tired) - Timmy Regisford Edit",
+      "url": "https://open.spotify.com/track/6wmSiEbsxu7Q0HrxjcolTv"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -979,22 +935,46 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Kuna Kuna",
-        "url": "https://open.spotify.com/album/5VIbwEWhaqvPbbewiWRJ4Q"
+        "name": "Mimi",
+        "url": "https://open.spotify.com/album/7j1tyoIjWscTnX28AYpty3"
       },
       "artists": [
         {
-          "name": "Dino and Terry",
-          "url": "https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U"
+          "name": "Pweza",
+          "url": "https://open.spotify.com/artist/31Z2cE0NWU43AXHIzmdolu"
         },
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "Ayah Tlhanyane",
+          "url": "https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Kuna Kuna",
-      "url": "https://open.spotify.com/track/5nbjIhj6scKENZaiZXngv3"
+      "duration_ms": 350163,
+      "name": "Mimi",
+      "url": "https://open.spotify.com/track/5PhzduyCZ3ZfLwQmwnFTSb"
+    },
+    {
+      "added_at": "2026-07-15 13:16:52",
+      "album": {
+        "name": "IO BASS",
+        "url": "https://open.spotify.com/album/1sPEcOEcG1YB3q2eM0OIKD"
+      },
+      "artists": [
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        },
+        {
+          "name": "Ayrosh",
+          "url": "https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l"
+        },
+        {
+          "name": "YAH LISTEN",
+          "url": "https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc"
+        }
+      ],
+      "duration_ms": 189279,
+      "name": "DJ - Remix",
+      "url": "https://open.spotify.com/track/2w108VnT8rmlC4cGH8RVVs"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -1019,54 +999,22 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/6RyLUHLuEto6s9n7OBOUdm"
+        "name": "Kuna Kuna",
+        "url": "https://open.spotify.com/album/5VIbwEWhaqvPbbewiWRJ4Q"
       },
       "artists": [
         {
-          "name": "Lakwister",
-          "url": "https://open.spotify.com/artist/78lvkgk61m0EfRgMs1Flw6"
+          "name": "Dino and Terry",
+          "url": "https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U"
         },
         {
-          "name": "Aweko Brian",
-          "url": "https://open.spotify.com/artist/0PEnApbVCoeuhNQEWwnTb6"
-        },
-        {
-          "name": "Moses rallo",
-          "url": "https://open.spotify.com/artist/43tBCzAnQKp24LUSXG9oki"
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 463522,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/68wvH1g0T6yOUQlk95xKkT"
-    },
-    {
-      "added_at": "2026-07-15 13:16:52",
-      "album": {
-        "name": "Split Motion",
-        "url": "https://open.spotify.com/album/7nRfyvTqrsKg5aXGmov9tw"
-      },
-      "artists": [
-        {
-          "name": "Eric K.(KE)",
-          "url": "https://open.spotify.com/artist/6ldZ87tyq0k64d9Ph0gOl3"
-        },
-        {
-          "name": "LEMI (KE)",
-          "url": "https://open.spotify.com/artist/6HdnVMk5jVYtQpNDzG0ZIJ"
-        },
-        {
-          "name": "BBYY. On The Island",
-          "url": "https://open.spotify.com/artist/07YxQ5qcor6jPk9oNAcsAB"
-        },
-        {
-          "name": "DeepCuba",
-          "url": "https://open.spotify.com/artist/3uLhFaQjhEbDnMguww8De7"
-        }
-      ],
-      "duration_ms": 431000,
-      "name": "Split Motion",
-      "url": "https://open.spotify.com/track/7i1cJatYkU2BZQoRpEVuHt"
+      "duration_ms": 420000,
+      "name": "Kuna Kuna",
+      "url": "https://open.spotify.com/track/5nbjIhj6scKENZaiZXngv3"
     },
     {
       "added_at": "2026-07-15 13:16:52",
@@ -1099,6 +1047,30 @@
     {
       "added_at": "2026-07-15 13:16:52",
       "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/6RyLUHLuEto6s9n7OBOUdm"
+      },
+      "artists": [
+        {
+          "name": "Lakwister",
+          "url": "https://open.spotify.com/artist/78lvkgk61m0EfRgMs1Flw6"
+        },
+        {
+          "name": "Aweko Brian",
+          "url": "https://open.spotify.com/artist/0PEnApbVCoeuhNQEWwnTb6"
+        },
+        {
+          "name": "Moses rallo",
+          "url": "https://open.spotify.com/artist/43tBCzAnQKp24LUSXG9oki"
+        }
+      ],
+      "duration_ms": 463522,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/68wvH1g0T6yOUQlk95xKkT"
+    },
+    {
+      "added_at": "2026-07-15 13:16:52",
+      "album": {
         "name": "Mzuzi Park",
         "url": "https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk"
       },
@@ -1115,6 +1087,34 @@
       "duration_ms": 493770,
       "name": "Mzuzi Park",
       "url": "https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG"
+    },
+    {
+      "added_at": "2026-07-15 13:16:52",
+      "album": {
+        "name": "Split Motion",
+        "url": "https://open.spotify.com/album/7nRfyvTqrsKg5aXGmov9tw"
+      },
+      "artists": [
+        {
+          "name": "Eric K.(KE)",
+          "url": "https://open.spotify.com/artist/6ldZ87tyq0k64d9Ph0gOl3"
+        },
+        {
+          "name": "LEMI (KE)",
+          "url": "https://open.spotify.com/artist/6HdnVMk5jVYtQpNDzG0ZIJ"
+        },
+        {
+          "name": "BBYY. On The Island",
+          "url": "https://open.spotify.com/artist/07YxQ5qcor6jPk9oNAcsAB"
+        },
+        {
+          "name": "DeepCuba",
+          "url": "https://open.spotify.com/artist/3uLhFaQjhEbDnMguww8De7"
+        }
+      ],
+      "duration_ms": 431000,
+      "name": "Split Motion",
+      "url": "https://open.spotify.com/track/7i1cJatYkU2BZQoRpEVuHt"
     },
     {
       "added_at": "2026-07-15 13:16:52",

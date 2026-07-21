@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,529 songs - 21 day 16 hr 51 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,530 songs - 21 day 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8537,5 +8537,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8527 | [愛密集 \- Instrumental](https://open.spotify.com/track/6Lph4zADq2K62XAjVaMWxR) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [愛密集](https://open.spotify.com/album/72rhuz4kgra7VMRVvoGwqp) | 3:24 |
 | 8528 | [Cushion](https://open.spotify.com/track/2psnHevGQE9InS80JRl3Xy) | [bert cussion](https://open.spotify.com/artist/4jgHx3dVfzsmVZDt1JQ1wf), [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cushion](https://open.spotify.com/album/0YkgeWPXcn5AjhPwECA0MF) | 2:43 |
 | 8529 | [Bossa Mood](https://open.spotify.com/track/35CZrq6hscurQbVMmCdKEa) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bossa Mood](https://open.spotify.com/album/6sRmWIDABxO7lf4W29VHN8) | 2:26 |
+| 8530 | [lean back](https://open.spotify.com/track/5wicTCItEe8xd9KhZqYfZJ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:09 |
 
-Snapshot ID: `AAAMZvmATvPRnLikKQQIiVwicVDVa9na`
+Snapshot ID: `AAAMZ7BPolACsL7mze0hUxkY5hGDOWFI`

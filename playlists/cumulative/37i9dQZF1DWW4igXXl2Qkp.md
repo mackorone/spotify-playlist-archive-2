@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:7uhhz6hbxdJlbHIbmqvAAT">Lady Binladen</a>
 
-2,380 songs - 4 day 5 hr 9 min
+2,381 songs - 4 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1334,6 +1334,7 @@
 | [Milan](https://open.spotify.com/track/5IxOlNnq8GDOH3iENer7uX) | [Suigeneris](https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf) | [Milan](https://open.spotify.com/album/57XdUQtynNRvVafh9HMfRV) | 2:30 | 2021-12-01 | 2022-01-14 |
 | [Millie Slims](https://open.spotify.com/track/5sIMPVpZDnrwbDMMXvY4Xx) | [Amon](https://open.spotify.com/artist/6XUNPrvR2kBv09hMw4HYHL), [Cash Made The Track](https://open.spotify.com/artist/68CBOlGLSrbH80gzc9GgkM) | [Millie Slims & BLB](https://open.spotify.com/album/7bougEBgbpP9cY6GubDMfo) | 3:06 | 2022-02-09 | 2022-03-17 |
 | [Mind On The Money](https://open.spotify.com/track/60HREuElNySSKZZEFyzKZg) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Mind On The Money](https://open.spotify.com/album/25Mc2lMuz9HqrFDWeTcnpT) | 2:27 | 2026-07-09 |  |
+| [Mink](https://open.spotify.com/track/05uICjcJ5si260FP7Ie5Ds) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ) | [Mink](https://open.spotify.com/album/2mDpwpvyeltn6dCtNx3AwL) | 1:31 | 2026-07-20 |  |
 | [MIRACLE](https://open.spotify.com/track/1nbSmoNfZU6CkAnWVnconN) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MIRACLE](https://open.spotify.com/album/0q1ixJGx0IsQgVj02EW2Sc) | 2:33 | 2024-10-02 | 2024-10-10 |
 | [Misfit](https://open.spotify.com/track/5C74HB8oVq1DHw3Kr82l5G) | [DDK](https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq) | [Ddkeys](https://open.spotify.com/album/5NbikZECCyy7whKkUQMEqP) | 2:55 | 2025-02-19 | 2025-03-13 |
 | [Miss It](https://open.spotify.com/track/6wL21FBalVlRM9ynI9lkr5) | [Big Yba](https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p) | [Miss It](https://open.spotify.com/album/6a5sfPmcIeU2ymjGDXUSpZ) | 2:30 | 2025-01-15 | 2025-05-29 |

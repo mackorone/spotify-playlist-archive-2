@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,749 likes - 198 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 198 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

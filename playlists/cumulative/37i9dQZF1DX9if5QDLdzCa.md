@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-280 songs - 13 hr 33 min
+281 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Chill Waves](https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 2:12 | 2021-11-10 | 2024-03-26 |
 | [Clear Sky Waves](https://open.spotify.com/track/6uH0ZQicZnk5l1SEYzNYuI) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Gravity Waves](https://open.spotify.com/album/4yju7WwVTqKYIyVbDz0utW) | 2:40 | 2021-11-10 |  |
 | [coastal calm](https://open.spotify.com/track/47u4dZTPBWifFkYXWJvlAK) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [misted shores](https://open.spotify.com/album/6fTudCTGvkFn1XK5kEmayT) | 3:01 | 2025-07-21 |  |
+| [Coastal Solitude](https://open.spotify.com/track/3Sx9ldQ0aLFU0EzFpA4eUc) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Coastal Solitude](https://open.spotify.com/album/6ut0HdWzUcYhISevfihcvU) | 2:46 | 2026-04-02 |  |
 | [Coastal Wave Sounds](https://open.spotify.com/track/0rLSuRjl29iu5YaJ66Ns5J) | [When Waves Cry](https://open.spotify.com/artist/55ztZzMC6D5RAwDu4rzgPB) | [Waves Crying Vol\. 1](https://open.spotify.com/album/2c2mW4XV0uVGnq51GpUURs) | 2:36 | 2022-01-21 |  |
 | [Coastal Waves](https://open.spotify.com/track/2XKPf3NxvTDxIgPEHuvOug) | [Seasons Of Nature](https://open.spotify.com/artist/3jF2TuX5ujvjhjcumIOZIb) | [Waves And Tides](https://open.spotify.com/album/2G4526QrUypgTd23GTQzFU) | 4:10 | 2021-11-10 |  |
 | [Coasts of Calm](https://open.spotify.com/track/2rwx2LS9a9oZlwYEIBEbbw) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Coasts of Calm](https://open.spotify.com/album/1DoGpHFBKnZTVEu5Rg0Qho) | 2:11 | 2026-04-02 |  |
@@ -198,7 +199,7 @@
 | [Soothing Evening waves Of Nerja 3](https://open.spotify.com/track/2AFka6kv2ZNapN66OoMAcn) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 3:10 | 2021-11-10 |  |
 | [Soothing Evening waves Of Nerja 4](https://open.spotify.com/track/0gJZa23KwVDfghKSGoWoHr) | [Soothing Waves Of Nerja](https://open.spotify.com/artist/0k1cImEoI17KHmKiVpSY4X) | [Soothing Evening waves Of Nerja](https://open.spotify.com/album/2fCA0NKd6DjSE3Z5Ur0jaJ) | 2:04 | 2021-11-10 | 2026-07-15 |
 | [Soothing Mediterranean Waves 1](https://open.spotify.com/track/2ut8jbR0IscCy1BXbLUhbu) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:14 | 2021-11-10 | 2026-07-12 |
-| [Soothing Mediterranean Waves 2](https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:34 | 2021-11-10 |  |
+| [Soothing Mediterranean Waves 2](https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:34 | 2021-11-10 | 2026-07-21 |
 | [Soothing Mediterranean Waves 3](https://open.spotify.com/track/5H6OToPVtgYyBzbtm78ogW) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 2:58 | 2021-11-10 | 2026-07-11 |
 | [Soothing Morning Waves](https://open.spotify.com/track/7J1Jv4fsocHd9vhc00ekjG) | [NORDIC NATURE](https://open.spotify.com/artist/4DhwNzIaGzEYtgJp4t9990) | [Nordic Waves Vol\. 1](https://open.spotify.com/album/0a7M0MhZvRpyEJTy7gtdOO) | 2:07 | 2021-11-10 |  |
 | [Soothing Ocean](https://open.spotify.com/track/4znF3bJSt3xmRSQS1r1Edz) | [Memory of Water](https://open.spotify.com/artist/1FW2BedCLxA60sKXqqecLu) | [Healing Ocean](https://open.spotify.com/album/5j4CoKVMuZEWzVeBoqFBGL) | 3:09 | 2021-11-10 | 2025-11-15 |

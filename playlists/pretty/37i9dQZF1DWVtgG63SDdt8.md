@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres!  Cover: Tenroc
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,454 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,445 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 30 | [Fresh Revelation](https://open.spotify.com/track/4bmllDHRSzjcMAdYCDFanO) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Fresh Revelation](https://open.spotify.com/album/67WYCS20Nz3nwRlFt00Ips) | 6:32 |
 | 31 | [No Other \(He Shall Reign\) \- Live](https://open.spotify.com/track/1ped3DPoyHYks0swqaaGae) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [No Other \(He Shall Reign\) \[Live\]](https://open.spotify.com/album/6eaBfkQQUiHPPQQfx0HcVG) | 5:09 |
 | 32 | [Abide \- Live from Mercy Hill](https://open.spotify.com/track/2VTqPyxumr5UBrqyGhO4ZO) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Mercy Hill Worship](https://open.spotify.com/artist/79XCwQwlYAbrMH3uARAcqM) | [Live From Mercy Hill](https://open.spotify.com/album/50Bi0u3mfxAEptmbSKKK2S) | 4:47 |
-| 33 | [Encounter](https://open.spotify.com/track/5JistWe8zGFV8wOvGjrvIa) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J) | [Encounter](https://open.spotify.com/album/2iFVvhB146gnRYkjT923qM) | 6:03 |
+| 33 | [Encounter \- Live](https://open.spotify.com/track/5JistWe8zGFV8wOvGjrvIa) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Encounter \(Live\)](https://open.spotify.com/album/2iFVvhB146gnRYkjT923qM) | 6:03 |
 | 34 | [NAHUM \(The Lord is Good\)](https://open.spotify.com/track/3kza3sjt371Og4SyQauLcm) | [Pistol Creek Music](https://open.spotify.com/artist/5lC3gZa3HOEVljFFciK3QB), [Brandon Sharp](https://open.spotify.com/artist/5AYeGJYtapp4R9vVjxdiFD) | [NAHUM \(The Lord is Good\)](https://open.spotify.com/album/2YYdYGQe42JCsepnAvfFEE) | 3:48 |
 | 35 | [Second To You \- Live](https://open.spotify.com/track/1WnwI6WcScwYtxHlRT55om) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [fieldlily](https://open.spotify.com/artist/7n6Wv6j3eHPu2YS1KL1zos) | [Second To You \(Live\)](https://open.spotify.com/album/3Q2LSJfX7RzKfa6uFiVgkM) | 3:54 |
 | 36 | [It Is Well With My Soul](https://open.spotify.com/track/49N0lWzRsWQn0Kte3Y01wb) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Lily Cottrell](https://open.spotify.com/artist/7na1Vy834uYoTusAGr6vTJ) | [Any Given Sunday](https://open.spotify.com/album/7IfmXrTfHyj33eZv4JCXeQ) | 5:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Mari Froes
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,217 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,212 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 29 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
 | 30 | [Fica De Dengo](https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Fica De Dengo](https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ) | 2:25 |
 | 31 | [paixão ou vaidade?](https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [paixão ou vaidade?](https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY) | 3:03 |
-| 32 | [Outras Vezes](https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc) | [Lulina](https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Outras Vezes](https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K) | 3:33 |
-| 33 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
+| 32 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
+| 33 | [Outras Vezes](https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc) | [Lulina](https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Outras Vezes](https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K) | 3:33 |
 | 34 | [MINHA JÓIA](https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [MINHA JÓIA](https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy) | 3:41 |
 | 35 | [Intimidade](https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Intimidade](https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj) | 2:59 |
 | 36 | [dois brilhantes](https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [dois brilhantes](https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc) | 3:23 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 47 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 48 | [Tão Perto](https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Quarto](https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK) | 2:45 |
 | 49 | [Doente](https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Não Há Nada Mais Honesto Que Um Sonho](https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58) | 3:31 |
-| 50 | [Manhã de Sol](https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Manhã de Sol](https://open.spotify.com/album/3112UESU5WJFX24ulal6XM) | 3:01 |
-| 51 | [Branca](https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6) | [Zecca Gomes](https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ), [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Branca](https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt) | 2:48 |
+| 50 | [Branca](https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6) | [Zecca Gomes](https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ), [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Branca](https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt) | 2:48 |
+| 51 | [Manhã de Sol](https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Manhã de Sol](https://open.spotify.com/album/3112UESU5WJFX24ulal6XM) | 3:01 |
 | 52 | [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 |
 | 53 | [BOCA GOSTOSA](https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BOCA GOSTOSA](https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs) | 2:22 |
 | 54 | [Del Amor Una Bandera](https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Del Amor Una Bandera](https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0) | 3:07 |

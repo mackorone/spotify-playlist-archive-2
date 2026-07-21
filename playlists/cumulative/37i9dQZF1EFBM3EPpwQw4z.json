@@ -2721,6 +2721,32 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1IXhcZeZLOoj7MsV0XJ6bW"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "J\u00c4MO",
+          "url": "https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4NioEMZU2xoSIZ0a75zE6Z"
+    },
+    {
+      "album": {
         "name": "Giver",
         "url": "https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd"
       },

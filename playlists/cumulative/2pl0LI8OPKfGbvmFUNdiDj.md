@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-542 songs - 1 day 6 hr 42 min
+543 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Tropicana Cookies](https://open.spotify.com/track/5MEMLtNPrbuLmUEYAMY4J6) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Nacreous](https://open.spotify.com/album/3Vcu2mv0Na5N6abrjBPM9J) | 2:50 | 2025-11-17 | 2026-01-05 |
 | [Tumi Aar Aami](https://open.spotify.com/track/3C1AgDP9bsidTuffG95r4R) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Tumi Aar Aami](https://open.spotify.com/album/41SHQ8vt1Psji752Kibapg) | 4:46 | 2026-06-16 |  |
 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 | 2026-07-06 |  |
+| [Uncharted Ways](https://open.spotify.com/track/1AanP3btYufcT9X6E94FJI) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Uncharted Ways](https://open.spotify.com/album/65Q0Nq9fReW9gT4Syrt2jN) | 6:13 | 2026-07-20 |  |
 | [Unconditional](https://open.spotify.com/track/77mORRV8Syj6o9fzt5JnDK) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Press Play](https://open.spotify.com/album/0mUwDtGoY4dYhnpdTE3jyx) | 4:26 | 2025-11-22 | 2026-01-05 |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-01 | 2025-12-01 |
 | [Unlove](https://open.spotify.com/track/5JxRYj0zmD6AfCciOXHTCN) | [Miwa](https://open.spotify.com/artist/6Y1cYyAqPwrzXNogyOKzDd), [Go To](https://open.spotify.com/artist/73EOGQFxjF1dcHwZYL3Y76) | [Unlove](https://open.spotify.com/album/1WYDpofR1agI395mA14xCE) | 5:30 | 2025-11-06 | 2025-12-01 |

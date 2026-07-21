@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 390 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 520 likes - 390 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 247 | [Sunday Morning Breakfast Time](https://open.spotify.com/track/59v86y4EBb3vlEDkJZBQW9) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
 | 248 | [I Loved Him \(But He Didn't Love Me\)](https://open.spotify.com/track/7x6bGxxEhint4tatmeMWaO) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sassy](https://open.spotify.com/album/0JfHI8kIycRnEN50nerxcL) | 3:24 |
 | 249 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 |
-| 250 | [I Happen to Be in Love](https://open.spotify.com/track/7sqtZKj0YYvGzpK9JZdxhQ) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4), [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:22 |
-| 251 | [Fated to Be Mated / All Of You \- Extended Version](https://open.spotify.com/track/3JZ7V700G3k9k2umXPxW6G) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Cyd Charisse](https://open.spotify.com/artist/3W7fZs1wfwxljPW0dHzNCj) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 6:34 |
+| 250 | [Fated to Be Mated / All Of You \- Extended Version](https://open.spotify.com/track/3JZ7V700G3k9k2umXPxW6G) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Cyd Charisse](https://open.spotify.com/artist/3W7fZs1wfwxljPW0dHzNCj) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 6:34 |
+| 251 | [I Happen to Be in Love](https://open.spotify.com/track/7sqtZKj0YYvGzpK9JZdxhQ) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4), [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:22 |
 | 252 | [She's Got That Thing Performed By Uncle Willie](https://open.spotify.com/track/1sWUsrYbmriB1CBgIQguJO) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:24 |
 | 253 | [Montmart'](https://open.spotify.com/track/2jSCogyx3D26wlQX2ORJTE) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Can Can](https://open.spotify.com/album/5YlJ5Cmw0eqqgESfmgWkxD) | 2:39 |
 | 254 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [Hey, Babe, Hey!](https://open.spotify.com/track/2AtJDtWp8xywuhbGQEooyY) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Forgotten Compositions](https://open.spotify.com/album/6e8n4UEP3B71zl6G6WBvYg) | 2:29 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcXTnAAAAADgyoraics2N3y/TGSFhkyK`
+Snapshot ID: `AcXZPAAAAACTPA7n7k9fUAsW3vP68FQz`

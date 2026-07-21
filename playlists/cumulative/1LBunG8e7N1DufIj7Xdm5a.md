@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,539 songs - 10 day 3 hr 30 min
+4,543 songs - 10 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [Fire\-Fire!](https://open.spotify.com/track/3ElFZz2vDDWWzLPtjfXRUb) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Fire\-Fire!](https://open.spotify.com/album/4p16uzyXDB2tGu4r9t2Sd2) | 2:43 | 2025-06-05 |  |
 | [Firefly Feast](https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1) | [MGila\_00](https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8) | [Dark Forest Cruise](https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq) | 2:09 | 2025-12-25 |  |
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-14 |  |
+| [Fish in the Sea](https://open.spotify.com/track/5J0VbqUXyj1djSsYdIAUHy) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Fish in the Sea](https://open.spotify.com/album/0RAPYqZlvRgLSBvQYXKY4g) | 1:58 | 2026-07-20 |  |
 | [Fit](https://open.spotify.com/track/7awMmCYaGE1I6z0oX30sUN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 1:57 | 2025-09-17 |  |
 | [five](https://open.spotify.com/track/0bFuDC16t5CfysEsdR0UpF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:53 | 2025-08-20 |  |
 | [flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:44 | 2025-07-28 |  |
@@ -1880,6 +1881,7 @@
 | [I Am](https://open.spotify.com/track/5FRgx1KZYq5AUsebojppwz) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 3:47 | 2025-03-30 |  |
 | [I Am Me](https://open.spotify.com/track/5Fa4b7WhQMAlx2XhOnqBch) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [I Am Me](https://open.spotify.com/album/1UIacRZ7DmpLS6DWp38Mgb) | 3:17 | 2025-09-26 |  |
 | [I Am Michael Fagan](https://open.spotify.com/track/1HETRjENhnUO0tku8mz52Z) | [The C33s](https://open.spotify.com/artist/3ez4KxW1kFC6XlXfMgOYH2) | [I Am Michael Fagan](https://open.spotify.com/album/0w4hogLcI2zFkJ5dBzmETC) | 2:40 | 2025-11-05 |  |
+| [I Call You Out \- Remix Radio Edit](https://open.spotify.com/track/2qVTr0zS7xjwECF9gYIjod) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Andrew Niman](https://open.spotify.com/artist/3rPvscmqALj5qgbgZvsaQT), [Mou5EmO](https://open.spotify.com/artist/47lc0URdetebX2eTcY4Qd9) | [I Call You Out Remixes](https://open.spotify.com/album/0oIVSMp24n4UPUiKC3vJst) | 4:31 | 2026-07-20 |  |
 | [I Can't Win](https://open.spotify.com/track/7kFuIcU2JkwY4WoY9Eytup) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [Cockerel](https://open.spotify.com/album/7K4IwPHd9KkN7T0PGvT7zQ) | 4:21 | 2025-11-05 |  |
 | [I Choose to Live](https://open.spotify.com/track/4hFfzteMtbt3HtWft1pZ50) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [I Choose to Live](https://open.spotify.com/album/0cdulu3FpKkcN5oBYftA1s) | 3:48 | 2025-03-20 |  |
 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 | 2025-07-28 |  |
@@ -3100,6 +3102,7 @@
 | [Put It Down](https://open.spotify.com/track/6myFOuMQp6uzw5BYvVm8aa) | [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [ABSENCE OF PRESENCE](https://open.spotify.com/album/0RIgj1ViL7PAk1iSoD0H3j) | 1:43 | 2025-06-23 |  |
 | [Put on your Coat](https://open.spotify.com/track/2puwzkcgDJ90hbV1MoYz4G) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Stranded](https://open.spotify.com/album/03Mb0vrHATWhWGyc2NYKRB) | 3:42 | 2025-09-20 |  |
 | [Put You Up](https://open.spotify.com/track/2MUHgh6HpXccL1jFDd42Qv) | [Lil Chef](https://open.spotify.com/artist/75kXhB2eQ7urvSo3BpRzCA) | [I Want You](https://open.spotify.com/album/6Rnsjm5fEzTlZj25vWNoQC) | 1:46 | 2025-04-30 |  |
+| [PYAR KA GULAB](https://open.spotify.com/track/4CWkNLCAxCByms2zfcBwCl) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [PYAR KA GULAB](https://open.spotify.com/album/6Li4cQoMnBO72LuUiGWClU) | 2:28 | 2026-07-20 |  |
 | [Pyongyang](https://open.spotify.com/track/4R3K1AjD3HlicYtRBChHkI) | [Unità di Produzione](https://open.spotify.com/artist/0rRsE3wADulMq6yY14Ef4z) | [Pyongyang](https://open.spotify.com/album/2udyvXNiF390plfEIjKPQC) | 2:49 | 2025-11-12 |  |
 | [Quarantine](https://open.spotify.com/track/3UzQ1eBfSNP0g2dGXLDptH) | [Electric Cherry](https://open.spotify.com/artist/66J3VXbn2sHTyX6jhIlxwZ), [Andrea Ra](https://open.spotify.com/artist/27PoZXHVOSVXG0oWhGKrbe) | [Quarantine](https://open.spotify.com/album/0RDGwPbndtjk2XuqI4ICWV) | 4:19 | 2025-04-24 |  |
 | [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 | 2025-11-24 |  |
@@ -3841,6 +3844,7 @@
 | [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 | 2025-07-28 |  |
 | [TAMATAMGEN](https://open.spotify.com/track/486Vq6M9F55WsCSs0ESqkf) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [SONICHAOSASTRA](https://open.spotify.com/album/6V9hgsDjDVQ9KzXfyAfBaV) | 3:00 | 2026-02-25 |  |
 | [Tandipatse Mpata](https://open.spotify.com/track/46EVEhJBPOxV5yghudxBIx) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [First Step Album](https://open.spotify.com/album/1e2FCaY21cGjSkfn6cr8y9) | 3:19 | 2025-06-05 |  |
+| [Tanpa Nama](https://open.spotify.com/track/3hZThHMZaV4mHdRKs1yRdG) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Tanpa Nama](https://open.spotify.com/album/6BsHHIzQFh4nFNtJP00lL9) | 3:32 | 2026-07-20 |  |
 | [Tantelectric](https://open.spotify.com/track/6JwUZhHfCb4k1KL3efgPOA) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [Tantelectric](https://open.spotify.com/album/1mEXpr1gnyNgMlfLNc6Onq) | 3:10 | 2025-08-04 |  |
 | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/track/0Gza5Xwt7Nq0U7lWk10m3r) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/album/07VIEAXP9mpLvGVNdPFxTS) | 2:48 | 2025-12-10 |  |
 | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/track/2qTiuJsLtP4W5VUtiYtZRb) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/album/5bv9OW74vOY9tnd0pyes0W) | 5:20 | 2025-11-05 |  |

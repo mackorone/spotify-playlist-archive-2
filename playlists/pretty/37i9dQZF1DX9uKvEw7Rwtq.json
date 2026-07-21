@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126313,
+  "num_followers": 126332,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Source (Live Mix)",
-        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
+        "name": "Cluster & Eno",
+        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 178686,
-      "name": "Source - Live Mix",
-      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
+      "duration_ms": 311600,
+      "name": "Ho Renomo",
+      "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Cluster & Eno",
-        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
+        "name": "Source (Live Mix)",
+        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 311600,
-      "name": "Ho Renomo",
-      "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
+      "duration_ms": 178686,
+      "name": "Source - Live Mix",
+      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "41 Longfield Street Late \u201880s",
-        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
-      },
-      "artists": [
-        {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 474353,
-      "name": "Secret City",
-      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 474353,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Old Joy",
         "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 101337,
       "name": "Path to Springs",
       "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -687,22 +703,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 209115,
       "name": "Release",
       "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -751,22 +735,34 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Sakura In Blossom",
-        "url": "https://open.spotify.com/album/08KQ0Ga7FFrIg1V3CH6QRE"
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
       "artists": [
         {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
-        },
-        {
-          "name": "Mercury 88",
-          "url": "https://open.spotify.com/artist/453LGeTHivFaGlQ7mjqJsa"
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Sakura In Blossom",
-      "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -787,18 +783,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+        "name": "Sakura In Blossom",
+        "url": "https://open.spotify.com/album/08KQ0Ga7FFrIg1V3CH6QRE"
       },
       "artists": [
         {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        },
+        {
+          "name": "Mercury 88",
+          "url": "https://open.spotify.com/artist/453LGeTHivFaGlQ7mjqJsa"
         }
       ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+      "duration_ms": 141428,
+      "name": "Sakura In Blossom",
+      "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 364166,
       "name": "Dust Bowl",
       "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "Tigerblood Jewel",
+          "url": "https://open.spotify.com/artist/4bJFkS1uMrGFdHdovQ3eIj"
         }
       ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+      "duration_ms": 165770,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6jYPt1h4G9y56f5DYADhva"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
       },
       "artists": [
         {
-          "name": "Tigerblood Jewel",
-          "url": "https://open.spotify.com/artist/4bJFkS1uMrGFdHdovQ3eIj"
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
         }
       ],
-      "duration_ms": 165770,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/6jYPt1h4G9y56f5DYADhva"
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
-      },
-      "artists": [
-        {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
-        }
-      ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Blurring",
         "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
       },
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Bloom II",
-        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
       "artists": [
         {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Live This Moment",
-      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1151,22 +1135,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
-      },
-      "artists": [
-        {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dragoon",
         "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 183050,
       "name": "Dragoon",
       "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Bloom II",
+        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Live This Moment",
+      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
+      },
+      "artists": [
+        {
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "soft silence",
-        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
-        }
-      ],
-      "duration_ms": 80937,
-      "name": "soft silence",
-      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "The Blurred Horizon",
         "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 236792,
       "name": "The Blurred Horizon",
       "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "soft silence",
+        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 80937,
+      "name": "soft silence",
+      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
       "artists": [
         {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
         }
       ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1535,34 +1535,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
       "artists": [
         {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
         }
       ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "growing up",
-        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
-      },
-      "artists": [
-        {
-          "name": "asystole",
-          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
-        }
-      ],
-      "duration_ms": 157755,
-      "name": "growing up",
-      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1583,6 +1567,22 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
+      },
+      "artists": [
+        {
+          "name": "asystole",
+          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
+        }
+      ],
+      "duration_ms": 157755,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "added_at": "2026-05-29 04:00:33",

@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 34111,
+  "num_followers": 34113,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Boticario de Amor",
         "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 185194,
       "name": "NO LA VI VENIR",
       "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -771,6 +771,38 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+      },
+      "artists": [
+        {
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        }
+      ],
+      "duration_ms": 349454,
+      "name": "Blue in Green (Sky and Sea)",
+      "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Influencias",
         "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 285487,
       "name": "Se\u00fal",
       "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        }
-      ],
-      "duration_ms": 349454,
-      "name": "Blue in Green (Sky and Sea)",
-      "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
-        }
-      ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Cosa Panicosa",
         "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 388265,
       "name": "Cosa Panicosa",
       "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+        }
+      ],
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 356723,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Fragmentos del mundo",
         "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 389440,
       "name": "Reuni\u00f3n",
       "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 356723,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 292572,
+      "name": "Creer en las Hojas",
+      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Roman",
         "url": "https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 187509,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 292572,
-      "name": "Creer en las Hojas",
-      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
     },
     {
       "added_at": "2025-04-14 14:58:34",

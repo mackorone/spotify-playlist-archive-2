@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Vaazha 2
+> Every song that's Trending NOW from Malayalam! <br/>Cover: ARJN, KDS, FIFTY4, Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,440 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,839 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Amsham \- അംശം](https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ) | [Amsham \- അംശം](https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju) | 4:41 |
-| 2 | [KALYANI \(with Shreya Ghoshal\) \- Remix](https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [KALYANI \(with Shreya Ghoshal\) \[Remix\]](https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw) | 4:29 |
+| 1 | [KALYANI \(with Shreya Ghoshal\) \- Remix](https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [KALYANI \(with Shreya Ghoshal\) \[Remix\]](https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw) | 4:29 |
+| 2 | [Amsham \- അംശം](https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ) | [Amsham \- അംശം](https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju) | 4:41 |
 | 3 | [Ada Bommale](https://open.spotify.com/track/4vq7KUT7qvqw9owOCtEyKx) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Chinmayi Kiranlal](https://open.spotify.com/artist/2i3mTDaZz7JPB07kenetXf), [Minya Panicker](https://open.spotify.com/artist/3nQURhsYmFmJap50kBPVBH), [Nila Raj](https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT), [Heykarthii](https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX) | [Vaazha 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0) | 3:00 |
 | 4 | [Kinginichar](https://open.spotify.com/track/0ZdCs8N8qF5bBozuOGH56r) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Kinginichar](https://open.spotify.com/album/2tkEnbj7yA9WIRxEbPhrQA) | 2:12 |
 | 5 | [Koodappirannor](https://open.spotify.com/track/4zeA83WTPlKCkag4utanxx) | [Parvatish Pradeep](https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Nila Raj](https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Vaazha 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Munthirichar](https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Munthirichar](https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ) | 3:54 |
 | 50 | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV) | 4:07 |
 
-Snapshot ID: `AAAAAD9kzz0l3/uKuCkDylm62t+mhcW+`
+Snapshot ID: `AAAAAAvMNmc6l6TdIcqtyHkNdcNbseS1`

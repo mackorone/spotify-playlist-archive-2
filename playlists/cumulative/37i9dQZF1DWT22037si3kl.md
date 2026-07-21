@@ -2,7 +2,7 @@
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> pralém de outfit\. AURA\. Foto: M'DEP, DESIIKKK
+> pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
 485 songs - 23 hr 11 min
 

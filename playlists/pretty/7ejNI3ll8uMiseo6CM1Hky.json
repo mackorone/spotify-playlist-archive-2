@@ -6,7 +6,7 @@
     "name": "Bike Mate",
     "url": "https://open.spotify.com/user/towmater1200"
   },
-  "snapshot_id": "AAACDYepXQFPaV10NXUXGUbHwqVP1BKw",
+  "snapshot_id": "AAACEFX5WMQ3muC3kE5CeFv5MvBOFQXE",
   "tracks": [
     {
       "added_at": "2018-12-06 03:41:24",
@@ -3287,6 +3287,54 @@
       "duration_ms": 201937,
       "name": "Knock Knock Who Cares? (Jax's Song)",
       "url": "https://open.spotify.com/track/0vmr1VFcm4Oc84QNYV0JOU"
+    },
+    {
+      "added_at": "2026-07-20 08:12:20",
+      "album": {
+        "name": "LIKE YOU~",
+        "url": "https://open.spotify.com/album/4Y6pfBfbWkIjVd9Aez7sRb"
+      },
+      "artists": [
+        {
+          "name": "ANATHEMA-000",
+          "url": "https://open.spotify.com/artist/0ej6k9H4smUlP6fLlxBg7c"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "LIKE YOU~",
+      "url": "https://open.spotify.com/track/1fq71XiI5t98OsbwvPHX2j"
+    },
+    {
+      "added_at": "2026-07-20 08:12:42",
+      "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "duration_ms": 275999,
+      "name": "Welcome to The Internet",
+      "url": "https://open.spotify.com/track/3s44Qv8x974tm0ueLexMWN"
+    },
+    {
+      "added_at": "2026-07-21 03:13:51",
+      "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
     }
   ],
   "unique_name": "Songs that remind me I'm a furry",

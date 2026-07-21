@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "NOISY NOISY NOISY",
+        "url": "https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm"
+      },
+      "artists": [
+        {
+          "name": "Impulse Bangs",
+          "url": "https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172712,
+      "name": "Forgot Yourself",
+      "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
+    },
+    {
+      "album": {
         "name": "Fly Eagle Fly",
         "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,173 likes - 130 songs - 8 hr 3 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,178 likes - 135 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 128 | [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 |
 | 129 | [Little Demon](https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Little Demon](https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7) | 3:47 |
 | 130 | [Dirty Water](https://open.spotify.com/track/5G2BUm8AtT8toVdU6qV544) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Dirty Water](https://open.spotify.com/album/0nDu8Onvw6twzghMc55BiA) | 3:18 |
+| 131 | [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 |
+| 132 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
+| 133 | [American Viking](https://open.spotify.com/track/5F779kjudzpaiweg4vyW24) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:14 |
+| 134 | [No Regrets](https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:02 |
+| 135 | [Slow Tide](https://open.spotify.com/track/0kKQmicsDuiV5GFp4zec4j) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Slow Tide](https://open.spotify.com/album/5K5o9OAQz2MbPkqVoMibmf) | 3:43 |
 
-Snapshot ID: `AAAGqLnCY3k+JQS7X1ZhPzPkXhYBjG0G`
+Snapshot ID: `AAAGrZScIyj3pH2K9Q0Rw+ZCAZKtV1BL`

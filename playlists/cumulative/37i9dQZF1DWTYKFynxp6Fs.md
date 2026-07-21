@@ -2,7 +2,7 @@
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Vaazha 2
+> Every song that's Trending NOW from Malayalam! <br/>Cover: ARJN, KDS, FIFTY4, Shreya Ghoshal
 
 140 songs - 8 hr 12 min
 

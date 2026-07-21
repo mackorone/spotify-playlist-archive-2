@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-649 songs - 1 day 19 hr 36 min
+650 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [K'OSENI](https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [K'OSENI](https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq) | 3:07 | 2026-07-10 |  |
 | [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 | 2026-07-12 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |
+| [L.I.E \(Life Is Easy\)](https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [L.I.E \(Life Is Easy\)](https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM) | 2:48 | 2026-07-10 |  |
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 | 2025-02-07 |
 | [LAS LAS](https://open.spotify.com/track/6ASx7WaH5dJKxcq0lGHEZZ) | [Richrok](https://open.spotify.com/artist/2u1nZOO16DH6500HiJYXyZ) | [LAS LAS](https://open.spotify.com/album/2av1PbpOikyD0uTzg3u1aw) | 2:21 | 2025-11-14 | 2026-03-27 |
 | [Lead Me](https://open.spotify.com/track/0JXSgSVB31nCQUCkhOZvY1) | [IFE MOJ](https://open.spotify.com/artist/3U2I43J4bODnDwtbkW7kCv) | [Lead Me](https://open.spotify.com/album/1UV4yIofIWGmNFBcNfyEAZ) | 3:45 | 2025-04-04 | 2025-05-02 |
@@ -650,7 +651,7 @@
 | [Your own](https://open.spotify.com/track/2xv30FkCJ3xPkRRM1QGRoL) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Bayor Martins](https://open.spotify.com/artist/2g3PuqCcgoIYsH1TeiyrLq) | [Your own](https://open.spotify.com/album/7IL5uFzxM9UryFFIjDzn49) | 6:29 | 2025-03-14 | 2025-05-02 |
 | [Your ways](https://open.spotify.com/track/1uqsvT2rcni4pa1KxOKPgx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Eva Swanson](https://open.spotify.com/artist/6xUIcrMr1TuAwBepBySPJZ) | [Your ways](https://open.spotify.com/album/6iUC92Nr82kc5MlPL3kruE) | 1:57 | 2025-01-24 | 2025-05-23 |
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-10 | 2025-02-28 |
-| [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:26 | 2026-06-12 |  |
+| [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:26 | 2026-06-12 | 2026-07-21 |
 | [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-09 |  |
 | [Zero Shege](https://open.spotify.com/track/4PlCXCaxZI35ZM8rKHgbL0) | [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk) | [Zero Shege](https://open.spotify.com/album/7E61GP74XnL2Row5lOZFR4) | 1:13 | 2025-01-31 | 2025-03-21 |
 | [ZOE](https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ZOE](https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I) | 3:29 | 2024-11-01 | 2025-01-31 |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,058 songs - 2 day 9 hr 44 min
+1,059 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Idea 5 \(Call My Name\) \[feat\. LULU.\]](https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 4:51 | 2025-07-13 |  |
 | [IDWL](https://open.spotify.com/track/4FxIGIFx8t2KfuTInsFN0T) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [IDWL](https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP) | 3:40 | 2021-12-15 | 2022-07-29 |
 | [If This Is Love](https://open.spotify.com/track/4tPtlrjm8RxUjym8UaH2Ap) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 3:26 | 2023-10-20 | 2025-09-08 |
+| [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 | 2023-02-16 |  |
 | [IJS](https://open.spotify.com/track/165JdCb1wEYmP5WfOXfBfa) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [IJS](https://open.spotify.com/album/5YkPkHK7iETIRUQh4NAeaI) | 3:47 | 2024-02-02 | 2024-07-20 |
 | [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 | 2024-08-02 | 2024-10-31 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-11 | 2022-04-08 |
@@ -719,7 +720,7 @@
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2021-12-15 | 2023-08-19 |
 | [Payday](https://open.spotify.com/track/1TEHeYuZGKXIcZxONEsJ3K) | [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Payday](https://open.spotify.com/album/0lofROR75lRgE1OZzPl1Pw) | 3:10 | 2021-12-15 | 2022-04-07 |
 | [Peace](https://open.spotify.com/track/18Fo0zC23cPCGOd5zw5dCk) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Peace](https://open.spotify.com/album/5RhWxnB3pZTCOISQ5TDBiW) | 2:42 | 2024-01-12 | 2025-01-30 |
-| [Peace In The Dark](https://open.spotify.com/track/0M19QAbec6PjqSgxGnthqH) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Social Commentary](https://open.spotify.com/album/4CDA6a2Q1kUSSOlEXcX0nW) | 4:45 | 2025-03-07 |  |
+| [Peace In The Dark](https://open.spotify.com/track/0M19QAbec6PjqSgxGnthqH) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Social Commentary](https://open.spotify.com/album/4CDA6a2Q1kUSSOlEXcX0nW) | 4:45 | 2025-03-07 | 2026-07-21 |
 | [PHONICS \(feat\. Tempest & WESTSIDE BOOGIE\)](https://open.spotify.com/track/1xsgBPMUrBYyZPMP8RjiWC) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [PHONICS \(feat\. WESTSIDE BOOGIE & Tempest\)](https://open.spotify.com/album/2NjWGl9tN0HbuqjSzlBBVp) | 3:34 | 2024-01-26 | 2024-07-09 |
 | [Pick Me Up](https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pick Me Up](https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4) | 2:50 | 2024-04-12 | 2024-06-05 |
 | [Pieces](https://open.spotify.com/track/1u18SQwJDPSty0nWXlDtQ3) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Inside Voice\(s\): Side A](https://open.spotify.com/album/53wjqCFLDtqYkthnsJlQeY) | 2:24 | 2024-09-13 | 2025-01-25 |

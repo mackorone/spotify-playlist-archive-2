@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303582,
+  "num_followers": 303590,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADAwLEkSDhOK5B1sE4DSROd",
+  "snapshot_id": "alwTgAAAAAAln3K9TiEtBulcceXZcVbV",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Sacred Land",
-      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
+      "duration_ms": 240693,
+      "name": "The Beating of Wings",
+      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 240693,
-      "name": "The Beating of Wings",
-      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
+      "duration_ms": 212933,
+      "name": "Sacred Land",
+      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "A Gypsy's Kiss",
-      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 449133,
       "name": "Sometimes I Feel Like Screaming",
       "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "A Gypsy's Kiss",
+      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
     },
     {
       "added_at": null,

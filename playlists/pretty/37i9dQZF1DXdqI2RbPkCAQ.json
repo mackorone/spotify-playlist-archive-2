@@ -1,12 +1,12 @@
 {
   "description": "marrakech season",
-  "num_followers": 295998,
+  "num_followers": 296265,
   "original_name": "Moroccan Moonlight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHbdcjjGUceN2TOc6EWgau3gEHf",
+  "snapshot_id": "AAAAALV+jxKAMxTInGZXQb2NrtWYooSe",
   "tracks": [
     {
       "added_at": "2026-07-14 08:50:35",
@@ -199,6 +199,34 @@
       "duration_ms": 208166,
       "name": "Wale Wale (feat. Sofiya Nzau)",
       "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
+    },
+    {
+      "added_at": "2026-07-20 06:13:52",
+      "album": {
+        "name": "Tiki Tiki 2.0",
+        "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Tiki Tiki 2.0",
+      "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
     },
     {
       "added_at": "2026-07-14 08:50:35",
@@ -1403,34 +1431,6 @@
       "duration_ms": 195371,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
-    },
-    {
-      "added_at": "2026-07-14 08:50:35",
-      "album": {
-        "name": "Maithori",
-        "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maithori",
-      "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
     },
     {
       "added_at": "2026-07-14 08:50:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Masego and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,731 likes - 79 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,791 likes - 79 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

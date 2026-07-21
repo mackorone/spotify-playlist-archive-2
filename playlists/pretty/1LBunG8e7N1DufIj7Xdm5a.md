@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,611 songs - 10 day 7 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,615 songs - 10 day 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4619,5 +4619,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4609 | [Stupida Malinconia](https://open.spotify.com/track/1L10nxkefiXTsxpJueUtgA) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:52 |
 | 4610 | [Wake Up From My Dream \(Rework\)](https://open.spotify.com/track/3cLbAMRBcNI9EKPtk2MJKL) | [Müzab](https://open.spotify.com/artist/59RdDdUFswXJaIwVcccyga) | [Wake Up From My Dream \(Rework\)](https://open.spotify.com/album/6JosFOcSGwJ8G2jOMrNOEt) | 3:30 |
 | 4611 | [Back on the Clock](https://open.spotify.com/track/39dr9QgeIicvj2SBEJmv2j) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:21 |
+| 4612 | [PYAR KA GULAB](https://open.spotify.com/track/4CWkNLCAxCByms2zfcBwCl) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [PYAR KA GULAB](https://open.spotify.com/album/6Li4cQoMnBO72LuUiGWClU) | 2:28 |
+| 4613 | [Tanpa Nama](https://open.spotify.com/track/3hZThHMZaV4mHdRKs1yRdG) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Tanpa Nama](https://open.spotify.com/album/6BsHHIzQFh4nFNtJP00lL9) | 3:32 |
+| 4614 | [I Call You Out \- Remix Radio Edit](https://open.spotify.com/track/2qVTr0zS7xjwECF9gYIjod) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Andrew Niman](https://open.spotify.com/artist/3rPvscmqALj5qgbgZvsaQT), [Mou5EmO](https://open.spotify.com/artist/47lc0URdetebX2eTcY4Qd9) | [I Call You Out Remixes](https://open.spotify.com/album/0oIVSMp24n4UPUiKC3vJst) | 4:31 |
+| 4615 | [Fish in the Sea](https://open.spotify.com/track/5J0VbqUXyj1djSsYdIAUHy) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Fish in the Sea](https://open.spotify.com/album/0RAPYqZlvRgLSBvQYXKY4g) | 1:58 |
 
-Snapshot ID: `AAAJRGtTxMaYUU28jJl5Ug+/Tcm01/Yx`
+Snapshot ID: `AAAJSPv2hO8JV2B5NDVeUVrCFb7sNvkv`

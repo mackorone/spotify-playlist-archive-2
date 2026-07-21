@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Future
 
-2,828 songs - 5 day 11 hr 43 min
+2,829 songs - 5 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2037,6 +2037,7 @@
 | [Quez Home](https://open.spotify.com/track/1KIHWa5ltofQsk6BMibs3j) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [Quez Home](https://open.spotify.com/album/4atFVQITJ8Ls1Cx3XFfLwK) | 1:50 | 2024-04-26 | 2024-05-04 |
 | [Quickie](https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Quickie](https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T) | 3:07 | 2022-12-09 | 2023-04-01 |
 | [Quicksand](https://open.spotify.com/track/5BdckqMqMlq3XWX3Pgr8WY) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Quicksand](https://open.spotify.com/album/3lXXeDXAOGErPbuGwhZ3Of) | 2:10 | 2022-07-01 | 2022-07-16 |
+| [Quiet on the Creek](https://open.spotify.com/track/1lLqWYr8d5GbiCAgmNV5BK) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Quiet on the Creek](https://open.spotify.com/album/4UBXeWTpsMbIEWzT1aSbAd) | 2:19 | 2026-07-20 |  |
 | [R50](https://open.spotify.com/track/3D8uqkojIqz7GgsoJOlHbR) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [R50](https://open.spotify.com/album/4NSVDq87EzF6n9AujrTnIy) | 1:45 | 2024-05-17 | 2024-06-01 |
 | [RADA RADA](https://open.spotify.com/track/4Bui9oXVCWkCVnAGM6DPxg) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [RADA RADA](https://open.spotify.com/album/0hYp8ix2AqEl5lFl6Gruzm) | 1:44 | 2024-06-07 | 2024-06-22 |
 | [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 | 2026-06-26 | 2026-07-11 |

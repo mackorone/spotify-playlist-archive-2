@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112761,
+  "num_followers": 112769,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Exaltado",
+        "url": "https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 391267,
+      "name": "Exaltado",
+      "url": "https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Excede o Entendimento (Live Session)",
         "url": "https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 213000,
       "name": "Samaritana",
       "url": "https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Exaltado",
-        "url": "https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/3lvf3Rr3Enw2LuFWKWMgmy"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 391267,
-      "name": "Exaltado",
-      "url": "https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Festa no Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 227717,
-      "name": "Festa no Deserto - Ao Vivo",
-      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Amor de Deus",
         "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 178000,
       "name": "Amor de Deus",
       "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 266020,
       "name": "Apenas Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Selo do Perd\u00e3o (Legado)",
         "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 250186,
       "name": "Selo do Perd\u00e3o (Legado)",
       "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1223,6 +1223,30 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
+      },
+      "artists": [
+        {
+          "name": "Jana Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Mostra-Me Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
@@ -1255,30 +1279,6 @@
       "duration_ms": 125890,
       "name": "Deixa Esse Medo",
       "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
-      },
-      "artists": [
-        {
-          "name": "Jana Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Me Leva Al\u00e9m",
         "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2026-07-17 17:14:21",

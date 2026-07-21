@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,685 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngizwile](https://open.spotify.com/track/5Q4AIvjuZZojCAWiLKJ5Sn) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Lakay \(Home\)](https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d) | 3:34 |
-| 2 | [Stumble](https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Stumble](https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU) | 3:48 |
-| 3 | [Hamba Nawe](https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R) | [Hamba Nawe](https://open.spotify.com/album/7720b71R3tldNOQDtxI2B9) | 6:12 |
-| 4 | [Tiki Tiki 2.0](https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Tiki Tiki 2.0](https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ) | 3:10 |
+| 1 | [Tiki Tiki 2.0](https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Tiki Tiki 2.0](https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ) | 3:10 |
+| 2 | [Ngizwile](https://open.spotify.com/track/5Q4AIvjuZZojCAWiLKJ5Sn) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Lakay \(Home\)](https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d) | 3:34 |
+| 3 | [Stumble](https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Stumble](https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU) | 3:48 |
+| 4 | [Hamba Nawe](https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R) | [Hamba Nawe](https://open.spotify.com/album/7720b71R3tldNOQDtxI2B9) | 6:12 |
 | 5 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 |
 | 6 | [Mama](https://open.spotify.com/track/5uzwVxFxINbWYG0tqBKqXo) | [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym) | [Mama](https://open.spotify.com/album/7f9MnZmMoi48gXKG1aj2ct) | 4:51 |
 | 7 | [UA](https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [MMMCXII](https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 49 | [Awe Mah](https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Awe Mah](https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU) | 3:33 |
 | 50 | [Kokareku](https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o) | [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kokareku](https://open.spotify.com/album/5QaJDPZpKXsqM7ZG40npIl) | 4:19 |
 
-Snapshot ID: `AAAAAJNzva3beVixjjm1HMiykKdWbHIc`
+Snapshot ID: `AAAAADYZ3ykVdRav5+nRQjxpwldLhoU0`

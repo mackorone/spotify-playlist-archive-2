@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "All I've Seen",
+        "url": "https://open.spotify.com/album/1VNxFcmWwIugXgHTb2UiRx"
+      },
+      "artists": [
+        {
+          "name": "Evanora Unlimited",
+          "url": "https://open.spotify.com/artist/71SAxqRLYirlXRiHsIAuJT"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "All I've Seen",
+      "url": "https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c"
+    },
+    {
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },

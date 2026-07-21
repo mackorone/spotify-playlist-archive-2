@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Gracie Abrams, GIMS x Mauvais djo et disiz au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,606 likes - 91 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,575 likes - 91 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 21 | [Weekend](https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Weekend](https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq) | 2:33 |
 | 22 | [Booster](https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Booster](https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb) | 2:11 |
 | 23 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
-| 24 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
+| 24 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
 | 25 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 | 26 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
 | 27 | [Pétasse](https://open.spotify.com/track/6gku3PpAyVijYeot4mSpRn) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c), [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [Pétasse](https://open.spotify.com/album/2rXpqyZu4qdeQKOxaLpeqP) | 2:57 |

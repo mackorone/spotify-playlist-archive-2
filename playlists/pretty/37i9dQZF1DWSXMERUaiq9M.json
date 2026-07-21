@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 410087,
+  "num_followers": 410575,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,42 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 216778,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/4fQDq1sjjn1COVRXpvUKED"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/3JJcOCcWlQQe4FNbKAt742"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -1035,22 +1071,6 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/4fQDq1sjjn1COVRXpvUKED"
-      },
-      "artists": [
-        {
-          "name": "Mode\u0101",
-          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
-        }
-      ],
-      "duration_ms": 178309,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/3JJcOCcWlQQe4FNbKAt742"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 216778,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
     },
     {
       "added_at": "2026-07-09 22:00:26",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
-        "name": "By My Side (Stolen Dance)",
-        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "By My Side (Stolen Dance)",
-      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
+        "name": "By My Side (Stolen Dance)",
+        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "By My Side (Stolen Dance)",
+      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
     },
     {
       "added_at": "2026-07-09 22:00:26",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
-        "name": "Rave Kid EP",
-        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "LaLaLo",
-      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
     },
     {
       "added_at": "2026-07-09 22:00:26",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
         "name": "Dance In The Light",
         "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 230886,
       "name": "Dance In The Light",
       "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
-      },
-      "artists": [
-        {
-          "name": "AEREA",
-          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
     },
     {
       "added_at": "2026-07-09 22:00:26",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
-        }
-      ],
-      "duration_ms": 168193,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
         "name": "You Need The Drugs (Kobosil Kartell Mix)",
         "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 168193,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly"
     },
     {
       "added_at": "2026-07-09 22:00:26",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-07-09 22:00:26",
       "album": {
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
+    },
+    {
+      "added_at": "2026-07-09 22:00:26",
+      "album": {
         "name": "4am In A Rave / Speed Is A Deed",
         "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2026-07-09 22:00:26",
-      "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     }
   ],
   "unique_name": "rave",

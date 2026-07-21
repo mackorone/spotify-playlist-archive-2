@@ -34038,7 +34038,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 2218040,
       "name": "In a Silent Way / What About Time - Live at Big Ears",
       "url": "https://open.spotify.com/track/15VTTCmsGg3eT5lszhYiQq"
@@ -60153,6 +60153,52 @@
     },
     {
       "album": {
+        "name": "In a Silent Way Reimagined (Live at Big Ears)",
+        "url": "https://open.spotify.com/album/2c8PslweUITteZc6hbOsNm"
+      },
+      "artists": [
+        {
+          "name": "Joel Harrison",
+          "url": "https://open.spotify.com/artist/6BXA5FDonefcAe2hg4T7K5"
+        },
+        {
+          "name": "Brandon Seabrook",
+          "url": "https://open.spotify.com/artist/4ifJc3icwlell38NYGXpOb"
+        },
+        {
+          "name": "Sam Sadigursky",
+          "url": "https://open.spotify.com/artist/1rpWIEpiSSEibIl6pviQQp"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        },
+        {
+          "name": "Jerome Harris",
+          "url": "https://open.spotify.com/artist/0BLhUsMlOfOupCibR5w3PE"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Tim Keiper",
+          "url": "https://open.spotify.com/artist/1stHHjOFTWBdAsEUNRkWEu"
+        },
+        {
+          "name": "Silas the Soundmaker",
+          "url": "https://open.spotify.com/artist/1jer5VAaJCHrOdxtYpcGqX"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1499360,
+      "name": "Shhh / Shalom - Live at Big Ears",
+      "url": "https://open.spotify.com/track/1skcKONGXjFfYvh2kIOTmj"
+    },
+    {
+      "album": {
         "name": "BUBBLE",
         "url": "https://open.spotify.com/album/62F4yFTDdE2zxMstIRUquG"
       },
@@ -70383,7 +70429,7 @@
     },
     {
       "album": {
-        "name": "There Will Never Be Another You (Remix)",
+        "name": "There Will Never Be Another You (Ornithology & Braxton Cook & Henry Wine Remix)",
         "url": "https://open.spotify.com/album/1d6m1lVZcYuHcdmjO4CNkJ"
       },
       "artists": [
@@ -70392,12 +70438,12 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        },
-        {
           "name": "Braxton Cook",
           "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
         },
         {
           "name": "Henry Wine",
@@ -70408,7 +70454,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151000,
-      "name": "There Will Never Be Another You - Remix",
+      "name": "There Will Never Be Another You - Ornithology & Braxton Cook & Henry Wine Remix",
       "url": "https://open.spotify.com/track/3t3shoqk3pJlAaRC37iZR7"
     },
     {

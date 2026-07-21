@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Apsilon, Berq",
-  "num_followers": 460749,
+  "num_followers": 460760,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABylLEUlUcZ0Rq64j/F4w/nONkiz",
+  "snapshot_id": "AAAAAGudap2MkYifQNjhqABAGzb6t+aa",
   "tracks": [
     {
       "added_at": "2026-07-16 22:00:47",
@@ -67,22 +67,18 @@
     {
       "added_at": "2026-07-16 22:00:47",
       "album": {
-        "name": "FALLING IN",
-        "url": "https://open.spotify.com/album/6fQeqTMN8F6khtAADxbcQJ"
+        "name": "Druck Auf Meiner Lunge",
+        "url": "https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK"
       },
       "artists": [
         {
-          "name": "siovo",
-          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
-        },
-        {
-          "name": "nocashfromparents",
-          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
         }
       ],
-      "duration_ms": 219201,
-      "name": "FALLING IN",
-      "url": "https://open.spotify.com/track/0Q3IRUiBbUSL0E8nEcD97M"
+      "duration_ms": 232155,
+      "name": "Druck Auf Meiner Lunge",
+      "url": "https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K"
     },
     {
       "added_at": "2026-07-16 22:00:47",
@@ -103,18 +99,18 @@
     {
       "added_at": "2026-07-16 22:00:47",
       "album": {
-        "name": "Druck Auf Meiner Lunge",
-        "url": "https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK"
+        "name": "Schnapsidee",
+        "url": "https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9"
       },
       "artists": [
         {
-          "name": "elia",
-          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
         }
       ],
-      "duration_ms": 232155,
-      "name": "Druck Auf Meiner Lunge",
-      "url": "https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K"
+      "duration_ms": 162490,
+      "name": "Schnapsidee",
+      "url": "https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x"
     },
     {
       "added_at": "2026-07-16 22:00:47",
@@ -135,18 +131,38 @@
     {
       "added_at": "2026-07-16 22:00:47",
       "album": {
-        "name": "Schnapsidee",
-        "url": "https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9"
+        "name": "Sie hatten recht",
+        "url": "https://open.spotify.com/album/4mzVdDstDYqCY3YdEniUyA"
       },
       "artists": [
         {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+          "name": "KARGO",
+          "url": "https://open.spotify.com/artist/0QxzeJ5g8bSdcwTvt3ZEMW"
         }
       ],
-      "duration_ms": 162490,
-      "name": "Schnapsidee",
-      "url": "https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x"
+      "duration_ms": 189250,
+      "name": "Sie hatten recht",
+      "url": "https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K"
+    },
+    {
+      "added_at": "2026-07-16 22:00:47",
+      "album": {
+        "name": "FALLING IN",
+        "url": "https://open.spotify.com/album/6fQeqTMN8F6khtAADxbcQJ"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        },
+        {
+          "name": "nocashfromparents",
+          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
+        }
+      ],
+      "duration_ms": 219201,
+      "name": "FALLING IN",
+      "url": "https://open.spotify.com/track/0Q3IRUiBbUSL0E8nEcD97M"
     },
     {
       "added_at": "2026-07-16 22:00:47",
@@ -179,22 +195,6 @@
       "duration_ms": 154099,
       "name": "Wohnung",
       "url": "https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch"
-    },
-    {
-      "added_at": "2026-07-16 22:00:47",
-      "album": {
-        "name": "Sie hatten recht",
-        "url": "https://open.spotify.com/album/4mzVdDstDYqCY3YdEniUyA"
-      },
-      "artists": [
-        {
-          "name": "KARGO",
-          "url": "https://open.spotify.com/artist/0QxzeJ5g8bSdcwTvt3ZEMW"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Sie hatten recht",
-      "url": "https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K"
     },
     {
       "added_at": "2026-07-16 22:00:47",

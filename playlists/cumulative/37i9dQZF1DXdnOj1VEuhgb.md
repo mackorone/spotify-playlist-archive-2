@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Norm Ender
 
-1,076 songs - 1 day 23 hr 59 min
+1,077 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Karizma](https://open.spotify.com/track/4VChhXnTFtnmrqtTdszwKa) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Karizma](https://open.spotify.com/album/0nK4TdgxlGcETjDUyXePuE) | 2:44 | 2026-06-26 | 2026-07-10 |
 | [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-03 | 2024-12-13 |
 | [KATANA](https://open.spotify.com/track/1lBFlo5LGdC6A5G7Dj1Cip) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [KATANA](https://open.spotify.com/album/6TKb83p6EWwQPjUqT8lMYN) | 2:13 | 2025-11-27 | 2025-12-12 |
+| [Kaybeden](https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Kaybeden](https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5) | 2:17 | 2026-07-20 |  |
 | [Kaybet](https://open.spotify.com/track/2clKyB93M9tT80yraXSHWs) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kaybet](https://open.spotify.com/album/51G4p4KQeDHKTkhf7mEpJS) | 2:51 | 2026-04-16 | 2026-05-26 |
 | [kaybolursun](https://open.spotify.com/track/7FM47IKI0QpQLQbU1ouayH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU) | [kaybolursun](https://open.spotify.com/album/5Rhuau8RgEU96cZqcoTdeB) | 3:16 | 2025-12-04 | 2025-12-19 |
 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 | 2025-10-16 | 2025-12-05 |
@@ -612,7 +613,7 @@
 | [LANNISTER](https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [LANNISTER](https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM) | 2:09 | 2024-04-04 | 2024-06-01 |
 | [Lavinia 2](https://open.spotify.com/track/4LZQ6ErsWXmZAJZCfi4l68) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM) | [Lavinia 2](https://open.spotify.com/album/5FcI3lAxQADc8exNbk1syn) | 2:58 | 2024-08-29 | 2024-09-20 |
 | [Le Beyrut](https://open.spotify.com/track/48Wo9RAuEzFCtZRfB190C2) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3), [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve), [APL](https://open.spotify.com/artist/3MiZSR4SDzxNoPfjRbMywk) | [AÇ KURT MIXTAPE](https://open.spotify.com/album/2lCBkbMGavxhvod2I4qtZo) | 2:21 | 2025-04-10 | 2025-04-25 |
-| [LEGACY](https://open.spotify.com/track/0dXZkoWyGGkqGdLPbFmV8D) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Konfezar](https://open.spotify.com/artist/67Lp3xvEAJZ4UJ0tRtl20u) | [LEGACY](https://open.spotify.com/album/6D9Q7RrMScvbhCIRzoIhjL) | 2:36 | 2026-07-02 |  |
+| [LEGACY](https://open.spotify.com/track/0dXZkoWyGGkqGdLPbFmV8D) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Konfezar](https://open.spotify.com/artist/67Lp3xvEAJZ4UJ0tRtl20u) | [LEGACY](https://open.spotify.com/album/6D9Q7RrMScvbhCIRzoIhjL) | 2:36 | 2026-07-02 | 2026-07-21 |
 | [LELELE](https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [LELELE](https://open.spotify.com/album/280tzkxAqhjDejY78x31ZX) | 2:38 | 2023-08-17 | 2023-09-22 |
 | [LETS GO PARTY](https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [LETS GO PARTY](https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4) | 2:25 | 2023-09-21 | 2023-10-06 |
 | [LIMIT YOK \(feat\. Geolier\)](https://open.spotify.com/track/0oeklrrzFKY6GUay5zkpm7) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [LIMIT YOK \(feat\. Geolier\)](https://open.spotify.com/album/57vfwkFxrb6FP4XWwKcINC) | 2:34 | 2024-06-27 | 2024-07-12 |

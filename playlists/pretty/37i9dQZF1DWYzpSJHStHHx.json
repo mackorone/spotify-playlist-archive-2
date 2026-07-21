@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484577,
+  "num_followers": 484567,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "For The Dreams",
+        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 225198,
+      "name": "Southerly",
+      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "News of the Universe",
         "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 158085,
       "name": "What's Next",
       "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "For The Dreams",
-        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
-      },
-      "artists": [
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 225198,
-      "name": "Southerly",
-      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "Only One I Want",
+        "url": "https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "duration_ms": 203340,
+      "name": "Only One I Want",
+      "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "Thrift Store",
         "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 253213,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "Only One I Want",
-        "url": "https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr"
-      },
-      "artists": [
-        {
-          "name": "Bones and Jones",
-          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
-        }
-      ],
-      "duration_ms": 203340,
-      "name": "Only One I Want",
-      "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "Cigarettes In Space",
         "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "La Trilog\u00eda del Error",
+        "url": "https://open.spotify.com/album/3xUqRU9N9FklbpLid4110z"
+      },
+      "artists": [
+        {
+          "name": "Los Tiros",
+          "url": "https://open.spotify.com/artist/15hYqXim8Ss0qmd7w3RbmP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sociedad de Fideos Fr\u00edos de Jap\u00f3n",
+      "url": "https://open.spotify.com/track/2QkPmNXgmCzqbcdoYNOfhi"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1191,22 +1207,6 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "La Trilog\u00eda del Error",
-        "url": "https://open.spotify.com/album/3xUqRU9N9FklbpLid4110z"
-      },
-      "artists": [
-        {
-          "name": "Los Tiros",
-          "url": "https://open.spotify.com/artist/15hYqXim8Ss0qmd7w3RbmP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sociedad de Fideos Fr\u00edos de Jap\u00f3n",
-      "url": "https://open.spotify.com/track/2QkPmNXgmCzqbcdoYNOfhi"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

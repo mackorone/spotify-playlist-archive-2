@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Coastal Solitude",
+        "url": "https://open.spotify.com/album/6ut0HdWzUcYhISevfihcvU"
+      },
+      "artists": [
+        {
+          "name": "Celestial Elements",
+          "url": "https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166901,
+      "name": "Coastal Solitude",
+      "url": "https://open.spotify.com/track/3Sx9ldQ0aLFU0EzFpA4eUc"
+    },
+    {
+      "album": {
         "name": "Waves Crying Vol. 1",
         "url": "https://open.spotify.com/album/2c2mW4XV0uVGnq51GpUURs"
       },
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 214380,
       "name": "Soothing Mediterranean Waves 2",
       "url": "https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc"

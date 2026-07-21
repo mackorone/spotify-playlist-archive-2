@@ -11964,7 +11964,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 211535,
       "name": "High On A Feeling",
       "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
@@ -17748,6 +17748,28 @@
       "duration_ms": 278120,
       "name": "Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/41OXi4lfWFAYr7TOsgxPCb"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Brittany Egbert",
+          "url": "https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
     },
     {
       "album": {

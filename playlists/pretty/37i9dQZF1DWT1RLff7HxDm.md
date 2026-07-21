@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,264 likes - 100 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,282 likes - 100 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 2 | [Bridge Of Sighs \- Live](https://open.spotify.com/track/1jXLVE3dElUuZtNSzEdS47) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [One Moment In Time \- Live In The USA](https://open.spotify.com/album/4C3vv8GnYzhY0XM6isgH5p) | 9:00 |
 | 3 | [A Million Miles Away \(Live\)](https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 7:58 |
 | 4 | [Rusty Razor \- Live](https://open.spotify.com/track/6ZvL3WdA52MHVMVTmm1Qax) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Live\)](https://open.spotify.com/album/2zZRKH23VWu238v3IZQukT) | 3:09 |
-| 5 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
+| 5 | [Once \- Live from LA and London](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
 | 6 | [Banks Of The Deep End \(Live\)](https://open.spotify.com/track/60AlTSkdnDtaXIUTBQp2oZ) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Banks Of The Deep End \(Live\)](https://open.spotify.com/album/2EgICrAtYiJ2yGAP3N9HDm) | 6:41 |
 | 7 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 |
 | 8 | [Paper Doll \- Live](https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Live\)](https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey) | 4:16 |

@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4mo7nNbZz1SU4LqXps08OH"
+      },
+      "artists": [
+        {
+          "name": "Zandhr",
+          "url": "https://open.spotify.com/artist/5jNS4UND764HgwJHcRCUv1"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239390,
+      "name": "better days",
+      "url": "https://open.spotify.com/track/5I5bwrrP3XkMVJMzyrzptZ"
+    },
+    {
+      "album": {
         "name": "Higher Than Heaven (Deluxe)",
         "url": "https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq"
       },

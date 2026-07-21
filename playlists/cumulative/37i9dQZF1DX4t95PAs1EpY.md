@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-565 songs - 21 hr 44 min
+567 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [blurred out](https://open.spotify.com/track/5waQSpQkpTftnueMCFQ0C9) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [blurred out](https://open.spotify.com/album/77cPsZNnPm0HkcuyRbwJN9) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2021-12-07 | 2022-12-10 |
 | [Bonsai Sunrise](https://open.spotify.com/track/1qVdSaRhMn93D9kaeRJjA7) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Bonsai Sunrise](https://open.spotify.com/album/72JeWlEACI92zQaJutS9vA) | 1:43 | 2023-08-31 | 2023-09-08 |
-| [Bosse](https://open.spotify.com/track/5Z2uDIdbFn1bwHeSyA0yM0) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Bosse](https://open.spotify.com/album/4skaOLcOsHHXOJqV7Kr2mk) | 2:30 | 2023-03-01 |  |
+| [Bosse](https://open.spotify.com/track/5Z2uDIdbFn1bwHeSyA0yM0) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Bosse](https://open.spotify.com/album/4skaOLcOsHHXOJqV7Kr2mk) | 2:30 | 2023-03-01 | 2026-07-21 |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 | 2022-12-10 |
 | [Breath It In](https://open.spotify.com/track/0UlG4wbHMuoyYCE3d6kDZF) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Breath It In](https://open.spotify.com/album/1BIZ1J5IBLy6xt8HVO8Vvq) | 2:07 | 2023-03-01 | 2025-12-05 |
 | [Broken](https://open.spotify.com/track/1H2bzYnA7VNkiIaUnha69l) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Broken](https://open.spotify.com/album/5Y2BSAcBMJQuEtsZgrdoWr) | 1:37 | 2022-06-10 | 2022-09-09 |
@@ -308,6 +308,7 @@
 | [Maybe Tomorrow?](https://open.spotify.com/track/5SeMmi8XpLcWGHQ1PqpsZn) | [Waxing Moods](https://open.spotify.com/artist/2v125JM156kVhtBO3TjOMN) | [Maybe Tomorrow?](https://open.spotify.com/album/3wS0pPrQENgREfs4IEZ9bP) | 2:38 | 2021-12-07 | 2022-04-08 |
 | [Mañana](https://open.spotify.com/track/1Be6BhtTjQfvPZbx5H3k6t) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Mañana](https://open.spotify.com/album/2xOKK4chU6tABnT3iD1Ssn) | 2:04 | 2024-06-05 | 2026-05-05 |
 | [Meadow](https://open.spotify.com/track/2KISfZhD56ibh3kKyvf04Q) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Meadow](https://open.spotify.com/album/16T43htVvhPkohp4857Vw6) | 2:09 | 2022-12-09 | 2023-09-01 |
+| [meadows](https://open.spotify.com/track/3kaXkyLFKSs2iL10xQdu3q) | [Lush Lime](https://open.spotify.com/artist/6W3OIb36yf8ViP1vtpq6j9) | [meadows](https://open.spotify.com/album/0SSnv9eVQOMunVWtJX0HHC) | 2:26 | 2026-07-20 |  |
 | [meaning](https://open.spotify.com/track/6rGJ2QU1bnbJDbV9BV7y1i) | [Its Sonny](https://open.spotify.com/artist/7IymVaAHF61gmKM8Il1Ds8) | [meaning](https://open.spotify.com/album/5AgDpO1CGFzGTbWXDNypbT) | 2:30 | 2022-06-24 | 2022-09-03 |
 | [memories](https://open.spotify.com/track/10MkkA1td0CFP5fS5UdPwt) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Leticia Filizzola](https://open.spotify.com/artist/7rHYMlHbizDvsZKdhnuEM0) | [memories](https://open.spotify.com/album/6xEJv80S6ZguPs0M74eqyy) | 1:45 | 2022-09-30 | 2026-06-11 |
 | [Memories](https://open.spotify.com/track/4DiADiSYYFgAFtOYiCiJrY) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Memories](https://open.spotify.com/album/0cd0LNITneoFF8Gfc3elvB) | 2:31 | 2022-06-24 | 2022-09-03 |
@@ -516,6 +517,7 @@
 | [The Shore](https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [The Shore](https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs) | 2:06 | 2022-09-02 | 2024-11-21 |
 | [The Time I Looked into the Sun](https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [The Time I Looked into the Sun](https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz) | 3:25 | 2023-03-08 | 2024-10-05 |
 | [There is a New Beginning](https://open.spotify.com/track/0E1F9N1OMTTBIeNob0GjG7) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:59 | 2023-02-17 | 2024-10-05 |
+| [things we see](https://open.spotify.com/track/3BFlgrffvIkndTpxxRfIiq) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [things we see](https://open.spotify.com/album/0Tk2aRYU1USx0Qauh31zKE) | 2:27 | 2026-07-20 |  |
 | [Time to Leave](https://open.spotify.com/track/5mnyE3aeYUgg7LQf2MbQwG) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Time to Leave](https://open.spotify.com/album/6fDcJPTZaFhIEn7ddwssFt) | 2:27 | 2024-05-13 | 2025-12-05 |
 | [To The Moon](https://open.spotify.com/track/68HvRKLpQNKsLCe0PwlvMH) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [To The Moon](https://open.spotify.com/album/2NPDCbWyUgKCIVfwnx0C2e) | 2:20 | 2024-08-23 | 2025-03-15 |
 | [Today and Tomorrow](https://open.spotify.com/track/13gqYyyzSQIFmGWtLaN5ti) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Today and Tomorrow](https://open.spotify.com/album/1glzrWojIdQ5kZQpN1ivCc) | 2:17 | 2022-09-02 | 2025-09-26 |

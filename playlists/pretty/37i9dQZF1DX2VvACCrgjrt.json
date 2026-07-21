@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1313060,
+  "num_followers": 1313076,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Somn Like Dis",
@@ -1707,6 +1691,22 @@
       "duration_ms": 153750,
       "name": "Somn Like Dis",
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1793,20 +1793,20 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
-      "added_at": "2026-04-10 04:02:08",
+      "added_at": "2026-07-10 04:01:45",
       "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+        "name": "Bangarang",
+        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
       },
       "artists": [
         {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         }
       ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+      "duration_ms": 135836,
+      "name": "Bangarang",
+      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -1829,6 +1829,22 @@
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+    },
+    {
       "added_at": "2026-06-19 04:01:19",
       "album": {
         "name": "Mine",
@@ -1847,22 +1863,6 @@
       "duration_ms": 201081,
       "name": "Mine",
       "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Bangarang",
-        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Bangarang",
-      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -1925,22 +1925,6 @@
       "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
-    },
-    {
       "added_at": "2026-07-10 04:01:45",
       "album": {
         "name": "Hyperreal",
@@ -1955,6 +1939,22 @@
       "duration_ms": 189090,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2009,22 +2009,6 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
-      "added_at": "2026-05-08 04:01:56",
-      "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/4DGYvXFnRNTQpPU3mp08L3"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 198674,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/56IGqraB3HCjOi5PY4mHXn"
-    },
-    {
       "added_at": "2026-01-16 05:00:37",
       "album": {
         "name": "REAL FRIENDS",
@@ -2045,6 +2029,22 @@
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
+      "added_at": "2026-05-08 04:01:56",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/4DGYvXFnRNTQpPU3mp08L3"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 198674,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/56IGqraB3HCjOi5PY4mHXn"
+    },
+    {
       "added_at": "2026-06-19 04:01:19",
       "album": {
         "name": "LIGHTS FLASH IN MY EYES",
@@ -2059,6 +2059,22 @@
       "duration_ms": 130909,
       "name": "LIGHTS FLASH IN MY EYES",
       "url": "https://open.spotify.com/track/0Wzbg3Ak8N6Yrg1cgUe30q"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2081,26 +2097,6 @@
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
-      "added_at": "2026-05-15 15:18:31",
-      "album": {
-        "name": "Oye Manita",
-        "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "Haxhia",
-          "url": "https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Oye Manita",
-      "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "That's the Spot",
@@ -2121,20 +2117,24 @@
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-05-15 15:18:31",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+        "name": "Oye Manita",
+        "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Haxhia",
+          "url": "https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27"
         }
       ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+      "duration_ms": 131250,
+      "name": "Oye Manita",
+      "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2171,6 +2171,26 @@
       "duration_ms": 154384,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2219,26 +2239,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Alcoholic",
         "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
       },
@@ -2267,6 +2267,26 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-06-19 04:01:19",
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1I625NZEBR1qKeWGNAHgl1"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2307,26 +2327,6 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
-    },
-    {
-      "added_at": "2026-06-19 04:01:19",
-      "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1I625NZEBR1qKeWGNAHgl1"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2377,26 +2377,6 @@
       "url": "https://open.spotify.com/track/4ekPN8q9in7XPXHbT4cYTo"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 207425,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
-    },
-    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Move Your Body",
@@ -2417,20 +2397,44 @@
       "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
+      "duration_ms": 207425,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     }
   ],
   "unique_name": "Nasty Bits",

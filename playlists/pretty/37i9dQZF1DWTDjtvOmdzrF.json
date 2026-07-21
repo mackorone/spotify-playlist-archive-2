@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562997,
+  "num_followers": 562980,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Lesung Pipi (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3DZ5noaJRsZztDCB82LnfU"
-      },
-      "artists": [
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Lesung Pipi - Acoustic Version",
-      "url": "https://open.spotify.com/track/2FomcdoaNsKvXl4bJ5Abqj"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Tentang Kamu",
         "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Lesung Pipi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DZ5noaJRsZztDCB82LnfU"
       },
       "artists": [
         {
-          "name": "Anda Perdana",
-          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
         }
       ],
-      "duration_ms": 219706,
-      "name": "Menghitung Hari 2",
-      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
+      "duration_ms": 238153,
+      "name": "Lesung Pipi - Acoustic Version",
+      "url": "https://open.spotify.com/track/2FomcdoaNsKvXl4bJ5Abqj"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1035,6 +1019,22 @@
       "duration_ms": 260003,
       "name": "Kusut",
       "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Anda Perdana",
+          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Menghitung Hari 2",
+      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Ilmu Padi (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6x9v5H5basSUZJZsOL2gFe"
-      },
-      "artists": [
-        {
-          "name": "Didik Budi",
-          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
-        },
-        {
-          "name": "Sadewok",
-          "url": "https://open.spotify.com/artist/2Y62Y7xOCtcI57gEbnD7DR"
-        }
-      ],
-      "duration_ms": 277843,
-      "name": "Ilmu Padi - Acoustic Version",
-      "url": "https://open.spotify.com/track/6zlS5eEAMAw8URlrIRugHQ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Tanpa Pamrih",
         "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Ilmu Padi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6x9v5H5basSUZJZsOL2gFe"
+      },
+      "artists": [
+        {
+          "name": "Didik Budi",
+          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
+        },
+        {
+          "name": "Sadewok",
+          "url": "https://open.spotify.com/artist/2Y62Y7xOCtcI57gEbnD7DR"
+        }
+      ],
+      "duration_ms": 277843,
+      "name": "Ilmu Padi - Acoustic Version",
+      "url": "https://open.spotify.com/track/6zlS5eEAMAw8URlrIRugHQ"
     },
     {
       "added_at": "2026-02-27 14:15:13",

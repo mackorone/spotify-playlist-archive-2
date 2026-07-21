@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: COLLEAGUES
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,448 likes - 313 songs - 17 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,449 likes - 313 songs - 17 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

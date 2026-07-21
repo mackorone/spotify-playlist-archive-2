@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: DannyLux, Ckdageneral
 
-455 songs - 23 hr 41 min
+456 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Mesera](https://open.spotify.com/track/0DJCGoZodGjfEz5TUOJLKc) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Mesera](https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea) | 4:17 | 2022-03-22 | 2022-07-14 |
 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-03-03 | 2023-07-08 |
 | [Mi Tierra](https://open.spotify.com/track/66me76ApwjNVXMaI8EgJca) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Mi Tierra](https://open.spotify.com/album/0kHWGX8LFN8fym7PLtFxY3) | 2:53 | 2022-03-22 | 2023-03-04 |
+| [Mi Vicio Tu](https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg) | [Julian Solorzano](https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D) | [Mi Vicio Tu](https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU) | 4:53 | 2026-07-20 |  |
 | [MiDNiGHT](https://open.spotify.com/track/63hryqFlfnTheZeeueei2E) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [MiDNiGHT](https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy) | 3:06 | 2024-09-27 | 2026-06-06 |
 | [Mimosas](https://open.spotify.com/track/4iUYVTGD3Qck4eDXrCtVNg) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [Eudotis](https://open.spotify.com/artist/0w6aJ8hK8ZlPqMUONqGufK), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV) | [Mimosas](https://open.spotify.com/album/7oed3eOpFvO9GEfbIdnepX) | 2:20 | 2022-03-22 | 2022-04-21 |
 | [MONTE](https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [MONTE](https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt) | 5:21 | 2023-08-25 | 2024-04-19 |

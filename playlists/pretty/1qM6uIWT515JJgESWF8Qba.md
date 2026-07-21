@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 520 likes - 89 songs - 5 hr 42 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 523 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 87 | [Laser Love](https://open.spotify.com/track/6FzsZvYUcxbZwpykjhBsl0) | [Poison Oak](https://open.spotify.com/artist/4serq8W7kitDHuSTd4DhjF) | [Laser Love](https://open.spotify.com/album/3rpHtJw1hn2JDGlTxEDgxf) | 3:02 |
 | 88 | [Lie to Me](https://open.spotify.com/track/11bJzwUqkH2CgVFFV16PGF) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Lie to Me](https://open.spotify.com/album/609u2yxLvVYULfkxZmOzXR) | 4:31 |
 | 89 | [Night Souls.](https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Unfinished Dreams.](https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt) | 4:31 |
+| 90 | [No Regrets](https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:02 |
 
-Snapshot ID: `AAACC0e4WjGY+ELN4D06iaR/oGFfWhwf`
+Snapshot ID: `AAACDFjZZOe3ICjX7bobykw8bIxGF2vS`

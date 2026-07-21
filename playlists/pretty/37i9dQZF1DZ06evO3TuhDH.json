@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19529,
+  "num_followers": 19530,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAABFbywuGTOWiEG7aQ7/7nNH",
+  "snapshot_id": "alwTgAAAAADGrw/VfSYRfAKJCRuYrKdW",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Sped Up]",
-        "url": "https://open.spotify.com/album/1D0c9aRXtqvozbGFcPTRtX"
-      },
-      "artists": [
-        {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 187469,
-      "name": "Everything BoZ (feat. Coi Leray) - Sped Up",
-      "url": "https://open.spotify.com/track/51S023IDC6NvK6gPl49PT9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here 2 Stay",
         "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything BoZ (feat. Coi Leray) [Sped Up]",
+        "url": "https://open.spotify.com/album/1D0c9aRXtqvozbGFcPTRtX"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 187469,
+      "name": "Everything BoZ (feat. Coi Leray) - Sped Up",
+      "url": "https://open.spotify.com/track/51S023IDC6NvK6gPl49PT9"
     },
     {
       "added_at": null,

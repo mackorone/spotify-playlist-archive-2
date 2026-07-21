@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: benny blanco & Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,832 likes - 200 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,764 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 199 | [MI CHIMBITA](https://open.spotify.com/track/0Vx3Z5Lrr7smPKUwrok9xh) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [Private Suite \(Vol\. 4\)](https://open.spotify.com/album/1XSQ56Y0zCG0Aht3EvSHj4) | 6:22 |
 | 200 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 
-Snapshot ID: `AAAAAHNZy+Q79UxwSF3/jVHtAIFVENYf`
+Snapshot ID: `AAAAAHYDIT9II/PS+G+/8bnZcHjb2YKQ`

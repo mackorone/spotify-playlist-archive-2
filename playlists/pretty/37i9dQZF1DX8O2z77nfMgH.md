@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Lido Pimienta
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,721 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,583 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 19 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 | 20 | [Método Uve](https://open.spotify.com/track/1IPfwEsb67bYV6Th9FG83P) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Papi Masta](https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX), [Clan de Clanes](https://open.spotify.com/artist/4EHUIzbFvb51dH8hhSbZKW) | [Método Uve](https://open.spotify.com/album/17LHgmW65ofxeIHwkJwPOX) | 4:13 |
 | 21 | [Solta Teu Cabelo](https://open.spotify.com/track/3pl7k5kcNHe8eHlx4qOVPz) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Solta Teu Cabelo](https://open.spotify.com/album/3aJGHKcgw4jqRwRKbe0RkY) | 3:24 |
-| 22 | [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Gondim](https://open.spotify.com/artist/068QRjfyjDlcjIIBrf61is), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 |
+| 22 | [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 |
 | 23 | [Putaria no Boombap](https://open.spotify.com/track/7vddjt22PeLxiU54BGXOQJ) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [MC Lobão](https://open.spotify.com/artist/4UsXonEelicgeKAD7MTN7F) | [BASE: Mandelão Futurista](https://open.spotify.com/album/6U1cBGt0r6IPJKbL9DSH3j) | 4:00 |
 | 24 | [LA NETA SIN CARETA](https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [LA NETA SIN CARETA](https://open.spotify.com/album/126AtDnK92bonVs7eD5hK6) | 3:23 |
 | 25 | [Millon Freestyle](https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Millon Freestyle](https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc) | 2:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Geolier sulla cover della playlist urban più grande italiana 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,825 likes - 55 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,761 likes - 55 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

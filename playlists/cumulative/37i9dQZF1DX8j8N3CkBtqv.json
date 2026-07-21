@@ -7111,6 +7111,32 @@
     },
     {
       "album": {
+        "name": "Dil Ke Mehmaan",
+        "url": "https://open.spotify.com/album/0gnqHxotNlOkRzwnCksbDA"
+      },
+      "artists": [
+        {
+          "name": "Samyak Prasana",
+          "url": "https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Rucha",
+          "url": "https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Dil Ke Mehmaan",
+      "url": "https://open.spotify.com/track/65nsOGtAE07uVTCtPP0x4i"
+    },
+    {
+      "album": {
         "name": "Dil Ke Paas",
         "url": "https://open.spotify.com/album/3JRjUL5w1m59BNbcrkXTYr"
       },
@@ -29282,7 +29308,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 225000,
       "name": "Tu Hi Subah",
       "url": "https://open.spotify.com/track/4DIg5HDaSSmmUZyVQfuWI1"

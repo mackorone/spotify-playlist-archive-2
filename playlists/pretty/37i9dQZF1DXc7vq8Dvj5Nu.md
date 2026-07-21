@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,277 likes - 93 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,287 likes - 93 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 | 4 | [Lullaby Of Clubland](https://open.spotify.com/track/6ctjD7SrrHoxt4PucRtn8C) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Temperamental](https://open.spotify.com/album/4Geaebqk6nJC78Agw6VXG9) | 5:30 |
 | 5 | [Heap](https://open.spotify.com/track/2ZhwwsptiKlICXRNvAaDMF) | [Fergus Jones](https://open.spotify.com/artist/2dDbUEQ3tvdUVuODBa6dwO), [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Ephemera](https://open.spotify.com/album/00aoCxmd1WC67J6KcMdm0H) | 3:16 |
 | 6 | [Toulepleu](https://open.spotify.com/track/4iL7c9yXfmTIzpsJGXkGN2) | [ Sentinel](https://open.spotify.com/artist/1310GIVpXTJY53rwESLqOV) | [Basement Records & Street Beats present The Truper & Sentinel Projects](https://open.spotify.com/album/53R4O93iSk9IiVE6FEvEJ0) | 7:31 |
-| 7 | [Mindflower](https://open.spotify.com/track/3xHMMtjr6MCB5TwildjO2V) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Into The Doldrums](https://open.spotify.com/album/1ljJP9x1MXnzEqwDNkmST1) | 4:14 |
+| 7 | [Mindflower](https://open.spotify.com/track/3xHMMtjr6MCB5TwildjO2V) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy), [Lili Hall](https://open.spotify.com/artist/3N8A61wRWGvByXlCrkYoTc) | [Into The Doldrums](https://open.spotify.com/album/1ljJP9x1MXnzEqwDNkmST1) | 4:14 |
 | 8 | [Alone Again](https://open.spotify.com/track/3KOROW4qFDWtHieXPDf0LV) | [Teenager](https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [13](https://open.spotify.com/album/6nhs8czDHschbD5Ya20ovD) | 4:21 |
 | 9 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
 | 10 | [Decisions](https://open.spotify.com/track/6ZlnopIjkp5iJqA7FCZQbi) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI), [Yuksel Arslan](https://open.spotify.com/artist/27wKOCB7pSYfK8SqUuVo1f) | [Love Remains](https://open.spotify.com/album/1PPXfny6bTg4AwboeIBT5h) | 2:26 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-287 songs - 1 day 0 hr 16 min
+289 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Drop It Like It's Hot](https://open.spotify.com/track/6KJt0MTAD57CjtZ4ID7x2e) | [KX CHR](https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU) | [Drop It Like It's Hot](https://open.spotify.com/album/4HBrc7rHMjB2LWZBZFjkPM) | 3:33 | 2024-06-28 |  |
 | [Drop The Bomb](https://open.spotify.com/track/0NEDXilwQgT0ktuyiSaYCH) | [Ed E.T](https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI) | [Drop The Bomb](https://open.spotify.com/album/3IRRAFyipSTImCPZqzcXi3) | 3:52 | 2025-02-20 |  |
 | [Drop The Gun](https://open.spotify.com/track/0FkgDvfyyvFa2CTWUFXCL3) | [Vlace](https://open.spotify.com/artist/4ZY8YRSlpQjiajlKEPRG7a), [KSN](https://open.spotify.com/artist/0XoL7jG81GKX7WPdC8SKvp) | [Drop The Gun](https://open.spotify.com/album/6N03Qg5OhiaZ2bwTgHw4WM) | 5:12 | 2025-06-16 | 2026-06-11 |
-| [Dystopia](https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Dystopia](https://open.spotify.com/album/4avTBCORCRBkqwsZt2qvLj) | 3:46 | 2023-06-29 |  |
+| [Dystopia](https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Dystopia](https://open.spotify.com/album/4avTBCORCRBkqwsZt2qvLj) | 3:46 | 2023-06-29 | 2026-07-21 |
 | [Elevate](https://open.spotify.com/track/6Acae8q3ZdKNh1m2jnEmiD) | [PSP](https://open.spotify.com/artist/3V3sC6ECD51H0rgsgxGfSZ), [Daisy Guglielmi](https://open.spotify.com/artist/1RLmnG9sb4FX76nlSsWZ38) | [Elevate](https://open.spotify.com/album/2czYdJzpEQvOF0gLO7zDrQ) | 4:00 | 2026-06-10 |  |
 | [Energy](https://open.spotify.com/track/0Lr9qnn8ppbRD7igva6AnG) | [Daisy Guglielmi](https://open.spotify.com/artist/1RLmnG9sb4FX76nlSsWZ38), [Kaai](https://open.spotify.com/artist/2HLDW2RBW5x4fSjgok9N3c) | [Domina Infera EP](https://open.spotify.com/album/4kmGImxhaLPRhNRBlNPIFv) | 4:04 | 2025-09-16 |  |
 | [ENTER THE SHADOW REALM](https://open.spotify.com/track/25gP0I9SkjiYxQy8Cw0Zn4) | [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [ELRØY](https://open.spotify.com/artist/0mT4s8Ug5J4jTCsY8U9af0), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [AFTERLIFE](https://open.spotify.com/album/2lpCO6RzUW2Y40fyNk1mah) | 5:26 | 2024-04-24 | 2024-06-29 |
@@ -130,6 +130,7 @@
 | [Gier \- Original Mix](https://open.spotify.com/track/1g0BGueeHWy8fSlBTv5DRA) | [Sandro Mure](https://open.spotify.com/artist/12g8oO9UggU3vxTYUTH7oO) | [Ghost Filter](https://open.spotify.com/album/38ksqvFCm8mMvLFqFm8vOR) | 6:04 | 2023-09-22 | 2023-12-16 |
 | [Give Me A Break \(GRAVEKID\) \- Per Pleks Remix](https://open.spotify.com/track/1Rft4rRIT2OBa6bAUmqsbN) | [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J), [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Neorave EP Remixes](https://open.spotify.com/album/1YGmmThpf7NP8aYezX6jPl) | 5:36 | 2024-10-18 |  |
 | [Go Insane](https://open.spotify.com/track/0URPQAZfkH77q2Js0jz9me) | [Ed E.T](https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI) | [Go Insane](https://open.spotify.com/album/7m3RfJX0v9bdqGzFSiwFIH) | 5:28 | 2026-03-03 |  |
+| [Hajji Atlantis](https://open.spotify.com/track/1OxyyhUIUuzrrSmQnES5h7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Hajji Atlantis](https://open.spotify.com/album/3XQbOflf5AgYJLkVgJNQv6) | 5:20 | 2026-07-20 |  |
 | [Hard Drop](https://open.spotify.com/track/14IFJagYpgsFHnian2Rn7L) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Hard Drop](https://open.spotify.com/album/40Q93pfKFT1fNDph2GO3jo) | 4:46 | 2024-12-20 | 2025-06-17 |
 | [Hard Hit](https://open.spotify.com/track/06ujlTsDVX1LYzdO3GbSBn) | [Dr.Sound](https://open.spotify.com/artist/15oOdwYONjezTSw225L8zT), [Reno Zdevay](https://open.spotify.com/artist/6l03CIM4XG5rD6SUBHlirr) | [I NEED A DOCTOR](https://open.spotify.com/album/2WxDR6zqdI9Cj63xErRtNb) | 4:30 | 2025-12-14 |  |
 | [HARDCORE](https://open.spotify.com/track/0Z4rfnpLKG5wPTsDSrpb57) | [HELLBOUND!](https://open.spotify.com/artist/0qg9rz3RFKWahLtIxpItL3) | [HARDCORE](https://open.spotify.com/album/400lDSHiZWtlj6QXDOgg3M) | 6:14 | 2024-10-18 |  |
@@ -141,7 +142,7 @@
 | [Hellfire](https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/48IJdBCA98JVNWXqwkA24g) | 6:00 | 2023-09-22 | 2023-12-16 |
 | [Hidden Frequencies](https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Hidden Frequencies EP](https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy) | 4:31 | 2025-12-14 |  |
 | [Hidden Mirage](https://open.spotify.com/track/6iRPeYjPu8Tmf03oNj7VPB) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP) | [Rcklss014](https://open.spotify.com/album/3ViLsNxauZwnLAXHU2moeO) | 4:39 | 2024-10-18 | 2025-09-17 |
-| [Holi](https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Holi](https://open.spotify.com/album/35JpE0clrbmSj6F4WZEP3s) | 5:05 | 2025-09-16 |  |
+| [Holi](https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Holi](https://open.spotify.com/album/35JpE0clrbmSj6F4WZEP3s) | 5:05 | 2025-09-16 | 2026-07-21 |
 | [Hooked](https://open.spotify.com/track/2dAiPVGkmBZwg55RwUX2RF) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Hooked](https://open.spotify.com/album/5PzaMmWqsgvIGzf9DrJC0a) | 5:37 | 2025-06-16 | 2026-03-04 |
 | [Hostile](https://open.spotify.com/track/0AwzhT6KYcWXg4Sdvp95Z9) | [Vlace](https://open.spotify.com/artist/4ZY8YRSlpQjiajlKEPRG7a) | [Hostile EP](https://open.spotify.com/album/0tqW3yQrRMjxu1tevhlyrv) | 4:30 | 2025-09-16 |  |
 | [Hybrid Boom](https://open.spotify.com/track/01Uf0wEBvU5trPVFauh5wh) | [PISAPIA \(IT\)](https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071) | [Bomb Ass Bass](https://open.spotify.com/album/4xwpZVzialmHn12IeOnZtw) | 4:44 | 2023-06-29 | 2024-06-29 |
@@ -256,6 +257,7 @@
 | [System Failure](https://open.spotify.com/track/71sfC2WLI8qGVsyofHNYv7) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [System Failure](https://open.spotify.com/album/35bJSFRDb7nwkOy5HsUeVC) | 4:48 | 2024-03-11 | 2024-12-21 |
 | [T.M.](https://open.spotify.com/track/0EPuTADUDAQ8xCTj9QGqar) | [ECZODIA](https://open.spotify.com/artist/3EYdIeVPZ8IXT0Uiq7h0R2) | [T.M.](https://open.spotify.com/album/4dpbZXFaMuTQNY53S28fUJ) | 6:06 | 2023-06-29 | 2023-12-16 |
 | [Takin Pictures](https://open.spotify.com/track/1pXZlSbWJLCiJNs1TcATcB) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [Takin Pictures](https://open.spotify.com/album/5a6yoPxdmxZQFK9sYAXohE) | 3:34 | 2024-04-24 | 2024-10-19 |
+| [Tarzan](https://open.spotify.com/track/5CcHRD3ZKH814SVELKD1Es) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Tarzan](https://open.spotify.com/album/6b8GlyvkZoin1CswNvrR6H) | 5:25 | 2026-07-20 |  |
 | [Techno Accelerator](https://open.spotify.com/track/44uN8pU3aGHxx8n0J4xRRg) | [Ed E.T](https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI) | [Techno Accelerator](https://open.spotify.com/album/79LntYqMKDwTkVzgI0KXOH) | 4:09 | 2025-06-16 |  |
 | [Techno Fix \- Radio Edit](https://open.spotify.com/track/5rNG0UwcFI9scz37V70OdY) | [Ed E.T](https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI) | [Techno Fix \(Radio Edit\)](https://open.spotify.com/album/575vMRVe8cl7HDVPXfmfLH) | 3:15 | 2024-10-18 |  |
 | [Techno Pulse](https://open.spotify.com/track/49roZ37xDFV816vld5lEwr) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [ØBSTN](https://open.spotify.com/artist/3RfMu03J6DcwOeuDIZUk4L) | [Techno Pulse](https://open.spotify.com/album/1aVvifZEmD9FjMdjpJsNtN) | 4:19 | 2024-06-28 | 2025-02-21 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAACdWJfCLKNU0fNgv/doeodf",
+  "snapshot_id": "alwTgAAAAAD8jVVRlHU0oQuyvdC1EAfa",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Son Con Guaguanco (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 212799,
+      "name": "Bemba Color\u00e1 - Remastered 2025",
+      "url": "https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Todos Mis Amigos",
         "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 175240,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Son Con Guaguanco (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 212799,
-      "name": "Bemba Color\u00e1 - Remastered 2025",
-      "url": "https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od"
     },
     {
       "added_at": null,
@@ -623,6 +623,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Celia",
+        "url": "https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s"
+      },
+      "artists": [
+        {
+          "name": "Lena Burke",
+          "url": "https://open.spotify.com/artist/2h0TxjQ7ono38bJ7GitRgz"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Gonzalo Rubalcaba",
+          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
+        },
+        {
+          "name": "Cucco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0UStb4xgA1UNiPhJPerb06"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "A Celia",
+      "url": "https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
       },
@@ -691,50 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Celia",
-        "url": "https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s"
-      },
-      "artists": [
-        {
-          "name": "Lena Burke",
-          "url": "https://open.spotify.com/artist/2h0TxjQ7ono38bJ7GitRgz"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        },
-        {
-          "name": "Gonzalo Rubalcaba",
-          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
-        },
-        {
-          "name": "Cucco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0UStb4xgA1UNiPhJPerb06"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "A Celia",
-      "url": "https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,

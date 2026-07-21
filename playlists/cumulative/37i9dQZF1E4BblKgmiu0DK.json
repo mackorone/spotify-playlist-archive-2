@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 190466,
       "name": "Bipolar Bear",
       "url": "https://open.spotify.com/track/0bSHjRFTb2RO3niMTSoMJB"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 158720,
       "name": "CEO OF MY FACE",
       "url": "https://open.spotify.com/track/4lx9KQP9qnHYarlnFp6Rqo"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -5428,7 +5428,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -5482,7 +5482,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -6877,6 +6877,24 @@
     },
     {
       "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/4nSbhdRzLMxng3m4DEeQAg"
+      },
+      "artists": [
+        {
+          "name": "SerpentS",
+          "url": "https://open.spotify.com/artist/5nBIjHvBndmdscNz2BERWb"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/6FCVpBcnMz6iCsek8a1Zyd"
+    },
+    {
+      "album": {
         "name": "New Fixation",
         "url": "https://open.spotify.com/album/7MW8j7UdsqKfnz5s4XnAGI"
       },
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 168000,
       "name": "No One's Home",
       "url": "https://open.spotify.com/track/4H32i9x2H1RiAv9xAGm3rg"
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 96759,
       "name": "Proper Northern Grit",
       "url": "https://open.spotify.com/track/21RMxyGEDjKmu9UNB1QgTk"
@@ -8487,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/6daTCzzaVVROE3m4vvbZXa"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/0zKGfIfqYudM42nsO51wZn"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "SCHIZOPHRENIA",
+      "url": "https://open.spotify.com/track/2dZIg1wj1BIxdzfwVoeg8K"
+    },
+    {
+      "album": {
         "name": "American Heretic",
         "url": "https://open.spotify.com/album/7GjjEuYWodTDyaLiLPZE8S"
       },
@@ -8542,7 +8578,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 274886,
       "name": "Shadows Of Yesterday",
       "url": "https://open.spotify.com/track/66F2YkvJtWQu7NhTKHqugY"
@@ -9086,7 +9122,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -9104,7 +9140,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 141333,
       "name": "Sticky Honey",
       "url": "https://open.spotify.com/track/5NXsSgIvDLPmazTKCkcPys"
@@ -9216,7 +9252,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 174960,
       "name": "stuck w me",
       "url": "https://open.spotify.com/track/1wQmWPUcaDdP5tWEnxMJHq"
@@ -9306,7 +9342,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 120959,
       "name": "Sunset Strip Fever Dream",
       "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
@@ -9508,7 +9544,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 133773,
       "name": "The Gold Medal",
       "url": "https://open.spotify.com/track/0eCumdc2LPmsI0XSsqNlAY"
@@ -9598,7 +9634,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -10326,7 +10362,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -10416,7 +10452,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 187271,
       "name": "What Do I Have To Do",
       "url": "https://open.spotify.com/track/73LC4CEYRAf8Mow3ttyaZ5"
@@ -10506,7 +10542,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"

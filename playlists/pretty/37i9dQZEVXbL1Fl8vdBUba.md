@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,382 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,386 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Vete](https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4) | 3:09 |
 | 50 | [Ware](https://open.spotify.com/track/0NzSvGk8z27koEiDX9Iyg7) | [Skinny TLW](https://open.spotify.com/artist/3ArCxywf9nzWOeQ24a6iSj), [Mr Jastin](https://open.spotify.com/artist/27WpZLTLfGwueF05GccNw6) | [Ware](https://open.spotify.com/album/1DOhItN9LTo2LRFlD3xj07) | 2:04 |
 
-Snapshot ID: `MfBCUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfGPIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:4VZEaqiJm8GOd1pSgjD62y\">Skeleten's </a> favourite tracks. Updated regularly. Curated by Skeleten. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 10277,
+  "num_followers": 10287,
   "original_name": "Skeleten's track IDs",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "Now Always Fades",
           "url": "https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy"
+        },
+        {
+          "name": "Lili Hall",
+          "url": "https://open.spotify.com/artist/3N8A61wRWGvByXlCrkYoTc"
         }
       ],
       "duration_ms": 254535,

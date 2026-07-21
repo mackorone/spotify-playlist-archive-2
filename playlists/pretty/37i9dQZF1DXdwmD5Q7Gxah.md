@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > steve lacy on the cover ❤️‍🔥 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,316 likes - 156 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,298 likes - 156 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

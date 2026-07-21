@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 146613,
       "name": "Acension Final Chord Rising",
       "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 394506,
       "name": "Bird of Paradise: Part 2",
       "url": "https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 80146,
       "name": "Music for the Gift: Part 4",
       "url": "https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE"
@@ -4066,7 +4066,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 289346,
       "name": "St. Francis and the Birds",
       "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 561226,
       "name": "The Crucifixion Of My Humble Self",
       "url": "https://open.spotify.com/track/0JsGHAmk4OjhalNLJJTktU"
@@ -4476,6 +4476,36 @@
       "duration_ms": 410400,
       "name": "The Harp of New Albion: X. Land's End",
       "url": "https://open.spotify.com/track/1WiySlU6OV5PyyF06OQAVC"
+    },
+    {
+      "album": {
+        "name": "Terry Riley & Samuel Clay Birmaher: The Holy Liftoff",
+        "url": "https://open.spotify.com/album/0flA9oHyEsWu2nsJZixd18"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Samuel Clay Birmaher",
+          "url": "https://open.spotify.com/artist/3XY9jrT97bowypYCoJTa1n"
+        },
+        {
+          "name": "Claire Chase",
+          "url": "https://open.spotify.com/artist/0oGbj35ySuyuMpiMdtyV4E"
+        },
+        {
+          "name": "JACK Quartet",
+          "url": "https://open.spotify.com/artist/5IIlEwQ9WqXulFI8JZ8QNw"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444493,
+      "name": "The Holy Liftoff: All Arise",
+      "url": "https://open.spotify.com/track/1iBU1WP3r5n8Dq0nOqaeOn"
     },
     {
       "album": {

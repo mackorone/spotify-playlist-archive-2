@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 115 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,163 likes - 115 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

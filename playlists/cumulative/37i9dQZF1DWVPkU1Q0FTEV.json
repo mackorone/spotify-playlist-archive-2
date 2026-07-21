@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 226086,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5"
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Hajji Atlantis",
+        "url": "https://open.spotify.com/album/3XQbOflf5AgYJLkVgJNQv6"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        },
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Hajji Atlantis",
+      "url": "https://open.spotify.com/track/1OxyyhUIUuzrrSmQnES5h7"
+    },
+    {
+      "album": {
         "name": "Hard Drop",
         "url": "https://open.spotify.com/album/40Q93pfKFT1fNDph2GO3jo"
       },
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 305165,
       "name": "Holi",
       "url": "https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r"
@@ -4750,6 +4772,24 @@
       "duration_ms": 214500,
       "name": "Takin Pictures",
       "url": "https://open.spotify.com/track/1pXZlSbWJLCiJNs1TcATcB"
+    },
+    {
+      "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/6b8GlyvkZoin1CswNvrR6H"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325714,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/5CcHRD3ZKH814SVELKD1Es"
     },
     {
       "album": {

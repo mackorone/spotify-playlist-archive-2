@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Apsilon, Berq
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,749 likes - 73 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,760 likes - 73 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Kaputte Diamanten](https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB) | 3:11 |
 | 2 | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [EALA](https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl) | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/album/6O1THNnK9WzwDzXNpAUFeW) | 2:30 |
 | 3 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
-| 4 | [FALLING IN](https://open.spotify.com/track/0Q3IRUiBbUSL0E8nEcD97M) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [FALLING IN](https://open.spotify.com/album/6fQeqTMN8F6khtAADxbcQJ) | 3:39 |
+| 4 | [Druck Auf Meiner Lunge](https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Druck Auf Meiner Lunge](https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK) | 3:52 |
 | 5 | [Du bist kaputt](https://open.spotify.com/track/2K2tw6gwpVWdr24MTsk02v) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Du bist kaputt](https://open.spotify.com/album/0qMGugwz3uDclSxUMPV2LW) | 2:15 |
-| 6 | [Druck Auf Meiner Lunge](https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Druck Auf Meiner Lunge](https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK) | 3:52 |
+| 6 | [Schnapsidee](https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Schnapsidee](https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9) | 2:42 |
 | 7 | [Kalifornien](https://open.spotify.com/track/1QtbKOJX0pqQgk0PlLYg5v) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Kalifornien](https://open.spotify.com/album/0ueBdK53CxF2RmLtH3C7Rp) | 3:13 |
-| 8 | [Schnapsidee](https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Schnapsidee](https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9) | 2:42 |
-| 9 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
-| 10 | [Wohnung](https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Wohnung](https://open.spotify.com/album/0xBCyx02z7QrALyZ7dPDCj) | 2:34 |
-| 11 | [Sie hatten recht](https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K) | [KARGO](https://open.spotify.com/artist/0QxzeJ5g8bSdcwTvt3ZEMW) | [Sie hatten recht](https://open.spotify.com/album/4mzVdDstDYqCY3YdEniUyA) | 3:09 |
+| 8 | [Sie hatten recht](https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K) | [KARGO](https://open.spotify.com/artist/0QxzeJ5g8bSdcwTvt3ZEMW) | [Sie hatten recht](https://open.spotify.com/album/4mzVdDstDYqCY3YdEniUyA) | 3:09 |
+| 9 | [FALLING IN](https://open.spotify.com/track/0Q3IRUiBbUSL0E8nEcD97M) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [FALLING IN](https://open.spotify.com/album/6fQeqTMN8F6khtAADxbcQJ) | 3:39 |
+| 10 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
+| 11 | [Wohnung](https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Wohnung](https://open.spotify.com/album/0xBCyx02z7QrALyZ7dPDCj) | 2:34 |
 | 12 | [Rundgang](https://open.spotify.com/track/4llW6YfkiJVi97m9NzeIjX) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Rundgang](https://open.spotify.com/album/1W78gU96QFWxZxPvf3ugnY) | 2:39 |
 | 13 | [Frieden](https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Frieden](https://open.spotify.com/album/2k9DOSaatqXZQa3l19qhUi) | 2:10 |
 | 14 | [hey hallo \(schräg\)](https://open.spotify.com/track/3n6X2EmrG1W13n02q6lHIW) | [linusjonathan](https://open.spotify.com/artist/3D3Q9LASaJvXo7VxZaJdsP) | [hey hallo \(schräg\)](https://open.spotify.com/album/2mXUyNvFs5KLhsT1dZJYB3) | 2:26 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 72 | [Kreative Phasen](https://open.spotify.com/track/2KNNkN7BwsSVwRH6X8Z7rv) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Kreative Phasen](https://open.spotify.com/album/1sLmdlX5AOcZjyYTLAzWec) | 2:25 |
 | 73 | [Arm aber Sexy](https://open.spotify.com/track/3bUosxzfxEXmolRLDkOyU1) | [HEADJET](https://open.spotify.com/artist/3nd26anufTmTLliNgafe32) | [Arm aber Sexy](https://open.spotify.com/album/4I9urfMQMCg3TbQV2hSw3E) | 2:19 |
 
-Snapshot ID: `AAAAABylLEUlUcZ0Rq64j/F4w/nONkiz`
+Snapshot ID: `AAAAAGudap2MkYifQNjhqABAGzb6t+aa`

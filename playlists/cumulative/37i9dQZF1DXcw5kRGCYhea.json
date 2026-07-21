@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons urbains et Afro les plus chauds \ud83d\udd25 Cover: 7ari",
+  "description": "Les sons urbains et Afro les plus chauds \ud83d\udd25 Cover: ElGrandeToto",
   "name": "SEHD",
   "tracks": [
     {
@@ -870,7 +870,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 136901,
       "name": "Boca X2",
       "url": "https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
@@ -2886,6 +2886,24 @@
       "duration_ms": 181011,
       "name": "kafini",
       "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
+    },
+    {
+      "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
       "album": {
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 179757,
       "name": "Mia",
       "url": "https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi"

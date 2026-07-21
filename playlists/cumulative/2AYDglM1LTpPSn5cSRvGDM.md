@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-264 songs - 15 hr 0 min
+265 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Go](https://open.spotify.com/track/6KDOqT0HlH2t1vb68HbTHH) | [Cristo](https://open.spotify.com/artist/2Jns9w83qR2JtrEd6Wjfv0) | [Go](https://open.spotify.com/album/5a5poTnu8nBevyPW37g0n8) | 2:44 | 2025-07-11 | 2025-08-23 |
 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 | 2025-07-11 | 2026-03-07 |
 | [God's Plan A](https://open.spotify.com/track/6j3redU8jAnIRfedleYlir) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW) | [God's Plan A](https://open.spotify.com/album/0FdQjHTSbDIk5HjO9BdMjo) | 2:59 | 2025-08-29 | 2025-10-10 |
+| [Good Time \(Clothes Off\)](https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Good Time \(Clothes Off\)](https://open.spotify.com/album/1xA7H4RYypebhrtgSoWczk) | 2:24 | 2026-07-20 |  |
 | [Greece 2000 \- Max Styler Rework](https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000 \(Max Styler Rework\)](https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43) | 3:37 | 2026-01-12 | 2026-01-31 |
 | [Greenlight](https://open.spotify.com/track/1KsQ8y9wtQnOnQHgnZLu3L) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Greenlight](https://open.spotify.com/album/64xjMvMB0ysQiX9gjeMUug) | 2:57 | 2025-07-11 | 2025-08-23 |
 | [Groove Constructor](https://open.spotify.com/track/0gwzHG7qX6rAIOHKqyAKCu) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Groove Constructor](https://open.spotify.com/album/0wKgllfpFfuNBRYpmh5m2k) | 4:30 | 2025-07-11 | 2025-09-16 |

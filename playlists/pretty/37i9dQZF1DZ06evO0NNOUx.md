@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,012 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,204 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 29 | [SOMEBODY PRAYED](https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tate Butts](https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3) | [SOMEBODY PRAYED](https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd) | 5:01 |
 | 30 | [TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 |
 | 31 | [HEAVEN ON THIS EARTH](https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:05 |
-| 32 | [JESUS IS ALIVE](https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [JESUS IS ALIVE](https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz) | 2:08 |
-| 33 | [2 STEP THE ENEMY](https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [LOST & FOUND](https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo), [ZVC](https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI) | [2 STEP THE ENEMY](https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB) | 2:42 |
+| 32 | [2 STEP THE ENEMY](https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [LOST & FOUND](https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo), [ZVC](https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI) | [2 STEP THE ENEMY](https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB) | 2:42 |
+| 33 | [JESUS IS ALIVE](https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [JESUS IS ALIVE](https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz) | 2:08 |
 | 34 | [SOULSHINE](https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:05 |
 | 35 | [THE JESUS GENERATION](https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE JESUS GENERATION](https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg) | 4:15 |
 | 36 | [LEMONADE \(FOLK\)](https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a) | [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LEMONADE \(FOLK\)](https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
 | 50 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
 
-Snapshot ID: `alrCAAAAAABcUlwZ0ETPKDDDhdOExfMr`
+Snapshot ID: `alwTgAAAAABhcoZdDGpokuJdlPqf7Bz8`

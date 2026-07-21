@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Leto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,236 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,165 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 7 | [Bottega](https://open.spotify.com/track/4KmrZGwYxoSlqppyXCTCPA) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Bottega](https://open.spotify.com/album/7guyvAhEoq69BYMCKTLWqa) | 2:31 |
 | 8 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
 | 9 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
-| 10 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
+| 10 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
 | 11 | [18 Carats](https://open.spotify.com/track/2ovfSyXEj6RgIx6Ks5eIWr) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [18 Carats](https://open.spotify.com/album/3RYEWh0gq099GirskEcKVD) | 3:00 |
 | 12 | [À jamais](https://open.spotify.com/track/0hkAgyjEhEhutkeQaBCo8q) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [À jamais](https://open.spotify.com/album/5mpjQagvAboYeL85j1mp34) | 2:44 |
 | 13 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |

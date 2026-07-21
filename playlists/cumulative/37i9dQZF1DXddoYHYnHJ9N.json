@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -4594,6 +4594,28 @@
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "album": {
+        "name": "Van Valami (feat. RZMVS)",
+        "url": "https://open.spotify.com/album/3dBG6jdLkAFFLPd7KqVezj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202919,
+      "name": "Van Valami (feat. RZMVS)",
+      "url": "https://open.spotify.com/track/0IM555Y5XQsro0o7vZa4y6"
     },
     {
       "album": {

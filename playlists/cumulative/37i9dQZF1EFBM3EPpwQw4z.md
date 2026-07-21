@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 10 hr 7 min
+172 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Stranded](https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 4:48 | 2023-12-30 |  |
 | [Strobe Lights \(feat\. Kilian & Jo\) \- Henry Green Remix](https://open.spotify.com/track/5bbkYK9F86AI6AYr0HmeNU) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Kilian & Jo](https://open.spotify.com/artist/75axmxcpFNiQiMTZFWGMWn), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Strobe Lights \(feat\. Kilian & Jo\) \[Henry Green Remix\]](https://open.spotify.com/album/1wo1WiFhLh9dSjDW2XkJ1L) | 4:15 | 2024-07-10 |  |
 | [Supafine \- DCUP vs\. Lenno](https://open.spotify.com/track/3mnQJLfdD3Vq10fdDuyZEB) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Versus](https://open.spotify.com/album/0u5F2n2CKwowG4QcI3VBTs) | 4:34 | 2023-12-30 | 2025-07-24 |
+| [Surrender](https://open.spotify.com/track/4NioEMZU2xoSIZ0a75zE6Z) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [JÄMO](https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Surrender](https://open.spotify.com/album/1IXhcZeZLOoj7MsV0XJ6bW) | 3:44 | 2026-07-20 |  |
 | [Swear I Lost Myself](https://open.spotify.com/track/46juGXFzApK5CRGsXvOKFu) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:46 | 2023-12-30 |  |
 | [Swear I Lost Myself](https://open.spotify.com/track/46zc3PCOUnL0pVvlqehPeY) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:46 | 2026-06-12 | 2026-06-14 |
 | [Symphony](https://open.spotify.com/track/2j6K9dEkGG3eJKRng4vS4R) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Symphony](https://open.spotify.com/album/5STco3794zKBQC6e3Uz3WN) | 2:49 | 2024-06-06 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-8,741 songs - 22 day 5 hr 51 min
+8,742 songs - 22 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3694,6 +3694,7 @@
 | [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/6phySPoSPIe25pNTqM6wWK) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 | 2025-01-04 |  |
 | [Leaked](https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:40 | 2025-01-03 |  |
 | [Lean 4 Real \(feat\. Skepta\)](https://open.spotify.com/track/1JgkiUg9mSXSwcb5Gbi4Ur) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:57 | 2025-01-15 |  |
+| [lean back](https://open.spotify.com/track/5wicTCItEe8xd9KhZqYfZJ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:09 | 2026-07-20 |  |
 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 | 2025-01-03 |  |
 | [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 | 2025-01-04 |  |
 | [Lean Wit Me](https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:55 | 2025-01-03 |  |

@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Guardians of the Phallicy",
+        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182067,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in"
+    },
+    {
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF"
       },

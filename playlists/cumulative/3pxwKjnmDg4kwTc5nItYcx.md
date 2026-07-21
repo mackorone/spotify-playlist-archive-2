@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-910 songs - 2 day 0 hr 59 min
+912 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [I Don't Wanna Go Home](https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Don't Wanna Go Home](https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL) | 2:41 | 2025-08-27 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2021-10-25 | 2025-07-17 |
 | [I Don't Want Your Money \(feat\. H.E.R.\)](https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2019-08-27\* | 2020-05-19 |
+| [I Feel You](https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Lost On The Way To Paradise](https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan) | 2:39 | 2026-07-21 |  |
 | [I Fell In Love With the Devil \- Radio Edit](https://open.spotify.com/track/0YIUZ1YSkeOSovmeR7IRl6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [I Fell In Love With the Devil \(Radio Edit\)](https://open.spotify.com/album/4lp8ry4ysRyWg20jT5xOek) | 3:38 | 2019-08-27\* | 2020-02-12 |
 | [I Forget My Name \(feat\. Jafaris\)](https://open.spotify.com/track/1iohZV8PWduCRyj0ZA7meU) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [I Forget My Name \(feat\. Jafaris\)](https://open.spotify.com/album/4pYMvwQbyvOwYzii7uwWIq) | 3:26 | 2019-08-27\* | 2019-11-11 |
 | [I Got 3](https://open.spotify.com/track/2R68N68VJzuZhXgikT6hQg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/6Txjv7dE75ORFAX0fDsAFB) | 3:14 | 2020-06-29 | 2021-05-12 |
@@ -735,6 +736,7 @@
 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 | 2021-06-12 | 2024-10-10 |
 | [Somebody Else \(feat\. JoJo\)](https://open.spotify.com/track/2fpVvARsopfxhvNaUMwvS6) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:19 | 2019-10-25 | 2020-02-12 |
 | [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 | 2025-07-17 |
+| [SOMETHING BETTER](https://open.spotify.com/track/6bXeuV5CheMzDoPzj9FetV) | [MANÚ](https://open.spotify.com/artist/7BEmHb9jAPMHB3HwfTuPnh) | [SOMETHING BETTER](https://open.spotify.com/album/4ewWpy8l1WPOcbDaGz1E3P) | 2:06 | 2026-07-21 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-18 | 2025-08-27 |
 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 | 2021-01-15 | 2025-08-27 |
 | [Sorry](https://open.spotify.com/track/3te1jfT0NVC7BamNwpoSPW) | [Bonnie Anderson](https://open.spotify.com/artist/6TnYKQ80Ne0DlAISzTXB6A) | [Sorry](https://open.spotify.com/album/7aQV4QjHiSMkykarett4Y3) | 3:11 | 2019-08-27\* | 2019-11-11 |

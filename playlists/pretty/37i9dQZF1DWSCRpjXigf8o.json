@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88991,
+  "num_followers": 88987,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Silakbo",
         "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193838,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
+    },
+    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "One More Time",
@@ -351,22 +367,6 @@
       "duration_ms": 159617,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
-    },
-    {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "grooblue",
-        "url": "https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e"
-      },
-      "artists": [
-        {
-          "name": "SUPER BUTTER DOG",
-          "url": "https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "\u30b5\u30e8\u30ca\u30e9COLOR",
-      "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
-    },
-    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "Rat Race",
@@ -467,18 +451,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Backflips in a Restaurant",
-        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+        "name": "grooblue",
+        "url": "https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "SUPER BUTTER DOG",
+          "url": "https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh"
         }
       ],
-      "duration_ms": 165522,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
+      "duration_ms": 318213,
+      "name": "\u30b5\u30e8\u30ca\u30e9COLOR",
+      "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -495,6 +479,22 @@
       "duration_ms": 277293,
       "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
       "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "the gates",
-        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Midsummer Mansion",
-      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204119,
       "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "the gates",
+        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "Midsummer Mansion",
+      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Maya, Maya, Maya",
-        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 179919,
-      "name": "Maya, Maya, Maya",
-      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
-    },
-    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
@@ -811,6 +795,22 @@
       "duration_ms": 296282,
       "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
       "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Maya, Maya, Maya",
+        "url": "https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 179919,
+      "name": "Maya, Maya, Maya",
+      "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Fall Into You",
-        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 168658,
-      "name": "Fall Into You",
-      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 268313,
-      "name": "junior",
-      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 265875,
       "name": "\u9ec4\u660f\u30e1\u30ed\u30a6",
       "url": "https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "covent garden",
         "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 181000,
       "name": "covent garden",
       "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1147,22 +1163,6 @@
       "duration_ms": 206030,
       "name": "Bloom feat. KIKI",
       "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
-    },
-    {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+        "name": "Love me tender",
+        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
       },
       "artists": [
         {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
         }
       ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
+      "duration_ms": 271266,
+      "name": "So am I",
+      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
       },
       "artists": [
         {
-          "name": "Uniolla",
-          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
         }
       ],
-      "duration_ms": 271266,
-      "name": "So am I",
-      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Turntable in the Lift",
+        "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u5de2 Nosu",
+          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
+        }
+      ],
+      "duration_ms": 426250,
+      "name": "Tunes for Suly",
+      "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1387,22 +1403,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Turntable in the Lift",
-        "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u5de2 Nosu",
-          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
-        }
-      ],
-      "duration_ms": 426250,
-      "name": "Tunes for Suly",
-      "url": "https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6eyoy9FWIuM5bfTk1pjnjw"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1Eux3qfFxjupNgEogQmjDs"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Place Your Hands",
@@ -1623,6 +1607,22 @@
       "duration_ms": 195600,
       "name": "Place Your Hands",
       "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6eyoy9FWIuM5bfTk1pjnjw"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1Eux3qfFxjupNgEogQmjDs"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-        "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
+        "name": "Here with me",
+        "url": "https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
         }
       ],
-      "duration_ms": 245680,
-      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-      "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
+      "duration_ms": 243600,
+      "name": "Here with me",
+      "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
     }
   ],
   "unique_name": "Mid Tempo Magic",

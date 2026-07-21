@@ -247845,28 +247845,6 @@
     },
     {
       "album": {
-        "name": "Mendelssohn: Piano Sonata in E Major, Op. 6: I. Allegretto con espressione",
-        "url": "https://open.spotify.com/album/1bRDhGXHEMCIKD5kZ9gSAV"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Tianxu An",
-          "url": "https://open.spotify.com/artist/2WZoy4OP1hoZP1ul40CHt6"
-        }
-      ],
-      "date_added": "2026-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290333,
-      "name": "Piano Sonata in E Major, Op. 6: I. Allegretto con espressione",
-      "url": "https://open.spotify.com/track/5eB3VYdRnxFpTlQX5ZzeV2"
-    },
-    {
-      "album": {
         "name": "Haydn: Sonatas",
         "url": "https://open.spotify.com/album/5K9guXAMPFF6yApTlEm1Jt"
       },
@@ -248212,6 +248190,28 @@
       "duration_ms": 493907,
       "name": "Piano Sonata No. 1 in D Minor, Op. 28: II. Lento",
       "url": "https://open.spotify.com/track/35RTCdP8NpFqxBuB6ruhlB"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Piano Sonata No. 1 in E Major, Op. 6: I. Allegretto con espressione",
+        "url": "https://open.spotify.com/album/1bRDhGXHEMCIKD5kZ9gSAV"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Tianxu An",
+          "url": "https://open.spotify.com/artist/2WZoy4OP1hoZP1ul40CHt6"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290333,
+      "name": "Piano Sonata No. 1 in E Major, Op. 6: I. Allegretto con espressione",
+      "url": "https://open.spotify.com/track/5eB3VYdRnxFpTlQX5ZzeV2"
     },
     {
       "album": {

@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/4dyPpZPivYeP4eWy4IgLW9.md) - [plain]
 | 12 | [Lovely Day](https://open.spotify.com/track/1QQRBPMzXbL4z26mnIvgZD) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:14 |
 | 13 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 |
 
-Snapshot ID: `AAAAESOJzTr4Q4Hq7bQJioKEbE6xy71C`
+Snapshot ID: `AAAAErQPhHJ3MLsvTQ141oQLaWaWFvtF`

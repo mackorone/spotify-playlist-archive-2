@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAABNYyRgLm0EmE0MqsGnbhV9",
+  "snapshot_id": "alwTgAAAAADrGMXV4VANhP8nsgpLtlhZ",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 191585,
-      "name": "The Rain Just Follows Me",
-      "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 201760,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 191585,
+      "name": "The Rain Just Follows Me",
+      "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 172560,
       "name": "Constant Dread",
       "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 198066,
       "name": "Spray Paint It Black",
       "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4nMaQP7tda42A7kP5sxbQS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 229749,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6nthEVYr9WWrJDYClVQhhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -651,6 +667,22 @@
       "duration_ms": 156952,
       "name": "Seafoam",
       "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
     },
     {
       "added_at": null,
@@ -675,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -684,25 +716,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+      "duration_ms": 171733,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 217113,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
     },
     {
       "added_at": null,

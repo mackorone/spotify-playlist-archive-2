@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-05-23",
-  "description": "Gentle lullabies that soothe, relax, and ease your baby to sleep \ud83e\uddf8\ud83c\udf19\ud83d\udca4",
-  "name": "Baby Lullabies 2026",
+  "description": "Gentle covers of hit songs to help your little one drift off to sleep\ud83c\udf19\u2728",
+  "name": "Pop Lullabies for Baby Sleep",
   "tracks": [
     {
       "album": {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 141781,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/4QnrIQM0GrdGWgK9feZWPg"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 140541,
       "name": "ABC Song (Ambient)",
       "url": "https://open.spotify.com/track/5tbx6jQqabAvEPONRDbfWo"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 186965,
       "name": "All the World Is Sleeping",
       "url": "https://open.spotify.com/track/2HKfydNypY6Me7xwBMH1Oa"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 123150,
       "name": "Another Paradise",
       "url": "https://open.spotify.com/track/5d8zXu1GgyX5yFCnUFe50l"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 109270,
       "name": "Au Clair de la Lune",
       "url": "https://open.spotify.com/track/2YQzrwE7afmaRcuonKycGZ"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/7pDU0WGETljcmVo8IHKff4"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131254,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/7ohVkbvIKiZ4RdXOZxruS4"
+    },
+    {
+      "album": {
         "name": "Beautiful Dreamer",
         "url": "https://open.spotify.com/album/1HKLVkj1iPPmP55dtlFA51"
       },
@@ -376,10 +394,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 104741,
       "name": "Beautiful Dreamer",
       "url": "https://open.spotify.com/track/77m5CTzSoJAsW4HtgT0DfN"
+    },
+    {
+      "album": {
+        "name": "Behind blue eyes",
+        "url": "https://open.spotify.com/album/4XILKKeSkpZVoXqMlSVlYy"
+      },
+      "artists": [
+        {
+          "name": "Mio Moi",
+          "url": "https://open.spotify.com/artist/6RQl4S8pqVOU10Su7Y1R0o"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Behind blue eyes",
+      "url": "https://open.spotify.com/track/2cYo5VPrBykEtB4UAsypyQ"
     },
     {
       "album": {
@@ -394,7 +430,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 178000,
       "name": "Berceuse (Lullaby)",
       "url": "https://open.spotify.com/track/4LJThB8XFjrimvMa2NC3J8"
@@ -412,7 +448,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 130185,
       "name": "Berceuse Dolly",
       "url": "https://open.spotify.com/track/7vXhDzU0DlbbfWqo9cAAjJ"
@@ -430,10 +466,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 174934,
       "name": "Beyond the Rainbow",
       "url": "https://open.spotify.com/track/0noFmZfFeRPc2NaYYSoa6k"
+    },
+    {
+      "album": {
+        "name": "Big Big World",
+        "url": "https://open.spotify.com/album/39e9Myi3SoBcwzI9Vlk3MR"
+      },
+      "artists": [
+        {
+          "name": "Eternelles",
+          "url": "https://open.spotify.com/artist/0VsrG15EAEp0YkTHs6vL1a"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Big Big World",
+      "url": "https://open.spotify.com/track/1SDGj8CxPXLSXWnzLkOPxr"
     },
     {
       "album": {
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Billie Jean",
+        "url": "https://open.spotify.com/album/4q3OiPUdytsfNdKmXA70dx"
+      },
+      "artists": [
+        {
+          "name": "Rohan Bhasker",
+          "url": "https://open.spotify.com/artist/13ETCLA4rmADTdgWDvyZlo"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5IVjciM8Eh5MbmvdO88ppU"
+    },
+    {
+      "album": {
         "name": "Blanket of Dreams",
         "url": "https://open.spotify.com/album/18Byp1norG0ZfPkdwRr6Cz"
       },
@@ -466,7 +538,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 95478,
       "name": "Blanket of Dreams",
       "url": "https://open.spotify.com/track/4kpB4Hl32Yft2Bw1UJlStM"
@@ -520,7 +592,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 103728,
       "name": "Blu-Blu's Lullaby",
       "url": "https://open.spotify.com/track/6fx1H7LjByv10H69MrH3Oa"
@@ -538,7 +610,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 125099,
       "name": "Blueberry Pancakes",
       "url": "https://open.spotify.com/track/0Qn01NEKY9UoDgr8a91pXh"
@@ -578,7 +650,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 106084,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/5UAN29M5pGWHmD0MkzxOIM"
@@ -632,7 +704,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 250666,
       "name": "Can You Feel the Love Tonight (From \"The Lion King\") - Piano Lullaby Version",
       "url": "https://open.spotify.com/track/2bOh00jX47DuPOLl4tFihp"
@@ -668,7 +740,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 137624,
       "name": "Chasing Cars (Night Crickets)",
       "url": "https://open.spotify.com/track/6S4XwzKHepmMCQMzKCaWRU"
@@ -776,7 +848,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 92157,
       "name": "Dream Adventure",
       "url": "https://open.spotify.com/track/1m4ufokP4izeMlxxS1Htwk"
@@ -812,7 +884,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 120923,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4VtouWVi0SZGX5WRZrspP0"
@@ -848,7 +920,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 148203,
       "name": "Dreamland Slumber",
       "url": "https://open.spotify.com/track/026pdCihFz2XrI9OH7HinX"
@@ -956,7 +1028,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 91304,
       "name": "East Side Lullaby",
       "url": "https://open.spotify.com/track/0heR54ps75NRwlDDsErcG4"
@@ -981,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/54d2yIcD2K9HKsRrUeNU17"
+      },
+      "artists": [
+        {
+          "name": "Daniel Shore",
+          "url": "https://open.spotify.com/artist/1Ce8hPO1qYCd92qJAze9EI"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139185,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/3Jj3T3J3W0Cnh0pE6Rn4u9"
+    },
+    {
+      "album": {
         "name": "Everlasting God",
         "url": "https://open.spotify.com/album/4aFX0itKcDaZklkK5xQQaJ"
       },
@@ -996,6 +1086,24 @@
       "duration_ms": 179762,
       "name": "Everlasting God",
       "url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM"
+    },
+    {
+      "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/116kwTsphKzkyvv5PbbZy3"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Demir",
+          "url": "https://open.spotify.com/artist/3kDR5bJ8zjiGM5PnNjG69t"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116944,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/028SevhzsEJjExLvdMN2KV"
     },
     {
       "album": {
@@ -1226,7 +1334,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 128096,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/7EbacD7n2TGpCboGcUDMg1"
@@ -1334,7 +1442,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 100332,
       "name": "Golden Moonlight",
       "url": "https://open.spotify.com/track/3skOWLbiYW86ZDmjjXLf3a"
@@ -1352,7 +1460,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 82233,
       "name": "Goodnight Mr. Bear",
       "url": "https://open.spotify.com/track/0wsDiEIT0GlRRKN4qP1jAL"
@@ -1377,6 +1485,60 @@
     },
     {
       "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/1BV7fLWg8BwvHTEwNzdfs1"
+      },
+      "artists": [
+        {
+          "name": "Milo Ryd\u00e9n",
+          "url": "https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146308,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4g7qhI27lCn2z5XqkXP0bj"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2zt08qRbDQoAPTuLgtgFFF"
+      },
+      "artists": [
+        {
+          "name": "Charles Karmen",
+          "url": "https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154284,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0fN8vlAAMLVpNNpeFN36UE"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6IkbpPUXdtxInC5LNFNt1n"
+      },
+      "artists": [
+        {
+          "name": "Adam's Lullabies",
+          "url": "https://open.spotify.com/artist/1rK0gNq2uZNZyacC5utscb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236900,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0m5kgIPbMPhxmJtq9us0js"
+    },
+    {
+      "album": {
         "name": "Happy Thoughts",
         "url": "https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K"
       },
@@ -1392,6 +1554,60 @@
       "duration_ms": 107709,
       "name": "Happy Thoughts",
       "url": "https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/3AFM9NG3pNGbU1AFqU7XzM"
+      },
+      "artists": [
+        {
+          "name": "Joy Garden",
+          "url": "https://open.spotify.com/artist/5QqUHhXF2a6Axz340GBIbR"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192534,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/24o7wRN4rE7JAV6ZYRSveP"
+    },
+    {
+      "album": {
+        "name": "The Chillest Beatles, Vol. 2",
+        "url": "https://open.spotify.com/album/5GRIILD4Ma5KUCKRWFMXHF"
+      },
+      "artists": [
+        {
+          "name": "The Chillest",
+          "url": "https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260512,
+      "name": "Hey Jude (Piano Version)",
+      "url": "https://open.spotify.com/track/1nOkpVZY8S6vE1XRxoaxbK"
+    },
+    {
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/5xbZ5sde0pMQ8LfYvKQoCi"
+      },
+      "artists": [
+        {
+          "name": "Jordan Barns",
+          "url": "https://open.spotify.com/artist/4NhmH4PFEHpmuRCYsqCvst"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184674,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/7HPM2Yp0Nu9uMMZU6DpF0b"
     },
     {
       "album": {
@@ -1442,7 +1658,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 112667,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/0M7RIDLtqFSAt0JmdbJOLA"
@@ -1482,6 +1698,24 @@
       "duration_ms": 75565,
       "name": "I Am A Tree",
       "url": "https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN"
+    },
+    {
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/1KXTt0tn5h4KUyl7ZePAnA"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9basti\u00f3n",
+          "url": "https://open.spotify.com/artist/5JIqMdRVElbpiJAWOacSmF"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4W2XrgdqYYEGZnosAo2X4P"
     },
     {
       "album": {
@@ -1532,7 +1766,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 126975,
       "name": "Idas Summersong",
       "url": "https://open.spotify.com/track/1y7hLr1xdKZC8gg2AXCr4w"
@@ -1586,7 +1820,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 123339,
       "name": "It's a Small World - Soft Version",
       "url": "https://open.spotify.com/track/0ZfLhJulfAi1XXyqqvbnAR"
@@ -1683,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Piano Love Songs",
+        "url": "https://open.spotify.com/album/6WOEthuSQBbfHdqAC2L7fc"
+      },
+      "artists": [
+        {
+          "name": "Pianovus",
+          "url": "https://open.spotify.com/artist/3LwX6FJHB0VKS1erpB5RR3"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210562,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/3p3J72JpBQ8R7TKnraUYGU"
+    },
+    {
+      "album": {
         "name": "Lavender Lullabies",
         "url": "https://open.spotify.com/album/3bvKZGshd7QZERxNMrvstG"
       },
@@ -1698,6 +1950,24 @@
       "duration_ms": 145189,
       "name": "Lavender Lullabies",
       "url": "https://open.spotify.com/track/6qP9buV4EOg2ePilB6PbU2"
+    },
+    {
+      "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/3PjWaw5Ic54u6Q4k7uGcEq"
+      },
+      "artists": [
+        {
+          "name": "Flore Habendum",
+          "url": "https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126174,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/0o0WwL14JC6qrzrEYFZnQc"
     },
     {
       "album": {
@@ -1734,6 +2004,24 @@
       "duration_ms": 81239,
       "name": "Leo the Lion",
       "url": "https://open.spotify.com/track/3T4LWuYdxwyejPxCQeM0B9"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/57IJjzJJBDwgoraSWkyphU"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4nHdVOO0V82nC64bHUhs5w"
     },
     {
       "album": {
@@ -1856,7 +2144,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 71483,
       "name": "London Bridge Is Falling Down (Night Crickets)",
       "url": "https://open.spotify.com/track/1vvn9asSNieJXVTBPjCXbr"
@@ -1892,7 +2180,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 112043,
       "name": "Lullaby Dreams",
       "url": "https://open.spotify.com/track/77Dv2gSPuRq0C15l6tfr9o"
@@ -1910,7 +2198,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 114652,
       "name": "Lullaby for the Moon",
       "url": "https://open.spotify.com/track/4x9FHjupVlbnUGbLIlBAsc"
@@ -1932,6 +2220,42 @@
       "duration_ms": 157826,
       "name": "Magical Night",
       "url": "https://open.spotify.com/track/1uPwR87YlNgWLBqGFiOV4f"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/6DwHASB7vdzL3ERfqHx08U"
+      },
+      "artists": [
+        {
+          "name": "Charles Karmen",
+          "url": "https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144636,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/3GZJAkz2nhUbzKNYizR1IM"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/2jwMm4GLUzdz9t5VbVozZ7"
+      },
+      "artists": [
+        {
+          "name": "The Stories We Tell",
+          "url": "https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163681,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/63mGc3P5FqPsB0hsLiK9im"
     },
     {
       "album": {
@@ -1982,7 +2306,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 109644,
       "name": "Mid Summer",
       "url": "https://open.spotify.com/track/5dE3XnhyLLMxYmthdlVaeM"
@@ -2036,7 +2360,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 86128,
       "name": "Moonbeam Melodies",
       "url": "https://open.spotify.com/track/244rZYVyOy9bVUbfPZ3fWE"
@@ -2054,7 +2378,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 147652,
       "name": "Moonlight Snuggles (White Noise Version)",
       "url": "https://open.spotify.com/track/61FGLNl2ZfJGuJR9ba8yrJ"
@@ -2072,7 +2396,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 165604,
       "name": "Mozart's Lullaby",
       "url": "https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97"
@@ -2144,7 +2468,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 103508,
       "name": "My Bonnie Lies Over The Ocean (Night Crickets)",
       "url": "https://open.spotify.com/track/7CyH18N3gZ5SnFYUBsbmFI"
@@ -2216,7 +2540,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 98106,
       "name": "My Friend Lina",
       "url": "https://open.spotify.com/track/4UWzNGScBV3OOkO2999WaI"
@@ -2234,7 +2558,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 109874,
       "name": "My Grandfather's Clock",
       "url": "https://open.spotify.com/track/3mfbqsYUdIqGIPzKjmOEQC"
@@ -2270,7 +2594,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 72351,
       "name": "My little Toy Parade",
       "url": "https://open.spotify.com/track/2Opgd3H9ZksUnpqiSX10me"
@@ -2306,7 +2630,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 140000,
       "name": "My Precious Treasure",
       "url": "https://open.spotify.com/track/02j7qBaJKEYbl0bNVePpZf"
@@ -2396,7 +2720,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 106958,
       "name": "Oh My Darlin",
       "url": "https://open.spotify.com/track/6i81Ro9sDVidhqfoFwVFZA"
@@ -2436,6 +2760,24 @@
       "duration_ms": 97823,
       "name": "Once Upon a December",
       "url": "https://open.spotify.com/track/4Ct2FBRIzgXjrLGlql3JvG"
+    },
+    {
+      "album": {
+        "name": "Over The Rainbow",
+        "url": "https://open.spotify.com/album/7hU8GYJS8bqlZX49zYGJ9Z"
+      },
+      "artists": [
+        {
+          "name": "Charles Karmen",
+          "url": "https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137273,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2p8hNIBdcnsQZqFMCYYV07"
     },
     {
       "album": {
@@ -2594,7 +2936,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 179505,
       "name": "Pop Goes The Weasel",
       "url": "https://open.spotify.com/track/17ePAx0HeymVaNTLdZSq6j"
@@ -2612,7 +2954,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 160491,
       "name": "Pray For A Better Day",
       "url": "https://open.spotify.com/track/39zzCzSyzdR6stAihvlenT"
@@ -2630,7 +2972,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 198000,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/6rJBQlEmGFeIRxAuLdGvHI"
@@ -2648,7 +2990,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 117500,
       "name": "Red River Valley (with white noise)",
       "url": "https://open.spotify.com/track/10D8BQnCNy7SSaKIpTWX6H"
@@ -2684,7 +3026,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 110216,
       "name": "Rock-a-bye Baby",
       "url": "https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU"
@@ -2702,10 +3044,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 116000,
       "name": "Rocking to Sleep",
       "url": "https://open.spotify.com/track/4G1kd8BzVXDgpAI2C0U1i9"
+    },
+    {
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/5x7e1CnyQNPvAgYemhga1G"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183421,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/0lM9OB8OZ5DfFt16mEm2sp"
     },
     {
       "album": {
@@ -2781,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/02JU4DVrsi3feKlFtrleT3"
+      },
+      "artists": [
+        {
+          "name": "Franz Ville",
+          "url": "https://open.spotify.com/artist/6hQXyaaHszf1oLCq4KYRhn"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/6QdoO0386KCjj1UD6nAmnc"
+    },
+    {
+      "album": {
         "name": "Silver Waves",
         "url": "https://open.spotify.com/album/0CGgXj89voDyPZJZiKGleA"
       },
@@ -2792,7 +3170,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 120656,
       "name": "Silver Waves",
       "url": "https://open.spotify.com/track/0aGeAVS6y32PKV3lRmGLGD"
@@ -2846,7 +3224,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 138750,
       "name": "Sleep Little One",
       "url": "https://open.spotify.com/track/2TRry9U8VH8yoZtImkGdpK"
@@ -2864,7 +3242,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 123293,
       "name": "Sleepy Kite",
       "url": "https://open.spotify.com/track/3XYaeZYuIth1bFo3mXIZr7"
@@ -2900,7 +3278,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 110689,
       "name": "Sleepy Serenade",
       "url": "https://open.spotify.com/track/649kLp06uDGiAnowkqJxst"
@@ -2936,7 +3314,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 110691,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb"
@@ -2990,7 +3368,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 199782,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/3fWhy1raqGgwHbkd3s3XFJ"
@@ -3008,7 +3386,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 141774,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/7pKVxdbAoEt0meMwn0hH6Y"
@@ -3069,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4BEv6icf5M42CsrDtZJJxZ"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111313,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5MQfZRqrdd8IDTTkPeCxL7"
+    },
+    {
+      "album": {
         "name": "Summer Rain Lullaby",
         "url": "https://open.spotify.com/album/5kr9AhpIeh3IThdTKwRzXR"
       },
@@ -3098,7 +3494,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 84384,
       "name": "Sun beams",
       "url": "https://open.spotify.com/track/2tG4oky6ms9XfiXNSWK5YZ"
@@ -3138,6 +3534,24 @@
       "duration_ms": 80500,
       "name": "Sunshine Song",
       "url": "https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr"
+    },
+    {
+      "album": {
+        "name": "Sweet Child O' Mine (Instrumental Piano)",
+        "url": "https://open.spotify.com/album/0PsNV0tp7FmY5tJhY1zp3K"
+      },
+      "artists": [
+        {
+          "name": "Tickled Ivories",
+          "url": "https://open.spotify.com/artist/0MH2EWunWH5nnn4T7VsD6F"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Sweet Child O' Mine (Instrumental Piano)",
+      "url": "https://open.spotify.com/track/7LvJSZTgfAyIRcRRxZjcb7"
     },
     {
       "album": {
@@ -3213,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/0BSFIyyXuCva7iz0VV7rR7"
+      },
+      "artists": [
+        {
+          "name": "Iris Ellinor",
+          "url": "https://open.spotify.com/artist/1rOsWwsBawVKroShwpCKxa"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/1Lf1KNNc8FdOYk9Z6fwRrP"
+    },
+    {
+      "album": {
         "name": "The Blue Danube",
         "url": "https://open.spotify.com/album/5AZ7KwOPxTo4IERoyjjDB1"
       },
@@ -3246,6 +3678,24 @@
       "duration_ms": 79670,
       "name": "The Ever So Elegant Elephant",
       "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
+    },
+    {
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/0Fs8GE16oXeAQA6hC6Q1Ol"
+      },
+      "artists": [
+        {
+          "name": "Skymningen",
+          "url": "https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/1NxZkicEfqQgEZct5vniax"
     },
     {
       "album": {
@@ -3296,7 +3746,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 156428,
       "name": "The Magic Pebble",
       "url": "https://open.spotify.com/track/10SQBKI650syEt7OlgzS7L"
@@ -3332,7 +3782,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 130746,
       "name": "The moon is asleep",
       "url": "https://open.spotify.com/track/0inuH1M769Be8iUYuTZ2XS"
@@ -3350,7 +3800,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 66679,
       "name": "The Owl",
       "url": "https://open.spotify.com/track/5MttGVp0L1937EShN9bdhw"
@@ -3386,7 +3836,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 106153,
       "name": "The Sleeping Fawn",
       "url": "https://open.spotify.com/track/4BHlEO5G2mBztVv420iF7C"
@@ -3440,7 +3890,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 126918,
       "name": "The Stars Above",
       "url": "https://open.spotify.com/track/0jw4CALrSngxuHDs3fQOsl"
@@ -3458,7 +3908,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 111000,
       "name": "The Up And Down Song",
       "url": "https://open.spotify.com/track/7iLuSyuyvv1JD4uEaOle88"
@@ -3483,6 +3933,42 @@
     },
     {
       "album": {
+        "name": "Baby Love : Lullaby Love Songs for You and Your Baby",
+        "url": "https://open.spotify.com/album/2NquGCNpNSIPCTY3McXqdl"
+      },
+      "artists": [
+        {
+          "name": "Sleepyheadz",
+          "url": "https://open.spotify.com/artist/62oZoJD3Z6FCTB60nmTImS"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Thinking Out Loud - Piano Lullaby Version",
+      "url": "https://open.spotify.com/track/4cWOM8Xer4y04vR2GqLzEU"
+    },
+    {
+      "album": {
+        "name": "This is What You Came For",
+        "url": "https://open.spotify.com/album/1UdvTaM2pY3l3jaRdc8Rni"
+      },
+      "artists": [
+        {
+          "name": "Paper Cradle",
+          "url": "https://open.spotify.com/artist/0EGWeQicAB8fd90EcMLNCv"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "This is What You Came For",
+      "url": "https://open.spotify.com/track/7zIl7tGC76Qz67zLEH16nO"
+    },
+    {
+      "album": {
         "name": "Three Blind Mice",
         "url": "https://open.spotify.com/album/2MgkgfbWZ8V7t8BzwS5IOx"
       },
@@ -3498,6 +3984,24 @@
       "duration_ms": 174000,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/55LGhGlkIKM9fJoDRLu6nZ"
+    },
+    {
+      "album": {
+        "name": "Baby Love : Lullaby Love Songs for You and Your Baby",
+        "url": "https://open.spotify.com/album/2NquGCNpNSIPCTY3McXqdl"
+      },
+      "artists": [
+        {
+          "name": "Sleepyheadz",
+          "url": "https://open.spotify.com/artist/62oZoJD3Z6FCTB60nmTImS"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304528,
+      "name": "Tiny Dancer - Piano Lullaby Version",
+      "url": "https://open.spotify.com/track/5mD8UdQ8A0afyQMtC9i4eR"
     },
     {
       "album": {
@@ -3530,7 +4034,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 71916,
       "name": "Tiny Snail",
       "url": "https://open.spotify.com/track/4FU8ZjOUUY1wac4F7fHD8H"
@@ -3584,7 +4088,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 66202,
       "name": "Twinkleberry Dreams",
       "url": "https://open.spotify.com/track/1Kgnbnrs2nnNsIg0hJSceZ"
@@ -3627,6 +4131,60 @@
     },
     {
       "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/2p7jw2IkvppXJI56d23sKX"
+      },
+      "artists": [
+        {
+          "name": "Jonas Reed",
+          "url": "https://open.spotify.com/artist/1k41IczVI5zNB8CmyJSx04"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154162,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0L6PQVMDU1u3FJthzstPC8"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up When September Ends",
+        "url": "https://open.spotify.com/album/2GijpFHRXXBAFC8HFhvy8Q"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Frost",
+          "url": "https://open.spotify.com/artist/0PVSPOYn9HjFfLG1f75rgS"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100308,
+      "name": "Wake Me Up When September Ends",
+      "url": "https://open.spotify.com/track/2SbtQ6YlvPD6m2XL5nK11O"
+    },
+    {
+      "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/25JXYwx6OjUsbQodemfvZy"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1gddwi1QIgmz7ioVfhiZem"
+    },
+    {
+      "album": {
         "name": "What Was I Made of?",
         "url": "https://open.spotify.com/album/3O0eLk4LK2Qtmfo3W1v8Eq"
       },
@@ -3638,7 +4196,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 254545,
       "name": "What Was I Made of?",
       "url": "https://open.spotify.com/track/0mbRD7cgFLVcKfy7N6RWBS"
@@ -3656,7 +4214,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 110285,
       "name": "When You Wish Upon a Star (From \"Pinocchio\") - Music Box Version",
       "url": "https://open.spotify.com/track/25Bg3d3WrkibGJhqydqHRd"
@@ -3717,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "With or Without You",
+        "url": "https://open.spotify.com/album/1AlOQp2OgDCGxTjg9OYwSh"
+      },
+      "artists": [
+        {
+          "name": "Miles Hartfield",
+          "url": "https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/5DdiqycV3GO1WKSWZi3kYj"
+    },
+    {
+      "album": {
         "name": "Wonder Wheel",
         "url": "https://open.spotify.com/album/0t02p7yXPDMtXUktJqeYGe"
       },
@@ -3753,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0QUu78Hyca7nFx9FKJuaXB"
+      },
+      "artists": [
+        {
+          "name": "Adrian Foster",
+          "url": "https://open.spotify.com/artist/3piSHk0kJ2pesuATqR9HBq"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6p1XEC0bUQzpVXjcRXAByk"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/0mdkVhsIFByhbFTerqnn01"
       },
@@ -3782,7 +4376,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 87308,
       "name": "You Are Feeling Sleepy",
       "url": "https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt"

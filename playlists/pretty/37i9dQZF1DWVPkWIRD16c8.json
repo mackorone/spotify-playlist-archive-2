@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 262217,
+  "num_followers": 262328,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -387,38 +387,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "eyes on Him",
-        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 192002,
-      "name": "eyes on Him",
-      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 175770,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "I'll Fly Away (feat. Benjamin William Hastings)",
         "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
       },
@@ -435,6 +403,22 @@
       "duration_ms": 180936,
       "name": "I'll Fly Away (feat. Benjamin William Hastings)",
       "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 175770,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -467,6 +451,22 @@
       "duration_ms": 193091,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "eyes on Him",
+        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 192002,
+      "name": "eyes on Him",
+      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "mourning 2 dancing",
         "url": "https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 164253,
       "name": "mourning 2 dancing",
       "url": "https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "I Still Believe",
-        "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Why Do You Love Me?",
+        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 248820,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "Praise The Lord (Sunday Prelude)",
         "url": "https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Why Do You Love Me?",
-        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
       },
       "artists": [
         {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 248820,
-      "name": "Why Do You Love Me?",
-      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1123,22 +1139,6 @@
       "duration_ms": 198649,
       "name": "Every Reason To Believe",
       "url": "https://open.spotify.com/track/79RFG7vkG7oV5Vnakb2wsw"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "oasis for my soul",
-        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 136839,
-      "name": "oasis for my soul",
-      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+        "name": "oasis for my soul",
+        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
+      "duration_ms": 136839,
+      "name": "oasis for my soul",
+      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1355,22 +1355,6 @@
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 122391,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1419,6 +1403,22 @@
       "duration_ms": 192014,
       "name": "Reaching for the Light",
       "url": "https://open.spotify.com/track/7jWire3mnMRBe3ynaTip4u"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 122391,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Cascade View",
+        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Cascade View",
+      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "I'd Be Lying",
         "url": "https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 154231,
       "name": "I'd Be Lying",
       "url": "https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Cascade View",
-        "url": "https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Cascade View",
-      "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Crying Out Loud",
-        "url": "https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 200201,
-      "name": "Crying Out Loud",
-      "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 322502,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Crying Out Loud",
+        "url": "https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 200201,
+      "name": "Crying Out Loud",
+      "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
     },
     {
       "added_at": "2026-05-29 09:29:54",

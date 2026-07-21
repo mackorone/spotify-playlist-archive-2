@@ -1,13 +1,33 @@
 {
   "description": "The Hottest Arabic Music.\nCover: Wael Kfoury ",
-  "num_followers": 591703,
+  "num_followers": 591724,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV",
+  "snapshot_id": "AAAAAEhLlzFKI6LDWb6Uyp9qczzzna6w",
   "tracks": [
+    {
+      "added_at": "2026-07-20 13:27:23",
+      "album": {
+        "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+        "url": "https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "duration_ms": 154304,
+      "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+      "url": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV"
+    },
     {
       "added_at": "2026-07-06 07:20:43",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 171627,
       "name": "Chou Meshta2li",
       "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
-    },
-    {
-      "added_at": "2026-07-06 07:20:43",
-      "album": {
-        "name": "Nano",
-        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 216806,
-      "name": "Nano",
-      "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
     },
     {
       "added_at": "2026-07-06 07:20:43",
@@ -91,6 +91,26 @@
       "duration_ms": 229040,
       "name": "Tayeh Fel Amaken",
       "url": "https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d"
+    },
+    {
+      "added_at": "2026-07-06 07:20:43",
+      "album": {
+        "name": "Nano",
+        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "Nano",
+      "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
     },
     {
       "added_at": "2026-07-06 07:20:43",

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: After",
-  "num_followers": 1666535,
+  "num_followers": 1666491,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
+      "added_at": "2026-05-15 16:36:11",
+      "album": {
+        "name": "Feel It All Again",
+        "url": "https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Feel It All Again",
+      "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
+    },
+    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
@@ -515,22 +531,6 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": "2026-05-15 16:36:11",
-      "album": {
-        "name": "Feel It All Again",
-        "url": "https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Feel It All Again",
-      "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
       "added_at": "2026-07-03 04:20:13",
       "album": {
         "name": "of everyone in the world\u2026",
@@ -795,6 +779,22 @@
       "duration_ms": 187445,
       "name": "of everyone in the world\u2026",
       "url": "https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-07-03 04:20:13",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
     },
     {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
-        "name": "Mesmerized",
-        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "Mesmerized",
-      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "wasted time",
@@ -1127,6 +1111,22 @@
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "added_at": "2026-06-05 04:02:01",
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1159,6 +1159,22 @@
       "duration_ms": 186533,
       "name": "Promise (When You Go)",
       "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1207,22 +1223,6 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
-    },
-    {
-      "added_at": "2026-07-10 16:27:35",
-      "album": {
-        "name": "Haven't Said I Love You Yet",
-        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
-      },
-      "artists": [
-        {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
-        }
-      ],
-      "duration_ms": 113725,
-      "name": "Haven't Said I Love You Yet",
-      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1297,6 +1297,26 @@
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "waiting on me",
@@ -1329,26 +1349,6 @@
       "url": "https://open.spotify.com/track/7ENAU5RHg2yeQ0FOSvlF3C"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
-    },
-    {
       "added_at": "2026-07-03 04:20:13",
       "album": {
         "name": "Slush Puppy",
@@ -1363,6 +1363,22 @@
       "duration_ms": 166221,
       "name": "Slush Puppy",
       "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1381,20 +1397,20 @@
       "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-07-10 16:27:35",
       "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+        "name": "Not For A Lack Of Trying",
+        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
       },
       "artists": [
         {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
         }
       ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
+      "duration_ms": 154813,
+      "name": "Not For A Lack Of Trying",
+      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1429,20 +1445,20 @@
       "url": "https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY"
     },
     {
-      "added_at": "2026-07-10 16:27:35",
+      "added_at": "2026-07-17 04:02:10",
       "album": {
-        "name": "Not For A Lack Of Trying",
-        "url": "https://open.spotify.com/album/1nK1WPgFCJmY258Q0cfKe3"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
       },
       "artists": [
         {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 154813,
-      "name": "Not For A Lack Of Trying",
-      "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
+      "duration_ms": 220608,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1459,6 +1475,26 @@
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-07-17 04:02:10",
+      "album": {
+        "name": "Romanticize",
+        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Romanticize",
+      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1525,22 +1561,6 @@
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220608,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
@@ -1561,22 +1581,6 @@
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
-      "added_at": "2026-06-26 04:55:44",
-      "album": {
-        "name": "Eternal BAM Nation",
-        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
-      },
-      "artists": [
-        {
-          "name": "Born At Midnite",
-          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
-        }
-      ],
-      "duration_ms": 144680,
-      "name": "I Haven\u2019t Forgotten You",
-      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Pinky Promise",
@@ -1593,20 +1597,20 @@
       "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-06-26 04:55:44",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+        "name": "Eternal BAM Nation",
+        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+      "duration_ms": 144680,
+      "name": "I Haven\u2019t Forgotten You",
+      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1629,24 +1633,20 @@
       "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
+      "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Romanticize",
-        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Romanticize",
-      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1665,20 +1665,20 @@
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
+      "added_at": "2026-07-03 04:20:13",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO"
+        "name": "Sparkwheel",
+        "url": "https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE"
       },
       "artists": [
         {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
         }
       ],
-      "duration_ms": 132500,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO"
+      "duration_ms": 269906,
+      "name": "Guard Dog",
+      "url": "https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa"
     }
   ],
   "unique_name": "Indie Pop",

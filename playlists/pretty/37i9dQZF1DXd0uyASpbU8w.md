@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Masego, Sam Deep, Davido, Gracie Abrams, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,996 likes - 66 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,009 likes - 66 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

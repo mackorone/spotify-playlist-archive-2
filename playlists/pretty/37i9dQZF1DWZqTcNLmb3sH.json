@@ -1,18 +1,18 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ayogya 2",
-  "num_followers": 70734,
+  "num_followers": 70739,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKg/zUtGTQvJmVC5xfncPJxtbX6",
+  "snapshot_id": "AAAAAEwK825/r0N0Bfpy3+wc9yro50YN",
   "tracks": [
     {
-      "added_at": "2026-07-09 07:08:49",
+      "added_at": "2026-07-20 08:18:37",
       "album": {
-        "name": "Anna Bandre (From \"Ayogya 2\")",
-        "url": "https://open.spotify.com/album/4EpjeLbMAahVusOxjNALip"
+        "name": "Hudugir Dangerous (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/1Ft5DNFzxeNP389DLqJDMN"
       },
       "artists": [
         {
@@ -24,13 +24,61 @@
           "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
         },
         {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
         }
       ],
-      "duration_ms": 290586,
-      "name": "Anna Bandre (From \"Ayogya 2\")",
-      "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
+      "duration_ms": 229309,
+      "name": "Hudugir Dangerous (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/2Hr5Lxe0f9Dxb3B91q8Ize"
+    },
+    {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Retro [KANNADA]",
+        "url": "https://open.spotify.com/album/58Do5eyTUIUoDD3nkZ3sOV"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Swathi Shankari",
+          "url": "https://open.spotify.com/artist/7c0Ci1eChAcVAgpkwAfNql"
+        }
+      ],
+      "duration_ms": 260163,
+      "name": "Kannalliye",
+      "url": "https://open.spotify.com/track/4YF0FkGPzjGZIfnehWZcXC"
+    },
+    {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Suvvi Suvvali (From \"Picture\")",
+        "url": "https://open.spotify.com/album/4zsOYHafxoKmcagt4kB5mc"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aby",
+          "url": "https://open.spotify.com/artist/4JaDivtCGH8szhNAiwan1M"
+        },
+        {
+          "name": "Sandeepa Bedra",
+          "url": "https://open.spotify.com/artist/756RE6Ety1gONqAA2PN9Js"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 124509,
+      "name": "Suvvi Suvvali (From \"Picture\")",
+      "url": "https://open.spotify.com/track/1BmEoyUraBGzH5Gml7BpY5"
     },
     {
       "added_at": "2026-06-29 11:20:08",
@@ -55,6 +103,58 @@
       "duration_ms": 184499,
       "name": "Baa KARAVALIGE (From \"KARAVALI\")",
       "url": "https://open.spotify.com/track/2m3NvJMD7tWv0Y3rm2TyGZ"
+    },
+    {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Chaddi Buddy (From \"Chandrahaasa'')",
+        "url": "https://open.spotify.com/album/0iewCtXlV76n1LAPuHNTGI"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "sharan",
+          "url": "https://open.spotify.com/artist/6mOEdEWobe3buWI9yFv6oF"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "Chaddi Buddy (From \"Chandrahaasa'')",
+      "url": "https://open.spotify.com/track/2E6tH67I1Y6BYBM43pedVZ"
+    },
+    {
+      "added_at": "2026-07-09 07:08:49",
+      "album": {
+        "name": "Anna Bandre (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/4EpjeLbMAahVusOxjNALip"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "Anna Bandre (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
     },
     {
       "added_at": "2026-03-02 07:46:32",
@@ -161,6 +261,30 @@
       "url": "https://open.spotify.com/track/7BEASDyx45QuSWhq8LWFrb"
     },
     {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Rage of Kambala (From \"KARAVALI\")",
+        "url": "https://open.spotify.com/album/6LHkZPJWYcshlGzZSWzWvQ"
+      },
+      "artists": [
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Anand Sreeraj",
+          "url": "https://open.spotify.com/artist/76pQbKPAh3W3KuXfBmmgNB"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Rage of Kambala (From \"KARAVALI\")",
+      "url": "https://open.spotify.com/track/6OguQ7nuqEunUHwQr0RfXR"
+    },
+    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
@@ -205,6 +329,30 @@
       "url": "https://open.spotify.com/track/3LouCeQBvruw6t98z5NZF1"
     },
     {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Be Careful (From \"KHELA\")",
+        "url": "https://open.spotify.com/album/3mzXi8VbS4wcb0EZ81uCUM"
+      },
+      "artists": [
+        {
+          "name": "Thyagaraja M.S",
+          "url": "https://open.spotify.com/artist/6h0s6nu545c3GUh5GquDaY"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        }
+      ],
+      "duration_ms": 255158,
+      "name": "Be Careful (From \"KHELA\")",
+      "url": "https://open.spotify.com/track/781JwDTLZh6PqZJUR7turt"
+    },
+    {
       "added_at": "2026-07-14 05:34:31",
       "album": {
         "name": "Sundri of the nation (From \"Ruthless Romeo\")",
@@ -243,6 +391,30 @@
       "duration_ms": 225204,
       "name": "Bhoorame",
       "url": "https://open.spotify.com/track/0ZIhN1UhpPHNJrA1VRk9UT"
+    },
+    {
+      "added_at": "2026-07-20 08:18:37",
+      "album": {
+        "name": "Nee Athishayanu (From \"Madanika'')",
+        "url": "https://open.spotify.com/album/6IBZajkO6c3FCg1PvJfK69"
+      },
+      "artists": [
+        {
+          "name": "Salam Veeroli",
+          "url": "https://open.spotify.com/artist/2hCriSnQMYAKRWqMgESOrZ"
+        },
+        {
+          "name": "K Kalyan",
+          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 284155,
+      "name": "Nee Athishayanu (From \"Madanika'')",
+      "url": "https://open.spotify.com/track/1koH7w60Xn5j8oApbdWE71"
     },
     {
       "added_at": "2026-07-03 16:54:26",
@@ -1529,34 +1701,6 @@
       "url": "https://open.spotify.com/track/2O7Y9WOk0WF7CnLJj1PCQM"
     },
     {
-      "added_at": "2026-04-16 14:47:26",
-      "album": {
-        "name": "Bengaluru Inn Title Track (From \"Bengaluru Inn\")",
-        "url": "https://open.spotify.com/album/0Tc7lrmWhVMoaHPaFdtxKX"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Asif A Kader",
-          "url": "https://open.spotify.com/artist/7CEtbRx0LXuaySKfjRqUCW"
-        },
-        {
-          "name": "Aravind Murali",
-          "url": "https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy"
-        },
-        {
-          "name": "Anand G",
-          "url": "https://open.spotify.com/artist/4SpLYaXADoszFgWS5khUYt"
-        }
-      ],
-      "duration_ms": 272903,
-      "name": "Bengaluru Inn Title Track (From \"Bengaluru Inn\")",
-      "url": "https://open.spotify.com/track/02B3FwkxcHWv4oShA8pnoS"
-    },
-    {
       "added_at": "2026-04-30 09:32:32",
       "album": {
         "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
@@ -1581,30 +1725,6 @@
       "url": "https://open.spotify.com/track/5CM14jcrvDDXcdoMIN9eZh"
     },
     {
-      "added_at": "2026-04-22 06:56:53",
-      "album": {
-        "name": "Te Amo (From \"Rudra\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3w3NXtNGsgf4d0BT2vjB72"
-      },
-      "artists": [
-        {
-          "name": "Abhishek M R",
-          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
-        },
-        {
-          "name": "Asha Bhat",
-          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
-        },
-        {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/2EijkmfGErf2LP7qP7bj4J"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Te Amo (From \"Rudra\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2n65K0u2MZXlD9ceAaInze"
-    },
-    {
       "added_at": "2026-04-28 08:43:50",
       "album": {
         "name": "Come On Kaali (From \"KD\")",
@@ -1627,46 +1747,6 @@
       "duration_ms": 195005,
       "name": "Come On Kaali (From \"KD\")",
       "url": "https://open.spotify.com/track/0Sgt0eh1nims14hSpO3IVQ"
-    },
-    {
-      "added_at": "2026-04-20 06:25:30",
-      "album": {
-        "name": "Sura Sura (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7MFGkljmJrlWb1ClbOTRWF"
-      },
-      "artists": [
-        {
-          "name": "Junaid Kumar",
-          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
-        },
-        {
-          "name": "ABHE",
-          "url": "https://open.spotify.com/artist/7cOdkD4TZCEah13yslDdW7"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Akhil Chandra",
-          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
-        },
-        {
-          "name": "Anila Rajeev",
-          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
-        },
-        {
-          "name": "Brinda",
-          "url": "https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 254087,
-      "name": "Sura Sura (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2HtDEGex3x6M8J39k8k6O6"
     },
     {
       "added_at": "2026-04-24 07:22:53",
@@ -1697,38 +1777,6 @@
       "url": "https://open.spotify.com/track/7G9opj7es0jzVRsnrPTZrC"
     },
     {
-      "added_at": "2026-04-13 07:07:50",
-      "album": {
-        "name": "Thaka Thaka Nalipuga (From \"Picture\") [Tulu Version]",
-        "url": "https://open.spotify.com/album/3FUH7WQFse34cxy6oTvWZl"
-      },
-      "artists": [
-        {
-          "name": "Samuel Aby",
-          "url": "https://open.spotify.com/artist/4JaDivtCGH8szhNAiwan1M"
-        },
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
-        },
-        {
-          "name": "Adhvik",
-          "url": "https://open.spotify.com/artist/7bLeuhxmuY31ubWNhUrPVx"
-        },
-        {
-          "name": "Angel Mary Joseph",
-          "url": "https://open.spotify.com/artist/4hG3t1O0SjTUIcIMRtYVMT"
-        },
-        {
-          "name": "Shameer Mudipu",
-          "url": "https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Thaka Thaka Nalipuga (From \"Picture\") - Tulu Version",
-      "url": "https://open.spotify.com/track/6Mjqz6Xdl5l0hKL4npYOAa"
-    },
-    {
       "added_at": "2026-04-22 06:58:01",
       "album": {
         "name": "Dia Dia Dishkanaka (From \"Rudra\") (Original Motion Picture Soundtrack)",
@@ -1747,74 +1795,6 @@
       "duration_ms": 192000,
       "name": "Dia Dia Dishkanaka (From \"Rudra\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2ZjUJSU48304nkTWlniyv7"
-    },
-    {
-      "added_at": "2026-04-16 14:48:40",
-      "album": {
-        "name": "Baa Baa Dheevara (From \"Swayambhu\") (Kannada)",
-        "url": "https://open.spotify.com/album/3bnX1E2UDD8XazEki1YLOJ"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 227261,
-      "name": "Baa Baa Dheevara (From \"Swayambhu\") (Kannada)",
-      "url": "https://open.spotify.com/track/5XupRPKthhjb2SpfMjh2QR"
-    },
-    {
-      "added_at": "2026-04-13 07:14:48",
-      "album": {
-        "name": "Nuggi Hodi (From \"KD\")",
-        "url": "https://open.spotify.com/album/0HqUqcvbFxsbhPD6CW3ubE"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Prem's",
-          "url": "https://open.spotify.com/artist/0gbdi05gJIGYtDMiQ5kbN5"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 248192,
-      "name": "Nuggi Hodi (From \"KD\")",
-      "url": "https://open.spotify.com/track/1vmsRpYPz6wY7rjZIGE3Y6"
-    },
-    {
-      "added_at": "2026-04-13 07:06:35",
-      "album": {
-        "name": "Yayathi Yayathi (From \"Moda Kavida Vaatavarana\")",
-        "url": "https://open.spotify.com/album/2ERLiQBhvSiJ1hVVM6LkGC"
-      },
-      "artists": [
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        },
-        {
-          "name": "Sangeetha Ravindranath",
-          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
-        },
-        {
-          "name": "Chethan Nayak",
-          "url": "https://open.spotify.com/artist/5Tzy7fBUFbfnGjDRam8hIf"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Yayathi Yayathi (From \"Moda Kavida Vaatavarana\")",
-      "url": "https://open.spotify.com/track/2BYMzTceL3ZD3TmIFeNbv9"
     }
   ],
   "unique_name": "Latest Kannada",

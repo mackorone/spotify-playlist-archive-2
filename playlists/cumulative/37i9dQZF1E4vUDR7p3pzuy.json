@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, Captain Margaret and more",
+  "description": "With MIK's Reaction, David Von Beahm, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -1382,6 +1382,24 @@
       "duration_ms": 152842,
       "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/7qHzNi3KQOrMKAitWSd8rM"
+    },
+    {
+      "album": {
+        "name": "Barking at the Sun",
+        "url": "https://open.spotify.com/album/2QdxdM7ixA51zndGOco3gW"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
     },
     {
       "album": {
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 258181,
       "name": "Bloodletting (The Vampire Song)",
       "url": "https://open.spotify.com/track/238hAZxVczUt7QYYQuiyxT"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 346000,
       "name": "Destiny - Extended",
       "url": "https://open.spotify.com/track/3umS0zJJU7lyQ81TvqlzdI"
@@ -5406,7 +5424,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -6008,7 +6026,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 183809,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/5wivDnWHmaveZfrlKOaUNp"
@@ -6873,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Harsh Times",
+        "url": "https://open.spotify.com/album/30khqvYu7sp2MgOZYohD5W"
+      },
+      "artists": [
+        {
+          "name": "Credit Card",
+          "url": "https://open.spotify.com/artist/5u88effu8DTzDF27aJD4aI"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Harsh Times",
+      "url": "https://open.spotify.com/track/223aM0Hd6pcwaD5lb6vHHp"
+    },
+    {
+      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/1QfcXJGbIpherlmPGXlYUi"
       },
@@ -7274,7 +7310,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 202032,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/556qAvWZVLG5ysPXbhi3IR"
@@ -9500,7 +9536,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 286567,
       "name": "Lilylicker",
       "url": "https://open.spotify.com/track/7jkTqauzknvA7343TxUC56"
@@ -10839,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Skinwalker",
+        "url": "https://open.spotify.com/album/5DlUN6RTY3YOLwtAJWQYlh"
+      },
+      "artists": [
+        {
+          "name": "Maira 3",
+          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Necromantic",
+      "url": "https://open.spotify.com/track/4vs2lgSfRqonxxsumPueKr"
+    },
+    {
+      "album": {
         "name": "Negative Stimuli",
         "url": "https://open.spotify.com/album/1P44ChMaZKJYDd3WAc2fgd"
       },
@@ -11118,7 +11172,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11154,7 +11208,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11378,7 +11432,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 228914,
       "name": "On Your Way",
       "url": "https://open.spotify.com/track/0drRHKIwH1MdX2cXrev92c"
@@ -11792,7 +11846,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Playing With The Orbits",
       "url": "https://open.spotify.com/track/6XX3lYN94ItERpKwkLSgab"
@@ -12324,7 +12378,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -12454,7 +12508,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -13525,6 +13579,24 @@
     },
     {
       "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224304,
+      "name": "Should Have Known",
+      "url": "https://open.spotify.com/track/78etTYu7zW0Cwz5GK33spq"
+    },
+    {
+      "album": {
         "name": "SIC",
         "url": "https://open.spotify.com/album/7dkjCvOYq9etHF2rI6qhi0"
       },
@@ -13792,7 +13864,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 277282,
       "name": "Smile, Smile, Smile",
       "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
@@ -14388,7 +14460,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 608833,
       "name": "Star Scream",
       "url": "https://open.spotify.com/track/2RWEDjpidI5bdbYIVoP8Ag"
@@ -15794,7 +15866,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -16877,6 +16949,24 @@
     },
     {
       "album": {
+        "name": "Pretty Things Don\u2019t Last",
+        "url": "https://open.spotify.com/album/0Bss4LGKhkQcZWxwnjxw3k"
+      },
+      "artists": [
+        {
+          "name": "Noir Addiction",
+          "url": "https://open.spotify.com/artist/0vployUBHcI3DnWWhkFZp2"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Toxic Twins",
+      "url": "https://open.spotify.com/track/7fmJJLO5ErJ9h1WFwd6OUT"
+    },
+    {
+      "album": {
         "name": "Toy !",
         "url": "https://open.spotify.com/album/7AcpfzdiQl79nyHpDGnfsc"
       },
@@ -17252,7 +17342,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -17382,7 +17472,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"

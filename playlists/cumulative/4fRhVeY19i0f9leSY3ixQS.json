@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 163362,
       "name": "A Test of Strength",
       "url": "https://open.spotify.com/track/0lH0MJP8XviEmetJMT27gp"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/3dklPpnrytCMMEiMailZgJ"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225340,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/5aGNt4QLLBrg1eLd2932FT"
+    },
+    {
+      "album": {
         "name": "Blaze",
         "url": "https://open.spotify.com/album/5gFX83LBIgN7JAxsimPbX8"
       },
@@ -3258,6 +3276,24 @@
       "duration_ms": 163718,
       "name": "Bleeding You",
       "url": "https://open.spotify.com/track/00LyefdHtjsZl6RsKpDav6"
+    },
+    {
+      "album": {
+        "name": "Crazy Chemistry",
+        "url": "https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc"
+      },
+      "artists": [
+        {
+          "name": "Burton Badman",
+          "url": "https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286140,
+      "name": "Blind Spots",
+      "url": "https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr"
     },
     {
       "album": {
@@ -3576,6 +3612,24 @@
       "duration_ms": 174931,
       "name": "Boleskine House Blues",
       "url": "https://open.spotify.com/track/73QTqhQdQJWcwIpmhsSlvc"
+    },
+    {
+      "album": {
+        "name": "Bones and Skin",
+        "url": "https://open.spotify.com/album/0UvU4FRbaQZnKKsQFQ76IQ"
+      },
+      "artists": [
+        {
+          "name": "Audiokicks",
+          "url": "https://open.spotify.com/artist/3gWYgs6usgpGNbIp9GFPwN"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260943,
+      "name": "Bones and Skin",
+      "url": "https://open.spotify.com/track/0KqaKG91Crs1KfsIe3QC4e"
     },
     {
       "album": {
@@ -4152,7 +4206,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 37000,
       "name": "British Fail",
       "url": "https://open.spotify.com/track/3XPjxkrqy9JqmRawof15B9"
@@ -8559,6 +8613,24 @@
     },
     {
       "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/6LE62kxeIY7mo5JBvhSDsi"
+      },
+      "artists": [
+        {
+          "name": "Low Range",
+          "url": "https://open.spotify.com/artist/1mWkBRnqMFxQdVz6q9Kvp4"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196123,
+      "name": "Drooler",
+      "url": "https://open.spotify.com/track/3Eia194y2MGXNokDi6H3uj"
+    },
+    {
+      "album": {
         "name": "Drought (Far from Okay)",
         "url": "https://open.spotify.com/album/01SVLSLLdRqfsPt7WdBHqr"
       },
@@ -9382,6 +9454,24 @@
       "duration_ms": 238760,
       "name": "Es Cruel",
       "url": "https://open.spotify.com/track/0kLoWcMNUVseVidxCZIQw7"
+    },
+    {
+      "album": {
+        "name": "the rest of your debt",
+        "url": "https://open.spotify.com/album/2e8PKwMjauZsmUimTlA9IC"
+      },
+      "artists": [
+        {
+          "name": "foureyes",
+          "url": "https://open.spotify.com/artist/1N2WG7si2PeqFemMgPXoG9"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "escaping my shadow",
+      "url": "https://open.spotify.com/track/3J6WNUBV3ccxF9lXgFaDhr"
     },
     {
       "album": {
@@ -13393,6 +13483,28 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/5JD05C7f065Db5oliejiri"
+      },
+      "artists": [
+        {
+          "name": "FRANZ",
+          "url": "https://open.spotify.com/artist/5LoUudormLukQsMGi83Cev"
+        },
+        {
+          "name": "CONTROL BURN",
+          "url": "https://open.spotify.com/artist/2PQa2icYRmNR5CUbva9MgB"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176113,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3nkNF6lKHHUmJjfDOkRg8O"
+    },
+    {
+      "album": {
         "name": "Hold The Line",
         "url": "https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg"
       },
@@ -15766,6 +15878,24 @@
       "duration_ms": 97054,
       "name": "JOHN CENA",
       "url": "https://open.spotify.com/track/2UfX9JKkijN4EJscdv0Bty"
+    },
+    {
+      "album": {
+        "name": "July Pills",
+        "url": "https://open.spotify.com/album/4nUKpjZYELUncRr1aTeulu"
+      },
+      "artists": [
+        {
+          "name": "Sludder",
+          "url": "https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165132,
+      "name": "July Pills",
+      "url": "https://open.spotify.com/track/1gCfWGGVDBeIFRLkRlMqiU"
     },
     {
       "album": {
@@ -20133,6 +20263,24 @@
     },
     {
       "album": {
+        "name": "New Stockholm",
+        "url": "https://open.spotify.com/album/1F5qI2bG6aSDDpot5Zb2Xa"
+      },
+      "artists": [
+        {
+          "name": "Mercers.",
+          "url": "https://open.spotify.com/artist/0hUc6FIsCsAGv1muQXWDHZ"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "New Stockholm",
+      "url": "https://open.spotify.com/track/0cs6vA3H1gIP6MQIbpEDq3"
+    },
+    {
+      "album": {
         "name": "New Times",
         "url": "https://open.spotify.com/album/5Leen2t1D1hc2xSEQks9z2"
       },
@@ -20746,6 +20894,24 @@
       "duration_ms": 152418,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4"
+    },
+    {
+      "album": {
+        "name": "Not Weak Minded",
+        "url": "https://open.spotify.com/album/7ChacWHGqSuj28nmuJWkLG"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Panetta",
+          "url": "https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Not Weak Minded",
+      "url": "https://open.spotify.com/track/3iLpSre2R9KPPg1J98HVyj"
     },
     {
       "album": {
@@ -25749,6 +25915,24 @@
     },
     {
       "album": {
+        "name": "Shoegazer Club",
+        "url": "https://open.spotify.com/album/4nJbanatReVee6FMwp99pb"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3050\u308cP",
+          "url": "https://open.spotify.com/artist/2b6sJsTdtKou0xkYuY4aRO"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168879,
+      "name": "Shoegazer Club",
+      "url": "https://open.spotify.com/track/0RPKonnSnIu1zWohZ8V4gg"
+    },
+    {
+      "album": {
         "name": "shoes",
         "url": "https://open.spotify.com/album/1sTWAPMKOH7Pw5A5XWJ1Jk"
       },
@@ -27711,6 +27895,24 @@
     },
     {
       "album": {
+        "name": "Stooge",
+        "url": "https://open.spotify.com/album/2AYeGIys9IVsJdak8WwFJ1"
+      },
+      "artists": [
+        {
+          "name": "Red Light Acid Test",
+          "url": "https://open.spotify.com/artist/150suJJQ9RN6MLoJNZ50ww"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191353,
+      "name": "Stooge",
+      "url": "https://open.spotify.com/track/1IiWQ4D1fHel6LyItcKO0Z"
+    },
+    {
+      "album": {
         "name": "Stop the war!",
         "url": "https://open.spotify.com/album/1SQhgbGs4qGP8RMLL780yn"
       },
@@ -27888,6 +28090,28 @@
       "duration_ms": 190072,
       "name": "Strobes",
       "url": "https://open.spotify.com/track/0lxmH14taIi97U2OzluG7o"
+    },
+    {
+      "album": {
+        "name": "Strong, Proud and Ignorant",
+        "url": "https://open.spotify.com/album/1y6BXEgfcWuHMRCDQUA6IH"
+      },
+      "artists": [
+        {
+          "name": "Yovsaf",
+          "url": "https://open.spotify.com/artist/2RfCvIEtLyG0sadpXkXFYl"
+        },
+        {
+          "name": "Yonks",
+          "url": "https://open.spotify.com/artist/3uLbO9LqSALVEfIo3VjWyX"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156579,
+      "name": "Strong, Proud and Ignorant",
+      "url": "https://open.spotify.com/track/3DpJLLh4fVgLCARmZrsAdd"
     },
     {
       "album": {
@@ -28638,6 +28862,24 @@
       "duration_ms": 240000,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/1wv1vT3cj2KSgpvl407duC"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo"
+      },
+      "artists": [
+        {
+          "name": "Saturday Night Vacancy",
+          "url": "https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215378,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2"
     },
     {
       "album": {
@@ -29558,6 +29800,24 @@
       "duration_ms": 217590,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5keLHamVPw33REFqrmWUEU"
+      },
+      "artists": [
+        {
+          "name": "Field of Fear",
+          "url": "https://open.spotify.com/artist/6BamreKwBnLBCNzCNHYHtU"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217193,
+      "name": "The Final Horseman",
+      "url": "https://open.spotify.com/track/0Agi7zITxwNAPZ9ks7v0FL"
     },
     {
       "album": {
@@ -33057,6 +33317,24 @@
     },
     {
       "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/6cJfFgT0dPJTLq3TzKuVXc"
+      },
+      "artists": [
+        {
+          "name": "PSYCHOSIS",
+          "url": "https://open.spotify.com/artist/6SjIYT84Ye5AnIxAukfJFx"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175096,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/4rPcfRO291CqIm6zjiTGap"
+    },
+    {
+      "album": {
         "name": "Wear Your Skin",
         "url": "https://open.spotify.com/album/5MREyRzLvvXLoTWF4boMJb"
       },
@@ -34175,6 +34453,24 @@
     },
     {
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2woVblikP4LxCUKxMNLsHS"
+      },
+      "artists": [
+        {
+          "name": "Raseem",
+          "url": "https://open.spotify.com/artist/77ut7Rw6Wt62qO8crS2E1w"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184679,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/3zaomffGgeZhH5PxS3poTh"
+    },
+    {
+      "album": {
         "name": "wrecked",
         "url": "https://open.spotify.com/album/4b5bcSF7KSUMOLVOszH7T4"
       },
@@ -34784,6 +35080,28 @@
       "duration_ms": 242663,
       "name": "Zero Bullshit",
       "url": "https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6"
+    },
+    {
+      "album": {
+        "name": "ZEUS",
+        "url": "https://open.spotify.com/album/4SYIXJuomMNKx8yxXB38sI"
+      },
+      "artists": [
+        {
+          "name": "Rex Arcum",
+          "url": "https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI"
+        },
+        {
+          "name": "LG4 Ness",
+          "url": "https://open.spotify.com/artist/7BsBGiYfRI6fQBpno5LLWM"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200207,
+      "name": "ZEUS",
+      "url": "https://open.spotify.com/track/416aoByBBEYmV98ToqCocA"
     },
     {
       "album": {

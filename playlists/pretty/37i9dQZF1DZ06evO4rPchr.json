@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADK0kmE7XRylEaxEbX6iBDX",
+  "snapshot_id": "alwTgAAAAAC/Unp+m6RDaXue+U/NlkGQ",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 548276,
-      "name": "Look How Far We Have Come",
-      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
+      "duration_ms": 594500,
+      "name": "The Sun Swirls Within You",
+      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 594500,
-      "name": "The Sun Swirls Within You",
-      "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
+      "duration_ms": 763311,
+      "name": "Under The Lilac Sky",
+      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 207042,
-      "name": "Imagine An Orchestra",
-      "url": "https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq"
+      "duration_ms": 308876,
+      "name": "Our Touching Tongues",
+      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 763311,
-      "name": "Under The Lilac Sky",
-      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+      "duration_ms": 548276,
+      "name": "Look How Far We Have Come",
+      "url": "https://open.spotify.com/track/5ojTfqCXRgGYCEgldgxAIb"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 308876,
-      "name": "Our Touching Tongues",
-      "url": "https://open.spotify.com/track/6kxfTvXxAavxxRQnV2uoPP"
+      "duration_ms": 207042,
+      "name": "Imagine An Orchestra",
+      "url": "https://open.spotify.com/track/4msagC3KOrVzslYGCCiGeq"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
       "duration_ms": 359493,
       "name": "Farida",
       "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 416266,
-      "name": "Cio",
-      "url": "https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s"
     }
   ],
   "unique_name": "This Is Arushi Jain",

@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-199 songs - 2 day 0 hr 53 min
+200 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 | 2024-09-13 |  |
 | [Shree Ganapati Atharvashirsha](https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:28 | 2023-05-23 | 2025-06-26 |
 | [Shree Ganesh Pancharatna Stotra](https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is) | [Shubhankar](https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv), [Divyank](https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf), [Ojus Gupta](https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF) | [Shree Ganesh Pancharatna Stotra](https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5) | 3:20 | 2025-03-04 |  |
+| [Shree Ganesh Pancharatna Stotra \- Extended](https://open.spotify.com/track/3kHCkJHtHSIpV4bzhfWvwX) | [Shubhankar](https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv), [Ojus Gupta](https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF), [Divyank](https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf) | [Shree Ganesh Pancharatna Stotra \- Extended](https://open.spotify.com/album/4scPUJXNcrA0EExCycaCGd) | 6:10 | 2026-07-03 |  |
 | [Shree Saraswati Mantra for Knowledge and Wisdom](https://open.spotify.com/track/7vf3fOCQRzLJ3tWV6b0XTj) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chants from India, Vol\. 10](https://open.spotify.com/album/5uT4LDe2IIoOD1pzXSCDCz) | 4:10 | 2024-12-30 |  |
 | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s) | [Devashri Golambare](https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH) | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw) | 9:59 | 2024-12-30 |  |
 | [Shri Ganesh \- Ahir Bhairav](https://open.spotify.com/track/6KSciAi2TvYcnL90IwacVU) | [Ajay Pohankar](https://open.spotify.com/artist/33OQaq58Ij7AwmsDlhKVkt) | [Temple Music](https://open.spotify.com/album/6ikXsdIv6Q3sWmx7Omx68J) | 8:30 | 2025-02-07 | 2025-02-16 |
@@ -204,7 +205,7 @@
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP) | 10:11 | 2023-07-05 | 2024-12-31 |
 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/34iVe1a0rFn8PIsp2UxlSJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/23UptOy5AgH08OYuSoftn8) | 10:11 | 2024-04-05 | 2024-04-19 |
 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 | 2025-02-07 |  |
-| [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/track/35ZpbFnsQEvc2JU3HJ1Dly) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sanjayraj Gaurinandan](https://open.spotify.com/artist/364SUutxNBI1jqUp4DBqZB) | [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/album/22JKOBpVrTWDkie5mWsxBs) | 12:45 | 2026-05-28 |  |
+| [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/track/35ZpbFnsQEvc2JU3HJ1Dly) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sanjayraj Gaurinandan](https://open.spotify.com/artist/364SUutxNBI1jqUp4DBqZB) | [Vishnu Mantra \(Om Vishnave Namah 108 Time\)](https://open.spotify.com/album/22JKOBpVrTWDkie5mWsxBs) | 12:45 | 2026-05-28 | 2026-07-21 |
 | [Waheguru Wahe Jio](https://open.spotify.com/track/0lliLuoYQoVwXaCyNXMoqK) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 45:01 | 2022-01-24 | 2024-12-31 |
 | [Waheguru Wahe Jio](https://open.spotify.com/track/1ZC1vU3OWjOZqREj9th9eh) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:01 | 2022-01-24 | 2024-04-19 |
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: MOËTT
+> Only the hottest South African rap\. <br/>Cover: ZuluMecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,051 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,097 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [Supa](https://open.spotify.com/track/4yvawLQsRjLwONtQ04qWb6) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [DUST DLX](https://open.spotify.com/album/5lAKuTxBfJ4QMRlSsnm5aU) | 4:02 |
 | 100 | [TRAPSTARS \(feat\. Nadia Nakai\)](https://open.spotify.com/track/33Zgev6UEo8Ng7e1ZsC9ov) | [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [066, Vol\. 3](https://open.spotify.com/album/6G8vk4pqS03gYEVmCXucZU) | 3:30 |
 
-Snapshot ID: `AAAAAC9AjueLpQ8/7/UjVECywic9jyI6`
+Snapshot ID: `AAAAAKwHR3X2EW2i4P6c8ClThtNHSgQ7`

@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61201,
+  "num_followers": 61221,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Jahreszeiten",
-        "url": "https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm"
+        "name": "Boom Schakkalakka",
+        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
       },
       "artists": [
         {
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
         },
         {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
         }
       ],
-      "duration_ms": 202042,
-      "name": "Jahreszeiten",
-      "url": "https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI"
+      "duration_ms": 225000,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Sommer-Hits zum Tanzen",
+        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 174403,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
         "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 143732,
       "name": "Yammi Yammi",
       "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Sommer-Hits zum Tanzen",
-        "url": "https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk"
-      },
-      "artists": [
-        {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 174403,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 185840,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
       "artists": [
         {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
         }
       ],
-      "duration_ms": 116826,
-      "name": "Das Lied Vom Sommer",
-      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
       "artists": [
         {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
         }
       ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
+      "duration_ms": 116826,
+      "name": "Das Lied Vom Sommer",
+      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
     },
     {
       "added_at": "2026-07-09 22:01:19",

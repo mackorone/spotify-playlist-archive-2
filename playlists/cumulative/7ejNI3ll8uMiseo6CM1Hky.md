@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-193 songs - 10 hr 47 min
+196 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Child Wielding Needle](https://open.spotify.com/track/4GaqtBAvP2zxckmzATwSnf) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Child Wielding Needle](https://open.spotify.com/album/70jrnQoxwmqJAuvSjjrzAx) | 2:31 | 2025-09-26 |  |
 | [Childish Flamingos](https://open.spotify.com/track/7vt8HJ3xsjxSbVNipnkpQm) | [GoodMeme](https://open.spotify.com/artist/7rtVNkyhjLlLixT4bAMvcz) | [Childish Flamingos](https://open.spotify.com/album/1fEe1CzUVBjkG4RwDOqytJ) | 2:54 | 2022-10-11 | 2025-06-20 |
 | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/track/5EcejFT18sRlINSUm9UrN2) | [Lyamev](https://open.spotify.com/artist/66JRvwn4ZWl96JJauc7xXa) | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/album/3DBq5ATRCN44y57HL3HCzl) | 1:21 | 2025-11-23 |  |
+| [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2026-07-21 |  |
 | [Closer](https://open.spotify.com/track/3F4M4IaluOCuLto737CRXq) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Closer](https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS) | 4:31 | 2018-12-06 |  |
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |
 | [Crystal Dolphin](https://open.spotify.com/track/6kx8Hf1Udk4V0Ivq6zpoyG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust Fm](https://open.spotify.com/album/2YZJ2QWjBY1tDqcy8u4nkC) | 1:55 | 2019-04-27 |  |
@@ -123,6 +124,7 @@
 | [Life Is Fun](https://open.spotify.com/track/6Q8mqjuz8xqdoUjhZQDfY7) | [Boyinaband](https://open.spotify.com/artist/7kfzadZaOgR90Tp8OYH5gM), [TheOdd1sOut](https://open.spotify.com/artist/5qwx5UF6qyRuQSchGwmZKW) | [Life Is Fun](https://open.spotify.com/album/7gbrL22nlUn2WGFHX1kA6J) | 3:41 | 2019-03-16 | 2025-01-26 |
 | [Life Letters](https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS) | [Never Get Used To People](https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ) | [Life Letters](https://open.spotify.com/album/2f5voeeirzSQBRR4ovCNnD) | 2:28 | 2022-12-11 | 2026-05-10 |
 | [Like A Boss \- Original Mix](https://open.spotify.com/track/3ltDZTEcRMZdh5Sr4JLiA2) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Like A Boss EP](https://open.spotify.com/album/2BZeGuJndNSVO0jZ6Qampx) | 4:34 | 2018-12-23 |  |
+| [LIKE YOU\~](https://open.spotify.com/track/1fq71XiI5t98OsbwvPHX2j) | [ANATHEMA\-000](https://open.spotify.com/artist/0ej6k9H4smUlP6fLlxBg7c) | [LIKE YOU\~](https://open.spotify.com/album/4Y6pfBfbWkIjVd9Aez7sRb) | 3:26 | 2026-07-20 |  |
 | [Little Too Close](https://open.spotify.com/track/4FJQhrYrmnUnmbQyKlyHfq) | [WRLD](https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Chase It](https://open.spotify.com/album/7GtZPupXbxCbzZ2VHZzBKL) | 4:04 | 2019-11-30 |  |
 | [Lobby music 80's edition](https://open.spotify.com/track/36wdusACrHJeVsvimrwLt0) | [Kahoot!](https://open.spotify.com/artist/7ADPwlOqNnCqFtqIV5TKCX) | [Lobby music 80's edition](https://open.spotify.com/album/6HRAA8rdmArMT50561cklK) | 1:34 | 2026-04-29 | 2026-07-16 |
 | [Lone Digger](https://open.spotify.com/track/0ZG7CssB5lM2ILgJhMGNVE) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/3LBVVeFs1R0VJobVUzNSdx) | 3:49 | 2018-12-06 |  |
@@ -193,6 +195,7 @@
 | [We Could Have a Good Time](https://open.spotify.com/track/3EzyI8irR6gmhN1hHYKadF) | [Russell Vista](https://open.spotify.com/artist/3bfg9PDTyp2yXpmgzERfdF) | [We Could Have a Good Time](https://open.spotify.com/album/6Js1WxQADY3Me5cme2ki64) | 3:30 | 2020-08-22 |  |
 | [We're Beautiful](https://open.spotify.com/track/3V2PU0Bd7r8PjauFRDZlMv) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM), [Diveo](https://open.spotify.com/artist/7KvopsO7vGWZ6imjI8bZ1x) | [We're Beautiful](https://open.spotify.com/album/1umZ5ZIMgPhCIaj0g6ujcy) | 4:01 | 2019-11-21 |  |
 | [We're Taking Back the Night](https://open.spotify.com/track/5DkFdMS4cRWmJTXLli9iXe) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:24 | 2020-11-13 |  |
+| [Welcome to The Internet](https://open.spotify.com/track/3s44Qv8x974tm0ueLexMWN) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:35 | 2026-07-20 |  |
 | [Whatever U Want Me 2 Be](https://open.spotify.com/track/70ViO6ChzdWHdDjVfU6jrn) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 3:11 | 2018-12-06 |  |
 | [why did the chicken cross the road?](https://open.spotify.com/track/41Vr0Zt9gk1mtBu97RJyI7) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [why did the chicken cross the road?](https://open.spotify.com/album/4uDHWLOZfmchXxGQmbAHGA) | 2:15 | 2022-01-04 |  |
 | [Wisdom \(Zelda's Lullaby\)](https://open.spotify.com/track/3qZaHPTAOLomPePMns8kbu) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Wisdom \(Zelda's Lullaby\)](https://open.spotify.com/album/4MnZWBPw0vCrIa0rFCQwqD) | 4:00 | 2018-12-15 |  |

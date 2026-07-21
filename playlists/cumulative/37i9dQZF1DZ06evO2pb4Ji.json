@@ -2802,36 +2802,6 @@
     {
       "album": {
         "name": "Take Over",
-        "url": "https://open.spotify.com/album/7d1FmC7egbgEZWVqD8eMOE"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/2CZIjvQLlbZ5X2jdeysVfK"
-        },
-        {
-          "name": "Jeremy McKinnon of A Day To Remember",
-          "url": "https://open.spotify.com/artist/4aQY8buO08AQLaDOuLs6Yn"
-        },
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "date_added": "2025-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213853,
-      "name": "Take Over",
-      "url": "https://open.spotify.com/track/6ZAdmMn7R9iwILWXVSM3SE"
-    },
-    {
-      "album": {
-        "name": "Take Over",
         "url": "https://open.spotify.com/album/746kCUpkRofCTYBupy2grd"
       },
       "artists": [
@@ -2858,6 +2828,36 @@
       "duration_ms": 213853,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/7asFSf2pkWNEG3E5EuN1QR"
+    },
+    {
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/7d1FmC7egbgEZWVqD8eMOE"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/2CZIjvQLlbZ5X2jdeysVfK"
+        },
+        {
+          "name": "Jeremy McKinnon of A Day To Remember",
+          "url": "https://open.spotify.com/artist/4aQY8buO08AQLaDOuLs6Yn"
+        },
+        {
+          "name": "Henry Lau",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/6ZAdmMn7R9iwILWXVSM3SE"
     },
     {
       "album": {

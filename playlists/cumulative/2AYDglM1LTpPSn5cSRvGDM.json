@@ -1743,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "Good Time (Clothes Off)",
+        "url": "https://open.spotify.com/album/1xA7H4RYypebhrtgSoWczk"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144677,
+      "name": "Good Time (Clothes Off)",
+      "url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx"
+    },
+    {
+      "album": {
         "name": "Greece 2000 (Max Styler Rework)",
         "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
       },

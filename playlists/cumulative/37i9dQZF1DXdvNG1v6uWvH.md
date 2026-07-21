@@ -2,7 +2,7 @@
 
 ### [New Music Friday Iceland](https://open.spotify.com/playlist/37i9dQZF1DXdvNG1v6uWvH)
 
-> Loksins New Music Friday! Ný tónlist Of Yung Nigo Drippin', Gracie Abrams og mörgum fleiri!
+> Loksins New Music Friday! Ný tónlist frá Yung Nigo Drippin', Gracie Abrams og mörgum fleirum!
 
 11,513 songs - 25 day 18 hr 14 min
 

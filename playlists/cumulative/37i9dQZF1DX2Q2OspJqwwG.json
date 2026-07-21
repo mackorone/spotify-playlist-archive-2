@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -2538,7 +2560,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 165000,
       "name": "CUM ESTI TU",
       "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
@@ -4167,6 +4189,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "FREAKED OUT - AFTER HOURS SLOWED",
+      "url": "https://open.spotify.com/track/4rA1eFkTg7ngYpBf1KjkMg"
+    },
+    {
+      "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
@@ -5374,7 +5418,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 146938,
       "name": "Izabela",
       "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
@@ -6430,10 +6474,32 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 200471,
       "name": "Mesterul Manele",
       "url": "https://open.spotify.com/track/04XSd1K9IUneZBRDQXIUac"
+    },
+    {
+      "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/4oZost3ZopR7LQa9NEKMUQ"
+      },
+      "artists": [
+        {
+          "name": "EFRA",
+          "url": "https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w"
+        },
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160122,
+      "name": "MI AMOR",
+      "url": "https://open.spotify.com/track/2fpArW4gdskbBMyeNSmhJ4"
     },
     {
       "album": {
@@ -8259,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "RMB (Ring My Bell)",
+        "url": "https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "RMB (Ring My Bell)",
+      "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
+    },
+    {
+      "album": {
         "name": "Romania Euro 2024",
         "url": "https://open.spotify.com/album/4YMfQvet2YTr8pEtS9eVr3"
       },
@@ -8328,7 +8412,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 173793,
       "name": "SA TE PUP",
       "url": "https://open.spotify.com/track/3dKNqxTNbM58WbgwHeodDn"
@@ -8350,6 +8434,32 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "7: Anniversary Edition",
+        "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4wqIXeDppYSMXaWsnTzpzT"
     },
     {
       "album": {
@@ -8796,6 +8906,24 @@
       "duration_ms": 184041,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/7hkJx0hchF4XGtaNbYAzME"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Snow in Skyami",
+      "url": "https://open.spotify.com/track/2nGzxt4Ww10tUoyDdkNqWq"
     },
     {
       "album": {
@@ -9674,7 +9802,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 202718,
       "name": "Timpul",
       "url": "https://open.spotify.com/track/1biognPVmdw0Cp2536gbny"
@@ -9860,7 +9988,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 138750,
       "name": "TRECI PESTE",
       "url": "https://open.spotify.com/track/0qeJlzTP4ElGNqleALaeR2"

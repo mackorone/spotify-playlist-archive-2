@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,622 songs - 3 day 9 hr 21 min
+1,623 songs - 3 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-11 | 2025-09-24 |
 | [Aşk Şarkısı \- Live](https://open.spotify.com/track/7E3YAVF3A7Shm7w2p3Np1Z) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Ayda](https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b) | [Aşk Şarkısı \(Live\)](https://open.spotify.com/album/6ScilctPqH09aFRBeIhA1I) | 3:53 | 2022-09-08 | 2023-01-16 |
 | [Aşka Yürek Gerek \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/2eWqsm3L7DQNdPqle9vDwd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW), [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşka Yürek Gerek \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/0NbHs8elAl4wA9e4XOxlPO) | 3:13 | 2026-06-03 | 2026-06-05 |
-| [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 | 2026-05-19 |  |
+| [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 | 2026-05-19 | 2026-07-21 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
 | [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 | 2026-05-12 |
@@ -785,6 +785,7 @@
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-10-12 | 2026-01-01 |
 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 | 2024-09-28 | 2024-10-03 |
+| [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 | 2026-07-20 |  |
 | [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 | 2025-08-30 | 2025-12-05 |
 | [İki Tas Çorba](https://open.spotify.com/track/5Ppj0GysGcSeKn2AznI6rT) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:11 | 2026-05-17 | 2026-05-19 |
 | [İki Tas Çorba \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/0icmYnuVBefqsouoU3uRMl) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [İki Tas Çorba \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/1S027qk3kbsUFPexKT33Sa) | 3:11 | 2026-05-18 |  |
@@ -1139,7 +1140,7 @@
 | [Outro](https://open.spotify.com/track/0vEYBkV3DplIMNE3TSDg7Z) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 1:25 | 2025-06-14 | 2025-06-16 |
 | [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-13 |
 | [Outro](https://open.spotify.com/track/17w46UZMA2shsYOEMTlD6g) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:13 | 2026-02-21 | 2026-02-23 |
-| [Outro II](https://open.spotify.com/track/7Bg8I75fRGSZKyy5mH57LD) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan II](https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn) | 2:30 | 2026-07-11 |  |
+| [Outro II](https://open.spotify.com/track/7Bg8I75fRGSZKyy5mH57LD) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan II](https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn) | 2:30 | 2026-07-11 | 2026-07-21 |
 | [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 | 2023-06-18 | 2023-06-25 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Padişah](https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bu Devirde](https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt) | 3:52 | 2023-05-14 | 2024-04-05 |
@@ -1629,6 +1630,6 @@
 | [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-23 |
 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 | 2025-06-28 | 2025-07-20 |
 | [ŞUT](https://open.spotify.com/track/2C2m9namPfgkvcPgO0S6Xj) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 3:04 | 2025-01-18 | 2025-02-01 |
-| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-02 | 2026-07-19 |
+| [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 | 2026-07-02 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

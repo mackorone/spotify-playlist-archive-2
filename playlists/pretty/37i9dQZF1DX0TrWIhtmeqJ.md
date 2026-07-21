@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Zino Vinci
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,712 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,711 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 2 | [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 |
 | 3 | [Dare You/N2S](https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn) | [Javán](https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE) | [Dare You/N2S](https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6) | 2:29 |
 | 4 | [levels](https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [levels](https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ) | 3:54 |
-| 5 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf), [Howj](https://open.spotify.com/artist/0OucfGg8WrZdIDBElyyP7l) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
+| 5 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
 | 6 | [future millionaire \(couldn't care less\)](https://open.spotify.com/track/3tu97lTFhy5Xz2ZiUqN4zQ) | [Heroic Dragon](https://open.spotify.com/artist/4d1z8SbLjVUT8qd7kMvBdk) | [future millionaire \(couldn't care less\)](https://open.spotify.com/album/0UIzQ1OStPtWn6vL2uQyds) | 1:53 |
 | 7 | [Oiii DJ](https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv) | [Oiii DJ](https://open.spotify.com/album/2pAjAum20KgmBY3aCeTkII) | 2:24 |
 | 8 | [broken vase](https://open.spotify.com/track/4bDetS185jvSXnqSDo4IhC) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY) | [broken vase](https://open.spotify.com/album/01IAsnb1GLx8tHiNv8MZvV) | 2:05 |

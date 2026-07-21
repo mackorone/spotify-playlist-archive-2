@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1537,
+  "num_followers": 1553,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAR+JhJCsXb2LwPqLvgkjah4rxkZb/Y",
+  "snapshot_id": "AAASDPNoCugF933SxWdSqtZHmFFJ5Dca",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -175,6 +175,130 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-07-20 15:25:26",
+      "album": {
+        "name": "Strong, Proud and Ignorant",
+        "url": "https://open.spotify.com/album/1y6BXEgfcWuHMRCDQUA6IH"
+      },
+      "artists": [
+        {
+          "name": "Yovsaf",
+          "url": "https://open.spotify.com/artist/2RfCvIEtLyG0sadpXkXFYl"
+        },
+        {
+          "name": "Yonks",
+          "url": "https://open.spotify.com/artist/3uLbO9LqSALVEfIo3VjWyX"
+        }
+      ],
+      "duration_ms": 156579,
+      "name": "Strong, Proud and Ignorant",
+      "url": "https://open.spotify.com/track/3DpJLLh4fVgLCARmZrsAdd"
+    },
+    {
+      "added_at": "2026-07-20 15:17:38",
+      "album": {
+        "name": "COMEBACK",
+        "url": "https://open.spotify.com/album/0ZmkyAWkROPIOimaeECyjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Sandra",
+          "url": "https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi"
+        },
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "COMEBACK",
+      "url": "https://open.spotify.com/track/1WueuwIcvtCOC3uLhPK815"
+    },
+    {
+      "added_at": "2026-07-20 15:08:44",
+      "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/6cJfFgT0dPJTLq3TzKuVXc"
+      },
+      "artists": [
+        {
+          "name": "PSYCHOSIS",
+          "url": "https://open.spotify.com/artist/6SjIYT84Ye5AnIxAukfJFx"
+        }
+      ],
+      "duration_ms": 175096,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/4rPcfRO291CqIm6zjiTGap"
+    },
+    {
+      "added_at": "2026-07-20 15:03:43",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/5keLHamVPw33REFqrmWUEU"
+      },
+      "artists": [
+        {
+          "name": "Field of Fear",
+          "url": "https://open.spotify.com/artist/6BamreKwBnLBCNzCNHYHtU"
+        }
+      ],
+      "duration_ms": 217193,
+      "name": "The Final Horseman",
+      "url": "https://open.spotify.com/track/0Agi7zITxwNAPZ9ks7v0FL"
+    },
+    {
+      "added_at": "2026-07-20 14:54:16",
+      "album": {
+        "name": "ZEUS",
+        "url": "https://open.spotify.com/album/4SYIXJuomMNKx8yxXB38sI"
+      },
+      "artists": [
+        {
+          "name": "Rex Arcum",
+          "url": "https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI"
+        },
+        {
+          "name": "LG4 Ness",
+          "url": "https://open.spotify.com/artist/7BsBGiYfRI6fQBpno5LLWM"
+        }
+      ],
+      "duration_ms": 200207,
+      "name": "ZEUS",
+      "url": "https://open.spotify.com/track/416aoByBBEYmV98ToqCocA"
+    },
+    {
+      "added_at": "2026-07-20 14:35:34",
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/6LE62kxeIY7mo5JBvhSDsi"
+      },
+      "artists": [
+        {
+          "name": "Low Range",
+          "url": "https://open.spotify.com/artist/1mWkBRnqMFxQdVz6q9Kvp4"
+        }
+      ],
+      "duration_ms": 196123,
+      "name": "Drooler",
+      "url": "https://open.spotify.com/track/3Eia194y2MGXNokDi6H3uj"
+    },
+    {
+      "added_at": "2026-07-20 13:21:42",
+      "album": {
+        "name": "July Pills",
+        "url": "https://open.spotify.com/album/4nUKpjZYELUncRr1aTeulu"
+      },
+      "artists": [
+        {
+          "name": "Sludder",
+          "url": "https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n"
+        }
+      ],
+      "duration_ms": 165132,
+      "name": "July Pills",
+      "url": "https://open.spotify.com/track/1gCfWGGVDBeIFRLkRlMqiU"
     },
     {
       "added_at": "2026-07-17 15:22:13",
@@ -1085,22 +1209,6 @@
       "url": "https://open.spotify.com/track/0rKsbKlzf4RKrCuY1IOW1n"
     },
     {
-      "added_at": "2026-06-19 07:54:26",
-      "album": {
-        "name": "What Could Have Been",
-        "url": "https://open.spotify.com/album/7qYvTgFCloKrQKNZVra1WC"
-      },
-      "artists": [
-        {
-          "name": "Left Stranded",
-          "url": "https://open.spotify.com/artist/2WeHF1LBbQ0gSuXKjjyn4U"
-        }
-      ],
-      "duration_ms": 163362,
-      "name": "A Test of Strength",
-      "url": "https://open.spotify.com/track/0lH0MJP8XviEmetJMT27gp"
-    },
-    {
       "added_at": "2026-06-18 11:56:24",
       "album": {
         "name": "Set Sail",
@@ -1899,22 +2007,6 @@
       "duration_ms": 436963,
       "name": "Put Me Down",
       "url": "https://open.spotify.com/track/55ahNa2Ns81p0tqTWq9iM6"
-    },
-    {
-      "added_at": "2025-08-03 07:05:37",
-      "album": {
-        "name": "Frantic!",
-        "url": "https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV"
-      },
-      "artists": [
-        {
-          "name": "Pickap.art",
-          "url": "https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc"
-        }
-      ],
-      "duration_ms": 37000,
-      "name": "British Fail",
-      "url": "https://open.spotify.com/track/3XPjxkrqy9JqmRawof15B9"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -4587,6 +4679,186 @@
       "duration_ms": 252526,
       "name": "Breathing In The Ashes",
       "url": "https://open.spotify.com/track/0Cw9SVAcy1f370toyrPDbc"
+    },
+    {
+      "added_at": "2026-07-20 10:05:37",
+      "album": {
+        "name": "Not Weak Minded",
+        "url": "https://open.spotify.com/album/7ChacWHGqSuj28nmuJWkLG"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Panetta",
+          "url": "https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Not Weak Minded",
+      "url": "https://open.spotify.com/track/3iLpSre2R9KPPg1J98HVyj"
+    },
+    {
+      "added_at": "2026-07-20 10:06:02",
+      "album": {
+        "name": "Crazy Chemistry",
+        "url": "https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc"
+      },
+      "artists": [
+        {
+          "name": "Burton Badman",
+          "url": "https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm"
+        }
+      ],
+      "duration_ms": 286140,
+      "name": "Blind Spots",
+      "url": "https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr"
+    },
+    {
+      "added_at": "2026-07-20 10:07:36",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/3dklPpnrytCMMEiMailZgJ"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "duration_ms": 225340,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/5aGNt4QLLBrg1eLd2932FT"
+    },
+    {
+      "added_at": "2026-07-20 10:08:47",
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2woVblikP4LxCUKxMNLsHS"
+      },
+      "artists": [
+        {
+          "name": "Raseem",
+          "url": "https://open.spotify.com/artist/77ut7Rw6Wt62qO8crS2E1w"
+        }
+      ],
+      "duration_ms": 184679,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/3zaomffGgeZhH5PxS3poTh"
+    },
+    {
+      "added_at": "2026-07-20 10:09:22",
+      "album": {
+        "name": "the rest of your debt",
+        "url": "https://open.spotify.com/album/2e8PKwMjauZsmUimTlA9IC"
+      },
+      "artists": [
+        {
+          "name": "foureyes",
+          "url": "https://open.spotify.com/artist/1N2WG7si2PeqFemMgPXoG9"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "escaping my shadow",
+      "url": "https://open.spotify.com/track/3J6WNUBV3ccxF9lXgFaDhr"
+    },
+    {
+      "added_at": "2026-07-20 10:11:52",
+      "album": {
+        "name": "Bones and Skin",
+        "url": "https://open.spotify.com/album/0UvU4FRbaQZnKKsQFQ76IQ"
+      },
+      "artists": [
+        {
+          "name": "Audiokicks",
+          "url": "https://open.spotify.com/artist/3gWYgs6usgpGNbIp9GFPwN"
+        }
+      ],
+      "duration_ms": 260943,
+      "name": "Bones and Skin",
+      "url": "https://open.spotify.com/track/0KqaKG91Crs1KfsIe3QC4e"
+    },
+    {
+      "added_at": "2026-07-20 10:12:17",
+      "album": {
+        "name": "Shoegazer Club",
+        "url": "https://open.spotify.com/album/4nJbanatReVee6FMwp99pb"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3050\u308cP",
+          "url": "https://open.spotify.com/artist/2b6sJsTdtKou0xkYuY4aRO"
+        }
+      ],
+      "duration_ms": 168879,
+      "name": "Shoegazer Club",
+      "url": "https://open.spotify.com/track/0RPKonnSnIu1zWohZ8V4gg"
+    },
+    {
+      "added_at": "2026-07-20 10:14:24",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo"
+      },
+      "artists": [
+        {
+          "name": "Saturday Night Vacancy",
+          "url": "https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU"
+        }
+      ],
+      "duration_ms": 215378,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2"
+    },
+    {
+      "added_at": "2026-07-20 14:08:45",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/5JD05C7f065Db5oliejiri"
+      },
+      "artists": [
+        {
+          "name": "FRANZ",
+          "url": "https://open.spotify.com/artist/5LoUudormLukQsMGi83Cev"
+        },
+        {
+          "name": "CONTROL BURN",
+          "url": "https://open.spotify.com/artist/2PQa2icYRmNR5CUbva9MgB"
+        }
+      ],
+      "duration_ms": 176113,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3nkNF6lKHHUmJjfDOkRg8O"
+    },
+    {
+      "added_at": "2026-07-20 14:08:33",
+      "album": {
+        "name": "New Stockholm",
+        "url": "https://open.spotify.com/album/1F5qI2bG6aSDDpot5Zb2Xa"
+      },
+      "artists": [
+        {
+          "name": "Mercers.",
+          "url": "https://open.spotify.com/artist/0hUc6FIsCsAGv1muQXWDHZ"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "New Stockholm",
+      "url": "https://open.spotify.com/track/0cs6vA3H1gIP6MQIbpEDq3"
+    },
+    {
+      "added_at": "2026-07-20 14:50:10",
+      "album": {
+        "name": "Stooge",
+        "url": "https://open.spotify.com/album/2AYeGIys9IVsJdak8WwFJ1"
+      },
+      "artists": [
+        {
+          "name": "Red Light Acid Test",
+          "url": "https://open.spotify.com/artist/150suJJQ9RN6MLoJNZ50ww"
+        }
+      ],
+      "duration_ms": 191353,
+      "name": "Stooge",
+      "url": "https://open.spotify.com/track/1IiWQ4D1fHel6LyItcKO0Z"
     }
   ],
   "unique_name": "Spotify Radio",

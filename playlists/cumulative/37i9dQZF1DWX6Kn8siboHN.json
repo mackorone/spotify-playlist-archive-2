@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Dos Coronas a Mi Madre",
+      "url": "https://open.spotify.com/track/48meuvFOHD3jtfdD0iVXZP"
+    },
+    {
+      "album": {
         "name": "4 Decadas de Exitos",
         "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
       },
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 146853,
       "name": "Dos Coronas a Mi Madre",
       "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"

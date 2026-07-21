@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,053 songs - 2 day 16 hr 28 min
+1,054 songs - 2 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 | 2024-11-17 | 2025-01-12 |
 | [Ire Feelings](https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Rupie Edwards Presents Success Archives \- From Kingston Jamaica to London UK](https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI) | 3:48 | 2024-12-02 | 2025-01-12 |
 | [Is It Better](https://open.spotify.com/track/5ZRFV73ehPdGU9gC4dBLGs) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX) | 2:56 | 2025-03-22 | 2025-05-09 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/0zprBQpAaNFdV82NqjyiNx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:54 | 2026-07-20 |  |
 | [It Can Feel So Good](https://open.spotify.com/track/1CVK1udYLWWqoJ0pSdtk3j) | [Zammuto](https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu) | [Veryone](https://open.spotify.com/album/3tjeakbcyy8YGjuJ88S1dX) | 4:04 | 2024-09-07 | 2024-11-14 |
 | [It'll All Be Over](https://open.spotify.com/track/6DtOcQmTziBJ3L7zfLzR5g) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [Good God! Apocryphal Hymns](https://open.spotify.com/album/1u5bwvQM5TFRWHTkWBCeVq) | 3:03 | 2025-06-12 | 2025-07-04 |
 | [It's A Grand Night For Swinging](https://open.spotify.com/track/5yDCIkowVpSagtZ3sxgpX7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Now Please Don't You Cry, Beautiful Edith](https://open.spotify.com/album/6slc6K1xjI49vqZL0dnXMp) | 3:09 | 2025-06-12 | 2025-07-04 |

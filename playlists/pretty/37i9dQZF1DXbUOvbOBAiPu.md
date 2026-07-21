@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Gracie Abrams, Tiësto x Caleb Arredondo, GIMS x Mauvais Djo, disiz and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,418 likes - 117 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,423 likes - 117 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 30 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 31 | [Marchar](https://open.spotify.com/track/0NYBQ5Yzk7eGUgE7ift7cx) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Marchar](https://open.spotify.com/album/2aISNjdK6fJWbrq7XPUj7m) | 2:00 |
 | 32 | [Caribbean Girl](https://open.spotify.com/track/4VskUdh8Hn1STK1OpqEUKo) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Caribbean Girl](https://open.spotify.com/album/4L4n4M1pfCbAjp1p2KLGS2) | 2:38 |
-| 33 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
+| 33 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
 | 34 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 | 35 | [Better Late Than Never](https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Late Than Never](https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ) | 2:44 |
 | 36 | [HOE ZIT ET ?](https://open.spotify.com/track/3twFKodOi4N7BFKWzCdaGC) | [Yung Mutte](https://open.spotify.com/artist/3nlA8oiwhpvkZ2GkozXcaU), [.THOMMY.](https://open.spotify.com/artist/069QkYUUPzf9msPAFVVVwv), [ADJUA Official](https://open.spotify.com/artist/7GFXTYcnBR9iRXZjDLz3RX) | [HOE ZIT ET ?](https://open.spotify.com/album/2eX4vi78ezahpi9p2kecOE) | 3:40 |

@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 881855,
+  "num_followers": 881947,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Tutankhamun",
         "url": "https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 214661,
       "name": "Garden",
       "url": "https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+      },
+      "artists": [
+        {
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+        }
+      ],
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1091,42 +1091,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Found A Light (Beale Street)",
-        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "V.C.R",
-          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
-        }
-      ],
-      "duration_ms": 436130,
-      "name": "Found A Light (Beale Street)",
-      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Canti, Vol. 2",
-        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
-      },
-      "artists": [
-        {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Un cerchio",
-      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Homo Sapiens / Take the Money (Octopus Version)",
         "url": "https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS"
       },
@@ -1147,6 +1111,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Canti, Vol. 2",
+        "url": "https://open.spotify.com/album/0bKmrls3Qe9G6WyrBJeV4Q"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Un cerchio",
+      "url": "https://open.spotify.com/track/79Ug46sAlyAIhMmptxe2zA"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Found A Light (Beale Street)",
+        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        }
+      ],
+      "duration_ms": 436130,
+      "name": "Found A Light (Beale Street)",
+      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 291932,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Calentita",
         "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 200991,
       "name": "Calentita",
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 291932,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Vem pra Casa",
+        "url": "https://open.spotify.com/album/6hcX6bzqzwrX5ijhPAosIo"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "duration_ms": 207234,
+      "name": "Vem pra Casa",
+      "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Koin\u00e8",
         "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 231500,
       "name": "Mario",
       "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Vem pra Casa",
-        "url": "https://open.spotify.com/album/6hcX6bzqzwrX5ijhPAosIo"
-      },
-      "artists": [
-        {
-          "name": "Curi\u00f3 Curi\u00f3",
-          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
-        }
-      ],
-      "duration_ms": 207234,
-      "name": "Vem pra Casa",
-      "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1367,18 +1367,58 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "Buraka Som Sistema",
-          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 169117,
-      "name": "Puro Mambo",
-      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1407,62 +1447,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
-      },
-      "artists": [
-        {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
-        }
-      ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
-      },
-      "artists": [
-        {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
-        }
-      ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Mount Matsu",
         "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 324978,
       "name": "Takahashi Timing",
       "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
+      },
+      "artists": [
+        {
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+        }
+      ],
+      "duration_ms": 169117,
+      "name": "Puro Mambo",
+      "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Perak",
         "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 172777,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ"
-      },
-      "artists": [
-        {
-          "name": "Nico Gomez",
-          "url": "https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF"
-        },
-        {
-          "name": "Nico Gomez And His Afro Percussion Inc.",
-          "url": "https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Lupita",
-      "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ"
+      },
+      "artists": [
+        {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF"
+        },
+        {
+          "name": "Nico Gomez And His Afro Percussion Inc.",
+          "url": "https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Killa's on da Loose",
-        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
-      },
-      "artists": [
-        {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Killa's on da Loose",
-      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Killa's on da Loose",
+        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+      },
+      "artists": [
+        {
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Killa's on da Loose",
+      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Various Bilongo",
         "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 336133,
       "name": "Jungle Music",
       "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2227,26 +2227,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Indio",
-        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
-      },
-      "artists": [
-        {
-          "name": "A Vision of Panorama",
-          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
-        },
-        {
-          "name": "Lapa Dula",
-          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "Indio",
-      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Water of Life",
         "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
@@ -2267,18 +2247,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Of The Earth",
-        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+        "name": "Indio",
+        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+          "name": "A Vision of Panorama",
+          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
+        },
+        {
+          "name": "Lapa Dula",
+          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Step Lightly",
-      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
+      "duration_ms": 284106,
+      "name": "Indio",
+      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2307,18 +2291,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Bassa Bassa",
-        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
       },
       "artists": [
         {
-          "name": "Jembaa Groove",
-          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 301647,
-      "name": "Bassa Bassa",
-      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+      "duration_ms": 264000,
+      "name": "Step Lightly",
+      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2335,6 +2319,22 @@
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+      },
+      "artists": [
+        {
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+        }
+      ],
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
+      },
+      "artists": [
+        {
+          "name": "Magnum",
+          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Flash Solaire",
         "url": "https://open.spotify.com/album/4NpjgUQeUuS53qL3lQ9ayW"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 249000,
       "name": "Flash Solaire",
       "url": "https://open.spotify.com/track/5pxXNfEe0O6z1wcI2vCP9l"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Fully Loaded",
-        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
-      },
-      "artists": [
-        {
-          "name": "Magnum",
-          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2531,18 +2531,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "A Trip To Bolgatanga",
-        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC"
       },
       "artists": [
         {
-          "name": "African Head Charge",
-          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
+          "name": "Willy Delphia",
+          "url": "https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX"
+        },
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
         }
       ],
-      "duration_ms": 223280,
-      "name": "Microdosing",
-      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
+      "duration_ms": 304838,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2567,6 +2571,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "A Trip To Bolgatanga",
+        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
+      },
+      "artists": [
+        {
+          "name": "African Head Charge",
+          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Cinema Sound System",
         "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
       },
@@ -2583,46 +2603,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC"
-      },
-      "artists": [
-        {
-          "name": "Willy Delphia",
-          "url": "https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX"
-        },
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 304838,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Beyond Our Shores",
-        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
-      },
-      "artists": [
-        {
-          "name": "Valvetronic",
-          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
-        },
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 170483,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Mam Yinne Wa",
         "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
@@ -2635,6 +2615,22 @@
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Pop Makossa (Analog Africa No. 23)",
+        "url": "https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa"
+      },
+      "artists": [
+        {
+          "name": "Bill Loko",
+          "url": "https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA"
+        }
+      ],
+      "duration_ms": 383765,
+      "name": "Nen Lambo",
+      "url": "https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO"
     }
   ],
   "unique_name": "Global Groove",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: \ud654\uc0b0\uadc0\ud658 (Return of the Blossoming Blade)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Tomb Raider King (\ub3c4\uad74\uc655)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OST)",
   "tracks": [
     {
       "album": {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 182448,
       "name": "Bubee (Korean Ver.)",
       "url": "https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE"
@@ -1128,6 +1128,24 @@
       "duration_ms": 205984,
       "name": "Endless (Music from the Original Game Soundtrack \"Kalpa Of Universe\")",
       "url": "https://open.spotify.com/track/4r1PMgmwixLqclA0ImxT3J"
+    },
+    {
+      "album": {
+        "name": "Everyday, Everynight (Youth of Revelation X KickFlip) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0VI3RimVwwbdHLqQ6xNZ4x"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Everyday, Everynight",
+      "url": "https://open.spotify.com/track/02dJ49umfCGM6JCh7OX8eY"
     },
     {
       "album": {
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 208000,
       "name": "Melting",
       "url": "https://open.spotify.com/track/4IZWF4yUBT1Tj5b46PfeME"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 213271,
       "name": "Orbit of Fragments",
       "url": "https://open.spotify.com/track/5cWrRo8mPZdkqMke1qPn2J"
@@ -4417,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "Tomb Raider King : END LINE OST",
+        "url": "https://open.spotify.com/album/3wCL8kqGoUdBi4Lutkaizk"
+      },
+      "artists": [
+        {
+          "name": "Hebi",
+          "url": "https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv"
+        },
+        {
+          "name": "Mint Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/6DAMbfXlpRr0GIef01UXNb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Unbound (Feat. Mint Fant\u00f4me)",
+      "url": "https://open.spotify.com/track/575a1HYC5hwGFz5wDw9qBR"
+    },
+    {
+      "album": {
         "name": "VANTA BLACK (Vanta Black X PITTA) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/3VksZH9iZA0YyXszM8mgjg"
       },
@@ -4500,7 +4540,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 175896,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1N008O5NJofwwVlIcjekUR"

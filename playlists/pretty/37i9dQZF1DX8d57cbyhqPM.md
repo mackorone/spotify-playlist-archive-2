@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tonton Genezio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,217 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,269 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 4 | [J&M](https://open.spotify.com/track/53Usy8Rb3WutzbN8d64HJc) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Shannon](https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH) | [J&M](https://open.spotify.com/album/701R7ZACfODEcHE5MHIpu0) | 2:16 |
 | 5 | [Natacha](https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Natacha](https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31) | 2:36 |
 | 6 | [D2MB \(SEXY RUMBA\)](https://open.spotify.com/track/3jFCMn89zSlsFKONa2EbH4) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [HKL](https://open.spotify.com/artist/4eydmBiVTTKpzqSenyI96C), [Hashe](https://open.spotify.com/artist/7GyKG60WW5nCo0sBmD1Jca) | [D2MB \(SEXY RUMBA\)](https://open.spotify.com/album/38vy7hTQiYgy9xKoDIcYc4) | 2:37 |
-| 7 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
+| 7 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [Max & Seny](https://open.spotify.com/artist/57kJqq1O0uLM5h8ZUuK7Jz), [Loko](https://open.spotify.com/artist/5J7giCvV9NJ1rFaDsTjonG) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
 | 8 | [Booster](https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Booster](https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb) | 2:11 |
 | 9 | [Va Dodo](https://open.spotify.com/track/79CVdODIrPD1wElYy8AROe) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Va Dodo](https://open.spotify.com/album/6MeSi13HRniM1kaq0rjkts) | 2:40 |
 | 10 | [Bala Bala \(feat\. la team Wata\)](https://open.spotify.com/track/3xToNsTDopyH7Q4VlizaMZ) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [la team Wata](https://open.spotify.com/artist/277ktpnWiZFkAOlxw2jMTa) | [Bala Bala \(feat\. la team Wata\)](https://open.spotify.com/album/14TSb9KaejQapqNOUGXD8S) | 6:28 |

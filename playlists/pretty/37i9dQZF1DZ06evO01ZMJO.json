@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 26754,
+  "num_followers": 26768,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAABYnfSyAf4GrNm9INolkuO0",
+  "snapshot_id": "alwTgAAAAADR9j1dvtHR8oxbcjJ8ewEj",
   "tracks": [
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocaina (feat. Emy Perez)",
-        "url": "https://open.spotify.com/album/0wgY2mP9qbxTodGmOraclu"
+        "name": "Zing Met Me Mee (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5KaBtnKJkQ388ggiNgDBLA"
       },
       "artists": [
         {
@@ -860,17 +860,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Dutch Movement",
-          "url": "https://open.spotify.com/artist/7zQ4pgdx0xfMAl5I2dQ3bd"
-        },
-        {
-          "name": "Emy Perez",
-          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
         }
       ],
-      "duration_ms": 184823,
-      "name": "Cocaina (feat. Emy Perez)",
-      "url": "https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO"
+      "duration_ms": 236129,
+      "name": "Zing Met Me Mee - Outsiders Remix",
+      "url": "https://open.spotify.com/track/01JUWoazQfT78YAzhh1eqQ"
     },
     {
       "added_at": null,
@@ -899,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zing Met Me Mee (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5KaBtnKJkQ388ggiNgDBLA"
+        "name": "Cocaina (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/0wgY2mP9qbxTodGmOraclu"
       },
       "artists": [
         {
@@ -908,13 +904,17 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/7zQ4pgdx0xfMAl5I2dQ3bd"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Zing Met Me Mee - Outsiders Remix",
-      "url": "https://open.spotify.com/track/01JUWoazQfT78YAzhh1eqQ"
+      "duration_ms": 184823,
+      "name": "Cocaina (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO"
     },
     {
       "added_at": null,

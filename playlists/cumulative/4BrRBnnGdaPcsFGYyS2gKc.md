@@ -4,7 +4,7 @@
 
 > the best &amp; new rock\. all the beloved tracks &amp; artists
 
-227 songs - 14 hr 5 min
+228 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Doing the Bazooka](https://open.spotify.com/track/7kwkELNVRl0kNQFNPTbV02) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [Doing the Bazooka](https://open.spotify.com/album/70wo7JbcbtT6ccLsdB0nUd) | 2:15 | 2025-07-21 |  |
 | [Don't Ever Let Me Come Down](https://open.spotify.com/track/0yKGavqnLwf0MKxXg9nSwl) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Don't Ever Let Me Come Down](https://open.spotify.com/album/1DbhEVsW0uVtkKUjG6RsrF) | 3:29 | 2025-08-12 |  |
 | [Don't Let Me Fall](https://open.spotify.com/track/4sBhQwINUD8UJ24RIdq5P0) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [No Filter](https://open.spotify.com/album/3ywzeGn8GcuBg0dLsgX0yQ) | 3:39 | 2024-08-26 |  |
+| [Don’t Promote It That Way… Do It My Way \(Link in Bio\)](https://open.spotify.com/track/5ueChNTCY3uUtZTH5ytjZK) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Streams, Schemes & Algorithm Dreams](https://open.spotify.com/album/1w59e4nP3VtTBOVuELKtCw) | 2:51 | 2026-07-20 |  |
 | [Dorian's Requiem](https://open.spotify.com/track/6JVyA63f1Y3AKW8wBKZlvC) | [Izzie's Caravan](https://open.spotify.com/artist/1AE7sen51PrciO7LJOIaaa) | [DORIAN'S REQUIEM](https://open.spotify.com/album/4e2qVfp597rXUQFkrf8XSL) | 7:24 | 2025-09-10 |  |
 | [Drain](https://open.spotify.com/track/2VIIxrAegmAXzuM09QconT) | [Ann Helene Hagen](https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj), [Mert Ertunç](https://open.spotify.com/artist/36s62GGImQGrEsvoD8iRCz), [Bahar Kar](https://open.spotify.com/artist/7fomWlc00Ul5VbsrQgVMZb) | [Drain](https://open.spotify.com/album/2Q9WBeqexcPSH3LM6a1kyc) | 3:22 | 2025-07-07 |  |
 | [Dusty](https://open.spotify.com/track/1BRpksNeR8xg8h4sL2h1VI) | [Daniva](https://open.spotify.com/artist/6ing7qKdFmw95ApfTiqJe3), [Amy Denio](https://open.spotify.com/artist/71POq4aXMscUC95a4dXdbo) | [Dusty](https://open.spotify.com/album/39gyEhCSPdnO5PPTVmi67a) | 4:10 | 2025-07-14 |  |

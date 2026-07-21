@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28702,
+  "num_followers": 28705,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADVzJxv9KPR873KlMMNh9E5",
+  "snapshot_id": "alwTgAAAAABGNqm6rotbAMB8TvIvjxhS",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Mississippi River Queen",
-      "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mysterious Rhinestone Cowboy",
         "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 149720,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw"
+      "duration_ms": 152906,
+      "name": "Mississippi River Queen",
+      "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 139733,
       "name": "It's Great to Be Single Again",
       "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
+      "duration_ms": 192773,
+      "name": "Ain't Worth the Powder",
+      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Ain't Worth the Powder",
-      "url": "https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3"
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,

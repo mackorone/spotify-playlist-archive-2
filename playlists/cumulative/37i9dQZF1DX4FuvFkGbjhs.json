@@ -5992,7 +5992,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 147272,
       "name": "Grey Mullet",
       "url": "https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy"
@@ -14580,6 +14580,24 @@
       "duration_ms": 158213,
       "name": "Summer in June",
       "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
+    },
+    {
+      "album": {
+        "name": "Sunshine / P4P",
+        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220044,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
     },
     {
       "album": {

@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS"
       },
@@ -2315,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "LIKE YOU~",
+        "url": "https://open.spotify.com/album/4Y6pfBfbWkIjVd9Aez7sRb"
+      },
+      "artists": [
+        {
+          "name": "ANATHEMA-000",
+          "url": "https://open.spotify.com/artist/0ej6k9H4smUlP6fLlxBg7c"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "LIKE YOU~",
+      "url": "https://open.spotify.com/track/1fq71XiI5t98OsbwvPHX2j"
+    },
+    {
+      "album": {
         "name": "Chase It",
         "url": "https://open.spotify.com/album/7GtZPupXbxCbzZ2VHZzBKL"
       },
@@ -3712,6 +3748,24 @@
       "duration_ms": 264967,
       "name": "We're Taking Back the Night",
       "url": "https://open.spotify.com/track/5DkFdMS4cRWmJTXLli9iXe"
+    },
+    {
+      "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275999,
+      "name": "Welcome to The Internet",
+      "url": "https://open.spotify.com/track/3s44Qv8x974tm0ueLexMWN"
     },
     {
       "album": {

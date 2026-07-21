@@ -1,13 +1,69 @@
 {
   "description": "There's a new way to be wicked. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.",
-  "num_followers": 221240,
+  "num_followers": 221650,
   "original_name": "Descendants Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPybyOT6aHI7V4tmmdrjBIyu0Ux",
+  "snapshot_id": "AAAAAJs944QqWNF3cjFUZUdAKON7+i0w",
   "tracks": [
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Nam",
+          "url": "https://open.spotify.com/artist/63eK47VaHDGGGKMRVPiw3D"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 168557,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/6zU3qF1Kf4b00rAYpQI7iV"
+    },
+    {
+      "added_at": "2026-07-13 13:49:52",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 223198,
+      "name": "Perfect Princess",
+      "url": "https://open.spotify.com/track/0UTtvfVYzNk6d1smTjXrxE"
+    },
     {
       "added_at": "2026-07-13 13:49:52",
       "album": {
@@ -45,19 +101,19 @@
       "url": "https://open.spotify.com/track/3hpn3ttyDCzNpThXTGoYn9"
     },
     {
-      "added_at": "2026-07-13 13:49:52",
+      "added_at": "2026-07-20 20:52:45",
       "album": {
         "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
       },
       "artists": [
         {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+          "name": "Alexandro Byrd",
+          "url": "https://open.spotify.com/artist/4eoqdS0FruNG8JImwHwByr"
         },
         {
-          "name": "Malia Baker",
-          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+          "name": "Kiara Romero",
+          "url": "https://open.spotify.com/artist/5kvQZNGoN9xkUIEAJdV18R"
         },
         {
           "name": "Descendants \u2013 Cast",
@@ -68,9 +124,181 @@
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 223198,
-      "name": "Perfect Princess",
-      "url": "https://open.spotify.com/track/0UTtvfVYzNk6d1smTjXrxE"
+      "duration_ms": 183825,
+      "name": "Did You Hear About Them",
+      "url": "https://open.spotify.com/track/1kqenQRdTN1VJ2jqF8fWpG"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alexandro Byrd",
+          "url": "https://open.spotify.com/artist/4eoqdS0FruNG8JImwHwByr"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "For Once in My Life",
+      "url": "https://open.spotify.com/track/2CANOkgHGULkQ4ldm9xx5D"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 141044,
+      "name": "The Girl I Used to Be",
+      "url": "https://open.spotify.com/track/2azVR5b7lxE73vi1MriNx8"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Brendon Tremblay",
+          "url": "https://open.spotify.com/artist/7w0CQ8VAGK7F9osMJs9II1"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 217046,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/49XrmDzlIKbnRrBxNaEHJA"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 123364,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/7Ha9BCzEtZuGCyLXPmT0yw"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 183366,
+      "name": "Go Live It",
+      "url": "https://open.spotify.com/track/6YyxLxiCkQX7wNTZkQtZ2e"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 164014,
+      "name": "True to Your Heart",
+      "url": "https://open.spotify.com/track/6VYO5BmhVtfKOV88Ss0Yr5"
+    },
+    {
+      "added_at": "2026-07-20 20:52:45",
+      "album": {
+        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "duration_ms": 327572,
+      "name": "Descendants: Wicked Wonderland - Score Suite",
+      "url": "https://open.spotify.com/track/28fY7mblbZdsdenNXoSu6P"
     },
     {
       "added_at": "2026-07-13 13:49:52",
@@ -143,38 +371,6 @@
       "duration_ms": 229813,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
-    },
-    {
-      "added_at": "2026-07-03 12:00:23",
-      "album": {
-        "name": "Mad - Wicked Wonderland (From \"Descendants: Wicked Wonderland\")",
-        "url": "https://open.spotify.com/album/5Z1aeFFvNtbf7P7CbzGCam"
-      },
-      "artists": [
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        },
-        {
-          "name": "Malia Baker",
-          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
-        },
-        {
-          "name": "Liamani",
-          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
-        },
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 93916,
-      "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
-      "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
     },
     {
       "added_at": "2026-06-12 04:02:54",

@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-918 songs - 2 day 4 hr 59 min
+919 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Gratitudes](https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Gratitudes](https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj) | 3:16 | 2024-07-25 | 2024-09-21 |
 | [Greasy off the Racing Line](https://open.spotify.com/track/6Cpdq6s6JahxwEwLYaIyyB) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Greasy off the Racing Line](https://open.spotify.com/album/7gEMU3rkf8kSz86naYCB67) | 4:09 | 2025-09-04 | 2026-02-06 |
 | [Green](https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Green](https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3) | 3:57 | 2025-02-21 | 2025-07-11 |
-| [Grey Mullet](https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Grey Mullet / Scup](https://open.spotify.com/album/0fI1dJtiVGbRA38kN3NHHZ) | 2:27 | 2026-07-09 |  |
+| [Grey Mullet](https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Grey Mullet / Scup](https://open.spotify.com/album/0fI1dJtiVGbRA38kN3NHHZ) | 2:27 | 2026-07-09 | 2026-07-21 |
 | [Gumdrops](https://open.spotify.com/track/3vVTZzl8KnXqvA0Grt7zfW) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Gumdrops](https://open.spotify.com/album/6f6ueUkeogdYZU4ptllhxb) | 4:17 | 2024-10-03 | 2024-11-15 |
 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 | 2024-11-22 | 2025-02-14 |
 | [H.O.O.D \- 2025 Mix](https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [H.O.O.D 2025](https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu) | 2:52 | 2025-03-07 | 2025-05-23 |
@@ -767,6 +767,7 @@
 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-06-12 | 2025-08-22 |
 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 | 2024-08-15 | 2024-09-21 |
 | [Summer in June](https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Yours Always](https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K) | 2:38 | 2025-05-23 | 2025-08-01 |
+| [Sunshine](https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Sunshine / P4P](https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT) | 3:40 | 2026-07-16 |  |
 | [Sunshine](https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Sunshine](https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2) | 2:19 | 2024-08-15 | 2025-02-14 |
 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 | 2025-07-03 | 2025-08-08 |
 | [Survival](https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Survival](https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h) | 3:33 | 2024-11-15 | 2024-11-22 |

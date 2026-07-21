@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷<br/>cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,562 likes - 115 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,558 likes - 115 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

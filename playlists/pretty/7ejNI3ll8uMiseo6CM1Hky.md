@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,534 likes - 181 songs - 10 hr 11 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,534 likes - 184 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,8 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 179 | [The Fine Print](https://open.spotify.com/track/73MWNenV7mQGUdXB8npY4H) | [The Stupendium](https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O) | [The Fine Print \(The Outer Worlds Song\)](https://open.spotify.com/album/1LHVxeoquWZUcPT7T3Of6V) | 4:34 |
 | 180 | [Merman](https://open.spotify.com/track/2H8yBt6msiXnVlMHYrkVb8) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Merman](https://open.spotify.com/album/1gr9CAu7nz0qa0pSNPmTJ8) | 3:58 |
 | 181 | [Knock Knock Who Cares? \(Jax's Song\)](https://open.spotify.com/track/0vmr1VFcm4Oc84QNYV0JOU) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ) | [Knock Knock Who Cares? \(Jax's Song\)](https://open.spotify.com/album/5x95fD5oiF858gOLh1F8gE) | 3:21 |
+| 182 | [LIKE YOU\~](https://open.spotify.com/track/1fq71XiI5t98OsbwvPHX2j) | [ANATHEMA\-000](https://open.spotify.com/artist/0ej6k9H4smUlP6fLlxBg7c) | [LIKE YOU\~](https://open.spotify.com/album/4Y6pfBfbWkIjVd9Aez7sRb) | 3:26 |
+| 183 | [Welcome to The Internet](https://open.spotify.com/track/3s44Qv8x974tm0ueLexMWN) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:35 |
+| 184 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
 
-Snapshot ID: `AAACDYepXQFPaV10NXUXGUbHwqVP1BKw`
+Snapshot ID: `AAACEFX5WMQ3muC3kE5CeFv5MvBOFQXE`

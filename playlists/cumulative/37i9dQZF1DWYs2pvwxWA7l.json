@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Joshua Baraka",
+  "description": "The hottest Afropop records on the planet.  Cover: Nyash",
   "name": "Afropop",
   "tracks": [
     {
@@ -4276,6 +4276,24 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "album": {
+        "name": "Yariasu",
+        "url": "https://open.spotify.com/album/7rAF6bJ2WanJTkZegTMFPN"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193269,
+      "name": "Elegance",
+      "url": "https://open.spotify.com/track/1Th2GMkbRulyCrJCvRZd0c"
     },
     {
       "album": {
@@ -9166,7 +9184,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"

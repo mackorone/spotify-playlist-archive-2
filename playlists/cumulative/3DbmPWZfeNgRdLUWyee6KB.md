@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,314 songs - 3 day 4 hr 23 min
+1,315 songs - 3 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,6 +1105,7 @@
 | [The Fourth View](https://open.spotify.com/track/5bYpc2RGFCYzh57CTCzTDq) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [The Fourth View](https://open.spotify.com/album/52Kv5babtKES14o89yyF1F) | 3:24 | 2023-04-20 | 2025-11-29 |
 | [The Garden](https://open.spotify.com/track/5gzCMaW6LEv0QqS4hLCLFP) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [The Garden](https://open.spotify.com/album/3mwqkzMbdRtz59lnBmzfNm) | 2:41 | 2025-07-28 | 2025-12-21 |
 | [The Gathering Chant](https://open.spotify.com/track/6TATxNoveGvnIxWLoA8GbO) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Hubert Francis](https://open.spotify.com/artist/56G0LkGEL2xPudWV4AUf9e) | [Open Strum](https://open.spotify.com/album/6SHMZncYOpPolAVIaZMD3L) | 1:53 | 2026-01-04 | 2026-02-03 |
+| [The Ghost You Keep](https://open.spotify.com/track/1760jOHkD2BCjsDl6WdO2t) | [Marionette Noir](https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA) | [The Ghost You Keep](https://open.spotify.com/album/0SYyJDhzFiOymUxtwoyYAd) | 5:16 | 2026-07-20 |  |
 | [The Good Ole Days](https://open.spotify.com/track/2qzIUE2T6tDUGyrNmvSQNc) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [The Good Ole Days](https://open.spotify.com/album/47YSw42Eop1hf2w7eK3xK8) | 7:31 | 2026-03-13 | 2026-04-12 |
 | [The Hallway Never Ends \- Acoustic](https://open.spotify.com/track/67gwcKoueecDvbVeDARNzA) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [The Hallway Never Ends \(Acoustic\)](https://open.spotify.com/album/3Pbh0Z1qbD0cp1NDs0HpoO) | 3:32 | 2026-07-05 |  |
 | [The Heart of the Human Race](https://open.spotify.com/track/5Gl5MhNUOIOlJx2cpwOXir) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [The Heart of the Human Race](https://open.spotify.com/album/0bBWYwFEEvQndQbUEVLZkg) | 2:34 | 2025-09-11 | 2025-12-21 |

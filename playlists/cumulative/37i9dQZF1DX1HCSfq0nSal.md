@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Anuel
 
-982 songs - 2 day 6 hr 2 min
+983 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-01-07 | 2022-04-14 |
 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 | 2023-04-03 | 2023-06-24 |
 | [Da Me](https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Da Me](https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv) | 2:25 | 2025-06-09 | 2025-06-24 |
+| [DAALE](https://open.spotify.com/track/1O4S7iSaxFJh6SuUvFrdvJ) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [Please Behave Radio Vol.2](https://open.spotify.com/album/4QpExkNMNpOydvI8Oh73Oq) | 2:44 | 2026-07-20 |  |
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-03-28 | 2025-04-04 |
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-01-24 | 2023-06-08 |
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-18 | 2022-08-06 |
@@ -518,7 +519,7 @@
 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-04-17 | 2023-07-11 |
 | [MAKATUSSIN](https://open.spotify.com/track/0rm4galJHD3P6MXSpfFsCK) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 4:11 | 2025-11-14 | 2025-12-12 |
 | [MAL DE AMORES](https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [MAL DE AMORES](https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO) | 3:30 | 2025-02-28 | 2025-03-18 |
-| [MALETA \(feat\. La Pantera\)](https://open.spotify.com/track/1EOF0vLsu1GmmnOGP1wa0o) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [MALETA \(feat\. La Pantera\)](https://open.spotify.com/album/1WBdhceozY8Jb2zGhjWGI8) | 3:13 | 2026-03-16 |  |
+| [MALETA \(feat\. La Pantera\)](https://open.spotify.com/track/1EOF0vLsu1GmmnOGP1wa0o) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [MALETA \(feat\. La Pantera\)](https://open.spotify.com/album/1WBdhceozY8Jb2zGhjWGI8) | 3:13 | 2026-03-16 | 2026-07-21 |
 | [MALIANTEO](https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MALIANTEO](https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx) | 2:51 | 2024-01-26 | 2024-03-09 |
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2022-05-26 | 2022-06-14 |
 | [Mami](https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Pablo Mas](https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2022-02-14 | 2022-12-24 |

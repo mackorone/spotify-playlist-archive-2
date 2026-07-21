@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,927 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,931 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 48 | [Anou Malane](https://open.spotify.com/track/6tx4QhVEpisR6svzUzetNw) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/7IhHxTiSqgD7JcdMV8mINF) | 5:00 |
 | 49 | [Friday](https://open.spotify.com/track/73tIJHETXreaZaleUrn0Tp) | [Enfant Libya](https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/2ec7StRUkm51joitBXItbK) | 1:01 |
 | 50 | [Men Ben Elarad](https://open.spotify.com/track/3s0GCg5vy7blO5z3M95B9X) | [Ashraf Abu Lel](https://open.spotify.com/artist/7dtjgeonwZycxs0B3xBRNA) | [Dabka from Palestine](https://open.spotify.com/album/1ejYFDdN2DE2Bo23ymwyIM) | 4:30 |
-| 51 | [Yemken](https://open.spotify.com/track/26JuAynBHsCo0GvmT43gGC) | [Bandaly Family](https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57) | [Autumn Leaves](https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT) | 3:37 |
+| 51 | [Yemken](https://open.spotify.com/track/26JuAynBHsCo0GvmT43gGC) | [Bandaly Family](https://open.spotify.com/artist/7h3d4KdEKQT10dEBiSGQxS), [George Yammine](https://open.spotify.com/artist/7IeNarciIHJAo5knqAMSHU), [Dora Bandaly](https://open.spotify.com/artist/6hAbw0Tg4jm4hsf9Lok2Mr), [Edward Bandaly](https://open.spotify.com/artist/0qhxiPgdYi8WvBggsE4D8h) | [Autumn Leaves](https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT) | 3:37 |
 | 52 | [Bektoub Ismak Ya Habibi](https://open.spotify.com/track/0OgrwAadibZsIz2g1OS7Ig) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 4:38 |
 | 53 | [Chet Boghassa](https://open.spotify.com/track/0JHZHHGxjEJCB4hpMLHvFj) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/5FPDGVaIIfWVH79NJoslSe) | 3:52 |
 | 54 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 |

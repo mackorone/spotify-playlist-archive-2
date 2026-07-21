@@ -4575,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Please Behave Radio Vol.2",
+        "url": "https://open.spotify.com/album/4QpExkNMNpOydvI8Oh73Oq"
+      },
+      "artists": [
+        {
+          "name": "mvrk",
+          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "DAALE",
+      "url": "https://open.spotify.com/track/1O4S7iSaxFJh6SuUvFrdvJ"
+    },
+    {
+      "album": {
         "name": "DALLAX",
         "url": "https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM"
       },
@@ -11428,7 +11446,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 193860,
       "name": "MALETA (feat. La Pantera)",
       "url": "https://open.spotify.com/track/1EOF0vLsu1GmmnOGP1wa0o"

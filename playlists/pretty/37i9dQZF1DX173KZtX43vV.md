@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: BackRoad Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,266 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,272 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 29 | [THE DISTANCE INTERLUDE](https://open.spotify.com/track/008pjG0to2o4jFIP15im0m) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [THE DISTANCE INTERLUDE](https://open.spotify.com/album/1kWskePNqs6cW1qiBiNPzK) | 2:46 |
 | 30 | [Passenger Princess](https://open.spotify.com/track/13W7cyv0wB5HhyGlNj9xyO) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg), [Saruna Rayi](https://open.spotify.com/artist/0DjnooL3sKmtynrKuOO4GZ) | [I.G.](https://open.spotify.com/album/2okLrkCqUkPFNSNbPOqvv3) | 2:55 |
 | 31 | [Obsesión](https://open.spotify.com/track/0LddmdmyiZ9GvkXvKVeZlx) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Obsesión](https://open.spotify.com/album/59I9RqeEk5PYFKwtgKeGoT) | 3:12 |
-| 32 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf), [Howj](https://open.spotify.com/artist/0OucfGg8WrZdIDBElyyP7l) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
+| 32 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
 | 33 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 34 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
 | 35 | [Under My Skin](https://open.spotify.com/track/3Yw5fak8ij7m6by2M4Q9KA) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [CAM3OOG](https://open.spotify.com/artist/02sdxpzTCT9cD6tRfbjzBX) | [Under My Skin](https://open.spotify.com/album/4qMxYm2EFaUu9bUaJWlg40) | 2:48 |

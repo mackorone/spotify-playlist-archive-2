@@ -2,7 +2,7 @@
 
 ### [Bossa in the Background](https://open.spotify.com/playlist/37i9dQZF1DWUN87b7HRrCS)
 
-> Soft and cozy sounds of Bossa nova.
+> Soft bossa nova sounds for focusing, reading, or unwinding at home.
 
 122 songs - 7 hr 46 min
 
@@ -93,7 +93,7 @@
 | [Ondas Cintilantes](https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Ondas Cintilantes](https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A) | 2:58 | 2023-05-11 | 2024-08-21 |
 | [Over the Rainbow](https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Over the Rainbow](https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE) | 3:06 | 2023-05-11 | 2025-09-18 |
 | [Praia de Ipanema](https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Praia de Ipanema](https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1) | 4:01 | 2024-03-08 |  |
-| [Prelude In E Minor](https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:16 | 2023-05-11 |  |
+| [Prelude In E Minor](https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:16 | 2023-05-11 | 2026-07-21 |
 | [Presságio](https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Presságio](https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb) | 6:37 | 2023-05-11 |  |
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2023-05-11 |  |
 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 | 2023-05-11 |  |

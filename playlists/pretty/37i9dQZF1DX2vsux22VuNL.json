@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Niina, N.I.N.A",
-  "num_followers": 290219,
+  "num_followers": 290203,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
         "name": "Open Mic",
         "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 222692,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
       "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2026-07-10 13:54:52",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
         "name": "insisto em voc\u00ea",
         "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 135420,
       "name": "insisto em voc\u00ea",
       "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-07-10 13:54:52",
@@ -995,6 +995,26 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
+        "name": "N\u00e3o Vou Voltar",
+        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Luccas Simoneto",
+          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
+        }
+      ],
+      "duration_ms": 239232,
+      "name": "N\u00e3o Vou Voltar",
+      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
-        "name": "N\u00e3o Vou Voltar",
-        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        },
-        {
-          "name": "Luccas Simoneto",
-          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "N\u00e3o Vou Voltar",
-      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
     },
     {
       "added_at": "2026-07-10 13:54:52",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2026-07-10 13:54:52",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
         "name": "tudo que voc\u00ea gostaria de ser, sou eu",
         "url": "https://open.spotify.com/album/56l2vNLiG3dQJlxDiLnIwc"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 185000,
       "name": "garota problema",
       "url": "https://open.spotify.com/track/45Cnuh6Q7nErLgcuhq9XFi"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2026-07-10 13:54:52",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-07-10 13:54:52",
       "album": {
+        "name": "Ela \u00e9 de Escorpi\u00e3o",
+        "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "Ela \u00e9 de Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2026-07-10 13:54:52",
+      "album": {
         "name": "Me Deixe S\u00f3",
         "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 91826,
       "name": "Me Deixe S\u00f3",
       "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
-    },
-    {
-      "added_at": "2026-07-10 13:54:52",
-      "album": {
-        "name": "Ela \u00e9 de Escorpi\u00e3o",
-        "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "Ela \u00e9 de Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
     },
     {
       "added_at": "2026-07-10 13:54:52",

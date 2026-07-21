@@ -1,6 +1,6 @@
 {
   "description": "The latest, greatest cinematic soundtracks from the big and small screen.",
-  "num_followers": 328036,
+  "num_followers": 328069,
   "original_name": "New Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        },
+        {
+          "name": "Cliff Masterson",
+          "url": "https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e"
         }
       ],
       "duration_ms": 374760,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Claressa Shields
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,803 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,791 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 9 | [Ms.IDGAF 2 Remix](https://open.spotify.com/track/4kjkDilu850P9AzIHBLtIq) | [Bri Biase](https://open.spotify.com/artist/5BNET3ZYMt6C9B4COmNRNW), [Ressa Da GWOAT](https://open.spotify.com/artist/61aQJ2LGXgBq5eTrnRCJxl) | [Ms.IDGAF 2 Remix](https://open.spotify.com/album/1HUYQwMqu7yaCQRz1kLXHC) | 2:55 |
 | 10 | [Ms\. Put It On](https://open.spotify.com/track/1Xhy6EI6TjvjbcmN7VkgQi) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:19 |
 | 11 | [Mind Playing Tricks on Me](https://open.spotify.com/track/4j3sD1EcYquM2ltqNH19ec) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/6cuQoJjhBCBUzoFRWhRUQj) | 5:08 |
-| 12 | [Poke the Gwoat](https://open.spotify.com/track/7jLNdCiw1FGcLAnOg5Lvum) | [Ressa Da Gwoat](https://open.spotify.com/artist/3N1SjBvZmU0lRYq27pvvji), [Taty Kamille](https://open.spotify.com/artist/5ANvQsonALP0wc1Cmi8Zl0) | [Poke the Gwoat](https://open.spotify.com/album/6ZZx2v1hgVlYrkdCUEs2kG) | 2:55 |
+| 12 | [Poke the Gwoat](https://open.spotify.com/track/7jLNdCiw1FGcLAnOg5Lvum) | [Claressa Shields](https://open.spotify.com/artist/0aqhGZHchYA1lgUYP64vLr), [Taty Kamille](https://open.spotify.com/artist/5ANvQsonALP0wc1Cmi8Zl0) | [Poke the Gwoat](https://open.spotify.com/album/6ZZx2v1hgVlYrkdCUEs2kG) | 2:55 |
 | 13 | [Ms\. Jackson](https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [Ms\. Jackson](https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U) | 2:03 |
 | 14 | [Gimme Dat](https://open.spotify.com/track/3o8j2ArxgKqL7ldLunBFWS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 4:01 |
 | 15 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |

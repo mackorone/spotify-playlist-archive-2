@@ -4,7 +4,7 @@
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-85 songs - 7 hr 33 min
+86 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ek Ghadi](https://open.spotify.com/track/4ogeckkWMWFGpp3mHirbQY) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [D\-Day](https://open.spotify.com/album/4AVqCoyAu8AZpZfgp1wvLO) | 6:43 | 2023-07-13 |  |
 | [Ek Hi Khwab Kai Baar Dekha](https://open.spotify.com/track/53J9evD1FHdKM8iIkB4Iys) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Hema Malini](https://open.spotify.com/artist/5rvp1UmTy604l2ptSAkLPF) | [Kinara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2m3vQN0N6nn5wib7zBIwx3) | 7:59 | 2023-07-13 | 2024-04-19 |
 | [Ek Hi Khwab Kai Baar Dekha](https://open.spotify.com/track/0drutrkvFWY4x46jEAgmkZ) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Hema Malini](https://open.spotify.com/artist/5rvp1UmTy604l2ptSAkLPF), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Kinara](https://open.spotify.com/album/74UgrYHlwOHr40kVv7CS7R) | 7:59 | 2023-11-27 |  |
+| [Gulon Mein Rang Bhare](https://open.spotify.com/track/57TekJn37PJuZyHoVP1bgM) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Haider \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JjCJkHvXRX8s2PgwVMXuL) | 5:15 | 2026-07-20 |  |
 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 | 2023-07-13 |  |
 | [Hothon Se Chhu Lo Tum \- From "Prem Geet"](https://open.spotify.com/track/4EWCkL6rAYxOUvXLtcWfKI) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Prem Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aLedlf7u6dlkt66OyoE3y) | 4:54 | 2023-07-13 |  |
 | [Huzur Is Kadar](https://open.spotify.com/track/23SMPpHKx2WoVSX7sSOwk9) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Masoom](https://open.spotify.com/album/5Im41mOYI5crAdGK3Rzcn6) | 3:52 | 2023-11-27 |  |
@@ -51,7 +52,7 @@
 | [Jhonka Hawa Ka](https://open.spotify.com/track/6P5BMpPDpSVP7kxJCsbcXP) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Hum Dil De Chuke Sanam](https://open.spotify.com/album/1QUfdAyckA0M14z0kpOBts) | 5:47 | 2023-07-13 |  |
 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:02 | 2023-07-13 | 2024-04-19 |
 | [Jhuki Jhuki Si Nazar \- Jagjit](https://open.spotify.com/track/5erFfsJT4Vbtg01ZjqRmAl) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth](https://open.spotify.com/album/6utrHMHbAEnpbeV6ZdP3cj) | 5:02 | 2023-11-27 |  |
-| [Justuju Jiski Thi](https://open.spotify.com/track/00mDhjz0ku4nXeGLo0st7k) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan](https://open.spotify.com/album/287E82IXHXGCN742yboFbb) | 4:47 | 2023-11-27 |  |
+| [Justuju Jiski Thi](https://open.spotify.com/track/00mDhjz0ku4nXeGLo0st7k) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan](https://open.spotify.com/album/287E82IXHXGCN742yboFbb) | 4:47 | 2023-11-27 | 2026-07-21 |
 | [Justuju Jiski Thi](https://open.spotify.com/track/50qwU5TJtjAYPaN4ZC1iIz) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 4:47 | 2023-07-13 | 2024-04-19 |
 | [Karoge Yaad To](https://open.spotify.com/track/0yknV7Bnv5SYVvrjmfphFO) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Bazaar](https://open.spotify.com/album/1S0AbwkAswdVC4oEWGsh8e) | 5:29 | 2023-11-27 |  |
 | [Karoge Yaad To](https://open.spotify.com/track/5dQonoTjaGy7ufhS9EflA9) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:29 | 2023-07-13 | 2024-04-19 |

@@ -16287,6 +16287,24 @@
     },
     {
       "album": {
+        "name": "Sparkwheel",
+        "url": "https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269906,
+      "name": "Guard Dog",
+      "url": "https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa"
+    },
+    {
+      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -35314,7 +35332,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 132500,
       "name": "SICK",
       "url": "https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO"

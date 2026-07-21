@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Gracie Abrams, beabadoobee, Steve Lacy, Nia Archives and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,762 likes - 102 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,705 likes - 102 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [PRESS ON ME \(feat\. Miss Bashful\)](https://open.spotify.com/track/0nfUSkKozC4zohiPwkbDok) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [HARDBODY](https://open.spotify.com/album/3gN53UUAk7AalZAlEq29yS) | 2:45 |
 | 96 | [THE DISTANCE INTERLUDE](https://open.spotify.com/track/008pjG0to2o4jFIP15im0m) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [THE DISTANCE INTERLUDE](https://open.spotify.com/album/1kWskePNqs6cW1qiBiNPzK) | 2:46 |
 | 97 | [Glamour Magick](https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Glamour Magick](https://open.spotify.com/album/7sClkddld26FI0xg2IFoND) | 4:30 |
-| 98 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf), [Howj](https://open.spotify.com/artist/0OucfGg8WrZdIDBElyyP7l) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
+| 98 | [Dripkid](https://open.spotify.com/track/1QmRkbvG3b4DNhzKiET5EV) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc), [Faldwight](https://open.spotify.com/artist/3lBMMN3ccThy7W3nFQuokf) | [Dripkid](https://open.spotify.com/album/7mXlw7bMEiG6j4NR1mJ2a4) | 2:49 |
 | 99 | [Under My Skin](https://open.spotify.com/track/3Yw5fak8ij7m6by2M4Q9KA) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [CAM3OOG](https://open.spotify.com/artist/02sdxpzTCT9cD6tRfbjzBX) | [Under My Skin](https://open.spotify.com/album/4qMxYm2EFaUu9bUaJWlg40) | 2:48 |
 | 100 | [FINISH WHAT YOU STARTED](https://open.spotify.com/track/4FKoTl9ZUUwAyU7UjJ0dXW) | [Shay O'Dowd](https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu) | [FINISH WHAT YOU STARTED](https://open.spotify.com/album/1kUtIPE41EhQMtFbXnFQFK) | 3:07 |
 | 101 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |

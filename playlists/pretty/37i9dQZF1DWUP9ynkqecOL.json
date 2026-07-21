@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 26464,
+  "num_followers": 26467,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
-      "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Las Flores Elegantes",
         "url": "https://open.spotify.com/album/4DJJKY23XpfLPgCsqWuviz"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 230802,
       "name": "Las Flores Elegantes",
       "url": "https://open.spotify.com/track/58Bo57oyqbICuwjSe0e5sr"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
+      "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Huestes",
         "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223760,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
     },
     {
       "added_at": "2026-02-13 13:38:17",

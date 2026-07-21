@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 910909,
+  "num_followers": 910864,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "Gold & Eis",
+        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Gold & Eis",
+      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "BOMBA",
         "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 165799,
       "name": "BOMBA",
       "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "Gold & Eis",
-        "url": "https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Gold & Eis",
-      "url": "https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "SOMMER 218",
         "url": "https://open.spotify.com/album/2JXK6ElDFAsWBm9g9yZZC5"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 181624,
       "name": "ZEITPUNKT",
       "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "BLN",
-        "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
-      },
-      "artists": [
-        {
-          "name": "AK AUSSERKONTROLLE",
-          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
-        },
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 167153,
-      "name": "BLN",
-      "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -999,8 +999,8 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Vollmond",
-        "url": "https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY"
+        "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
+        "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
       "artists": [
         {
@@ -1008,13 +1008,17 @@
           "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
         },
         {
-          "name": "JUGGLERZ",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
         }
       ],
-      "duration_ms": 147472,
-      "name": "Vollmond",
-      "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
+      "duration_ms": 123675,
+      "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
+      "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1095,8 +1099,8 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
-        "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
+        "name": "Vollmond",
+        "url": "https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY"
       },
       "artists": [
         {
@@ -1104,17 +1108,13 @@
           "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
         },
         {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
-        },
-        {
-          "name": "CrashDummy",
-          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+          "name": "JUGGLERZ",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 123675,
-      "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
-      "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+      "duration_ms": 147472,
+      "name": "Vollmond",
+      "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "Day N Nite",
+        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 143578,
+      "name": "Day N Nite",
+      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Madd Ting",
         "url": "https://open.spotify.com/album/5aFNds41L7xe2SJO9XkM5I"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 144905,
       "name": "Madd Ting",
       "url": "https://open.spotify.com/track/5Iku7QUJV5KXyT5fVHAxcd"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "Day N Nite",
-        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 143578,
-      "name": "Day N Nite",
-      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "HEARTBROKE EYES",
-        "url": "https://open.spotify.com/album/6YnNHta9DutIqDRiaixSlc"
-      },
-      "artists": [
-        {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
-        }
-      ],
-      "duration_ms": 144994,
-      "name": "HEARTBROKE EYES",
-      "url": "https://open.spotify.com/track/1hZc3X0BG1U4sKONViTxbr"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "Heavyweight",
         "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "HEARTBROKE EYES",
+        "url": "https://open.spotify.com/album/6YnNHta9DutIqDRiaixSlc"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "duration_ms": 144994,
+      "name": "HEARTBROKE EYES",
+      "url": "https://open.spotify.com/track/1hZc3X0BG1U4sKONViTxbr"
     },
     {
       "added_at": "2026-07-09 22:01:03",

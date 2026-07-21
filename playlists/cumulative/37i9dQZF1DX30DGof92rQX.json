@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Faisal Kapadia",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Rabi Ahmed",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -798,6 +798,32 @@
       "duration_ms": 267650,
       "name": "asra",
       "url": "https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V"
+    },
+    {
+      "album": {
+        "name": "aur kis ko",
+        "url": "https://open.spotify.com/album/3haUVkKH7L40hkpNcmC7Gl"
+      },
+      "artists": [
+        {
+          "name": "Maliha J. Khan",
+          "url": "https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl"
+        },
+        {
+          "name": "Ansar.",
+          "url": "https://open.spotify.com/artist/4PBJ9JbSHMMA78dtwhXtLa"
+        },
+        {
+          "name": "Shameer",
+          "url": "https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171763,
+      "name": "aur kis ko",
+      "url": "https://open.spotify.com/track/2VTKyhHrf0oGAGjv93O8SN"
     },
     {
       "album": {
@@ -2006,7 +2032,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 215625,
       "name": "Cheerah",
       "url": "https://open.spotify.com/track/2sCneqEKSCDuezHJCEFcFR"
@@ -2194,6 +2220,28 @@
       "duration_ms": 637802,
       "name": "Darmaan (feat. Lina Belaid & Veeru Shan)",
       "url": "https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM"
+    },
+    {
+      "album": {
+        "name": "Darshan",
+        "url": "https://open.spotify.com/album/3hR0ROoBM5DEHT7WlOTngl"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Javed",
+          "url": "https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE"
+        },
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "Darshan",
+      "url": "https://open.spotify.com/track/15lNfDJPz4pIgKGfl6fKU5"
     },
     {
       "album": {
@@ -7717,6 +7765,28 @@
     },
     {
       "album": {
+        "name": "Oath",
+        "url": "https://open.spotify.com/album/06N75i2sUFc2nhFbwgg8V2"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Muji Shah",
+          "url": "https://open.spotify.com/artist/6Hg8gT9i0KKBS1t8YPh8zA"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Oath",
+      "url": "https://open.spotify.com/track/7tp7HYJa7jotQWk4lkW13R"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3SlBKAsqU0tOBjH1salewg"
       },
@@ -8565,6 +8635,28 @@
     },
     {
       "album": {
+        "name": "RAAT",
+        "url": "https://open.spotify.com/album/1kRTN7ix8ka4FisDMV0gG5"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "RAAT",
+      "url": "https://open.spotify.com/track/5w8vFzLx9u7SwxuykHcWW8"
+    },
+    {
+      "album": {
         "name": "Raatan",
         "url": "https://open.spotify.com/album/2FQem8AKwqOYAvgdLFXcxD"
       },
@@ -8840,7 +8932,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 126593,
       "name": "Restless",
       "url": "https://open.spotify.com/track/65ARiqajzzTBPc2QPR1QtA"
@@ -9286,7 +9378,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 217931,
       "name": "Sadaain",
       "url": "https://open.spotify.com/track/39AmHjHqNiaoQZBi1YHMxP"
@@ -10180,7 +10272,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 155076,
       "name": "Taaray",
       "url": "https://open.spotify.com/track/1K8NevkJX6T80kVO6gJZ2o"

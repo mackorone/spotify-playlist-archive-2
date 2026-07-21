@@ -73369,6 +73369,24 @@
     },
     {
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "lean back",
+      "url": "https://open.spotify.com/track/5wicTCItEe8xd9KhZqYfZJ"
+    },
+    {
+      "album": {
         "name": "SCARING THE HOES",
         "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
       },

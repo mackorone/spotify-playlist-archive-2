@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 465 likes - 527 songs - 1 day 2 hr 40 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 466 likes - 548 songs - 1 day 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -535,5 +535,26 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 525 | [Main Royaan](https://open.spotify.com/track/069uuAX0uZs0caRa8oVUwT) | [Prince Bajpai](https://open.spotify.com/artist/7AQra0C5O3jVIUKbMqsuWN) | [Pieces Of Me](https://open.spotify.com/album/6nKz5xA1VdA5hD7vowC9lz) | 2:57 |
 | 526 | [Dark Thoughts](https://open.spotify.com/track/2AjBlNWJ2XIqVVTDXfDaVi) | [CN Cyanide](https://open.spotify.com/artist/2XPYw2Yhzb2jC09kXJe6R4), [MISFIT FUEL](https://open.spotify.com/artist/3Eac1ayEzygt70it6WMIPU) | [Dark Thoughts](https://open.spotify.com/album/3bQ31doMWYc6k53acLyPqf) | 2:32 |
 | 527 | [Much pride](https://open.spotify.com/track/22iOjeXh4Bel7GfujcjqfJ) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw), [Lia Taylor](https://open.spotify.com/artist/4VwuZGRL91TOFZDs5x7qcZ) | [Much pride](https://open.spotify.com/album/5OzW5qXaHNxSjKQjk45pMy) | 3:41 |
+| 528 | [Get loose](https://open.spotify.com/track/1AN8TSSC3dPq08MixMXeXN) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw) | [Get loose](https://open.spotify.com/album/4npCeHL6WtjmOLum0eaIVz) | 3:25 |
+| 529 | [Spell It Out](https://open.spotify.com/track/6EWjnfjnf7Etmjiatyg3rg) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Spell It Out](https://open.spotify.com/album/5vlpIAVH6GIRAwC4pJzhEM) | 3:40 |
+| 530 | [Bad Guy](https://open.spotify.com/track/0imvH23leTUYy2bbSwPUPz) | [Dirty Noiz](https://open.spotify.com/artist/6MaxF1kLYOMgoBMuTjfBUu) | [Bad Guy](https://open.spotify.com/album/3jS2TuYSNGrKbV7FdhGPUj) | 3:03 |
+| 531 | [MERCY](https://open.spotify.com/track/7n3SMyG0dZbDQjhMxmJAJ6) | [SunDex](https://open.spotify.com/artist/6MyWvcpoXnkcs0CerPg1E7) | [MERCY](https://open.spotify.com/album/69Ctjd1trnRIWGVhfY0z9P) | 2:12 |
+| 532 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 |
+| 533 | [The Mother Queen](https://open.spotify.com/track/7DBHGfn4d81ewfxrR6bnI1) | [C Sid](https://open.spotify.com/artist/1Eus7ZGhBokA7SGOfamkO4) | [The Mother Queen](https://open.spotify.com/album/7vecgHo5Q44U89qealMXgJ) | 2:51 |
+| 534 | [My Shelter, My Soul](https://open.spotify.com/track/1CTQf70wWOi5qMAqx46N8S) | [Nearian](https://open.spotify.com/artist/0cohEPrqhpsBydTErLbQET) | [My Shelter, My Soul](https://open.spotify.com/album/0OvwJTXNovhP4ZPSZPXGQU) | 3:09 |
+| 535 | [jus that guy](https://open.spotify.com/track/6aGrsLFVK1IFwU7VT0n7aX) | [7yiarr](https://open.spotify.com/artist/5XLAOuaq6lyqPieBr6PNhR) | [love it or leave it](https://open.spotify.com/album/4IHHwjI9KdhE7adVAHWdg7) | 1:32 |
+| 536 | [Ramen + Netflix?](https://open.spotify.com/track/5apimUnacNYvjNLWhYOUdV) | [DAZiPOP](https://open.spotify.com/artist/2YH4rdoY7r0W5BirnTyk9w) | [Ramen + Netflix?](https://open.spotify.com/album/2YRSwoVuxbGWJrA2IHKBjY) | 2:14 |
+| 537 | [Heart of Glass](https://open.spotify.com/track/4rmWnaSGnloXIcxvZpbdzv) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [Heart of Glass](https://open.spotify.com/album/3ypF6SXx7wnzodQdfviHqQ) | 3:37 |
+| 538 | [Rapuh](https://open.spotify.com/track/0257WfyJ9vxVPm7b0dh6xA) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Rapuh](https://open.spotify.com/album/0pE86dWCLq32BjMjpGscSG) | 3:46 |
+| 539 | [Brooklyn](https://open.spotify.com/track/33ildHpWscjGjyyvlGaoz3) | [Nwayo](https://open.spotify.com/artist/4stTSydnRBYfIIT87BKuvV), [Amarouka](https://open.spotify.com/artist/6lEUIMlGdAE7PHdg1tPxgt), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii), [Mwana Pyro](https://open.spotify.com/artist/3qyUiasqvoWM5DMuF8y3uK) | [Space](https://open.spotify.com/album/1fSwrlTYvwleVdZDU62lt0) | 2:37 |
+| 540 | [When You Are Loving Me](https://open.spotify.com/track/5fMyLX954RJ5e8LA91cXYp) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [When You Are Loving Me](https://open.spotify.com/album/6x4UOYI2RB9GOoyYEWBzug) | 3:06 |
+| 541 | [Spell It Out](https://open.spotify.com/track/6EWjnfjnf7Etmjiatyg3rg) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Spell It Out](https://open.spotify.com/album/5vlpIAVH6GIRAwC4pJzhEM) | 3:40 |
+| 542 | [Hustle Mood](https://open.spotify.com/track/6VluHnIhqJVfI3AaYEKbx0) | [Chi Official](https://open.spotify.com/artist/0W2H1inrVCfZv8jt7az3gf), [Vidic](https://open.spotify.com/artist/0Nr1t4Ftzzt6fXTuXspYJZ) | [Hustle Mood](https://open.spotify.com/album/3fZJIeUlGBa8bFP8keD69H) | 2:25 |
+| 543 | [BAD BITCHE$](https://open.spotify.com/track/7FUTwwWzY1BMxhc619VCtx) | [TONii RED](https://open.spotify.com/artist/5G3TYNNXw3Dg6J7ueMSFzt) | [BAD BITCHE$](https://open.spotify.com/album/51SnK2NFsmvLd20xBmw8jx) | 2:35 |
+| 544 | [Bem Vindo, Mundo Novo](https://open.spotify.com/track/5YDdhRgXNXUEWgz5CLADIo) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 1:53 |
+| 545 | [in the stu](https://open.spotify.com/track/6I3tX5SwU5TXG35r2fF1jz) | [the blue dragon](https://open.spotify.com/artist/25ye0Dsrb4JetJfGbApG5O), [Sparxx](https://open.spotify.com/artist/0FAFO5sFSuCe1XbV7De8Bh) | [in the stu](https://open.spotify.com/album/0Cnmp6H9Vyl5o1vT9IHCBH) | 2:29 |
+| 546 | [Traumatized](https://open.spotify.com/track/6mXXrKN85AXWQOZCGLHBLM) | [Tubez](https://open.spotify.com/artist/6M3ZsMuBPybfM8fEWba11w) | [Traumatized](https://open.spotify.com/album/2oYJqf56dQY1MSrjb7CDai) | 2:11 |
+| 547 | [MISOPHONIA](https://open.spotify.com/track/6865dWWOnSVZJeDe7LQeSY) | [Dr\. Brainwave](https://open.spotify.com/artist/3yd80pAcP8UQ6PAnDWWgES), [BLEAKHULL](https://open.spotify.com/artist/57yfFbuxpA1NqaAPMmxH8H) | [MISOPHONIA](https://open.spotify.com/album/7FUXAe1UkgiZ47UgRYtZPm) | 1:34 |
+| 548 | [All or Nothing](https://open.spotify.com/track/093r959kXoSrKGexi6I27k) | [KCK](https://open.spotify.com/artist/7tM7AnpwLXdMts81GwXG54), [Sonny Nox](https://open.spotify.com/artist/1BV9Kl4wnoqwYZpGzp37V5) | [All or Nothing](https://open.spotify.com/album/4FDRMbRgoKQ9oxtwNP66PB) | 2:49 |
 
-Snapshot ID: `AAAcuLMuFzuOFB2nM6E/MNpm0LZnG7SU`
+Snapshot ID: `AAAczSEp7XxqoxFb1NTdaaIFoYIEuDCe`

@@ -2,7 +2,7 @@
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> 🎧 Study Flow Pop 🧠\. Maximize your focus &amp; boost cognitive function for studying, exams, &amp; deep work\. Chill Pop beats specifically for ADHD to reduce distractions &amp; calm your mind\. Feat\. Halsey, Lauv, Alec Benjamin &amp; curated new pop\. Updated weekly\. Listen now for optimized study sessions!
+> 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
 
 405 songs - 22 hr 14 min
 

@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
 
-443 songs - 1 day 0 hr 48 min
+444 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-01-10 | 2023-03-11 |
 | [Keh Do Na](https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Keh Do Na](https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0) | 2:48 | 2023-08-22 | 2024-06-01 |
 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 | 2021-12-06 | 2022-02-16 |
-| [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-04 |  |
+| [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-04 | 2026-07-21 |
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-09 | 2024-11-14 |
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-10 | 2025-08-16 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
@@ -392,6 +392,7 @@
 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 | 2021-12-06 | 2022-08-09 |
 | [sweet nothings](https://open.spotify.com/track/7babGnGqzxPLHKplZC7VEB) | [Aaditya Rakheja](https://open.spotify.com/artist/75fpoyZLrlkMVxbYeWRc74) | [sweet nothings](https://open.spotify.com/album/4eC9S0c2tZ6HgeYuxyD3KL) | 4:19 | 2021-12-06 | 2022-01-11 |
 | [Taare](https://open.spotify.com/track/4jflaxgK10KuHI9hzxsT1C) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [DJ Strings](https://open.spotify.com/artist/5dK1U4fQotxj5QCVyC7wJD) | [Taare](https://open.spotify.com/album/7n3mLvH0HLnuykbdAaR3ib) | 3:28 | 2022-03-21 | 2023-02-16 |
+| [Taare](https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK) | [Farak](https://open.spotify.com/artist/1gbYkP3zeoGen1itU6pO9a), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh), [Saswat Balan](https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz) | [Deewar Ke Uss Paar](https://open.spotify.com/album/5pf8fOWonD7NQ3ChzyHNkc) | 2:34 | 2026-07-20 |  |
 | [Taare](https://open.spotify.com/track/5tlYQMx8GyEnkrZBO77YZW) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Taare](https://open.spotify.com/album/7jd1UU6S0dAKbssg4ShOkc) | 2:34 | 2021-12-06 | 2022-01-18 |
 | [Tabeer](https://open.spotify.com/track/2kzWtBlO7DiTuyEfD6MoYO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [SEXY BHAIJI](https://open.spotify.com/album/54dzNdVRCXNSQhVCbJjkTw) | 3:24 | 2023-11-29 | 2024-01-11 |
 | [Tabeer](https://open.spotify.com/track/3BOWG0zibD5qZ1tcBwS65J) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Tabeer](https://open.spotify.com/album/4Eifi8cHvf7QNRrs9kld20) | 3:24 | 2023-01-11 | 2023-11-07 |

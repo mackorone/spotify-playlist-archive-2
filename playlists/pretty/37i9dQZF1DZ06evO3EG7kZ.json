@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52116,
+  "num_followers": 52125,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADXWsW115TO/ano0FBVdXrP",
+  "snapshot_id": "alwTgAAAAABbIS23KeRx2SuQfupEyvoj",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
     }
   ],
   "unique_name": "This Is Bluey",

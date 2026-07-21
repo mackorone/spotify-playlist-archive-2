@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Who Coppin",
+        "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155460,
+      "name": "Better Decisions",
+      "url": "https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ"
+    },
+    {
+      "album": {
         "name": "Big Ben",
         "url": "https://open.spotify.com/album/57MnyRtU8REZYObFu4jVYf"
       },
@@ -5693,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "I Can't Tell",
+        "url": "https://open.spotify.com/album/200txfwE7GBNmYyvTfn34W"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184860,
+      "name": "I Can't Tell",
+      "url": "https://open.spotify.com/track/0XzVzy15rJ0CbXXhNN3i5k"
+    },
+    {
+      "album": {
         "name": "I Don't Even Rap",
         "url": "https://open.spotify.com/album/78UGspujGdTZj9tC3MN7Xr"
       },
@@ -6358,6 +6398,36 @@
       "duration_ms": 147002,
       "name": "KING OF THE HILL",
       "url": "https://open.spotify.com/track/6gW6gESSUQ2h6Mnrn2iSmZ"
+    },
+    {
+      "album": {
+        "name": "Better Than McDonald's",
+        "url": "https://open.spotify.com/album/1mbthqQnQ0ete2rDOT08e3"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277080,
+      "name": "King Taco",
+      "url": "https://open.spotify.com/track/33MBOehhkHZH2VSLcj76oh"
     },
     {
       "album": {

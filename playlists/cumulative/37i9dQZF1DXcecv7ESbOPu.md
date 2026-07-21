@@ -2,7 +2,7 @@
 
 ### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
 
-> Äntligen fredag och ny musik från Gracie Abrams,  Nuqi och Bella Kay med flera\. Happy New Music Friday!
+> Äntligen fredag och ny musik från Gracie Abrams,  DJ Carpenter och Bella Kay med flera\. Happy New Music Friday!
 
 25,057 songs - 54 day 2 hr 21 min
 

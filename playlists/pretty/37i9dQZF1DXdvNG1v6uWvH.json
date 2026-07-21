@@ -1,12 +1,12 @@
 {
-  "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Yung Nigo Drippin', Gracie Abrams og m\u00f6rgum fleiri!",
-  "num_followers": 9682,
+  "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Yung Nigo Drippin', Gracie Abrams og m\u00f6rgum fleirum!",
+  "num_followers": 9681,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJa1YGQlnrF1vG7WNye9LjZwHV4q",
+  "snapshot_id": "AAAAAHGlFYq8jE/bkU02vJkZG1SoC1a0",
   "tracks": [
     {
       "added_at": "2026-07-17 00:00:32",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "Too Fast To Live, Too Young To Die",
         "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 201340,
       "name": "Too Fast To Live, Too Young To Die",
       "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
+        "name": "Rave The World EP",
+        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 233192,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
         "name": "U KNOW",
         "url": "https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Rave The World EP",
-        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 233192,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "Emotional Junglist",
         "url": "https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W"
       },
@@ -447,6 +447,26 @@
       "duration_ms": 156054,
       "name": "There Goes Ma Head",
       "url": "https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 178112,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -471,22 +491,18 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Allein",
-        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU"
+        "name": "Club To Your Arms / Just Be Bodies",
+        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "duration_ms": 178112,
-      "name": "Allein",
-      "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
+      "duration_ms": 207173,
+      "name": "Just Be Bodies",
+      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Club To Your Arms / Just Be Bodies",
-        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 207173,
-      "name": "Just Be Bodies",
-      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "satellite",
         "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "In My Victoria's Secret",
-        "url": "https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 160287,
-      "name": "In My Victoria's Secret",
-      "url": "https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/1VxLahe2SDFmEDs2E4PmRu"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 139672,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/0i8hl2pIkeyND49hw1cVuo"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "In My Victoria's Secret",
+        "url": "https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 160287,
+      "name": "In My Victoria's Secret",
+      "url": "https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "The Next Day",
-        "url": "https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ"
-      },
-      "artists": [
-        {
-          "name": "GB",
-          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
-        }
-      ],
-      "duration_ms": 249016,
-      "name": "The Next Day",
-      "url": "https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/6GTsGyBPdo5UQHGd4YADFK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 126206,
       "name": "Dig",
       "url": "https://open.spotify.com/track/6GtHiksYtjSmNfad56R7W3"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "The Next Day",
+        "url": "https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "duration_ms": 249016,
+      "name": "The Next Day",
+      "url": "https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/5EIrd3al1ojWDLC1SRPYIK"
-      },
-      "artists": [
-        {
-          "name": "Hedda Mae",
-          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/6Jwfxh9OqMsqD6SEMwEmj1"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "Relief",
         "url": "https://open.spotify.com/album/3x7DruPONfvi5lVuQ68TG7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 152253,
       "name": "Relief",
       "url": "https://open.spotify.com/track/3F1GqUJ5lVJGl3j1CKSEqc"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5EIrd3al1ojWDLC1SRPYIK"
+      },
+      "artists": [
+        {
+          "name": "Hedda Mae",
+          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/6Jwfxh9OqMsqD6SEMwEmj1"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Forever as Her Friend",
-        "url": "https://open.spotify.com/album/3zCtDFUPgJYLUAqE2ASziL"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Forever as Her Friend",
-      "url": "https://open.spotify.com/track/3fKXP7MREctCw36vrb2EPF"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1nD50huRQ5zEjhdN1aPfil"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 145909,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7djGlV2RUjYFs6a3ZsJqMs"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "Forever as Her Friend",
+        "url": "https://open.spotify.com/album/3zCtDFUPgJYLUAqE2ASziL"
+      },
+      "artists": [
+        {
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Forever as Her Friend",
+      "url": "https://open.spotify.com/track/3fKXP7MREctCw36vrb2EPF"
     },
     {
       "added_at": "2026-07-17 00:00:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-07-17 00:00:32",
       "album": {
-        "name": "Alar\u00f3",
-        "url": "https://open.spotify.com/album/4E3zbCXIPJ3TX3X71NH3tE"
-      },
-      "artists": [
-        {
-          "name": "Mon Rayon",
-          "url": "https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv"
-        }
-      ],
-      "duration_ms": 218523,
-      "name": "Alar\u00f3",
-      "url": "https://open.spotify.com/track/7wKvF2X3Xu8fR3hvef6Gz7"
-    },
-    {
-      "added_at": "2026-07-17 00:00:32",
-      "album": {
         "name": "SAD HAPPY BIRTHDAY",
         "url": "https://open.spotify.com/album/20lp4fiy7CNy9xmKxPI1xq"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 153898,
       "name": "SAD HAPPY BIRTHDAY",
       "url": "https://open.spotify.com/track/21PPFDegzMYGBBc6bIvls6"
+    },
+    {
+      "added_at": "2026-07-17 00:00:32",
+      "album": {
+        "name": "Alar\u00f3",
+        "url": "https://open.spotify.com/album/4E3zbCXIPJ3TX3X71NH3tE"
+      },
+      "artists": [
+        {
+          "name": "Mon Rayon",
+          "url": "https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv"
+        }
+      ],
+      "duration_ms": 218523,
+      "name": "Alar\u00f3",
+      "url": "https://open.spotify.com/track/7wKvF2X3Xu8fR3hvef6Gz7"
     },
     {
       "added_at": "2026-07-17 00:00:32",

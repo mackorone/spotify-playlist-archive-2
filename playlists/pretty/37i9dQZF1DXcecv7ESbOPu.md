@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 ### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
 
-> Äntligen fredag och ny musik från Gracie Abrams,  Nuqi och Bella Kay med flera\. Happy New Music Friday!
+> Äntligen fredag och ny musik från Gracie Abrams,  DJ Carpenter och Bella Kay med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,012 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,991 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Barthelona](https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Barthelona](https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM) | 2:40 |
 | 73 | [AHA](https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Darlyy Ferreira](https://open.spotify.com/artist/1m5HViL4UTCtzathSTUSZ3) | [AHA](https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni) | 3:12 |
 
-Snapshot ID: `AAAAABclbZfXAnxN1yUxyH2kd6CDuLOA`
+Snapshot ID: `AAAAANTbVDExekAGlSL6kwGOrbqEKRSB`

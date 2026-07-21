@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239466,
+  "num_followers": 239473,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADPuzI+y+3RFgmbcqVOiJjz",
+  "snapshot_id": "alwTgAAAAADfJu29tXzvQ65avL7xI2rd",
   "tracks": [
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "El Movimiento Alterado",
-          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Carteles Unidos",
-      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Movimiento Alterado, Vol. 4",
         "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 152032,
       "name": "Recordando a Michoacan",
       "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     },
     {
       "added_at": null,

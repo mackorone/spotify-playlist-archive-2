@@ -1,6 +1,6 @@
 {
   "description": "New music from Gracie Abrams, Ti\u00ebsto x Caleb Arredondo, GIMS x Mauvais Djo, disiz and more...",
-  "num_followers": 52418,
+  "num_followers": 52423,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -602,6 +602,10 @@
         {
           "name": "Jok'air",
           "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
         }
       ],
       "duration_ms": 170704,

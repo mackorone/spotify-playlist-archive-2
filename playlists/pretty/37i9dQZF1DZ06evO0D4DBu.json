@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211105,
+  "num_followers": 211101,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAADnNrbQntpZCd1ZQPmmJYIg",
+  "snapshot_id": "alwTgAAAAACJ7m4IPMmGgmvROeoP1Pxx",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 216312,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 234614,
       "name": "Bad Idea (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 216312,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
     },
     {
       "added_at": null,

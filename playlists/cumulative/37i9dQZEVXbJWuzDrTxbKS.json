@@ -7532,7 +7532,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 244213,
       "name": "Debesis iekrita tev\u012b",
       "url": "https://open.spotify.com/track/0lNWDFt02EXYm86vH9BBRE"
@@ -11388,7 +11388,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -14698,7 +14698,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -16480,7 +16480,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -21766,7 +21766,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -22732,7 +22732,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 124896,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/10aWlzB6sD6iF58yKPMgVB"
@@ -23958,7 +23958,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -25184,7 +25184,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 181920,
       "name": "Ka\u0137\u0113ns, kur\u0161 atteic\u0101s no j\u016brasskolas",
       "url": "https://open.spotify.com/track/6Fs2nN1jo4PXhGXfbsgTDp"
@@ -36082,7 +36082,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 245195,
       "name": "Ogles",
       "url": "https://open.spotify.com/track/0xZbTUeLOIXjAHFuyZNQr2"
@@ -37790,6 +37790,28 @@
       "duration_ms": 228827,
       "name": "Pap\u012bra Lidma\u0161\u012bnas",
       "url": "https://open.spotify.com/track/4dkkfvKI61ONOTONUtmTOV"
+    },
+    {
+      "album": {
+        "name": "No Sirds",
+        "url": "https://open.spotify.com/album/20yuIfX7ThB1J8rWclGNJM"
+      },
+      "artists": [
+        {
+          "name": "R\u012bmdari",
+          "url": "https://open.spotify.com/artist/0vL2CySZ1k2f1m1TkdIReM"
+        },
+        {
+          "name": "Misters Kr\u016bmi\u0146\u0161",
+          "url": "https://open.spotify.com/artist/4DXalNEzHcaLCnHqG7ShUL"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Par Atmi\u0146\u0101m",
+      "url": "https://open.spotify.com/track/5KeVphreV2qkvRZupdMFXD"
     },
     {
       "album": {
@@ -40544,7 +40566,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -41802,7 +41824,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -48812,7 +48834,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -49714,7 +49736,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 279800,
       "name": "Tavas m\u0101jas man\u0101 azot\u0113",
       "url": "https://open.spotify.com/track/2teFwjk5wEY2L3p5n4eIOp"
@@ -51086,7 +51108,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

@@ -35347,6 +35347,24 @@
     },
     {
       "album": {
+        "name": "From Here Right Now",
+        "url": "https://open.spotify.com/album/3Xji0Ufad6xwjE3pOVWI1H"
+      },
+      "artists": [
+        {
+          "name": "Modjo Atmodjo",
+          "url": "https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195442,
+      "name": "Sleep Tonight",
+      "url": "https://open.spotify.com/track/0i0GVjhihCqNME4YXtd0bc"
+    },
+    {
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/0N1E9ekYWFOiE6HV747vF0"
       },
@@ -42528,6 +42546,10 @@
         {
           "name": "CER",
           "url": "https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg"
+        },
+        {
+          "name": "Jos\u00e9 Sechi",
+          "url": "https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi"
         }
       ],
       "date_added": "2026-06-10",

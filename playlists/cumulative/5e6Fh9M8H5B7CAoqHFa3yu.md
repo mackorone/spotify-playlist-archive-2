@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,405 songs - 5 day 21 hr 48 min
+2,406 songs - 5 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1865,6 +1865,7 @@
 | [Sky Heroes](https://open.spotify.com/track/3EU62CdBsLV5zjpkXAtMYO) | [Zoibaf](https://open.spotify.com/artist/17HpTsxjyQFN9KjcTBfVYo) | [Forever Young](https://open.spotify.com/album/2kO0m7riESA2R4TJahXJ5j) | 3:27 | 2024-06-21 |  |
 | [sleep now darling](https://open.spotify.com/track/0W0wg2X9u1BPPgBcZhdLwG) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:49 | 2025-10-28 |  |
 | [sleep now little one](https://open.spotify.com/track/2BrQcbEuhUuq6OKtko6jdq) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:33 | 2025-10-28 |  |
+| [Sleep Tonight](https://open.spotify.com/track/0i0GVjhihCqNME4YXtd0bc) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [From Here Right Now](https://open.spotify.com/album/3Xji0Ufad6xwjE3pOVWI1H) | 3:15 | 2026-07-20 |  |
 | [Sleepless](https://open.spotify.com/track/73rXOHpBcGCPbY6hKETvBD) | [Woendzi](https://open.spotify.com/artist/0w9WB3GylPavLzSl78Wl4r) | [Sleepless](https://open.spotify.com/album/0N1E9ekYWFOiE6HV747vF0) | 5:00 | 2025-07-13 |  |
 | [Slipping Away](https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Slipping Away](https://open.spotify.com/album/4RysAhFglAR4ZeZQGsCkPD) | 3:04 | 2025-12-14 |  |
 | [Slow Motion](https://open.spotify.com/track/3sMEKIvwYzIwx2jYjR8arx) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:01 | 2025-07-02 |  |
@@ -2246,7 +2247,7 @@
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
 | [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
-| [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
+| [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |

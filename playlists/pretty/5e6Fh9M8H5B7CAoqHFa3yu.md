@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 345 likes - 2,484 songs - 6 day 2 hr 19 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 345 likes - 2,485 songs - 6 day 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2387,7 +2387,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2377 | [¿Y dónde estabas tú?](https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C) | [Noelia Malta](https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C) | [¿Y dónde estabas tú?](https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6) | 3:04 |
 | 2378 | [Cosas Vintage](https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx) | [Mi Propia Montaña](https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777) | [Vivac](https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr) | 3:18 |
 | 2379 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
-| 2380 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 |
+| 2380 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 |
 | 2381 | [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 |
 | 2382 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
 | 2383 | [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 |
@@ -2492,5 +2492,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2482 | [Dans Mee](https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Kinderliedjes](https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2) | 2:24 |
 | 2483 | [Have you seen my Lady](https://open.spotify.com/track/5XuwWlQbjFSInOrPvxyUNi) | [Ryhan Music](https://open.spotify.com/artist/3bdlsepaCRkmp8DA109WFW) | [Have you seen my Lady](https://open.spotify.com/album/0Z5B2BSxGA4ByQi4cpfEdX) | 3:23 |
 | 2484 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
+| 2485 | [Sleep Tonight](https://open.spotify.com/track/0i0GVjhihCqNME4YXtd0bc) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [From Here Right Now](https://open.spotify.com/album/3Xji0Ufad6xwjE3pOVWI1H) | 3:15 |
 
-Snapshot ID: `AAAKhKkaLmGJT5jwlctn3Z1K7/spYA6e`
+Snapshot ID: `AAAKhRoR+ckrdWrKHybiwDRbArBoaJ3h`

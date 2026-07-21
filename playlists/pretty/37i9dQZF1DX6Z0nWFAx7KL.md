@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,259 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,256 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 34 | [Locked In Paradise](https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U) | [KNJA](https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6) | [Locked In Paradise](https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd) | 2:33 |
 | 35 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
 | 36 | [Wait No More](https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Wait No More](https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg) | 2:22 |
-| 37 | [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 |
-| 38 | [Love You So](https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Love You So](https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a) | 2:04 |
+| 37 | [Love You So](https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Love You So](https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a) | 2:04 |
+| 38 | [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 |
 | 39 | [Who I Am](https://open.spotify.com/track/68xhZFDatrsgFByOoYY7GO) | [Alber\-K](https://open.spotify.com/artist/2BtgaIaWWqtnaK4AIGphVH), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Who I Am](https://open.spotify.com/album/5YWV2NWTHemfJwn25QEteH) | 2:49 |
 | 40 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 |
 | 41 | [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 |

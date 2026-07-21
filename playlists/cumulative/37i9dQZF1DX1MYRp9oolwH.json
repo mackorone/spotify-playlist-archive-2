@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Vintara Saradaga - VISA",
+  "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 200074,
       "name": "Gulab-Jam (From \"Anumana Pakshi\")",
       "url": "https://open.spotify.com/track/6WSCOou2clUxTD6eiIPNAy"
@@ -3868,6 +3868,32 @@
       "duration_ms": 242322,
       "name": "Kalaavathi (From \"Sarkaru Vaari Paata\")",
       "url": "https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV"
+    },
+    {
+      "album": {
+        "name": "Hrudayam Murali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18wQS6AagP6OJ0esABmPbo"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Tushar Sambhara",
+          "url": "https://open.spotify.com/artist/04KHg5JZeqjMTqhTxx8Hn1"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277439,
+      "name": "Kalalenno",
+      "url": "https://open.spotify.com/track/75mui7H7T4ZN9sQohvjTCN"
     },
     {
       "album": {
@@ -7893,6 +7919,32 @@
     },
     {
       "album": {
+        "name": "Oopirantha Ivvale (From \"Tatvam\")",
+        "url": "https://open.spotify.com/album/00sW52huF89e8CHmnDsBWR"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Chaitan Bharadwaj",
+          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184300,
+      "name": "Oopirantha Ivvale (From \"Tatvam\")",
+      "url": "https://open.spotify.com/track/6TKQRi6CM5LarVKwhfwpKa"
+    },
+    {
+      "album": {
         "name": "Oopirey (From \"Takkar\")",
         "url": "https://open.spotify.com/album/68ZaLku8BmWoqMWIfWv2XT"
       },
@@ -8867,6 +8919,32 @@
     },
     {
       "album": {
+        "name": "Raave Cheliya (From \"Srinivasa Mangapuram\")",
+        "url": "https://open.spotify.com/album/79M8JJn7FXvSxs3gNkUFV2"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Nag Arjun Reddy",
+          "url": "https://open.spotify.com/artist/3RnQZHdYqInbStS0nXDGyb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266117,
+      "name": "Raave Cheliya (From \"Srinivasa Mangapuram\")",
+      "url": "https://open.spotify.com/track/1oukf3EYgEF4e7vN00eUdU"
+    },
+    {
+      "album": {
         "name": "Ramani Kalyanam (Title Track) (From \"Ramani Kalyanam\")",
         "url": "https://open.spotify.com/album/06FDiBZWU473HJHu5u7ZI0"
       },
@@ -9106,7 +9184,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 172159,
       "name": "Sakhiye (From \"Youth - Telugu\")",
       "url": "https://open.spotify.com/track/79KjSxxsdsVyyXVcjFZt5E"
@@ -10216,7 +10294,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 224361,
       "name": "Uyyale Uyyale (From \"Suyodhana\")",
       "url": "https://open.spotify.com/track/6yNqQ6io8O6SbDZdaJEW9y"

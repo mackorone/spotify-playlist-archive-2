@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-586 songs - 1 day 12 hr 18 min
+591 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
 | [America](https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [America](https://open.spotify.com/album/5EIxl0YXV9E9OOJxMGeP7j) | 4:05 | 2026-05-04 | 2026-05-26 |
+| [American Viking](https://open.spotify.com/track/5F779kjudzpaiweg4vyW24) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:14 | 2026-07-20 |  |
 | [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 | 2026-03-15 | 2026-04-20 |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 | 2026-05-17 |
 | [Another Broken Life](https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI) | [Jasper Lane](https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw) | [Becoming The Angel](https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC) | 4:18 | 2025-12-23 | 2026-01-21 |
@@ -75,6 +76,7 @@
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-04-20 |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-11-22 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
+| [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 | 2026-07-20 |  |
 | [Black River](https://open.spotify.com/track/1hLyYuATe5bQT3ewKkx8U7) | [The Striders](https://open.spotify.com/artist/4uKcXXOfxVESSegXxJA6YA) | [Black River](https://open.spotify.com/album/4g5xvsC4cPWFqzBgJqu1ZF) | 5:06 | 2026-01-29 | 2026-02-23 |
 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-01 | 2025-12-28 |
 | [Bleed For Me](https://open.spotify.com/track/2jDWGSL0HFnqpCJPgL0ySt) | [Fortium](https://open.spotify.com/artist/3QMdvX2IxPYLNQJ83aQVxG) | [Volume 35](https://open.spotify.com/album/0saPmuG7za9RzHACDlwaJR) | 4:26 | 2026-02-20 | 2026-03-22 |
@@ -332,6 +334,7 @@
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-10 | 2026-03-04 |
 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 | 2026-06-02 |  |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
+| [No Regrets](https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:02 | 2026-07-20 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-12 |
 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 | 2025-12-11 | 2026-01-05 |
 | [No Thanks](https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [No Thanks](https://open.spotify.com/album/0652xN2MATBffKJ2tapEky) | 4:35 | 2026-04-16 | 2026-06-13 |
@@ -369,6 +372,7 @@
 | [Pocket Friend](https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX) | [The Wild Life](https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD) | [Pocket Friend](https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP) | 3:21 | 2026-06-11 |  |
 | [Pool Song \(Swimming in the 70's\)](https://open.spotify.com/track/44o7PXa6JAO9W8oTUHd4EP) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Gazing\- Guitar Remix/Pool Song](https://open.spotify.com/album/5OdH9EuKxuDm5YPug0jFRy) | 1:35 | 2026-05-28 |  |
 | [Pop Punk Was Dead](https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8) | [Bad Halloween](https://open.spotify.com/artist/2twrObmRnmEG5sF2njB0tr) | [Pop Punk Was Dead](https://open.spotify.com/album/1RsRlGI6VRobAOMVhdZEV3) | 3:32 | 2025-09-17 | 2026-04-20 |
+| [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 | 2026-07-20 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-12-20 | 2026-01-21 |
 | [Pretty Fishes](https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 3:30 | 2026-01-03 | 2026-01-21 |
 | [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 | 2026-03-20 | 2026-04-20 |
@@ -436,6 +440,7 @@
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
 | [Skuggorna på vägen hem](https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG) | [KRAKEL](https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH) | [Skuggorna på vägen hem](https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z) | 4:02 | 2026-02-20 | 2026-03-22 |
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |
+| [Slow Tide](https://open.spotify.com/track/0kKQmicsDuiV5GFp4zec4j) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Slow Tide](https://open.spotify.com/album/5K5o9OAQz2MbPkqVoMibmf) | 3:43 | 2026-07-20 |  |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-21 | 2025-12-12 |
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
 | [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 | 2026-05-22 |  |

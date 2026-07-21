@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Mert Demir
 
-660 songs - 1 day 9 hr 28 min
+661 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Nahide](https://open.spotify.com/track/4AC6Eg0zc2kZ72ZXVdU96J) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Nahide](https://open.spotify.com/album/2dA17mW4Y7Nb9VNz0RII6p) | 3:34 | 2026-05-14 | 2026-06-26 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
 | [Nanik](https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:31 | 2025-07-10 | 2025-10-22 |
+| [Nankördük](https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:44 | 2026-07-16 |  |
 | [NAZAR](https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [NAZAR](https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF) | 2:50 | 2026-06-18 |  |
 | [Nazar](https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Nazar](https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS) | 2:35 | 2025-07-03 | 2025-08-27 |
 | [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 | 2025-02-26 |
@@ -521,7 +522,7 @@
 | [Sokak Kızı \- 30\. Yıl Dönümü](https://open.spotify.com/track/4ITDqs1I58xCoPTGKZIUfL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Ben Sokak Kızıyım \(30\. Yıl Dönümü\)](https://open.spotify.com/album/16zD9p9OAxibLapvbeb3om) | 4:08 | 2026-05-22 | 2026-06-19 |
 | [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 | 2025-07-17 | 2025-10-09 |
 | [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 | 2024-12-04 |
-| [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-24 |  |
+| [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-24 | 2026-07-21 |
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Su Damlası](https://open.spotify.com/track/6YSEiztywxclxoED49BbAk) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS) | [Su Damlası](https://open.spotify.com/album/6VixhcxzF63abYTou0mxCW) | 4:02 | 2026-05-14 | 2026-06-26 |

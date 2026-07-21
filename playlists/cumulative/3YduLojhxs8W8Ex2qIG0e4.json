@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Streams, Schemes & Algorithm Dreams",
+        "url": "https://open.spotify.com/album/1w59e4nP3VtTBOVuELKtCw"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145081,
+      "name": "Daily Playlists Said \u201cFree Submissions\u201d\u2026 So I Paid Anyway",
+      "url": "https://open.spotify.com/track/7AaGdbre3gedjEYxk3WuGP"
+    },
+    {
+      "album": {
         "name": "Destello",
         "url": "https://open.spotify.com/album/6z1qOHM9bI1HuYtDKRxTBz"
       },

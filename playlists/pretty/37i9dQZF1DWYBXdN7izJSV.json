@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116622,
+  "num_followers": 116637,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Too Far To Care",
-        "url": "https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "24 Hours A Day",
         "url": "https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 212000,
       "name": "Indianapolis",
       "url": "https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Too Far To Care",
+        "url": "https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Satellite Rides",
-        "url": "https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "The Lights from the Chemical Plant",
         "url": "https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167360,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Satellite Rides",
+        "url": "https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE"
     },
     {
       "added_at": "2026-06-19 04:01:42",

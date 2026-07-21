@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Barnim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,284 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,282 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,22 +48,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 38 | [Back To Your Hands](https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [Back To Your Hands](https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi) | 2:51 |
 | 39 | [Brak tchu](https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Album Niebieski](https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0) | 3:31 |
 | 40 | [KŁAM](https://open.spotify.com/track/4WK2n2mPPOlqYFNMpgdifZ) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KŁAM](https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT) | 4:06 |
-| 41 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
-| 42 | [Aparat](https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Między słowami](https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr) | 3:22 |
+| 41 | [Aparat](https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Między słowami](https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr) | 3:22 |
+| 42 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
 | 43 | [Ziemia](https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Ziemia](https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc) | 4:35 |
 | 44 | [bez słów](https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq) | [Manya](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [bez słów](https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB) | 1:57 |
 | 45 | [OdFiltruj Rzeczywistość \- we współpracy z PZU](https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [OdFiltruj Rzeczywistość \(we współpracy z PZU\)](https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE) | 2:53 |
-| 46 | [NIGHT OUT](https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Ironic?](https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df) | 2:32 |
-| 47 | [PRZY TOBIE](https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [PRZY TOBIE](https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB) | 3:08 |
+| 46 | [PRZY TOBIE](https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [PRZY TOBIE](https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB) | 3:08 |
+| 47 | [NIGHT OUT](https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Ironic?](https://open.spotify.com/album/6H1ou0W0EZl6JO6CyjU8Df) | 2:32 |
 | 48 | [Tęsknię Za Tobą](https://open.spotify.com/track/03dKatXVO2MlZsHTd9AX56) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Tęsknię Za Tobą](https://open.spotify.com/album/1YSR5yZCeBfoVgyvbHh0rr) | 2:05 |
 | 49 | [Bądź ze mną](https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Bądź ze mną // Mia Wallace](https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm) | 2:19 |
-| 50 | [Do Ciebie](https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Do Ciebie](https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG) | 3:42 |
+| 50 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
 | 51 | [Bez porównań](https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Bez porównań](https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p) | 2:51 |
-| 52 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
+| 52 | [Do Ciebie](https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Do Ciebie](https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG) | 3:42 |
 | 53 | [\#bliska](https://open.spotify.com/track/6mNCznYwsBp7N3FCGC83MQ) | [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [\#bliska](https://open.spotify.com/album/7FhLyvap1aB6h8uE1vJI76) | 3:59 |
 | 54 | [ludzik](https://open.spotify.com/track/1QEJVqRz6oYgTvGRa582jV) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [ludzik](https://open.spotify.com/album/3uu8fLQ38W8DXLWrF98LxU) | 3:11 |
-| 55 | [miss me, babe?](https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [Hera Lind](https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we) | [miss me, babe?](https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK) | 3:03 |
-| 56 | [Lawenda](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 3:16 |
+| 55 | [Lawenda](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 3:16 |
+| 56 | [miss me, babe?](https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [Hera Lind](https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we) | [miss me, babe?](https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK) | 3:03 |
 | 57 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 |
 | 58 | [GlowUp](https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Glitch](https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa) | 2:36 |
 | 59 | [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 61 | [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 |
 | 62 | [DETOX](https://open.spotify.com/track/0OyEJARV585PyDx8nh8ALy) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [KLUB MIŁOŚNIKÓW ZAPOMINANIA](https://open.spotify.com/album/2xETkatCnHi0bN5yfu3eRM) | 2:00 |
 | 63 | [Perły za Kredensem](https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Perły za Kredensem](https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N) | 3:44 |
-| 64 | [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 |
-| 65 | [wzrok, w którym plącze się miłość](https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wzrok, w którym plącze się miłość](https://open.spotify.com/album/5a0sMyHqLSbHVEV6WnbL9c) | 2:17 |
+| 64 | [wzrok, w którym plącze się miłość](https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wzrok, w którym plącze się miłość](https://open.spotify.com/album/5a0sMyHqLSbHVEV6WnbL9c) | 2:17 |
+| 65 | [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 |
 
 Snapshot ID: `AAAAAO9U//ZVzcnMT3of86XL6Qad/AeN`

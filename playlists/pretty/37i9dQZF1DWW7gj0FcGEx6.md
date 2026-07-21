@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,036 likes - 247 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,069 likes - 247 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Suite New Day \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/244VLFP9M6VzplUHnwgmv5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Suite New Day \(from "Spider\-Man: Brand New Day" Soundtrack\)](https://open.spotify.com/album/0IMLLO3lfSP6lom9RjVXOi) | 6:14 |
+| 1 | [Suite New Day \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/244VLFP9M6VzplUHnwgmv5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Cliff Masterson](https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e) | [Suite New Day \(from "Spider\-Man: Brand New Day" Soundtrack\)](https://open.spotify.com/album/0IMLLO3lfSP6lom9RjVXOi) | 6:14 |
 | 2 | [Nothing Free About This Land](https://open.spotify.com/track/2IMbYTlext3SWBUdTZuAdB) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4) | [Little House on the Prairie, Season 1 \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/6ZMmNzFVcC3Pyr8JX6dL8l) | 1:50 |
 | 3 | [Avatar: The Last Airbender Main Title \- Book 3: Fire](https://open.spotify.com/track/6STbats1ffxTqhCz6jThWu) | [Jeremy Zuckerman](https://open.spotify.com/artist/1fbkVAnlEb34awQtWEDa6W) | [Avatar: The Last Airbender \- Book 3: Fire \(Music from the Animated Series\)](https://open.spotify.com/album/1SdGLvyyT9029anEYdexa3) | 0:55 |
 | 4 | [Love Is A Choice](https://open.spotify.com/track/7u2BxpcCCejMilgdjzphy5) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper Forever \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6oiCMYPBikUzcOJkFMwk9m) | 1:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,034 likes - 79 songs - 4 hr 35 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,040 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 77 | [Lagrimas sobre mi tumba](https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Lagrimas sobre mi tumba](https://open.spotify.com/album/30xueizYmcjpbJmsK4ZhXx) | 3:34 |
 | 78 | [Breathe](https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 |
 | 79 | [One Way Out](https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [One Way Out](https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW) | 3:07 |
+| 80 | [Uncharted Ways](https://open.spotify.com/track/1AanP3btYufcT9X6E94FJI) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Uncharted Ways](https://open.spotify.com/album/65Q0Nq9fReW9gT4Syrt2jN) | 6:13 |
 
-Snapshot ID: `AAAEJ8LjqDq5nPxuOD5YoGsKcuIMlAsg`
+Snapshot ID: `AAAEKKkm8lcwVJkzolQdnNHSSuqsVs/2`

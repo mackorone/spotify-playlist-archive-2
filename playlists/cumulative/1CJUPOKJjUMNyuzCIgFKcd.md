@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-616 songs - 1 day 3 hr 50 min
+619 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Before It's Too Late](https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Before It's Too Late](https://open.spotify.com/album/5kdwRsVhgbmWsxDBx74U4o) | 4:00 | 2025-04-14 | 2025-07-22 |
 | [Benji's](https://open.spotify.com/track/75wFpidA5j8fKIWvgcJoSr) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Benji's](https://open.spotify.com/album/2iDXDC9rzPDHlCdcpS1jOJ) | 2:06 | 2026-06-08 |  |
 | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/track/55Ro0MUVIKVND18vKg7EF8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Better \(feat\. Stunna Girl\)](https://open.spotify.com/album/2MPcIDppCYsMxt01XLuYM3) | 2:00 | 2026-01-26 | 2026-02-24 |
+| [Better Decisions](https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 2:35 | 2026-07-20 |  |
 | [Big Ben](https://open.spotify.com/track/6gOxuZ0GL3iCl0ocIWJMdt) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Big Ben](https://open.spotify.com/album/57MnyRtU8REZYObFu4jVYf) | 2:28 | 2025-08-04 | 2025-10-28 |
 | [Big Dumb](https://open.spotify.com/track/5FKBPPm9ygxRuzlQhZeVdp) | [Steel Beans](https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh) | [Big Dumb](https://open.spotify.com/album/02uXRICTVNujYsusm0LQIT) | 2:28 | 2025-07-21 | 2025-09-25 |
 | [Big Head](https://open.spotify.com/track/6dfU4SRB7pO8HhHeSt76ZD) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Big Head](https://open.spotify.com/album/68AvDy1psgvJhdmVai0kEM) | 2:10 | 2024-01-12 | 2024-05-21 |
@@ -284,6 +285,7 @@
 | [I Been](https://open.spotify.com/track/0ffuxZ5gZpGKwohI6WZZh0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/2YKOoI2gL39YU776HwKFH3) | 2:40 | 2025-01-31 | 2025-05-31 |
 | [I Can Feel It](https://open.spotify.com/track/00pZOtsTFTfnmxbDFEyIoY) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [I Can Feel It](https://open.spotify.com/album/1CHqGz7jJP19SuQgEo7Ejn) | 2:31 | 2025-02-24 | 2025-05-31 |
 | [I Can't Relate](https://open.spotify.com/track/3AKrCHauPcQbaXBn39qO06) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [I Can't Relate](https://open.spotify.com/album/1qfoNMzrhJTBHblCbyaRex) | 3:22 | 2026-04-22 |  |
+| [I Can't Tell](https://open.spotify.com/track/0XzVzy15rJ0CbXXhNN3i5k) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [I Can't Tell](https://open.spotify.com/album/200txfwE7GBNmYyvTfn34W) | 3:04 | 2026-07-20 |  |
 | [I Don't Even Rap](https://open.spotify.com/track/1RqYzaOJovvtu39c3IY65f) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X) | [I Don't Even Rap](https://open.spotify.com/album/78UGspujGdTZj9tC3MN7Xr) | 1:37 | 2024-02-20 | 2024-05-21 |
 | [I Eat Lobster](https://open.spotify.com/track/3vlR8f4kkaRALyuRD4wSrD) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [1937 South Corning St](https://open.spotify.com/album/5JXWHpOaDPXX1RTqS2wtmt) | 2:54 | 2024-11-18 | 2025-04-01 |
 | [I Know](https://open.spotify.com/track/7pWtaVnfDEr3Nh2rMKdXOL) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [I Know](https://open.spotify.com/album/0lzHQCI1kbWSda3LzuTnXd) | 2:21 | 2023-10-06 | 2024-01-20 |
@@ -318,6 +320,7 @@
 | [Kicc Doe](https://open.spotify.com/track/6zeMyd9it6wSuFMJX3J0ec) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Kicc Doe](https://open.spotify.com/album/49yl5Gde87KgfK7fDmaBpf) | 1:50 | 2024-10-10 | 2025-02-25 |
 | [Kick It](https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Kick It](https://open.spotify.com/album/3HNlwo4TkoFrqWFHOiDgix) | 2:20 | 2024-02-24 | 2024-05-21 |
 | [KING OF THE HILL](https://open.spotify.com/track/6gW6gESSUQ2h6Mnrn2iSmZ) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [KING OF THE HILL](https://open.spotify.com/album/6d3VcWk3Xh1dg6NbSzNhKX) | 2:27 | 2024-09-23 | 2025-02-25 |
+| [King Taco](https://open.spotify.com/track/33MBOehhkHZH2VSLcj76oh) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Better Than McDonald's](https://open.spotify.com/album/1mbthqQnQ0ete2rDOT08e3) | 4:37 | 2026-07-20 |  |
 | [Kitty](https://open.spotify.com/track/1e96mqByjHTIS9zicXN5Qs) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Kitty](https://open.spotify.com/album/5DIu0phdXDVbi23SA3z9ea) | 1:56 | 2024-09-23 | 2025-02-25 |
 | [Koba Flow](https://open.spotify.com/track/3TduMeW5c6Cf212Bzta8cl) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [KOBA'S COMING](https://open.spotify.com/album/23oemgY6PL7VBFVMiokltd) | 4:54 | 2024-07-22 | 2024-11-19 |
 | [Kushe \(feat\. Hokage Simon\)](https://open.spotify.com/track/1Wob9F034PWbvaLuvZAqsZ) | [DJ KenZo](https://open.spotify.com/artist/6gsuIJnIcsuDnU6Xu1YKAL), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju), [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [Kushe \(feat\. Hokage Simon\)](https://open.spotify.com/album/1ogk8Cwo8Z6aQCIdy5B8Fj) | 3:41 | 2025-05-30 | 2025-08-26 |

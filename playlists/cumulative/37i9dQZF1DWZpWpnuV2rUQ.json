@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 140307,
       "name": "666",
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6uBoGOW8t43Roy6jw7xUrR"
+      },
+      "artists": [
+        {
+          "name": "Ventti",
+          "url": "https://open.spotify.com/artist/0WKhyHiN0GgDivDJX2pX1G"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143785,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1yiDtzAHqonTDwlwPVbbMN"
+    },
+    {
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -800,6 +818,50 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "World Cup 2026",
+        "url": "https://open.spotify.com/album/1kI6EiUcryR3n6C6F7YLPn"
+      },
+      "artists": [
+        {
+          "name": "M4IA",
+          "url": "https://open.spotify.com/artist/1LH0Swx879SQnNyP3n1ZX4"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50937,
+      "name": "Argentina",
+      "url": "https://open.spotify.com/track/3oIVbtzzL99V39DdZJrZTb"
+    },
+    {
+      "album": {
+        "name": "Zapada Argentina",
+        "url": "https://open.spotify.com/album/1syouBbhrkRvTnLqP3yL7Z"
+      },
+      "artists": [
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131246,
+      "name": "Argentina Es Un Carnaval",
+      "url": "https://open.spotify.com/track/6hBOT549vs8F9UBASUT7kj"
     },
     {
       "album": {
@@ -1980,7 +2042,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
@@ -2250,7 +2312,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 145714,
       "name": "CHIKA HIPPIE",
       "url": "https://open.spotify.com/track/45ib6YOsvuza6oIgt7r5d8"
@@ -2662,7 +2724,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 159146,
       "name": "Coraz\u00f3n Sin Cara - En Vivo",
       "url": "https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5"
@@ -2994,7 +3056,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 276000,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
@@ -4302,7 +4364,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 186084,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/7B61rbmuPKakEBs6yjl20E"
@@ -4374,7 +4436,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 173453,
       "name": "FAVORITA",
       "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
@@ -5270,7 +5332,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 114482,
       "name": "Hoy juega la Argentina",
       "url": "https://open.spotify.com/track/5ReBBT7pfIHs8IwShZ5nJA"
@@ -5801,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "La Cuarta Estrella",
+        "url": "https://open.spotify.com/album/7sScNswh3NiMX7biccktnE"
+      },
+      "artists": [
+        {
+          "name": "PALMITO",
+          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166145,
+      "name": "La Cuarta Estrella",
+      "url": "https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi"
+    },
+    {
+      "album": {
         "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
         "url": "https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi"
       },
@@ -6012,7 +6092,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 258826,
       "name": "La Noche Sin T\u00ed",
       "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
@@ -6568,7 +6648,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -6754,6 +6834,24 @@
       "duration_ms": 157959,
       "name": "Llor\u00e9",
       "url": "https://open.spotify.com/track/0vZK1SF9YvleinESXpukDF"
+    },
+    {
+      "album": {
+        "name": "Rodrigo - Lo mejor del amor",
+        "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "Lo mejor del amor",
+      "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
     },
     {
       "album": {
@@ -8254,7 +8352,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -9509,6 +9607,40 @@
     },
     {
       "album": {
+        "name": "Perreando Sola",
+        "url": "https://open.spotify.com/album/4zb8FgRRGk74SFTUJ81vCJ"
+      },
+      "artists": [
+        {
+          "name": "2mileros",
+          "url": "https://open.spotify.com/artist/3OAj7vUyUxSDUO0vSzNNlI"
+        },
+        {
+          "name": "KEV",
+          "url": "https://open.spotify.com/artist/1LyzBzKx2WkyZryRXUf9F2"
+        },
+        {
+          "name": "Nuno.w",
+          "url": "https://open.spotify.com/artist/3w2J3VDmUanaq2U1hO1p33"
+        },
+        {
+          "name": "Ezelinn",
+          "url": "https://open.spotify.com/artist/7t40e6QgPXtjz49hmwy85U"
+        },
+        {
+          "name": "Chris LA",
+          "url": "https://open.spotify.com/artist/7b7CyP9FGowIqxtxPTO4B1"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149072,
+      "name": "Perreando Sola",
+      "url": "https://open.spotify.com/track/4Mj7m2CEZojrkHQmzihuJ3"
+    },
+    {
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -10028,7 +10160,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 139578,
       "name": "Pu\u00f1aladas",
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
@@ -10327,6 +10459,28 @@
     },
     {
       "album": {
+        "name": "Quiero Volver a Robarle un Gol al Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/5vhcOJQdf8NoRUUv8IQw1I"
+      },
+      "artists": [
+        {
+          "name": "Barras De Futbol",
+          "url": "https://open.spotify.com/artist/2Kkj9l2ZVqahiJTvMZRDN8"
+        },
+        {
+          "name": "Grupo Contento",
+          "url": "https://open.spotify.com/artist/0iKJS0FHJD108zFgKAhSYY"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135560,
+      "name": "Quiero Volver a Robarle un Gol al Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/38OSLsnekTFC2LNYZyjVgv"
+    },
+    {
+      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -10356,7 +10510,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 211626,
       "name": "Qu\u00e9 Me Van A Hablar De Amor",
       "url": "https://open.spotify.com/track/53e9kK5U7udi2SqDzaEIVv"
@@ -11113,6 +11267,28 @@
     },
     {
       "album": {
+        "name": "Si Te Tuviera",
+        "url": "https://open.spotify.com/album/0ucwHq2F9hOTrSLRmRetJ5"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Si Te Tuviera",
+      "url": "https://open.spotify.com/track/6SHxgXq3fSFUC3FFhGoOfq"
+    },
+    {
+      "album": {
         "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
         "url": "https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF"
       },
@@ -11282,7 +11458,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-21",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -11530,6 +11706,24 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Su Veneno",
+      "url": "https://open.spotify.com/track/709hAukJxapqTU9VhsiQm0"
     },
     {
       "album": {
@@ -12158,6 +12352,24 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "album": {
+        "name": "Los Rayos",
+        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/59IElIDGoh4GADonQ2c7w6"
     },
     {
       "album": {
@@ -13171,6 +13383,28 @@
     },
     {
       "album": {
+        "name": "Vehemencia",
+        "url": "https://open.spotify.com/album/41Z2FqBGf0YEhGp1l4SWxa"
+      },
+      "artists": [
+        {
+          "name": "Defai",
+          "url": "https://open.spotify.com/artist/7pYHdzBIb7SYFmfXk9sekz"
+        },
+        {
+          "name": "ded light",
+          "url": "https://open.spotify.com/artist/14V6YK0gBIhKaqyyFV0QwT"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Vehemencia",
+      "url": "https://open.spotify.com/track/4kdUj72wkshq6qnkKdyNXR"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -13880,6 +14114,28 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "album": {
+        "name": "Yo Argento",
+        "url": "https://open.spotify.com/album/5jBZSNcYxE5R7q2wrzSFRr"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "LRZ",
+          "url": "https://open.spotify.com/artist/1fvaacuDXe0NLSWh5K9Koa"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Yo Argento",
+      "url": "https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS"
     },
     {
       "album": {

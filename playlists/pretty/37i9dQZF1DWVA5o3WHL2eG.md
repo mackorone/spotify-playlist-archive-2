@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,259 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [manchild](https://open.spotify.com/track/2OiGGXgghGKHhVwZ9bqdDD) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [manchild](https://open.spotify.com/album/0HCLGGPwz1zu2wznSbAeJR) | 2:21 |
 | 20 | [Wish Upon A Sun](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 3:01 |
 | 21 | [HÄ, WIESO?](https://open.spotify.com/track/0ctPMsJW9ktrGcBQU0vz0R) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [HÄ, WIESO?](https://open.spotify.com/album/0QCwIk4CS6jo3MCZW5DC2l) | 2:00 |
-| 22 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
+| 22 | [OBSESSED](https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [OBSESSED](https://open.spotify.com/album/67OvUTrUOEhzujquhBm1pQ) | 2:08 |
 | 23 | [In My Dreams](https://open.spotify.com/track/4ZXEd49kxTCbDpbjzhHtpj) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/4Y4SOIejf7sDcAhUgkbFwq) | 3:35 |
-| 24 | [OBSESSED](https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [OBSESSED](https://open.spotify.com/album/67OvUTrUOEhzujquhBm1pQ) | 2:08 |
+| 24 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
 | 25 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
 | 26 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
 | 27 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |

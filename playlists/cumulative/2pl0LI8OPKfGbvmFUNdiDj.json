@@ -8943,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Uncharted Ways",
+        "url": "https://open.spotify.com/album/65Q0Nq9fReW9gT4Syrt2jN"
+      },
+      "artists": [
+        {
+          "name": "Edgeline",
+          "url": "https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373772,
+      "name": "Uncharted Ways",
+      "url": "https://open.spotify.com/track/1AanP3btYufcT9X6E94FJI"
+    },
+    {
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/0mUwDtGoY4dYhnpdTE3jyx"
       },

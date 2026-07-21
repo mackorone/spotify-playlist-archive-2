@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "DOLIDO Y BANDIDO",
+        "url": "https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181166,
+      "name": "ADIVINEN",
+      "url": "https://open.spotify.com/track/17in5rJq9EZpI7REwnqkTo"
+    },
+    {
+      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },

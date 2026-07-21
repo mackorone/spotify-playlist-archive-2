@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Dive into the best House Music 2026! 🚀 Your ultimate Electronic Dance playlist featuring Fred Again.., Calvin Harris, Disclosure, and fresh sounds from Eliza Rose, SG Lewis\. Perfect for parties, workouts, or just vibing out\. Updated Weekly – Like &amp; Save for endless good times!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,311,976 likes - 100 songs - 5 hr 2 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,311,921 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

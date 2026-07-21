@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 126437,
+  "num_followers": 126468,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alrCAAAAAACpw+E3i5wzabyMYu8wmq06",
+  "snapshot_id": "alwTgAAAAAAPskdhBHYxLR1wKakp3aDD",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 184600,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P"
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/505HhtdgN8lynQcJQCcIiD"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 203760,
-      "name": "Ever Seen",
-      "url": "https://open.spotify.com/track/505HhtdgN8lynQcJQCcIiD"
+      "duration_ms": 184600,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P"
     },
     {
       "added_at": null,
