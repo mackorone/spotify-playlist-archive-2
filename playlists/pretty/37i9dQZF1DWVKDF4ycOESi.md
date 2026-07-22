@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Artie 5ive, Gracie Abrams, MEDUZA, Leon Bridges e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,494 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,480 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 29 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 30 | [PAO PAO \(feat\. Lubi\)](https://open.spotify.com/track/36GrJGQRZpCi1Imsnz2NkN) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [THE GOLDFATHER](https://open.spotify.com/album/1kjxKHn2DY0X7NACBGHsJo) | 2:59 |
 | 31 | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj) | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9) | 3:10 |
-| 32 | [LaGucci](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LaGucci](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
+| 32 | [LAGUCCI](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LAGUCCI](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
 | 33 | [EMRATA](https://open.spotify.com/track/1atkhxjJoI44BGpWDoFeHV) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [EMRATA](https://open.spotify.com/album/6y3BeCAnWYSN9eoMBytYrW) | 2:53 |
 | 34 | [Shooter](https://open.spotify.com/track/4lzhh6z36U67Q99mdC5oUY) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLIO DEL DESERTO](https://open.spotify.com/album/69fbQM057F8RYrXlFjzGei) | 2:13 |
 | 35 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |

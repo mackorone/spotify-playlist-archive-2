@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2157,
+  "num_followers": 2156,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAACV0sxMB7OJLRroYms/dwYv",
+  "snapshot_id": "al1lAAAAAABOdwgtMBWD2yudOA8+nKvj",
   "tracks": [
     {
       "added_at": null,
@@ -607,34 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recio",
-        "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 151564,
-      "name": "Recio",
-      "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -659,6 +631,34 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recio",
+        "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 151564,
+      "name": "Recio",
+      "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Perro",
-        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 151697,
-      "name": "De Perro",
-      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Est\u00e1 Funcionando",
         "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
     },
     {
       "added_at": null,

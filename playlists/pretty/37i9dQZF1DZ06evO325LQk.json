@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38396,
+  "num_followers": 38401,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABwhd2b4cbr2Mm4NHoAGvEh",
+  "snapshot_id": "al1lAAAAAAAX3hOSMljMXMa48K6rx1Rk",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Down",
-        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
       "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 146069,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
+      "duration_ms": 84921,
+      "name": "Not Okay - Alone Mix",
+      "url": "https://open.spotify.com/track/57aGMQ5ZOSWIAf4n0fYEnt"
     },
     {
       "added_at": null,
@@ -187,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "name": "Go Down",
+        "url": "https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq"
       },
       "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 84921,
-      "name": "Not Okay - Alone Mix",
-      "url": "https://open.spotify.com/track/57aGMQ5ZOSWIAf4n0fYEnt"
+      "duration_ms": 146069,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,

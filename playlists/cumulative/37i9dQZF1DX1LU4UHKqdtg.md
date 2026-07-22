@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: RESCENE
 
-1,768 songs - 3 day 21 hr 7 min
+1,770 songs - 3 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Changed Man](https://open.spotify.com/track/63iWifTpRd4odAeDsw8du5) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Changed Man](https://open.spotify.com/album/6jFqKZRGCD555oRRotQ0nK) | 3:09 | 2023-11-20 | 2023-12-15 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-06 | 2023-02-03 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 | 2024-04-27 |
+| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-21 |  |
 | [Checkmate \(Prod\. Czaer\)](https://open.spotify.com/track/2CvP09dI7LvW1CMy2Lus76) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [STAGE FIGHTER\(STF\) Original, Vol\. 6](https://open.spotify.com/album/3Um5z06z6WnOLXq6XS79Tb) | 3:14 | 2024-11-29 | 2025-01-18 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-02 | 2024-08-21 |
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-09-21 |
@@ -1302,7 +1303,7 @@
 | [Sizzle](https://open.spotify.com/track/6KdYgLpuJFA31p4w13FZez) | [Mobile Legends: Bang Bang](https://open.spotify.com/artist/53PnP2ELbN4kAXfsjQzl6A), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [Sizzle](https://open.spotify.com/album/4iuKhn9SnNzyOR9jwZ8aqY) | 2:41 | 2026-01-15 | 2026-01-23 |
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-12 | 2023-08-11 |
 | [Skater](https://open.spotify.com/track/2XIAyrfqLiI5gWpZGRUtu9) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : HOW TO PLAY](https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW) | 3:47 | 2023-08-02 | 2023-08-30 |
-| [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 | 2026-03-31 |  |
+| [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 | 2026-03-31 | 2026-07-22 |
 | [Sky Walking](https://open.spotify.com/track/0SJzs1VTchEROi7Jvf8uEV) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/1G5VpC9ZzdG1jDm1xqjfGy) | 4:12 | 2025-08-28 | 2025-10-29 |
 | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/album/4saEL9wBL0FnOTR1Rsjts5) | 3:11 | 2024-07-23 | 2024-11-02 |
 | [Sleepless Lullaby](https://open.spotify.com/track/6VgWr8IGXAdMkXwlvljoFf) | [RealRomantic](https://open.spotify.com/artist/1sj2O1MeEixBNaYH8Zsc3u) | [Sleepless Lullaby](https://open.spotify.com/album/3XWn5s1KA7Av3IRNSmYslS) | 3:05 | 2025-03-06 | 2025-04-21 |
@@ -1541,7 +1542,7 @@
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-10-11 | 2025-01-09 |
 | [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 | 2025-11-10 | 2026-05-19 |
-| [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 | 2026-03-05 |  |
+| [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 | 2026-03-05 | 2026-07-22 |
 | [Twenty](https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:08 | 2024-07-01 | 2024-08-07 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-02-25 | 2025-03-07 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-09 | 2023-03-15 |
@@ -1585,6 +1586,7 @@
 | [VISA](https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [VISA / Pilot3](https://open.spotify.com/album/7BYBKfbZxXgJkZ82GYp3MI) | 4:07 | 2026-01-27 | 2026-04-10 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-11 | 2022-12-28 |
 | [Vision Getting Blurred \(SIDE A\)](https://open.spotify.com/track/3vok71DdgrvusXlNopJF8U) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Vision Getting Blurred](https://open.spotify.com/album/5CdwG5E9AXFJmDri8h253O) | 2:25 | 2023-10-11 | 2023-10-28 |
+| [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 | 2026-07-21 |  |
 | [VIVID](https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [VIVID](https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS) | 3:25 | 2022-05-31 | 2022-07-27 |
 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 | 2022-03-22 | 2022-07-16 |
 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-15 | 2022-05-25 |

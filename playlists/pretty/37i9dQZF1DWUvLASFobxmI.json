@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Primer Grado en portada.",
-  "num_followers": 530973,
+  "num_followers": 530999,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+        "name": "Cuando Casi Te Olvidaba",
+        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
       },
       "artists": [
         {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
         }
       ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
+      "duration_ms": 177750,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -567,6 +571,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Cheyenne",
         "url": "https://open.spotify.com/album/25A9GkAVwo5T9aT6oY5f4E"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 149457,
       "name": "Cheyenne",
       "url": "https://open.spotify.com/track/2p1dEFTP7tnan18oxyXOI7"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Cuando Casi Te Olvidaba",
-        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Grupo Sexta Edicion",
-          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Canelovers 2.0",
-        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 138166,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "A Ver Como Le Hago",
         "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 161875,
       "name": "A Ver Como Le Hago",
       "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Canelovers 2.0",
+        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 138166,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Necesito Amarte",
+        "url": "https://open.spotify.com/album/1ylx9NTc5rRkaBrY8XmJVD"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 176021,
+      "name": "Necesito Amarte",
+      "url": "https://open.spotify.com/track/02F1FWKWVEJfsJyXCgC645"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Necesito Amarte",
-        "url": "https://open.spotify.com/album/1ylx9NTc5rRkaBrY8XmJVD"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 176021,
-      "name": "Necesito Amarte",
-      "url": "https://open.spotify.com/track/02F1FWKWVEJfsJyXCgC645"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Por Mi Bien",
-        "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 157705,
-      "name": "Por Mi Bien",
-      "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Vida y Libertad",
         "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 183428,
       "name": "El Baron del Desierto - En Vivo",
       "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Por Mi Bien",
+        "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 157705,
+      "name": "Por Mi Bien",
+      "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "EnerG\u00edtimo",
         "url": "https://open.spotify.com/album/5GJ6cfGildyJHI9yP3DoYh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 180096,
       "name": "Conc\u00e9deme El Honor",
       "url": "https://open.spotify.com/track/5Lk2YI8YpvqV7f5F3OIJLS"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Lo Que He Vivido",
         "url": "https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 189216,
       "name": "Todav\u00eda Te Siento",
       "url": "https://open.spotify.com/track/0b0XADKTOIv7Cz8um7WQ84"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Que Tonto He Sido",
-        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
-      },
-      "artists": [
-        {
-          "name": "Solido",
-          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Que Tonto He Sido",
-      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "La Troca Del Mo\u00f1o Negro",
         "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 180617,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Que Tonto He Sido",
+        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
+      },
+      "artists": [
+        {
+          "name": "Solido",
+          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Que Tonto He Sido",
+      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
     },
     {
       "added_at": "2026-07-17 06:50:08",

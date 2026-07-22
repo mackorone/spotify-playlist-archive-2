@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 35 min
+120 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Kids On Drugs](https://open.spotify.com/track/2ZXfg1glFbYHlXlMCvih7n) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:22 | 2022-09-16 | 2022-11-22 |
 | [Kids On Drugs](https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:22 | 2022-11-23 |  |
 | [Lament](https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:00 | 2022-09-16 | 2026-07-10 |
-| [Let's Run](https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:47 | 2022-10-15 |  |
+| [Let's Run](https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:47 | 2022-10-15 | 2026-07-22 |
 | [Listen\. Don't Panic](https://open.spotify.com/track/5obgk2nN9DpMqkAD2aiLHM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:51 | 2022-09-18 | 2026-01-28 |
 | [Live Like This](https://open.spotify.com/track/1llMTwvOhmSJt0uUZLpoXC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:36 | 2022-09-16 | 2022-11-23 |
 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 | 2022-11-22 |  |
@@ -102,7 +102,8 @@
 | [Real Love](https://open.spotify.com/track/5lfjKinwOHkwLfExvzMOLI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 | 2022-09-16 | 2025-07-18 |
 | [rinse repeat](https://open.spotify.com/track/1pUxWIbU2SKcXSWEpo7You) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [rinse repeat](https://open.spotify.com/album/3jpF6GsJvKU6tOHgIYK6E0) | 3:35 | 2026-05-22 | 2026-07-14 |
 | [rinse repeat](https://open.spotify.com/track/6MjPqcnMFAumdddQ802SmO) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [i think i want to go home now.](https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl) | 3:35 | 2026-07-14 |  |
-| [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/track/6MiQvf0yzfKwLg0nPOWIYU) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Murray Macleod](https://open.spotify.com/artist/4Cat1aWfF7A4bJLkIsFXtQ) | [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/album/5Knzryo0fl9c15kTCHOIY8) | 3:34 | 2026-01-15 |  |
+| [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/track/6MiQvf0yzfKwLg0nPOWIYU) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Murray Macleod](https://open.spotify.com/artist/4Cat1aWfF7A4bJLkIsFXtQ) | [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/album/5Knzryo0fl9c15kTCHOIY8) | 3:34 | 2026-01-15 | 2026-07-22 |
+| [Ruin My Life \(feat\. Murray Macleod\)](https://open.spotify.com/track/6yxVbnWLbgLS8xvGI4bVyK) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Murray Macleod](https://open.spotify.com/artist/4Cat1aWfF7A4bJLkIsFXtQ) | [As It Is](https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK) | 3:34 | 2026-07-22 |  |
 | [Say Yes](https://open.spotify.com/track/4Bglz77Z736LzNpBCQrE2M) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Stairs to Noise: The Scatterbrain](https://open.spotify.com/album/0nge5MyzEgVNZnc4OPg518) | 2:11 | 2022-10-12 | 2023-11-11 |
 | [Scatterbrain](https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:15 | 2022-09-18 | 2026-07-12 |
 | [Shaking In The Water](https://open.spotify.com/track/2qp2GvKSEXc97ckv0zrmuX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:10 | 2022-09-16 | 2022-11-25 |

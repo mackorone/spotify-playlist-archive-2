@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,024 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,022 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 39 | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É das Igrejas / Sinais](https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W) | 4:07 |
 | 40 | [Dançar Com Você](https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:53 |
 | 41 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
-| 42 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
-| 43 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
-| 44 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
+| 42 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
+| 43 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
+| 44 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
 | 45 | [Beira Mar, Pt\. 2](https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Beira Mar, Pt\. 2](https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6) | 2:19 |
 | 46 | [Romance de Fevereiro](https://open.spotify.com/track/0MI5t0bfLWpgQ8VBBvFOLr) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Crisálida](https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe) | 3:03 |
 | 47 | [Liberta](https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Sejas Bem Feliz](https://open.spotify.com/track/4d8FiRf83bWZk7EZpEE1GA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Sejas Bem Feliz](https://open.spotify.com/album/3meUGWg5bCK4OoEJBOUkve) | 3:22 |
 | 50 | [Vivendo Demais](https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Vivendo Demais](https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4) | 3:13 |
 
-Snapshot ID: `alwTgAAAAADbo+2Pp2iBd7Chc3OAvLJa`
+Snapshot ID: `al1lAAAAAAAqO5jz7d257x64a9yO5hm6`

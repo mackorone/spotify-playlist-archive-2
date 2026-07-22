@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 29 songs - 2 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,354 likes - 32 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 27 | [TheBestVersionOfMyself](https://open.spotify.com/track/19OiQKVPoouf1SzhGRkLm1) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/6RhN0H5mnDVMXTtx0d3sJX) | 1:12 |
 | 28 | [Hurt In Your Heart](https://open.spotify.com/track/65BB3nJS7LYwu8O83WVTDx) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Grace & Danger](https://open.spotify.com/album/05FPn66m4Ry59KRrKFCg3Q) | 4:57 |
 | 29 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/0zprBQpAaNFdV82NqjyiNx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:54 |
+| 30 | [About Her Eyes](https://open.spotify.com/track/7iFO7hNC6tDhTaaNyjGq1d) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Five Years Gone](https://open.spotify.com/album/2lRWTNRE1rBepK3kMhEW7h) | 2:46 |
+| 31 | [風をあつめて](https://open.spotify.com/track/4mDoYdwFGi5nPwwGIKqQnF) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 4:06 |
+| 32 | [暗闇坂むささび変化](https://open.spotify.com/track/60JZapt4cncqQ0xG1iM6nM) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 1:58 |
 
-Snapshot ID: `AAAOobYHspZEcWe89ExpZCIOxRjHAmoh`
+Snapshot ID: `AAAOo/zPfQWE84zvkqTbiV2zJHl6o9XC`

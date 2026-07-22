@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rach",
-  "num_followers": 90067,
+  "num_followers": 90062,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjSmMU7vEAzlEg3GE64ACJKBYjf",
+  "snapshot_id": "AAAAANilSE/njdyiCzS596CmHaCcdTnL",
   "tracks": [
     {
       "added_at": "2026-07-17 04:02:54",
@@ -27,6 +27,50 @@
       "duration_ms": 214883,
       "name": "AUCUN MENSONGE",
       "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
+    },
+    {
+      "added_at": "2026-07-17 04:02:54",
+      "album": {
+        "name": "MTL's Finest",
+        "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
+      },
+      "artists": [
+        {
+          "name": "Prosperito",
+          "url": "https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "MTL's Finest",
+      "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
+    },
+    {
+      "added_at": "2026-07-17 04:02:54",
+      "album": {
+        "name": "Kesspass",
+        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        },
+        {
+          "name": "d\u00f8nnyr2k\u00e9bb",
+          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
+        }
+      ],
+      "duration_ms": 78406,
+      "name": "Kesspass",
+      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
     },
     {
       "added_at": "2026-07-17 04:02:54",
@@ -87,26 +131,6 @@
     {
       "added_at": "2026-07-17 04:02:54",
       "album": {
-        "name": "Kesspass",
-        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        },
-        {
-          "name": "d\u00f8nnyr2k\u00e9bb",
-          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
-        }
-      ],
-      "duration_ms": 78406,
-      "name": "Kesspass",
-      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
-    },
-    {
-      "added_at": "2026-07-17 04:02:54",
-      "album": {
         "name": "Mountain's Music",
         "url": "https://open.spotify.com/album/0s3vZkWjtFsa7t3FQfacPk"
       },
@@ -123,30 +147,6 @@
       "duration_ms": 126315,
       "name": "kanji",
       "url": "https://open.spotify.com/track/066OJkWyKExrVhsw9org4b"
-    },
-    {
-      "added_at": "2026-07-17 04:02:54",
-      "album": {
-        "name": "MTL's Finest",
-        "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
-      },
-      "artists": [
-        {
-          "name": "Prosperito",
-          "url": "https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O"
-        },
-        {
-          "name": "SeinsSucrer",
-          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
-        },
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "MTL's Finest",
-      "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
     },
     {
       "added_at": "2026-07-17 04:02:54",

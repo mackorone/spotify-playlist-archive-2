@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/4WoQ94qzwQj28n3nlSOVLB"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Homeless (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/6S7CpaaCs3WlQeogJqhiC2"
+    },
+    {
+      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 228413,
       "name": "Homeless (with Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"

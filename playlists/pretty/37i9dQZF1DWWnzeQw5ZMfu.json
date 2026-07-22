@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Justin Bieber",
-  "num_followers": 73728,
+  "num_followers": 73726,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWj+KLDGNPYTR+3om2+cKndT3yU",
+  "snapshot_id": "AAAAAPTgtXr+fvUZin1Zyo9hoOezI/Hn",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:18",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-07-03 04:02:18",
       "album": {
-        "name": "Die On This Hill (At KOKO)",
-        "url": "https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 233708,
-      "name": "Die On This Hill - At KOKO",
-      "url": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
-    },
-    {
-      "added_at": "2026-07-03 04:02:18",
-      "album": {
         "name": "End Of An Era (Live From Mexico)",
         "url": "https://open.spotify.com/album/7cvRtpO5con5KTI0lAZ8dB"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 227351,
       "name": "Death Wish - Live from The O2 Arena",
       "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
+    },
+    {
+      "added_at": "2026-07-03 04:02:18",
+      "album": {
+        "name": "Die On This Hill (At KOKO)",
+        "url": "https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Die On This Hill - At KOKO",
+      "url": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
     },
     {
       "added_at": "2026-07-03 04:02:18",
@@ -439,22 +439,6 @@
       "duration_ms": 235928,
       "name": "Youngblood - Live from The Royal Albert Hall",
       "url": "https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30"
-    },
-    {
-      "added_at": "2026-07-03 04:02:18",
-      "album": {
-        "name": "MAYBE. (Live from The Mews)",
-        "url": "https://open.spotify.com/album/3Ki1UjZ39pE7SzER7LBj5u"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "MAYBE. (Live from The Mews)",
-      "url": "https://open.spotify.com/track/2bBI7ueQ283hFipaREeXKM"
     },
     {
       "added_at": "2026-07-03 04:02:18",

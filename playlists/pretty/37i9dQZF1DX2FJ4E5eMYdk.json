@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 196268,
+  "num_followers": 196284,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Brain Cycles",
         "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Sneaker Waves",
-        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+        "name": "& I'm Fine Today",
+        "url": "https://open.spotify.com/album/5D062RPrAS76knCMha1xCw"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
         }
       ],
-      "duration_ms": 245880,
-      "name": "Glass Jar",
-      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+      "duration_ms": 219226,
+      "name": "Far Out Feeling",
+      "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -955,22 +971,6 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5D062RPrAS76knCMha1xCw"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Far Out Feeling",
-      "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
     },
     {
       "added_at": "2024-07-05 19:49:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,493 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,499 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 20 | [Car Freestyle](https://open.spotify.com/track/3MvykzdcpYphvSeOu5gCf8) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Out The Mud](https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V) | 2:38 |
 | 21 | [Minks In Miami](https://open.spotify.com/track/1UC82aenDIiSaCEXp5jNpS) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Minks In Miami](https://open.spotify.com/album/5vVAfd7JRgOooDtlspNLlQ) | 2:50 |
 | 22 | [One Thing Or Another](https://open.spotify.com/track/3DCZflMkj70ig80lnL8agQ) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5) | [A LongWay from NoWay](https://open.spotify.com/album/0AQxGyjuXb5gqiw7Pb6sBK) | 2:54 |
-| 23 | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
+| 23 | [HUT](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
 | 24 | [HAAVIN](https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HAAVIN](https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm) | 2:30 |
 | 25 | [FØURS \(feat\. Young Thug\)](https://open.spotify.com/track/2Ikvr9PVCj365Wv3jgpg3k) | [diamond\*](https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY](https://open.spotify.com/album/7uAJshJE3tHJQSmv9v4Ekd) | 2:51 |
 | 26 | [shootin](https://open.spotify.com/track/7jF5xbNm34tuuKu4ELGnnh) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [HIM](https://open.spotify.com/album/2hlgpgDCuWqydJkwjBpIgP) | 2:20 |

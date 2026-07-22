@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-448 songs - 23 hr 53 min
+449 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 | 2023-04-13 | 2024-06-03 |
 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 | 2024-02-15 | 2025-02-28 |
 | [Hide Me](https://open.spotify.com/track/31i8Y19hlXk2MzraK6EX9B) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Hide Me](https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL) | 3:03 | 2022-12-08 | 2024-02-05 |
+| [High Speed \(Zaagkicks Music\)](https://open.spotify.com/track/5PSPgMMtcX2OEBwuG29IsV) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [High Speed \(Zaagkicks Music\)](https://open.spotify.com/album/6RUwyzVcj8O9iJ20jW2PqX) | 2:11 | 2026-07-17 |  |
 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 | 2024-02-15 | 2025-05-13 |
 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 | 2025-05-19 |  |
 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 | 2023-03-30 | 2024-06-28 |
@@ -417,7 +418,7 @@
 | [Trip to Greece](https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Trip to Greece](https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ) | 3:06 | 2024-07-18 | 2025-04-26 |
 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 | 2025-08-07 |  |
 | [Trip to Okinawa](https://open.spotify.com/track/0EIm2X1P607GilEFnEpqy5) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Speed Freak](https://open.spotify.com/artist/3HtFJOBdchYr7TpB63p6De) | [Trip to Okinawa](https://open.spotify.com/album/08NBCAB4VHGFWKdprYLoRL) | 3:15 | 2026-05-13 |  |
-| [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 | 2026-01-19 |  |
+| [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 | 2026-01-19 | 2026-07-22 |
 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 | 2025-06-16 | 2025-09-09 |
 | [Trip to Scotland](https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv), [Piper.Ally](https://open.spotify.com/artist/7irQApL7q6iOzs8mDY3xDz) | [Trip to Scotland](https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB) | 2:55 | 2024-04-18 | 2025-01-11 |
 | [Trip to Tortuga](https://open.spotify.com/track/0cfun8g45RZ32siq8LuaoA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Bassrunner](https://open.spotify.com/artist/2SjRurwyM0sEwhxk9YjWwU) | [Tripping with Dr\. Peacock](https://open.spotify.com/album/48YFvNNXY78tFt1Rwr8QUe) | 2:48 | 2025-11-17 | 2026-01-06 |

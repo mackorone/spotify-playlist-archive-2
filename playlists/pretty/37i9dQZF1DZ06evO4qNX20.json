@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 348278,
+  "num_followers": 348312,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABIXeMeHgsAItC3tIrGxkFL",
+  "snapshot_id": "al1lAAAAAABU5nPIQnojVyf9Jlcd1Y/o",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Las Uvas",
+      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 220926,
       "name": "Por Una Rencilla Vieja",
       "url": "https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Las Uvas",
-      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Quisiera Ser Pajarillo",
-      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 164942,
       "name": "Corrido De Olegario",
       "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Quisiera Ser Pajarillo",
+      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,

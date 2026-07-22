@@ -1,29 +1,13 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Rose Gray",
-  "num_followers": 106827,
+  "num_followers": 106815,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r",
+  "snapshot_id": "AAAAACRJgc+Qlj/BA+ZN+BqcD7o3Hdp6",
   "tracks": [
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
-    },
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
@@ -75,6 +59,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 215709,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "is it cool? (feat. SZA)",
         "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "The Time Of My Life",
-        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 215709,
-      "name": "The Time Of My Life",
-      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Saturday Night",
         "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
       },
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "outta time",
-        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A. K. Paul",
-          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "outta time",
-      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Pink Pocket Pistol",
         "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 259189,
       "name": "Faster (ft. 3DDY)",
       "url": "https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 188005,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -775,6 +759,22 @@
       "duration_ms": 120587,
       "name": "Training",
       "url": "https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 188005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Rituals",
-        "url": "https://open.spotify.com/album/3W5RkcDR5Xk5rMZCHhppsU"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 130358,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/3bewwYBhlM3VNe3trzGIs3"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 213346,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/3W5RkcDR5Xk5rMZCHhppsU"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 130358,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/3bewwYBhlM3VNe3trzGIs3"
     },
     {
       "added_at": "2026-07-01 04:00:22",

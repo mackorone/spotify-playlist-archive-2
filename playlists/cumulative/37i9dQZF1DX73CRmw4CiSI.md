@@ -2,7 +2,7 @@
 
 ### [Veranito a la Española](https://open.spotify.com/playlist/37i9dQZF1DX73CRmw4CiSI)
 
-> Rock y rumba para esos días de sol, sangría y amigxs.
+> Rock y rumba para esos días de sol y amigxs.
 
 92 songs - 5 hr 46 min
 

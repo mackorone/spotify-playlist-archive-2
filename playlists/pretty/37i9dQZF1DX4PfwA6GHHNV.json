@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23322,
+  "num_followers": 23328,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -523,30 +523,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
-      },
-      "artists": [
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        },
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
       },
@@ -571,38 +547,26 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "AR\ua4d8ANO",
-        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 142736,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "QUERO (AI AI AI)",
-        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
         },
         {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         }
       ],
-      "duration_ms": 132244,
-      "name": "QUERO (AI AI AI)",
-      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -639,6 +603,42 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "QUERO (AI AI AI)",
+        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "QUERO (AI AI AI)",
+      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "AR\ua4d8ANO",
+        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 142736,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -707,30 +707,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
-      },
-      "artists": [
-        {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+      },
+      "artists": [
+        {
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -795,50 +795,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Porta Aberta",
-        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Porta Aberta",
-      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -859,42 +815,22 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
       "artists": [
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -939,6 +875,46 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
         "name": "M\u00fasicas Para Mulheres, Vol. 1",
         "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 167876,
       "name": "S\u00f3 pra voc\u00ea",
       "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "Porta Aberta",
+        "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
     },
     {
       "added_at": "2026-07-03 14:08:59",

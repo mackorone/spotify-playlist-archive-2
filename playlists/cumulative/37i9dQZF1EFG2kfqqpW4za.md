@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 8 hr 4 min
+116 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Direitos Iguais \- Ao Vivo](https://open.spotify.com/track/4dkLuw3hpq2lfZWsFrrahQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo no República do Reggae](https://open.spotify.com/album/3R3Fd1O1mOSo9Bye9deA8w) | 2:40 | 2025-02-19 | 2025-02-27 |
 | [Ditadura da Televisão](https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 5:17 | 2022-06-04 | 2025-02-07 |
 | [Ditadura da Televisão](https://open.spotify.com/track/5OICVBx9erKRmVrhnjp069) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 5:17 | 2025-02-06 |  |
+| [Dá\-me Fé](https://open.spotify.com/track/0Ex802OMAmFleWjDl6ImbA) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Dá\-me Fé](https://open.spotify.com/album/2RU8HXyEIWedMswsB5UXTC) | 3:02 | 2026-07-21 |  |
 | [Embarque Nesse Trem](https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe) | [Dub Ataque](https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3), [Rico Neurótico](https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 4:18 | 2022-06-04 |  |
 | [Estar Com Você](https://open.spotify.com/track/3IgaUvYei9sPHRFaHYnMta) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 3:52 | 2025-02-26 |  |
 | [Estar Com Você \- Ao Vivo](https://open.spotify.com/track/0CjxAXmWH4xvBD8lDoVYjE) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:17 | 2022-06-04 | 2025-02-09 |

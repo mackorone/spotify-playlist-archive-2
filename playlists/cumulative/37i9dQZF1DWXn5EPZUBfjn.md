@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-62 songs - 3 hr 31 min
+63 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Breathe](https://open.spotify.com/track/0M68GE694Iyzearl93bIhV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Breathe](https://open.spotify.com/album/2A4NQQ1eRAPaX6f2z3SqYc) | 2:50 | 2025-12-09 | 2026-07-14 |
 | [Come & Go](https://open.spotify.com/track/29UocD5ZcszfHj87s1mqiD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Come & Go](https://open.spotify.com/album/28i9LjqRXyudh3hYRkxuJP) | 3:32 | 2025-12-09 |  |
 | [Dark Thoughts](https://open.spotify.com/track/0dPRqFuiUV32vDdNDby3TX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/2bvBRbbDepD3vl8FMX2kDd) | 2:35 | 2025-12-09 |  |
+| [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 | 2026-07-21 |  |
 | [Did It First](https://open.spotify.com/track/5UXg5G7hJqeeKdCX0zbKsp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First](https://open.spotify.com/album/1u4jMFc5cdBFgRVSVOFCel) | 2:06 | 2025-12-09 |  |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3fJiZmc81mcjdO2URCpKCI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/5Bm8CkD6T48QPQsfRh9SsH) | 3:55 | 2025-12-09 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/4eG0td3dsAxFjqMF6qzXZE) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/album/58IXBNmISFmgW3HAIpFx4E) | 3:29 | 2025-12-09 |  |
@@ -69,6 +70,6 @@
 | [What You Saying](https://open.spotify.com/track/4zfmnEFaedgOga24fJPLeP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/4oYkWdKGoa19WEgRbnMVux) | 3:02 | 2026-04-14 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/7ikD332H3gwLTnX8mlmfe6) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/4DZYlatBClcLGjYAJpIAm4) | 4:58 | 2026-01-27 |  |
 | [Won't Stop](https://open.spotify.com/track/2derO4RmKVWp7CrM7CxmQa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/3y5V9tsoJrIh2MvZleDK74) | 3:30 | 2025-12-09 |  |
-| [Yeern 101](https://open.spotify.com/track/5VAsIIKmItUqLx3y1dbcSL) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/0I4omafD3dFPIeYg39BNdQ) | 2:47 | 2025-12-09 |  |
+| [Yeern 101](https://open.spotify.com/track/5VAsIIKmItUqLx3y1dbcSL) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/0I4omafD3dFPIeYg39BNdQ) | 2:47 | 2025-12-09 | 2026-07-22 |
 
 \*This playlist was first scraped on 2025-12-11. Prior content cannot be recovered.

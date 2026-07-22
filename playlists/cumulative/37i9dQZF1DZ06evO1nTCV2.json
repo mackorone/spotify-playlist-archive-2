@@ -996,6 +996,24 @@
     {
       "album": {
         "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244066,
+      "name": "Cracks in the Photograph",
+      "url": "https://open.spotify.com/track/0lJdTwBlUrehCAkADP6goI"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
         "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
       },
       "artists": [
@@ -1658,6 +1676,24 @@
       "duration_ms": 239026,
       "name": "For No One",
       "url": "https://open.spotify.com/track/0a4AUAvmM7ZGQqZ6twmDBv"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/0pvi1mwND5K0xij6IjbbwG"
     },
     {
       "album": {
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 188573,
       "name": "I'm Waiting",
       "url": "https://open.spotify.com/track/4ovDtiwSEnTc83DCb2BZJR"
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 216333,
       "name": "Idiots Rule the World",
       "url": "https://open.spotify.com/track/1I182i2JPdMtJ5SwUuQafo"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 225133,
       "name": "Off Broadway",
       "url": "https://open.spotify.com/track/3BJgSn9OOpzuWaeOnf70tr"
@@ -3454,7 +3490,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 191106,
       "name": "Perfect and True",
       "url": "https://open.spotify.com/track/4hR4ac83Zims7TwnDxnIOJ"
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 226160,
       "name": "Touch, Feel & Lose",
       "url": "https://open.spotify.com/track/6bNrYc4Xzw4Zd3LHS7FsLo"
@@ -5366,7 +5402,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 256546,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/2OWTz3jl2hd0wD3D8PmCwE"

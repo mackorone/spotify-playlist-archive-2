@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🥁 Tech house operators, featuring AYYBO
 
-2,911 songs - 6 day 14 hr 53 min
+2,912 songs - 6 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Bugatti \- CID Remix](https://open.spotify.com/track/0eqLuUqNqFYy7TzmHVXaVa) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Bugatti \(CID Remix\)](https://open.spotify.com/album/5J0hzR0agG92J7FBw0K1zy) | 2:48 | 2025-10-17 | 2026-01-31 |
 | [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-04-17 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 | 2023-04-22 |
-| [Bullet](https://open.spotify.com/track/0Mx4Zlz06DwrI2jOo4dnYq) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Lilya \(AZ\)](https://open.spotify.com/artist/2eyzE8dcCoyTOAD7XadICj) | [Bullet](https://open.spotify.com/album/27AezeRleHDxy12pgSNSHx) | 2:43 | 2026-07-17 |  |
+| [Bullet](https://open.spotify.com/track/0Mx4Zlz06DwrI2jOo4dnYq) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Lilya \(AZ\)](https://open.spotify.com/artist/2eyzE8dcCoyTOAD7XadICj) | [Bullet](https://open.spotify.com/album/27AezeRleHDxy12pgSNSHx) | 2:43 | 2026-07-17 | 2026-07-22 |
 | [Bullseye](https://open.spotify.com/track/6nyIYpvOBLGkLjhV3Q1J0s) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Bullseye](https://open.spotify.com/album/480B8XeNqYu1lsaSyOGgqp) | 2:46 | 2025-11-14 | 2026-01-17 |
 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 | 2025-10-24 | 2026-03-04 |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
@@ -982,6 +982,7 @@
 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 | 2025-08-29 | 2026-02-21 |
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-05-19 | 2023-12-16 |
 | [Gasoline](https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Gasoline](https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC) | 3:07 | 2024-11-01 | 2025-04-12 |
+| [Gator Boots](https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY) | [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Gator Boots](https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9) | 2:21 | 2026-07-21 |  |
 | [GDH](https://open.spotify.com/track/2PhKn3tXUkx5vHlYM3P4Ob) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [GDH](https://open.spotify.com/album/0XuC5xsv6jj7zlrO2kUYz2) | 2:57 | 2025-06-13 | 2025-09-27 |
 | [Gelato Dream](https://open.spotify.com/track/6T37xNJpgshMDpdrigh8eK) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Gelato Dream](https://open.spotify.com/album/4ORtIEkrRwL36U3dUB8GVj) | 4:58 | 2022-12-28 | 2023-01-06 |
 | [GENIE](https://open.spotify.com/track/6E7uJDbj86Eu5G8e2FhHyk) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29), [NAAR \(US\)](https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq) | [GENIE](https://open.spotify.com/album/7hrm092KNK92HOAYVuXo4B) | 3:20 | 2025-11-07 | 2026-01-17 |

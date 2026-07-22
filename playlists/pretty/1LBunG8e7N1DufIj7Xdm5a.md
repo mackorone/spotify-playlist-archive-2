@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,615 songs - 10 day 7 hr 30 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,624 songs - 10 day 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4623,5 +4623,14 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4613 | [Tanpa Nama](https://open.spotify.com/track/3hZThHMZaV4mHdRKs1yRdG) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Tanpa Nama](https://open.spotify.com/album/6BsHHIzQFh4nFNtJP00lL9) | 3:32 |
 | 4614 | [I Call You Out \- Remix Radio Edit](https://open.spotify.com/track/2qVTr0zS7xjwECF9gYIjod) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Andrew Niman](https://open.spotify.com/artist/3rPvscmqALj5qgbgZvsaQT), [Mou5EmO](https://open.spotify.com/artist/47lc0URdetebX2eTcY4Qd9) | [I Call You Out Remixes](https://open.spotify.com/album/0oIVSMp24n4UPUiKC3vJst) | 4:31 |
 | 4615 | [Fish in the Sea](https://open.spotify.com/track/5J0VbqUXyj1djSsYdIAUHy) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Fish in the Sea](https://open.spotify.com/album/0RAPYqZlvRgLSBvQYXKY4g) | 1:58 |
+| 4616 | [Hurricane](https://open.spotify.com/track/1CNLaGMj8YuCNfWMS34Scd) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Year of the Villain](https://open.spotify.com/album/4rRjmdzMjpR7rXhvfjZKMq) | 4:28 |
+| 4617 | [Amore e bugie](https://open.spotify.com/track/6iY9KBLuN84cAy3T0noPZF) | [Andrea Magini](https://open.spotify.com/artist/2jCX6nzSJDalfH1yAUd7iW) | [Amore e bugie](https://open.spotify.com/album/2SEVRG709eTEoR7QD4HZqz) | 3:29 |
+| 4618 | [CELLOPHANE](https://open.spotify.com/track/7j5hw11gbCqeYXO14yRbbd) | [Charlotte Murphy](https://open.spotify.com/artist/13VpYby2kwA5BA9ocuJK3m) | [CELLOPHANE](https://open.spotify.com/album/2pfo06OkLqSlFVqgQ1K1cx) | 3:10 |
+| 4619 | [Caffeine & Nicotine](https://open.spotify.com/track/6UVyl9ELMD6Bf9qR4MLUFE) | [Rising Tide](https://open.spotify.com/artist/5ZeYZcrCeDSARQ9rJ5GiwT) | [Tsunami](https://open.spotify.com/album/7FtUJSoXYgp2OclcWBikvq) | 1:48 |
+| 4620 | [Realism](https://open.spotify.com/track/5orLyzalBVnC8uE9ueA8VK) | [Kerrick M](https://open.spotify.com/artist/5UKod7dL9WNJ9U5aZKFDlk) | [Realism](https://open.spotify.com/album/6CjkpAV8EufCVBn8OIqzqL) | 2:37 |
+| 4621 | [Broken Promises](https://open.spotify.com/track/5axb6OElLAzfWCZjD2Fh81) | [D\. J\. Lauria Band](https://open.spotify.com/artist/1ZF1ndUQ5T08p1jmkORNeZ), [Vic Bullard](https://open.spotify.com/artist/7GKSqmzsu97QQ9UkK3cmbx), [Casey Ruth Little](https://open.spotify.com/artist/0HPgdaCQytDSYaDfZjmqqp) | [New Old Stock](https://open.spotify.com/album/3usVMYM41EIU0dfF0DpWXF) | 4:00 |
+| 4622 | [Broken Promises](https://open.spotify.com/track/5axb6OElLAzfWCZjD2Fh81) | [D\. J\. Lauria Band](https://open.spotify.com/artist/1ZF1ndUQ5T08p1jmkORNeZ), [Vic Bullard](https://open.spotify.com/artist/7GKSqmzsu97QQ9UkK3cmbx), [Casey Ruth Little](https://open.spotify.com/artist/0HPgdaCQytDSYaDfZjmqqp) | [New Old Stock](https://open.spotify.com/album/3usVMYM41EIU0dfF0DpWXF) | 4:00 |
+| 4623 | [Stalk Your Stories](https://open.spotify.com/track/4uLxIFk69J4Tx1VdVNzPWU) | [Eddion](https://open.spotify.com/artist/1bVeTVCyDIs8YsBwUpCwdr) | [Stalk Your Stories](https://open.spotify.com/album/0zjRy4gvZJbf6QZKnfio7F) | 3:04 |
+| 4624 | [Unforgiving Nights](https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE) | [Ev Kalo](https://open.spotify.com/artist/0kuWGBFMMa8a6jJeFAZwbq) | [Unforgiving Nights](https://open.spotify.com/album/6rAssQcROkNxsZrDfqJsYP) | 3:38 |
 
-Snapshot ID: `AAAJSPv2hO8JV2B5NDVeUVrCFb7sNvkv`
+Snapshot ID: `AAAJUfGnSKG/pWf1PMRd/ffP/SLhbPIb`

@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
-  "num_followers": 760018,
+  "num_followers": 760037,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPsUvzDRff53alRzJ95G+yOX/dyz",
+  "snapshot_id": "AAAAAAqfIezfk25bNKGh0+GVgIHUnUvw",
   "tracks": [
     {
       "added_at": "2026-06-26 03:00:56",
@@ -31,54 +31,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Resenha do Cabral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
-      },
-      "artists": [
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        },
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        },
-        {
-          "name": "Bruno & Denner",
-          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        },
-        {
-          "name": "Rafael Quadros",
-          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
-        },
-        {
-          "name": "CDB",
-          "url": "https://open.spotify.com/artist/2VuyOWJPCDTzjQWqCQogJP"
-        }
-      ],
-      "duration_ms": 203177,
-      "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
-      "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Eu Me Apaixonei",
         "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
       },
@@ -91,42 +43,6 @@
       "duration_ms": 205714,
       "name": "Eu Me Apaixonei",
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Esquenta Pro S\u00e3o Jo\u00e3o",
-        "url": "https://open.spotify.com/album/6KkT7aOslNVFT5SUti5bbM"
-      },
-      "artists": [
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        }
-      ],
-      "duration_ms": 162858,
-      "name": "Volt\u00e1vel",
-      "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Meia-noite e Meia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6C5tZaCt38gbWBIIfdMOUP"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 154992,
-      "name": "Meia-noite e Meia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1xXnqVrh67nsSpCqCvNz4M"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -175,6 +91,26 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Meia-noite e Meia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6C5tZaCt38gbWBIIfdMOUP"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 154992,
+      "name": "Meia-noite e Meia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1xXnqVrh67nsSpCqCvNz4M"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
       },
@@ -219,22 +155,6 @@
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Deixo",
-        "url": "https://open.spotify.com/album/6yOKyXzB6Qz8oxeyK5RZ8K"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Deixo",
-      "url": "https://open.spotify.com/track/5kMu03BQiBZwg2urpihT9H"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -467,26 +387,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "N\u00e3o Era Eu no Bol\u00e3o",
-        "url": "https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f"
-      },
-      "artists": [
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        },
-        {
-          "name": "Raul Vaqueiro",
-          "url": "https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd"
-        }
-      ],
-      "duration_ms": 146428,
-      "name": "N\u00e3o Era Eu no Bol\u00e3o",
-      "url": "https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -511,6 +411,46 @@
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "N\u00e3o Era Eu no Bol\u00e3o",
+        "url": "https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Raul Vaqueiro",
+          "url": "https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd"
+        }
+      ],
+      "duration_ms": 146428,
+      "name": "N\u00e3o Era Eu no Bol\u00e3o",
+      "url": "https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Hipnotiza",
+        "url": "https://open.spotify.com/album/5STRX5pctUIuJJZ4eVFSNS"
+      },
+      "artists": [
+        {
+          "name": "Diggo",
+          "url": "https://open.spotify.com/artist/05OVRDpkoBtLlLOOsieTiu"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 124125,
+      "name": "Hipnotiza",
+      "url": "https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -543,6 +483,22 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 311077,
+      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "Ele Ou Eu",
         "url": "https://open.spotify.com/album/5rsqVICpteZxgoXUSarVp5"
       },
@@ -559,22 +515,6 @@
       "duration_ms": 204351,
       "name": "Ele Ou Eu",
       "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Churrasquinho 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
-      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -647,6 +587,22 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 167528,
+      "name": "Aquele Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "Rebolando",
         "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
       },
@@ -667,22 +623,6 @@
       "duration_ms": 106685,
       "name": "Rebolando",
       "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 167528,
-      "name": "Aquele Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
     },
     {
       "added_at": "2026-06-26 03:00:56",

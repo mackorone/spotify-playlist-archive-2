@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 198 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,764 likes - 198 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 16 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
 | 17 | [LEMONS](https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [LEMONS](https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ) | 2:34 |
 | 18 | [Tunnel Vision](https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Tunnel Vision](https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV) | 2:59 |
-| 19 | [No Jodeci](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [No Jodeci](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
+| 19 | [NO JODECI](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [NO JODECI](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
 | 20 | [RAX](https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [RAX](https://open.spotify.com/album/01kT2Oh03HzYUpIP8nrCaM) | 2:54 |
 | 21 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
 | 22 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |

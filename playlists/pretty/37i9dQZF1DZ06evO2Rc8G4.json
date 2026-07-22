@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 174905,
+  "num_followers": 174923,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABjVFM+K7dosy2KyRg1oYE7",
+  "snapshot_id": "al1lAAAAAAAmupk7VR2LSxO/b+Bg58cH",
   "tracks": [
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Can't Get Blue Monday out of My Head",
-      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
+      "duration_ms": 213160,
+      "name": "On a Night Like This",
+      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "On a Night Like This",
-      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 233362,
       "name": "Better the Devil You Know",
       "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Can't Get Blue Monday out of My Head",
+      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,

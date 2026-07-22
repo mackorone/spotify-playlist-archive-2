@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Carly Rae Jepsen",
-  "num_followers": 2082,
+  "num_followers": 2084,
   "original_name": "Editors' Picks: Best Canadian Songs of June",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,18 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "A LITTLE VENGEANCE",
-        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/4ZTI2CeRFWD3lb5CMQREJw"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 193373,
-      "name": "DUSTY (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
+      "duration_ms": 226670,
+      "name": "GTFU",
+      "url": "https://open.spotify.com/track/7agzulCsMBrjFmxUwByrJb"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -99,18 +95,22 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/4ZTI2CeRFWD3lb5CMQREJw"
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 226670,
-      "name": "GTFU",
-      "url": "https://open.spotify.com/track/7agzulCsMBrjFmxUwByrJb"
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Heart So Open",
-        "url": "https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Otis",
-      "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "I understand you sometimes",
         "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 181840,
       "name": "Wish Upon A Sun",
       "url": "https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "Heart So Open",
+        "url": "https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
         "name": "Four Days in June",
         "url": "https://open.spotify.com/album/0mESueswYCXof6azv7pUjs"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-07-03 03:21:47",
       "album": {
-        "name": "Traveling Blues",
-        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
-      },
-      "artists": [
-        {
-          "name": "Evan Roderick",
-          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Traveling Blues",
-      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
         "name": "it's all a mess!",
         "url": "https://open.spotify.com/album/6wPK2AZAx7gi2pGuL5CJ1V"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 209256,
       "name": "mess in a dress",
       "url": "https://open.spotify.com/track/5XKXxYFSMTstk992dG9gS3"
-    },
-    {
-      "added_at": "2026-07-03 03:21:47",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 337719,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
     },
     {
       "added_at": "2026-07-03 03:21:47",
@@ -767,6 +751,22 @@
       "duration_ms": 110221,
       "name": "EVIDENT 2 ME",
       "url": "https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu"
+    },
+    {
+      "added_at": "2026-07-03 03:21:47",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 337719,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
     },
     {
       "added_at": "2026-07-03 03:21:47",

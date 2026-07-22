@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-1,625 songs - 4 day 2 hr 38 min
+1,626 songs - 4 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Line in the Dust](https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Mat Welsh](https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft) | [A Line in the Dust](https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv) | 3:55 | 2025-01-31 | 2025-04-26 |
 | [A Martyr Left Alive](https://open.spotify.com/track/5qKd0ISYELSquDcuD0DDxf) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Heaven Let Them Die](https://open.spotify.com/album/6Z0M0d8DCy1RjO0G91zrr7) | 3:40 | 2024-11-08 | 2025-01-18 |
 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 | 2024-03-01 | 2025-07-23 |
+| [A Moment Gone Too Soon](https://open.spotify.com/track/3emabobKgb0aRxBbnOOet0) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [A Moment Gone Too Soon](https://open.spotify.com/album/5oTYYDWESXVkEzUoEh5Ppf) | 4:52 | 2026-07-17 |  |
 | [A Night in Hell](https://open.spotify.com/track/78dflnXmmb9kBDNk7XIdYn) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [A Night in Hell](https://open.spotify.com/album/1W4QsTaFs8zjnQg2mhizEk) | 3:32 | 2022-07-13 | 2022-07-23 |
 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/03bMtNTGGn75YAMuiNT4zM) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/album/0YJse223Mkv5Ie0nTU4r3v) | 3:23 | 2024-03-01 | 2024-04-01 |
 | [A Pale Light Lingers \(feat\. Lochie Keogh\)](https://open.spotify.com/track/0NuzLCfyqRnN8hAgw7rAPJ) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Death Is Little More](https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ) | 3:23 | 2024-03-08 | 2024-04-13 |
@@ -1095,7 +1096,7 @@
 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 | 2022-07-08 | 2023-07-15 |
 | [Pulling Strings](https://open.spotify.com/track/3kRGThi5QgTKH40CVgneXb) | [Pincer+](https://open.spotify.com/artist/17Lq3rzrL1Fn7cmPXfqEOe) | [Pulling Strings](https://open.spotify.com/album/7wIyBvhd0CJU3Bqi7tVB9Z) | 3:22 | 2024-06-04 | 2024-07-13 |
 | [PULSE](https://open.spotify.com/track/2fydlHvn1tdisIxpwUkg5Y) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/5q3E6Odlt47Ha0UiUIepon) | 3:20 | 2024-02-23 | 2024-06-05 |
-| [Pump Action Catatonia](https://open.spotify.com/track/0XbBQLhk9563TkTjgDgnno) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Pump Action Catatonia](https://open.spotify.com/album/5krb0Ap4CyW2DKHNSxU1ka) | 2:32 | 2026-03-10 |  |
+| [Pump Action Catatonia](https://open.spotify.com/track/0XbBQLhk9563TkTjgDgnno) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Pump Action Catatonia](https://open.spotify.com/album/5krb0Ap4CyW2DKHNSxU1ka) | 2:32 | 2026-03-10 | 2026-07-22 |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2021-12-17 | 2022-07-23 |
 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 | 2026-06-16 |  |
 | [Pure Leaf](https://open.spotify.com/track/4jyG58O8zHggRN8A3mT6oh) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Deo Gratias](https://open.spotify.com/album/0FiZOFkh6fw3C4DTD5cyKF) | 4:55 | 2026-06-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,428 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,485 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 42 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
 | 43 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
 | 44 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
-| 45 | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN) | 6:23 |
-| 46 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 45 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 46 | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [No Deserto \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN) | 6:23 |
 | 47 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 48 | [Na Mesa do Rei \- Ao Vivo](https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Na Mesa do Rei \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco) | 5:39 |
 | 49 | [Jesus Voltará](https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Jesus Voltará](https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy) | 4:24 |

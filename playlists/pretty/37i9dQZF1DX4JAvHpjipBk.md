@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Gracie Abrams, Steve Lacy, Lil Baby, Bella Kay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,607,537 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,607,197 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 36 | [If You Could Talk](https://open.spotify.com/track/6VeZUUTHx67EmtTM4682eA) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [If You Could Talk](https://open.spotify.com/album/269QpgbtjTpHHPGdZlLany) | 3:55 |
 | 37 | [Dream Girl](https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [PIXIE](https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq) | 3:23 |
 | 38 | [if you wanna know](https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [if you wanna know](https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3) | 2:58 |
-| 39 | [First Day Out](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise](https://open.spotify.com/artist/13dylTS1533xEY3bxSUg31) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
+| 39 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 40 | [Adicción](https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:53 |
 | 41 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
 | 42 | [Weekend](https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Weekend](https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq) | 2:33 |

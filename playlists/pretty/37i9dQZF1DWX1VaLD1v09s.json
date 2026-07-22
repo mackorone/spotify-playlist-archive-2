@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87588,
+  "num_followers": 87585,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Christ Be Magnified",
         "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 302011,
       "name": "Christ Be Magnified",
       "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -871,34 +855,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/2fezbaVpWGGtsIvs8vHZLA"
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
       "artists": [
         {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 310293,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -923,6 +891,38 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/2fezbaVpWGGtsIvs8vHZLA"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Hymns: Easter",
-        "url": "https://open.spotify.com/album/3NRkVTr79K7RLR8JCQCikQ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "Christ the Lord is Risen Today",
-      "url": "https://open.spotify.com/track/1jErRhC4lepiq76hLPFFTj"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Lead Me to the Cross",
         "url": "https://open.spotify.com/album/7AHlPi8rCQYCndkrdQN14E"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 271640,
       "name": "Lead Me To the Cross",
       "url": "https://open.spotify.com/track/4coyTsdD4WcknP6e9uLAO0"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Hymns: Easter",
+        "url": "https://open.spotify.com/album/3NRkVTr79K7RLR8JCQCikQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "Christ the Lord is Risen Today",
+      "url": "https://open.spotify.com/track/1jErRhC4lepiq76hLPFFTj"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Signature of Divine (Yahweh)",
+      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Calvary",
         "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 265688,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Signature of Divine (Yahweh)",
-      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "All Sufficient Merit (Live)",
-        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 330502,
-      "name": "All Sufficient Merit - Live",
-      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 190560,
       "name": "Lay 'Em Down",
       "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "All Sufficient Merit (Live)",
+        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "At The Cross",
-        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Hallelujah for the Cross",
         "url": "https://open.spotify.com/album/4EPgdHhYtLpO3FpRvh6d0y"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 209687,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Mattea Bret",
-          "url": "https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Resurrect (John 20)",
-      "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "LIVE FROM IO WKND",
         "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 312898,
       "name": "How Great The Love Of God - Live",
       "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Mattea Bret",
+          "url": "https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Resurrect (John 20)",
+      "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "You Amaze Us",
-        "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Two Coasts for Comfort",
         "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 205026,
       "name": "Were You There",
       "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "You Amaze Us",
+        "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/6AtVOclIAk1nl4QP6jtGhw"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "There Is Power In The Blood",
-      "url": "https://open.spotify.com/track/4RDn6gWVUpJkMC3iQAOujz"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "JESUS",
         "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 200120,
       "name": "JESUS",
       "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/6AtVOclIAk1nl4QP6jtGhw"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "There Is Power In The Blood",
+      "url": "https://open.spotify.com/track/4RDn6gWVUpJkMC3iQAOujz"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/70x3zMErhDJEzh7pGw6ICv"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Human Emergency",
         "url": "https://open.spotify.com/album/0L1qTUGKBZjnTDGnxFZiHk"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 325840,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/3JH5WC01VGxAjTLJHVNL8v"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/70x3zMErhDJEzh7pGw6ICv"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Crown Him With Many Crowns",
-        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
-      },
-      "artists": [
-        {
-          "name": "Nathan Drake",
-          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
-        }
-      ],
-      "duration_ms": 254479,
-      "name": "Crown Him With Many Crowns",
-      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "RESURRECTION HERE",
         "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Crown Him With Many Crowns",
+        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "duration_ms": 254479,
+      "name": "Crown Him With Many Crowns",
+      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Good News (Live)",
+        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 266632,
+      "name": "Good News - Live",
+      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "In The Resurrection",
         "url": "https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW"
       },
@@ -2555,22 +2571,6 @@
       "duration_ms": 267860,
       "name": "In The Resurrection",
       "url": "https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
     },
     {
       "added_at": "2026-04-04 06:04:53",

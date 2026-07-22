@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 523 likes - 90 songs - 5 hr 45 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 524 likes - 92 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 88 | [Lie to Me](https://open.spotify.com/track/11bJzwUqkH2CgVFFV16PGF) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Lie to Me](https://open.spotify.com/album/609u2yxLvVYULfkxZmOzXR) | 4:31 |
 | 89 | [Night Souls.](https://open.spotify.com/track/17ZiSP3MD7bGbjigAWDuuR) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Unfinished Dreams.](https://open.spotify.com/album/5QJ89klD5afW3F1u0G5HQt) | 4:31 |
 | 90 | [No Regrets](https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:02 |
+| 91 | [Here We Go Again](https://open.spotify.com/track/6wrZA2E3cSbhfJdjUf8aSe) | [Lightwatch](https://open.spotify.com/artist/6TBlskhMOQ1aQ7xFJIGfJU) | [Here We Go Again](https://open.spotify.com/album/5veh7nQUmPS23xMqA6hf8w) | 2:54 |
+| 92 | [Welcome to the Show](https://open.spotify.com/track/42ewg8Q9PpXjFAdb38OGUf) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Welcome to the Show](https://open.spotify.com/album/1RMWL1k3UJ9pLP8UHGagEE) | 4:01 |
 
-Snapshot ID: `AAACDFjZZOe3ICjX7bobykw8bIxGF2vS`
+Snapshot ID: `AAACDhCPE60oC1yK4JR0XUkZwDeM54bO`

@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1553,
+  "num_followers": 1565,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASDPNoCugF933SxWdSqtZHmFFJ5Dca",
+  "snapshot_id": "AAASF5lQrZudszaGhkvdMVBR4O8TVGCu",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/1Ts9V7Hx4VthjXi0nEvrtm"
     },
     {
+      "added_at": "2026-04-22 14:07:35",
+      "album": {
+        "name": "Get Motivated",
+        "url": "https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT"
+      },
+      "artists": [
+        {
+          "name": "Deaf Romero",
+          "url": "https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Get Motivated",
+      "url": "https://open.spotify.com/track/3kravhCwMvloxttZIygnMo"
+    },
+    {
       "added_at": "2026-05-12 03:36:45",
       "album": {
         "name": "Swarm Without A Spine",
@@ -71,22 +87,6 @@
       "duration_ms": 156000,
       "name": "captain oblivious",
       "url": "https://open.spotify.com/track/4HZks0OCQtWbrjh8MbgZtH"
-    },
-    {
-      "added_at": "2026-04-22 14:07:35",
-      "album": {
-        "name": "Get Motivated",
-        "url": "https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT"
-      },
-      "artists": [
-        {
-          "name": "Deaf Romero",
-          "url": "https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Get Motivated",
-      "url": "https://open.spotify.com/track/3kravhCwMvloxttZIygnMo"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -175,6 +175,22 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-07-21 11:38:14",
+      "album": {
+        "name": "we painted the sky red",
+        "url": "https://open.spotify.com/album/67NFxoYscUDm3CjjWjHjSO"
+      },
+      "artists": [
+        {
+          "name": "Kiro's Stigma",
+          "url": "https://open.spotify.com/artist/6rwMxVrw0WMBtwxiiXW5Qg"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "we painted the sky red",
+      "url": "https://open.spotify.com/track/6rAgfZQkHSiRLiX7eZDRiE"
     },
     {
       "added_at": "2026-07-20 15:25:26",
@@ -4859,6 +4875,134 @@
       "duration_ms": 191353,
       "name": "Stooge",
       "url": "https://open.spotify.com/track/1IiWQ4D1fHel6LyItcKO0Z"
+    },
+    {
+      "added_at": "2026-07-21 12:04:18",
+      "album": {
+        "name": "When It Was beautiful EP",
+        "url": "https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu"
+      },
+      "artists": [
+        {
+          "name": "Faisal Ryan",
+          "url": "https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP"
+        }
+      ],
+      "duration_ms": 160763,
+      "name": "She Sighs",
+      "url": "https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa"
+    },
+    {
+      "added_at": "2026-07-21 14:18:03",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/6FOXqz2k4aI9vlRLkVMNnx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nasty Boots",
+          "url": "https://open.spotify.com/artist/4ZdTJ5fUA3yjAbkK8rvVod"
+        }
+      ],
+      "duration_ms": 245798,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0cqOxUURp0XZpMVRgLD4hr"
+    },
+    {
+      "added_at": "2026-07-21 14:19:57",
+      "album": {
+        "name": "Outcry",
+        "url": "https://open.spotify.com/album/6hqmN8hgOWAcPytCIlSdxz"
+      },
+      "artists": [
+        {
+          "name": "Sadcult",
+          "url": "https://open.spotify.com/artist/30cagb6OxXV1wv3kAfeWHJ"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Outcry",
+      "url": "https://open.spotify.com/track/4yXtjTanAXiptY0ZKtRrhk"
+    },
+    {
+      "added_at": "2026-07-21 18:38:53",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/3X14Da2e7GPK0VMaT6ZUzJ"
+      },
+      "artists": [
+        {
+          "name": "Joakim Doversk\u00e4r",
+          "url": "https://open.spotify.com/artist/5KVzy4gC3sa63hV6wZdhW0"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/7wr218NpemhLpMCWKOSMEr"
+    },
+    {
+      "added_at": "2026-07-21 18:39:41",
+      "album": {
+        "name": "100 Hod",
+        "url": "https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "100 Hod",
+      "url": "https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr"
+    },
+    {
+      "added_at": "2026-07-21 18:42:36",
+      "album": {
+        "name": "lovesong",
+        "url": "https://open.spotify.com/album/0XHZulv4MSBrgwxPO3YrKA"
+      },
+      "artists": [
+        {
+          "name": "low-key",
+          "url": "https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF"
+        }
+      ],
+      "duration_ms": 267284,
+      "name": "lovesong",
+      "url": "https://open.spotify.com/track/1UoLYlaKFAJUklsZupqpYi"
+    },
+    {
+      "added_at": "2026-07-21 18:43:50",
+      "album": {
+        "name": "PISS! PEAS! PEACE!",
+        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
+      },
+      "artists": [
+        {
+          "name": "Lovvb\u00f6mbing!",
+          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
+        }
+      ],
+      "duration_ms": 290048,
+      "name": "James Pond",
+      "url": "https://open.spotify.com/track/0bjJlbqMg6vZAsL0B3O6Sl"
+    },
+    {
+      "added_at": "2026-07-21 18:45:02",
+      "album": {
+        "name": "Auto-translate",
+        "url": "https://open.spotify.com/album/6WY0SPKAAHoX147bBIuN9i"
+      },
+      "artists": [
+        {
+          "name": "Little Less Pain",
+          "url": "https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ"
+        }
+      ],
+      "duration_ms": 239032,
+      "name": "Auto-translate",
+      "url": "https://open.spotify.com/track/5okelm2UC8FoZImYCrzHuJ"
     }
   ],
   "unique_name": "Spotify Radio",

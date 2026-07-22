@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 89662,
+  "num_followers": 89664,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -235,34 +235,22 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "Somebody (2024)",
-        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
         }
       ],
-      "duration_ms": 153518,
-      "name": "Somebody (2024)",
-      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -299,22 +287,34 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+        "name": "Somebody (2024)",
+        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
         },
         {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
         }
       ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+      "duration_ms": 153518,
+      "name": "Somebody (2024)",
+      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
-    },
-    {
-      "added_at": "2026-07-09 23:00:38",
-      "album": {
         "name": "Lauren (I Can't Stay Forever)",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 200625,
       "name": "Lauren (I Can't Stay Forever)",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2026-07-09 23:00:38",
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-07-09 23:00:38",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 170346,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/4HvBJocC5MDYL4yGnQe5jq"
+    },
+    {
+      "added_at": "2026-07-09 23:00:38",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -975,30 +975,6 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
-        "url": "https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Poppy Wright",
-          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
-        },
-        {
-          "name": "Trick Shady",
-          "url": "https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC"
-        }
-      ],
-      "duration_ms": 187965,
-      "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
-      "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
-    },
-    {
-      "added_at": "2026-07-09 23:00:38",
-      "album": {
         "name": "London's On Fire",
         "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 179076,
       "name": "London's On Fire",
       "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
+    },
+    {
+      "added_at": "2026-07-09 23:00:38",
+      "album": {
+        "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
+        "url": "https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Wright",
+          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
+        },
+        {
+          "name": "Trick Shady",
+          "url": "https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC"
+        }
+      ],
+      "duration_ms": 187965,
+      "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
+      "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
-    },
-    {
-      "added_at": "2026-07-09 23:00:38",
-      "album": {
         "name": "Finder",
         "url": "https://open.spotify.com/album/11fQed1lTippkC0Emeah41"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 206368,
       "name": "Finder - Radio-Edit",
       "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
+    },
+    {
+      "added_at": "2026-07-09 23:00:38",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "added_at": "2026-07-09 23:00:38",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-07-09 23:00:38",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2026-07-09 23:00:38",
+      "album": {
         "name": "Passion (R U Satisfied)",
         "url": "https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 193464,
       "name": "Passion (R U Satisfied)",
       "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
-    },
-    {
-      "added_at": "2026-07-09 23:00:38",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        }
-      ],
-      "duration_ms": 256406,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
       "added_at": "2026-07-09 23:00:38",

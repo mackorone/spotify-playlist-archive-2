@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21214,
+  "num_followers": 21212,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Cold As Hell",
+      "url": "https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Cold As Hell",
-      "url": "https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "You Better Not",
+      "url": "https://open.spotify.com/track/47Vgc15moDELPzmLAQSFgO"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
         "url": "https://open.spotify.com/album/1Ex8WORI18jJhswTquyWQG"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 179000,
       "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
       "url": "https://open.spotify.com/track/5eHdOS0YSYRcuNeZ9JwWVP"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "The Volunteers",
-        "url": "https://open.spotify.com/album/4AvTCepiyBgj75o8ldFp6M"
-      },
-      "artists": [
-        {
-          "name": "The Volunteers",
-          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
-        }
-      ],
-      "duration_ms": 216265,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/4m5fpN1QBvFPepYfmnXoa0"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

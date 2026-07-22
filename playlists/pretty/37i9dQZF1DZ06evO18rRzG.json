@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 440769,
+  "num_followers": 440857,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADjiU25VKmpDAukK509N/Ck",
+  "snapshot_id": "al1lAAAAAABpSnp5hfkCzcXcAZyOcXr4",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Won't Live Here",
+        "url": "https://open.spotify.com/album/4P09VbQzenU1hNYgbP1H0C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 312114,
+      "name": "Won't Live Here",
+      "url": "https://open.spotify.com/track/0GS18kfRx31TtYkLhbqrrG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 124577,
       "name": "There\u2019s a Field (That\u2019s Only Yours)",
       "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Won't Live Here",
-        "url": "https://open.spotify.com/album/4P09VbQzenU1hNYgbP1H0C"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 312114,
-      "name": "Won't Live Here",
-      "url": "https://open.spotify.com/track/0GS18kfRx31TtYkLhbqrrG"
     },
     {
       "added_at": null,

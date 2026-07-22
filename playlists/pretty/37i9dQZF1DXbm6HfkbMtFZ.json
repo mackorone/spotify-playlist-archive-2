@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 842633,
+  "num_followers": 842660,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 235870,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 216051,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "HEART OF THE MATTER",
         "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 216051,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Autoflower",
+        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "duration_ms": 184983,
+      "name": "Smoke Machine",
+      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 156537,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Autoflower",
-        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
       },
       "artists": [
         {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
         }
       ],
-      "duration_ms": 184983,
-      "name": "Smoke Machine",
-      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "If Words Were Flowers",
+        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "If Words Were Flowers",
+      "url": "https://open.spotify.com/track/2q2q3t7Eke7DoNhnxPXeDG"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Imaginary Audience",
         "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "If Words Were Flowers",
-        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "If Words Were Flowers",
-      "url": "https://open.spotify.com/track/2q2q3t7Eke7DoNhnxPXeDG"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 145881,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Sounds Good",
-        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 134702,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Sounds Good",
+        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 134702,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "My Conversation",
         "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Quadron",
-        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
-      },
-      "artists": [
-        {
-          "name": "Quadron",
-          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Picture Frame",
         "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Quadron",
+        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
+      },
+      "artists": [
+        {
+          "name": "Quadron",
+          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
     },
     {
       "added_at": "2026-05-18 19:19:44",

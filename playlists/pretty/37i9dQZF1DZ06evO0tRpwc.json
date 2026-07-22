@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37838,
+  "num_followers": 37841,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAACv8oRfp7d0rp3RxY5kdB3t",
+  "snapshot_id": "al1lAAAAAAAm9+mvldp3vT2s6y8idb/8",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhadora",
+        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215992,
+      "name": "Sonhadora",
+      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Menino de Papel",
         "url": "https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 176566,
       "name": "Menino de Papel",
       "url": "https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhadora",
-        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215992,
-      "name": "Sonhadora",
-      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 466146,
       "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 343320,
       "name": "Entrega",
       "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Llevas M\u00e1s Alto",
         "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
     },
     {
       "added_at": null,
@@ -799,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Voc\u00ea Consegue Sim",
-      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acelera e Pisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
       },
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
       },
       "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inexplic\u00e1vel",
         "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 268626,
       "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
       "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Purifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y"
     },
     {
       "added_at": null,

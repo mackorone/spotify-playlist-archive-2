@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 270082,
+  "num_followers": 270146,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "Luna Park (En Vivo)",
+        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 157387,
+      "name": "El Doctorado - En Vivo",
+      "url": "https://open.spotify.com/track/1CFTRRDmK63TyODr782deN"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 149420,
       "name": "T\u00fa, la m\u00e1s bella - En Vivo",
       "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Luna Park (En Vivo)",
-        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 157387,
-      "name": "El Doctorado - En Vivo",
-      "url": "https://open.spotify.com/track/1CFTRRDmK63TyODr782deN"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -667,38 +667,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "Festival (En Vivo)",
+        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "No Voy A Llorar / Me Enamor\u00e9",
-        "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
-        },
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194894,
-      "name": "No Voy A Llorar / Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+      "duration_ms": 628309,
+      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -723,18 +703,38 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Festival (En Vivo)",
-        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
+        "name": "No Voy A Llorar / Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 628309,
-      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
-      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
+      "duration_ms": 194894,
+      "name": "No Voy A Llorar / Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "En Vivo 2019",
         "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 186706,
       "name": "La pollera amarilla",
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -919,6 +903,22 @@
       "duration_ms": 362235,
       "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
       "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo en Fantastico Bailable",
         "url": "https://open.spotify.com/album/0HEBwnZSYuJ0MoMnFqGeoS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 216449,
       "name": "No Me Arrepiento de Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/5QAAcj7DhjZr7LmHTPWJYW"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 79516,
-      "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 177739,
       "name": "No Llores - En Vivo",
       "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 79516,
+      "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 184618,
       "name": "Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1255,22 +1271,6 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "El Viejo De Arriba",
-        "url": "https://open.spotify.com/album/0MCl48IHftGB5dAq8puKhL"
+        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
+        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
       "artists": [
         {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         },
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 231898,
-      "name": "El Viejo De Arriba",
-      "url": "https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh"
+      "duration_ms": 208613,
+      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
+      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
-        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
+        "name": "El Viejo De Arriba",
+        "url": "https://open.spotify.com/album/0MCl48IHftGB5dAq8puKhL"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
         },
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
-      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+      "duration_ms": 231898,
+      "name": "El Viejo De Arriba",
+      "url": "https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh"
     },
     {
       "added_at": "2026-06-23 12:55:28",

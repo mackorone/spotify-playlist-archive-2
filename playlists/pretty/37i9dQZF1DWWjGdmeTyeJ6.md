@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring James Ivy\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,360 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,308 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [DIVINE FEMININE](https://open.spotify.com/track/0Yv08hg2EZlCdjvxKzWEi4) | [BLONDETING](https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2) | [DIVINE FEMININE](https://open.spotify.com/album/541TMYij93d4iZse3nZoX1) | 2:58 |
 | 53 | [I'm lazy I admit](https://open.spotify.com/track/6dyM4zdPRb4owAVwWNs7KH) | [salome](https://open.spotify.com/artist/6GE3unpsgnsxtWaVr9rvnW) | [Say less](https://open.spotify.com/album/0VfVUXaAPuc8fEbKN5e6S5) | 2:54 |
 | 54 | [dimples](https://open.spotify.com/track/0Jc9os5dYkPGRdEBxhH76B) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi) | [dimples](https://open.spotify.com/album/6p6c3hadee16PIEBhEv40S) | 1:40 |
-| 55 | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
+| 55 | [HUT](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
 | 56 | [i bleed, you bleed](https://open.spotify.com/track/6xKFV2U6S64OgFiXy6d3m0) | [Bby Kell](https://open.spotify.com/artist/5WRWYkfhIvW4PULAcT4Owq) | [GIRLY POP](https://open.spotify.com/album/6YAVVj3nrnhhN96rz91D0Z) | 1:55 |
 | 57 | [Irish Goodbye](https://open.spotify.com/track/53xNq9tMCcCHHPVSa5VTQs) | [STAB](https://open.spotify.com/artist/4U3Uica7GFiJrXV3q6C3Xy) | [Irish Goodbye](https://open.spotify.com/album/1rPlrXA6bUG2d9mWldd48B) | 2:45 |
 | 58 | [Tunnel To Our Bliss](https://open.spotify.com/track/2fXWdC9DOlJY4TE0d180L4) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Tunnel To Our Bliss](https://open.spotify.com/album/3exZ6BpxUPnZJCDwqNvRmM) | 3:59 |

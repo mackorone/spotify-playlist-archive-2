@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 383530,
+  "num_followers": 383579,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABHntm2hfK27TugriISiW6R",
+  "snapshot_id": "al1lAAAAAAD7+LQVt9Nw2WmrUHRTqs0F",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy! (feat. Kenia OS)",
-        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165963,
-      "name": "Bad Boy! - feat. Kenia OS",
-      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy! (feat. Kenia OS)",
+        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165963,
+      "name": "Bad Boy! - feat. Kenia OS",
+      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
     },
     {
       "added_at": null,

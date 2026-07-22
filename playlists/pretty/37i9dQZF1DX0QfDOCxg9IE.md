@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,090 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,093 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 18 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
 | 19 | [KLEIDIA](https://open.spotify.com/track/5XM5BN2S3HLTaK4wvC7RZe) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [SNIK X TRANNOS](https://open.spotify.com/album/7xe9ZWRqgcJW2cXoImcKZl) | 2:54 |
 | 20 | [FREAKED OUT \- AFTER HOURS SLOWED](https://open.spotify.com/track/4rA1eFkTg7ngYpBf1KjkMg) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 3:00 |
-| 21 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Christodoulos Siganos](https://open.spotify.com/artist/58sGq7JvkffIwPwbIpSu7H) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
+| 21 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
 | 22 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [DISPLAY](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 23 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 24 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,736 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,739 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
-| 2 | [First Day Out](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise](https://open.spotify.com/artist/13dylTS1533xEY3bxSUg31) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
+| 2 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 3 | [Trippin on a Yacht](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
 | 4 | [SATELLITE HIGH](https://open.spotify.com/track/4yB1UflFgktqx3BsDmcvwL) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [SATELLITE HIGH](https://open.spotify.com/album/5sDs8MwD2pt5E2Giqiyerw) | 2:12 |
 | 5 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |

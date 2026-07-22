@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 531950,
+  "num_followers": 532029,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAA0k70K4tk4PvtInHvlqFtU",
+  "snapshot_id": "al1lAAAAAABdQQR186+C4C3h+0eNOA+a",
   "tracks": [
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "Felic\u00edtalo",
+        "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 180096,
-      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
+      "duration_ms": 186226,
+      "name": "Felic\u00edtalo",
+      "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Felic\u00edtalo",
-        "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 186226,
-      "name": "Felic\u00edtalo",
-      "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
+      "duration_ms": 180096,
+      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
     },
     {
       "added_at": null,

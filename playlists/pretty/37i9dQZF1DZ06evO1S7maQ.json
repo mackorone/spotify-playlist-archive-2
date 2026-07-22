@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 666189,
+  "num_followers": 666218,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAiqheQwjk8agMOaxVKWNKK",
+  "snapshot_id": "al1lAAAAAACBxqIIaTqQzpVff952sWPR",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruce Springsteen & The E Street Band Live 1975-85",
         "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 390320,
       "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
       "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,196 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,205 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 67 | [Pampero \- Edit](https://open.spotify.com/track/6kT1CvtGJM9NHwS9vYvYJh) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Battle Of Pampero \(Edit\)](https://open.spotify.com/album/7cEaOvaXNsWkeTl5n2RTpj) | 2:51 |
 | 68 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
 | 69 | [Remember Me \- Franky Rizardo Remix](https://open.spotify.com/track/6ahUlke5XTcNsBeafd2Fih) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Remember Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/7Iee6IcRwerVNTOb8u9MqW) | 5:01 |
-| 70 | [Yallah \- Musique de Fëte, Vol\. 5](https://open.spotify.com/track/1mU4XBWXnzHWcpX6LsdSYM) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Musique de Fëte](https://open.spotify.com/artist/5WSUo5rvcvi9uNBmnk947E) | [Yallah \(Musique de Fëte, Vol\. 5\)](https://open.spotify.com/album/5Qo09Piln9TMlbpTuFdKPg) | 2:43 |
+| 70 | [Yallah \- Vol\. 5](https://open.spotify.com/track/1mU4XBWXnzHWcpX6LsdSYM) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Musique de Fëte](https://open.spotify.com/artist/5WSUo5rvcvi9uNBmnk947E) | [Yallah \(Musique de Fëte, Vol\. 5\)](https://open.spotify.com/album/5Qo09Piln9TMlbpTuFdKPg) | 2:43 |
 | 71 | [What The F](https://open.spotify.com/track/3aCSgsFpGhy4Ne91Wl1AWa) | [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX) | [What The F](https://open.spotify.com/album/6r03kjrICqrRxKkgnh4knW) | 5:52 |
 | 72 | [After En Cali](https://open.spotify.com/track/3wqlO3v1swLDl7epNTcThh) | [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [ROULETTE ROULOTTE](https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA) | 6:28 |
 | 73 | [Set Me Free](https://open.spotify.com/track/7Kr9bRfUQ7XP5RU26uTrCU) | [Assayag](https://open.spotify.com/artist/4QzEBswkEOjPlHiVmaF2Nm) | [Make 'Em](https://open.spotify.com/album/4gVGkPopRK4yKzpxUP0raW) | 4:58 |

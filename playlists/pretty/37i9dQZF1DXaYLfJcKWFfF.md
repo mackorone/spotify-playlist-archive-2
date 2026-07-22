@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,601 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,610 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 30 | [Exit Signs](https://open.spotify.com/track/1AUn3FMh5YsMB9Kv37097W) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [Exit Signs](https://open.spotify.com/album/03u4t8s1QezNAXlVLQobii) | 4:46 |
 | 31 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 32 | [Running](https://open.spotify.com/track/2882IVT2uMwSdlDpi8gbUT) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Running](https://open.spotify.com/album/4lnIg2FghrzIFd5sVpq7K5) | 3:34 |
-| 33 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
+| 33 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
 | 34 | [Expiry](https://open.spotify.com/track/471xYWSi7bUgkD3xYrbOl7) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [Expiry](https://open.spotify.com/album/1O2OWeGOolahIVjZzawhyp) | 4:21 |
 | 35 | [infrunayou](https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [infrunayou](https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf) | 2:24 |
 | 36 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 42 | [Killer](https://open.spotify.com/track/6c38SPfKudn76YKBDy60cL) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Killer](https://open.spotify.com/album/4cL9lVAmKtRqA1hC8nNwe5) | 3:28 |
 | 43 | [Rabbit Hole](https://open.spotify.com/track/6uZhBQRPCVOvMs9g58EEm1) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Malice in Wonderland \(Deluxe\)](https://open.spotify.com/album/4njgWtWmM9y6EVA7HohLTT) | 2:37 |
 | 44 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
-| 45 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
+| 45 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
 | 46 | [Unloved](https://open.spotify.com/track/6JDDPUvENdRLOyfpLGPLif) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs), [two.cozyy](https://open.spotify.com/artist/5VaI5ZkKSmiL5GeQWhlCCH) | [Unloved](https://open.spotify.com/album/6aXzs8k5WXmJMlVoxSQrsd) | 3:41 |
 | 47 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 48 | [Burn](https://open.spotify.com/track/6GEsX9hkY1PnmXKVwHWfG8) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Burn](https://open.spotify.com/album/1b5a25IOKqULsVhZilxxd1) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 112851,
+  "num_followers": 112861,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "First Born Daughter",
-        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 225641,
-      "name": "First Born Daughter",
-      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "Joy",
@@ -395,6 +379,22 @@
       "duration_ms": 214534,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "First Born Daughter",
+        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 225641,
+      "name": "First Born Daughter",
+      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
     },
     {
-      "added_at": "2026-04-27 06:02:35",
+      "added_at": "2026-07-09 15:00:39",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+        "name": "Beaches In Tennessee",
+        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+      "duration_ms": 196440,
+      "name": "Beaches In Tennessee",
+      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
     },
     {
       "added_at": "2026-07-09 15:00:39",
@@ -699,6 +699,22 @@
       "duration_ms": 207544,
       "name": "\u305f\u308a\u306a\u3044",
       "url": "https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -731,22 +747,6 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2026-07-09 15:00:39",
-      "album": {
-        "name": "Beaches In Tennessee",
-        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Beaches In Tennessee",
-      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 245157,
-      "name": "Casket Girl",
-      "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
         "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 200511,
       "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
       "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 245157,
+      "name": "Casket Girl",
+      "url": "https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Kicking My Feet & Screaming",
-        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 184417,
-      "name": "Faking Smiles",
-      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
-    },
-    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
@@ -1209,6 +1193,22 @@
       "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
     },
     {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Kicking My Feet & Screaming",
+        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 184417,
+      "name": "Faking Smiles",
+      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "MAGIC",
@@ -1223,22 +1223,6 @@
       "duration_ms": 249796,
       "name": "\u30a4\u30c1\u30d6\u30c8\u30bc\u30f3\u30d6",
       "url": "https://open.spotify.com/track/3IYcbagYZ9z1Svaw8B33Pd"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Cold Night",
-        "url": "https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI"
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192994,
-      "name": "Cold Night",
-      "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1303,6 +1287,22 @@
       "duration_ms": 207958,
       "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
       "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Cold Night",
+        "url": "https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 192994,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
     },
     {
       "added_at": "2026-06-25 15:55:52",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
     },
     {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
-        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
-      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "The Crowd Was Singing Wonderwall",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/5SM9Ykd2q8xfv1LBlVFlhz"
+        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 326440,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/5LkWXxDxUTwEVHL0pfKL55"
+      "duration_ms": 208937,
+      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
+      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1399,6 +1383,22 @@
       "duration_ms": 226489,
       "name": "Nagisa",
       "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/5SM9Ykd2q8xfv1LBlVFlhz"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 326440,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/5LkWXxDxUTwEVHL0pfKL55"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Until The Sun Explodes",
-        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "F.T.R.",
-      "url": "https://open.spotify.com/track/072A4O5qlR3zgf8hVQtssX"
-    },
-    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "Frankenstein",
@@ -1479,6 +1463,22 @@
       "duration_ms": 202248,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "F.T.R.",
+      "url": "https://open.spotify.com/track/072A4O5qlR3zgf8hVQtssX"
     },
     {
       "added_at": "2026-07-02 15:00:08",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Dollar Bill",
-        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "Closer",
@@ -1547,6 +1531,22 @@
       "duration_ms": 189677,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Dollar Bill",
+        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/0GJ9W1TSQzbxAgCCX2xc6d"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "\u4eba\u751f",
-        "url": "https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "\u30a2\u30d7\u30ed\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "\u732b\u3058\u3083\u3089\u3057",
@@ -1611,6 +1595,22 @@
       "duration_ms": 167173,
       "name": "\u732b\u3058\u3083\u3089\u3057",
       "url": "https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "\u4eba\u751f",
+        "url": "https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "\u30a2\u30d7\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/1XDwra3xIpNDtiFK9Dgxhf"
     },
     {
       "added_at": "2026-04-27 06:02:35",

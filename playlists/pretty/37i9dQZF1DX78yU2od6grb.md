@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,107 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,033 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 43 | [All The Lies](https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies](https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF) | 2:59 |
 | 44 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
 | 45 | [THE END](https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [THE END](https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e) | 3:26 |
-| 46 | [You Need To Calm Down \- Clean Bandit Remix](https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [You Need To Calm Down \(Clean Bandit Remix\)](https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj) | 2:32 |
-| 47 | [Nobody](https://open.spotify.com/track/736MgYHdLtKTBKGJTutpGz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Nobody](https://open.spotify.com/album/2IOxCs33hAnjIQrdwJqFKb) | 3:19 |
+| 46 | [Nobody](https://open.spotify.com/track/736MgYHdLtKTBKGJTutpGz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Nobody](https://open.spotify.com/album/2IOxCs33hAnjIQrdwJqFKb) | 3:19 |
+| 47 | [You Need To Calm Down \- Clean Bandit Remix](https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [You Need To Calm Down \(Clean Bandit Remix\)](https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj) | 2:32 |
 | 48 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |
 | 49 | [Another Place](https://open.spotify.com/track/4ENLZqdPMDub5us6YLSAKa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:31 |
 | 50 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |

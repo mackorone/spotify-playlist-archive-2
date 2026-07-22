@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Superlitio",
-  "num_followers": 87980,
+  "num_followers": 87983,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
         "name": "La Teta Pirata",
         "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 271691,
       "name": "La Teta Pirata",
       "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Mar de Hiladas",
-        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
-      },
-      "artists": [
-        {
-          "name": "Babelgam",
-          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "T\u00fanel",
-      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Nube Gris",
         "url": "https://open.spotify.com/album/7jb3VnmnKW2sqFArnvtUdu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 237360,
       "name": "Nube Gris",
       "url": "https://open.spotify.com/track/0wbpgy75oAEP13Huibdiwn"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "Mar de Hiladas",
+        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
+      },
+      "artists": [
+        {
+          "name": "Babelgam",
+          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "T\u00fanel",
+      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
+      },
+      "artists": [
+        {
+          "name": "Cielito Drive",
+          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 197886,
       "name": "Prende",
       "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
-        "name": "Lockdownska",
-        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
-      },
-      "artists": [
-        {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Lockdownska",
-      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
+        "name": "Lockdownska",
+        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
       "artists": [
         {
-          "name": "Cielito Drive",
-          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+      "duration_ms": 219506,
+      "name": "Lockdownska",
+      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+        "name": "Los Kitsch de Colombia Presentan: 1/3",
+        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
       },
       "artists": [
         {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+          "name": "The Kitsch",
+          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+      "duration_ms": 155000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Los Kitsch de Colombia Presentan: 1/3",
-        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
       "artists": [
         {
-          "name": "The Kitsch",
-          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
         }
       ],
-      "duration_ms": 155000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
-      },
-      "artists": [
-        {
-          "name": "Paraisso",
-          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
-        }
-      ],
-      "duration_ms": 217002,
-      "name": "Momento de Escapar",
-      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Stallone",
         "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 340856,
       "name": "Drowned",
       "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
+      },
+      "artists": [
+        {
+          "name": "Paraisso",
+          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Momento de Escapar",
+      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
     },
     {
       "added_at": "2026-04-24 04:59:15",

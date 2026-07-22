@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,448 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,509 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 79 | [Rise](https://open.spotify.com/track/6Rn7XvdISRVVESW8b8qmKo) | [Kate Stanford](https://open.spotify.com/artist/4BVwjeV33enWxFuRSwMNpk) | [Rise](https://open.spotify.com/album/2hJ7Prd23HfcF3KI2HQc2y) | 3:17 |
 | 80 | [Paths](https://open.spotify.com/track/1fR3dT23kscB6N9Y2xmcYB) | [TeenStreet Worship](https://open.spotify.com/artist/5QLXWYkK6YKyhnQYriMp4k), [Mylie Miller](https://open.spotify.com/artist/5uCAG3YYqydkmVcX1sCLND) | [Paths](https://open.spotify.com/album/5QYE1t8NMJwWaAJyWY8ylB) | 4:18 |
 
-Snapshot ID: `AAAAAGLXXWmTfZ+KrV7L/N4KsqxCOnHH`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,458 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,459 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 30 | [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vrijplaats II](https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts) | 3:01 |
 | 31 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
 | 32 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
-| 33 | [Opscheer](https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Opscheer](https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz) | 2:48 |
-| 34 | [GEEN BEEST](https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [GEEN BEEST](https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk) | 2:25 |
+| 33 | [GEEN BEEST](https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [GEEN BEEST](https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk) | 2:25 |
+| 34 | [Opscheer](https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Opscheer](https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz) | 2:48 |
 | 35 | [Niks is zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 |
 | 36 | [Vlammen!](https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Vlammen!](https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE) | 2:45 |
 | 37 | [Iedereen](https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [De zachte krachten](https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9) | 2:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 46 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
 | 47 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 48 | [Kan Ik Zoveel?](https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Kan Ik Zoveel? / Dingen Mis Met De Auto](https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC) | 3:54 |
-| 49 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
-| 50 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
+| 49 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
+| 50 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 
 Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

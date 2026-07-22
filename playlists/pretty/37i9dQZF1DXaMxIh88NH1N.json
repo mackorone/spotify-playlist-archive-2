@@ -1,12 +1,12 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 223023,
+  "num_followers": 223058,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7wkrVkPrPW6Hs0eTorlQr3Q1Tz",
+  "snapshot_id": "AAAAADu8oEe7iMjRmdLh6IW9gQipfxUS",
   "tracks": [
     {
       "added_at": "2026-07-13 08:34:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
-        "name": "Vision De Tunel",
-        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 172890,
-      "name": "Vision De Tunel",
-      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
         "name": "Haciendo Memoria",
         "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
+        "name": "Vision De Tunel",
+        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 172890,
+      "name": "Vision De Tunel",
+      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
     },
     {
       "added_at": "2026-07-13 08:34:14",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
+        "name": "Lo Logre",
+        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 194078,
+      "name": "Lo Logre",
+      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
         "name": "FERRARI",
         "url": "https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 134181,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
-        "name": "Lo Logre",
-        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 194078,
-      "name": "Lo Logre",
-      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
     },
     {
       "added_at": "2026-07-13 08:34:14",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
-        "name": "Yo Vengo De La Nada",
-        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 156807,
-      "name": "Yo Vengo De La Nada",
-      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 212382,
       "name": "Perdon Mama",
       "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-07-13 08:34:14",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
-        "name": "AG\u00dcITADO",
-        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 168034,
-      "name": "AG\u00dcITADO",
-      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
         "name": "LA NETA",
         "url": "https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 186450,
       "name": "LA NETA",
       "url": "https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
+        "name": "AG\u00dcITADO",
+        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 168034,
+      "name": "AG\u00dcITADO",
+      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
     },
     {
       "added_at": "2026-07-13 08:34:14",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "La Vida Ruina",
-      "url": "https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
         "name": "L\u00edricas De Oro",
         "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 146839,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "La Vida Ruina",
+      "url": "https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf"
     },
     {
       "added_at": "2026-07-13 08:34:14",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-07-13 08:34:14",
       "album": {
-        "name": "Rigo Campos",
-        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 227275,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
-    },
-    {
-      "added_at": "2026-07-13 08:34:14",
-      "album": {
         "name": "Somos Los Que Somos (En Vivo)",
         "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
+    },
+    {
+      "added_at": "2026-07-13 08:34:14",
+      "album": {
+        "name": "Rigo Campos",
+        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 227275,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
     }
   ],
   "unique_name": "Modo: Al Mil",

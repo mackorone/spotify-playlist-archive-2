@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115674,
+  "num_followers": 115682,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 268541,
+      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Rom\u00e2nticos",
         "url": "https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 219440,
       "name": "Deus Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 268541,
-      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
     },
     {
       "added_at": "2026-06-12 03:01:50",

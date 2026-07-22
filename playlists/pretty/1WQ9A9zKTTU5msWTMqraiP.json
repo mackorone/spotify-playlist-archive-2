@@ -6,7 +6,7 @@
     "name": "Hafitz",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "AAABaaopsOV7qTentY5YNlOiPjSFuOUx",
+  "snapshot_id": "AAABaus9T15w/XiIamtPEm2bXuHF1ljS",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4403,6 +4403,30 @@
       "duration_ms": 196079,
       "name": "Whispers From The Depths",
       "url": "https://open.spotify.com/track/4OWHcUBxtqgzqzj1Ci4wav"
+    },
+    {
+      "added_at": "2026-07-21 13:22:13",
+      "album": {
+        "name": "All Tomorrows",
+        "url": "https://open.spotify.com/album/4rwC1pxBqdBMx6XbI5DGNW"
+      },
+      "artists": [
+        {
+          "name": "Stoic Suffering",
+          "url": "https://open.spotify.com/artist/4cOwpPP2PHL3zpTYDKj84v"
+        },
+        {
+          "name": "Chaney Crabb",
+          "url": "https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ"
+        },
+        {
+          "name": "Denis Stoff",
+          "url": "https://open.spotify.com/artist/3XmBhRwWzCT9M69zxlOW6K"
+        }
+      ],
+      "duration_ms": 263100,
+      "name": "Gravital",
+      "url": "https://open.spotify.com/track/4P1PsGdElA5xtUqcieyZEM"
     }
   ],
   "unique_name": "Deathcore (2)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,487 likes - 60 songs - 3 hr 3 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,482 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 59 | [Get Slippy](https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Get Slippy](https://open.spotify.com/album/3E5sDCaFFndVN6LSZgCWRD) | 2:46 |
 | 60 | [Downtown](https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Downtown](https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU) | 3:03 |
 
-Snapshot ID: `AAAVl1PO8QpBzJzze1gYGSiJXnBLGkzL`
+Snapshot ID: `AAAVmXvVKvJrEOi9ONO2R1EGdMjQNoEB`

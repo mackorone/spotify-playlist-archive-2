@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1616643,
+  "num_followers": 1616673,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-07-10 04:01:11",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-07-10 04:01:11",
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-07-10 04:01:11",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-07-10 04:01:11",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-07-10 04:01:11",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-07-10 04:01:11",
+      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
-    },
-    {
-      "added_at": "2026-07-10 04:01:11",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-07-10 04:01:11",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2026-07-10 04:01:11",
       "album": {
-        "name": "Start A Fire",
-        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 217523,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2026-07-10 04:01:11",
-      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1951,22 +1931,22 @@
     {
       "added_at": "2026-07-10 04:01:11",
       "album": {
-        "name": "Enjoy the Silence",
-        "url": "https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs"
+        "name": "Start A Fire",
+        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
       "artists": [
         {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
         }
       ],
-      "duration_ms": 209508,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e"
+      "duration_ms": 217523,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
     },
     {
       "added_at": "2026-07-10 04:01:11",
@@ -1991,22 +1971,42 @@
     {
       "added_at": "2026-07-10 04:01:11",
       "album": {
-        "name": "It's All On You",
-        "url": "https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe"
+        "name": "Enjoy the Silence",
+        "url": "https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs"
       },
       "artists": [
         {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
         }
       ],
-      "duration_ms": 223761,
-      "name": "It\u2019s All On You",
-      "url": "https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg"
+      "duration_ms": 209508,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e"
+    },
+    {
+      "added_at": "2026-07-10 04:01:11",
+      "album": {
+        "name": "Love Shop",
+        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        }
+      ],
+      "duration_ms": 211273,
+      "name": "Love Shop",
+      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
     }
   ],
   "unique_name": "Night Rider",

@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 192471,
+  "num_followers": 192481,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 275719,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Wind Parade",
         "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 275719,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Safe In My Arms",
-      "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Safe In My Arms",
+      "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Try Repeat",
+        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Try Repeat",
+      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 449774,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Try Repeat",
-        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Try Repeat",
-      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "pinky ring / red velve7",
-        "url": "https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 279762,
-      "name": "pinky ring",
-      "url": "https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "E.VAX",
         "url": "https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 155653,
       "name": "Koko",
       "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "pinky ring / red velve7",
+        "url": "https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 279762,
+      "name": "pinky ring",
+      "url": "https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ"
     },
     {
       "added_at": "2026-04-03 04:00:50",

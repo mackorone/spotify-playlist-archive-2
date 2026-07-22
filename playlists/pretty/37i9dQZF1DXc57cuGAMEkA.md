@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Gracie Abrams, Steve Lacy, beabadoobee, M!LK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,437 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,435 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 21 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 22 | [Adorable](https://open.spotify.com/track/4EqRz6Qol99ezxEKEjvoVY) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Adorable](https://open.spotify.com/album/6ZLUyMvRwranwi99OwWY92) | 4:29 |
 | 23 | [心配無用節](https://open.spotify.com/track/5IxeGVZfuJdimVMbcUfOU0) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [心配無用節](https://open.spotify.com/album/51v4TQlbPDkHBps6jpS9Cf) | 3:28 |
-| 24 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
+| 24 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
 | 25 | [Forever July](https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Forever July](https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl) | 2:41 |
 | 26 | [Mr 2026](https://open.spotify.com/track/7sPUcpeLp5Kndp9JNdJqMf) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [young tape](https://open.spotify.com/album/7ukbDW74oMJ2QCWuPgup0Z) | 2:28 |
 | 27 | [Good Times](https://open.spotify.com/track/0JslH50Zgdpf8mtO34AiHx) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/6kw0FvOg71b6xMKpOhRG9U) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2488215,
+  "num_followers": 2488342,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
         "name": "Pool (Gravagerz Version)",
         "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 125178,
       "name": "Pool - Gravagerz Version",
       "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
+        "name": "You Are My High",
+        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "You Are My High",
+      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
-        "name": "You Are My High",
-        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "You Are My High",
-      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
         "name": "Chills (Feel My Love)",
         "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 163666,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
         "name": "Mydnight",
         "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -2303,6 +2303,30 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
+        "name": "Magic With You",
+        "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "Alex Germys",
+          "url": "https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD"
+        },
+        {
+          "name": "Alex Lucas",
+          "url": "https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Magic With You",
+      "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
         "name": "What A Time To Be Alive",
         "url": "https://open.spotify.com/album/4LvKg1g7G4CjasmgZCBEaL"
       },
@@ -2343,30 +2367,6 @@
       "duration_ms": 155660,
       "name": "True Desire",
       "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
-        "name": "Magic With You",
-        "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
-      },
-      "artists": [
-        {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        },
-        {
-          "name": "Alex Germys",
-          "url": "https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD"
-        },
-        {
-          "name": "Alex Lucas",
-          "url": "https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Magic With You",
-      "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
     },
     {
       "added_at": "2026-07-17 04:00:37",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2026-07-17 04:00:37",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
-      },
-      "artists": [
-        {
-          "name": "Beau Cruz",
-          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
-    },
-    {
-      "added_at": "2026-07-17 04:00:37",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/218YMO0wlVtSOj30diRqEy"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 192034,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
+    },
+    {
+      "added_at": "2026-07-17 04:00:37",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
+      },
+      "artists": [
+        {
+          "name": "Beau Cruz",
+          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
     },
     {
       "added_at": "2026-07-17 04:00:37",

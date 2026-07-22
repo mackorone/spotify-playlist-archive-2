@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel van Gelder
 
-1,116 songs - 2 day 12 hr 6 min
+1,117 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Happy](https://open.spotify.com/track/5DMQrvxg6Rcy0z8Zl75dCh) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Lovebomber / Happy](https://open.spotify.com/album/0QZv0MTn0QwGfmKFABrCj6) | 2:08 | 2023-11-17 | 2024-03-02 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-11 |
 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 | 2022-03-18 | 2022-07-02 |
-| [Happy Meaning](https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Happy Meaning](https://open.spotify.com/album/1bdNZjZT7g7Z5d7Q9RyTSS) | 3:07 | 2026-03-20 |  |
+| [Happy Meaning](https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Happy Meaning](https://open.spotify.com/album/1bdNZjZT7g7Z5d7Q9RyTSS) | 3:07 | 2026-03-20 | 2026-07-22 |
 | [Happy To Be Sad](https://open.spotify.com/track/7H1v4mORwHtxbnxQJOa19F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Losing My Accent](https://open.spotify.com/album/2w9auyPckdEUdZ9Y57WE1I) | 2:36 | 2024-08-09 | 2024-09-28 |
 | [hate 2 hate u](https://open.spotify.com/track/2xkRBMlUc4Hxy1kHFfdrWd) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [hate 2 hate u](https://open.spotify.com/album/322qPfO5WjnNYmgpDcMtes) | 2:28 | 2026-06-05 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-07-09 |
@@ -971,6 +971,7 @@
 | [The Gift You Gave Me](https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [The Gift You Gave Me](https://open.spotify.com/album/3fknXxnIlMlk8tLRrTQxdG) | 2:49 | 2024-12-20 | 2025-04-19 |
 | [The Girl Who Cried Love](https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Blurry Vision](https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4) | 2:57 | 2024-01-19 | 2024-07-02 |
 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 | 2025-11-07 | 2026-05-23 |
+| [The Hardest Part](https://open.spotify.com/track/7woeIiSFfd9WoCMLCTYcCe) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [The Hardest Part](https://open.spotify.com/album/2mdmEHhOio4r20xJzhGocS) | 3:11 | 2026-07-21 |  |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 | 2023-08-12 |
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2024-06-15 |
 | [the man with money in his hands](https://open.spotify.com/track/05zheau3JeycC8FNZpGRSd) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [the man with money in his hands](https://open.spotify.com/album/3N2RDj3l9f1MgwpfMBoaAd) | 2:57 | 2026-04-03 |  |

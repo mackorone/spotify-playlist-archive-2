@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,195 songs - 2 day 14 hr 23 min
+1,196 songs - 2 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-09 | 2025-01-10 |
 | [Lifetimes Away \(feat\. Medina\)](https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Lifetimes Away \(feat\. Medina\)](https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL) | 3:05 | 2025-06-12 | 2025-07-04 |
 | [Lige Nu \(feat\. Artigeardit\)](https://open.spotify.com/track/7u6jj9bsecmZhI6bnATgoc) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [DINE VENNER](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 2:55 | 2024-10-10 | 2024-10-18 |
+| [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 | 2026-07-16 |  |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-03-27 | 2025-06-27 |
 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 | 2025-06-26 | 2025-08-24 |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-07-01 | 2024-08-01 |
@@ -965,7 +966,7 @@
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-04-01 |
 | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/track/6xVtp04jMDg8mFtqGBLUT9) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/album/2G7eb2SCHvx0AqhiaET7lY) | 3:26 | 2025-07-24 | 2025-09-20 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-03 | 2025-01-25 |
-| [Sprækker ft\. Søn](https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ), [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Sprækker ft\. Søn](https://open.spotify.com/album/7zB2ONGvB3muGw7oTLejpF) | 2:51 | 2026-06-11 |  |
+| [Sprækker ft\. Søn](https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ), [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Sprækker ft\. Søn](https://open.spotify.com/album/7zB2ONGvB3muGw7oTLejpF) | 2:51 | 2026-06-11 | 2026-07-22 |
 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-13 | 2026-03-20 |
 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 |  |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 | 2026-03-31 |

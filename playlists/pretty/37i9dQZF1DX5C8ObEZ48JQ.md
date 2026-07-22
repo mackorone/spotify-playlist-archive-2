@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm?si=Bs5Z5xiJRHqLwTXbvCgwQg&nd=1&dlsi=88880b1bca9d4d82">The Babaz</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9?si=a5\-6C\-sfRsa66sbzJhdn8Q&nd=1&dlsi=1e3090e5994546aa">SERRO</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,296 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,298 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salaale](https://open.spotify.com/track/0xK2BojTGxnUbSC4Ol4mgT) | [The Babaz](https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm) | [Salaale](https://open.spotify.com/album/6eUyZsLMwTaYDiwL2a85xv) | 3:11 |
+| 1 | [Ilomba](https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 5:24 |
 | 2 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
-| 3 | [Ilomba](https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 5:24 |
-| 4 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
-| 5 | [green mile](https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [Are You With Me!](https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49) | 1:25 |
+| 3 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
+| 4 | [green mile](https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [Are You With Me!](https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49) | 1:25 |
+| 5 | [Salaale](https://open.spotify.com/track/0xK2BojTGxnUbSC4Ol4mgT) | [The Babaz](https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm) | [Salaale](https://open.spotify.com/album/6eUyZsLMwTaYDiwL2a85xv) | 3:11 |
 | 6 | [Idols](https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Avant God](https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt) | 2:49 |
 | 7 | [Escapism](https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [Remaya](https://open.spotify.com/artist/6dHenbNUA9bZZKOTodNq5e) | [Escapism](https://open.spotify.com/album/7D2iwvHS001asU8te42zGR) | 2:22 |
 | 8 | [Vaseline \(On Your Collar\)](https://open.spotify.com/track/61Kcp90iGQWiZL6NIWzYhd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Vaseline \(On Your Collar\)](https://open.spotify.com/album/1Zr7Pu4Qp5crWXb4fMth3F) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [PRESS AM](https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [PRESS AM](https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj) | 2:03 |
 | 50 | [fêteRock\*](https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [fujiBouyon\*](https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT) | 3:07 |
 
-Snapshot ID: `AAAAADGdcGs1xM7TBEvwKFsXUvbdUUVG`
+Snapshot ID: `AAAAAPVUzp/AcGyT9JOL40p40KrdX+cX`

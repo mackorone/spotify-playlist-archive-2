@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Lenin",
-  "num_followers": 630477,
+  "num_followers": 630772,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsQ11UPfGUWPPzU9VF3+Jq4NYvS",
+  "snapshot_id": "AAAAADM//df0Awli84bb5heP8ziRYC0L",
   "tracks": [
     {
       "added_at": "2026-07-01 07:43:32",
@@ -35,6 +35,34 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/6D93U2TFas7TbIqbdRs7gf"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 242149,
+      "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/69HFjzMqwtoLsyZDIlf8UG"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -105,32 +133,88 @@
       "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
     },
     {
-      "added_at": "2026-07-01 07:43:32",
+      "added_at": "2026-07-21 07:20:54",
       "album": {
-        "name": "Irumudi Kattu (From \"Irumudi\")",
-        "url": "https://open.spotify.com/album/7DAcRcrJvA4MwDsDNXeRDg"
+        "name": "Jigithara (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
         },
         {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "Shiva Nirvana",
-          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
-        },
-        {
-          "name": "Kalyan Chakravarthy",
-          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
         }
       ],
-      "duration_ms": 249169,
-      "name": "Irumudi Kattu (From \"Irumudi\")",
-      "url": "https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2"
+      "duration_ms": 252074,
+      "name": "Jigithara (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
+    },
+    {
+      "added_at": "2026-06-09 10:15:39",
+      "album": {
+        "name": "Peddi (TELUGU)",
+        "url": "https://open.spotify.com/album/2qoEWcMrffZLZP82QlpOth"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 222122,
+      "name": "Massa Massa (TELUGU)",
+      "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Kattula Ballam",
+        "url": "https://open.spotify.com/album/2JmtHaQL8QUwfkffD95UrB"
+      },
+      "artists": [
+        {
+          "name": "Eswar",
+          "url": "https://open.spotify.com/artist/52Tlr9ruD6QqYh6XH6o23Z"
+        }
+      ],
+      "duration_ms": 352551,
+      "name": "Kattula Ballam",
+      "url": "https://open.spotify.com/track/31bsVfWeboAL5l3xSHWzRE"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Bonalu Song 2024",
+        "url": "https://open.spotify.com/album/0yUmr6W86SyNQScXlx2gsF"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Bikshamamma",
+          "url": "https://open.spotify.com/artist/12pGQ6efRwyPw5pmoCIvBb"
+        }
+      ],
+      "duration_ms": 264489,
+      "name": "Bonalu Song 2024",
+      "url": "https://open.spotify.com/track/55jIdsVlTXNO3UJUjs4H0s"
     },
     {
       "added_at": "2026-02-25 10:32:25",
@@ -161,6 +245,110 @@
       "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
     },
     {
+      "added_at": "2026-07-21 07:26:29",
+      "album": {
+        "name": "Kaatuka Kallakettinaave",
+        "url": "https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC"
+      },
+      "artists": [
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Kaatuka Kallakettinaave",
+      "url": "https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Jaya Mangalam (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/214iEM1yTq9JPTZ1FIh0hQ"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Vijaya Lakshmi",
+          "url": "https://open.spotify.com/artist/21tEGk5FMTStfyeJEeVSTM"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 207095,
+      "name": "Jaya Mangalam (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Super Subbu (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0n7L0UiugVxpHrwrApjKa4"
+      },
+      "artists": [
+        {
+          "name": "Anudeep Dev",
+          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Deepu",
+          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Rama Lacchimi",
+      "url": "https://open.spotify.com/track/7CH2buWerdvFFxyMoh59ME"
+    },
+    {
+      "added_at": "2026-06-23 17:48:08",
+      "album": {
+        "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
+        "url": "https://open.spotify.com/album/4r5KYA9NveiXPLJ3ISBMu0"
+      },
+      "artists": [
+        {
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        },
+        {
+          "name": "Nagavva chunchu",
+          "url": "https://open.spotify.com/artist/6IlysKkSufCASwFwGTApJB"
+        },
+        {
+          "name": "Kalyan Keys",
+          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
+      "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
+    },
+    {
       "added_at": "2026-07-13 08:27:39",
       "album": {
         "name": "Yetta Yetta (From \"Lenin\")",
@@ -185,6 +373,30 @@
       "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
     },
     {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Basinga Balaalu",
+        "url": "https://open.spotify.com/album/6LNsqUJ0iEpXj8IqB9ZbW0"
+      },
+      "artists": [
+        {
+          "name": "Swamy Naresh",
+          "url": "https://open.spotify.com/artist/1dbakjEIXSXVZyq1j4iaLx"
+        },
+        {
+          "name": "Srinidhi Nerella",
+          "url": "https://open.spotify.com/artist/1m9l2bsj6oYndpc8LF4lUn"
+        },
+        {
+          "name": "Kalyan Keys",
+          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+        }
+      ],
+      "duration_ms": 249836,
+      "name": "Basinga Balaalu",
+      "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
+    },
+    {
       "added_at": "2026-05-27 03:37:35",
       "album": {
         "name": "Hellallallo (From \"Peddi\") [TELUGU]",
@@ -207,6 +419,34 @@
       "duration_ms": 228048,
       "name": "Hellallallo (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
+    },
+    {
+      "added_at": "2026-07-21 07:20:54",
+      "album": {
+        "name": "Guruthunda (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/3ad1jliYfvb37tpEjys4JN"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 325081,
+      "name": "Guruthunda (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/6HPqFPqr1xn8jxxkTBy5HD"
     },
     {
       "added_at": "2026-07-17 10:21:27",
@@ -285,54 +525,6 @@
       "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
     },
     {
-      "added_at": "2026-06-09 10:15:39",
-      "album": {
-        "name": "Peddi (TELUGU)",
-        "url": "https://open.spotify.com/album/2qoEWcMrffZLZP82QlpOth"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 222122,
-      "name": "Massa Massa (TELUGU)",
-      "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
-    },
-    {
-      "added_at": "2026-06-23 17:48:08",
-      "album": {
-        "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
-        "url": "https://open.spotify.com/album/4r5KYA9NveiXPLJ3ISBMu0"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Nagavva chunchu",
-          "url": "https://open.spotify.com/artist/6IlysKkSufCASwFwGTApJB"
-        },
-        {
-          "name": "Kalyan Keys",
-          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
-      "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
-    },
-    {
       "added_at": "2026-04-21 07:49:59",
       "album": {
         "name": "Thassadiya (From \"Maa Inti Bangaaram\")",
@@ -383,30 +575,6 @@
       "duration_ms": 227791,
       "name": "Osa Osa",
       "url": "https://open.spotify.com/track/3oalcbjOC14l3K5G7gYzus"
-    },
-    {
-      "added_at": "2026-07-08 13:57:25",
-      "album": {
-        "name": "Crush Song (From \"Summer Holidays\")",
-        "url": "https://open.spotify.com/album/1xJsI9RDwnr2lxj42BwZXV"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 215207,
-      "name": "Crush Song - From \"Summer Holidays\"",
-      "url": "https://open.spotify.com/track/5BrghXpf2wv88Tdz74jBtD"
     },
     {
       "added_at": "2026-07-08 13:57:25",
@@ -617,26 +785,6 @@
       "url": "https://open.spotify.com/track/4byflz13vp5FTVWhLhKAty"
     },
     {
-      "added_at": "2026-06-16 09:12:52",
-      "album": {
-        "name": "Parugu",
-        "url": "https://open.spotify.com/album/5q4eIpQXgp15wpzkAhIamg"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        }
-      ],
-      "duration_ms": 279985,
-      "name": "Manakannapodichey",
-      "url": "https://open.spotify.com/track/2jsc85acffgcryq8Szk57P"
-    },
-    {
       "added_at": "2026-05-21 11:03:28",
       "album": {
         "name": "Oosaravelli",
@@ -691,50 +839,6 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
-    },
-    {
-      "added_at": "2026-05-21 11:03:28",
-      "album": {
-        "name": "Oosaravelli",
-        "url": "https://open.spotify.com/album/4C0tjIpNFfNtPh0htToFkW"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 257411,
-      "name": "Niharika",
-      "url": "https://open.spotify.com/track/5CJcRxKy346HnGXtQsdgah"
-    },
-    {
-      "added_at": "2026-04-24 10:44:03",
-      "album": {
-        "name": "Prema Kavali",
-        "url": "https://open.spotify.com/album/5v7DBOew05SdBPJ1ugRSY0"
-      },
-      "artists": [
-        {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Chirunavve Visirave",
-      "url": "https://open.spotify.com/track/0dK5tdOm07A5sWZk0uS8Ny"
     },
     {
       "added_at": "2026-05-25 11:06:23",
@@ -1045,78 +1149,6 @@
       "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
     },
     {
-      "added_at": "2026-04-22 09:15:28",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
-        }
-      ],
-      "duration_ms": 264544,
-      "name": "Telusaa Telusaa",
-      "url": "https://open.spotify.com/track/1jz0PUb4rChtZUk4Itn1Co"
-    },
-    {
-      "added_at": "2026-05-21 11:03:28",
-      "album": {
-        "name": "Andhrawala",
-        "url": "https://open.spotify.com/album/6Qbacy4YzjrODCmLOeZxro"
-      },
-      "artists": [
-        {
-          "name": "Chakri",
-          "url": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
-        },
-        {
-          "name": "Kousalya",
-          "url": "https://open.spotify.com/artist/1W9j3itOGw4WqyuZuErSqF"
-        }
-      ],
-      "duration_ms": 283715,
-      "name": "Nairey Nairey",
-      "url": "https://open.spotify.com/track/59KYXV0sB3j617D6bbUuAv"
-    },
-    {
-      "added_at": "2026-05-25 11:06:23",
-      "album": {
-        "name": "Athidhi",
-        "url": "https://open.spotify.com/album/7Gr5JwISZowhfa2CI0Nt4r"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Deepu",
-          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
-        },
-        {
-          "name": "Usha Munukutla",
-          "url": "https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "Satyam Yemito",
-      "url": "https://open.spotify.com/track/6I7t8AcvojHiXXGbQMbzpE"
-    },
-    {
       "added_at": "2025-12-02 09:12:02",
       "album": {
         "name": "Gira Gira Gingiraagirey (From \"Champion\")",
@@ -1139,34 +1171,6 @@
       "duration_ms": 283483,
       "name": "Gira Gira Gingiraagirey (From \"Champion\")",
       "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"
-    },
-    {
-      "added_at": "2026-06-04 10:09:06",
-      "album": {
-        "name": "Na Cheli Rojave (From \"Roja (Telugu)\")",
-        "url": "https://open.spotify.com/album/0KQXMaVzEVAY1utDehxVcg"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "Sujatha",
-          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Rajasri",
-          "url": "https://open.spotify.com/artist/3G5cb8bwTVQFkCWJH8n4sN"
-        }
-      ],
-      "duration_ms": 296472,
-      "name": "Na Cheli Rojave (From \"Roja (Telugu)\")",
-      "url": "https://open.spotify.com/track/6wdNGOxwjuMavsYa0PXHS2"
     },
     {
       "added_at": "2026-02-16 13:08:30",

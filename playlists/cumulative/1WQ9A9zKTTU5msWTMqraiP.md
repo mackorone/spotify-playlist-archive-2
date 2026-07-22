@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-252 songs - 17 hr 33 min
+253 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Godkiller](https://open.spotify.com/track/5jevHj1pYAHesdiWdKLG3H) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [Godkiller](https://open.spotify.com/album/7G45tdaTw0YOaCjA0MMnmZ) | 7:36 | 2022-07-11 |  |
 | [Gospel of the Kingdom](https://open.spotify.com/track/5xtOQHVlbmMD4D0fFfW98G) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Gospel of the Kingdom](https://open.spotify.com/album/3OnBlfrcfgzIi1eHTTEVGl) | 4:08 | 2018-10-06 |  |
 | [Gravemind](https://open.spotify.com/track/0c4sapweflNFS4eyWhX7gQ) | [Defect](https://open.spotify.com/artist/7Mi1Q2RuECOPEEJHFlZRMw) | [Gravemind](https://open.spotify.com/album/6e2QH1omg6J6exsfbP2gCl) | 3:03 | 2022-07-11 |  |
+| [Gravital](https://open.spotify.com/track/4P1PsGdElA5xtUqcieyZEM) | [Stoic Suffering](https://open.spotify.com/artist/4cOwpPP2PHL3zpTYDKj84v), [Chaney Crabb](https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ), [Denis Stoff](https://open.spotify.com/artist/3XmBhRwWzCT9M69zxlOW6K) | [All Tomorrows](https://open.spotify.com/album/4rwC1pxBqdBMx6XbI5DGNW) | 4:23 | 2026-07-21 |  |
 | [Grimoire](https://open.spotify.com/track/3J4lFsZ835wxMbrRIUliRU) | [The Breathing Process](https://open.spotify.com/artist/6ngRmXLPP5slPvGsnQumJh) | [Odyssey \(un\) Dead](https://open.spotify.com/album/6lKaQ2XB1X65iSYCIb33Q4) | 4:29 | 2020-09-18 |  |
 | [Grotesque Throne](https://open.spotify.com/track/58hSyNtXJ9KBZ6f7nGQyJx) | [No Signs of Life](https://open.spotify.com/artist/03t9WHYJRG1swfSu9VS5EZ) | [Grotesque Throne](https://open.spotify.com/album/2Ks6NiNSzoasDtb1xLKnQD) | 5:42 | 2023-10-17 |  |
 | [Hate Circuit](https://open.spotify.com/track/2fUR2Ci3mDYzf5vhEmYYyi) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [The Hand of Violence](https://open.spotify.com/album/40enXBgKJvinOAvduaD0n6) | 4:55 | 2020-10-15 |  |

@@ -42733,6 +42733,24 @@
     },
     {
       "album": {
+        "name": "MY SKYSCRAPER",
+        "url": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251101,
+      "name": "MY NAME IS NIGHT",
+      "url": "https://open.spotify.com/track/3hFEK5zfSSezpZcP2pBYAL"
+    },
+    {
+      "album": {
         "name": "My Own Person",
         "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
       },

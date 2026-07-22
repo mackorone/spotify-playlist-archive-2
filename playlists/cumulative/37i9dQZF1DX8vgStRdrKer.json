@@ -5971,6 +5971,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490133,
+      "name": "Higher - Live",
+      "url": "https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV"
+    },
+    {
+      "album": {
         "name": "HOLD ME UP",
         "url": "https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90"
       },
@@ -6838,7 +6860,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 560126,
       "name": "I Live - Live",
       "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
@@ -10383,6 +10405,28 @@
     },
     {
       "album": {
+        "name": "My Life (Live)",
+        "url": "https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu"
+      },
+      "artists": [
+        {
+          "name": "Grace Oluwaloju",
+          "url": "https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y"
+        },
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493025,
+      "name": "My Life - Live",
+      "url": "https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ"
+    },
+    {
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -11678,7 +11722,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 246473,
       "name": "ONLY JESUS CAN SAVE",
       "url": "https://open.spotify.com/track/3A36Oa4VIZMyoQhRl4hG9F"
@@ -12692,7 +12736,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 175250,
       "name": "Repairman",
       "url": "https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M"
@@ -14334,6 +14378,28 @@
       "duration_ms": 375893,
       "name": "The Maranatha Song",
       "url": "https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1"
+    },
+    {
+      "album": {
+        "name": "THE PRAYER ANTHEM",
+        "url": "https://open.spotify.com/album/38x9wS5GQpGxxeLv71ZnoS"
+      },
+      "artists": [
+        {
+          "name": "Joshua Adedeji",
+          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
+        },
+        {
+          "name": "Pastor Tolu Mala",
+          "url": "https://open.spotify.com/artist/0f9vcki5vU4Yyfb9pFxGGN"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1283640,
+      "name": "THE PRAYER ANTHEM",
+      "url": "https://open.spotify.com/track/55h9gMUMEPQncAlvXbFxv1"
     },
     {
       "album": {

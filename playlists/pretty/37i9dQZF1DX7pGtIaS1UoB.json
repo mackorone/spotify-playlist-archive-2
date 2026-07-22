@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 101651,
+  "num_followers": 101647,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u5b98\u5ba3",
-        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u970f",
-          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "\u5b98\u5ba3",
-      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u6211\u597d\u60f3\u4f60",
         "url": "https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 183000,
       "name": "\u6211\u597d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u5b98\u5ba3",
+        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u970f",
+          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "\u5b98\u5ba3",
+      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
     },
     {
       "added_at": "2026-01-29 16:00:38",

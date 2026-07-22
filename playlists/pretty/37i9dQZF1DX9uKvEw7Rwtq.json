@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126332,
+  "num_followers": 126354,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Source (Live Mix)",
-        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 178686,
-      "name": "Source - Live Mix",
-      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Random Forest",
         "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 327720,
       "name": "Shadows Fall",
       "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Source (Live Mix)",
+        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 178686,
+      "name": "Source - Live Mix",
+      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Feeling Everything but Lost",
-        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 295104,
-      "name": "Feeling Everything but Lost",
-      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "The Ever Shifting Fields",
         "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 277133,
       "name": "In Collusion with the Waves",
       "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Feeling Everything but Lost",
+        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 295104,
+      "name": "Feeling Everything but Lost",
+      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "The Weight of It All",
-        "url": "https://open.spotify.com/album/71OODPd7MyMV66BIkOrSl4"
-      },
-      "artists": [
-        {
-          "name": "Chasing Reverbs",
-          "url": "https://open.spotify.com/artist/61qSGQsnPa7ojcI75q32KX"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "The Weight of It All",
-      "url": "https://open.spotify.com/track/1VL1t8ydGcgCDW21B2bUIZ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -539,8 +523,24 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Leaving Home",
-        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
+        "name": "The Weight of It All",
+        "url": "https://open.spotify.com/album/71OODPd7MyMV66BIkOrSl4"
+      },
+      "artists": [
+        {
+          "name": "Chasing Reverbs",
+          "url": "https://open.spotify.com/artist/61qSGQsnPa7ojcI75q32KX"
+        }
+      ],
+      "duration_ms": 176015,
+      "name": "The Weight of It All",
+      "url": "https://open.spotify.com/track/1VL1t8ydGcgCDW21B2bUIZ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Old Joy",
+        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 332704,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
+      "duration_ms": 101337,
+      "name": "Path to Springs",
+      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -635,8 +635,8 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Old Joy",
-        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
+        "name": "Leaving Home",
+        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 101337,
-      "name": "Path to Springs",
-      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+      "duration_ms": 332704,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -679,6 +663,22 @@
       "duration_ms": 290453,
       "name": "It's Dark, It's Cold, It's Winter",
       "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Looking at the World Through a Window",
         "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 385000,
       "name": "Looking at the World Through a Window",
       "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dusk/Dawn",
         "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+      },
+      "artists": [
+        {
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+        }
+      ],
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Those Winter Sundays",
         "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 216237,
       "name": "Fog",
       "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
-      },
-      "artists": [
-        {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
-        }
-      ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Bloom II",
-        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Live This Moment",
-      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Enfold",
         "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "soft silence",
-        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
       "artists": [
         {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 80937,
-      "name": "soft silence",
-      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Bloom II",
+        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Live This Moment",
+      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "soft silence",
+        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 80937,
+      "name": "soft silence",
+      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 227975,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 278067,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Barren",
-        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 616188,
-      "name": "Barren",
-      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Songs to Disappear to",
         "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 257568,
       "name": "Old Moon",
       "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+      },
+      "artists": [
+        {
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "asystole",
+          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 157755,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1567,22 +1583,6 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "growing up",
-        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
-      },
-      "artists": [
-        {
-          "name": "asystole",
-          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
-        }
-      ],
-      "duration_ms": 157755,
-      "name": "growing up",
-      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "added_at": "2026-05-29 04:00:33",

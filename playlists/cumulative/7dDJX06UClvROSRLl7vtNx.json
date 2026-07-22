@@ -12572,7 +12572,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 151398,
       "name": "I Need To Know",
       "url": "https://open.spotify.com/track/7o3ExI8VjcaFY3Kq30runZ"
@@ -13554,6 +13554,28 @@
       "duration_ms": 183224,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/4FHviKAJ137SAE8T7PLIOK"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/5Ni6e3gUBYRxHeG0AgMUSH"
+      },
+      "artists": [
+        {
+          "name": "DIMEO",
+          "url": "https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152583,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/7kh27hWr95MqnIthFEsDqU"
     },
     {
       "album": {
@@ -15724,7 +15746,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 196013,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/7IIJa2WD9EyjYKncgsqUaB"
@@ -16634,6 +16656,36 @@
       "duration_ms": 156206,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/4CPy28pUyD5MW3EKMDRUGB"
+    },
+    {
+      "album": {
+        "name": "LOST IN YOUR EYES",
+        "url": "https://open.spotify.com/album/2NMEmnLpWk0jPGJLFjcpa8"
+      },
+      "artists": [
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Dan Hammond",
+          "url": "https://open.spotify.com/artist/4dEs0KB8wjEMwFfOLt84qd"
+        },
+        {
+          "name": "HUANI",
+          "url": "https://open.spotify.com/artist/0jlkVTbap3egvG161GxTAd"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "LOST IN YOUR EYES",
+      "url": "https://open.spotify.com/track/7hPRfLu0xGYWsCnayrLohu"
     },
     {
       "album": {
@@ -24343,6 +24395,24 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3vxe7sNGP3ZwsCVEStspwh"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Sky",
+          "url": "https://open.spotify.com/artist/7mtBagxlj27ioxPZIWu8Bx"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/6HVo7dGd9ntnqoEKa719Vg"
+    },
+    {
+      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/0kMygFJabOWCx0ELzJRHAa"
       },
@@ -25960,7 +26030,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 119423,
       "name": "Sun Is Rising",
       "url": "https://open.spotify.com/track/68gqfdmUcUNMRINRYMxUd0"
@@ -29610,7 +29680,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 159272,
       "name": "We'll Be Okay",
       "url": "https://open.spotify.com/track/7aUKQW781gqq4aw9n4kKDD"

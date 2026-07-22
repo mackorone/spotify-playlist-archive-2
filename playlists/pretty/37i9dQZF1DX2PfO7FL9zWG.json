@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 79115,
+  "num_followers": 79133,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Cape Elizabeth",
         "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 181750,
       "name": "A Troubled Mind",
       "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
-      "added_at": "2026-01-15 21:43:29",
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/7qVntDLi3qf0mm18Kd54lx"
-    },
-    {
       "added_at": "2025-02-14 17:00:13",
       "album": {
         "name": "EP",
@@ -567,6 +551,22 @@
       "duration_ms": 178293,
       "name": "Down by the Water",
       "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
+    },
+    {
+      "added_at": "2026-01-15 21:43:29",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 174197,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/7qVntDLi3qf0mm18Kd54lx"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
     },
     {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "We Can't Be Tamed",
-      "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
-    },
-    {
       "added_at": "2025-08-07 17:51:17",
       "album": {
         "name": "Moondog",
@@ -1551,6 +1535,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "We Can't Be Tamed",
+      "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
     },
     {
-      "added_at": "2026-06-24 04:17:17",
-      "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
       "added_at": "2025-02-14 17:00:13",
       "album": {
         "name": "Moments",
@@ -1635,6 +1619,22 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
+    },
+    {
+      "added_at": "2026-06-24 04:17:17",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2025-02-14 17:00:13",

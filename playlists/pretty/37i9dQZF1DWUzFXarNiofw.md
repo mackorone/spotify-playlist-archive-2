@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,678 likes - 274 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,700 likes - 274 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 22 | [Body](https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [DUMBCRAZYSTUPID \(Deluxe\)](https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N) | 2:42 |
 | 23 | [the truth at a distance FEAT NALI & HAWA](https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Nali](https://open.spotify.com/artist/6u24LC3ZC40gAEPS2IwURV), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY \(DELUXE\)](https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7) | 3:26 |
 | 24 | [confession](https://open.spotify.com/track/6O0KhfDZmrkePwVaBQUJWJ) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [why do women jump in the fire?](https://open.spotify.com/album/0HfDoLjRzuOQIRboQn2FWA) | 3:16 |
-| 25 | [One and Only \- Cover](https://open.spotify.com/track/45IRYEZMFqtVd0is46rt4I) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [One and Only \(Cover\)](https://open.spotify.com/album/5malitOgcvKXJWcPYWQCSU) | 3:22 |
+| 25 | [One and Only](https://open.spotify.com/track/45IRYEZMFqtVd0is46rt4I) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [One and Only](https://open.spotify.com/album/5malitOgcvKXJWcPYWQCSU) | 3:22 |
 | 26 | [How Lonely Is Lonely](https://open.spotify.com/track/0ipPxQli8g2b74QzP9xmWf) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [How Lonely Is Lonely](https://open.spotify.com/album/1JYVvcW8sdGBzgEOpyGUnr) | 3:30 |
 | 27 | [Moment Of Silence](https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Moment Of Silence](https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt) | 3:07 |
 | 28 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 111 | [To Want Someone Badly](https://open.spotify.com/track/6f6EdKXS6CRFGIk6hW8qjS) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Want Someone Badly](https://open.spotify.com/album/1RCqDfERqTPoW669sQdYWA) | 2:57 |
 | 112 | [I Could Do It](https://open.spotify.com/track/7AEJOlZZamhM9I32JUsNnF) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [O2 \- Part 1](https://open.spotify.com/album/38fs18fUgnA1ESHegI7OXG) | 3:32 |
 | 113 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
-| 114 | [No Jodeci](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [No Jodeci](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
+| 114 | [NO JODECI](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [NO JODECI](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
 | 115 | [Miss Mango](https://open.spotify.com/track/01Oj3UlTK3YAuJwf1AY3qV) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Miss Mango](https://open.spotify.com/album/6G0PiC7OtNeoksNGzGirhI) | 3:48 |
 | 116 | [Pretty Girl Dangerous](https://open.spotify.com/track/64HkZmyofXmEbSuSea8CD1) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u), [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Pretty Girl Dangerous](https://open.spotify.com/album/5WJ6vO6gg4MQHrXixcbSS7) | 2:46 |
 | 117 | [Foreign](https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Foreign](https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk) | 3:23 |

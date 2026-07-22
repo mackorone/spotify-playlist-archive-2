@@ -671,6 +671,26 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 297453,
+      "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
+      "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -704,49 +724,9 @@
           "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
         }
       ],
-      "duration_ms": 297453,
-      "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
-      "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
-        }
-      ],
       "duration_ms": 209893,
       "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
       "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "The Best of The King's Singers",
-        "url": "https://open.spotify.com/album/6ZImJQDuW7wnfP1NGJQptv"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "The King's Singers",
-          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "Rakastava",
-      "url": "https://open.spotify.com/track/27GIzgkAX3NFkjiZpDOQKE"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -767,6 +747,26 @@
       "duration_ms": 149093,
       "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": II. Vivace",
       "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "The Best of The King's Singers",
+        "url": "https://open.spotify.com/album/6ZImJQDuW7wnfP1NGJQptv"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "Rakastava",
+      "url": "https://open.spotify.com/track/27GIzgkAX3NFkjiZpDOQKE"
     },
     {
       "added_at": "2025-12-15 12:16:59",

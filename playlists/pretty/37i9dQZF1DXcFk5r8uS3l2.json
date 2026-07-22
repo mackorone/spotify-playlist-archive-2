@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1069593,
+  "num_followers": 1069590,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Ain't Half Bad",
         "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 162290,
       "name": "Man's World",
       "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Joy, Joy!",
-        "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "Joy, Joy!",
-      "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Switch On",
         "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 258218,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Joy, Joy!",
+        "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 181503,
+      "name": "Joy, Joy!",
+      "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "The Hammer & The Rose",
-        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Tonight Belongs to You",
-      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "The Hammer & The Rose",
+        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Tonight Belongs to You",
+      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "What Good Is My Love?",
         "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
       "artists": [
         {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
         }
       ],
-      "duration_ms": 335658,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1591,6 +1575,22 @@
       "duration_ms": 251197,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
     },
     {
       "added_at": "2026-06-05 04:00:36",

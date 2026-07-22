@@ -4,7 +4,7 @@
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-407 songs - 1 day 4 hr 21 min
+407 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Fantasy](https://open.spotify.com/track/6k560R01qUKlpm9lbIfAXr) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Fantasy](https://open.spotify.com/album/7gUqRiJjBxiJ0xLES3Xd6F) | 2:12 | 2022-11-30 | 2023-12-14 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-12-04 | 2025-12-04 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-11-29 | 2024-12-05 |
-| [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:10 | 2025-12-03 |  |
+| [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 | 2025-12-03 |  |
 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 | 2021-12-01 | 2022-12-01 |
 | [Fellowship](https://open.spotify.com/track/4ROdvtRcPEGo56SiZ23o8a) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/15i2CVbvZzxiv9LfUkl2wU) | 3:39 | 2021-12-01 | 2022-07-29 |
 | [Fellowship](https://open.spotify.com/track/6F0KpWbx4b06dnCCmgLEzx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/5LGSk61drpfhtf9FRC6Wx7) | 3:39 | 2021-12-01 | 2022-11-13 |

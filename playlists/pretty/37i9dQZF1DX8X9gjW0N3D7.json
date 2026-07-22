@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: N NAO",
-  "num_followers": 69826,
+  "num_followers": 69833,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJuGD4Yj8CQZpicn4PJ6/D3k1BFl",
+  "snapshot_id": "AAAAALyoeFiq/IkFoDK3mUXaGBLi0Fjj",
   "tracks": [
     {
       "added_at": "2026-07-17 14:45:43",
@@ -327,18 +327,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Tour \u00e0 tour",
-        "url": "https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU"
+        "name": "Les mots que tu chantes",
+        "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
       },
       "artists": [
         {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+          "name": "Ian Kelly",
+          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
+        },
+        {
+          "name": "John Nathaniel",
+          "url": "https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ"
         }
       ],
-      "duration_ms": 244320,
-      "name": "Tour \u00e0 tour",
-      "url": "https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D"
+      "duration_ms": 178208,
+      "name": "Les mots que tu chantes",
+      "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -615,6 +619,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Tout ce qui d\u00e9passe",
+        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Tout ce qui d\u00e9passe",
+      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 163374,
       "name": "Demain \u00e7a ira",
       "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
-        "name": "Tout ce qui d\u00e9passe",
-        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
-      },
-      "artists": [
-        {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Tout ce qui d\u00e9passe",
-      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -731,22 +735,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Courtside",
-        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
-      },
-      "artists": [
-        {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 182961,
-      "name": "Courtside",
-      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Oiseaux de Paradis",
         "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
@@ -759,6 +747,22 @@
       "duration_ms": 124214,
       "name": "Oiseaux de Paradis",
       "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -779,22 +783,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "rappelle-moi comme je t'aime",
         "url": "https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia"
       },
@@ -807,6 +795,22 @@
       "duration_ms": 147272,
       "name": "rappelle-moi comme je t'aime",
       "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -875,22 +879,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "r\u00eaves en hd",
-        "url": "https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 253710,
-      "name": "r\u00eaves en hd",
-      "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
@@ -907,18 +895,18 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "r\u00eaves en hd",
+        "url": "https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 253710,
+      "name": "r\u00eaves en hd",
+      "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -935,6 +923,22 @@
       "duration_ms": 189791,
       "name": "Sanzaru",
       "url": "https://open.spotify.com/track/2AKMoiJfH9SDy5DamRsozh"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -971,6 +975,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e8ges",
+          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
+        }
+      ],
+      "duration_ms": 225801,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "R\u00e2",
         "url": "https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa"
       },
@@ -1003,22 +1023,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e8ges",
-          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
-        }
-      ],
-      "duration_ms": 225801,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Confort stable",
         "url": "https://open.spotify.com/album/7ykkRDvvawe6DzLEqQ8RSF"
       },
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Les mots que tu chantes",
-        "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
+        "name": "Tour \u00e0 tour",
+        "url": "https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU"
       },
       "artists": [
         {
-          "name": "Ian Kelly",
-          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
-        },
-        {
-          "name": "John Nathaniel",
-          "url": "https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ"
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
         }
       ],
-      "duration_ms": 178208,
-      "name": "Les mots que tu chantes",
-      "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
+      "duration_ms": 244320,
+      "name": "Tour \u00e0 tour",
+      "url": "https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Chevaux fant\u00f4mes",
-        "url": "https://open.spotify.com/album/2zxWIEyIx4EtNtFUa44S6r"
-      },
-      "artists": [
-        {
-          "name": "BAAB",
-          "url": "https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR"
-        }
-      ],
-      "duration_ms": 228566,
-      "name": "Chevaux fant\u00f4mes",
-      "url": "https://open.spotify.com/track/0YMRyg8uhvvhrhD7nbp0Io"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Animal imberbe",
         "url": "https://open.spotify.com/album/57yyvI0RDu5XuGVGITRjRf"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Chevaux fant\u00f4mes",
+        "url": "https://open.spotify.com/album/2zxWIEyIx4EtNtFUa44S6r"
+      },
+      "artists": [
+        {
+          "name": "BAAB",
+          "url": "https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR"
+        }
+      ],
+      "duration_ms": 228566,
+      "name": "Chevaux fant\u00f4mes",
+      "url": "https://open.spotify.com/track/0YMRyg8uhvvhrhD7nbp0Io"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "Aire de repos",
         "url": "https://open.spotify.com/album/2krPC4xlh6YjTXgimhqbMg"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 177213,
       "name": "Mes joues",
       "url": "https://open.spotify.com/track/4cUN9JWxHrJeLdkywDGefx"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "Rebound",
+        "url": "https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9"
+      },
+      "artists": [
+        {
+          "name": "BLAMM",
+          "url": "https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5"
+        }
+      ],
+      "duration_ms": 236551,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -1235,22 +1251,6 @@
       "duration_ms": 217879,
       "name": "R\u00eave am\u00e9ricain",
       "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
-        "name": "Rebound",
-        "url": "https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9"
-      },
-      "artists": [
-        {
-          "name": "BLAMM",
-          "url": "https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5"
-        }
-      ],
-      "duration_ms": 236551,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

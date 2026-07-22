@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,927 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,926 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 |
 | 2 | [Loyalty](https://open.spotify.com/track/6kezgETS58G4Ge7nFkUz93) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Loyalty](https://open.spotify.com/album/1rk5fLfi5g6GsbMBQSI6KF) | 3:01 |
 | 3 | [Flea Joint](https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Flea Joint](https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA) | 4:29 |
-| 4 | [Skinny Dipping \(just your toes\)](https://open.spotify.com/track/3N5ZaUnV7aA1ycH8XcXHFZ) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping \(just your toes\)](https://open.spotify.com/album/1CmWnZNFjit7wWENcR2MJN) | 3:12 |
+| 4 | [Skinny Dipping \- Just Your Toes](https://open.spotify.com/track/3N5ZaUnV7aA1ycH8XcXHFZ) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping \(Just Your Toes\)](https://open.spotify.com/album/1CmWnZNFjit7wWENcR2MJN) | 3:12 |
 | 5 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
 | 6 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
 | 7 | [FALLING APART](https://open.spotify.com/track/4EbADa5brpjbgWbKSUEU4x) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [FALLING APART](https://open.spotify.com/album/7EJm01H3SNWlP1ota7t4iR) | 2:46 |

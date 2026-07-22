@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234814,
+  "num_followers": 234796,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABSRuN4+I/ZDVVQBL7uURQt",
+  "snapshot_id": "al1lAAAAAADRHqr24tSYkw+bDrbe8L+c",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akelarre (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1P0QSEfymaBrUl1h0uDcx0"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/6h3e3vc3bzGqAtEPV7vh2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Azul Como El Cielo",
-      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canta Con Morat",
         "url": "https://open.spotify.com/album/3ZPCDjEmiEkeq0QoRQoNcH"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 184189,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/1cxbYGx8hYGY7JuxcseqKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Azul Como El Cielo",
+      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Despertar: Reggaeton",
+        "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/18Ehq6VGcQOYfVBT4EYed5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
         "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
@@ -487,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Despertar: Reggaeton",
-        "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "No Bailes Sola",
-      "url": "https://open.spotify.com/track/18Ehq6VGcQOYfVBT4EYed5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Latino Hits 2024",
         "url": "https://open.spotify.com/album/3DB9RMSI9mvwZ50yTMKdVT"
       },
@@ -523,6 +523,26 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Quiero Quedarme Aqui",
+      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,
@@ -575,26 +595,6 @@
       "duration_ms": 252693,
       "name": "A Coro",
       "url": "https://open.spotify.com/track/1lKEEDNsqdVcF2pD8zYjqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Quiero Quedarme Aqui",
-      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,

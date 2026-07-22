@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Doona",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: coldrain",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -2082,6 +2082,24 @@
       "duration_ms": 225371,
       "name": "Everything is all lies",
       "url": "https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2"
+    },
+    {
+      "album": {
+        "name": "EX-HUMANITY",
+        "url": "https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "EX-HUMANITY",
+      "url": "https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ"
     },
     {
       "album": {
@@ -5406,6 +5424,24 @@
       "duration_ms": 193933,
       "name": "Re-create -AA= ver.- feat. JUBEE",
       "url": "https://open.spotify.com/track/7mLiu6IY8xJB87VQNGa3TP"
+    },
+    {
+      "album": {
+        "name": "RE:PLAY",
+        "url": "https://open.spotify.com/album/5xUVytNuj4abGnoyuJSUYn"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226272,
+      "name": "RE:PLAY",
+      "url": "https://open.spotify.com/track/3eLFfCz26lmzVTGUUtHWfB"
     },
     {
       "album": {
@@ -9064,7 +9100,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 212950,
       "name": "\u72d0\u72ec\u306e\u624d\u671b",
       "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
@@ -9248,7 +9284,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 189041,
       "name": "\u958b\u82b1\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8"

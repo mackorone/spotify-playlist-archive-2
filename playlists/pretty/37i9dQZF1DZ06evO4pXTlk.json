@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 690,
+  "num_followers": 691,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABnwQnRbDde2dOzjAH3Khr8",
+  "snapshot_id": "al1lAAAAAAA7YNr6o9d3G7k7/1hyyL52",
   "tracks": [
     {
       "added_at": null,
@@ -43,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruin My Life (feat. Murray Macleod)",
-        "url": "https://open.spotify.com/album/5Knzryo0fl9c15kTCHOIY8"
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
       },
       "artists": [
         {
@@ -62,7 +62,7 @@
       ],
       "duration_ms": 214970,
       "name": "Ruin My Life (feat. Murray Macleod)",
-      "url": "https://open.spotify.com/track/6MiQvf0yzfKwLg0nPOWIYU"
+      "url": "https://open.spotify.com/track/6yxVbnWLbgLS8xvGI4bVyK"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
+      "duration_ms": 168893,
+      "name": "losing it",
+      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 168893,
-      "name": "losing it",
-      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 202440,
       "name": "I Scare Easy",
       "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "Let's Run",
-      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
     }
   ],
   "unique_name": "This Is The XCERTS",

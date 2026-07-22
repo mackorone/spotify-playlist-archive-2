@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2026\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,799 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,643 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 19 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
 | 20 | [PUES YA NI PEDO](https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PUES YA NI PEDO](https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq) | 3:21 |
 | 21 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
-| 22 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 |
-| 23 | [SI SE ACABA EL MUNDO](https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [SI SE ACABA EL MUNDO](https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve) | 2:50 |
+| 22 | [SI SE ACABA EL MUNDO](https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [SI SE ACABA EL MUNDO](https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve) | 2:50 |
+| 23 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 |
 | 24 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 25 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 |
 | 26 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |

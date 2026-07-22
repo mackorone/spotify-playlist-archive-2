@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u7c73\u6d25\u7384\u5e2b / Kenshi Yonezu",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: suis from \u30e8\u30eb\u30b7\u30ab",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 87500,
       "name": "222",
       "url": "https://open.spotify.com/track/52cpYZ6W05YqrDCfgL9YTM"
+    },
+    {
+      "album": {
+        "name": "25-26",
+        "url": "https://open.spotify.com/album/04LqSEb2RCe5ay8Ny2fwUM"
+      },
+      "artists": [
+        {
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184616,
+      "name": "25-26",
+      "url": "https://open.spotify.com/track/7ypDYILkOC7ymgNN8t3X2L"
     },
     {
       "album": {
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 212990,
       "name": "BUBBLEBEAM",
       "url": "https://open.spotify.com/track/6vQEqIkyLjOGLSSCIdLxoX"
@@ -2326,6 +2344,24 @@
       "duration_ms": 177344,
       "name": "Chatter Chatter",
       "url": "https://open.spotify.com/track/3f2HnVPKvQ19QvYrjBMUiX"
+    },
+    {
+      "album": {
+        "name": "Chemical X",
+        "url": "https://open.spotify.com/album/1mH1V4DnQaOmnia7pWl768"
+      },
+      "artists": [
+        {
+          "name": "Yoh kamiyama",
+          "url": "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139181,
+      "name": "Chemical X",
+      "url": "https://open.spotify.com/track/1570AXbyd59dIYzA6S8LtG"
     },
     {
       "album": {
@@ -3558,6 +3594,46 @@
       "duration_ms": 80062,
       "name": "Everything is painful krush funk!",
       "url": "https://open.spotify.com/track/0bS41MW1AvPJvVbBb3PoP9"
+    },
+    {
+      "album": {
+        "name": "F.A.C.E.",
+        "url": "https://open.spotify.com/album/6pHEI6UgQrfYkCW6K0irla"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "F.A.C.E.",
+      "url": "https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q"
+    },
+    {
+      "album": {
+        "name": "fade into blue",
+        "url": "https://open.spotify.com/album/0JN5OtuE0veF30KcUj01qU"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "fade into blue",
+      "url": "https://open.spotify.com/track/24r2tN5hlPDY535tkAa9cu"
     },
     {
       "album": {
@@ -5734,6 +5810,24 @@
       "duration_ms": 194515,
       "name": "I\u2019m a Controversy",
       "url": "https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM"
+    },
+    {
+      "album": {
+        "name": "jade",
+        "url": "https://open.spotify.com/album/06lwmiC4ZVyJaaLTXjRrcM"
+      },
+      "artists": [
+        {
+          "name": "OFFICE DESTRUCTION GIRL",
+          "url": "https://open.spotify.com/artist/13HyK2xAsfe2QY3UAR8H4n"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238094,
+      "name": "jade",
+      "url": "https://open.spotify.com/track/3tKRLkgW2acIj8YxlRoPJH"
     },
     {
       "album": {
@@ -8002,7 +8096,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 167250,
       "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
@@ -8994,7 +9088,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 184531,
       "name": "Quest!Quest!Quest!!!",
       "url": "https://open.spotify.com/track/6OpO6YrBt4dVx5LGRd1hpD"
@@ -9654,6 +9748,24 @@
       "duration_ms": 192666,
       "name": "Sansan to Furitsumoru Yoru ha",
       "url": "https://open.spotify.com/track/79y2tDJEkshvARtHIWlv5g"
+    },
+    {
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
     },
     {
       "album": {
@@ -11146,7 +11258,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 242162,
       "name": "The Owner Of Sweetness",
       "url": "https://open.spotify.com/track/4Dx2uWCCtCmZBtT1GCf6Jq"
@@ -13102,7 +13214,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 231633,
       "name": "\u3042\u30fc\u3042",
       "url": "https://open.spotify.com/track/6m1Tv7NjB7Y2Ru1OZSMkXm"
@@ -13208,7 +13320,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 169901,
       "name": "\u3044\u306e\u3061\u306e\u30d1\u30ec\u30f1\u30c9",
       "url": "https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ"
@@ -14154,7 +14266,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 199997,
       "name": "\u305b\u3044 - Sei",
       "url": "https://open.spotify.com/track/4HtGJE18ACWw6N0PxHBhuk"
@@ -27751,6 +27863,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u304c\u6804\u5149\u3088",
+        "url": "https://open.spotify.com/album/0qLoUSucKIqkdBLpWRpcbt"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "\u6211\u304c\u6804\u5149\u3088",
+      "url": "https://open.spotify.com/track/2wnHoEJNXPQCCGnwem96tr"
+    },
+    {
+      "album": {
         "name": "\u6226\u5834\u306e\u83ef",
         "url": "https://open.spotify.com/album/4P6jLBYmtDTJidPlNQi18n"
       },
@@ -30079,6 +30209,24 @@
     },
     {
       "album": {
+        "name": "\u732b\u65e5",
+        "url": "https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u732b\u65e5",
+      "url": "https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7"
+    },
+    {
+      "album": {
         "name": "\u732b\u88ab\u308a",
         "url": "https://open.spotify.com/album/3nk5STrK5pfQrB2oy2TbkV"
       },
@@ -30144,7 +30292,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 198543,
       "name": "\u738b\u9053",
       "url": "https://open.spotify.com/track/1aGwVlqc4M1jKbVACJkjSZ"
@@ -30932,6 +31080,28 @@
       "duration_ms": 193200,
       "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
       "url": "https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp"
+    },
+    {
+      "album": {
+        "name": "\u7a92\u606f\u65e5\u8a18",
+        "url": "https://open.spotify.com/album/7y7hpg8XWOsEaKk9K0tALZ"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243168,
+      "name": "\u7a92\u606f\u65e5\u8a18",
+      "url": "https://open.spotify.com/track/2mCGATLbPesE7vjS1tXBho"
     },
     {
       "album": {
@@ -32758,7 +32928,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 185139,
       "name": "\u907a\u66f8",
       "url": "https://open.spotify.com/track/7fS84wIuhxleSaECc0CRua"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,455 likes - 200 songs - 11 hr 39 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,455 likes - 198 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 196 | [TE TOCA](https://open.spotify.com/track/2W8msNlokoHJJW8AZ1VkRP) | [J\. Rios](https://open.spotify.com/artist/6PPRIb5YY3KXLTcwowyFHt) | [TE TOCA](https://open.spotify.com/album/199ynz7u0X58PSUemMN77f) | 2:13 |
 | 197 | [HEAVEN'S IN YOUR EYES](https://open.spotify.com/track/3CQ9PXfZXPQTwxRZsnOYoZ) | [LOVE POWER](https://open.spotify.com/artist/7HcJAjZ2GXEmWyV1pTgTC3) | [OILED](https://open.spotify.com/album/2ckqvC7a8fVAHvO2WcJ1mb) | 2:58 |
 | 198 | [Oslo](https://open.spotify.com/track/1K9BhSXO0HxztEHcwvITag) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Oslo](https://open.spotify.com/album/4fLNVTi7Cq043PDSURXits) | 6:03 |
-| 199 | [The Magic Wand](https://open.spotify.com/track/3RQDMFTN5PRkRgAgyeKh3b) | [Theresa Rhodes](https://open.spotify.com/artist/2liMYin7UvHieKIS3IPglm) | [The Magic Wand](https://open.spotify.com/album/1dEbuWZtOiKrZDIMkT8sO4) | 3:19 |
-| 200 | [Quiet Bruises](https://open.spotify.com/track/6Tq4N2CRPTe9f1RNz7dw9R) | [Whiskey Circuit](https://open.spotify.com/artist/29M8Ioc0iEn8dBJk8GlUEq) | [Quiet Bruises](https://open.spotify.com/album/6qZuZleoi5XdS5HTGaOlzk) | 4:04 |
 
-Snapshot ID: `AAA8xaHfzzwDKF0L051ptSLYhPp8PKaa`
+Snapshot ID: `AAA8x9Jv9OwMhXOtso1Zvm8sF9eCGqWm`

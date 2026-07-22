@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "twice upon a time",
+        "url": "https://open.spotify.com/album/4Cds0e3SueZskz3N2sm4Uy"
+      },
+      "artists": [
+        {
+          "name": "harmoe",
+          "url": "https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "BURNING GOLD",
+      "url": "https://open.spotify.com/track/1jE6DU7txBjWgsYC6TUXLW"
+    },
+    {
+      "album": {
         "name": "B\u306e\u30ea\u30d9\u30f3\u30b8",
         "url": "https://open.spotify.com/album/3NZfX1kbq3IsKYIE16wQlN"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 222166,
       "name": "CRIMSON BULLET",
       "url": "https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 223182,
       "name": "Friday Night Fever",
       "url": "https://open.spotify.com/track/5fh1X6Cq3HJqZHGrV6yP4O"
@@ -3038,6 +3056,24 @@
       "duration_ms": 215792,
       "name": "HEART's\u2661KISS - NEW ARRANGE VER.",
       "url": "https://open.spotify.com/track/2FYwVibzu6PvKOz2wFUzpj"
+    },
+    {
+      "album": {
+        "name": "Hearts Glow",
+        "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234679,
+      "name": "Hearts Glow",
+      "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
     },
     {
       "album": {
@@ -7249,6 +7285,24 @@
     },
     {
       "album": {
+        "name": "Summer Challenger",
+        "url": "https://open.spotify.com/album/14NNQ5xMlTIftrbTJ2CQuL"
+      },
+      "artists": [
+        {
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "Summer Challenger",
+      "url": "https://open.spotify.com/track/6z4V5L4qXritj0Fj1vB2n4"
+    },
+    {
+      "album": {
         "name": "Sun Is Coming Up",
         "url": "https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp"
       },
@@ -7770,7 +7824,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 168805,
       "name": "Twilight Magic",
       "url": "https://open.spotify.com/track/15aYnW3mRHS2e9WuaDXFXc"
@@ -8070,6 +8124,24 @@
       "duration_ms": 267466,
       "name": "WANNA BE BRIGHT",
       "url": "https://open.spotify.com/track/6goE7SDnVT1NRujeZsy9Jn"
+    },
+    {
+      "album": {
+        "name": "Wanna me",
+        "url": "https://open.spotify.com/album/5Gm9NPCshVejCzruoNJRuh"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Wanna me",
+      "url": "https://open.spotify.com/track/2JUjL1621goUg9JbLGUsrA"
     },
     {
       "album": {
@@ -12064,7 +12136,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 228066,
       "name": "\u30de\u30b8\u308b\u308b\uff01\u30ca\u30a4\u30b9\u30d0\u30eb\u30af",
       "url": "https://open.spotify.com/track/0gUPmwCg8exQUOz58XBJ1M"

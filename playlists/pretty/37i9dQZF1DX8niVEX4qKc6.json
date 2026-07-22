@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193492,
+  "num_followers": 193498,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Serenata del 900 (Casa Sole)",
         "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 193897,
       "name": "Serenata del 900 (Casa Sole)",
       "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 211460,
       "name": "Loquero Viejo",
       "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/2wGbH2fkkMEmj1QtiKoqDf"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 220375,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/3kow098wMsKCVyKSyiNEuO"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
-      },
-      "artists": [
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Vuela Lejos",
         "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 307414,
       "name": "Vuela Lejos",
       "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
+      },
+      "artists": [
+        {
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 226126,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Mil Mensajes",
         "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 202500,
       "name": "Mil Mensajes",
       "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 226126,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 169487,
-      "name": "el film - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 169487,
+      "name": "el film - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Amanece (a Pepe Mujica)",
         "url": "https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 232318,
       "name": "Amanece (A Pepe Mujica)",
       "url": "https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Congelamiento Global",
-        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        }
-      ],
-      "duration_ms": 185644,
-      "name": "Amar No Est\u00e1 de Moda",
-      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Es Broma, En Serio",
         "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 292000,
       "name": "Es Broma, En Serio",
       "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Como Te Voy A Olvidar",
-        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Como Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1547,6 +1531,22 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Como Te Voy A Olvidar",
+        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Como Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-06-26 15:53:51",

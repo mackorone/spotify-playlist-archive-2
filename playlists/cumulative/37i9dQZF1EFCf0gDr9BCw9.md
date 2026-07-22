@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-251 songs - 18 hr 49 min
+252 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 | 2025-09-10 |  |
 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 | 2022-09-08 | 2023-05-15 |
 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
+| [Virgin Jungle](https://open.spotify.com/track/0ffNXGH2Yj8b6peX0HiOny) | [渋谷毅](https://open.spotify.com/artist/4EjAZb1UiWraiOxerkySpi) | [Island Virgin](https://open.spotify.com/album/1xmXZwjKu4XCPysM26SCtM) | 4:18 | 2026-07-21 |  |
 | [Watch Your Cue](https://open.spotify.com/track/4fIrY8PHX9KyEOIQTqoKjq) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Classics by Billy Strayhorn, Vol\. 1](https://open.spotify.com/album/1ObPYLjXyABeJNCVVUDOaH) | 3:10 | 2026-06-20 |  |
 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 | 2024-06-15 |  |
 | [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 | 2024-06-16 |

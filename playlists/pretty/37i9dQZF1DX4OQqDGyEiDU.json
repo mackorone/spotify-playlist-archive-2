@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: NAKISO",
-  "num_followers": 121026,
+  "num_followers": 121038,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-14 15:00:28",
       "album": {
+        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
+        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
+      },
+      "artists": [
+        {
+          "name": "n-buna",
+          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
+      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
+    },
+    {
+      "added_at": "2026-07-14 15:00:28",
+      "album": {
         "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
         "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 226734,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 - \u304b\u3050\u3084&\u6708\u898b\u30e4\u30c1\u30e8 ver. - CPK! Remix",
       "url": "https://open.spotify.com/track/4L1Zv5dzq06DuTzKucmYSR"
-    },
-    {
-      "added_at": "2026-07-14 15:00:28",
-      "album": {
-        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
-        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
-      },
-      "artists": [
-        {
-          "name": "n-buna",
-          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
-      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
     },
     {
       "added_at": "2026-07-14 15:00:28",

@@ -1,12 +1,12 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 53173,
+  "num_followers": 53179,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAABEDUl30/Fh6aJqutjhUVM",
+  "snapshot_id": "al1lAAAAAAAuEyCI6eonO00S5tq1XMkc",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
+      "duration_ms": 207307,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
+        "name": "i'm watching you",
+        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 207307,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
+      "duration_ms": 139000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
     },
     {
       "added_at": null,

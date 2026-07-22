@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449486,
+  "num_followers": 449517,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABrrEzimVeqjc/nDOM+XJ0e",
+  "snapshot_id": "al1lAAAAAAAEejLyua14ir5KfGpPaOQ/",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vengo a Aclarar (En Vivo)",
+        "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Banda los Populares del Llano",
+          "url": "https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr"
+        }
+      ],
+      "duration_ms": 150990,
+      "name": "Las Verdades - En Vivo",
+      "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancheando en la Ciudad con El Fantasma y Los Huracanes del Norte",
         "url": "https://open.spotify.com/album/1MeCLnpe9RWOz5KU4cgwkV"
       },
@@ -439,22 +459,6 @@
       "duration_ms": 184077,
       "name": "20 Mujeres de Negro",
       "url": "https://open.spotify.com/track/2jMl4fEb82JuyWhYnw5o3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengo a Aclarar (En Vivo)",
-        "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Banda los Populares del Llano",
-          "url": "https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr"
         }
       ],
-      "duration_ms": 150990,
-      "name": "Las Verdades - En Vivo",
-      "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
       "duration_ms": 158442,
       "name": "Cuanto Me Gusta Este Rancho",
       "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
       "duration_ms": 194000,
       "name": "Fuerza (En Vivo)",
       "url": "https://open.spotify.com/track/7BYqMtURItgUntm7rkj7jz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Culpable",
+        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "El Culpable",
+      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 173874,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Culpable",
-        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "El Culpable",
-      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coronas Doradas",
-        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167470,
-      "name": "Los Cuervos",
-      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancheando en la Ciudad con El Fantasma y Los Huracanes del Norte",
         "url": "https://open.spotify.com/album/1MeCLnpe9RWOz5KU4cgwkV"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 183400,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/6rlEimbr93IVM54XKgCE4M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coronas Doradas",
+        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167470,
+      "name": "Los Cuervos",
+      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
     }
   ],
   "unique_name": "This Is El Fantasma",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2529,
+  "num_followers": 2528,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAACdZBgmMacJyCJnZ5/FJLLZ",
+  "snapshot_id": "al1lAAAAAADxi+bPVCjhe0SFCjSo6F+P",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 110151,
-      "name": "Kyndir",
-      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
+      "duration_ms": 273800,
+      "name": "B\u00e1ra",
+      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
     },
     {
       "added_at": null,
@@ -355,6 +355,38 @@
       "duration_ms": 165514,
       "name": "Birta",
       "url": "https://open.spotify.com/track/70HOjaRDOxL86922aqzy12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 110151,
+      "name": "Kyndir",
+      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whale Overture",
+        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Whale Overture",
+      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
     },
     {
       "added_at": null,
@@ -403,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whale Overture",
-        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Whale Overture",
-      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polar: Abyss",
         "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "B\u00e1ra",
-      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 173730,
       "name": "S\u00e1lmur",
       "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 80085,
       "name": "Flatey",
       "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 148722,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whales at Dusk",
         "url": "https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 143523,
       "name": "Whales at Dusk",
       "url": "https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 148722,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 232617,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

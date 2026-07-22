@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,974 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,973 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 10 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
 | 11 | [THE GAME](https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [THE GAME](https://open.spotify.com/album/4iq7ZtFodeZPDeumJADHl2) | 2:46 |
 | 12 | [Can't Let My City Down](https://open.spotify.com/track/1QOhnR8Pt71nSXj9vuUuhX) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Thug's Motivation](https://open.spotify.com/album/3eGbcQAH9yKn6YV3mnXXSt) | 3:03 |
-| 13 | [First Day Out](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise](https://open.spotify.com/artist/13dylTS1533xEY3bxSUg31) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
+| 13 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 14 | [センス \- feat\. Siero](https://open.spotify.com/track/7ClJtd1bQghOIeErB6ZDhd) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [SPEEDSTAR](https://open.spotify.com/album/25ZgsmzkQ3Gn8WZpPYtYSm) | 2:37 |
 | 15 | [The Machinist](https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [The Machinist](https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs) | 3:01 |
 | 16 | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/track/0lVjeH6Cd4urllQcIsb3nm) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Mr\. E](https://open.spotify.com/artist/2rrKDwuHZJ8GBNNGrT930I), [Toxica](https://open.spotify.com/artist/16ru5r486p5CoZKObdTlU1) | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/album/32bMLgHccqPdTFbeLSxsWf) | 3:12 |

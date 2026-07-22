@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Rach
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,067 likes - 86 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,062 likes - 86 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AUCUN MENSONGE](https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 3:34 |
-| 2 | [A Lot On My Mind](https://open.spotify.com/track/4QlGJHFHgnHA2dgWRG4zZO) | [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [Jugginhoo](https://open.spotify.com/artist/0a342mSN4DVOVx7Es59sUt) | [A Lot On My Mind](https://open.spotify.com/album/46ZtF2waBxMdDkpNv3O141) | 2:09 |
-| 3 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
-| 4 | [SCARLETT](https://open.spotify.com/track/6RqAZigVDormUUONy6TaGO) | [Young Rose](https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C), [Saint Kay](https://open.spotify.com/artist/5qBWcMz68QPfZpPA11SwF4) | [SCARLETT](https://open.spotify.com/album/5A75qRzyCzcjX2T2JNtw5E) | 2:09 |
-| 5 | [Kesspass](https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Kesspass](https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv) | 1:18 |
-| 6 | [kanji](https://open.spotify.com/track/066OJkWyKExrVhsw9org4b) | [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [Mountain's Music](https://open.spotify.com/album/0s3vZkWjtFsa7t3FQfacPk) | 2:06 |
-| 7 | [MTL's Finest](https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MTL's Finest](https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj) | 2:21 |
+| 2 | [MTL's Finest](https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MTL's Finest](https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj) | 2:21 |
+| 3 | [Kesspass](https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Kesspass](https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv) | 1:18 |
+| 4 | [A Lot On My Mind](https://open.spotify.com/track/4QlGJHFHgnHA2dgWRG4zZO) | [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [Jugginhoo](https://open.spotify.com/artist/0a342mSN4DVOVx7Es59sUt) | [A Lot On My Mind](https://open.spotify.com/album/46ZtF2waBxMdDkpNv3O141) | 2:09 |
+| 5 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
+| 6 | [SCARLETT](https://open.spotify.com/track/6RqAZigVDormUUONy6TaGO) | [Young Rose](https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C), [Saint Kay](https://open.spotify.com/artist/5qBWcMz68QPfZpPA11SwF4) | [SCARLETT](https://open.spotify.com/album/5A75qRzyCzcjX2T2JNtw5E) | 2:09 |
+| 7 | [kanji](https://open.spotify.com/track/066OJkWyKExrVhsw9org4b) | [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [Mountain's Music](https://open.spotify.com/album/0s3vZkWjtFsa7t3FQfacPk) | 2:06 |
 | 8 | [Illégal](https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [MONSTRE](https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV) | 2:59 |
 | 9 | [Goodbye](https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Random](https://open.spotify.com/artist/72NJ6Ydiryy5HTo7XONf2u) | [Tel Kel X Boutot](https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj) | 4:06 |
 | 10 | [SEPT ANS DE MALHEUR \(titre permanent\)](https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [SEPT ANS DE MALHEUR \(titre temporaire\)](https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40) | 4:05 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 85 | [C.O.D](https://open.spotify.com/track/5ItuZvd3f1hymqNWd5TIGl) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA) | [C.O.D](https://open.spotify.com/album/3wfGQ5YZnI5P4W46DzCCxy) | 2:32 |
 | 86 | [À cœur ouvert](https://open.spotify.com/track/0bjsa6H3BEjcsXkw0nmUR8) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ) | [À cœur ouvert](https://open.spotify.com/album/3Xzy64EjxyUqOOHf2vCRJX) | 2:55 |
 
-Snapshot ID: `AAAAAIjSmMU7vEAzlEg3GE64ACJKBYjf`
+Snapshot ID: `AAAAANilSE/njdyiCzS596CmHaCcdTnL`

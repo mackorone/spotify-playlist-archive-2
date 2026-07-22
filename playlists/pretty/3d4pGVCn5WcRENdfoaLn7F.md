@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 797 likes - 90 songs - 5 hr 17 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 799 likes - 93 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 88 | [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 |
 | 89 | [Little Demon](https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Little Demon](https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7) | 3:47 |
 | 90 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 |
+| 91 | [The Shadow](https://open.spotify.com/track/1mcneLdPg8ossSX5Mu8Epz) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Pain in the Yeahs](https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd) | [The Shadow](https://open.spotify.com/album/5PiWNYUNyiCqNZ7WVJxaXQ) | 3:16 |
+| 92 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 |
+| 93 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 |
 
-Snapshot ID: `AAAD08wk3+OCG3/pseACKM7NXEJQVhGm`
+Snapshot ID: `AAAD1qnAGdS67nE3kOCSfvCB88vWboAf`

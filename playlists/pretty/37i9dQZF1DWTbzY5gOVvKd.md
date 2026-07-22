@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,905 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,927 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 62 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
 | 63 | [I've Got You Under My Skin](https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym) | [April Varner](https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b) | [Ella](https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq) | 3:57 |
 | 64 | [I've Been Kicking Myself](https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I've Been Kicking Myself](https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq) | 3:14 |
-| 65 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
-| 66 | [under a blanket of blue \(feat\. Jacob Chung\)](https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK) | [Richard Cortez](https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4), [Jacob Chung](https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv) | [under a blanket of blue](https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG) | 4:21 |
+| 65 | [under a blanket of blue \(feat\. Jacob Chung\)](https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK) | [Richard Cortez](https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4), [Jacob Chung](https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv) | [under a blanket of blue](https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG) | 4:21 |
+| 66 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
 | 67 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
 | 68 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
 | 69 | [It Amazes Me](https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw) | [Marie Bergman](https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99) | [Fruit](https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1) | 4:22 |

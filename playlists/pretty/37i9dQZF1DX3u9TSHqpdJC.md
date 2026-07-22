@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.   Cover: Mercer Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,204 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,222 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 39 | [New York](https://open.spotify.com/track/7uWdf0IRjNNU7IfbaGXia6) | [Ava Claire](https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9) | [New York](https://open.spotify.com/album/2wr4CUba7Uv0hM5WdwbQIW) | 3:18 |
 | 40 | [CAIRO \(I Like That...\)](https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [CAIRO \(I Like That...\)](https://open.spotify.com/album/3VfIOszi5DLjrPoMz61Atw) | 3:15 |
 | 41 | [prom king](https://open.spotify.com/track/3v5vLLV5ThebrEbLQXyim7) | [Kiki Kramer](https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL) | [prom king](https://open.spotify.com/album/59zlzo8waDYHUzNfMCONqS) | 4:10 |
-| 42 | [catch//release](https://open.spotify.com/track/67BMD9neEgHI68CpuOCoyO) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [catch//release](https://open.spotify.com/album/12pX3EXutVLaxvG3WocoZM) | 2:16 |
+| 42 | [catch//release](https://open.spotify.com/track/67BMD9neEgHI68CpuOCoyO) | [oktehya](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [catch//release](https://open.spotify.com/album/12pX3EXutVLaxvG3WocoZM) | 2:16 |
 | 43 | [magic](https://open.spotify.com/track/6lKfOVXCnxouZjkz95gq52) | [Cosette](https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf) | [magic](https://open.spotify.com/album/4P0lcfRd6RqpGk33mIEOY3) | 2:50 |
 | 44 | [Heartache Made Me A Killer](https://open.spotify.com/track/0xMb6R3pzOzaFPrmAIHsUZ) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [Heartache Made Me A Killer](https://open.spotify.com/album/2MktPd6o9NIZG9t8gkKGGU) | 3:04 |
 | 45 | [move, honey](https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [the train where the time slows \(deluxe\)](https://open.spotify.com/album/7By4XMbKKHqDfqDeYpdnzQ) | 3:20 |

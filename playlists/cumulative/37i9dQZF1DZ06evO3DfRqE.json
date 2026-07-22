@@ -266,7 +266,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 287506,
       "name": "Calm Seas - short version (with nature)",
       "url": "https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH"
@@ -1498,6 +1498,24 @@
       "duration_ms": 299160,
       "name": "Rollin' N Tumblin'",
       "url": "https://open.spotify.com/track/5PeO4GVNykhNsxk3TozEDn"
+    },
+    {
+      "album": {
+        "name": "Pop Experience",
+        "url": "https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184338,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/4oNjzsETy0n1XP6O3zKop5"
     },
     {
       "album": {

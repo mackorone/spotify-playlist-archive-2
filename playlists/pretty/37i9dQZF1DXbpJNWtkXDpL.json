@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93295,
+  "num_followers": 93312,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Amor x Dosis (Deluxe)",
-        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
+        "name": "Victoria Miller",
+        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
       },
       "artists": [
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
         }
       ],
-      "duration_ms": 185717,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
+      "duration_ms": 181080,
+      "name": "Victoria Miller",
+      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -443,18 +439,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Victoria Miller",
-        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+        "name": "Amor x Dosis (Deluxe)",
+        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
       },
       "artists": [
         {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Victoria Miller",
-      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+      "duration_ms": 185717,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+        "name": "a la mitad",
+        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
       },
       "artists": [
         {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+          "name": "Majo Rivas",
+          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
         },
         {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
         }
       ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+      "duration_ms": 174460,
+      "name": "a la mitad",
+      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -799,22 +799,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "a la mitad",
-        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
       },
       "artists": [
         {
-          "name": "Majo Rivas",
-          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
         },
         {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
         }
       ],
-      "duration_ms": 174460,
-      "name": "a la mitad",
-      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "Cereza",
         "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 198150,
       "name": "Cereza",
       "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "puede ser que ma\u00f1ana",
-        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "puede ser que ma\u00f1ana",
-      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "ETHEREA",
         "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "solo hoy",
-        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 153903,
-      "name": "solo hoy",
-      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "Se Va Se Va",
         "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 195103,
       "name": "Se Va Se Va",
       "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "solo hoy",
+        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 153903,
+      "name": "solo hoy",
+      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
     },
     {
       "added_at": "2026-07-17 06:00:21",

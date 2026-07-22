@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Kapuchon",
+          "url": "https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt"
+        },
+        {
+          "name": "GLZ",
+          "url": "https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137699,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF"
+    },
+    {
+      "album": {
         "name": "How Good We Had It",
         "url": "https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR"
       },

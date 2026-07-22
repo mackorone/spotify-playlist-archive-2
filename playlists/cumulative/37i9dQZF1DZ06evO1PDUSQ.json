@@ -754,7 +754,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 190013,
       "name": "Three Words Away",
       "url": "https://open.spotify.com/track/0DJJyOL3LfHw10WrAlOMn7"
@@ -812,6 +812,24 @@
       "duration_ms": 223257,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/4gMWrJ20uEwMHGu1OReCBj"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "Who Am I?",
+      "url": "https://open.spotify.com/track/0SAmDYaMrZzCYMOhzqknvd"
     },
     {
       "album": {

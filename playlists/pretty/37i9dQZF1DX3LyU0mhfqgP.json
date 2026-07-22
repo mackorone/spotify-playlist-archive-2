@@ -1,13 +1,29 @@
 {
-  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: Omar Rudberg",
-  "num_followers": 1072816,
+  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: GUS",
+  "num_followers": 1072772,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSzbFUzhTxjb6LQjvyhKl+SZ2Gr",
+  "snapshot_id": "AAAAAD2edsvLsu/mEj7egNarH8F+rRwC",
   "tracks": [
+    {
+      "added_at": "2026-07-14 06:00:09",
+      "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
+    },
     {
       "added_at": "2026-07-14 06:00:09",
       "album": {
@@ -45,20 +61,20 @@
       "url": "https://open.spotify.com/track/3jEjupGqz8ONiK7bNPYNfA"
     },
     {
-      "added_at": "2026-07-14 06:00:09",
+      "added_at": "2026-07-21 06:00:38",
       "album": {
-        "name": "First Times",
-        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
       },
       "artists": [
         {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 196433,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "added_at": "2026-07-14 06:00:09",
@@ -219,6 +235,26 @@
     {
       "added_at": "2026-07-14 06:00:09",
       "album": {
+        "name": "The Owner of Sweetness",
+        "url": "https://open.spotify.com/album/2qOVMiBbwTN2KWtUCOagYY"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        }
+      ],
+      "duration_ms": 242162,
+      "name": "The Owner Of Sweetness",
+      "url": "https://open.spotify.com/track/4Dx2uWCCtCmZBtT1GCf6Jq"
+    },
+    {
+      "added_at": "2026-07-14 06:00:09",
+      "album": {
         "name": "RAMUELO",
         "url": "https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K"
       },
@@ -247,26 +283,6 @@
       "duration_ms": 178666,
       "name": "life",
       "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
-    },
-    {
-      "added_at": "2026-07-14 06:00:09",
-      "album": {
-        "name": "The Owner of Sweetness",
-        "url": "https://open.spotify.com/album/2qOVMiBbwTN2KWtUCOagYY"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        },
-        {
-          "name": "HaHa And The Hairpins",
-          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
-        }
-      ],
-      "duration_ms": 242162,
-      "name": "The Owner Of Sweetness",
-      "url": "https://open.spotify.com/track/4Dx2uWCCtCmZBtT1GCf6Jq"
     },
     {
       "added_at": "2026-07-14 06:00:09",
@@ -815,26 +831,6 @@
       "duration_ms": 191694,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0hWfRjZl5UlAYHDR53DXHD"
-    },
-    {
-      "added_at": "2026-07-14 06:00:09",
-      "album": {
-        "name": "Madrugadas de nada",
-        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
-      },
-      "artists": [
-        {
-          "name": "Isle\u00f1a Antumalen",
-          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Madrugadas de nada",
-      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
     },
     {
       "added_at": "2026-07-14 06:00:09",

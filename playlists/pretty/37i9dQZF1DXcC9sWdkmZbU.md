@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,541 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,569 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 46 | [Best Day of My Life](https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Best Day of My Life](https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u) | 3:16 |
 | 47 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
 | 48 | [You're Worthy Of My Praise](https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 4:17 |
-| 49 | [Let My Light Shine](https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Let My Light Shine](https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI) | 2:46 |
-| 50 | [What a Friend We Have in Jesus](https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Just as I Am](https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92) | 3:11 |
+| 49 | [What a Friend We Have in Jesus](https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Just as I Am](https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92) | 3:11 |
+| 50 | [Let My Light Shine](https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8) | [KidSpring](https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc) | [Let My Light Shine](https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI) | 2:46 |
 | 51 | [Don't Forget \(Psalm 103\) \- Live](https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:23 |
 | 52 | [This Is Amazing Grace](https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg) | [Kids Sing Praise](https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm) | [Praise Songs for Kids](https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ) | 4:44 |
 | 53 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |

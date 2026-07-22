@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2238107,
+  "num_followers": 2238522,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174866,
       "name": "Blue Clear Sky",
       "url": "https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Every Light In The House",
-      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Every Light In The House",
+      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 200533,
       "name": "Ain't That Lonely Yet",
       "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Extremes",
-        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "That's My Story",
-      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "From the Heart",
         "url": "https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 191840,
       "name": "Why Didn't I Think of That",
       "url": "https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "That's My Story",
+      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Doug Stone",
         "url": "https://open.spotify.com/album/4PoyxCrUUWbCA98AmlStnM"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 208306,
       "name": "In a Different Light",
       "url": "https://open.spotify.com/track/1qkGJN690UpX3leaGGC4Wq"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Place That Far",
         "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 217400,
       "name": "No Place That Far",
       "url": "https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2026-02-11 22:52:29",

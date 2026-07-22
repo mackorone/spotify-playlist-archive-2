@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 553913,
+  "num_followers": 553982,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAB+1Ju/gDJUDteWav+fbc8a",
+  "snapshot_id": "al1lAAAAAAB9xnv3lN+Bi4Rfv/XUqzrW",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+      "duration_ms": 212902,
+      "name": "Culpable o Inocente",
+      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 212902,
-      "name": "Culpable o Inocente",
-      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se las Voy a Dar a Otro",
-        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 151044,
-      "name": "Se March\u00f3",
-      "url": "https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Misma Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181813,
       "name": "La Misma Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 151044,
+      "name": "Se March\u00f3",
+      "url": "https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy"
     },
     {
       "added_at": null,

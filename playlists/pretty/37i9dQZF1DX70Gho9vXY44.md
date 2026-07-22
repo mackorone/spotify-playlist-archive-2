@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,962 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,960 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 41 | [Vintage](https://open.spotify.com/track/6eZbveFX0km5Smst90Y3pL) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5) | [Vintage](https://open.spotify.com/album/3IEqUoykNf6M88awxeQCWO) | 2:54 |
 | 42 | [Que Se Jodan \(feat\. Norick\)](https://open.spotify.com/track/61RWyEtsa3pfRO4oEWGVfr) | [Warrior Rapper School](https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [teRAPias](https://open.spotify.com/album/6w2V106ibiMW4m0vR0lWNS) | 3:31 |
 | 43 | [Call me](https://open.spotify.com/track/00JwL20Ssq0oPNokLCX0ka) | [Guerreros del Bajo](https://open.spotify.com/artist/4M5LprEeIB6MoDmN2EJiss) | [Dos mil Siempre](https://open.spotify.com/album/1knjzwM5Qj0fc367vUrKul) | 4:24 |
-| 44 | [My Girl](https://open.spotify.com/track/1tREl7Eo7dMS6JZe6wQKT5) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 2:34 |
+| 44 | [My Girl](https://open.spotify.com/track/1tREl7Eo7dMS6JZe6wQKT5) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Klibre](https://open.spotify.com/artist/5ZHVFn7sOBWJoxAetJieTd) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 2:34 |
 | 45 | [Again](https://open.spotify.com/track/0E7kQ0XSpUqAxWyW7CBFMZ) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5), [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF) | [Again](https://open.spotify.com/album/4P5XL9H3tdWqQJ5WppldVx) | 3:37 |
 | 46 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
 | 47 | [Un Muerto Más](https://open.spotify.com/track/7cmexuEqPLnWIUYRDnAlsD) | [Zona Infame](https://open.spotify.com/artist/32FmPGPkEM3IifxSPWEstr) | [Llegamos](https://open.spotify.com/album/7Abvxuj7EQVesUvTXbv6P4) | 4:38 |

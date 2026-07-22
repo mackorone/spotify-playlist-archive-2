@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 223972,
+  "num_followers": 223994,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
+        "name": "El Waet Hdiye",
+        "url": "https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "El Waet Hdiye",
+      "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
         "name": "Best of Salwa El Katrib, Vol. 1",
         "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 254640,
       "name": "Khedni Maak Aa Darb Bi'ldi",
       "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
-        "name": "El Waet Hdiye",
-        "url": "https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "El Waet Hdiye",
-      "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
     },
     {
       "added_at": "2026-05-23 04:25:38",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
+        "name": "Ana Moush Kafer",
+        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Shou Hal Ayyam - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
         "name": "Pascale Sakr Sings Elias Rahbani",
         "url": "https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 392840,
       "name": "Ya Sarek Makatibi",
       "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
-        "name": "Ana Moush Kafer",
-        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Shou Hal Ayyam - 2008 Remastered",
-      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
       "added_at": "2026-05-23 04:25:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "El Makina",
-        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
-      },
-      "artists": [
-        {
-          "name": "Jadal",
-          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
-        }
-      ],
-      "duration_ms": 260243,
-      "name": "Ana Bakhaf Min El Commitment",
-      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
         "name": "Ufuq",
         "url": "https://open.spotify.com/album/6WNJG1Woj2Cf3mrxZgovad"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
+        "name": "El Makina",
+        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "duration_ms": 260243,
+      "name": "Ana Bakhaf Min El Commitment",
+      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
         "name": "Halalalalaya",
         "url": "https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
-      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
         "name": "Shem Wroud",
         "url": "https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 196795,
       "name": "Shem Wroud",
       "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
+        "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+        "url": "https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
+      "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
     },
     {
       "added_at": "2026-05-23 04:25:38",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
-        "url": "https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym"
-      },
-      "artists": [
-        {
-          "name": "Badr Rami",
-          "url": "https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB"
-        }
-      ],
-      "duration_ms": 772885,
-      "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
-      "url": "https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 171973,
       "name": "Despite the Flop",
       "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
+        "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
+        "url": "https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym"
+      },
+      "artists": [
+        {
+          "name": "Badr Rami",
+          "url": "https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB"
+        }
+      ],
+      "duration_ms": 772885,
+      "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
+      "url": "https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV"
     },
     {
       "added_at": "2026-05-23 04:25:38",

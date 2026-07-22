@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 23 | [Piano \- 2009 Remaster](https://open.spotify.com/track/03SO85UVkV11h83YU8qJa5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:58 |
 | 24 | [Miracles in Inches](https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:41 |
 | 25 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 |
-| 26 | [new white extremity](https://open.spotify.com/track/7behUBBwhex459VBTOH0wT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:25 |
+| 26 | [citizen](https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:21 |
 | 27 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 | 28 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
 | 29 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
-| 30 | [citizen](https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:21 |
+| 30 | [new white extremity](https://open.spotify.com/track/7behUBBwhex459VBTOH0wT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:25 |
 | 31 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 | 32 | [Stations of the New Cross](https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 6:55 |
 | 33 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
 | 34 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
 
-Snapshot ID: `alwTgAAAAAB8tHp4VF+YRZtdRmoGwOTJ`
+Snapshot ID: `al1lAAAAAABmL/IqpyUxwQige6hz6Unp`

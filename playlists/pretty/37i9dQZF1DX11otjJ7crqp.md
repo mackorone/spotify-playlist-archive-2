@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,274 likes - 148 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,538 likes - 148 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 41 | [Breadcrumbs](https://open.spotify.com/track/11bloEmkI1B1VJDaam7amJ) | [Isabella Contadini](https://open.spotify.com/artist/7es1ZMOu9pWxGha3pVYjwv) | [Breadcrumbs](https://open.spotify.com/album/0UVZPteSAFrEIAPxh01qEw) | 3:03 |
 | 42 | [mwah](https://open.spotify.com/track/2Lx8KxpVFrVUq2FRdPid4Y) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [mwah](https://open.spotify.com/album/7JwkpZSxFZDzETuuXG4UBb) | 1:42 |
 | 43 | [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 |
-| 44 | [4L](https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [4L](https://open.spotify.com/album/6xibxT71j595mgwTr3FASn) | 2:04 |
+| 44 | [4L](https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb) | [oktehya](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [4L](https://open.spotify.com/album/6xibxT71j595mgwTr3FASn) | 2:04 |
 | 45 | [Placebo effect](https://open.spotify.com/track/0AWIGwqHxkhlO1mRKf0aFM) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Placebo effect](https://open.spotify.com/album/4P6s1GGlKcN0iH03loYMkf) | 3:09 |
 | 46 | [Bad Ones](https://open.spotify.com/track/55dLto2zNNweS9dfcEkLX6) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Bad Ones](https://open.spotify.com/album/00WzTC89EAC61hxxW9bYng) | 2:45 |
 | 47 | [Good Times](https://open.spotify.com/track/0JslH50Zgdpf8mtO34AiHx) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/6kw0FvOg71b6xMKpOhRG9U) | 3:04 |

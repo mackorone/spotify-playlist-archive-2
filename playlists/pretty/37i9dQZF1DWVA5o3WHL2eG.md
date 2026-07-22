@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,259 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,256 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [In My Dreams](https://open.spotify.com/track/4ZXEd49kxTCbDpbjzhHtpj) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/4Y4SOIejf7sDcAhUgkbFwq) | 3:35 |
 | 24 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
 | 25 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
-| 26 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
-| 27 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |
+| 26 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |
+| 27 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
 | 28 | [Blue Star](https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR) | 3:06 |
 | 29 | [GIRLZ GIRLZ](https://open.spotify.com/track/2IvdFVrOzSnbHw6KIX1yyg) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [GIRLZ GIRLZ](https://open.spotify.com/album/6d5uT2Afimxl2B7UiURKOP) | 2:00 |
 | 30 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 39 | [MON CHÉRI](https://open.spotify.com/track/0ETTeq8wof8q3llTA3stYP) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [MON CHÉRI](https://open.spotify.com/album/2LRQ7FmjQBSSATRzNrPak5) | 2:28 |
 | 40 | [do it for the plot](https://open.spotify.com/track/4yUNvSK5PBu2L0qa3315Xv) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [do it for the plot](https://open.spotify.com/album/6dhgGDHp0iBo2w72uHG4G5) | 2:28 |
 | 41 | [primetime](https://open.spotify.com/track/2Vj5ENVmd7BM1hSDA0dUs4) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [primetime](https://open.spotify.com/album/1Gct02nOLfBFJ34XXzm0rN) | 3:18 |
-| 42 | [halbe sachen](https://open.spotify.com/track/1CxKNERZr6gi9oGHJ6CbeJ) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [halbe sachen](https://open.spotify.com/album/6KVgU1gCTrrbMddaEXUceY) | 2:22 |
-| 43 | [Girls Girl](https://open.spotify.com/track/0oeeQa2xlJqVp8alhJWsuU) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Ich will ganz laut schreien](https://open.spotify.com/album/1aYIaiJnBt1OmTV0ql6eGP) | 2:25 |
+| 42 | [Girls Girl](https://open.spotify.com/track/0oeeQa2xlJqVp8alhJWsuU) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Ich will ganz laut schreien](https://open.spotify.com/album/1aYIaiJnBt1OmTV0ql6eGP) | 2:25 |
+| 43 | [halbe sachen](https://open.spotify.com/track/1CxKNERZr6gi9oGHJ6CbeJ) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [halbe sachen](https://open.spotify.com/album/6KVgU1gCTrrbMddaEXUceY) | 2:22 |
 | 44 | [bad 2 the bones](https://open.spotify.com/track/1BXMyANdOhc3KGtzhmS9zB) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [keiner lacht](https://open.spotify.com/album/0I4QIa41Ls0ckSSwzXMJGs) | 2:27 |
 | 45 | [supersexy](https://open.spotify.com/track/7w7ncCA51LlnTfgcqsQnzY) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [supersexy](https://open.spotify.com/album/7DAHk01LDcEiRXNyyzbPLu) | 2:24 |
 | 46 | [2k16//capriKid](https://open.spotify.com/track/7m40TgwNJ8MkeHGFdbQfA7) | [Naomi Westlake](https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml) | [2k16//capriKid](https://open.spotify.com/album/5covX8DwctSAofDqDheVJ3) | 2:16 |

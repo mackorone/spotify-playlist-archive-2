@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,077 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,066 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 31 | [Chaque fois](https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV) | [2TH](https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT) | [Chaque fois](https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2) | 2:58 |
 | 32 | [SCLA](https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed) | [Tisma](https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu) | [SEUL COMME LES AUTRES](https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb) | 2:01 |
 | 33 | [Atlas \(Album Version\)](https://open.spotify.com/track/5rbEao908gGxTtMTDQkT72) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Resonance](https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA) | 5:55 |
-| 34 | [Grandir](https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Entracte](https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg) | 2:53 |
-| 35 | [Le dico de Charlie](https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Le dico de Charlie](https://open.spotify.com/album/7eauARELSnK7i01uXtUOq7) | 3:08 |
+| 34 | [Le dico de Charlie](https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Le dico de Charlie](https://open.spotify.com/album/7eauARELSnK7i01uXtUOq7) | 3:08 |
+| 35 | [Grandir](https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj), [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [Entracte](https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg) | 2:53 |
 | 36 | [Best Cards](https://open.spotify.com/track/1ybF1NglLJBBGDCtG7d1gn) | [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt), [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Best Cards](https://open.spotify.com/album/5SsOljfQig0YmMz0CjMJaS) | 3:18 |
 | 37 | [Janis](https://open.spotify.com/track/52uobAwbP5In7cc0NV677y) | [JANIS](https://open.spotify.com/artist/6yUYZsMTveUZ8yo8wsKSLN) | [Cry With Us](https://open.spotify.com/album/7hnRtt8Z3jckrMwCaOJVMe) | 4:33 |
 | 38 | [250 pétales](https://open.spotify.com/track/35ULGsZuPN1jSEPyU7WAnX) | [Tallou](https://open.spotify.com/artist/2ocVczKXDVxt5UFjpXzIw6) | [250 pétales](https://open.spotify.com/album/3sgeUeFsVgQhF220LxMuqf) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Alok, One Republic, Xamã com LUDMILLA,  Tinashe, Israel & Rodolffo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,367 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,133 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 45 | [Jogada Fatal](https://open.spotify.com/track/4QPYxGhRxl5oeOhUluLS3s) | [Anderson Neiff](https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Jogada Fatal](https://open.spotify.com/album/3GOAaMKmDF0siHp396o0JA) | 3:12 |
 | 46 | [Tribo Das Magrinha](https://open.spotify.com/track/04ppmnlJLWp0qIotYFQK5z) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [MC B7](https://open.spotify.com/artist/7ir6y8H6PGcwvMSJC5VBMh), [CORDIAL](https://open.spotify.com/artist/4uiYbPQuTukuX0lTmFpjLT) | [Tribo Das Magrinha](https://open.spotify.com/album/1dVIuMKVOfz3IlEGEC58E1) | 1:56 |
 | 47 | [No Ar Condicionado](https://open.spotify.com/track/479dkOFB3l08nsexhCYKe0) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp) | [No Ar Condicionado](https://open.spotify.com/album/0WuDxk7QeB7H00dES8NRiC) | 2:00 |
-| 48 | [Bloguerinha](https://open.spotify.com/track/1XFSjo1O6urHuJK2YG2A1j) | [Glaxdow](https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2), [AION](https://open.spotify.com/artist/7t3auTvw4mJuqsW2FQXnSP), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Bloguerinha](https://open.spotify.com/album/7APXw7M9LgrmwPzO11MD1q) | 2:23 |
+| 48 | [Bloguerinha](https://open.spotify.com/track/1XFSjo1O6urHuJK2YG2A1j) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Glaxdow](https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2), [Lil Markiz](https://open.spotify.com/artist/0VoPSHJHhuvFfe5q9vui59), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Bloguerinha](https://open.spotify.com/album/7APXw7M9LgrmwPzO11MD1q) | 2:23 |
 | 49 | [Brota no set, se o 2w te pedir](https://open.spotify.com/track/4yBSLCHM9sHEOznaoVKmPX) | [DJ 2w](https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Brota no set, se o 2w te pedir](https://open.spotify.com/album/0TtnmA409bRN5yGWHP65Gd) | 2:20 |
 | 50 | [Proibido Apaixonar](https://open.spotify.com/track/3HOL3jdkJkRQj430Iis9wZ) | [Bellagi](https://open.spotify.com/artist/4kocH0Bzv4FFzH8F6iuz6c), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Gedson Dias](https://open.spotify.com/artist/5r2tCTyoIuIs9FVt842AWu) | [Proibido Apaixonar](https://open.spotify.com/album/6iVCdDhz1wSE53xIw6iuqp) | 2:47 |
 | 51 | [Me Tratam como O.G](https://open.spotify.com/track/0nUPvoPGGEB7kU1F0Wd8lU) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [ME TRATAM COMO O.G](https://open.spotify.com/album/4SxF8NJHKGQWRWfG1NkGMn) | 2:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,551 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,563 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 61 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 62 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
 | 63 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
-| 64 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
-| 65 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
+| 64 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
+| 65 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
 | 66 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 67 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
+| 67 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 68 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |
-| 69 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
+| 69 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
 | 70 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
 | 71 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |
 | 72 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-543 songs - 1 day 6 hr 49 min
+548 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bags Full Of Money](https://open.spotify.com/track/6s6ycfcQBla88TX9SmTkkD) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [Bags Full Of Money](https://open.spotify.com/album/69DIxggZ7kwksKWQotolnz) | 3:55 | 2025-11-08 | 2025-12-01 |
 | [Banana Trees And Heart Deals](https://open.spotify.com/track/4hgHjUTRvAm4qAKYmkHvUN) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Banana Trees And Heart Deals](https://open.spotify.com/album/68m2WfcBHGBgA4rkWRYwFX) | 3:59 | 2025-11-17 | 2026-01-05 |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
+| [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-07-21 |  |
 | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m) | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ) | 2:22 | 2026-03-21 | 2026-05-26 |
 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 | 2025-12-23 | 2026-01-15 |
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-05-29 |  |
@@ -143,6 +144,7 @@
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-09 | 2026-01-05 |
 | [Destino](https://open.spotify.com/track/3ZzXAcYmNtY1LaEXvEKzI8) | [Harmada](https://open.spotify.com/artist/7n7lcKO8out5UWWm8aqhNP), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [Os Fugitivos](https://open.spotify.com/album/5dEBKULs3xbFyKxyMA1rEk) | 3:54 | 2025-11-01 | 2025-12-01 |
 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 | 2026-06-26 |  |
+| [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-07-21 |  |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 | 2026-01-05 |
 | [Do It Again?](https://open.spotify.com/track/0Awhj0KTKBSgsXNeNmWs6d) | [Jason Patel](https://open.spotify.com/artist/5UmwsM87WwV6YfTQuIvPUc) | [Do It Again?](https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu) | 2:31 | 2026-03-15 | 2026-05-26 |
 | [do you think about us?](https://open.spotify.com/track/4w8aURQyqUbnlOjNG6dLa3) | [Tapeweather](https://open.spotify.com/artist/7bB7CFWjPlDD8fZKUMwg2w) | [do you think about us?](https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2) | 2:37 | 2025-11-08 | 2025-12-01 |
@@ -160,6 +162,7 @@
 | [Enséñame](https://open.spotify.com/track/4FKBpzuDfY5W38nU1R9nAz) | [Kirke](https://open.spotify.com/artist/2DqLLxyfyxRUodLixvd306) | [Enséñame](https://open.spotify.com/album/2ZRX2YE4E5qB4q6fvrKTB9) | 3:27 | 2026-04-28 | 2026-06-14 |
 | [Envidia](https://open.spotify.com/track/6Zk07DRGksbUobWOL0y1Uq) | [Cande Gosso](https://open.spotify.com/artist/3aT6vyDWCI0ke5cQvCiRPs) | [Envidia](https://open.spotify.com/album/0XqtI3ZoY1LFMn1mHrC48D) | 3:52 | 2025-11-16 | 2026-01-05 |
 | [Espaço Nave](https://open.spotify.com/track/2Ypv5BYy1j8sE2NZzQrnHn) | [ZTREEX™](https://open.spotify.com/artist/5SiZ0DVf11mAwQOcilRnce) | [Espaço Nave](https://open.spotify.com/album/25dbUSbSEBAeSINVVl1PdA) | 3:10 | 2025-11-17 | 2026-01-05 |
+| [Espressione d'algebra](https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Espressione d'algebra](https://open.spotify.com/album/5VdsafQTceOkatMfr6lm0G) | 2:18 | 2026-07-21 |  |
 | [Eternal Rest](https://open.spotify.com/track/0CvstCW3erF8eWPYlNxg2i) | [Saint Petrus](https://open.spotify.com/artist/6JmOrTTiKwoznKQlZ8gNFh) | [Eternal Rest](https://open.spotify.com/album/0GrNoVykYtQeOBFI14FkJa) | 3:10 | 2025-11-10 | 2025-12-01 |
 | [Exurbia](https://open.spotify.com/track/709623tJrfsBIS0EYzRf4a) | [Gianna Sanzen](https://open.spotify.com/artist/0dOmfZPNH7WYPXVtUGG58d) | [Exurbia](https://open.spotify.com/album/35nM4mGD7u3f89almFVhxv) | 3:45 | 2025-11-17 | 2026-01-05 |
 | [Fading Inbetween](https://open.spotify.com/track/2gDwnYkg9beSsnTuLcOALl) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Hidden Fears EP](https://open.spotify.com/album/09ppLzddbk0ZuEB6rfDYsd) | 3:23 | 2025-11-01 | 2025-12-01 |
@@ -395,6 +398,7 @@
 | [Run, Cinderella](https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [40 Days](https://open.spotify.com/album/5mVB4IdzqLak9ldSKbVD9b) | 3:32 | 2026-03-16 | 2026-04-25 |
 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 | 2025-12-20 | 2026-01-15 |
 | [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 | 2025-12-22 | 2026-01-15 |
+| [SAFE PLACE](https://open.spotify.com/track/2NQTx7JMNqfz7O9Ng6pfPS) | [Dawnluks](https://open.spotify.com/artist/0mGXx78dElsOzH3LxC7aka) | [SAFE PLACE](https://open.spotify.com/album/4jLD8hfDGnQteQCz97xEXI) | 3:30 | 2026-07-21 |  |
 | [SAFE SPACE](https://open.spotify.com/track/5inf6KBpzOAEjEJLeJf0jH) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:00 | 2026-01-06 | 2026-02-21 |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-30 | 2026-01-05 |
 | [Same Ol](https://open.spotify.com/track/0bDz7KTcpgyinGhRLiAFlS) | [Sam Watson](https://open.spotify.com/artist/2kKoGgC3dc984v8Jq1FenP) | [Just Listen EP](https://open.spotify.com/album/1InJV1CZU9tbEAdi6SPWxW) | 2:43 | 2026-05-11 | 2026-06-14 |
@@ -504,6 +508,7 @@
 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-10 | 2026-04-14 |
 | [Vibin'](https://open.spotify.com/track/5Vjl0WmzrCICtWAXquSTBq) | [Tyler J\. Thierry](https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4), [Reynakah](https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek), [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw) | [Oh You Want Me Now](https://open.spotify.com/album/0wyyw9zdgJpFEIbCTLQP59) | 4:14 | 2026-05-23 |  |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 | 2026-01-05 |
+| [WAKING UP](https://open.spotify.com/track/5CmnN94I3535jWKMQW9qu1) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [WAKING UP](https://open.spotify.com/album/0fD04gI97Tk00A53mfALC5) | 1:46 | 2026-07-21 |  |
 | [Walk this road](https://open.spotify.com/track/6RlhMFUctXgyXJpJWnfHHu) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Walk this road](https://open.spotify.com/album/5Gal7XaBtHNT687d69zomu) | 3:31 | 2026-04-11 | 2026-05-26 |
 | [Walls](https://open.spotify.com/track/4jfale9zgHt9thJ6JFX6Ew) | [Joy Xande](https://open.spotify.com/artist/1lgXevJ9jOHDFulgS77qdR), [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Walls](https://open.spotify.com/album/52adXcCRJ2WMZ4lzuRjlej) | 3:56 | 2026-03-09 | 2026-05-26 |
 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 | 2026-01-03 | 2026-01-25 |

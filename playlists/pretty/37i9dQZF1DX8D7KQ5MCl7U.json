@@ -1,6 +1,6 @@
 {
   "description": "All Coke Studio Pakistan tracks in one place. ",
-  "num_followers": 135686,
+  "num_followers": 135694,
   "original_name": "This Is Coke Studio",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,22 @@
     {
       "added_at": "2025-05-14 08:35:33",
       "album": {
-        "name": "Aayi Aayi",
-        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
+        "name": "Coke Studio Season 10: Episode 1",
+        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
       },
       "artists": [
         {
-          "name": "Noman Ali Rajper",
-          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         },
         {
-          "name": "Babar Mangi",
-          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
-        },
-        {
-          "name": "Marvi-Sahiban",
-          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+          "name": "Ahmed Jahanzeb",
+          "url": "https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR"
         }
       ],
-      "duration_ms": 289974,
-      "name": "Aayi Aayi",
-      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
+      "duration_ms": 519405,
+      "name": "Allahu Akbar",
+      "url": "https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha"
     },
     {
       "added_at": "2025-05-14 08:35:33",
@@ -515,22 +511,26 @@
     {
       "added_at": "2025-05-14 08:35:33",
       "album": {
-        "name": "Coke Studio Season 10: Episode 1",
-        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
+        "name": "Aayi Aayi",
+        "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
       },
       "artists": [
         {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+          "name": "Noman Ali Rajper",
+          "url": "https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF"
         },
         {
-          "name": "Ahmed Jahanzeb",
-          "url": "https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR"
+          "name": "Babar Mangi",
+          "url": "https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
         }
       ],
-      "duration_ms": 519405,
-      "name": "Allahu Akbar",
-      "url": "https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha"
+      "duration_ms": 289974,
+      "name": "Aayi Aayi",
+      "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
     },
     {
       "added_at": "2025-05-14 08:35:33",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-05-14 08:35:33",
       "album": {
-        "name": "Coke Studio Sessions: Season 2",
-        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
-      },
-      "artists": [
-        {
-          "name": "Zeb, Haniya & Javed Bashir",
-          "url": "https://open.spotify.com/artist/1f4iMSEs6INRJOf87jpn0C"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
-        }
-      ],
-      "duration_ms": 268624,
-      "name": "Rona Chor Diya",
-      "url": "https://open.spotify.com/track/1FSm1qNtuT0d033DG4jZG7"
-    },
-    {
-      "added_at": "2025-05-14 08:35:33",
-      "album": {
         "name": "Coke Studio Season 10: Epsiode 6",
         "url": "https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 459629,
       "name": "Ghoom Taana",
       "url": "https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW"
+    },
+    {
+      "added_at": "2025-05-14 08:35:33",
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Zeb, Haniya & Javed Bashir",
+          "url": "https://open.spotify.com/artist/1f4iMSEs6INRJOf87jpn0C"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "duration_ms": 268624,
+      "name": "Rona Chor Diya",
+      "url": "https://open.spotify.com/track/1FSm1qNtuT0d033DG4jZG7"
     },
     {
       "added_at": "2025-05-14 08:35:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Margo Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,133 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,148 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 46 | [Paint This Town](https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw) | 3:57 |
 | 47 | [Gotta Get Back](https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [I Am Shelby Lynne \(25th Anniversary Edition\)](https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi) | 3:39 |
 | 48 | [The Traveling Kind](https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch) | 3:40 |
-| 49 | [You're My Favorite Song](https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You're My Favorite Song / Wild At Heart](https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m) | 3:21 |
-| 50 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 |
+| 49 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 |
+| 50 | [You're My Favorite Song](https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You're My Favorite Song / Wild At Heart](https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m) | 3:21 |
 | 51 | [Drinkin' Smokin' Cheatin'](https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 2:57 |
 | 52 | [Me and You](https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Man Standing](https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU) | 2:49 |
 | 53 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Heartaches & Highways: The Very Best of Emmylou Harris](https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf) | 3:33 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 56 | [Things That I Lean On](https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 3:40 |
 | 57 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 58 | [Finest Feelings](https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Finest Feelings](https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L) | 3:25 |
-| 59 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 |
-| 60 | [Desperados Waiting For A Train](https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [The Essential Guy Clark](https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y) | 4:32 |
+| 59 | [Desperados Waiting For A Train](https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [The Essential Guy Clark](https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y) | 4:32 |
+| 60 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 |
 | 61 | [One's On The Way \(feat\. Margo Price\)](https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Still Woman Enough](https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv) | 2:41 |
 | 62 | [Detour \(feat\. Emmylou Harris\)](https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Detour](https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ) | 2:55 |
 | 63 | [Tell Heaven](https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 2:40 |

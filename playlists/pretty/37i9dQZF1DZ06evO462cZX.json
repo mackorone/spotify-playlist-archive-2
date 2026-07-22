@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45715,
+  "num_followers": 45722,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADqlcKMcIYxUInEXyp96Z09",
+  "snapshot_id": "al1lAAAAAAAGIefKkox6b0iMNA8UeS+E",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canta y No Llores",
-        "url": "https://open.spotify.com/album/6nddQ9X6LMHKeV2Wv4PpT0"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 302839,
-      "name": "Canta y No Llores",
-      "url": "https://open.spotify.com/track/07IWaJ7EWVFe0Zdo82zaml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+        "name": "Canta y No Llores",
+        "url": "https://open.spotify.com/album/6nddQ9X6LMHKeV2Wv4PpT0"
       },
       "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+      "duration_ms": 302839,
+      "name": "Canta y No Llores",
+      "url": "https://open.spotify.com/track/07IWaJ7EWVFe0Zdo82zaml"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -866,15 +866,11 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
         }
       ],
-      "duration_ms": 229099,
-      "name": "Turn Back Time (feat. Teemu)",
-      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+      "duration_ms": 206228,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
     },
     {
       "added_at": null,
@@ -946,11 +942,15 @@
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
         }
       ],
-      "duration_ms": 206228,
-      "name": "Rise and Shine",
-      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
+      "duration_ms": 229099,
+      "name": "Turn Back Time (feat. Teemu)",
+      "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
     },
     {
       "added_at": null,

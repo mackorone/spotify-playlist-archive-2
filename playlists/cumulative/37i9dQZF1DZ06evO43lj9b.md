@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 14 min
+80 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Breeze On Me](https://open.spotify.com/track/5bw7vNxL2wm66ZnK1NqLrt) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 4:26 | 2025-10-31 | 2026-05-16 |
 | [Can't You See Me](https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 6:58 | 2025-03-11 |  |
 | [Cleva](https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:45 | 2025-03-11 |  |
+| [Coffy Is The Color](https://open.spotify.com/track/2LrD0ffUIfUdffoE1d2d3k) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:03 | 2026-07-22 |  |
 | [Coffy Is The Color \- From The "Coffy" Soundtrack](https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:00 | 2025-03-11 | 2026-07-14 |
 | [Dangerous Jazz](https://open.spotify.com/track/1SyHsoEU6g8Q9VScDsFEcJ) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Dangerous Vibes](https://open.spotify.com/album/3BTGZPdpMC4J4OPQ3lrRVO) | 6:59 | 2025-12-18 | 2025-12-19 |
 | [Dangerous Vibes \(Emmaculate Remix / Edit\)](https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W) | 3:25 | 2025-12-20 |  |
@@ -28,7 +29,7 @@
 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 | 2025-03-11 |  |
 | [Don't Stop The Feeling](https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 8:12 | 2026-03-30 |  |
 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 | 2025-03-11 | 2025-07-22 |
-| [Escape](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 |  |
+| [Escape](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 | 2026-07-22 |
 | [Everybody Loves](https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 1:22 | 2026-03-28 |  |
 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 | 2025-03-11 |  |
 | [Exotic Dance](https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:18 | 2025-03-11 |  |

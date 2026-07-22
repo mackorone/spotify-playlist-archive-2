@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,548 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,539 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 25 | [Conmigo Siempre](https://open.spotify.com/track/1omuLiHsrZNngTOHr2FF9U) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yin](https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71) | 3:03 |
 | 26 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
 | 27 | [La culebra](https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 3:08 |
-| 28 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
-| 29 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 28 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 29 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
 | 30 | [Extraños](https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 3:22 |
 | 31 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
 | 32 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 58 | [Tecalitlán](https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 3:07 |
 | 59 | [Niño asustado](https://open.spotify.com/track/2qyt4T7NGc5eI1WRqm0AWp) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Quiero Habitarme](https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI) | 2:56 |
 | 60 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
-| 61 | [Besarte](https://open.spotify.com/track/18LrVWfCK1PDqoJrUv4heg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Besarte](https://open.spotify.com/album/5UvKuabUMdYmFRW3uku8Iv) | 3:39 |
-| 62 | [Brillantina](https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 3:32 |
+| 61 | [Brillantina](https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 3:32 |
+| 62 | [Besarte](https://open.spotify.com/track/18LrVWfCK1PDqoJrUv4heg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Besarte](https://open.spotify.com/album/5UvKuabUMdYmFRW3uku8Iv) | 3:39 |
 | 63 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
 | 64 | [células adolescentes](https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [células adolescentes](https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm) | 2:54 |
 | 65 | [Cuando Salga la Luna](https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH) | [Radaid](https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz) | [Luz Escondida](https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3) | 4:36 |

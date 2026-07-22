@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Ambr\u00e8",
-  "num_followers": 1315269,
+  "num_followers": 1315193,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/6TbSdRNQejxvrXX3M9VBXh"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
+      "added_at": "2024-09-27 23:55:30",
       "album": {
-        "name": "the feeling",
-        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 275936,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/4jyb5xwkKKxsMTRLsIk1sW"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
+      "added_at": "2026-06-21 21:45:09",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "the feeling",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
     },
     {
       "added_at": "2025-09-12 20:05:34",
@@ -1213,6 +1213,26 @@
       "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
+    },
+    {
       "added_at": "2025-08-15 06:41:00",
       "album": {
         "name": "Baby",
@@ -1253,26 +1273,6 @@
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
     },
     {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "Any Time (feat. James Fauntleroy)",
-        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 269028,
-      "name": "Any Time (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "hillside",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
     },
     {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "maple brown",
+        "url": "https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 179342,
+      "name": "maple brown",
+      "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+    },
+    {
       "added_at": "2025-07-18 05:45:52",
       "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
@@ -1333,22 +1349,6 @@
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "To Dry a Tear",
@@ -1365,20 +1365,20 @@
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
+      "added_at": "2026-06-21 21:45:09",
       "album": {
-        "name": "maple brown",
-        "url": "https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD"
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
       },
       "artists": [
         {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 179342,
-      "name": "maple brown",
-      "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
     },
     {
       "added_at": "2025-06-13 04:00:56",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
     },
     {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
       "added_at": "2026-04-03 07:16:37",
       "album": {
         "name": "Detour",
@@ -1509,20 +1525,20 @@
       "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2026-07-17 05:33:57",
       "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+        "name": "Endlessly Waiting / The Reason",
+        "url": "https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH"
       },
       "artists": [
         {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+      "duration_ms": 280366,
+      "name": "Endlessly Waiting",
+      "url": "https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -1557,22 +1573,6 @@
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "Endlessly Waiting / The Reason",
-        "url": "https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 280366,
-      "name": "Endlessly Waiting",
-      "url": "https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe"
-    },
-    {
       "added_at": "2025-08-15 06:41:00",
       "album": {
         "name": "Baby",
@@ -1587,22 +1587,6 @@
       "duration_ms": 207950,
       "name": "Another Baby!",
       "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
-    },
-    {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "MY FEET",
-        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "MY FEET",
-      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
       "added_at": "2024-08-16 04:08:50",
@@ -1623,6 +1607,22 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "MY FEET",
+        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "MY FEET",
+      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "Real Here Now / Water",
-        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 300764,
-      "name": "Real Here Now",
-      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Someone Asked Me How I've Been",
@@ -1703,6 +1687,22 @@
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -1737,22 +1737,6 @@
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
-    },
-    {
       "added_at": "2026-07-17 05:33:57",
       "album": {
         "name": "Sunshine / P4P",
@@ -1767,6 +1751,22 @@
       "duration_ms": 220044,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
+    },
+    {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1785,20 +1785,20 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
+      "added_at": "2026-05-08 06:11:38",
       "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7e1XIBDJA9TNmIJhBrB7Pw"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
         }
       ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+      "duration_ms": 223095,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
+      "added_at": "2024-09-27 23:55:30",
+      "album": {
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "brother and sister",
@@ -1831,22 +1847,6 @@
       "duration_ms": 175963,
       "name": "brother and sister",
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
-    },
-    {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7e1XIBDJA9TNmIJhBrB7Pw"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        }
-      ],
-      "duration_ms": 223095,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1901,20 +1901,20 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
-      "added_at": "2025-09-19 06:19:16",
+      "added_at": "2024-06-28 18:42:06",
       "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -1933,20 +1933,20 @@
       "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
-      "added_at": "2024-06-28 18:42:06",
+      "added_at": "2025-09-19 06:19:16",
       "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -2121,6 +2121,22 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "Rest of Your Life",
+        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Rest of Your Life",
+      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
+    },
+    {
       "added_at": "2026-03-13 08:17:11",
       "album": {
         "name": "ThunderWave",
@@ -2139,22 +2155,6 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Rest of Your Life",
-        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Rest of Your Life",
-      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
     },
     {
       "added_at": "2024-06-28 18:42:06",
@@ -2281,6 +2281,22 @@
       "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Petty Pete",
+        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "duration_ms": 160248,
+      "name": "Petty Pete",
+      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
+    },
+    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "a million faces",
@@ -2329,22 +2345,6 @@
       "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "Petty Pete",
-        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
-      },
-      "artists": [
-        {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
-        }
-      ],
-      "duration_ms": 160248,
-      "name": "Petty Pete",
-      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -2385,26 +2385,6 @@
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Laugh Later, Cry Now",
-        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 130235,
-      "name": "Laugh Later, Cry Now",
-      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "intention 4 u",
@@ -2439,6 +2419,26 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "Laugh Later, Cry Now",
+        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 130235,
+      "name": "Laugh Later, Cry Now",
+      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
     },
     {
       "added_at": "2025-05-23 04:00:52",
@@ -2533,20 +2533,20 @@
       "url": "https://open.spotify.com/track/02ugxIQUj0KZpugZqPzq67"
     },
     {
-      "added_at": "2026-04-03 07:16:37",
+      "added_at": "2025-05-02 04:00:39",
       "album": {
-        "name": "THE DANGER",
-        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
       "artists": [
         {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 119500,
-      "name": "THE DANGER",
-      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
+      "duration_ms": 140104,
+      "name": "GET YA MONEY",
+      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -2565,20 +2565,20 @@
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
     },
     {
-      "added_at": "2025-05-02 04:00:39",
+      "added_at": "2026-04-03 07:16:37",
       "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+        "name": "THE DANGER",
+        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
         }
       ],
-      "duration_ms": 140104,
-      "name": "GET YA MONEY",
-      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
+      "duration_ms": 119500,
+      "name": "THE DANGER",
+      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
     },
     {
       "added_at": "2025-10-25 02:54:19",

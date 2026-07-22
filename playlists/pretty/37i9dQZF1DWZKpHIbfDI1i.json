@@ -1,18 +1,18 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 858800,
+  "num_followers": 858832,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7DPPdC5jyVV7Q3E8U9P3WoAyry",
+  "snapshot_id": "AAAAAG9eouIftFGKOf96zdAXchBvFe47",
   "tracks": [
     {
-      "added_at": "2026-07-17 06:00:24",
+      "added_at": "2026-07-21 17:36:01",
       "album": {
-        "name": "pAL_veranito.mp3",
-        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
+        "name": "beam",
+        "url": "https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm"
       },
       "artists": [
         {
@@ -20,21 +20,13 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 169846,
-      "name": "pongo remix",
-      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
+      "duration_ms": 186874,
+      "name": "beam",
+      "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -239,6 +231,34 @@
       "duration_ms": 149617,
       "name": "No Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
+    },
+    {
+      "added_at": "2026-07-17 06:00:24",
+      "album": {
+        "name": "pAL_veranito.mp3",
+        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "pongo remix",
+      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -659,26 +679,6 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153566,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
-    },
-    {
-      "added_at": "2026-07-17 06:00:24",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-07-17 06:00:24",
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -795,22 +815,18 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
-        "name": "Filoso",
-        "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL"
       },
       "artists": [
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
         }
       ],
-      "duration_ms": 163983,
-      "name": "Filoso",
-      "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
+      "duration_ms": 146474,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -835,18 +851,22 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL"
+        "name": "Filoso",
+        "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
       },
       "artists": [
         {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 146474,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v"
+      "duration_ms": 163983,
+      "name": "Filoso",
+      "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -1003,18 +1023,18 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
-        "name": "Bandido Estrella",
-        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 188273,
-      "name": "Bandido Estrella",
-      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
+      "duration_ms": 155131,
+      "name": "Un Corridazo",
+      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -1039,18 +1059,18 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+        "name": "Bandido Estrella",
+        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 155131,
-      "name": "Un Corridazo",
-      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
+      "duration_ms": 188273,
+      "name": "Bandido Estrella",
+      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -1191,6 +1211,22 @@
     {
       "added_at": "2026-07-17 06:00:24",
       "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
+    },
+    {
+      "added_at": "2026-07-17 06:00:24",
+      "album": {
         "name": "Atr\u00e9vete",
         "url": "https://open.spotify.com/album/20vNurDn3Jc6lpRWBiOxlP"
       },
@@ -1207,22 +1243,6 @@
       "duration_ms": 209489,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/1VMwXqyPNq6OUxjpmliimG"
-    },
-    {
-      "added_at": "2026-07-17 06:00:24",
-      "album": {
-        "name": "WhyWhyWhy",
-        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 159178,
-      "name": "WhyWhyWhy",
-      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "added_at": "2026-07-17 06:00:24",
@@ -1407,26 +1427,6 @@
       "duration_ms": 165162,
       "name": "Otro Abrigo",
       "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
-    },
-    {
-      "added_at": "2026-07-17 06:00:24",
-      "album": {
-        "name": "si me esperas",
-        "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "si me esperas",
-      "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
     }
   ],
   "unique_name": "Top M\u00e9xico",

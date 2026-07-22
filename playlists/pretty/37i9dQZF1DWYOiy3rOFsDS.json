@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 542277,
+  "num_followers": 542213,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 192123,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Matina",
         "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 128500,
       "name": "Matina",
       "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "A escondidas",
-        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "A escondidas",
-      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
       },
       "artists": [
         {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1475,6 +1459,22 @@
       "duration_ms": 189155,
       "name": "Tan B\u00e1sico",
       "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1775,18 +1775,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Esto no acab\u00f3 por m\u00ed",
-        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
+        "name": "Tu Espejo Es Mentiroso",
+        "url": "https://open.spotify.com/album/2k4bXlGyj2xZoz3iikYkF2"
       },
       "artists": [
         {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
         }
       ],
-      "duration_ms": 207208,
-      "name": "Esto no acab\u00f3 por m\u00ed",
-      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
+      "duration_ms": 174403,
+      "name": "Tu Espejo Es Mentiroso",
+      "url": "https://open.spotify.com/track/3GGGYqAgpDdQg4K5j4cYUc"
     }
   ],
   "unique_name": "nuevo bolero",

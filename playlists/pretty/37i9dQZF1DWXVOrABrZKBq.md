@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: La Mano 1.9, Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,634 likes - 74 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,640 likes - 74 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 6 | [Charbon & Diamant](https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Charbon & Diamant](https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy) | 2:39 |
 | 7 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
 | 8 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
-| 9 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [Max & Seny](https://open.spotify.com/artist/57kJqq1O0uLM5h8ZUuK7Jz), [Loko](https://open.spotify.com/artist/5J7giCvV9NJ1rFaDsTjonG) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
+| 9 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
 | 10 | [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 |
 | 11 | [N\-Word](https://open.spotify.com/track/5Sp2Kz9YUiO3IpoO3f58BS) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG) | [N\-Word](https://open.spotify.com/album/7oOAbTt7bHwTdMI2BkzJnt) | 2:35 |
 | 12 | [MON TEMPS](https://open.spotify.com/track/3tCfK10BHJw1iO5lNc4bnV) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [MON TEMPS](https://open.spotify.com/album/6Y0SWxk0IP0qkBMkn5cvcY) | 2:47 |

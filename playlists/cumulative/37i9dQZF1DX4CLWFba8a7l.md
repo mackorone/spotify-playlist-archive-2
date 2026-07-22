@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vacations
 
-683 songs - 1 day 14 hr 14 min
+684 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,13 +519,14 @@
 | [Seven Years](https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Seven Years](https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P) | 3:05 | 2025-01-23 | 2025-01-31 |
 | [Shangri\-La](https://open.spotify.com/track/2PnLnsEBUVNnxj9H9d7pjZ) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Shangri\-La](https://open.spotify.com/album/4zsMUZ7yhV6dy8Ey6tuPQW) | 3:36 | 2025-03-20 | 2025-04-04 |
 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-31 | 2026-03-30 |
+| [She Said](https://open.spotify.com/track/06PRf6iTAf4dmdyyFz3wmR) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [She Said](https://open.spotify.com/album/0fAs12Y2B3jJVyqqPAM5Bo) | 3:12 | 2026-07-16 |  |
 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 | 2025-05-01 | 2025-09-02 |
 | [Shine, Glow, Glisten](https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Shine, Glow, Glisten](https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h) | 3:10 | 2025-07-31 | 2025-09-25 |
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-05-31 | 2024-07-12 |
 | [Shot Caller](https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Shot Caller](https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF) | 2:49 | 2025-06-05 | 2025-06-13 |
 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 | 2025-03-20 | 2025-05-16 |
 | [Site Unseen](https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Site Unseen](https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU) | 2:46 | 2026-01-22 | 2026-01-30 |
-| [Skyworks](https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 4:20 | 2026-06-26 |  |
+| [Skyworks](https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 4:20 | 2026-06-26 | 2026-07-22 |
 | [Sleepless Nights](https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Sleepless Nights](https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c) | 2:27 | 2025-05-15 | 2026-03-30 |
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-06 |  |
 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 | 2025-09-01 | 2025-09-05 |

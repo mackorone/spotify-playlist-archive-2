@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 75048,
+  "num_followers": 75073,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Alles",
-        "url": "https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq"
-      },
-      "artists": [
-        {
-          "name": "Harry Klorkestein",
-          "url": "https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "O O Den Haag",
-      "url": "https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Deurdonderen",
         "url": "https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 178493,
       "name": "Mamma, woar is mien pils",
       "url": "https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq"
+      },
+      "artists": [
+        {
+          "name": "Harry Klorkestein",
+          "url": "https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "O O Den Haag",
+      "url": "https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "25 Jaar Mooi Was Die Tijd",
-        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
-      },
-      "artists": [
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Springl\u00e8avend",
         "url": "https://open.spotify.com/album/4XP7ugRszl1yG6QbTFiTTw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 231826,
       "name": "Net-as gisteren - Live",
       "url": "https://open.spotify.com/track/4IwUhu03sPNuuPD2MZa2KA"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "25 Jaar Mooi Was Die Tijd",
+        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
-        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Binnen Zonder Kloppen",
-      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 260133,
       "name": "Geef Mij Je Angst",
       "url": "https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Zullen We Dansen - Het Beste Van De Dijk 1981 - 2006",
+        "url": "https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Binnen Zonder Kloppen",
+      "url": "https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Dansen Op De Vulkaan",
-      "url": "https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 167533,
       "name": "Zeg Maar Niets Meer",
       "url": "https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Dansen Op De Vulkaan",
+      "url": "https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9"
     },
     {
       "added_at": "2022-10-11 07:08:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bloedend Hart",
-      "url": "https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 213920,
       "name": "Ik Meen 'T",
       "url": "https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bloedend Hart",
+      "url": "https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ"
     },
     {
       "added_at": "2022-10-11 07:08:55",

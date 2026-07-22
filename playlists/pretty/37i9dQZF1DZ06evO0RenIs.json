@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97817,
+  "num_followers": 97815,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAC5Q3GckAq4alaU/SkQu7TV",
+  "snapshot_id": "al1lAAAAAACFs3CBJNkE9ZtB9wXBdDa8",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
+      "duration_ms": 223240,
+      "name": "Telefono",
+      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Telefono",
-      "url": "https://open.spotify.com/track/3zZG1QOxR9IACi01cxtPRY"
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
     },
     {
       "added_at": null,

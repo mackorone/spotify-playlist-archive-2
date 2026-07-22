@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,787 likes - 277 songs - 14 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,789 likes - 277 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 129 | [Waitin for You](https://open.spotify.com/track/586Q1Orh7e4bbrRh9lfJgY) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:12 |
 | 130 | [Don't Wanna Think](https://open.spotify.com/track/0ufEVwujjfht29nMSWWefR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:59 |
 | 131 | [Fingers Crossed](https://open.spotify.com/track/11hrCkrVXAAtQUXyDN0U04) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [That Was Then](https://open.spotify.com/album/1PvzTML4ilaofapFKEweuO) | 2:35 |
-| 132 | [So Good](https://open.spotify.com/track/4G23gt9SnUrA7jtG8BVgtT) | [Katemale](https://open.spotify.com/artist/07sWxfVhzmjlQAlmH6McxS) | [So Good](https://open.spotify.com/album/5PDbfCzt21vfXQuofAr0Ba) | 2:37 |
-| 133 | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha) | 3:36 |
+| 132 | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha) | 3:36 |
+| 133 | [So Good](https://open.spotify.com/track/4G23gt9SnUrA7jtG8BVgtT) | [Katemale](https://open.spotify.com/artist/07sWxfVhzmjlQAlmH6McxS) | [So Good](https://open.spotify.com/album/5PDbfCzt21vfXQuofAr0Ba) | 2:37 |
 | 134 | [Like You Mean It](https://open.spotify.com/track/1qR73waVOTzDT4J6hzC8ts) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:33 |
 | 135 | [Just Do It](https://open.spotify.com/track/4uuHR1fbRQZxySKHr6mEzB) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:12 |
 | 136 | [I'm Not A Saint](https://open.spotify.com/track/0CKPLoYW0nsAnjnr00HRWV) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:15 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 276 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 277 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcXZMgAAAABD9caxMKueFoF593E6mWTt`
+Snapshot ID: `AcXe0gAAAADddvxMp4h0T0oWSbZrrLEz`

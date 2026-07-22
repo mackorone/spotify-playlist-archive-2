@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear con Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,026 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,026 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 37 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
 | 38 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 |
 | 39 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
-| 40 | [El Mejor Verano](https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Mejor Verano](https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh) | 3:11 |
-| 41 | [Toda la vida](https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Toda la vida](https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1) | 4:34 |
+| 40 | [Toda la vida](https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Toda la vida](https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1) | 4:34 |
+| 41 | [El Mejor Verano](https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Mejor Verano](https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh) | 3:11 |
 | 42 | [fanático](https://open.spotify.com/track/5V6sOlpHihLkrCWIIwHoJA) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [fanático](https://open.spotify.com/album/2VpV0C1mS6pyD9hupq4RKF) | 3:27 |
 | 43 | [Todo De Mí](https://open.spotify.com/track/18Sx1W4k6Bbie3twAt2azN) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todo De Mí](https://open.spotify.com/album/6p0QVx7FDgUzSDfoQYpV5L) | 2:54 |
 | 44 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 76 | [Vamos Viendo](https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Vamos Viendo](https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S) | 4:13 |
 | 77 | [Rayo de sol](https://open.spotify.com/track/11aKpufd8rGqYlnvdV1tsy) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Rayo de sol](https://open.spotify.com/album/0nk9G0rOQPxTQuSkSGnPVn) | 2:35 |
 | 78 | [Pa Ti Bb <3](https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Pa Ti Bb <3](https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK) | 3:16 |
-| 79 | [Estrella](https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Estrella](https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP) | 2:27 |
-| 80 | [Agradezco Haberme Equivocado](https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Agradezco Haberme Equivocado](https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa) | 2:57 |
+| 79 | [Agradezco Haberme Equivocado](https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Agradezco Haberme Equivocado](https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa) | 2:57 |
+| 80 | [Estrella](https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Estrella](https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP) | 2:27 |
 | 81 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 |
 | 82 | [YA TE CANSASTE DE MI???](https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [YA TE CANSASTE DE MI???](https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A) | 2:42 |
 | 83 | [Hasta la Raíz](https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH) | [N1za](https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Hasta la Raíz](https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5) | 2:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 96 | [En la Moto](https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [En la Moto](https://open.spotify.com/album/2IKdzeh2FO1aelXzus5Yyj) | 2:53 |
 | 97 | [kiero ke te kedes](https://open.spotify.com/track/7ya7j5JVkSHQgdaOQVgZaM) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [kiero ke te kedes](https://open.spotify.com/album/6z7v8adQYJSnigYxx075Vy) | 3:38 |
 | 98 | [Una Persona](https://open.spotify.com/track/0i01P3ZURjQ7kGTFLrpv28) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Los Algarrobos](https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ) | 3:35 |
-| 99 | [Lejos De Todo](https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lejos De Todo](https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz) | 2:58 |
-| 100 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
+| 99 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
+| 100 | [Deseo](https://open.spotify.com/track/3NeG4L63NUnmhdoUQygd2W) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [INEFABLE](https://open.spotify.com/album/3HJxFyRPL2rUb0wIE6KHlw) | 3:33 |
 
 Snapshot ID: `AAAAAH6ZH8MRKsCJeIrpVO1mDiZ56mUm`

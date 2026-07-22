@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! July ambassador: <a href=\"spotify:artist:7c4xb6WHJ6NhTQqgTQnbDN\">IDA</a>",
-  "num_followers": 14329,
+  "num_followers": 14327,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
+        "name": "Chokran,",
+        "url": "https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "duration_ms": 132423,
+      "name": "Zid Sawt,",
+      "url": "https://open.spotify.com/track/0ynnY17bXgTTismAWzCUHS"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/1UmeapC8Q60EZ4SirUrv0R"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 152885,
       "name": "Twin",
       "url": "https://open.spotify.com/track/7ve2v3YkXa512zMk6FM8a4"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
-        "name": "Chokran,",
-        "url": "https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB"
-      },
-      "artists": [
-        {
-          "name": "Tawsen",
-          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
-        }
-      ],
-      "duration_ms": 132423,
-      "name": "Zid Sawt,",
-      "url": "https://open.spotify.com/track/0ynnY17bXgTTismAWzCUHS"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
-        "name": "Je Weet Niet Wat Je Mist",
-        "url": "https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp"
-      },
-      "artists": [
-        {
-          "name": "Samantha Steenwijk",
-          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
-        }
-      ],
-      "duration_ms": 183616,
-      "name": "Je Weet Niet Wat Je Mist",
-      "url": "https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
         "name": "Plankgas",
         "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 162800,
       "name": "Plankgas",
       "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
+        "name": "Je Weet Niet Wat Je Mist",
+        "url": "https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "duration_ms": 183616,
+      "name": "Je Weet Niet Wat Je Mist",
+      "url": "https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
-        "name": "Wat Blijft Er Over?",
-        "url": "https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0"
-      },
-      "artists": [
-        {
-          "name": "Jasmijn Torrico",
-          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
-        }
-      ],
-      "duration_ms": 165127,
-      "name": "Wat Blijft Er Over?",
-      "url": "https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
         "name": "Hypocriet",
         "url": "https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 160532,
       "name": "Hypocriet",
       "url": "https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
+        "name": "Wat Blijft Er Over?",
+        "url": "https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "duration_ms": 165127,
+      "name": "Wat Blijft Er Over?",
+      "url": "https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
-        "name": "Wat Is Love",
-        "url": "https://open.spotify.com/album/0tl1OWmcKTLB3we3VrEa1J"
-      },
-      "artists": [
-        {
-          "name": "I am Aisha",
-          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
-        }
-      ],
-      "duration_ms": 127416,
-      "name": "Wat Is Love",
-      "url": "https://open.spotify.com/track/0zYfoEJDSDdZM6fJWH14zH"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
         "name": "Would I Be Friends With Me?",
         "url": "https://open.spotify.com/album/0ADozcAmX6ng2S5tv5OBYL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 248295,
       "name": "Forsaken Soul",
       "url": "https://open.spotify.com/track/6RRibTFwGjBFV13xmXYTtG"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
+        "name": "Wat Is Love",
+        "url": "https://open.spotify.com/album/0tl1OWmcKTLB3we3VrEa1J"
+      },
+      "artists": [
+        {
+          "name": "I am Aisha",
+          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
+        }
+      ],
+      "duration_ms": 127416,
+      "name": "Wat Is Love",
+      "url": "https://open.spotify.com/track/0zYfoEJDSDdZM6fJWH14zH"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
         "name": "Ik Ben Nog Lang Niet Klaar",
         "url": "https://open.spotify.com/album/7jHtm1l6HGuqfAF3RmyRD1"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
-        "name": "The In-Between",
-        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+        "name": "twerking music",
+        "url": "https://open.spotify.com/album/5oSPCTLeFWCZQZklx77zHW"
       },
       "artists": [
         {
-          "name": "Leela Rosa",
-          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+          "name": "gala dragot",
+          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
         }
       ],
-      "duration_ms": 165084,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
+      "duration_ms": 201318,
+      "name": "catch me I'll surrender",
+      "url": "https://open.spotify.com/track/7DsYwfzhqc3gGUDtNSEWbG"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -835,22 +851,6 @@
       "duration_ms": 215554,
       "name": "Aim",
       "url": "https://open.spotify.com/track/0ld1Zuk3V8Ug2bSCw7kBzy"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
-        "name": "twerking music",
-        "url": "https://open.spotify.com/album/5oSPCTLeFWCZQZklx77zHW"
-      },
-      "artists": [
-        {
-          "name": "gala dragot",
-          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
-        }
-      ],
-      "duration_ms": 201318,
-      "name": "catch me I'll surrender",
-      "url": "https://open.spotify.com/track/7DsYwfzhqc3gGUDtNSEWbG"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/6BrBGDyc3LESUqEGbZeiwr"
+      },
+      "artists": [
+        {
+          "name": "MAUD\u00c9",
+          "url": "https://open.spotify.com/artist/0RzoaKMylQNZWq5PBwa6ZI"
+        }
+      ],
+      "duration_ms": 554888,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/6hdKutCSrVkZclHixR5Lcx"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
+        "name": "Suddenly (I Feel Weak)",
+        "url": "https://open.spotify.com/album/2Bkm1kzfrGqD77Tbux0tXa"
+      },
+      "artists": [
+        {
+          "name": "Ellen Ten Damme",
+          "url": "https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv"
+        }
+      ],
+      "duration_ms": 217242,
+      "name": "Suddenly (I Feel Weak)",
+      "url": "https://open.spotify.com/track/3fxws0TYNHNoW5fwnGhHIy"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
         "name": "Find Us By The Bay",
         "url": "https://open.spotify.com/album/2RYi7oot4wy9LKIgiNZzui"
       },
@@ -1047,38 +1079,6 @@
       "duration_ms": 229346,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/0MOlLiimtQqfIldkeYUOqQ"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
-        "name": "Suddenly (I Feel Weak)",
-        "url": "https://open.spotify.com/album/2Bkm1kzfrGqD77Tbux0tXa"
-      },
-      "artists": [
-        {
-          "name": "Ellen Ten Damme",
-          "url": "https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "Suddenly (I Feel Weak)",
-      "url": "https://open.spotify.com/track/3fxws0TYNHNoW5fwnGhHIy"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/6BrBGDyc3LESUqEGbZeiwr"
-      },
-      "artists": [
-        {
-          "name": "MAUD\u00c9",
-          "url": "https://open.spotify.com/artist/0RzoaKMylQNZWq5PBwa6ZI"
-        }
-      ],
-      "duration_ms": 554888,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/6hdKutCSrVkZclHixR5Lcx"
     },
     {
       "added_at": "2026-07-01 12:45:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-01 12:45:34",
       "album": {
-        "name": "Catch My Heart",
-        "url": "https://open.spotify.com/album/55n20lxAISvxyiby79CzTI"
-      },
-      "artists": [
-        {
-          "name": "SUUS",
-          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Catch My Heart",
-      "url": "https://open.spotify.com/track/1xSjBecalvpyevj4zw7XrQ"
-    },
-    {
-      "added_at": "2026-07-01 12:45:34",
-      "album": {
         "name": "I Want You To Feel It",
         "url": "https://open.spotify.com/album/1rVx6kca80qnw8PvIpVsCr"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184924,
       "name": "I Want You To Feel It",
       "url": "https://open.spotify.com/track/5PrGRXA33zRt2qdixZ0Gz3"
+    },
+    {
+      "added_at": "2026-07-01 12:45:34",
+      "album": {
+        "name": "Catch My Heart",
+        "url": "https://open.spotify.com/album/55n20lxAISvxyiby79CzTI"
+      },
+      "artists": [
+        {
+          "name": "SUUS",
+          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Catch My Heart",
+      "url": "https://open.spotify.com/track/1xSjBecalvpyevj4zw7XrQ"
     },
     {
       "added_at": "2026-07-01 12:45:34",

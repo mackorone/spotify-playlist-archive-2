@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14803,
+  "num_followers": 14807,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABDbGdA5a6RKCEVbLzF/cpN",
+  "snapshot_id": "al1lAAAAAACtt9FirE3wJxZuJt1C77hl",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till We Die",
-        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 180550,
-      "name": "Till We Die",
-      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 214426,
       "name": "Put It On God",
       "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Till We Die",
+        "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 180550,
+      "name": "Till We Die",
+      "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 316422,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "E.L",
-          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
-        }
-      ],
-      "duration_ms": 225671,
-      "name": "U Go Kill Me",
-      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "duration_ms": 225671,
+      "name": "U Go Kill Me",
+      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
     },
     {
       "added_at": null,
@@ -995,22 +995,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Saa Okodie No",
-      "url": "https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT"
+      "duration_ms": 275440,
+      "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
+      "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
     }
   ],
   "unique_name": "This Is Sarkodie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,846 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 3 | [Скъсаняк](https://open.spotify.com/track/75n8AlD4OLp8024wBSuqZq) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Скъсаняк](https://open.spotify.com/album/709tKfziCz2ym371N7elXT) | 2:49 |
 | 4 | [Кеш, кеш](https://open.spotify.com/track/2vuYIgU0KkIEAPGCPBPdh8) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Кеш, кеш](https://open.spotify.com/album/4CSOatJNTyaSI51brM2xPc) | 2:57 |
 | 5 | [Малката, Сладката](https://open.spotify.com/track/4uibxyiAMOhxVJ17bN9lNT) | [Tereza](https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x), [Rumen Borilov](https://open.spotify.com/artist/0RU4GDjar4o0Jw6Iu9f4Yk) | [Малката, Сладката](https://open.spotify.com/album/6u5tHklXR3bh8MPMpDPINn) | 3:17 |
-| 6 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
+| 6 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:36 |
 | 7 | [Катинара](https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Катинара](https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy) | 2:52 |
 | 8 | [Злобари](https://open.spotify.com/track/7G2NBshHNMyHsKknSYcLCc) | [Krasyo](https://open.spotify.com/artist/0MpqjrVgdUO07oY6JcgTeG) | [Злобари](https://open.spotify.com/album/3nBOYAjd5jb7x52nw8wxtc) | 3:19 |
 | 9 | [Тарикат](https://open.spotify.com/track/2hSloAMRlwf37vFG8xeLM4) | [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Тарикат](https://open.spotify.com/album/2OSBqW39ap6BRHDuF3cJwS) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Bez chuvstva](https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Notarialno zaveren](https://open.spotify.com/album/6JOJoBWkGdgf1sCgtGyXjv) | 3:15 |
 | 50 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
 
-Snapshot ID: `MfGPIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfLgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

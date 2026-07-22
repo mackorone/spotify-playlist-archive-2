@@ -1,6 +1,6 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
-  "num_followers": 646912,
+  "num_followers": 646904,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+        "name": "Feelings (Remix)",
+        "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
       },
       "artists": [
         {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+          "name": "D'yani",
+          "url": "https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
         }
       ],
-      "duration_ms": 166664,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
+      "duration_ms": 217464,
+      "name": "Feelings (Remix)",
+      "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -447,22 +451,18 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Feelings (Remix)",
-        "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
       },
       "artists": [
         {
-          "name": "D'yani",
-          "url": "https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci"
-        },
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
         }
       ],
-      "duration_ms": 217464,
-      "name": "Feelings (Remix)",
-      "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
+      "duration_ms": 166664,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
     },
     {
       "added_at": "2026-07-02 23:00:30",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Soft Girl Era",
-        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
-      },
-      "artists": [
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 145707,
-      "name": "Soft Girl Era",
-      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Mad Out",
         "url": "https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 153040,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Soft Girl Era",
+        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 145707,
+      "name": "Soft Girl Era",
+      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
     },
     {
       "added_at": "2026-07-02 23:00:30",

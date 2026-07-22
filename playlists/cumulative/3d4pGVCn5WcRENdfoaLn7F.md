@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-408 songs - 1 day 0 hr 34 min
+411 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [I\`m Still Looking for a New](https://open.spotify.com/track/7aOGEyJKESkGR8KdplKg6W) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw), [Loraina](https://open.spotify.com/artist/21ryc1NWbYt1KSDAaRmS09) | [I\`m Still Looking for a New](https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs) | 4:52 | 2025-12-29 | 2026-01-21 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-19 | 2026-03-27 |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2026-05-12 | 2026-06-11 |
+| [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 | 2026-07-21 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
@@ -216,6 +217,7 @@
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-12-28 | 2026-01-21 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2025-12-16 |
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2026-01-11 | 2026-02-02 |
+| [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 | 2026-07-21 |  |
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 | 2025-12-16 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 | 2025-12-12 |
 | [Movimento Barraco](https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF), [Carbono](https://open.spotify.com/artist/7pjey9YZRudRWPkwyM0L7B), [Helena](https://open.spotify.com/artist/68ykJPo7z4VMBaaLo3ENaE) | [Movimento Barraco](https://open.spotify.com/album/7r9tmeiUiNZ9kNVnegNrwk) | 3:17 | 2025-10-01 | 2026-01-05 |
@@ -348,6 +350,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-06 |
 | [The Reaper](https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc) | [Terry Gilbey](https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4) | [The Reading](https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO) | 3:51 | 2026-01-31 | 2026-02-19 |
 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-13 | 2026-01-05 |
+| [The Shadow](https://open.spotify.com/track/1mcneLdPg8ossSX5Mu8Epz) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Pain in the Yeahs](https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd) | [The Shadow](https://open.spotify.com/album/5PiWNYUNyiCqNZ7WVJxaXQ) | 3:16 | 2026-07-21 |  |
 | [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 | 2026-05-07 |  |
 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 | 2025-11-11 | 2025-12-06 |
 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-08 | 2026-03-27 |

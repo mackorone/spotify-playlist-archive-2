@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Gracie Abrams, Ski Aggu, The Gardener & The Tree & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,532 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,533 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 90 | [Rattle The Cage](https://open.spotify.com/track/3btjsK6AnfPZjAYnqy54gB) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Rattle The Cage](https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU) | 3:54 |
 | 91 | [ozean](https://open.spotify.com/track/4ULqqohbWkhuQ5B1nZbKtJ) | [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [ozean](https://open.spotify.com/album/0PHdoebZtoR6aJ0A8DrOxe) | 3:08 |
 | 92 | [E CLEAR](https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [E CLEAR](https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm) | 2:44 |
-| 93 | [Skinny Dipping \(just your toes\)](https://open.spotify.com/track/3N5ZaUnV7aA1ycH8XcXHFZ) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping \(just your toes\)](https://open.spotify.com/album/1CmWnZNFjit7wWENcR2MJN) | 3:12 |
+| 93 | [Skinny Dipping \- Just Your Toes](https://open.spotify.com/track/3N5ZaUnV7aA1ycH8XcXHFZ) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping \(Just Your Toes\)](https://open.spotify.com/album/1CmWnZNFjit7wWENcR2MJN) | 3:12 |
 | 94 | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW) | 2:15 |
 | 95 | [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 |
 | 96 | [Drive](https://open.spotify.com/track/5AErx3bq88KrzllqHwX5nO) | [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Drive](https://open.spotify.com/album/0ZYBINj9D0tIOTdSTXAikI) | 3:08 |

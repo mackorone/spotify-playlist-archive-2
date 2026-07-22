@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,054 songs - 2 day 16 hr 31 min
+1,057 songs - 2 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [A/B](https://open.spotify.com/track/6XSxFVLPizXBjvRj1LSLMa) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [A/B](https://open.spotify.com/album/6KSS1RgmJO0eqNglGiLrhU) | 4:57 | 2024-04-25 | 2024-05-16 |
 | [A/B \- 2023 Remaster](https://open.spotify.com/track/3a62IVw5rTTmcjQrvTT89M) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 3:40 | 2024-11-14 | 2025-01-12 |
 | [Aaron & Maria](https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 3:10 | 2024-04-12 | 2024-05-16 |
+| [About Her Eyes](https://open.spotify.com/track/7iFO7hNC6tDhTaaNyjGq1d) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Five Years Gone](https://open.spotify.com/album/2lRWTNRE1rBepK3kMhEW7h) | 2:46 | 2026-07-21 |  |
 | [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 | 2024-10-07 |
 | [Abraham, Martin And John](https://open.spotify.com/track/41tl6xfIKib7fexaHudvV0) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dion](https://open.spotify.com/album/323GIk4Y4kaO9XcEPNlBq6) | 3:20 | 2026-04-23 | 2026-05-06 |
 | [Abstract Of Expression](https://open.spotify.com/track/779isqr6HQU4eGWvL8Lt59) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 7:20 | 2025-01-11 | 2025-03-02 |
@@ -1059,8 +1060,10 @@
 | [カッチンコールたいりく / Freeze Continent](https://open.spotify.com/track/0ujIsmyyJMZcq5AhMSZaCm) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 2:07 | 2025-11-14 | 2026-01-15 |
 | [不變](https://open.spotify.com/track/4pp3H1juhrzNqvkCAXDjNh) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [天空](https://open.spotify.com/album/4J3XjEzUvDKGNyCESR2Jls) | 4:45 | 2025-12-25 | 2026-03-13 |
 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 | 2025-07-27 | 2025-09-11 |
+| [暗闇坂むささび変化](https://open.spotify.com/track/60JZapt4cncqQ0xG1iM6nM) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 1:58 | 2026-07-21 |  |
 | [東京幻想曲](https://open.spotify.com/track/2bWBTC67ELpbnwMHTN8lhg) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [A PRETTY DANCE](https://open.spotify.com/album/2AMTMvJufxxKc6xJoRht9t) | 4:27 | 2025-12-24 | 2026-01-15 |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |
+| [風をあつめて](https://open.spotify.com/track/4mDoYdwFGi5nPwwGIKqQnF) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 4:06 | 2026-07-21 |  |
 | [麻醉](https://open.spotify.com/track/43ETKz3JIboOOOxtYOqFa9) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [王菲97](https://open.spotify.com/album/5AeqIizTW4zfHAdqljMseu) | 4:00 | 2025-08-23 | 2025-09-11 |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

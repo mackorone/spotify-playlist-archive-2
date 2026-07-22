@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Boundaries
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,278 likes - 151 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,329 likes - 151 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

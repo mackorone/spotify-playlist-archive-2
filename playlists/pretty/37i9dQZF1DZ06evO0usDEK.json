@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49644,
+  "num_followers": 49645,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABlww+EuGhc0qrZHaiJ2VcS",
+  "snapshot_id": "al1lAAAAAAC220u3dhH4eBtidY1Tb3R/",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 163453,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/65ADTP6Q8mratfOIeKHp7e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
     },
     {
       "added_at": null,
@@ -379,42 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "I (Who Have Nothing)",
-      "url": "https://open.spotify.com/track/2gd06mQH4bk07b7klXpkyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "Compared to What",
-      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -435,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+      "duration_ms": 316586,
+      "name": "Compared to What",
+      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
     },
     {
       "added_at": null,
@@ -468,9 +428,29 @@
           "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 203733,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"
+      "duration_ms": 303333,
+      "name": "I (Who Have Nothing)",
+      "url": "https://open.spotify.com/track/2gd06mQH4bk07b7klXpkyV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
     },
     {
       "added_at": null,
@@ -507,6 +487,26 @@
       "duration_ms": 274733,
       "name": "Now and Again (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"
     },
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 570800,
-      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
-      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+      "duration_ms": 296960,
+      "name": "No Tears - In the End",
+      "url": "https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3"
     },
     {
       "added_at": null,
@@ -655,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 296960,
-      "name": "No Tears - In the End",
-      "url": "https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3"
+      "duration_ms": 570800,
+      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
+      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
       "duration_ms": 279920,
       "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 506840,
-      "name": "Feel the Fire - Live Version",
-      "url": "https://open.spotify.com/track/3psrv1KCESzitUw7FU0lyr"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 506840,
+      "name": "Feel the Fire - Live Version",
+      "url": "https://open.spotify.com/track/3psrv1KCESzitUw7FU0lyr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "And so It Goes",
-      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 436453,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "And so It Goes",
+      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Ballad of the Sad Young Men",
-      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 403520,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Ballad of the Sad Young Men",
+      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
     },
     {
       "added_at": null,

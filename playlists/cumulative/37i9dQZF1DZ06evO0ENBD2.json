@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/1HjvOZjeYSmZFU4qHtXOfY"
+    },
+    {
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -178,10 +196,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 180813,
       "name": "Bicycle Race - Remastered 2011",
       "url": "https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C"
+    },
+    {
+      "album": {
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"
@@ -880,10 +916,28 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 241586,
       "name": "I Want It All - Single Version",
       "url": "https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj"
+    },
+    {
+      "album": {
+        "name": "The Miracle (Collector's Edition)",
+        "url": "https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "I Want It All - Single Version",
+      "url": "https://open.spotify.com/track/4w79VLgle2eoaAsstdpXAq"
     },
     {
       "album": {
@@ -1952,6 +2006,24 @@
     {
       "album": {
         "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277826,
+      "name": "The Show Must Go On",
+      "url": "https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT"
+    },
+    {
+      "album": {
+        "name": "Innuendo",
         "url": "https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k"
       },
       "artists": [
@@ -1980,7 +2052,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 277826,
       "name": "The Show Must Go On - Remastered 2011",
       "url": "https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN"
@@ -2417,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Made In Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324853,
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg"
+    },
+    {
+      "album": {
         "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
       },
@@ -2428,7 +2518,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 324853,
       "name": "You Don't Fool Me - Remastered 2011",
       "url": "https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2"

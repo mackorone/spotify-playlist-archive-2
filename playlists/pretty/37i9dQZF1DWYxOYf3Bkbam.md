@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,921 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,933 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 15 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
 | 16 | [Kilometro 11](https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:42 |
 | 17 | [Borracho Sin Destino](https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0) | [Los Palmareños](https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5) | [Los Palmareños 23 Años](https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj) | 4:19 |
-| 18 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
-| 19 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
+| 18 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
+| 19 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
 | 20 | [No Cualquiera Es Correntino](https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [20 Grandes Exitos](https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx) | 2:13 |
 | 21 | [Alguien Mejor Que Yo](https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Alguien Mejor Que Yo](https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ) | 3:21 |
 | 22 | [Retorno](https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V) | [Trio Cocomarola](https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe) | [20 Superéxitos Originales, Vol\. 2](https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt) | 2:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 84 | [La Changa de los Domingos \- Chamamé](https://open.spotify.com/track/1C58csh64wznZj64hwV9gx) | [Anibal Maldonado](https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi), [Silvio Quintana](https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ) | [Si el Campo Crece, Crece el País](https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ) | 4:07 |
 | 85 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
 | 86 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
-| 87 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 |
-| 88 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
+| 87 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
+| 88 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 |
 | 89 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 |
 | 90 | [Barrio la Toma](https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:22 |
 

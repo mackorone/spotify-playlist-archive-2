@@ -1,6 +1,6 @@
 {
   "description": "The Best Indie Tracks of the Moment w/ Steve Lacy",
-  "num_followers": 161923,
+  "num_followers": 161925,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
@@ -290,6 +290,10 @@
         {
           "name": "LST",
           "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
+        },
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
         }
       ],
       "duration_ms": 225198,

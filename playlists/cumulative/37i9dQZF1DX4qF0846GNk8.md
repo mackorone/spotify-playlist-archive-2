@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
+> أجمد المهرجانات في مصر! الغلاف: مصطفي الجن و هادي الصغير \- تيم الابداع
 
-396 songs - 1 day 0 hr 44 min
+397 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 | 2026-04-07 |  |
 | [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 | 2024-06-26 |
 | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/track/5lces4EJVfofGSoyWBl1zp) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/album/5339xaz76KpI2OYilWscqp) | 3:19 | 2024-04-02 | 2024-06-12 |
-| [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-06-20 |  |
+| [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-06-20 | 2026-07-22 |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 | 2022-11-18 |
 | [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/track/1qhODkCMlYY22JflCKJQnz) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/album/6KvK6k20VxB2PGWw9zfml5) | 6:25 | 2024-01-16 | 2025-05-08 |
 | [اللي نفسه كسرت نفسه \- اسمي وحدو يهز مدينه](https://open.spotify.com/track/393YAkz3XPYnbu3fNT8DLM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اللي نفسه كسرت نفسه \(اسمي وحدو يهز مدينه\)](https://open.spotify.com/album/7rrq4BXBos9aSioymk3jsi) | 4:29 | 2023-08-02 | 2023-08-09 |
@@ -372,6 +372,7 @@
 | [هاى معاكو حمو](https://open.spotify.com/track/7tHji3VvFWXNIpWUhrGfIz) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [هاى معاكو حمو](https://open.spotify.com/album/3rKq4HMmO2Tisl9tlJIRZP) | 2:28 | 2026-05-05 | 2026-05-22 |
 | [هتسمع حكاية مقاتل](https://open.spotify.com/track/3dyQpjqyDtf6L9cq6cljG2) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [هتسمع حكاية مقاتل](https://open.spotify.com/album/1eZemcl80YrnstMKCfgQmH) | 5:51 | 2026-05-05 |  |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-16 | 2023-02-03 |
+| [هقلب عليك انا الترابيزه \- انا اخدت الساحه منكو](https://open.spotify.com/track/4QGtg0l2WJFsV19AN3CPUE) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY), [الناسف برودكشن \- Elnasef prouduction](https://open.spotify.com/artist/4VPJYDXjNM0dJ6uA4TyqNE) | [هقلب عليك انا الترابيزه \- انا اخدت الساحه منكو](https://open.spotify.com/album/0Uhoqb7UecnDFAHvGcXtg5) | 4:26 | 2026-07-21 |  |
 | [هل تعلم ان المصلحه](https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هل تعلم ان المصلحه](https://open.spotify.com/album/08D2FBmma4ZQWHICYpqywb) | 6:20 | 2022-01-10 | 2022-07-20 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 | 2026-07-16 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/4qE4iUKv7mH6mdpsiBJSko) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/7LgRSY8OKHAGmejreFPGwz) | 6:25 | 2021-12-16 | 2022-07-29 |

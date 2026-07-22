@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تووليت
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: إليسا
 
-459 songs - 1 day 2 hr 59 min
+460 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [ETTIEEL](https://open.spotify.com/track/2V7cMt98OdLnsVzPslqD8M) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [ETTIEEL](https://open.spotify.com/album/1jYqFQeUCu7rPvhyp1jLbn) | 2:47 | 2024-06-13 | 2024-07-09 |
 | [Ew3a](https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ew3a](https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS) | 3:13 | 2023-08-08 | 2024-07-02 |
 | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/track/5OFdNtPy9sgIw7UMkKhpLn) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/album/7IxVks2oX1JIfmX23Fp2Nh) | 3:33 | 2022-12-23 | 2023-02-24 |
+| [Faker](https://open.spotify.com/track/4bUhab5kmCe74AFnYlVphQ) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Asaad Wahda](https://open.spotify.com/album/1ppVmx3JFg7IYHkeMb2vBX) | 5:44 | 2026-07-21 |  |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-04-13 | 2022-09-27 |
 | [Faraa' Keteer](https://open.spotify.com/track/4PBw4KBl7IJkzOdp3BnkXO) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [Faraa' Keteer](https://open.spotify.com/album/2GD75Xh34zre1oDzZS0mXc) | 3:58 | 2026-01-20 | 2026-01-30 |
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-04-13 | 2022-09-27 |
@@ -327,7 +328,7 @@
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-09-26 | 2024-01-16 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-04-13 | 2022-07-31 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2023-01-16 | 2023-08-04 |
-| [بتفتكريني](https://open.spotify.com/track/5fSraLT3P7GXNAktagw6wf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [دي علامه](https://open.spotify.com/album/0LclRHLMrup7WnUiZ4ynyT) | 3:50 | 2026-07-06 |  |
+| [بتفتكريني](https://open.spotify.com/track/5fSraLT3P7GXNAktagw6wf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [دي علامه](https://open.spotify.com/album/0LclRHLMrup7WnUiZ4ynyT) | 3:50 | 2026-07-06 | 2026-07-22 |
 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 | 2023-02-02 | 2023-03-18 |
 | [بحبك يا صاحبي](https://open.spotify.com/track/3kwj3yFKLihAk2Crwlin3S) | [ِAhmed Saad Ali](https://open.spotify.com/artist/04kT7Ur33YtAWA8u5MTRJz) | [بحبك يا صاحبي](https://open.spotify.com/album/3sMxTva0rVCIzGFPSaTsr7) | 4:55 | 2026-01-20 | 2026-01-30 |
 | [بحكي عليكي](https://open.spotify.com/track/1kYgUIoRdPI36J74bzGs7y) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2) | 4:04 | 2024-12-05 | 2024-12-12 |

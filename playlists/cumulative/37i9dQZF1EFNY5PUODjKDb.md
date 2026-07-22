@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,185 songs - 3 day 1 hr 0 min
+1,186 songs - 3 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Raoul, ich sah sie](https://open.spotify.com/track/6D0jpuKbhlabZ4XD4KZWFb) | [Greenskull Musicals](https://open.spotify.com/artist/3D5p8HbwmUyRBZ5IeMDLIT) | [Das Phantom der Oper \(Die kompletten Musical Backing Tracks\)](https://open.spotify.com/album/79hlOYXEW9kxzaRpanrw5E) | 2:20 | 2024-09-12 |  |
 | [Ready Made Life/I'm Very You](https://open.spotify.com/track/6g85bTLQoSQXKOwoTd2sGx) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF) | [Tell Me On A Sunday](https://open.spotify.com/album/4iDnjr7h9wm23fcIWT7FEQ) | 6:33 | 2024-09-12 | 2025-11-03 |
 | [Ready Made Life/I'm Very You](https://open.spotify.com/track/3MRApwcJkDg5IP3gcNgoOD) | [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Tell Me on a Sunday](https://open.spotify.com/album/3E36TuKklZtsQQ3XPqehan) | 6:33 | 2025-11-02 |  |
+| [RECUERDOS](https://open.spotify.com/track/6PWteGtmyh7iAMQyRPIxmw) | [VARR](https://open.spotify.com/artist/5CDjSNH0kdzupP3hV0AHCk) | [RECUERDOS](https://open.spotify.com/album/0cYVuKiOlkWgnkGXJDFtWS) | 3:29 | 2026-07-21 |  |
 | [Reifenspur'n auf grauem Teer](https://open.spotify.com/track/7C5efnzZdhq4bVFGGUwafM) | [Angelika Milster](https://open.spotify.com/artist/6P0XfugxQsF8vP6q7frbop) | [Milster.](https://open.spotify.com/album/2kTiYZdVA6mC3DJrMFf8gc) | 5:20 | 2024-09-12 | 2025-01-24 |
 | [Reise in den Sphärischen Raum](https://open.spotify.com/track/2AbGlKhr4toLIoEYl08fL5) | [Ensemble Des Theater An Der Wien](https://open.spotify.com/artist/6Saf4rrrr0UZ3uvjJuqPcP), [André Bauer](https://open.spotify.com/artist/1XzU8uX3g3Tyre42bMPXiT) | [Cats \(Deutsche Originalaufnahme\)](https://open.spotify.com/album/47wBBjkU57okjhctAetxBG) | 2:33 | 2025-11-02 |  |
 | [Reise in den Sphärischen Raum \- DE 1983 / Musical "Cats"](https://open.spotify.com/track/4pZmaPXBCGFvHX5c1EJJWf) | [Ensemble Des Theater An Der Wien](https://open.spotify.com/artist/6Saf4rrrr0UZ3uvjJuqPcP), [André Bauer](https://open.spotify.com/artist/1XzU8uX3g3Tyre42bMPXiT) | [Cats](https://open.spotify.com/album/1VoTIOGVbLa0adUfBmFNoD) | 2:33 | 2024-07-24 | 2025-11-03 |

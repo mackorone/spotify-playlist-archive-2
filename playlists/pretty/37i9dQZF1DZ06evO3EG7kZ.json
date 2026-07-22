@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52125,
+  "num_followers": 52135,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABbIS23KeRx2SuQfupEyvoj",
+  "snapshot_id": "al1lAAAAAADDOrZFOWaM3V8YBzgo4WTP",
   "tracks": [
     {
       "added_at": null,
@@ -38,11 +38,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Dance Mode",
-      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
+      "duration_ms": 217719,
+      "name": "Rain (Instrumental)",
+      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
     },
     {
       "added_at": null,
@@ -122,15 +126,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 217719,
-      "name": "Rain (Instrumental)",
-      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
     },
     {
       "added_at": null,
@@ -222,15 +222,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Daniel O\u2019Brien",
-          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 144125,
-      "name": "Alongside (Instrumental)",
-      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
+      "duration_ms": 183434,
+      "name": "Curry Quest",
+      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
     },
     {
       "added_at": null,
@@ -314,11 +310,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Daniel O\u2019Brien",
+          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Curry Quest",
-      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
+      "duration_ms": 144125,
+      "name": "Alongside (Instrumental)",
+      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
     },
     {
       "added_at": null,

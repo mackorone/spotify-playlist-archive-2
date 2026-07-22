@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Doona
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: coldrain
 
-497 songs - 1 day 4 hr 37 min
+499 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Everything](https://open.spotify.com/track/5PhFbL3KH8Yky5pzIkTTs2) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Everything](https://open.spotify.com/album/7Abg2P4028HyB0Bi4XkyBH) | 4:12 | 2025-07-22 |  |
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 | 2023-10-21 |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 | 2023-11-08 |
+| [EX\-HUMANITY](https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [EX\-HUMANITY](https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC) | 3:12 | 2026-07-21 |  |
 | [Face My Fate](https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [Face My Fate](https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC) | 3:30 | 2023-12-19 | 2024-01-17 |
 | [FACE THIS](https://open.spotify.com/track/7vD23tiUJBToi5HmbtbRm4) | [The Cards I Play](https://open.spotify.com/artist/2KjtLNJ7GvxnTeEKp5wTeI) | [FACE THIS](https://open.spotify.com/album/5j25QjcnvfV9GOWzkurs6e) | 3:10 | 2025-08-19 | 2025-11-26 |
 | [Fake](https://open.spotify.com/track/2WEyvPopAOQbwBdKvghCkd) | [Genesis Girl](https://open.spotify.com/artist/4GRQ4teVPBpAsJjJL89hcw) | [Fake](https://open.spotify.com/album/0IpZ3MqKTDDiazwsOVKZyv) | 4:30 | 2024-02-27 | 2024-03-20 |
@@ -296,6 +297,7 @@
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-06-03 |  |
 | [Re\-create](https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [TAKESHI UEDA](https://open.spotify.com/artist/3KRIWusy94atZg8vRiudX1) | [Liberation](https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH) | 3:11 | 2024-07-30 | 2024-11-13 |
 | [Re\-create \-AA= ver.\- feat\. JUBEE](https://open.spotify.com/track/7mLiu6IY8xJB87VQNGa3TP) | [AA=](https://open.spotify.com/artist/1QRnF3T3BV3bTOLab9lxiN), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba) | [Re\-create \-AA= ver.\- feat\. JUBEE](https://open.spotify.com/album/16xkykHUQr8sgIWb5sw6k7) | 3:13 | 2025-04-03 | 2025-04-23 |
+| [RE:PLAY](https://open.spotify.com/track/3eLFfCz26lmzVTGUUtHWfB) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [RE:PLAY](https://open.spotify.com/album/5xUVytNuj4abGnoyuJSUYn) | 3:46 | 2026-07-21 |  |
 | [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 | 2025-04-15 |  |
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-01-07 |  |
 | [Rebirth](https://open.spotify.com/track/0JjaBtJv5jHQG5pQlEAhPa) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Denial // Rebirth](https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF) | 3:49 | 2023-07-20 | 2023-11-22 |
@@ -492,7 +494,7 @@
 | [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 2:20 | 2025-12-02 | 2026-02-17 |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-03-18 |
 | [深紅の天穹](https://open.spotify.com/track/1yNMEFWIlPAr89NHYdl6Js) | [ONMYO\-ZA](https://open.spotify.com/artist/6a2e3isd4orqnwvdXXYDVc) | [深紅の天穹](https://open.spotify.com/album/0xEB6iZ0fDveuMJmTHRIqr) | 4:39 | 2025-07-08 | 2025-08-10 |
-| [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 |  |
+| [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 | 2026-07-22 |
 | [狼煙 \~NOROSHI\~](https://open.spotify.com/track/547Im5wAI41MbizqxJKVGX) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [2020 Rising Sun](https://open.spotify.com/album/1fvd9Nv53M8CFLZXkf0WzL) | 6:31 | 2023-07-20 | 2023-08-16 |
 | [着火繚乱ビンビンビン](https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [着火繚乱ビンビンビン](https://open.spotify.com/album/1qA3RuMk75Hu8DcBcy9UTs) | 3:22 | 2023-08-08 | 2023-08-10 |
 | [神喰](https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [神喰](https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt) | 2:10 | 2023-07-20 | 2023-09-09 |
@@ -502,7 +504,7 @@
 | [蜃気楼](https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [蜃気楼](https://open.spotify.com/album/6Jhc9KCqAkl1NqFhQ1dORC) | 3:10 | 2023-10-31 | 2024-11-13 |
 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 | 2024-01-02 | 2025-06-09 |
 | [都会の森](https://open.spotify.com/track/5wd7lEHk2f95i924JiaoZM) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [都会の森](https://open.spotify.com/album/3u6pEvEf99Ape8QSg3aVR2) | 6:48 | 2023-07-20 | 2023-08-02 |
-| [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 | 2025-09-30 |  |
+| [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 | 2025-09-30 | 2026-07-22 |
 | [風の日](https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELLEGARDEN BEST 1999\-2008](https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK) | 4:12 | 2023-07-20 |  |
 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 | 2025-09-30 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Gracie Abrams, Carly Rae Jepsen, Bella Kay, beabadoobee, Davido, Steve Lacy, Owen Riegling, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,862 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,817 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 24 | [6AM](https://open.spotify.com/track/1yKLBLfIsJHio3OX5CT2fD) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [6AM](https://open.spotify.com/album/0ReI8vTo8FK6sfPeY2BGNT) | 3:06 |
 | 25 | [Take Me Home](https://open.spotify.com/track/3McAxogdq7Hu0JCGTSE3EB) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Lakay \(Home\)](https://open.spotify.com/album/439ClApLEIIK9xTm32aS0d) | 3:16 |
 | 26 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
-| 27 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
+| 27 | [a smooth sea never made a skilled sailor](https://open.spotify.com/track/3MiqYhylob4wO8kZ27qQCy) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [evertree](https://open.spotify.com/artist/6rB7euP1SWAzRpVRc98DG6), [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV) | [Tomorrow the sun won't rise](https://open.spotify.com/album/0XNuN3cNhtLO1bzD9k1mk7) | 2:42 |
 | 28 | [Brunch](https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Brunch](https://open.spotify.com/album/0FOUc0eNZPZkBLYkYI2eWk) | 2:14 |
 | 29 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 30 | [I'd Be Lyin'](https://open.spotify.com/track/6JmUaJbnsLFKU929yINf0i) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'd Be Lyin'](https://open.spotify.com/album/0ATytGspvsZ5Gd7eQy4g84) | 3:17 |

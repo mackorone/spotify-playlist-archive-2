@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 93872,
+  "num_followers": 93888,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADXSdpa0d9Fd6Ulk1zoGHJr",
+  "snapshot_id": "al1lAAAAAABxcpHqX2Dv7OQxHRVOOWBm",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
     },
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 165230,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
     },
     {
       "added_at": null,
@@ -1111,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165209,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blink Twice (Dos Veces Remix)",
         "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 154134,
       "name": "Blink Twice - Dos Veces Remix",
       "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165209,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     },
     {
       "added_at": null,

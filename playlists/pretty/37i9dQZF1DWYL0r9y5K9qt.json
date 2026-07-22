@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: i-dle",
-  "num_followers": 627373,
+  "num_followers": 627338,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-16 15:00:40",
       "album": {
-        "name": "LUCID DREAM",
-        "url": "https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "LUCID DREAM",
-      "url": "https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos"
-    },
-    {
-      "added_at": "2026-07-16 15:00:40",
-      "album": {
         "name": "Dark Arts",
         "url": "https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181758,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN"
+    },
+    {
+      "added_at": "2026-07-16 15:00:40",
+      "album": {
+        "name": "LUCID DREAM",
+        "url": "https://open.spotify.com/album/4Ds93h4r7F3Hw68SuOTrA1"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "LUCID DREAM",
+      "url": "https://open.spotify.com/track/2fwzvSVJhlMxYnhxGvFQos"
     },
     {
       "added_at": "2026-07-16 15:00:40",

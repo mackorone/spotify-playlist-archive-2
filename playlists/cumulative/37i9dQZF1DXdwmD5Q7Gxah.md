@@ -4,7 +4,7 @@
 
 > steve lacy on the cover ❤️‍🔥 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
 
-3,885 songs - 8 day 20 hr 50 min
+3,886 songs - 8 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2298,6 +2298,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 | 2023-12-14 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-03-20 | 2026-07-18 |
 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 | 2024-01-26 | 2024-08-02 |
+| [MY NAME IS NIGHT](https://open.spotify.com/track/3hFEK5zfSSezpZcP2pBYAL) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 4:11 | 2026-07-21 |  |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-11-27 | 2021-06-05 |
 | [My Whole World](https://open.spotify.com/track/4mSVwLrlitZr9xK0E2u6qt) | [C.Y.M.](https://open.spotify.com/artist/2XYuCUX7Ravz8MBo4AkA2G), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [My Whole World](https://open.spotify.com/album/4H5VoPTYrvdEIHeDhL2t3T) | 4:15 | 2026-02-23 | 2026-07-18 |
 | [my year of rest & relaxation](https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [my year of rest & relaxation](https://open.spotify.com/album/5cBu8tYI0XxXX3wTLdiekQ) | 2:41 | 2023-07-07 | 2024-02-10 |

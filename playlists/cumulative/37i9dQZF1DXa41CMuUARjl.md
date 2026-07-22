@@ -4,7 +4,7 @@
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Marlon Hoffstadt, Sara Landry, Francis Mercier, & more!
 
-36,305 songs - 91 day 7 hr 23 min
+36,305 songs - 91 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2464,7 +2464,7 @@
 | [Bad Advice](https://open.spotify.com/track/2rQZ2pUu0iiTMIwGoRu4ma) | [Jace Mek](https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4) | [Bad Advice](https://open.spotify.com/album/1H0RWK64nY4t89QotEVIFo) | 4:13 | 2023-07-28 | 2023-08-05 |
 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 | 2026-04-10 | 2026-04-18 |
 | [Bad At Being Alone \- Jay Hardway Remix](https://open.spotify.com/track/1fNw5kVcaGGwcDAgSXkQVd) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Bad At Being Alone \(Jay Hardway Remix\)](https://open.spotify.com/album/3MXEDt6CwAUGObCHBYXZ24) | 2:58 | 2020-07-10 | 2020-07-18 |
-| [Bad B\*tch](https://open.spotify.com/track/70uaBDprZurGxVSwaLmvvZ) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Bad B\*tch](https://open.spotify.com/album/70KKAQniI6NPQi7ZMMemFv) | 2:45 | 2026-07-17 |  |
+| [Bad B\*tch](https://open.spotify.com/track/70uaBDprZurGxVSwaLmvvZ) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Bad B\*tch](https://open.spotify.com/album/70KKAQniI6NPQi7ZMMemFv) | 2:42 | 2026-07-17 |  |
 | [Bad Bara](https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Bad Bara](https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg) | 4:05 | 2026-06-26 | 2026-07-04 |
 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 | 2023-12-15 | 2023-12-23 |
 | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/track/5EVnjzIr0WpuZVFDGXIaTU) | [SAINT](https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline \(feat\. DJ Luck & MC Neat\)](https://open.spotify.com/album/5Sf5Purje1nUFi9b3DsURp) | 2:31 | 2023-12-08 | 2023-12-16 |

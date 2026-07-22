@@ -90903,6 +90903,24 @@
     },
     {
       "album": {
+        "name": "ripped up jeans",
+        "url": "https://open.spotify.com/album/3dG4hQ1ULO0Qb7YrJROQ0h"
+      },
+      "artists": [
+        {
+          "name": "Sajkeena",
+          "url": "https://open.spotify.com/artist/0cwB6G7f3ISJObNyQmHb8x"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61370,
+      "name": "ripped up jeans",
+      "url": "https://open.spotify.com/track/5mzv2ef3grUwoZGcfkB0bO"
+    },
+    {
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs"
       },

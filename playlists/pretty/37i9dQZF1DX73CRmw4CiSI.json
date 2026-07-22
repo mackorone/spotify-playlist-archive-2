@@ -1,31 +1,15 @@
 {
-  "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 115874,
+  "description": "Rock y rumba para esos d\u00edas de sol y amigxs.",
+  "num_followers": 115915,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAyBl5sOicFlJ/PGQT/NFzXc+7Br",
+  "snapshot_id": "AAAAAEQpHPlYuRuesSZVw+G6KIB5Ha+H",
   "tracks": [
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Voces de Ultrarumba",
-        "url": "https://open.spotify.com/album/44wPRtOt2DMSy8C4ELLuwX"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
@@ -45,7 +29,23 @@
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Hasta luego",
         "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
@@ -61,23 +61,23 @@
       "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Dulce Veneno",
+        "url": "https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Los Manolos",
+          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+      "duration_ms": 264826,
+      "name": "Amigos para Siempre",
+      "url": "https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
@@ -93,7 +93,39 @@
       "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Hasta luego",
+        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Milonga del marinero y el capit\u00e1n",
+      "url": "https://open.spotify.com/track/1Q6mhXFfkpa4C9dyMsSaxW"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
@@ -113,23 +145,7 @@
       "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Hasta luego",
-        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Milonga del marinero y el capit\u00e1n",
-      "url": "https://open.spotify.com/track/1Q6mhXFfkpa4C9dyMsSaxW"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Bacilos (Re-Issue)",
         "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Que El Cielo Espere Sentao..",
         "url": "https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
         "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Buenos Muchachos",
         "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Que Salga El Sol Por Donde Quiera",
         "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El misterioso caso de Efecto Pasillo",
         "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Una Peque\u00f1a Parte Del Mundo",
         "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
@@ -409,7 +425,23 @@
       "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Voces de Ultrarumba",
+        "url": "https://open.spotify.com/album/44wPRtOt2DMSy8C4ELLuwX"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Aviones",
         "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
@@ -425,23 +457,7 @@
       "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
-      },
-      "artists": [
-        {
-          "name": "Los Delinq\u00fcentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "A la luz del Lorenzo",
-      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Personas",
         "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
@@ -457,7 +473,23 @@
       "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+      },
+      "artists": [
+        {
+          "name": "Los Delinq\u00fcentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "A la luz del Lorenzo",
+      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Todos Los D\u00edas Sale El Sol",
         "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "P\u00e1jaros En La Cabeza",
         "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Caja de Canciones",
         "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Vestidos De Domingo",
         "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
@@ -557,7 +589,7 @@
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
@@ -573,7 +605,7 @@
       "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Los Secretos",
         "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Muchas Flores",
         "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Vestidos De Domingo (+ Remixes)",
         "url": "https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Usar Y Tirar",
         "url": "https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Al calor del amor en un bar",
         "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
@@ -685,55 +717,7 @@
       "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Dulce Veneno",
-        "url": "https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH"
-      },
-      "artists": [
-        {
-          "name": "Los Manolos",
-          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Amigos para Siempre",
-      "url": "https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Chambao Caminando",
-        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
-      },
-      "artists": [
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Pokito a Poko",
-      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Hasta luego",
         "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
@@ -749,7 +733,23 @@
       "url": "https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Chambao Caminando",
+        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Pokito a Poko",
+      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La hora de los gigantes",
         "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La Extraordinaria Paradoja Del Sonido Quijano",
         "url": "https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Un metro cuadrado",
         "url": "https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Alegria Y Cosabuena",
         "url": "https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
         "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El Efecto Guaran\u00e1",
         "url": "https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Pasi\u00f3n Condal",
         "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "En La Boca Del Volcan",
         "url": "https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "25 a\u00f1os de agropop",
         "url": "https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Y Es Ke Me Han Kambiao Los Tiempos",
         "url": "https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "De Ley",
         "url": "https://open.spotify.com/album/3ZzjYCQIk6eQKdcIllvk05"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Toma Ketama",
         "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
@@ -1097,23 +1097,7 @@
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Isla de Palma",
-      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Adelantando",
         "url": "https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I"
@@ -1133,7 +1117,23 @@
       "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Isla de Palma",
+      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Mundo Amador",
         "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Para no olvidar",
         "url": "https://open.spotify.com/album/1od6yWsJUCkYblUYwc5RIS"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El Ser Humano Es Raro",
         "url": "https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Doctor Amor",
         "url": "https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Noche En Vela",
         "url": "https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Muchas Flores",
         "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
@@ -1249,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Con la Fiesta a Cuestas",
         "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Takat\u00e1, a toda rumba",
         "url": "https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Lobbo",
         "url": "https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Esencial Rosario",
         "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
@@ -1345,7 +1345,7 @@
       "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Dile Al Sol",
         "url": "https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux"
@@ -1361,7 +1361,7 @@
       "url": "https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "4 Canciones",
         "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
@@ -1377,7 +1377,7 @@
       "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Esclava De Tu Piel",
         "url": "https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB"
@@ -1393,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0ATzislS5SvAp69hjHczej"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6shvAFKsshKhvsazuGO404"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "De Triana al Cielo",
         "url": "https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "El Toro y la Luna (20 Aniversario)",
         "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
@@ -1441,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "10 A\u00f1os Around The World (Version Comentada)",
         "url": "https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY"
@@ -1457,7 +1457,7 @@
       "url": "https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B"
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO"
     },
     {
-      "added_at": "2022-01-25 22:47:02",
+      "added_at": "2026-07-21 09:15:29",
       "album": {
         "name": "De Aki A Ketama",
         "url": "https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7"

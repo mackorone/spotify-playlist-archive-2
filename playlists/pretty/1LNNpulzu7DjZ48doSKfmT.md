@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 466 likes - 548 songs - 1 day 3 hr 37 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 467 likes - 554 songs - 1 day 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -556,5 +556,11 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 546 | [Traumatized](https://open.spotify.com/track/6mXXrKN85AXWQOZCGLHBLM) | [Tubez](https://open.spotify.com/artist/6M3ZsMuBPybfM8fEWba11w) | [Traumatized](https://open.spotify.com/album/2oYJqf56dQY1MSrjb7CDai) | 2:11 |
 | 547 | [MISOPHONIA](https://open.spotify.com/track/6865dWWOnSVZJeDe7LQeSY) | [Dr\. Brainwave](https://open.spotify.com/artist/3yd80pAcP8UQ6PAnDWWgES), [BLEAKHULL](https://open.spotify.com/artist/57yfFbuxpA1NqaAPMmxH8H) | [MISOPHONIA](https://open.spotify.com/album/7FUXAe1UkgiZ47UgRYtZPm) | 1:34 |
 | 548 | [All or Nothing](https://open.spotify.com/track/093r959kXoSrKGexi6I27k) | [KCK](https://open.spotify.com/artist/7tM7AnpwLXdMts81GwXG54), [Sonny Nox](https://open.spotify.com/artist/1BV9Kl4wnoqwYZpGzp37V5) | [All or Nothing](https://open.spotify.com/album/4FDRMbRgoKQ9oxtwNP66PB) | 2:49 |
+| 549 | [Pé na Porta](https://open.spotify.com/track/1odIaBRxZgw9thJr6Usbxq) | [Buba Nobeat](https://open.spotify.com/artist/720uxiEQL3J7OmSqIRTKQ7) | [Pé na Porta](https://open.spotify.com/album/4SWWu2N8nlM2nZLKdOjDJE) | 3:11 |
+| 550 | [Death Note](https://open.spotify.com/track/3lBA1pEtFzgMDqhix7FN34) | [Drippy Drew](https://open.spotify.com/artist/6ilrJUIdgWrxPFQ6MRPLns) | [Vigginator](https://open.spotify.com/album/1So8SLhH8NrdlUU5lbNKYn) | 3:16 |
+| 551 | [Bounce 2 Diss](https://open.spotify.com/track/1sQgNCFVIfTqVNtn0ktuba) | [KLASH.Nikov](https://open.spotify.com/artist/671zHM5egnfXIFLyjIIL0n), [TabarZin](https://open.spotify.com/artist/5JzwhqAnIa0pAAmLQrss12), [Billyboi](https://open.spotify.com/artist/6qx9kEpDSaiKyXcFSV2g6t) | [Bounce 2 Diss](https://open.spotify.com/album/40729bIKhxwrjaIBXWt3Bk) | 3:23 |
+| 552 | [Holding Gun](https://open.spotify.com/track/0rIK8JURNx6ePZOKAIFpxm) | [Lil j7](https://open.spotify.com/artist/2E4tdsYF54cHXtLT97FCkS) | [Holding Gun](https://open.spotify.com/album/4yrRbd1D2yYOJQ3ovBU5v7) | 3:06 |
+| 553 | [VIS TA VIE](https://open.spotify.com/track/0DFAakg7Fh1ghAYAsxsSoJ) | [Larso](https://open.spotify.com/artist/5QJfIqhp67manqzozK4o9Q), [DICE B](https://open.spotify.com/artist/1bmPySXQQ2RuCzQ6Mkk78K) | [VIS TA VIE](https://open.spotify.com/album/7n6Ax2uDyX3VWrHgaWTJNZ) | 3:52 |
+| 554 | [INVIERNO V2](https://open.spotify.com/track/0cFjCu11NjrejEKGQP0wK7) | [NINE](https://open.spotify.com/artist/403x50nGEcXVzPA7DNt2hW) | [INVIERNO V2](https://open.spotify.com/album/0W5iLkrOH6NwaeJPBRVNoa) | 2:11 |
 
-Snapshot ID: `AAAczSEp7XxqoxFb1NTdaaIFoYIEuDCe`
+Snapshot ID: `AAAc01pG79iCgEkWX1gtLqc+JEEqhP34`

@@ -1,12 +1,12 @@
 {
   "description": "just trying our best",
-  "num_followers": 1540450,
+  "num_followers": 1540267,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrOI7QiWZPSbaxj0CYE+zv/eCi1",
+  "snapshot_id": "AAAAAPDtJeCizscadbgLttZiH1PGK4/p",
   "tracks": [
     {
       "added_at": "2026-07-17 04:06:21",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
     },
     {
-      "added_at": "2026-07-17 04:06:21",
-      "album": {
-        "name": "Lost On The Way To Paradise",
-        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        }
-      ],
-      "duration_ms": 159709,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
-    },
-    {
       "added_at": "2026-06-26 04:02:15",
       "album": {
         "name": "I Always Say I'm Leaving",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/5cKe5uG14ySc9DNb15np2J"
     },
     {
+      "added_at": "2026-07-22 03:15:47",
+      "album": {
+        "name": "London Tonight",
+        "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
+      },
+      "artists": [
+        {
+          "name": "Mercer",
+          "url": "https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "London Tonight",
+      "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
+    },
+    {
       "added_at": "2026-05-22 04:55:57",
       "album": {
         "name": "Run Rabbit",
@@ -87,6 +87,54 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "born to lose",
+        "url": "https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 194934,
+      "name": "born to lose",
+      "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
+    },
+    {
+      "added_at": "2026-07-17 04:06:21",
+      "album": {
+        "name": "Lost On The Way To Paradise",
+        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "duration_ms": 159709,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
+    },
+    {
+      "added_at": "2026-07-22 03:15:47",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
       "added_at": "2026-07-17 04:06:21",
@@ -121,6 +169,22 @@
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
+      "added_at": "2026-07-22 03:15:47",
+      "album": {
+        "name": "Take A Drink",
+        "url": "https://open.spotify.com/album/7jMnT6irYdrAb1APfm2LcN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 177695,
+      "name": "Take A Drink",
+      "url": "https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm"
+    },
+    {
       "added_at": "2026-07-17 04:06:21",
       "album": {
         "name": "Isn't it sweeter?",
@@ -135,22 +199,6 @@
       "duration_ms": 150901,
       "name": "A Little More Fun",
       "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
-    },
-    {
-      "added_at": "2026-07-05 15:36:05",
-      "album": {
-        "name": "born to lose",
-        "url": "https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 194934,
-      "name": "born to lose",
-      "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
     },
     {
       "added_at": "2026-07-17 04:06:21",
@@ -233,6 +281,38 @@
       "url": "https://open.spotify.com/track/7Lm7AfLMFfUF2dpBGrO2wW"
     },
     {
+      "added_at": "2026-05-22 04:55:57",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+    },
+    {
       "added_at": "2026-07-17 04:06:21",
       "album": {
         "name": "Hometown Letdown",
@@ -313,6 +393,22 @@
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
+    },
+    {
       "added_at": "2026-07-10 04:04:08",
       "album": {
         "name": "Love Makes You Do",
@@ -329,22 +425,6 @@
       "url": "https://open.spotify.com/track/5by7y6dIZ6t0OJyxXTl0tA"
     },
     {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
-    },
-    {
       "added_at": "2026-06-26 04:02:15",
       "album": {
         "name": "Water The Flowers",
@@ -359,22 +439,6 @@
       "duration_ms": 150994,
       "name": "Water The Flowers",
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
-    },
-    {
-      "added_at": "2026-07-05 15:36:05",
-      "album": {
-        "name": "Endless Sundays",
-        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 248281,
-      "name": "Endless Sundays",
-      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
       "added_at": "2026-07-13 20:15:15",
@@ -407,22 +471,6 @@
       "duration_ms": 157960,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs"
-    },
-    {
-      "added_at": "2026-06-12 04:17:50",
-      "album": {
-        "name": "Shapeshifting on a Saturday Night",
-        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 205728,
-      "name": "Shapeshifting on a Saturday Night",
-      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
       "added_at": "2026-06-16 17:46:51",
@@ -1129,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
     },
     {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
-        "name": "PRICE TAG",
-        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 190660,
-      "name": "PRICE TAG",
-      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
-    },
-    {
       "added_at": "2026-04-24 04:02:35",
       "album": {
         "name": "Wishful Thinker",
@@ -1163,22 +1195,6 @@
       "duration_ms": 166015,
       "name": "Wishful Thinker",
       "url": "https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG"
-    },
-    {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242517,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
       "added_at": "2026-04-24 04:02:35",
@@ -1503,22 +1519,6 @@
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
-    },
-    {
-      "added_at": "2026-02-13 05:00:46",
-      "album": {
-        "name": "DON\u2019T YOU SEE ME TRYING?",
-        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 213887,
-      "name": "DON\u2019T YOU SEE ME TRYING?",
-      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
       "added_at": "2026-02-13 20:08:25",

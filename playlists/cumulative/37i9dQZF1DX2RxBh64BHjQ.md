@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-2,942 songs - 5 day 9 hr 13 min
+2,943 songs - 5 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,7 +1207,7 @@
 | [Humble](https://open.spotify.com/track/1Xlt2TE4O0lERfDaEk3gHY) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Humble](https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF) | 2:51 | 2022-10-21 | 2022-12-03 |
 | [Huncho Fishscale \(ft\. Quavo\)](https://open.spotify.com/track/5GzmaXXXJYVOKRQyaLZuJM) | [Bobby Fishscale](https://open.spotify.com/artist/11gyaEELeFdWVRaxWJm8b0), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Evolution](https://open.spotify.com/album/4BMnMdQxaN0yj0jh2XSuTQ) | 3:14 | 2021-11-05 | 2022-01-29 |
 | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/track/2jqebWPNRxKiLyMKxKyOhU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/album/6gGj7WtC3PxstpTn9VkdDm) | 2:50 | 2022-06-03 | 2022-08-13 |
-| [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 | 2026-07-10 |  |
+| [HUT](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 | 2026-07-10 |  |
 | [HYPOCRITE](https://open.spotify.com/track/3ingEZQJcRPm956usULf2j) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [HYPOCRITE](https://open.spotify.com/album/3kxp47rbLqyh2a9ATBdRHS) | 2:14 | 2025-02-22 | 2025-03-22 |
 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 | 2023-09-09 |
 | [I Ain't Coming Back](https://open.spotify.com/track/1PdTGX45hLzzpHmGKjAVGz) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [I Ain't Coming Back](https://open.spotify.com/album/4Z5FZlR8clRYIrpfdXEZqZ) | 3:33 | 2025-09-19 | 2025-10-25 |
@@ -1811,6 +1811,7 @@
 | [No Weight](https://open.spotify.com/track/7zq95OMooc0rB3Di5WgG0t) | [Rublow](https://open.spotify.com/artist/4ldyGaB3s6qWtuhlNfwVZs) | [No Weight](https://open.spotify.com/album/6xJr2dgZGEXcUn8PjOQ6l6) | 2:00 | 2024-02-02 | 2024-03-23 |
 | [Nobody \(feat\. Dreezy\)](https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Time is Muney](https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt) | 3:15 | 2022-02-11 | 2022-04-09 |
 | [Nobody \(feat\. Monaleo\) \- Remix](https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Nobody \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9) | 2:29 | 2026-06-26 |  |
+| [North Pole](https://open.spotify.com/track/0m74fvFOwWfr2QoHgZHnni) | [Boohavinn](https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au) | [North Pole](https://open.spotify.com/album/0H1lHH9y6gS4NVauyeECcF) | 1:28 | 2026-07-21 |  |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-04 | 2025-02-15 |
 | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS) | 2:09 | 2024-08-30 | 2024-09-07 |
 | [NOSTYLIST](https://open.spotify.com/track/2L6snXmirafxCJY3sBzuKD) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 3:00 | 2023-01-10 | 2023-02-18 |

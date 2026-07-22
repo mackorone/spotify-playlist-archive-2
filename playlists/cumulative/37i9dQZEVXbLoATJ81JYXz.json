@@ -22537,6 +22537,28 @@
     },
     {
       "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -32842,7 +32864,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -32860,7 +32882,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -37228,7 +37250,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 188466,
       "name": "N\u00e4r vi tv\u00e5 blir en",
       "url": "https://open.spotify.com/track/2EKzS2s2VKnbQ7jxyk2WHi"
@@ -37720,6 +37742,24 @@
       "duration_ms": 143566,
       "name": "Ole Dole Doff",
       "url": "https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW"
+    },
+    {
+      "album": {
+        "name": "Olyckligt k\u00e4r",
+        "url": "https://open.spotify.com/album/2VgYjUvf5XT6ImNuZewOUf"
+      },
+      "artists": [
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/3hPJRjlru1p445TrmVGdIA"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Olyckligt k\u00e4r",
+      "url": "https://open.spotify.com/track/4t3Z4EvM0oDjSEegEXSpJO"
     },
     {
       "album": {
@@ -40958,7 +40998,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 235555,
       "name": "Ramenez la coupe \u00e0 la maison",
       "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
@@ -47786,7 +47826,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 249573,
       "name": "Str\u00f6vt\u00e5g i hembygden",
       "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1"
@@ -49364,7 +49404,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 152807,
       "name": "S\u00f6mnmolnet",
       "url": "https://open.spotify.com/track/1vTEu9w2nKcMTfssLnzZEx"

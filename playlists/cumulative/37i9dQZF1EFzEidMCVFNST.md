@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-623 songs - 1 day 5 hr 38 min
+624 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Aqui Se Faz, Aqui Se Sofre \- Ao Vivo](https://open.spotify.com/track/4BDmiw8BDqPBVSunmFD68X) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 2:49 | 2024-01-29 |  |
 | [Ar Condicionado no 15](https://open.spotify.com/track/3dZw9O0EtGveuwRZv1yYqM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [As Melhores \(Ao Vivo\)](https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4) | 2:47 | 2024-04-27 | 2025-06-28 |
 | [Ar Condicionado no 15](https://open.spotify.com/track/5zf17VyfWWneXwco7sXJdN) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Esquenta WS In Miami Beach](https://open.spotify.com/album/0edX5MEySKMAI04aNZEzPA) | 2:47 | 2024-01-29 | 2024-04-28 |
+| [Arame Farpado](https://open.spotify.com/track/1nPAnnIsvOWmPEBY5OECXd) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Arame Farpado](https://open.spotify.com/album/0xrivo48vVCYtbyvoor7WT) | 2:36 | 2026-07-21 |  |
 | [Assume](https://open.spotify.com/track/1Pbfj8p5E54sqiKb8hHLnp) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Assume](https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR) | 2:33 | 2024-07-26 |  |
 | [Assunto Resolvido](https://open.spotify.com/track/2TQbVYjR8UeM85Hcyrzo1L) | [Lucas Akira e Fábio](https://open.spotify.com/artist/2EaDSEBebaEs4A24AJJepr) | [Assunto Resolvido](https://open.spotify.com/album/0bytYR6WJFxx8foqtikvKR) | 3:12 | 2025-05-31 |  |
 | [Assunto Resolvido \- Ao Vivo](https://open.spotify.com/track/24EXVPq3gNMuIMpSHL1IfE) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Ao Vivo em Escarpas do Lago](https://open.spotify.com/album/6pnuFzOE6JfL8dPxdlE3Io) | 2:50 | 2024-01-29 | 2025-06-01 |

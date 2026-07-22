@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 323676,
+  "num_followers": 323729,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADbzZ1Y8mC/hSR7DT7/Kn0F",
+  "snapshot_id": "al1lAAAAAAC56wBYyVA0vHqnoIjap2Mf",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Me Hablen de Penas",
+        "url": "https://open.spotify.com/album/7HoDdcb8bHonDW0v9yUtL5"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 115328,
+      "name": "No Me Hablen de Penas",
+      "url": "https://open.spotify.com/track/6bSeGQcsve915cgePuw2bZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Se Yo",
         "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
       },
@@ -319,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Hablen de Penas",
-        "url": "https://open.spotify.com/album/7HoDdcb8bHonDW0v9yUtL5"
+        "name": "Table Dance",
+        "url": "https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Chino El Don",
+          "url": "https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa"
         }
       ],
-      "duration_ms": 115328,
-      "name": "No Me Hablen de Penas",
-      "url": "https://open.spotify.com/track/6bSeGQcsve915cgePuw2bZ"
+      "duration_ms": 244308,
+      "name": "Table Dance",
+      "url": "https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6"
     },
     {
       "added_at": null,
@@ -371,26 +391,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Table Dance",
-        "url": "https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Chino El Don",
-          "url": "https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa"
-        }
-      ],
-      "duration_ms": 244308,
-      "name": "Table Dance",
-      "url": "https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6"
     },
     {
       "added_at": null,

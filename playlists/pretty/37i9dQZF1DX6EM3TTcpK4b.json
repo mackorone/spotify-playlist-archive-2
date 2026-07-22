@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 477880,
+  "num_followers": 477956,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 156946,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 177013,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
         "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 245133,
       "name": "Inocente Pobre Amigo",
       "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "La Reina Canta A Mexico",
-        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
-        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
       "artists": [
         {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Coplas de dos tipos de cuidado (remastered)",
-      "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
+      "duration_ms": 265853,
+      "name": "Himno A La Humildad",
+      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1483,22 +1487,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
+        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 265853,
-      "name": "Himno A La Humildad",
-      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
+      "duration_ms": 236146,
+      "name": "Coplas de dos tipos de cuidado (remastered)",
+      "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Como Tu Decidas",
-      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
+      "duration_ms": 160240,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/28vqZLZyXePnLCCFtRxaO3"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 160240,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/28vqZLZyXePnLCCFtRxaO3"
+      "duration_ms": 188360,
+      "name": "Como Tu Decidas",
+      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2179,8 +2179,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
       },
       "artists": [
         {
@@ -2188,9 +2188,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Cruz De Olvido",
-      "url": "https://open.spotify.com/track/43U31uHEKbHdrvjIJuvkGa"
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/04kdbkyXKEGnbRxqLKjchb"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2259,8 +2259,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
@@ -2268,9 +2268,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/04kdbkyXKEGnbRxqLKjchb"
+      "duration_ms": 210600,
+      "name": "Cruz De Olvido",
+      "url": "https://open.spotify.com/track/43U31uHEKbHdrvjIJuvkGa"
     },
     {
       "added_at": "2024-07-03 18:18:42",

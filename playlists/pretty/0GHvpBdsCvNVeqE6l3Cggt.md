@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 50 songs - 3 hr 8 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 48 | [Lost And Found](https://open.spotify.com/track/7mppllyJK82vQ7MlSJxjvc) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Lost And Found](https://open.spotify.com/album/4W8kpUIeh0Rj8nxOgdTabC) | 2:19 |
 | 49 | [Oops!](https://open.spotify.com/track/4WyQyVjkmKTfx2R5cM0utK) | [Nessa Blake](https://open.spotify.com/artist/2h0XRI0fBH4bZcTeNzVbpv) | [Oops!](https://open.spotify.com/album/6XF8BILHXtmvZKLmqWcSfR) | 2:37 |
 | 50 | [I'll Let You Go](https://open.spotify.com/track/1zCeMFUHGZli0eXTfbuM8z) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [I'll Let You Go](https://open.spotify.com/album/6Go3mjh8Z8iWAqnHPr3mMj) | 3:32 |
+| 51 | [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 |
 
-Snapshot ID: `AAAkTcKmRGimv+qsKiA94F2lmN2DHkol`
+Snapshot ID: `AAAkTu51IbzSXBRZao5aCGxdGzIJEqlt`

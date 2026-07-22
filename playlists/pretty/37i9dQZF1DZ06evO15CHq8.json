@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 677708,
+  "num_followers": 677776,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAACvW2iT5+bhkC26sPQRpM/7",
+  "snapshot_id": "al1lAAAAAACxmL1GDgyhKkeP/4KZCypK",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,

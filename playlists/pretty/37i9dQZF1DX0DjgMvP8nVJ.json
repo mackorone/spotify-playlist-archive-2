@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 33693,
+  "num_followers": 33700,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Guapa",
-        "url": "https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Dulce Locura",
-      "url": "https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 185460,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Dulce Locura",
+      "url": "https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 228112,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Dream Into Action (2018 Expanded & Remastered Edition)",
         "url": "https://open.spotify.com/album/4RCG2vLqJFqEeVRA4y3BYB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235146,
       "name": "Things Can Only Get Better - 2018 Remaster",
       "url": "https://open.spotify.com/track/2zbXf2qz52eXmw4dpHWWq6"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228112,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 178520,
       "name": "Cassie",
       "url": "https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
       "artists": [
         {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5"
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u"
     }
   ],
   "unique_name": "The Sims Official Playlist",

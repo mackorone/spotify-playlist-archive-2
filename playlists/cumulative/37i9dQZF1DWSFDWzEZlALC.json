@@ -16909,6 +16909,24 @@
     },
     {
       "album": {
+        "name": "Keine Angst",
+        "url": "https://open.spotify.com/album/15d6XT5XuVWkYrFrFaGgfv"
+      },
+      "artists": [
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427565,
+      "name": "Keine Angst",
+      "url": "https://open.spotify.com/track/3JZQu2KQwQ0mwtzZEaKB0W"
+    },
+    {
+      "album": {
         "name": "Keine Freunde",
         "url": "https://open.spotify.com/album/1kvJUXYWqm5FT3o1tRVsP6"
       },

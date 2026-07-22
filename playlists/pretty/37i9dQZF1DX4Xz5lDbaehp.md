@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > The Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,631 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,633 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 78 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 |
 | 79 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 |
 | 80 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 |
-| 81 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 |
+| 81 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Alif Hilal](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 |
 | 82 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 |
 | 83 | [Dragonfly](https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Dragonfly](https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE) | 3:19 |
 | 84 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 |

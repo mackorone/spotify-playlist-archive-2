@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 359096,
       "name": "God Is for Me",
       "url": "https://open.spotify.com/track/0ARQW1x7VJE3OyqckAOtD9"
@@ -6760,6 +6760,24 @@
       "duration_ms": 250000,
       "name": "JESUS",
       "url": "https://open.spotify.com/track/4KZZLqQTcY2YfbEviV7bzf"
+    },
+    {
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp"
+      },
+      "artists": [
+        {
+          "name": "Veekeyz",
+          "url": "https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278778,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
     },
     {
       "album": {

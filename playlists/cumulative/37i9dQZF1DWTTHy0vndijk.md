@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE \(리센느\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: fromis\_9 \(프로미스나인\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-556 songs - 1 day 6 hr 12 min
+557 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 | 2022-03-29 | 2026-07-09 |
 | [Baby Baby](https://open.spotify.com/track/69VFSkc7Eca09fnUxSL5nw) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [BABYBABY](https://open.spotify.com/album/1xbVi5T6nMgrfmjHhjjVIu) | 3:11 | 2021-11-29 | 2022-06-13 |
 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 | 2026-06-02 |  |
-| [Babyface](https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 2nd Single \[Babyface\]](https://open.spotify.com/album/37l9884n6H8JzEokUFQOsz) | 2:48 | 2026-03-16 |  |
+| [Babyface](https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 2nd Single \[Babyface\]](https://open.spotify.com/album/37l9884n6H8JzEokUFQOsz) | 2:48 | 2026-03-16 | 2026-07-22 |
 | [Bad Dracula](https://open.spotify.com/track/4z5aqQOYYsvjXuXjjhKVJ2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:08 | 2022-03-29 | 2022-04-20 |
 | [Banana allergy monkey](https://open.spotify.com/track/2OKDrqLglUNqv1TveF5WGx) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [BANANA ALLERGY MONKEY](https://open.spotify.com/album/3dGBubYrajwhcnMubZ3H8F) | 3:43 | 2022-04-04 | 2022-05-24 |
 | [BANANA CHACHA](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [BANANA CHACHA](https://open.spotify.com/album/7ddX2r1TPT08eiSMUlCx8H) | 2:14 | 2022-03-29 | 2022-04-21 |
@@ -263,7 +263,7 @@
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-29 |  |
 | [LIME \(I'm So\)](https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [LIME \(I'm So\)](https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40) | 2:10 | 2023-11-06 | 2023-11-28 |
 | [Listen to my word\(A\-ing\)](https://open.spotify.com/track/3jxoRPeed8f84PLTuKJeR7) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Haha](https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF), [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg) | [LISTEN TO MY WORD](https://open.spotify.com/album/6ZlnuAuYdtlcZ8aIRjWV8J) | 3:30 | 2022-04-04 | 2022-04-21 |
-| [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 | 2026-07-08 |  |
+| [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 | 2026-07-08 | 2026-07-22 |
 | [LOL](https://open.spotify.com/track/3f8hlbcbaUvwIZcOkbiFPh) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:29 | 2021-11-29 | 2022-04-19 |
 | [Look At Me](https://open.spotify.com/track/6Jkcg39vqttJezD7nfqrSj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:13 | 2024-03-01 | 2024-04-19 |
 | [Lost Dreams](https://open.spotify.com/track/1bD1saiO45a4GBgsTByTfn) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:24 | 2023-09-13 | 2023-09-19 |
@@ -423,7 +423,7 @@
 | [Sky Walking](https://open.spotify.com/track/537GKqf0UdlbI2aYOglmct) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/4fVtHcVAgLbRV3YphyyZBz) | 4:12 | 2025-09-03 | 2025-11-11 |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-04-04 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
-| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 | 2026-07-21 |
+| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
 | [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-10-12 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
@@ -504,6 +504,7 @@
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-11-29 | 2023-08-24 |
 | [Vacation](https://open.spotify.com/track/7AI4DORtGHljkmE2Y2ucpa) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND Summer Mini Album 'Sunny Summer'](https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji) | 3:24 | 2021-11-29 | 2022-04-29 |
 | [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 | 2022-01-04 | 2022-07-13 |
+| [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 | 2026-07-21 |  |
 | [VIVACE](https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Light a Wish](https://open.spotify.com/album/4rweatsYVwajSONjLE5Qi9) | 3:35 | 2021-11-29 | 2022-07-28 |
 | [VROOM VROOM](https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 3:16 | 2023-11-06 | 2023-11-28 |
 | [Wag\-zak](https://open.spotify.com/track/45UsiRzyeeAm1LlQZi66k2) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz Digital Single 'Wag\-zak'](https://open.spotify.com/album/1JvjesAVP9BlXCtU0HGrlA) | 3:31 | 2021-11-29 | 2022-06-28 |

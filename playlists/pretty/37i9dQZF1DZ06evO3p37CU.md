@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,502 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,504 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 46 | [Bank](https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 2:59 |
 | 47 | [Big Titties \(feat\. Baauer and EarthGang\)](https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:52 |
 | 48 | [ALL EYES ON ME](https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:00 |
-| 49 | [Nirvana](https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9) | [Nirvana](https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI) | 3:00 |
-| 50 | [Liquor Sto'](https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:56 |
+| 49 | [Liquor Sto'](https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:56 |
+| 50 | [Everybody Ain’t Shit \(with EARTHGANG\)](https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:23 |
 
-Snapshot ID: `alwTgAAAAADhnmC+C9kwCdsBms8I1cQ/`
+Snapshot ID: `al1lAAAAAACwIbaoi3juu3xcVy22qe5I`

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-138 songs - 7 hr 56 min
+139 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 | 2026-03-05 | 2026-03-20 |
 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 | 2026-03-24 | 2026-04-18 |
 | [Elysian Fields](https://open.spotify.com/track/5R2WeAM9axE8EMAMbPchzO) | [Stratafield](https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA) | [Sympathetic Waveforms](https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK) | 4:51 | 2026-06-24 |  |
+| [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 | 2026-07-21 |  |
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |
 | [Everything Goes On](https://open.spotify.com/track/2rllct6mqneQYoMt66qsTp) | [asobou](https://open.spotify.com/artist/0pWmm42KlgcRUX2qOOBf32) | [Everything Goes On](https://open.spotify.com/album/5DqyUfB2BhWXWvrrio3Hn5) | 3:26 | 2026-04-22 | 2026-05-21 |

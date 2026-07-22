@@ -38359,6 +38359,24 @@
     },
     {
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/15GZvHoaG8oM6ja8LZQxBl"
+      },
+      "artists": [
+        {
+          "name": "Darlington",
+          "url": "https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/4ky0UguF2TtDUPvcr9ur0r"
+    },
+    {
+      "album": {
         "name": "emulation",
         "url": "https://open.spotify.com/album/0OQwd9OkjGYKjYk4QCJYDB"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Gracie Abrams, Swapmeet, Lil Baby, Steve Lacy, Jordan Rakei, Bella Kay + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,947 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,920 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 755329,
+  "num_followers": 755677,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANx6VQ4bzbx4dHrBJPIU+ROSRs/x",
+  "snapshot_id": "AAAAAHTgvWjZ7m93wXHlHq/k7C9S49Jq",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -99,6 +99,34 @@
       "duration_ms": 219661,
       "name": "Mandaadi Mandaadi (From \"Mandaadi\")",
       "url": "https://open.spotify.com/track/50hUrYi1cF0MPxqZrXbs9G"
+    },
+    {
+      "added_at": "2026-07-21 08:52:24",
+      "album": {
+        "name": "Thadumaarudhe (From \"Toxic - Tamil\")",
+        "url": "https://open.spotify.com/album/3CZq7Y0Y2XMqV4zA7Mu3K9"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        }
+      ],
+      "duration_ms": 245541,
+      "name": "Thadumaarudhe - From \"Toxic - Tamil\"",
+      "url": "https://open.spotify.com/track/2e523H0L1hNuwt3djkY6cH"
     },
     {
       "added_at": "2026-07-19 03:08:15",

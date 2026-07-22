@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > For the next 5 weeks, the Hoop Queens are taking over the Hip Hop Pulse Playlist—curating the sounds that fuel their game on and off the court\. It’s not just a takeover\. It’s a full\-court statement\.  Curated by: Team Charge
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,882 likes - 145 songs - 7 hr 22 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,879 likes - 145 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

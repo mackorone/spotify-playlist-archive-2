@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Gracie Abrams on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,965 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,961 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 39 | [Dream Girl](https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [PIXIE](https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq) | 3:23 |
 | 40 | [if you wanna know](https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [if you wanna know](https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3) | 2:58 |
 | 41 | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra) | 3:17 |
-| 42 | [First Day Out](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise](https://open.spotify.com/artist/13dylTS1533xEY3bxSUg31) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
+| 42 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 43 | [Adicción](https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:53 |
 | 44 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
 | 45 | [beam](https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [beam](https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm) | 3:06 |

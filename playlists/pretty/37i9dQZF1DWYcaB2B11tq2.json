@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 517812,
+  "num_followers": 517928,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Creyendo En Ti",
+      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Creyendo En Ti",
-      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Pistas",
+        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 304706,
+      "name": "La Historia De Cristo",
+      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Humano",
         "url": "https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Pistas",
-        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 304706,
-      "name": "La Historia De Cristo",
-      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Piedra Soto",
-          "url": "https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF"
-        }
-      ],
-      "duration_ms": 372640,
-      "name": "Nuestro Encuentro",
-      "url": "https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Cristonita Recharged",
         "url": "https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 247013,
       "name": "Paciente Espero",
       "url": "https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Piedra Soto",
+          "url": "https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "Nuestro Encuentro",
+      "url": "https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Ganas de Vivir",
+        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Ganas de Vivir",
+      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "ResplanDC",
         "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
@@ -1607,54 +1639,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Ganas de Vivir",
-        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Ganas de Vivir",
-      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
       "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Todos Mis Mejores Amigos",
         "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 305573,
       "name": "M\u00e1s All\u00e1 De Tu Ventana",
       "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2026-05-12 05:08:23",

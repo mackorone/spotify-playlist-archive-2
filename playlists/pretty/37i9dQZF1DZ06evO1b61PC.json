@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAkj095sKdckTJZ5HCRytln",
+  "snapshot_id": "al1lAAAAAACD7rN6/IeKlDzxvGh2Y6uk",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost (feat. Chelsea Jade)",
-        "url": "https://open.spotify.com/album/6Vf8EPxLHlNIbOKGc2RKjH"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Chelsea Jade",
-          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Lost (feat. Chelsea Jade)",
-      "url": "https://open.spotify.com/track/74QUrsUibuADACTNB14F1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 184163,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost (feat. Chelsea Jade)",
+        "url": "https://open.spotify.com/album/6Vf8EPxLHlNIbOKGc2RKjH"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Lost (feat. Chelsea Jade)",
+      "url": "https://open.spotify.com/track/74QUrsUibuADACTNB14F1p"
     },
     {
       "added_at": null,

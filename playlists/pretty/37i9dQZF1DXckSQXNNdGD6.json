@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22552,
+  "num_followers": 22616,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 156710,
       "name": "Satisfacer Tu Deseo De Hombre",
       "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Odio La M\u00fasica",
-        "url": "https://open.spotify.com/album/74Gc5B8FkQovbqX622XFIj"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Odio La M\u00fasica",
-      "url": "https://open.spotify.com/track/79NTnQdxMd9FmUIHaq0tfr"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "Algo me falta",
         "url": "https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 181500,
       "name": "Algo me falta",
       "url": "https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Odio La M\u00fasica",
+        "url": "https://open.spotify.com/album/74Gc5B8FkQovbqX622XFIj"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Odio La M\u00fasica",
+      "url": "https://open.spotify.com/track/79NTnQdxMd9FmUIHaq0tfr"
     },
     {
       "added_at": "2026-07-13 22:00:02",

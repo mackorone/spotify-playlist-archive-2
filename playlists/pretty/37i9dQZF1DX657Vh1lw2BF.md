@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف: محمود التركي و داليا
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,898 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,917 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sheno Sheno](https://open.spotify.com/track/0X14TVQhZcv7R78yNO7xpB) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7), [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Sheno Sheno](https://open.spotify.com/album/1RHowLS99M0ty7gSsnt3ZD) | 2:51 |
-| 2 | [El Omr Rah \- Original](https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ) | [Nasrat Al Badr](https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5) | [El Omr Rah \(Original\)](https://open.spotify.com/album/0CMZpfbdAGEIuYVJdL63Oa) | 4:31 |
+| 2 | [العمر راح \- النسخة الأصلية](https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ) | [Nasrat Al Badr](https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5) | [العمر راح \(النسخة الأصلية\)](https://open.spotify.com/album/0CMZpfbdAGEIuYVJdL63Oa) | 4:31 |
 | 3 | [Rouh W Nsani](https://open.spotify.com/track/3EmlkQjuUaAwo7BjwqHNba) | [Yasmeen](https://open.spotify.com/artist/6hWSF0FMDSa4AtFLH0cVEP) | [Rouh W Nsani](https://open.spotify.com/album/0H52Tii8jORuNjsunpgwaV) | 3:45 |
 | 4 | [ارجع علينا](https://open.spotify.com/track/20IgyjZCkaLFXqXERnN5tq) | [علي حاتم](https://open.spotify.com/artist/4MlczWxXyrZvwEP7W2nOin) | [ارجع علينا](https://open.spotify.com/album/0VUDEMAiaWZMowQASWSktF) | 4:47 |
 | 5 | [إذا عديت نجم الليل](https://open.spotify.com/track/70pdtrGugJpg7gEQxmy1nF) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [كول ما احبك](https://open.spotify.com/album/2E7n08BFtVjMxG0OS2oiah) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 49 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
 | 50 | [Safha Jdida](https://open.spotify.com/track/35TewCJeiy2uiA044iUMsL) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Safha Jdida](https://open.spotify.com/album/6a1wDMzQeup9H4tlnZEW9q) | 2:57 |
 
-Snapshot ID: `AAAAALwdWHG61klLbwILZQLWg69XIYs2`
+Snapshot ID: `AAAAAIz7iO9SkXiPZXCL/JWjvhmBW+4P`

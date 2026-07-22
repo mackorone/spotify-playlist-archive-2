@@ -2887,6 +2887,36 @@
     },
     {
       "album": {
+        "name": "Entha Haal (From \"Kerala Underground\")",
+        "url": "https://open.spotify.com/album/0SPdDPXJGjcaUaSq2Kygax"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        },
+        {
+          "name": "The Imbachi",
+          "url": "https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Entha Haal - From \"Kerala Underground\"",
+      "url": "https://open.spotify.com/track/5hEYWCzHY16Tyieti7xlQ6"
+    },
+    {
+      "album": {
         "name": "Enthannuvecha Aykko",
         "url": "https://open.spotify.com/album/095KgHug3ANYEGex1MJw5V"
       },

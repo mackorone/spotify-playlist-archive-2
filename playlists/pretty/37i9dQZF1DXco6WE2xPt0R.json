@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128043,
+  "num_followers": 128039,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
+        "name": "Body So Tea",
+        "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 151951,
+      "name": "Body So Tea",
+      "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
         "name": "IT'S OK",
         "url": "https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE"
       },
@@ -71,26 +87,6 @@
       "duration_ms": 139039,
       "name": "IT'S OK",
       "url": "https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 162514,
-      "name": "Sweet Nuthins (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -111,18 +107,22 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Body So Tea",
-        "url": "https://open.spotify.com/album/2mG7Jq4OnkQdpmemAmtXAQ"
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 151951,
-      "name": "Body So Tea",
-      "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Lil' Obsession",
-        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+        "name": "Slow Grind",
+        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
       },
       "artists": [
         {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+      "duration_ms": 219000,
+      "name": "Slow Grind",
+      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Slow Grind",
-        "url": "https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe"
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Slow Grind",
-      "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "He's Not Me",
-        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 207762,
-      "name": "He's Not Me",
-      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Tricks Are For Kids",
-        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 140259,
-      "name": "Tricks Are For Kids",
-      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-07-17 17:15:36",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-07-17 17:15:36",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
-    },
-    {
-      "added_at": "2026-07-17 17:15:36",
-      "album": {
         "name": "Where Love Grows",
         "url": "https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194233,
       "name": "Love Like This (feat. Phonte & Carmen Rodgers)",
       "url": "https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6"
+    },
+    {
+      "added_at": "2026-07-17 17:15:36",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
     },
     {
       "added_at": "2026-07-17 17:15:36",

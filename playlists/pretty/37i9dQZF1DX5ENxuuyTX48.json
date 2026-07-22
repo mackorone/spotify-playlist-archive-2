@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Wani Kayrie",
-  "num_followers": 37231,
+  "num_followers": 37265,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
-        "name": "Teganya Kau",
-        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Teganya Kau",
-      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
-    },
-    {
-      "added_at": "2026-07-17 08:39:55",
-      "album": {
         "name": "Negoro Angin",
         "url": "https://open.spotify.com/album/473skY7alrmJfasO5CIeDm"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
-        "name": "Iqro'",
-        "url": "https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs"
+        "name": "Teganya Kau",
+        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
       },
       "artists": [
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         }
       ],
-      "duration_ms": 234229,
-      "name": "iqro'",
-      "url": "https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq"
+      "duration_ms": 207600,
+      "name": "Teganya Kau",
+      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
     },
     {
       "added_at": "2026-07-17 08:39:55",
@@ -579,6 +563,22 @@
       "duration_ms": 166850,
       "name": "Astaga Bercanda",
       "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
+    },
+    {
+      "added_at": "2026-07-17 08:39:55",
+      "album": {
+        "name": "Iqro'",
+        "url": "https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 234229,
+      "name": "iqro'",
+      "url": "https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq"
     },
     {
       "added_at": "2026-07-17 08:39:55",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
+        "name": "Pura Pura",
+        "url": "https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 278100,
+      "name": "Pura Pura",
+      "url": "https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR"
+    },
+    {
+      "added_at": "2026-07-17 08:39:55",
+      "album": {
         "name": "Tak Kan Terganti",
         "url": "https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
-    },
-    {
-      "added_at": "2026-07-17 08:39:55",
-      "album": {
-        "name": "Pura Pura",
-        "url": "https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 278100,
-      "name": "Pura Pura",
-      "url": "https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR"
     },
     {
       "added_at": "2026-07-17 08:39:55",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
-        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
-      },
-      "artists": [
-        {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        }
-      ],
-      "duration_ms": 198618,
-      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
-    },
-    {
-      "added_at": "2026-07-17 08:39:55",
-      "album": {
         "name": "Elu-elukan",
         "url": "https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 217464,
       "name": "Jagat Rasa",
       "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
+    },
+    {
+      "added_at": "2026-07-17 08:39:55",
+      "album": {
+        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "duration_ms": 198618,
+      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
     },
     {
       "added_at": "2026-07-17 08:39:55",
@@ -1667,22 +1667,6 @@
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
-    },
-    {
-      "added_at": "2026-07-17 08:39:55",
-      "album": {
-        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
-      },
-      "artists": [
-        {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
     },
     {
       "added_at": "2026-07-17 08:39:55",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
+        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
+    },
+    {
+      "added_at": "2026-07-17 08:39:55",
+      "album": {
         "name": "LIGA BESAR",
         "url": "https://open.spotify.com/album/5681nFmaVbRtrj66f7xnbS"
       },
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2026-07-17 08:39:55",
       "album": {
-        "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
+        "name": "Bila",
+        "url": "https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN"
       },
       "artists": [
         {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
         }
       ],
-      "duration_ms": 257627,
-      "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
+      "duration_ms": 152374,
+      "name": "Bila",
+      "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
     }
   ],
   "unique_name": "mantap vibes",

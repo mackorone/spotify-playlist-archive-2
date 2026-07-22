@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132599,
+  "num_followers": 132598,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABg7Ul9q6a6T04fSdmonz4/",
+  "snapshot_id": "al1lAAAAAAB+stFHBuq2RY//tC4V2OZ7",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caxodo",
-        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 363075,
-      "name": "Deus de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 266286,
       "name": "Que Bom Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00caxodo",
+        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 363075,
+      "name": "Deus de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 331070,
+      "name": "Pai Eu Confiarei",
+      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 275875,
       "name": "Raridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Oi3FSF0PT3b5bG4ziq2U8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 331070,
-      "name": "Pai Eu Confiarei",
-      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Deus Vem me Socorrer",
+      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 483498,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Deus Vem me Socorrer",
-      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 307999,
       "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
       "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,

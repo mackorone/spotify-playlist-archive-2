@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Tssara, Die Mannequin, The Donnas and more",
+  "description": "With Tssara, Die Mannequin, Jinx & The Royals and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -1090,6 +1090,24 @@
       "duration_ms": 204839,
       "name": "Biker Boy",
       "url": "https://open.spotify.com/track/66Gfzx9L4PpHK8AgGKeGsu"
+    },
+    {
+      "album": {
+        "name": "REBEL BARBIE",
+        "url": "https://open.spotify.com/album/03TxaXXrrt4cUt7LO5H8XX"
+      },
+      "artists": [
+        {
+          "name": "Rebel Rebel Barbie",
+          "url": "https://open.spotify.com/artist/6anwMddDj3544VdjDgWovv"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138360,
+      "name": "billing by the hour",
+      "url": "https://open.spotify.com/track/57BtoGh36HgiRtv3nOf8QK"
     },
     {
       "album": {
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -4205,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/3VqqoPfkgf5PApKeyR5Xpg"
+      },
+      "artists": [
+        {
+          "name": "Cody Feechan",
+          "url": "https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223812,
+      "name": "HEY!",
+      "url": "https://open.spotify.com/track/5FLkdgrcmn9w9wC2E91icQ"
+    },
+    {
+      "album": {
         "name": "High or Low",
         "url": "https://open.spotify.com/album/1TDYbtlgOibHcTSvO40aRH"
       },
@@ -5482,7 +5518,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -6124,7 +6160,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 92639,
       "name": "Maboneng Megawatt, Bru",
       "url": "https://open.spotify.com/track/2r6BmVTnI8HAtHAwhEp2x9"
@@ -8578,7 +8614,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 274886,
       "name": "Shadows Of Yesterday",
       "url": "https://open.spotify.com/track/66F2YkvJtWQu7NhTKHqugY"
@@ -9252,7 +9288,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "stuck w me",
       "url": "https://open.spotify.com/track/1wQmWPUcaDdP5tWEnxMJHq"
@@ -9360,7 +9396,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 215667,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/2DVaNxzFk3hF9eG8sJM9wK"
@@ -9378,7 +9414,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -9634,7 +9670,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -10452,7 +10488,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 187271,
       "name": "What Do I Have To Do",
       "url": "https://open.spotify.com/track/73LC4CEYRAf8Mow3ttyaZ5"
@@ -10542,7 +10578,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"

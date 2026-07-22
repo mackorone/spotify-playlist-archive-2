@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299279,
+  "num_followers": 299311,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-07-16 22:01:08",
       "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "added_at": "2026-07-16 22:01:08",
+      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "added_at": "2026-07-16 22:01:08",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2026-07-16 22:01:08",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-16 22:01:08",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-07-16 22:01:08",
-      "album": {
         "name": "Second Sleep / Star Eyes",
         "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 288453,
       "name": "Second Sleep",
       "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
+    },
+    {
+      "added_at": "2026-07-16 22:01:08",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-07-16 22:01:08",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-07-16 22:01:08",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Side One",
+          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
+    },
+    {
+      "added_at": "2026-07-16 22:01:08",
+      "album": {
         "name": "Dive Into The Ocean",
         "url": "https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 218453,
       "name": "Dive Into The Ocean (Prod. By Alok)",
       "url": "https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ"
-    },
-    {
-      "added_at": "2026-07-16 22:01:08",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        },
-        {
-          "name": "Side One",
-          "url": "https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr"
     },
     {
       "added_at": "2026-07-16 22:01:08",

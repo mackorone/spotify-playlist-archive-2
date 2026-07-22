@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397684,
+  "num_followers": 397695,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 192080,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Same Heart",
         "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
       },
@@ -803,38 +803,6 @@
       "duration_ms": 219923,
       "name": "Same Heart",
       "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -855,6 +823,38 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206453,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Never Felt The Rain (feat. FENNE)",
         "url": "https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 269253,
       "name": "Never Felt The Rain (feat. FENNE)",
       "url": "https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
+        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+      },
+      "artists": [
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
+      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 226853,
       "name": "Easy To Love (feat. Iris Jean)",
       "url": "https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
-        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
-      },
-      "artists": [
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
-      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Distant Rain",
-        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
-      },
-      "artists": [
-        {
-          "name": "Gis\u00e8le",
-          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Distant Rain",
-      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Dark Harvest, Pt. 1",
         "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 292148,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Distant Rain",
+        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
+      },
+      "artists": [
+        {
+          "name": "Gis\u00e8le",
+          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Distant Rain",
+      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
     },
     {
       "added_at": "2026-07-17 14:00:06",

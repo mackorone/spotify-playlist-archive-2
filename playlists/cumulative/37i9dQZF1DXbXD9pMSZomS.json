@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 316836,
       "name": "Expendable",
       "url": "https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e"
@@ -5210,6 +5210,24 @@
       "duration_ms": 173000,
       "name": "Undergrowth",
       "url": "https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp"
+    },
+    {
+      "album": {
+        "name": "Celestial Bean",
+        "url": "https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI"
+      },
+      "artists": [
+        {
+          "name": "Half Dead Dave",
+          "url": "https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281339,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm"
     },
     {
       "album": {

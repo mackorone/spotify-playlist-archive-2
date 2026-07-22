@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2573611,
+  "num_followers": 2573584,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-07-17 17:22:55",
       "album": {
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+    },
+    {
+      "added_at": "2026-07-17 17:22:55",
+      "album": {
         "name": "Push Up",
         "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 203142,
       "name": "Push Up",
       "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
-    },
-    {
-      "added_at": "2026-07-17 17:22:55",
-      "album": {
-        "name": "Homework (feat. Lancey Foux)",
-        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 154943,
-      "name": "Homework (feat. Lancey Foux)",
-      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
     },
     {
       "added_at": "2026-07-17 17:22:55",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2026-07-17 17:22:55",
       "album": {
-        "name": "Keep Pushin' (Beast)",
-        "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 185581,
-      "name": "Keep Pushin' (Beast)",
-      "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
-    },
-    {
-      "added_at": "2026-07-17 17:22:55",
-      "album": {
         "name": "MINDFULL",
         "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 186000,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
+    },
+    {
+      "added_at": "2026-07-17 17:22:55",
+      "album": {
+        "name": "Keep Pushin' (Beast)",
+        "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 185581,
+      "name": "Keep Pushin' (Beast)",
+      "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
     },
     {
       "added_at": "2026-07-17 17:22:55",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-07-17 17:22:55",
       "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "added_at": "2026-07-17 17:22:55",
+      "album": {
         "name": "Blue Mile",
         "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 212571,
       "name": "Blue Mile",
       "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
-    },
-    {
-      "added_at": "2026-07-17 17:22:55",
-      "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
     },
     {
       "added_at": "2026-07-17 17:22:55",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-07-17 17:22:55",
       "album": {
-        "name": "FOREVER, VOLPETRON",
-        "url": "https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "DANGER",
-      "url": "https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul"
-    },
-    {
-      "added_at": "2026-07-17 17:22:55",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 196790,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie"
+    },
+    {
+      "added_at": "2026-07-17 17:22:55",
+      "album": {
+        "name": "FOREVER, VOLPETRON",
+        "url": "https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "DANGER",
+      "url": "https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul"
     },
     {
       "added_at": "2026-07-17 17:22:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,177 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,181 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 14 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
 | 15 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
 | 16 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
-| 17 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
-| 18 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 17 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 18 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
 | 19 | [Pass That](https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Tripletrain](https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg) | [Afterlife](https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko) | 3:13 |
 | 20 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 21 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |

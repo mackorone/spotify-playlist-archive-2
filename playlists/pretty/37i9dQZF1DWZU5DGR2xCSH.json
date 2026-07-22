@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1117578,
+  "num_followers": 1117467,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Los Fabulosos Cadillacs - Vol. V",
-        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+        "name": "Los Fabulosos Cadillacs - Vol. V",
+        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 377399,
-      "name": "Mujer Amante - Vivo",
-      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+      "duration_ms": 252426,
+      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -427,6 +411,22 @@
       "duration_ms": 269093,
       "name": "Im\u00e1genes Paganas",
       "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 377399,
+      "name": "Mujer Amante - Vivo",
+      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -863,18 +863,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
+        "name": "Chocolate Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
       },
       "artists": [
         {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 219039,
-      "name": "La Mam\u00e1 de Jimmy",
-      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
+      "duration_ms": 218320,
+      "name": "El Chino (feat. Andr\u00e9s Calamaro)",
+      "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -895,22 +899,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Chocolate Ingl\u00e9s",
-        "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
       "artists": [
         {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
         }
       ],
-      "duration_ms": 218320,
-      "name": "El Chino (feat. Andr\u00e9s Calamaro)",
-      "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        }
+      ],
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 202513,
       "name": "Seminare - 2021 Remasterizado",
       "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
-        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        }
-      ],
-      "duration_ms": 380933,
-      "name": "Desconf\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Un Bai\u00f3n para el Ojo Idiota",
-        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Vencedores Vencidos",
-      "url": "https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Vasos Y Besos",
         "url": "https://open.spotify.com/album/5O8onsit6TM3W7qqxshwqN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 170546,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Un Bai\u00f3n para el Ojo Idiota",
+        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Vencedores Vencidos",
+      "url": "https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Yo Can\u00edbal",
-      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Time Fate Love (Remastered 2019)",
         "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 349260,
       "name": "Regtest (Happy Valley Rock)",
       "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Yo Can\u00edbal",
+      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

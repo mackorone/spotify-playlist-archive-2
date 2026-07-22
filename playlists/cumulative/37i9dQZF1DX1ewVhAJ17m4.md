@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Riley!
 
-601 songs - 1 day 6 hr 11 min
+602 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 | 2023-09-22 | 2024-11-19 |
 | [B.A.B.E.](https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [B.A.B.E.](https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw) | 2:33 | 2025-02-21 | 2025-04-28 |
 | [Back Home](https://open.spotify.com/track/4HtoILxBA3ICgzUeWVr6x8) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Back Home](https://open.spotify.com/album/5FSIgmLvYFNl97ffWdUYfa) | 3:08 | 2021-12-20 | 2022-10-14 |
+| [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 | 2026-07-17 |  |
 | [Backfired](https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Backfired](https://open.spotify.com/album/5XZgEi755XiwELre12FuYW) | 2:33 | 2022-08-05 | 2023-07-07 |
 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-18 | 2024-11-13 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
@@ -584,7 +585,7 @@
 | [WEST COAST](https://open.spotify.com/track/2QCwIcd7COBkzEmfRvREha) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [WEST COAST](https://open.spotify.com/album/3hOBh1X4dghn0RZO6CsUDL) | 2:48 | 2025-08-07 | 2025-09-13 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-22 | 2025-06-23 |
 | [What's Up?](https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [What's Up?](https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz) | 2:21 | 2021-12-20 | 2023-04-01 |
-| [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-09 |  |
+| [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-09 | 2026-07-22 |
 | [When I'm Dead](https://open.spotify.com/track/1Zpe97i8SK2dPGA0yaJsIm) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [When I'm Dead](https://open.spotify.com/album/4u99JawFy9aht4HCD6FKak) | 3:04 | 2025-02-21 | 2025-05-16 |
 | [When I'm Feeling Down](https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [When I'm Feeling Down](https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur) | 3:20 | 2025-05-15 | 2026-02-21 |
 | [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 | 2026-06-05 |  |

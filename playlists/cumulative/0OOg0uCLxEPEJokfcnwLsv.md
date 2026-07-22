@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-591 songs - 1 day 12 hr 38 min
+592 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-04-20 |
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [Impostor](https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Impostor](https://open.spotify.com/album/310tBlOOWUERHbf0xTbRBR) | 3:01 | 2025-12-29 | 2026-01-21 |
+| [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 | 2026-07-21 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
 | [Infectious](https://open.spotify.com/track/3p2ikRjARPokez7R61CUe9) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Infectious](https://open.spotify.com/album/0gL0fHZvzwODSW0jOJ9BMP) | 4:02 | 2026-07-06 |  |

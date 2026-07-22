@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 164749,
+  "num_followers": 164841,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
+        "name": "Silvestrov: Bagatellen und Serenaden",
+        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Stille Musik: III. Augenblicke der Serenade",
+      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
         "name": "1846, derni\u00e8re ann\u00e9e \u00e0 Nohant - Chopin: Cello Sonata; Piano Works",
         "url": "https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 204520,
       "name": "Cello Sonata in G Minor, Op. 65: III. Largo",
       "url": "https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
-        "name": "Silvestrov: Bagatellen und Serenaden",
-        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Stille Musik: III. Augenblicke der Serenade",
-      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
+        "name": "improvisation",
+        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "improvisation",
+      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
         "name": "MozartReworked",
         "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 172758,
       "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
       "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
-        "name": "improvisation",
-        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "improvisation",
-      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Citizen",
-        "url": "https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE"
-      },
-      "artists": [
-        {
-          "name": "William Grant Still",
-          "url": "https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA"
-        },
-        {
-          "name": "Bruce Levingston",
-          "url": "https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU"
-        }
-      ],
-      "duration_ms": 293520,
-      "name": "3 Visions: No. 2, Summerland",
-      "url": "https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
         "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 312813,
       "name": "Consolations, S. 172: No. 3, Lento placido",
       "url": "https://open.spotify.com/track/4ExtqIKNZLLmatRTVzlzFu"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Citizen",
+        "url": "https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE"
+      },
+      "artists": [
+        {
+          "name": "William Grant Still",
+          "url": "https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA"
+        },
+        {
+          "name": "Bruce Levingston",
+          "url": "https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU"
+        }
+      ],
+      "duration_ms": 293520,
+      "name": "3 Visions: No. 2, Summerland",
+      "url": "https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2227,30 +2227,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
-        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
-      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Faur\u00e9: Berceuse, Op. 16",
         "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
       },
@@ -2271,6 +2247,30 @@
       "duration_ms": 237600,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
+      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/4SnP1l5d6u0i6NoSxi8PPy"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2eWtgHcw0q0829ZuuHgZqE"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Polar (Traveler\u2019s Log)",
         "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 272501,
       "name": "The Monolith",
       "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/4SnP1l5d6u0i6NoSxi8PPy"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2eWtgHcw0q0829ZuuHgZqE"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2459,30 +2459,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
-      },
-      "artists": [
-        {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "A Season of Music: Faur\u00e9",
         "url": "https://open.spotify.com/album/1cni1xIFFfIMClRuhRldDp"
       },
@@ -2507,26 +2483,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
-        }
-      ],
-      "duration_ms": 95226,
-      "name": "13 Pieces, Op. 76: No. 3 Carillon",
-      "url": "https://open.spotify.com/track/4TxDN6eKixUNTgs3B2e4DE"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Schumann : Piano works",
         "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
       },
@@ -2543,6 +2499,50 @@
       "duration_ms": 125466,
       "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
       "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+      },
+      "artists": [
+        {
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "duration_ms": 95226,
+      "name": "13 Pieces, Op. 76: No. 3 Carillon",
+      "url": "https://open.spotify.com/track/4TxDN6eKixUNTgs3B2e4DE"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Idea 2",
-        "url": "https://open.spotify.com/album/2Q4pbNVO6lGE3qMZJReiJ9"
-      },
-      "artists": [
-        {
-          "name": "Gibran Alcocer",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Idea 2",
-      "url": "https://open.spotify.com/track/6gV01TEb8vqS8Munhgncov"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
         "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 189471,
       "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
       "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Idea 2",
+        "url": "https://open.spotify.com/album/2Q4pbNVO6lGE3qMZJReiJ9"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Idea 2",
+      "url": "https://open.spotify.com/track/6gV01TEb8vqS8Munhgncov"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Tra Bo Dau (Arr. Huws for Harp)",
-        "url": "https://open.spotify.com/album/62SAjTcSXYdVsQpG8cF5h1"
-      },
-      "artists": [
-        {
-          "name": "Alis Huws",
-          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Tra Bo Dau (Arr. Huws for Harp)",
-      "url": "https://open.spotify.com/track/5ccmxu51xA4WPkaKtf5ZZz"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Scriabin \u2013 Scarlatti: Singles (Pt. 2)",
         "url": "https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI"
       },
@@ -3039,6 +3023,22 @@
       "duration_ms": 245295,
       "name": "Main Theme/Love Theme (Arr. for Guitar by S\u00e9rgio Assad) - From \u201cCinema Paradiso\u201d",
       "url": "https://open.spotify.com/track/5jIpCWjJIZ12IUWwqdgVKV"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Tra Bo Dau (Arr. Huws for Harp)",
+        "url": "https://open.spotify.com/album/62SAjTcSXYdVsQpG8cF5h1"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Tra Bo Dau (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/5ccmxu51xA4WPkaKtf5ZZz"
     },
     {
       "added_at": "2026-02-06 14:08:28",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2026-02-06 14:08:28",
       "album": {
-        "name": "Pax",
-        "url": "https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 328512,
-      "name": "Pax",
-      "url": "https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2"
-    },
-    {
-      "added_at": "2026-02-06 14:08:28",
-      "album": {
         "name": "Icon: Vernon Handley",
         "url": "https://open.spotify.com/album/5YjbLq9Kys1XZo499dQ1mr"
       },
@@ -3251,6 +3235,22 @@
       "duration_ms": 349760,
       "name": "Delius: 2 Pieces for Small Orchestra: No. 1, On Hearing the First Cuckoo in Spring",
       "url": "https://open.spotify.com/track/5TKI5tUyRZlAEjM72cXyMz"
+    },
+    {
+      "added_at": "2026-02-06 14:08:28",
+      "album": {
+        "name": "Pax",
+        "url": "https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 328512,
+      "name": "Pax",
+      "url": "https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2"
     },
     {
       "added_at": "2026-02-06 14:08:28",

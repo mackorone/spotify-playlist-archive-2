@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32686,
+  "num_followers": 32693,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "WAZZUP",
-        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
-      },
-      "artists": [
-        {
-          "name": "MAXI",
-          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "WAZZUP",
-      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "ALL NIGHT",
         "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "WAZZUP",
+        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
+      },
+      "artists": [
+        {
+          "name": "MAXI",
+          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "WAZZUP",
+      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Ha bukok",
+        "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ha bukok",
+      "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Diagram",
-        "url": "https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 203815,
-      "name": "Diagram",
-      "url": "https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "TOP TIER (SPACCONE)",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
       },
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Ha bukok",
-        "url": "https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd"
+        "name": "Diagram",
+        "url": "https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 139700,
-      "name": "Ha bukok",
-      "url": "https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL"
+      "duration_ms": 203815,
+      "name": "Diagram",
+      "url": "https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
+        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Estelente",
+      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "Four Seasons - Winter",
         "url": "https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "STRESSZ",
         "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
-        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
       },
       "artists": [
         {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Estelente",
-      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-07-20 14:25:42",

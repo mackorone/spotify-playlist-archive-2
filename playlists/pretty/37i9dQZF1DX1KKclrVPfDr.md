@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,568 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 17 | [Matkor](https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Aaj Hamar Pyar Ke Shadi Ba](https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi) | 2:56 |
 | 18 | [Sir Ke Sundoor Re Gavanva](https://open.spotify.com/track/1lUZzS2Yt5MjSXgFAxmq4f) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:13 |
 | 19 | [Sikadiya](https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8) | [Khushbu Tiwari KT](https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk) | [Sikadiya](https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX) | 4:42 |
-| 20 | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 |
-| 21 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 |
+| 20 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 |
+| 21 | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 |
 | 22 | [Jehne Kishori Mori](https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Jehne Kishori Mori](https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF) | 4:41 |
 | 23 | [Saanvar \- Saanvar Suratiya Tohar Dulha \(Baraat\)](https://open.spotify.com/track/5EROAJcLJVFVIC3qFb67aY) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 7:27 |
 | 24 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |

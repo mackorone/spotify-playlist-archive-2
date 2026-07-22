@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-286 songs - 22 hr 44 min
+287 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 | 2022-08-12 |  |
 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 | 2023-09-29 | 2026-05-05 |
 | [Excuse Me](https://open.spotify.com/track/7hfZPlr9i0f2jhrZmUyxq0) | [Hemi](https://open.spotify.com/artist/4NjZwAzXGEQsyVJ7kCg9Qp) | [Excuse Me](https://open.spotify.com/album/3jJBC5pFbIpcLtgi4JHe9l) | 7:32 | 2021-12-17 | 2022-07-23 |
-| [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 | 2022-09-02 |  |
+| [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 | 2022-09-02 | 2026-07-22 |
 | [Exposures \- Black Loops Remix](https://open.spotify.com/track/0pAR6SsGoFvdoaOyFm8pjl) | [Teleseen](https://open.spotify.com/artist/23HzjH9sNQRU0fFfiaocH1), [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Exposures EP](https://open.spotify.com/album/3fmvpHHA7Al79eItjMyaHs) | 7:00 | 2022-03-25 | 2022-04-21 |
 | [Faded \- Sandunes Remix](https://open.spotify.com/track/330YzcDouOmiahaJah92Bd) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn) | [Faded \(Sandunes Remix\) \(feat\. Jordan Rakei\)](https://open.spotify.com/album/5X1FLjENnnSwkP0Vc3WYBX) | 3:48 | 2021-12-17 | 2022-05-12 |
 | [Fall In Love](https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fall In Love](https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV) | 5:49 | 2022-09-02 |  |
@@ -278,6 +278,7 @@
 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 | 2025-07-25 |  |
 | [Ultra](https://open.spotify.com/track/2H3d9MtmDpR4EYh2DlPC3F) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Frag Maddin](https://open.spotify.com/artist/2DdlbTRvIhQMBO6iHHBZHO) | [My Name Is the Two, Some People Call Me the Funk](https://open.spotify.com/album/1cyVOcnCIvdQjTc2oLPy6Z) | 4:09 | 2023-01-27 | 2023-02-04 |
 | [Undergrowth](https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Undergrowth](https://open.spotify.com/album/2orPEElJwKWjmr4DPEhdjB) | 2:53 | 2021-12-17 | 2022-05-22 |
+| [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 | 2026-04-03 |  |
 | [Useful](https://open.spotify.com/track/2UXPd6q6LN9oYSagng8tR5) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Useful](https://open.spotify.com/album/7EfwWRHKY93vqZGp3UsZJ9) | 5:23 | 2022-03-25 | 2022-04-20 |
 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 | 2025-05-30 |  |
 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 | 2022-10-21 | 2024-04-19 |

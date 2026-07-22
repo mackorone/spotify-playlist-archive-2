@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9295,
+  "num_followers": 9297,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAATUaWmP4jAytBYDyUTd9pL",
+  "snapshot_id": "al1lAAAAAAD7bgppOScYgPe3rRn4nHBW",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Both",
-      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
     },
     {
       "added_at": null,
@@ -311,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Both",
+      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "We're Not Friends",
-      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "We're Not Friends",
+      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 174034,
       "name": "How Honest Do You Want Me To Be?",
       "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -475,26 +475,6 @@
       "duration_ms": 219645,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Here for It (feat. Ingrid Andress)",
-      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
     },
     {
       "added_at": null,
@@ -515,6 +495,26 @@
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Here for It (feat. Ingrid Andress)",
+      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 119804,
+  "num_followers": 119822,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2026-07-17 04:00:54",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
-      },
-      "artists": [
-        {
-          "name": "Danny Roma x Manrix",
-          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Lina Torres",
-          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
-    },
-    {
-      "added_at": "2026-07-17 04:00:54",
-      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 162580,
       "name": "Piquete Cabron",
       "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+    },
+    {
+      "added_at": "2026-07-17 04:00:54",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
+      },
+      "artists": [
+        {
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Lina Torres",
+          "url": "https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
     },
     {
       "added_at": "2026-07-17 04:00:54",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-07-17 04:00:54",
       "album": {
-        "name": "Si Vas Al mar",
-        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 256475,
-      "name": "Si Vas Al mar",
-      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
-    },
-    {
-      "added_at": "2026-07-17 04:00:54",
-      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2026-07-17 04:00:54",
+      "album": {
+        "name": "Si Vas Al mar",
+        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 256475,
+      "name": "Si Vas Al mar",
+      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
     },
     {
       "added_at": "2026-07-17 04:00:54",

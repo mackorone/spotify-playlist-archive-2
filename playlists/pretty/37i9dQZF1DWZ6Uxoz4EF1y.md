@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,892 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,875 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 57 | [Me Enseñas](https://open.spotify.com/track/3sbidBb8NqRMqWnLyjGULM) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY) | [Me Enseñas](https://open.spotify.com/album/06AE1ZqiGC2tkxjsGlQqr1) | 4:31 |
 | 58 | [Resucitó](https://open.spotify.com/track/1toBEU2SNmfjMYufSOF2Ym) | [Zero Música](https://open.spotify.com/artist/7e2syyHGfVKZv3DXFXedkM) | [Experiencia Resurrección 2025 \( En Vivo Desde Santa Marta\)](https://open.spotify.com/album/1HnGtdu1TCcPd18hZ2QPeK) | 6:16 |
 | 59 | [Fue por Mí](https://open.spotify.com/track/3xwknbtAM3zGiFgrzYwTjj) | [Xiomara Henao](https://open.spotify.com/artist/3LvHWTcbbQBhD5rGqIfv7f) | [Fue por Mí](https://open.spotify.com/album/6NvTZyF4yYkVRareVc86Oy) | 3:54 |
-| 60 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
-| 61 | [Redención](https://open.spotify.com/track/4e79KvvwvzThUpiWsrBK9S) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Redención](https://open.spotify.com/album/611GELGy0l0KlU2LOlr7lc) | 5:10 |
+| 60 | [Redención](https://open.spotify.com/track/4e79KvvwvzThUpiWsrBK9S) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Redención](https://open.spotify.com/album/611GELGy0l0KlU2LOlr7lc) | 5:10 |
+| 61 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
 | 62 | [Tu Gran Nombre \(Your Great Name\)](https://open.spotify.com/track/6WffpuiAQBiYCmMdQY8pHC) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vivo Estás](https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc) | 6:15 |
 | 63 | [Corazón Agradecido \- en vivo](https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0) | [Michael Hernandez](https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV) | [Corazón Agradecido \(en vivo\)](https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B) | 3:53 |
 | 64 | [Alegre](https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alegre](https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX) | 2:49 |

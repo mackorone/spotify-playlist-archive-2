@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Mert Demir
 
-661 songs - 1 day 9 hr 31 min
+663 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Hayat Gelir Ağır Ağır](https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hayat Gelir Ağır Ağır](https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG) | 2:38 | 2025-01-31 | 2025-03-06 |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 | 2025-02-07 |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
-| [hayran](https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Kafa Yüksek Kalp Kırık](https://open.spotify.com/album/7IUMrOHPr9bmQ375K5nhaT) | 2:39 | 2026-04-02 |  |
+| [hayran](https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Kafa Yüksek Kalp Kırık](https://open.spotify.com/album/7IUMrOHPr9bmQ375K5nhaT) | 2:39 | 2026-04-02 | 2026-07-22 |
 | [Hayranım](https://open.spotify.com/track/2gtEcc5Beh1U3E0iQdzlCK) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Hayranım](https://open.spotify.com/album/2y01hNlJgoiRoNNWGou42l) | 2:34 | 2025-10-16 | 2025-12-12 |
 | [Hazırım İnan Kaybolmaya](https://open.spotify.com/track/3j2xBX2pv5LTISBa5qwOxr) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Hazırım İnan Kaybolmaya](https://open.spotify.com/album/2mnWqcerQOD5zLTcwNnVx9) | 3:09 | 2026-07-16 |  |
 | [Heba](https://open.spotify.com/track/2h3bkUUJtSn1Q4yhNvfnbf) | [Emre Şen](https://open.spotify.com/artist/6iwyshiTx9dTCK2w6pBBqn), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Heba](https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo) | 2:47 | 2024-10-24 | 2024-11-27 |
@@ -366,7 +366,7 @@
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
 | [Koca Dünya](https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Koca Dünya](https://open.spotify.com/album/5LFciOK381uamGyiw52mgF) | 2:29 | 2024-10-24 | 2024-12-20 |
 | [Kolay Değil](https://open.spotify.com/track/1atcx5GqHDmKdZwYx2IDcn) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güz Güneşi](https://open.spotify.com/album/1whxkCTNuqAH14AzaNMreE) | 3:32 | 2025-11-20 | 2025-11-28 |
-| [KOLAY DEĞİL](https://open.spotify.com/track/31GaMEiRG7gvPzqqIEI5bW) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [KOLAY DEĞİL](https://open.spotify.com/album/3xRixvTJokkHFSywqUwoZD) | 2:53 | 2026-04-09 |  |
+| [KOLAY DEĞİL](https://open.spotify.com/track/31GaMEiRG7gvPzqqIEI5bW) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [KOLAY DEĞİL](https://open.spotify.com/album/3xRixvTJokkHFSywqUwoZD) | 2:53 | 2026-04-09 | 2026-07-22 |
 | [Konsun Bir Kuş Gibi](https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Konsun Bir Kuş Gibi](https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75) | 2:28 | 2025-01-09 | 2025-09-06 |
 | [Kopmuyorum Senden](https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Synth City](https://open.spotify.com/album/60jlFQE1KtA3e3WU09ustD) | 2:20 | 2024-12-05 | 2024-12-21 |
 | [KORKAK](https://open.spotify.com/track/4XqfG0novYyoshk2JW3Ypr) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [KORKAK](https://open.spotify.com/album/4QtkFNM0pkdfYVRJtDcuDJ) | 4:10 | 2026-03-19 | 2026-04-10 |
@@ -379,6 +379,7 @@
 | [KUSURA BAKMA](https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KUSURA BAKMA](https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf) | 2:37 | 2025-11-27 |  |
 | [Kutuplar](https://open.spotify.com/track/6enbvLSRJJbmcovxPheEC2) | [Murat Güneş](https://open.spotify.com/artist/61F5kPiTYCmmRJprI90WCs), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kutuplar](https://open.spotify.com/album/6EbgIudVop3N3cyyuX5ihF) | 3:00 | 2025-08-21 | 2025-09-05 |
 | [Kutupta Yaz Gibi](https://open.spotify.com/track/7Bjo9sOCMs5Uk0Y7jpZHod) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:18 | 2026-04-23 | 2026-06-04 |
+| [Kör Bıçak](https://open.spotify.com/track/3yWO0zMi4P97bNbKTaCZHs) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Kör Bıçak](https://open.spotify.com/album/5fBKDN704hHL1WOoDzjSX0) | 3:48 | 2026-07-16 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-22 | 2026-04-10 |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
 | [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 | 2026-01-29 | 2026-05-12 |
@@ -404,6 +405,7 @@
 | [Mecburi İstikamet](https://open.spotify.com/track/4JEprDdXZFgeQE65LYkFHa) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Mecburi İstikamet](https://open.spotify.com/album/6r5IgaWLedwtUYVmTqyrcZ) | 3:33 | 2026-07-02 | 2026-07-13 |
 | [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 | 2025-03-05 |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
+| [Merdan](https://open.spotify.com/track/6aWFv5Hr5rUy5jehLkcMUQ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Merdan](https://open.spotify.com/album/00c2KikU5vaiZA9qmcGcwL) | 3:27 | 2026-07-16 |  |
 | [Mesafeler](https://open.spotify.com/track/0g1yZORNiAs4BjQiPFwQdO) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [O](https://open.spotify.com/album/3JhaX44hysxWDeLtyqxBpq) | 2:46 | 2025-07-17 | 2025-09-26 |
 | [MESELA](https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [MESELA](https://open.spotify.com/album/1BryKb39CgLCKiXkw7z5Iu) | 3:00 | 2024-06-27 | 2026-01-15 |
 | [MESELA](https://open.spotify.com/track/5CriLRQtw87Q9XyISCVoR4) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0), [Gurkan Sasmaz](https://open.spotify.com/artist/6Fa4CRq1WwsNqLXKDxd1mS) | [MESELA](https://open.spotify.com/album/0wo1MUz8HuJoK8rNAbtKeQ) | 3:33 | 2026-03-19 | 2026-04-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27876,
+  "num_followers": 27874,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABHlQcJBcn+hq0VsmbdPuRC",
+  "snapshot_id": "al1lAAAAAADO0meYaUZ9K/vEXe+uYoTJ",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 226346,
-      "name": "Vitalization",
-      "url": "https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL"
+      "duration_ms": 265986,
+      "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
     },
     {
       "added_at": null,
@@ -284,25 +284,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 265986,
-      "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "WILD EYES",
-      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
+      "duration_ms": 226346,
+      "name": "Vitalization",
+      "url": "https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 275765,
       "name": "METANOIA",
       "url": "https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 324586,
-      "name": "BRAVE PHOENIX",
-      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a8\u30c7\u30f3",
         "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 237693,
       "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 324586,
+      "name": "BRAVE PHOENIX",
+      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u6df1\u611b",
-      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 239013,
       "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u6df1\u611b",
+      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trickster",
-        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Trinity Cross",
-      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PHANTOM MINDS",
         "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 219413,
       "name": "PHANTOM MINDS",
       "url": "https://open.spotify.com/track/4v5Q5FEV4dRE6OW5xcWazs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trickster",
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Trinity Cross",
+      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
     },
     {
       "added_at": null,

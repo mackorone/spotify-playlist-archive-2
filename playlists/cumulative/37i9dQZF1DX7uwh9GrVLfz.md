@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Suspended 4th
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: JUNKY58％
 
-908 songs - 1 day 23 hr 53 min
+909 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [HEY DUDE](https://open.spotify.com/track/5R8lXeqwyncJRScMuVJpml) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [HEY DUDE](https://open.spotify.com/album/0PPU4QuBERLv3aJlcJFu9y) | 4:01 | 2022-05-12 | 2022-07-29 |
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-12 | 2022-12-20 |
 | [Hey! Sunny!](https://open.spotify.com/track/0ka2Fx1ZmC4ZJBiP2cmVEH) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [Hey! Sunny!](https://open.spotify.com/album/6LJXIjyO6HfvItezuEPQQZ) | 3:01 | 2023-11-28 | 2024-01-26 |
+| [HEY！ジョニー！](https://open.spotify.com/track/3i6hWcfTeybZoqtQokEMrY) | [JUNKY58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [HEARTBREAKER](https://open.spotify.com/album/541DXBPNQ7JVLVQNivHnVm) | 1:12 | 2026-07-21 |  |
 | [HIGHVVAY](https://open.spotify.com/track/11gjllEp2CAfghW39PeAfG) | [Deathro](https://open.spotify.com/artist/2XYYDTGmxUbg4nDxaOB1Yz) | [HIGHVVAY](https://open.spotify.com/album/5AeXizf9RP1WzYbQOiBroC) | 2:37 | 2024-11-05 | 2025-01-22 |
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
 | [Homies](https://open.spotify.com/track/5ET2DvVkvKHIdCIVuIcGlm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Home is…](https://open.spotify.com/album/7esl263ge8LFdNp7giZhNY) | 2:43 | 2022-06-07 | 2022-07-29 |
@@ -830,7 +831,7 @@
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |
 | [心底心中したい](https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [心底心中したい](https://open.spotify.com/album/5G1Mtrtfoil5HJTpF9EPb2) | 2:43 | 2026-01-27 | 2026-04-05 |
-| [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 | 2026-05-26 |  |
+| [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 | 2026-05-26 | 2026-07-22 |
 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 | 2022-05-12 |  |
 | [怪盗ムーン](https://open.spotify.com/track/7EvNY3frNl7NIewW3NjVcE) | [BEAT THE WAKE](https://open.spotify.com/artist/22JbIJefclLqku5QztFI7T), [THE BIG FANLADY](https://open.spotify.com/artist/11ptp74Lc6z7GsyZ1RxlQo) | [PHANTOM THIEF](https://open.spotify.com/album/1dKTplcG27brsvmz1knC7R) | 3:44 | 2024-04-30 | 2024-09-18 |
 | [恋の奴隷](https://open.spotify.com/track/1nLMsirmwT7VXnXkjl1L7k) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [OSジャンクション](https://open.spotify.com/album/1EAMPUJLRdeEK8bk5Ov13G) | 3:25 | 2022-05-12 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Aksomaniac
 
-396 songs - 22 hr 14 min
+397 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bindiya](https://open.spotify.com/track/5xXOeKjYM1bXMkxtZRimAc) | [Ali Pirzada](https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Bindiya](https://open.spotify.com/album/6Cpn0R0rBad5JwXnr2AFFi) | 3:23 | 2024-01-12 | 2024-01-27 |
 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 | 2025-08-22 |  |
 | [Bombay Sapphire](https://open.spotify.com/track/0FRl4DqRO25UCCha7snvH4) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Sab Chahiye](https://open.spotify.com/album/0OUPEP8FnhegUKK380fSBY) | 3:22 | 2022-07-15 | 2022-09-02 |
-| [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-24 |  |
+| [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-24 | 2026-07-22 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-05-20 | 2025-09-18 |
 | [Chad Gayi](https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Chad Gayi](https://open.spotify.com/album/7J3VIh1bQTiYvM8yO72l8Z) | 3:39 | 2022-05-20 | 2023-02-07 |
 | [Chai and Sunshine](https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Chai and Sunshine](https://open.spotify.com/album/5FaDco89rs2DQjsaY0ugLR) | 2:25 | 2025-01-09 | 2025-05-31 |
@@ -260,6 +260,7 @@
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-02-26 | 2025-02-19 |
 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 | 2022-09-05 | 2023-02-07 |
 | [Nusrat](https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY) | 4:26 | 2022-09-01 | 2022-09-06 |
+| [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 | 2026-07-21 |  |
 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-12 |  |
 | [obsessive](https://open.spotify.com/track/0TxjLkMYm98aKVcpRsu2ux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [obsessive](https://open.spotify.com/album/4ULtY8eKrBarUAA4qKaS58) | 2:52 | 2022-05-20 | 2022-07-16 |
 | [okay](https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [okay](https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ) | 2:41 | 2024-10-23 | 2025-02-19 |

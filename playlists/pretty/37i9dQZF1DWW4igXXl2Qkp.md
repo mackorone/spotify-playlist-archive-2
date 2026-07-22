@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:7uhhz6hbxdJlbHIbmqvAAT">Lady Binladen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,469 likes - 76 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,497 likes - 76 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 13 | [NO HANDZ](https://open.spotify.com/track/5jz0VeayKpfQw5sAQXjILV) | [Kash Kyla](https://open.spotify.com/artist/3DXNLizdXR65alMCqKQI3m) | [NO HANDZ](https://open.spotify.com/album/4bHP2tFKPF1GGSNXE8pkm9) | 1:25 |
 | 14 | [WYM \(I Ain't Fresh\)](https://open.spotify.com/track/2XM18Uw0HEMGGeRGPxTeD7) | [Tahjaee](https://open.spotify.com/artist/6PvayPkNZDVr1LHKzaCAs2), [jhonniedamnd](https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727) | [WYM \(I Ain't Fresh\)](https://open.spotify.com/album/0bSDvvWRojNGeTkoAKqX1t) | 2:53 |
 | 15 | [What We Doin](https://open.spotify.com/track/0jGCUZkFyVrbGMJkWC9gid) | [Pistol Po](https://open.spotify.com/artist/0d3xQLthO9FgMX9MBKXfQ5) | [What We Doin](https://open.spotify.com/album/3IeEWLbum57P3tIAyaPmGl) | 2:11 |
-| 16 | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT \(feat\. Sickasxxgeo\)](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
+| 16 | [HUT](https://open.spotify.com/track/5X8iY5O5gms502WDKjfHn4) | [Ratchet Lo](https://open.spotify.com/artist/704shhmnNtpO5bx1Hsi5T4), [Sickasxxgeo](https://open.spotify.com/artist/0sjPAkc9ufcrgHO3AgnoOp) | [HUT](https://open.spotify.com/album/16mGAgUKFgOSWuJdmmjbBo) | 3:39 |
 | 17 | [Cerberus](https://open.spotify.com/track/4C87lCiTFRCc9fvUHA3rVn) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4), [devLfg](https://open.spotify.com/artist/2CjquMeNWoDJvziMEyjJtA), [Drizzy](https://open.spotify.com/artist/644w7UdzHcFzzL57E5j0z0) | [Rough Drafts](https://open.spotify.com/album/2wdR0g4QDoedz7HhOmZjcH) | 1:54 |
 | 18 | [HAIRSTYLE](https://open.spotify.com/track/1t9lHXZO3EZIGVB1LguYyc) | [Dreek Jones](https://open.spotify.com/artist/0fVbXtxb8KqKpfAdPLbKlu) | [HAIRSTYLE](https://open.spotify.com/album/62x5uuyCMPj7Gdhljs5XXH) | 1:52 |
 | 19 | [Said A Prayer](https://open.spotify.com/track/5mzXeERIAo9sk6uM56zZqi) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Member?](https://open.spotify.com/album/7nPv63vnjbKDFYjCixAfVk) | 3:14 |

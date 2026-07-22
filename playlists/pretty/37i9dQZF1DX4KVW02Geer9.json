@@ -1,12 +1,12 @@
 {
   "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u5e02\u5ddd\u7a7a",
-  "num_followers": 65337,
+  "num_followers": 65334,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2Od683VXLyhYTBcJOH42wdt3AN",
+  "snapshot_id": "AAAAAJqQarYLig0bQuybgjXhFZhsjGO0",
   "tracks": [
     {
       "added_at": "2026-07-16 11:54:20",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
     },
     {
+      "added_at": "2026-07-21 16:00:38",
+      "album": {
+        "name": "Coconut Groovin'",
+        "url": "https://open.spotify.com/album/6s16mndixMYspUkuW8Eg0F"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u4e2d\u6d0b\u4ecb",
+          "url": "https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB"
+        }
+      ],
+      "duration_ms": 311875,
+      "name": "Coconut Groovin'",
+      "url": "https://open.spotify.com/track/6rUWK9aZcRp3JP9KZINZZU"
+    },
+    {
       "added_at": "2026-07-16 15:00:46",
       "album": {
         "name": "Enemies",
@@ -141,6 +157,30 @@
       "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
     },
     {
+      "added_at": "2026-07-21 16:00:38",
+      "album": {
+        "name": "images on loan",
+        "url": "https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        },
+        {
+          "name": "Jan Urila Sas",
+          "url": "https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "images on loan",
+      "url": "https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO"
+    },
+    {
       "added_at": "2026-07-02 15:00:04",
       "album": {
         "name": "Say Yeah",
@@ -155,6 +195,54 @@
       "duration_ms": 288889,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/33ByCdR2CMznkCHXp2zsJi"
+    },
+    {
+      "added_at": "2026-07-21 16:00:38",
+      "album": {
+        "name": "Spatial Boundary",
+        "url": "https://open.spotify.com/album/0rXKJZIoKZumEHDF6BrT12"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u6c34\u662d\u597d",
+          "url": "https://open.spotify.com/artist/1vMmONE6vxygeHbM7ABFrK"
+        }
+      ],
+      "duration_ms": 365694,
+      "name": "Spatial Boundary",
+      "url": "https://open.spotify.com/track/4ERuth2KWan8j5CbWXQcEA"
+    },
+    {
+      "added_at": "2026-07-21 16:00:38",
+      "album": {
+        "name": "Cross View (from \"UNTITLED\" 2026 Take)",
+        "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 286501,
+      "name": "Cross View - from \"UNTITLED\" 2026 Take",
+      "url": "https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd"
+    },
+    {
+      "added_at": "2026-07-21 16:00:38",
+      "album": {
+        "name": "Quiet Clown",
+        "url": "https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn"
+      },
+      "artists": [
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU"
     },
     {
       "added_at": "2026-06-24 06:15:24",

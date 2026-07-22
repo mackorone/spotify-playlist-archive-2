@@ -1,12 +1,12 @@
 {
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
-  "num_followers": 1774,
+  "num_followers": 1773,
   "original_name": "This Is Quicksand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABW+biPr+tPPiz1okvoczRV",
+  "snapshot_id": "al1lAAAAAACCbWa14eHd2H58+IBZw/1o",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Agency",
-      "url": "https://open.spotify.com/track/6yYfvf1VSPV4GT2Ak06ads"
+      "duration_ms": 138000,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/1Wgu4bQ0pro77TMBxhg2Ev"
     },
     {
       "added_at": null,
@@ -43,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystallize",
-        "url": "https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3"
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
+      "duration_ms": 215856,
+      "name": "Brushed",
+      "url": "https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 170634,
-      "name": "In Full Color",
-      "url": "https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s"
+      "duration_ms": 158000,
+      "name": "Agency",
+      "url": "https://open.spotify.com/track/6yYfvf1VSPV4GT2Ak06ads"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distant Populations",
         "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
       },
@@ -116,9 +132,41 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 215856,
-      "name": "Brushed",
-      "url": "https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv"
+      "duration_ms": 198241,
+      "name": "Colossus",
+      "url": "https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring On The Psychics",
+        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 170634,
+      "name": "In Full Color",
+      "url": "https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 187199,
+      "name": "Head To Wall",
+      "url": "https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm"
     },
     {
       "added_at": null,
@@ -132,9 +180,25 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 156693,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
+      "duration_ms": 220973,
+      "name": "Landmine Spring",
+      "url": "https://open.spotify.com/track/4kqAUoDhmGzFw8BCl2X5vA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 143952,
+      "name": "Lightning Field",
+      "url": "https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8"
     },
     {
       "added_at": null,
@@ -164,15 +228,15 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 187199,
-      "name": "Head To Wall",
-      "url": "https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm"
+      "duration_ms": 199160,
+      "name": "Freezing Process",
+      "url": "https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Distant Populations",
-        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
       "artists": [
         {
@@ -180,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 198241,
-      "name": "Colossus",
-      "url": "https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7"
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
     },
     {
       "added_at": null,
@@ -196,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Landmine Spring",
-      "url": "https://open.spotify.com/track/4kqAUoDhmGzFw8BCl2X5vA"
+      "duration_ms": 237066,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
     },
     {
       "added_at": null,
@@ -228,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Freezing Process",
-      "url": "https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx"
+      "duration_ms": 152933,
+      "name": "Lie And Wait",
+      "url": "https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp"
     },
     {
       "added_at": null,
@@ -244,15 +308,15 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 143952,
-      "name": "Lightning Field",
-      "url": "https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8"
+      "duration_ms": 214920,
+      "name": "Phase 90",
+      "url": "https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
       "artists": [
         {
@@ -260,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 248981,
-      "name": "Cosmonauts",
-      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
+      "duration_ms": 128600,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60"
     },
     {
       "added_at": null,
@@ -292,89 +356,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Lie And Wait",
-      "url": "https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distant Populations",
-        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Phase 90",
-      "url": "https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bring On The Psychics",
-        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "Get To It",
-      "url": "https://open.spotify.com/track/5CiFCaMcwZD53pTxMgJRrF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
       "duration_ms": 153226,
       "name": "Omission",
       "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 128600,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triptych Continuum",
-        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 206130,
-      "name": "Multiverse",
-      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 155066,
       "name": "Simpleton",
       "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 206130,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
     },
     {
       "added_at": null,
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 154600,
-      "name": "Free Radio Gainesville",
-      "url": "https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 103421,
       "name": "Backward",
       "url": "https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 154600,
+      "name": "Free Radio Gainesville",
+      "url": "https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV"
     },
     {
       "added_at": null,

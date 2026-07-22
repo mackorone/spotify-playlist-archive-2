@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 366988,
+  "num_followers": 367043,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "Jungle Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
-      },
-      "artists": [
-        {
-          "name": "Tom & Jerry",
-          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Maximum Style (Lover To Lover)",
-      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
         "name": "Reinforced Presents Callin For Reinforcements",
         "url": "https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 280853,
       "name": "Feel Real Good",
       "url": "https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
+      },
+      "artists": [
+        {
+          "name": "Tom & Jerry",
+          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Maximum Style (Lover To Lover)",
+      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
     },
     {
       "added_at": "2024-03-22 16:20:43",

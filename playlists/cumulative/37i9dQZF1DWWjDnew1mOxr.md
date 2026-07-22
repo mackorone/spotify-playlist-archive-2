@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Yard Act
 
-471 songs - 1 day 2 hr 40 min
+472 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-09-19 | 2023-09-25 |
 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 | 2023-05-19 | 2024-06-01 |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-02-07 | 2025-07-11 |
-| [Barbed Wire](https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 3:04 | 2026-02-20 |  |
+| [Barbed Wire](https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 3:04 | 2026-02-20 | 2026-07-22 |
 | [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-04-15 | 2024-07-29 |
 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 | 2025-10-10 | 2025-11-08 |
 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 | 2023-03-31 | 2023-09-17 |
@@ -150,6 +150,7 @@
 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 | 2025-06-06 |  |
 | [Find My Way Around](https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Find My Way Around](https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n) | 3:15 | 2023-09-19 | 2024-08-22 |
 | [Finish Line](https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Finish Line](https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB) | 5:03 | 2026-04-24 | 2026-05-30 |
+| [Flea Joint](https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Flea Joint](https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA) | 4:29 | 2026-07-16 |  |
 | [Fly Away](https://open.spotify.com/track/42ryTZsxvCHyo5fYsnt7cD) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Fly Away](https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs) | 4:18 | 2024-04-15 | 2026-02-21 |
 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 | 2025-10-10 | 2026-01-31 |
 | [Forget About Me](https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Knowledge Freedom Power](https://open.spotify.com/album/5Hjrk5ZrtyQgt0MDzdT6nu) | 3:56 | 2023-02-24 | 2023-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,382 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,511 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 29 | [Mopao aye](https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 3:18 |
 | 30 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 | 31 | [I AM](https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 3:12 |
-| 32 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [Max & Seny](https://open.spotify.com/artist/57kJqq1O0uLM5h8ZUuK7Jz), [Loko](https://open.spotify.com/artist/5J7giCvV9NJ1rFaDsTjonG) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
+| 32 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
 | 33 | [Rebanav 126bpm](https://open.spotify.com/track/0zJ73feFCS8807usUclLWo) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Rebanav 126bpm](https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M) | 2:06 |
 | 34 | [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 |
 | 35 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |

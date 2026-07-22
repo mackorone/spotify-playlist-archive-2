@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 105 | [Vännersvännersvänner](https://open.spotify.com/track/0okwFF4kt2tFoT9R5MDnxW) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 1:26 |
 | 106 | [Rädd](https://open.spotify.com/track/465kIMfpMNyIrDM6cIFxzj) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 1:57 |
 | 107 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 |
-| 108 | [Taxi](https://open.spotify.com/track/1TOs6ut9EItTeAC6fl1qPI) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:22 |
-| 109 | [Dör](https://open.spotify.com/track/33Djiqd6WW8EdaNXANfb2z) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:04 |
+| 108 | [Dör](https://open.spotify.com/track/33Djiqd6WW8EdaNXANfb2z) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:04 |
+| 109 | [Taxi](https://open.spotify.com/track/1TOs6ut9EItTeAC6fl1qPI) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:22 |
 | 110 | [8 långa år](https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 1:16 |
 | 111 | [King Arthur](https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [King Arthur](https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U) | 3:24 |
 | 112 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 118 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AcXZAAAAAAARlP0c38D8C6VO0O+fjGpF`
+Snapshot ID: `AcXeoAAAAADxOT5zYyK9CFBhMStSQmQW`

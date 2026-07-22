@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,091 likes - 52 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,129 likes - 52 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

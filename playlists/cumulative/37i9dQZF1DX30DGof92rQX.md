@@ -2,7 +2,7 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Rabi Ahmed
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Rabi Ahmed, Syed Hamza
 
 560 songs - 1 day 6 hr 8 min
 

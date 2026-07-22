@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100936,
+  "num_followers": 100957,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADPcT4aVnBHWJQ5DJt1BfMr",
+  "snapshot_id": "al1lAAAAAABDyJ+2p0iEewFsR6f89Y9q",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
+        "name": "LENTES LV",
+        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 120749,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+      "duration_ms": 155303,
+      "name": "LENTES LV",
+      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LENTES LV",
-        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 155303,
-      "name": "LENTES LV",
-      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
+      "duration_ms": 120749,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De La Escuelita Graduado",
+        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 163918,
+      "name": "De La Escuelita Graduado",
+      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Gwag",
         "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 175777,
       "name": "Los 3 De Siempre",
       "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De La Escuelita Graduado",
-        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 163918,
-      "name": "De La Escuelita Graduado",
-      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
     },
     {
       "added_at": null,

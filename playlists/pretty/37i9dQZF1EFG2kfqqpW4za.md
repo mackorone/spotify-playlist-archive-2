@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 64 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 61 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 |
 | 62 | [Rasta Souljah](https://open.spotify.com/track/5q4E9o6Ub84UMkOLZ5wt7M) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Paz, Amor e Grave](https://open.spotify.com/album/6ZhFba7CkCVfbeRjLGpFrq) | 2:45 |
 | 63 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
-| 64 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
+| 64 | [Dá\-me Fé](https://open.spotify.com/track/0Ex802OMAmFleWjDl6ImbA) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Dá\-me Fé](https://open.spotify.com/album/2RU8HXyEIWedMswsB5UXTC) | 3:02 |
+| 65 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `AcXZCgAAAAD9qthFf6pErzugcnPVBL4s`
+Snapshot ID: `AcXe0gAAAAA4l8F2xuh4CVazLkvWc1fD`

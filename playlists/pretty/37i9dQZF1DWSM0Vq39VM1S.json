@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388463,
+  "num_followers": 388454,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Ride It Out",
-        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ride It Out",
-      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "I Wish That Things Could Always Stay The Same",
         "url": "https://open.spotify.com/album/5uqhYAHs38tvvY93Tvv0NM"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 141642,
       "name": "I Wish That Things Could Always Stay the Same",
       "url": "https://open.spotify.com/track/2xpzmGFuSTuj6jQyBKQ0Cd"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
     },
     {
       "added_at": "2026-07-02 22:01:46",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-02 22:01:46",
       "album": {
-        "name": "Not a Love Song",
-        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 184399,
-      "name": "Not a Love Song",
-      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
-    },
-    {
-      "added_at": "2026-07-02 22:01:46",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 146079,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+    },
+    {
+      "added_at": "2026-07-02 22:01:46",
+      "album": {
+        "name": "Not a Love Song",
+        "url": "https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "Not a Love Song",
+      "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

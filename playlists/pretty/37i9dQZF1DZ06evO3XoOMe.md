@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 20 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 21 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 |
 
-Snapshot ID: `alwTgAAAAABBCjKFrzgO+WsCH3wsBhiX`
+Snapshot ID: `al1lAAAAAABQnEo2pfxq8WPy5FxZ3aOd`

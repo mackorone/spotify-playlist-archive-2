@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: VANILLA
+> Cele mai de succes 50 de hituri în România\. Cover: Denis Ramniceanu, Babasha
 
-344 songs - 16 hr 26 min
+345 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Tu blondina,eu brunet](https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Tu blondina,eu brunet](https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g) | 2:25 | 2025-08-25 | 2026-06-16 |
 | [Turbo Orange](https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Turbo Orange](https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD) | 2:40 | 2024-11-05 | 2025-04-24 |
 | [TÂRZIU](https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [TÂRZIU](https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A) | 4:18 | 2026-06-29 |  |
+| [UP](https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl), [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [UP](https://open.spotify.com/album/6HNKceDWutd60fr1e7HugQ) | 2:17 | 2026-07-21 |  |
 | [Vara nu e vara](https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Vara nu e vara](https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc) | 2:35 | 2026-06-29 |  |
 | [Vin Sa Te Fur](https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev) | [Luis Gabriel](https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg), [Haziran](https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL) | [Vin Sa Te Fur](https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8) | 3:07 | 2025-01-07 | 2025-06-04 |
 | [VIZZZCOL](https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG) | [Z CLASS](https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf) | 3:37 | 2025-08-19 | 2026-02-24 |

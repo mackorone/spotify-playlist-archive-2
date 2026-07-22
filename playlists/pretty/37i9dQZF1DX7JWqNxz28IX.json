@@ -791,18 +791,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
       },
       "artists": [
         {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
         }
       ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "FIORI MORTI",
-        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
       "artists": [
         {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
         }
       ],
-      "duration_ms": 136313,
-      "name": "FIORI MORTI",
-      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Polmoni",
-        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
-      },
-      "artists": [
-        {
-          "name": "Tripolare",
-          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
-        }
-      ],
-      "duration_ms": 123789,
-      "name": "Polmoni",
-      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Per starci in due",
         "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 216000,
       "name": "Per starci in due",
       "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Polmoni",
+        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "Polmoni",
+      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
-      },
-      "artists": [
-        {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 120000,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+      },
+      "artists": [
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1315,18 +1315,26 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Acqua Fredda",
-        "url": "https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Leevio",
-          "url": "https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Acqua Fredda",
-      "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1363,26 +1371,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "Acqua Fredda",
+        "url": "https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Leevio",
+          "url": "https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 159493,
+      "name": "Acqua Fredda",
+      "url": "https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1503,6 +1487,22 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        }
-      ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "non sto bene, va bene cos\u00ec",
         "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
@@ -1659,18 +1643,34 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Amore Pericoloso",
-        "url": "https://open.spotify.com/album/7s7cCiwhh4RH3dlRWLD6aG"
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
       "artists": [
         {
-          "name": "Satira",
-          "url": "https://open.spotify.com/artist/2cwJY99c2eytSkVmppG6QH"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         }
       ],
-      "duration_ms": 132046,
-      "name": "Amore Pericoloso",
-      "url": "https://open.spotify.com/track/067uO64hZ5My9V2c4AXyM0"
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "sfacciati",
+        "url": "https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "sfacciati",
+      "url": "https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "la Mia paura",
         "url": "https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 180454,
       "name": "la Mia paura",
       "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

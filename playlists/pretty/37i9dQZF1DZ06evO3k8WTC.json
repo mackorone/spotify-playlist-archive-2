@@ -1,12 +1,12 @@
 {
   "description": "This is At the Drive-In. The essential tracks, all in one playlist.",
-  "num_followers": 5287,
+  "num_followers": 5291,
   "original_name": "This Is At the Drive-In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAC0jlCtkpXlt8RKPMUyeXHz",
+  "snapshot_id": "al1lAAAAAAAO4LXCwCOl4AlYcNFR7NS/",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 281400,
-      "name": "Lopsided",
-      "url": "https://open.spotify.com/track/7KNnNM01ePw7Py0WdF9Gpg"
+      "duration_ms": 158360,
+      "name": "Pickpocket",
+      "url": "https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 168972,
-      "name": "Schaffino",
-      "url": "https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8"
+      "duration_ms": 167959,
+      "name": "Ebroglio",
+      "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 167959,
-      "name": "Ebroglio",
-      "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
+      "duration_ms": 168972,
+      "name": "Schaffino",
+      "url": "https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8"
     },
     {
       "added_at": null,

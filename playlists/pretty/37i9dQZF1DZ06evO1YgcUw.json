@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 342957,
+  "num_followers": 342965,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADvOAHUByFMmER5BEltUFJP",
+  "snapshot_id": "al1lAAAAAABhhKrdDr2Xqg2xR9RF9u4r",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1967 - Sunshine Tomorrow",
-        "url": "https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 60466,
-      "name": "A Thing Or Two - Track & Backing Vocals",
-      "url": "https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In California",
         "url": "https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183866,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6Xu7AtAGDsK7DSsj8Q3WyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1967 - Sunshine Tomorrow",
+        "url": "https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 60466,
+      "name": "A Thing Or Two - Track & Backing Vocals",
+      "url": "https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD"
     },
     {
       "added_at": null,

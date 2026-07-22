@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-293 songs - 18 hr 24 min
+295 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 | 2026-03-31 | 2026-05-19 |
 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-05-19 |  |
 | [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 | 2026-02-15 | 2026-03-21 |
+| [Here We Go Again](https://open.spotify.com/track/6wrZA2E3cSbhfJdjUf8aSe) | [Lightwatch](https://open.spotify.com/artist/6TBlskhMOQ1aQ7xFJIGfJU) | [Here We Go Again](https://open.spotify.com/album/5veh7nQUmPS23xMqA6hf8w) | 2:54 | 2026-07-21 |  |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |
 | [Hey Woman](https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Fixed Up \(Remastered\)](https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM) | 2:57 | 2026-06-11 |  |
 | [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 | 2026-03-27 |  |
@@ -289,6 +290,7 @@
 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 | 2026-04-28 |  |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-06-22 |  |
 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 | 2026-02-09 | 2026-05-19 |
+| [Welcome to the Show](https://open.spotify.com/track/42ewg8Q9PpXjFAdb38OGUf) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Welcome to the Show](https://open.spotify.com/album/1RMWL1k3UJ9pLP8UHGagEE) | 4:01 | 2026-07-21 |  |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2026-01-22 | 2026-02-23 |
 | [What Remains](https://open.spotify.com/track/4oMM9SF5TYscNNN8KHoslX) | [RABBiTHOLE](https://open.spotify.com/artist/5c9jIapeSPaUgi0M1iB6Mi) | [What Remains](https://open.spotify.com/album/6n6yJgKlDj3QKNvuGshOo7) | 3:49 | 2026-06-24 |  |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2026-01-05 | 2026-02-02 |

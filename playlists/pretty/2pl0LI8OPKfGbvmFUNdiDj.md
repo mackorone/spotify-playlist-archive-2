@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,040 likes - 80 songs - 4 hr 41 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,046 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,10 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 78 | [Breathe](https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 |
 | 79 | [One Way Out](https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [One Way Out](https://open.spotify.com/album/34LOAm5Emkw1jlx8OTOiGW) | 3:07 |
 | 80 | [Uncharted Ways](https://open.spotify.com/track/1AanP3btYufcT9X6E94FJI) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Uncharted Ways](https://open.spotify.com/album/65Q0Nq9fReW9gT4Syrt2jN) | 6:13 |
+| 81 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 |
+| 82 | [SAFE PLACE](https://open.spotify.com/track/2NQTx7JMNqfz7O9Ng6pfPS) | [Dawnluks](https://open.spotify.com/artist/0mGXx78dElsOzH3LxC7aka) | [SAFE PLACE](https://open.spotify.com/album/4jLD8hfDGnQteQCz97xEXI) | 3:30 |
+| 83 | [WAKING UP](https://open.spotify.com/track/5CmnN94I3535jWKMQW9qu1) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [WAKING UP](https://open.spotify.com/album/0fD04gI97Tk00A53mfALC5) | 1:46 |
+| 84 | [Espressione d'algebra](https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Espressione d'algebra](https://open.spotify.com/album/5VdsafQTceOkatMfr6lm0G) | 2:18 |
+| 85 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 |
 
-Snapshot ID: `AAAEKKkm8lcwVJkzolQdnNHSSuqsVs/2`
+Snapshot ID: `AAAELa7mcsWfdktgjOOa5FPSB6FvGwEX`

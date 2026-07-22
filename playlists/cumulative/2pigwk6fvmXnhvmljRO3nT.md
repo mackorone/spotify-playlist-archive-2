@@ -4,7 +4,7 @@
 
 > 
 
-8,742 songs - 22 day 5 hr 53 min
+8,743 songs - 22 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1927,6 +1927,7 @@
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2025-02-03 |  |
 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 | 2025-01-03 |  |
 | [Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 | 2025-01-03 |  |
+| [Empty Words](https://open.spotify.com/track/4ky0UguF2TtDUPvcr9ur0r) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Empty Words](https://open.spotify.com/album/15GZvHoaG8oM6ja8LZQxBl) | 3:10 | 2026-07-21 |  |
 | [emulation \(mode:totonee\)](https://open.spotify.com/track/5XUB5h1kZcFrgLa9RZda3Y) | [stargaze shelter](https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW) | [emulation](https://open.spotify.com/album/0OQwd9OkjGYKjYk4QCJYDB) | 3:54 | 2025-07-31 |  |
 | [Enchanting Bedtime Stories](https://open.spotify.com/track/7cMYNyU5PZjZsMzWtTkE5g) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 2:53 | 2025-11-29 |  |
 | [Encore](https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:10 | 2025-01-03 |  |

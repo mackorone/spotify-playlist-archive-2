@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > La cuenta regresiva para conocer al nuevo campeón del mundo ya comenzó\. Mientras tanto te dejamos lo nuevo de esta semana\. Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,972 likes - 69 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,959 likes - 69 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

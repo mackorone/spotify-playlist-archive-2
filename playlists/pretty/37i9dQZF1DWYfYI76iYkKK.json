@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131403,
+  "num_followers": 131404,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "Say You\u2019re Sorry",
-        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Say You\u2019re Sorry",
-      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
         "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
-        "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
+        "name": "Say You\u2019re Sorry",
+        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
       "artists": [
         {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
-        },
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 164658,
-      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
-      "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
+      "duration_ms": 136400,
+      "name": "Say You\u2019re Sorry",
+      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -535,6 +515,26 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
+        "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
+      },
+      "artists": [
+        {
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "duration_ms": 164658,
+      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
+      "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u82b7\u5a77",
-          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
-        }
-      ],
-      "duration_ms": 232984,
-      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 221073,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        }
+      ],
+      "duration_ms": 232984,
+      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u82e6\u7684\u751c",
-        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
+        "name": "\u541b",
+        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
         }
       ],
-      "duration_ms": 255023,
-      "name": "\u82e6\u7684\u751c",
-      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
+      "duration_ms": 168471,
+      "name": "\u541b",
+      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

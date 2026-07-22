@@ -4,7 +4,7 @@
 
 > don't know the half of it, I wish you did ❤️‍🩹❤️‍🩹❤️‍🩹 gracie abrams on the cover
 
-857 songs - 2 day 3 hr 45 min
+858 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 | 2024-10-11 | 2025-05-14 |
 | [Meaning](https://open.spotify.com/track/41S0JSa52kSmDUFsKEBaiB) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 5:35 | 2025-06-06 | 2025-08-09 |
 | [Mess In Your Eyes](https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Mess In Your Eyes // Vultures](https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB) | 3:51 | 2025-07-18 | 2026-01-24 |
+| [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-21 |  |
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-17 |  |
 | [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 | 2026-02-20 |  |
 | [Might](https://open.spotify.com/track/55ZwLTMAr2gGDawefZAUdN) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Might](https://open.spotify.com/album/0Zun8lMQQRIiPA6iD38vFr) | 4:20 | 2025-06-20 | 2026-01-17 |

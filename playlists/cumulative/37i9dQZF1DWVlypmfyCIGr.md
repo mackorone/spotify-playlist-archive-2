@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: kohamo
 
-12,221 songs - 30 day 7 hr 7 min
+12,222 songs - 30 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2592,6 +2592,7 @@
 | [I Wanna Know Because I Don't Know](https://open.spotify.com/track/0snscUMYW9GTdI3QuBzQ68) | [Hideaki Matsuoka](https://open.spotify.com/artist/5hXd0L8ZJYcYgVU5b5oJaX) | [Is This My Vision?　〜HIDEAKI MATSUOKA THE BEST IN EPIC YEARS〜](https://open.spotify.com/album/6yOIxUrqvNOaZ2TcA4FNog) | 3:07 | 2024-08-06 | 2024-08-13 |
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-07 | 2023-08-29 |
 | [I wanna...](https://open.spotify.com/track/6MJObxULQOg8De1GQwoUXO) | [INIMILE](https://open.spotify.com/artist/5ZJ0xmmLxxb6fQRUFIhjvl) | [I wanna...](https://open.spotify.com/album/6CNjzEZmBylB5XTkQwYnYU) | 2:44 | 2025-02-17 | 2025-02-25 |
+| [I Want More](https://open.spotify.com/track/3H3Ar8l9ut9zJzFeZN9tDO) | [ENBASE](https://open.spotify.com/artist/0bJv2ZvmBgnluJuNGftNER) | [I Want More](https://open.spotify.com/album/47fyxspulKsqvujvrqqNcd) | 3:17 | 2026-07-21 |  |
 | [I WANT YOU BACK](https://open.spotify.com/track/7kD0TYFkVNs2VMvvuTp4tt) | [SPACE KUNG\-FU MAN](https://open.spotify.com/artist/6be5r4ADgAS4ISZAp2Defx) | [DOCARHYTHM WILD](https://open.spotify.com/album/1QS2ENJ9kAZFMiNZRGLOkU) | 2:21 | 2022-05-10 | 2022-05-17 |
 | [I Want Your Love feat.MAINAMIND](https://open.spotify.com/track/36WG4mSwY4IRDjOf7W9Rw8) | [いちろー](https://open.spotify.com/artist/6idpgGJuJlaFZsNLsmXCQ4), [MAINAMIND](https://open.spotify.com/artist/0Wb9L1Td4VaESjo37vN9z4) | [I Want Your Love feat.MAINAMIND](https://open.spotify.com/album/09AxYNKiKcBOrfLmIDOf89) | 3:35 | 2022-01-24 | 2022-02-08 |
 | [i wanted to be a heroine](https://open.spotify.com/track/6rJsHoDtDpNcmbFrSai2Px) | [milkyway](https://open.spotify.com/artist/7F8CUMuI6T42hdxqVsD80F) | [Become a witch who defeats the heroine](https://open.spotify.com/album/2P3lNQjKrbiMoyM2VvoN2U) | 3:16 | 2023-07-10 | 2023-08-01 |
@@ -7391,7 +7392,7 @@
 | [みずいろこども](https://open.spotify.com/track/7eHtJ6bjH5LA7mGlYnldow) | [Gutevolk](https://open.spotify.com/artist/3q0Z5NCEUBupppTF8ivRTR) | [みずいろこども](https://open.spotify.com/album/2hLcNkCGruRxWoVqTBs0sh) | 4:21 | 2022-08-15 | 2022-08-30 |
 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-01-31 | 2023-02-21 |
 | [みつけて](https://open.spotify.com/track/3fuiuNoQzl9o2bVfANvlxH) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [みつけて](https://open.spotify.com/album/57ovqoHkFuR44zyFc2vCh8) | 3:05 | 2024-08-27 | 2024-09-03 |
-| [みどりの幽霊](https://open.spotify.com/track/4QfseC8PlaIjCnIjs0PGZ6) | [寒中遊泳](https://open.spotify.com/artist/7yWly1eWTSvSJ8NHzmelFp) | [Di\-Acute](https://open.spotify.com/album/4mZuG2gGIRP2wNRSi6y1mK) | 3:40 | 2026-07-14 |  |
+| [みどりの幽霊](https://open.spotify.com/track/4QfseC8PlaIjCnIjs0PGZ6) | [寒中遊泳](https://open.spotify.com/artist/7yWly1eWTSvSJ8NHzmelFp) | [Di\-Acute](https://open.spotify.com/album/4mZuG2gGIRP2wNRSi6y1mK) | 3:40 | 2026-07-14 | 2026-07-22 |
 | [みにくいばけもの \(prod\. jon\-YAKITORY\)](https://open.spotify.com/track/3Fc7VoJInYVfebHKzkOG0s) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [みにくいばけもの \(prod\. jon\-YAKITORY\)](https://open.spotify.com/album/6Wkb8jQiSPOBdfyhiTvZdY) | 2:26 | 2024-07-08 | 2024-07-16 |
 | [みらいちゃん](https://open.spotify.com/track/1pJAOvsTjeswed6jTsdcVk) | [COX2](https://open.spotify.com/artist/0KDksq8GLene5EpCfTEVqc) | [みらいちゃん](https://open.spotify.com/album/2L3BidS1n5TnUTamr5zo01) | 3:14 | 2026-02-09 | 2026-02-17 |
 | [みんなおなじ](https://open.spotify.com/track/7HVfRqzsoiwpQ20rrkaLw8) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [みんなおなじ](https://open.spotify.com/album/6kdiQ4aRSv01HPXsGttVBK) | 4:23 | 2021-11-16 | 2021-12-01 |

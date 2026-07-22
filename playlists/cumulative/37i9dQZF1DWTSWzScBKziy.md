@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,435 songs - 3 day 15 hr 29 min
+1,436 songs - 3 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [All Things Well](https://open.spotify.com/track/6221ByWUvnTPaSMDpjgsfi) | [Justin Warren](https://open.spotify.com/artist/6bBzJpCoyyPxIZ6KooTqcU) | [All Things Well](https://open.spotify.com/album/27u6mmnkk26qEnXlKz5cIo) | 3:16 | 2022-10-29 | 2023-04-29 |
 | [All We Can Do Is Pray](https://open.spotify.com/track/5PlXXcY5XBKlwbX6Xd8tUE) | [Haley Jones](https://open.spotify.com/artist/3T4ec9lwbch8kfc4ZbdG0M) | [All We Can Do Is Pray](https://open.spotify.com/album/3oLZQDxMZo8k3Mmz2t4rzt) | 3:24 | 2026-04-17 | 2026-05-20 |
 | [All We Ever Need](https://open.spotify.com/track/0BCE2TaKxWnaESXFLP7oLz) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [All We Ever Need](https://open.spotify.com/album/21Ue7pnNCDJeJpf3OYZhRh) | 3:10 | 2024-07-26 | 2024-10-12 |
+| [All Yours](https://open.spotify.com/track/1VbuyGK1bBv4ioZKcidXHH) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [All Yours](https://open.spotify.com/album/3dXXhI7NQBfvTWAQwfIIBZ) | 3:21 | 2026-07-17 |  |
 | [ALMOST FAMOUS](https://open.spotify.com/track/2OfCRMbzAwO9WdRGXzFnT8) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [ALMOST FAMOUS](https://open.spotify.com/album/35fiLxMLBy7KGlVUesFu6w) | 2:49 | 2026-05-29 | 2026-07-04 |
 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 | 2022-05-27 | 2024-05-26 |
 | [Already On The Way](https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Already On The Way](https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo) | 4:12 | 2025-11-15 | 2026-02-08 |
@@ -448,7 +449,7 @@
 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 | 2025-11-15 | 2026-01-18 |
 | [Growing Pains](https://open.spotify.com/track/7AS4QfVE36kemDghmTbJaj) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/7fRMtIRU0irBhCD4rb4KrV) | 3:50 | 2022-05-27 | 2024-06-08 |
 | [Halfway Home](https://open.spotify.com/track/0aS1qk5IIimBhHzwhbYruc) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Halfway Home](https://open.spotify.com/album/3mys52nKcxd0nAAtB7XMA0) | 3:57 | 2026-04-17 | 2026-05-30 |
-| [Hallelujah](https://open.spotify.com/track/71az1UByTmDBnEMlxtlRmd) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Hallelujah](https://open.spotify.com/album/0YcTd7fh0DnRJK1WjKJEvz) | 2:59 | 2026-07-17 |  |
+| [Hallelujah](https://open.spotify.com/track/71az1UByTmDBnEMlxtlRmd) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Hallelujah](https://open.spotify.com/album/0YcTd7fh0DnRJK1WjKJEvz) | 2:59 | 2026-07-17 | 2026-07-22 |
 | [Hallelujah Everyday](https://open.spotify.com/track/0qKwz58QAzQU5QeIBP2Lpb) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Hallelujah Everyday](https://open.spotify.com/album/2yep0nxeQFJznZIDBxNvkK) | 3:36 | 2025-06-21 | 2025-09-15 |
 | [Hallelujah In The Hard Things](https://open.spotify.com/track/0PxhROpedyP63Onnoeddk8) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Hallelujah In The Hard Things](https://open.spotify.com/album/70gcaVWuTtFUnAoosmyihw) | 3:36 | 2025-09-14 | 2025-11-16 |
 | [HALLELUJAH IN THE HARD THINGS](https://open.spotify.com/track/6lJwy2xaY314CyHfua4yP7) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MẸJỌ \- SONGS FOR THE BACKROW](https://open.spotify.com/album/4eKJZ74Lb6Ve7GWNW381UI) | 3:59 | 2025-12-06 | 2026-01-18 |

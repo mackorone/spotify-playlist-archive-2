@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Drivin' My Life",
+        "url": "https://open.spotify.com/album/0cvs6S9VokjBLpVTxux9AZ"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Drivin' My Life",
+      "url": "https://open.spotify.com/track/3Q8C8TefCUXCwR26VB1zdh"
+    },
+    {
+      "album": {
         "name": "First Howling : NOW",
         "url": "https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL"
       },
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 195673,
       "name": "Fiction Love",
       "url": "https://open.spotify.com/track/7FsaBZwRNWlXVCIgI2QMqL"
@@ -5944,7 +5962,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 196030,
       "name": "Good Boys Anthem",
       "url": "https://open.spotify.com/track/6TIKxwgorfSVrDIg7ywq00"
@@ -13791,6 +13809,24 @@
     },
     {
       "album": {
+        "name": "[8.X]",
+        "url": "https://open.spotify.com/album/1fE0XTysCTDDO4Pm9SZMkR"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stagefright",
+      "url": "https://open.spotify.com/track/2x3VhcIKHbRZa5ItTo3Qtl"
+    },
+    {
+      "album": {
         "name": "Standing Here",
         "url": "https://open.spotify.com/album/4kRYjzGKdrCfrxUMSAXtCP"
       },
@@ -15122,7 +15158,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 200226,
       "name": "Theater",
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
@@ -19466,6 +19502,24 @@
       "duration_ms": 183000,
       "name": "\u98db\u9f8d-FeiLong-",
       "url": "https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ"
+    },
+    {
+      "album": {
+        "name": "\u9b3c\u4e8b",
+        "url": "https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180097,
+      "name": "\u9b3c\u4e8b",
+      "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"
     },
     {
       "album": {

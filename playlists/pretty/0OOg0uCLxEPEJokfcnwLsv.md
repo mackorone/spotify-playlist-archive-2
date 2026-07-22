@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,178 likes - 135 songs - 8 hr 24 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,181 likes - 136 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 133 | [American Viking](https://open.spotify.com/track/5F779kjudzpaiweg4vyW24) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:14 |
 | 134 | [No Regrets](https://open.spotify.com/track/0mrmlMUE7E2QY6FNjUm8in) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:02 |
 | 135 | [Slow Tide](https://open.spotify.com/track/0kKQmicsDuiV5GFp4zec4j) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Slow Tide](https://open.spotify.com/album/5K5o9OAQz2MbPkqVoMibmf) | 3:43 |
+| 136 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 |
 
-Snapshot ID: `AAAGrZScIyj3pH2K9Q0Rw+ZCAZKtV1BL`
+Snapshot ID: `AAAGruv5t9Wlz1lvlVs3bmE15HDxbWoJ`

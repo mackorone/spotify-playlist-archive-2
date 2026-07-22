@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4990146,
+  "num_followers": 4990226,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAL/LYRpuenRaI7uFKZche6",
+  "snapshot_id": "al1lAAAAAAC2J5pqlGh3phKKAx1meTce",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (2011 Remaster)",
-        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM"
       },
       "artists": [
         {
@@ -89,8 +89,8 @@
         }
       ],
       "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
       },
       "artists": [
         {
@@ -265,8 +265,8 @@
         }
       ],
       "duration_ms": 277826,
-      "name": "The Show Must Go On - Remastered 2011",
-      "url": "https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN"
+      "name": "The Show Must Go On",
+      "url": "https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "I Want It All - Single Version",
-      "url": "https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Heaven (2011 Remaster)",
         "url": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 259213,
       "name": "Too Much Love Will Kill You - Remastered 2011",
       "url": "https://open.spotify.com/track/0W1uTK6I97CbjFKAVtRGfK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Miracle (Collector's Edition)",
+        "url": "https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "I Want It All - Single Version",
+      "url": "https://open.spotify.com/track/4w79VLgle2eoaAsstdpXAq"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/1HjvOZjeYSmZFU4qHtXOfY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 229920,
       "name": "Save Me - Remastered 2011",
       "url": "https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Bicycle Race - Remastered 2011",
-      "url": "https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (2011 Remaster)",
-        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Breakthru - Remastered 2011",
-      "url": "https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 289813,
       "name": "I Was Born To Love You - 2011 Remaster",
       "url": "https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Miracle (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Breakthru - Remastered 2011",
+      "url": "https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
+        "name": "Made In Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
       },
       "artists": [
         {
@@ -621,8 +621,8 @@
         }
       ],
       "duration_ms": 324853,
-      "name": "You Don't Fool Me - Remastered 2011",
-      "url": "https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2"
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Miracle (2011 Remaster)",
-        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 237680,
-      "name": "The Invisible Man - Remastered 2011",
-      "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+        "name": "The Miracle (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 307360,
-      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
+      "duration_ms": 237680,
+      "name": "The Invisible Man - Remastered 2011",
+      "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
     },
     {
       "added_at": null,

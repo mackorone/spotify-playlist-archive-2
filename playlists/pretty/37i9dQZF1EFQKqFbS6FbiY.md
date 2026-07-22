@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 237 | [Só Isso Que Nóis Quer](https://open.spotify.com/track/33qNGYgfKEerjLJOokKbf9) | [Fernando Souza e Matheus](https://open.spotify.com/artist/2weq76M4O67H31FgYGf20v) | [Modão](https://open.spotify.com/album/3pVSqLrf4ARCCvFNDKCiJI) | 2:32 |
 | 238 | [Logo Agora](https://open.spotify.com/track/27IEL0ePPW3MTGGFRrH6Au) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 2:35 |
 | 239 | [Enquanto Ele Dorme](https://open.spotify.com/track/68wAihrDvEPukfpO02f1jp) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [O Repertório Que Você Confia!](https://open.spotify.com/album/3F1W8aNkBgOVkjHZFiDwUr) | 2:22 |
-| 240 | [Estouramo Bebê](https://open.spotify.com/track/2MEMC609ySGlSMcLuzKIli) | [Analiss](https://open.spotify.com/artist/2suTBg2MjbgarQaazYMYdU) | [Estouramo Bebê](https://open.spotify.com/album/28T7WT7N0KZnGYCJeyvHES) | 2:17 |
-| 241 | [Seu Fã](https://open.spotify.com/track/2CDJmsUEuKdILRxi2B5P2s) | [Luciano](https://open.spotify.com/artist/393U4fED3zDAdZRXZ1IWWT) | [Dois Tempos, Pt\. 2](https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk) | 3:18 |
+| 240 | [Seu Fã](https://open.spotify.com/track/2CDJmsUEuKdILRxi2B5P2s) | [Luciano](https://open.spotify.com/artist/393U4fED3zDAdZRXZ1IWWT) | [Dois Tempos, Pt\. 2](https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk) | 3:18 |
+| 241 | [Estouramo Bebê](https://open.spotify.com/track/2MEMC609ySGlSMcLuzKIli) | [Analiss](https://open.spotify.com/artist/2suTBg2MjbgarQaazYMYdU) | [Estouramo Bebê](https://open.spotify.com/album/28T7WT7N0KZnGYCJeyvHES) | 2:17 |
 | 242 | [Neide \- Ao Vivo](https://open.spotify.com/track/4uOdxmIpl4MhCBJs9hNrE9) | [Pedro Motta e Henrique](https://open.spotify.com/artist/0oCIFyJNwJen2o09bwpy8K), [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Nú Haras \- Ep1 \(ao Vivo\)](https://open.spotify.com/album/4sdwr83eTU1584CH4w3czQ) | 2:38 |
 | 243 | [Algo Mais](https://open.spotify.com/track/5RQq5p7mPM1o0ZogDqp6zE) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [Sofrência](https://open.spotify.com/album/7phdWem7cPNiHf8qFv8MAO) | 3:44 |
 | 244 | [3G](https://open.spotify.com/track/0E6rddDd45q7vD9pENUpns) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [3G](https://open.spotify.com/album/3c6r1vhsZOa93MHhxOxwnD) | 2:23 |
@@ -489,4 +489,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 479 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 480 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcXZMgAAAABw4LWWCn2C4QbIJ58nK57N`
+Snapshot ID: `AcXe0gAAAACzuz/K6qgmafBOVqPC5abJ`

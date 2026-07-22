@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 281142,
       "name": "Blurry Flurry",
       "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
@@ -13280,6 +13280,28 @@
       "duration_ms": 190344,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
+    },
+    {
+      "album": {
+        "name": "Thriller in Manila",
+        "url": "https://open.spotify.com/album/1CfdYt2AYuBD9wGdshS5ko"
+      },
+      "artists": [
+        {
+          "name": "SKALAH",
+          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Thriller in Manila",
+      "url": "https://open.spotify.com/track/2ir9VrFfUFq1AdOqKSKLPS"
     },
     {
       "album": {

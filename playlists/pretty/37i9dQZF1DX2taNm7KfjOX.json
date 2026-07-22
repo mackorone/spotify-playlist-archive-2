@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Gia Margaret",
-  "num_followers": 1336883,
+  "num_followers": 1336789,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+      "duration_ms": 201183,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -735,22 +751,6 @@
       "duration_ms": 190890,
       "name": "Keep Me Honest",
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "Fourth of July",
         "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Schoolyard Days",
-        "url": "https://open.spotify.com/album/5nOsAuzb5X7CmWmDG0FAcK"
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
       "artists": [
         {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 189527,
-      "name": "Schoolyard Days",
-      "url": "https://open.spotify.com/track/3nNXXPHGzCObHA50xCLzSf"
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1095,6 +1079,22 @@
       "duration_ms": 214142,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "Schoolyard Days",
+        "url": "https://open.spotify.com/album/5nOsAuzb5X7CmWmDG0FAcK"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 189527,
+      "name": "Schoolyard Days",
+      "url": "https://open.spotify.com/track/3nNXXPHGzCObHA50xCLzSf"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Anytime, Anyplace, Anyhow",
-        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 227147,
-      "name": "Anytime, Anyplace, Anyhow",
-      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "what we are",
-        "url": "https://open.spotify.com/album/3Ql8S9InptqOYlkxWyydqz"
+        "name": "Anytime, Anyplace, Anyhow",
+        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 156459,
-      "name": "sweet heart",
-      "url": "https://open.spotify.com/track/44PaL2Ttjz5ZJSzRGFaqWA"
+      "duration_ms": 227147,
+      "name": "Anytime, Anyplace, Anyhow",
+      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1211,6 +1195,22 @@
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "what we are",
+        "url": "https://open.spotify.com/album/3Ql8S9InptqOYlkxWyydqz"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 156459,
+      "name": "sweet heart",
+      "url": "https://open.spotify.com/track/44PaL2Ttjz5ZJSzRGFaqWA"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "Collapse List",
         "url": "https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 235133,
       "name": "Co-Pathetic",
       "url": "https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1491,38 +1491,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -1539,6 +1507,22 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
         "name": "Against The Dying Of The Light",
         "url": "https://open.spotify.com/album/6tfCh6LUufsg9neWwD6E5X"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 268026,
       "name": "You & We",
       "url": "https://open.spotify.com/track/7KnGJbwkplg5wFgkOAARkz"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
+        "name": "The Explorer",
+        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "The Explorer",
+      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
-        "name": "The Explorer",
-        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "The Explorer",
-      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 285320,
-      "name": "Dizzy Spin",
-      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "Younger & Dumber",
         "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
         }
       ],
-      "duration_ms": 165925,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
+      "duration_ms": 285320,
+      "name": "Dizzy Spin",
+      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -2371,6 +2355,22 @@
       "duration_ms": 262205,
       "name": "Slow Running",
       "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 200161,
       "name": "Back to the Wind",
       "url": "https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
-    },
-    {
-      "added_at": "2026-05-01 04:02:47",
-      "album": {
         "name": "New Mythology",
         "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
+    },
+    {
+      "added_at": "2026-05-01 04:02:47",
+      "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2026-05-01 04:02:47",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2026-05-01 04:02:47",
       "album": {
-        "name": "So The Sun Can Pour",
-        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
+        "name": "Sleep Paralysis",
+        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
       },
       "artists": [
         {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+          "name": "Ken Park",
+          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
         }
       ],
-      "duration_ms": 255395,
-      "name": "Taylor",
-      "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
+      "duration_ms": 199586,
+      "name": "Sleep Paralysis",
+      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
     }
   ],
   "unique_name": "Infinite Indie Folk",

@@ -4,7 +4,7 @@
 
 > 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
 
-405 songs - 22 hr 14 min
+406 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-31 |  |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 | 2025-02-18 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-15 | 2023-08-29 |
-| [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-16 |  |
+| [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-16 | 2026-07-22 |
 | [love's not pain](https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [love's not pain](https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn) | 2:26 | 2024-10-11 |  |
 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 | 2025-02-17 |  |
 | [Lying](https://open.spotify.com/track/1GsFAbxNUsYIrqY1p5gOgD) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Lying](https://open.spotify.com/album/1M0c54SpS4tyuPC54ftu3T) | 2:10 | 2023-08-15 | 2025-02-18 |
@@ -348,6 +348,7 @@
 | [Sweet Delusion \- Acoustic](https://open.spotify.com/track/0FcuogpWclfgR8iXilodvO) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion \(Acoustic\)](https://open.spotify.com/album/2umj49RieVZLNZeSovdJSW) | 4:00 | 2024-12-06 | 2025-02-18 |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-06 | 2024-12-14 |
 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 | 2024-08-16 | 2025-02-18 |
+| [Take Me There](https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX) | [DA TI](https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i) | [Take Me There](https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa) | 3:22 | 2026-07-21 |  |
 | [Taking A Part Of Me](https://open.spotify.com/track/4TQzYHQWajgQGTgkoDCuzI) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [New Dreams](https://open.spotify.com/album/0Ujzw1BOqIfrARwP4IX5ce) | 3:25 | 2021-12-06 | 2023-08-16 |
 | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI) | 3:27 | 2021-12-06 | 2023-08-16 |
 | [Teardrop](https://open.spotify.com/track/0rl0q52F3QUQG8BiYrR0TC) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Teardrop](https://open.spotify.com/album/3YhypjPZYK76WZFV7iA0h4) | 4:22 | 2025-09-26 |  |

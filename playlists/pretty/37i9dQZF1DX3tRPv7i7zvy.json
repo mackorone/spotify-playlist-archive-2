@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 21319,
+  "num_followers": 21339,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "EVERLASTING",
         "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 139487,
       "name": "EVERLASTING",
       "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2026-07-17 11:45:59",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "Ewor Me",
+        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Ewor Me",
+      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "Wish I Had a Girlfriend",
         "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Ewor Me",
-        "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Ewor Me",
-      "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 176468,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
         "name": "ASANA",
         "url": "https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 176468,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "Holiday / Reason You",
         "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -579,38 +595,6 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185719,
       "name": "See What We've Done",
       "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
         "name": "Most High",
         "url": "https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "Stopit",
         "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
       },
@@ -975,22 +995,18 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
+        "name": "Ruwa",
+        "url": "https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA"
       },
       "artists": [
         {
-          "name": "Yartti",
-          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
+      "duration_ms": 166779,
+      "name": "Ruwa",
+      "url": "https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Ruwa",
-        "url": "https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA"
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
       },
       "artists": [
         {
-          "name": "Jubed",
-          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Ruwa",
-      "url": "https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb"
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -1047,22 +1063,6 @@
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Sneaky",
-        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 166312,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Keep It Sexy",
-        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Keep It Sexy",
-      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
         "name": "Koto Na Gye (Bend & Take)",
         "url": "https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 123000,
       "name": "Koto Na Gye (Bend & Take)",
       "url": "https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "added_at": "2026-07-17 00:01:30",

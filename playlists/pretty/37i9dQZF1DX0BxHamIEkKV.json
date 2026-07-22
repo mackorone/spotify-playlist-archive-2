@@ -1,6 +1,6 @@
 {
   "description": "Smart, engaging podcasts that go beyond the headlines.",
-  "num_followers": 23984,
+  "num_followers": 23982,
   "original_name": "Stay in the Know",
   "owner": {
     "name": "Spotify",
@@ -23,22 +23,6 @@
       "duration_ms": 1242070,
       "name": "Two Americas collide",
       "url": "https://open.spotify.com/episode/1idsbT8zcNTi1HdKzjJ4Y2"
-    },
-    {
-      "added_at": "2021-01-05 09:06:00",
-      "album": {
-        "name": "WSJ What\u2019s News",
-        "url": "https://open.spotify.com/album/59176gU8vcFho6Sc1dm3Lu"
-      },
-      "artists": [
-        {
-          "name": "WSJ What\u2019s News",
-          "url": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu"
-        }
-      ],
-      "duration_ms": 836858,
-      "name": "2020 Year in Review: A Year of Racial Reckoning",
-      "url": "https://open.spotify.com/episode/3Hn83wcbfpFKpP7pVOo9FE"
     },
     {
       "added_at": "2021-01-05 09:06:00",

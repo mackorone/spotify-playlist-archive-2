@@ -7527,6 +7527,24 @@
     },
     {
       "album": {
+        "name": "Overchord",
+        "url": "https://open.spotify.com/album/4eT9kfzQuUgbd9Afp42eOj"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284046,
+      "name": "Overchord",
+      "url": "https://open.spotify.com/track/4DGkRPRnm003a5J6qVRjQH"
+    },
+    {
+      "album": {
         "name": "Quality Over Opinion",
         "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
       },

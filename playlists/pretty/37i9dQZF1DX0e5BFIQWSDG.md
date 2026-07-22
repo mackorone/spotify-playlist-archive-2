@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Strat, Arab
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,614 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,629 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 13 | [AVENTURA](https://open.spotify.com/track/6S1gs8NVoVEi8ODwUHLvqW) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [AVENTURA](https://open.spotify.com/album/6XLUZBUALKlHDBzugfvPsD) | 3:01 |
 | 14 | [AMAZING \- Remix](https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [AMAZING \(Remix\)](https://open.spotify.com/album/5n9BmLtebD4J2uuKlgTKrj) | 2:38 |
 | 15 | [omw](https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 4:04 |
-| 16 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Christodoulos Siganos](https://open.spotify.com/artist/58sGq7JvkffIwPwbIpSu7H) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
+| 16 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
 | 17 | [BANANA](https://open.spotify.com/track/1m79Th6iG6CQDEym2EZFOo) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 3:11 |
 | 18 | [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 |
 | 19 | [€€€](https://open.spotify.com/track/70sZnMz3WKjRW1KiiLElqG) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:54 |

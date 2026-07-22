@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Mystery Jets
 
-473 songs - 1 day 6 hr 37 min
+474 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Getting Killed](https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 4:44 | 2025-10-02 |  |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-06-14 | 2025-03-22 |
 | [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-06-14 | 2024-11-16 |
+| [Glamour Magick](https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Glamour Magick](https://open.spotify.com/album/7sClkddld26FI0xg2IFoND) | 4:30 | 2026-07-16 |  |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-18 | 2025-04-17 |
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-10-06 | 2025-01-31 |
 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 | 2024-11-15 | 2025-05-09 |
@@ -195,7 +196,7 @@
 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 | 2025-01-17 | 2025-10-24 |
 | [gut health](https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [gut health](https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP) | 4:03 | 2024-06-14 | 2024-08-15 |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 | 2025-10-22 |
-| [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-04-30 |  |
+| [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-04-30 | 2026-07-22 |
 | [Hangman](https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Hangman](https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9) | 3:09 | 2025-02-07 | 2025-03-27 |
 | [He Wants Me](https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [If You Asked For A Picture](https://open.spotify.com/album/0b4ieMOkv7WGdJ4qYXbtzZ) | 3:29 | 2025-05-08 | 2026-02-21 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2024-06-14 | 2025-03-22 |

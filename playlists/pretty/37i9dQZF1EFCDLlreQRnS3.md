@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 106 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
 | 107 | [Wasteland](https://open.spotify.com/track/4SqEUovs3DtWvOBdvkPudU) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 2:53 |
 | 108 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 |
-| 109 | [You Can Cry](https://open.spotify.com/track/0fHdkxqOPO0N7GRPhSpWoQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:05 |
-| 110 | [The Idea of You](https://open.spotify.com/track/72vVHXK0NsSXUxywakzo5W) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [The Idea of You](https://open.spotify.com/album/0fkpab2RBxRNnvsDE1Z8iF) | 2:26 |
+| 109 | [The Idea of You](https://open.spotify.com/track/72vVHXK0NsSXUxywakzo5W) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [The Idea of You](https://open.spotify.com/album/0fkpab2RBxRNnvsDE1Z8iF) | 2:26 |
+| 110 | [You Can Cry](https://open.spotify.com/track/0fHdkxqOPO0N7GRPhSpWoQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:05 |
 | 111 | [What I Wanted](https://open.spotify.com/track/5iqAtskcRzCVWBefPulu1d) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/0mQItA2D37eMe3ovkqEnKP) | 2:32 |
 | 112 | [Under Pressure](https://open.spotify.com/track/0H2096XKeIVMymGYigmTLs) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Remedy](https://open.spotify.com/album/7mLzjOOe1B2CUZURCaTRCH) | 2:34 |
 | 113 | [No Man's Land](https://open.spotify.com/track/3lQIahCMwi22O2DP1J6q7K) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 3:02 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 143 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 144 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcXZCgAAAAD3t5iC4XsAlG6bN1OSMxAT`
+Snapshot ID: `AcXe0gAAAAC5nTtTXVVTiMK7HWPRyNdr`

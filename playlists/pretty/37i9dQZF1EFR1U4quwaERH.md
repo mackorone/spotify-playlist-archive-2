@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 69 | [Take Off](https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8) | 3:40 |
 | 70 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
 | 71 | [Break My Own Heart](https://open.spotify.com/track/4Nf8LoYyxI2R2HLqF2NhFq) | [Nia Monét](https://open.spotify.com/artist/08zBxR59xrYDnrohzxD7mx) | [Break My Own Heart](https://open.spotify.com/album/2PMs1WhPl2m8L1KPbq5sMI) | 2:21 |
-| 72 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 |
-| 73 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
+| 72 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
+| 73 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 |
 | 74 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
 | 75 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
 | 76 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 98 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 99 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcXZCgAAAABzyXkZXQYqCYHNW5eCg+lg`
+Snapshot ID: `AcXe0gAAAACE8usOTUTGxF3+Q8pG9rxt`

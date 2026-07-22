@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte
 
-1,006 songs - 2 day 5 hr 36 min
+1,007 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Hola](https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hola](https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z) | 2:47 | 2022-08-05 | 2023-05-26 |
 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-02-05 | 2025-09-12 |
 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 | 2024-05-31 | 2026-04-25 |
+| [Hola ¿Alo?](https://open.spotify.com/track/4cs20eWc7SEpCaiUMptubl) | [ELENA SOFIA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Hola ¿Alo?](https://open.spotify.com/album/6ByQKGALuWZhg3HsjD2Dzk) | 3:39 | 2026-07-21 |  |
 | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC) | 4:37 | 2022-12-09 | 2023-06-01 |
 | [How Deep Is Your Love](https://open.spotify.com/track/3ecNVtpbki6jYHlmHizHqE) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [How Deep Is Your Love](https://open.spotify.com/album/67jy1N1YZO5SVPzM3GueIx) | 3:19 | 2025-04-11 | 2025-09-06 |
 | [Hoy Me Emborracho](https://open.spotify.com/track/6d8eIIRwnEarPsYEXHJ7a7) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:02 | 2022-10-26 | 2023-06-01 |

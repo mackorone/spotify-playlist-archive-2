@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-650 songs - 1 day 12 hr 20 min
+651 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 | 2023-07-24 | 2023-09-22 |
 | [Choti Si Baat](https://open.spotify.com/track/73PlprGKv36zcgrkRGT9UO) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Choti Si Baat](https://open.spotify.com/album/3XTyGQYMEqLxUwJWrltb7l) | 4:52 | 2025-02-28 | 2025-03-29 |
 | [Chupke Se](https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Manya Narang](https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY) | [Chupke Se](https://open.spotify.com/album/4HtzchXd1UF5p6v8qZe2k2) | 3:01 | 2024-02-06 | 2024-05-29 |
+| [Cinema Chowk](https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Uns](https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo) | 5:49 | 2026-07-21 |  |
 | [College Ki Sadak 2.0](https://open.spotify.com/track/38fDIxenUBSC14oPjWV7kS) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Anticlockwise \(Live Sessions\)](https://open.spotify.com/album/0ZRGgQ57H76aTMVmei9peg) | 2:53 | 2025-11-11 | 2025-11-29 |
 | [Daira \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/4auzGy2POHFUZ8ZkT7Hi9H) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:38 | 2025-09-12 | 2025-09-27 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |
@@ -228,7 +229,7 @@
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
 | [Jaane De](https://open.spotify.com/track/0R5j2VBVJ3FKpl72FZZhKJ) | [Aakash M.](https://open.spotify.com/artist/2UGEmBqXfvXhsqHZhM7YU2), [Ishan Krishan](https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD) | [Jaane De](https://open.spotify.com/album/6TNOx8nr0fdrgYb4GrDqrN) | 3:45 | 2024-10-25 | 2025-04-12 |
 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 | 2025-11-14 | 2026-01-15 |
-| [Jaane Jaan](https://open.spotify.com/track/10JvykekC3vfnHgLQFrmeF) | [Mohnish Gaikawad](https://open.spotify.com/artist/5ZnbId45CYwKtirU6tMOQT) | [Jaane Jaan](https://open.spotify.com/album/2vOsKeMzaj11HZTh4bSNdk) | 3:22 | 2026-06-11 |  |
+| [Jaane Jaan](https://open.spotify.com/track/10JvykekC3vfnHgLQFrmeF) | [Mohnish Gaikawad](https://open.spotify.com/artist/5ZnbId45CYwKtirU6tMOQT) | [Jaane Jaan](https://open.spotify.com/album/2vOsKeMzaj11HZTh4bSNdk) | 3:22 | 2026-06-11 | 2026-07-22 |
 | [Jaane Kahan Ghum Tum](https://open.spotify.com/track/1SQlCcrCz3cC9rP7IvW9pj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Jaane Kahan Ghum Tum](https://open.spotify.com/album/6KWVNcow6n4l3NRkRuWFzS) | 2:41 | 2024-10-21 | 2025-03-22 |
 | [Jaane Kya Baat Hai](https://open.spotify.com/track/5tiV8nUAsGczrg3LNMohpQ) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Jaane Kya Baat Hai](https://open.spotify.com/album/3acWR5o4Ugsy7P7dQluxVS) | 3:57 | 2024-08-18 | 2024-09-21 |
 | [Jaane Kyu](https://open.spotify.com/track/7qySY2915krbeg4qMs5viD) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Sutradhaar](https://open.spotify.com/album/5oMbGSVotj2qtZjGxnAvkc) | 3:03 | 2024-02-09 | 2024-03-05 |

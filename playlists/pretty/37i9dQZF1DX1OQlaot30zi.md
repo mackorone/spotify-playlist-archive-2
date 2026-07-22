@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Mambolosco, Artie 5ive, PRACI con Ernia, 10k watt, con rooc lee e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,886 likes - 125 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,885 likes - 125 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 41 | [No Stop](https://open.spotify.com/track/7LIbHpdcNQO9nXVjShOISk) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [No Stop](https://open.spotify.com/album/0IewVxeS8s8c2yDpLC4jFF) | 2:10 |
 | 42 | [L'ERBA VOGLIO](https://open.spotify.com/track/67CjWq2N5eCDCCBml4dAbb) | [IDRA Rxx](https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s) | [L'ERBA VOGLIO](https://open.spotify.com/album/3xz2Ei2Nti6KzOpXbqc0IT) | 2:59 |
 | 43 | [CONTO FINO A 4](https://open.spotify.com/track/7oVBdUwzeMmsTxUYjND1GX) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [CONTO FINO A 4](https://open.spotify.com/album/1ZdECgnvHUbgJcHVdnTTcp) | 2:30 |
-| 44 | [LaGucci](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LaGucci](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
+| 44 | [LAGUCCI](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LAGUCCI](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
 | 45 | [BOBO](https://open.spotify.com/track/5gYRQlaVLI9ElFPvddbzOi) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [BOBO](https://open.spotify.com/album/1cAm9HkidKfhQaTf6wrjgS) | 2:14 |
 | 46 | [CELEBRITÀ](https://open.spotify.com/track/6nDmABDUsU59nnjhGxz6OY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CELEBRITÀ](https://open.spotify.com/album/5UfCA3NOCegT9U9D7T73MQ) | 2:09 |
 | 47 | [GANGO \(feat\. Guè\)](https://open.spotify.com/track/3fa91OibHkWkVTcVXzTlvl) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NEL BENE E NEL MALE](https://open.spotify.com/album/1DVd1L6qrrzOYwlEdjwnav) | 2:55 |

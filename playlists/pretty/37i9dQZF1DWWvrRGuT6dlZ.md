@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Bonnie Loo\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,058 likes - 42 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,056 likes - 42 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 38 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
 | 39 | [WHERE THE PATH LEADS](https://open.spotify.com/track/3Gsbb8eRYkugj46qABYLyy) | [Moghul Miz](https://open.spotify.com/artist/3KMj2TEMq700Yrr73dbhki) | [WHERE THE PATH LEADS](https://open.spotify.com/album/2MjZrQrbhXpIuBHSWsCmNu) | 2:18 |
 | 40 | [heaven!](https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [heaven!](https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7) | 2:47 |
-| 41 | [Goodbye](https://open.spotify.com/track/7dQsIjrdHbGierAuHviHbs) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [Goodbye Letter](https://open.spotify.com/album/4rYp30QwK58eBZpsBIl8WA) | 3:46 |
+| 41 | [Goodbye](https://open.spotify.com/track/7dQsIjrdHbGierAuHviHbs) | [Sarah Mae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [Goodbye Letter](https://open.spotify.com/album/4rYp30QwK58eBZpsBIl8WA) | 3:46 |
 | 42 | [You're Too Cute](https://open.spotify.com/track/13YaLLfaB4TZ19CoocUaSP) | [Iman Sammy](https://open.spotify.com/artist/2SbjzPxPhg6wwKD318HFvb) | [You're Too Cute](https://open.spotify.com/album/3bWw8aVg3OZ5WvnAQli1eh) | 2:19 |
 
 Snapshot ID: `AAAAAEstdTLYjYRF1vOKgqBRrMlSNNXh`

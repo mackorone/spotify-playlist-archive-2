@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 272880,
+  "num_followers": 272926,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAACPzqxqFilY3TPwk66wex9i",
+  "snapshot_id": "al1lAAAAAACFZPY3gur6ZFmuQ7cAh0aG",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 201967,
       "name": "Thiago Silva",
       "url": "https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ends, Never Ends",
         "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 240160,
       "name": "Disaster (feat. J Hus)",
       "url": "https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "how the f*** does everybody else manage?",
+        "url": "https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 166604,
+      "name": "the people that saved me",
+      "url": "https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 260083,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how the f*** does everybody else manage?",
-        "url": "https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 166604,
-      "name": "the people that saved me",
-      "url": "https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9"
     },
     {
       "added_at": null,

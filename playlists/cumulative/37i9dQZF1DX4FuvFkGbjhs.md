@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Kelela
+> Beyond titles, beyond genre\. Cover: Nia Archives
 
-919 songs - 2 day 5 hr 3 min
+920 songs - 2 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2024-06-27 | 2024-07-12 |
 | [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-01-17 | 2025-02-14 |
 | [HEADSPIN](https://open.spotify.com/track/6Q9IDjXL9XRy7TXY1oTjHF) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [HEADSPIN](https://open.spotify.com/album/1krFoJHctP53pAzsytTnky) | 2:52 | 2024-07-11 | 2024-11-01 |
-| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-06 |  |
+| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-06 | 2026-07-22 |
 | [Heaven](https://open.spotify.com/track/67RloP5xniak0DT4jXwxX0) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lev](https://open.spotify.com/artist/534mPnx4yc2nDRE2M8xPzn) | [Heaven](https://open.spotify.com/album/0dTP1GvdwEb3MXHks8qbYa) | 3:54 | 2024-07-11 | 2024-08-09 |
 | [Heaven Is No Feeling](https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Heaven Is No Feeling](https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT) | 3:48 | 2025-06-05 | 2025-11-08 |
 | [HEAVENS \#1](https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HEAVENS \#1](https://open.spotify.com/album/7GerVx0fR4fOHh3aITnOSm) | 2:54 | 2026-06-18 |  |
@@ -824,6 +824,7 @@
 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 | 2025-11-14 | 2026-07-10 |
 | [Thru The Walls](https://open.spotify.com/track/24eBt88xdf3lX26Xx8hIuT) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Thru The Walls](https://open.spotify.com/album/1yFpzQ5INHvowy3IvcDtM4) | 3:51 | 2024-10-24 | 2025-02-21 |
 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 | 2026-03-13 | 2026-05-29 |
+| [Tilapia](https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 9](https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p) | 2:14 | 2026-07-16 |  |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-09-06 |
 | [time & time again](https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [time & time again](https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-11-28 | 2026-03-03 |

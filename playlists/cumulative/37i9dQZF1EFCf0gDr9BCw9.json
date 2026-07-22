@@ -4695,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "Island Virgin",
+        "url": "https://open.spotify.com/album/1xmXZwjKu4XCPysM26SCtM"
+      },
+      "artists": [
+        {
+          "name": "\u6e0b\u8c37\u6bc5",
+          "url": "https://open.spotify.com/artist/4EjAZb1UiWraiOxerkySpi"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258066,
+      "name": "Virgin Jungle",
+      "url": "https://open.spotify.com/track/0ffNXGH2Yj8b6peX0HiOny"
+    },
+    {
+      "album": {
         "name": "Classics by Billy Strayhorn, Vol. 1",
         "url": "https://open.spotify.com/album/1ObPYLjXyABeJNCVVUDOaH"
       },

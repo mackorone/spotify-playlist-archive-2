@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! To\u00f1o Lizarraga \ud83d\udcf8",
-  "num_followers": 1302603,
+  "num_followers": 1302583,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Vete, Vete",
         "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Me Vas a Perder",
         "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
       },
@@ -627,42 +627,6 @@
       "duration_ms": 151168,
       "name": "Me Vas a Perder",
       "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "No Se Diga M\u00e1s",
-        "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Legado MyM",
-          "url": "https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz"
-        }
-      ],
-      "duration_ms": 198548,
-      "name": "No Se Diga M\u00e1s",
-      "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -687,6 +651,22 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
         "name": "Tequila y Guaro",
         "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 182306,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "No Se Diga M\u00e1s",
+        "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Legado MyM",
+          "url": "https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz"
+        }
+      ],
+      "duration_ms": 198548,
+      "name": "No Se Diga M\u00e1s",
+      "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "El Mandil",
-        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 171025,
-      "name": "El Mandil",
-      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Primero Ens\u00e9\u00f1ate A Querer",
         "url": "https://open.spotify.com/album/5meDxtJWeTI00FtUmwmJDi"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 165075,
       "name": "Primero Ens\u00e9\u00f1ate A Querer",
       "url": "https://open.spotify.com/track/7CPmZLF2rJUxxE85S011rf"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "El Mandil",
+        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 171025,
+      "name": "El Mandil",
+      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 176481,
       "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
       "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Lo Pasado Pisado",
-        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Lo Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Se Nos Acab\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Se Nos Acab\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182376,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Finales Tristes",
-        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 188971,
-      "name": "Finales Tristes",
-      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "Todo Que Ver",
         "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 185156,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "added_at": "2026-07-10 06:00:44",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-07-10 06:00:44",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
-      },
-      "artists": [
-        {
-          "name": "Edwin Garcia",
-          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
-        }
-      ],
-      "duration_ms": 176982,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
-    },
-    {
-      "added_at": "2026-07-10 06:00:44",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 164153,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
+    },
+    {
+      "added_at": "2026-07-10 06:00:44",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
     },
     {
       "added_at": "2026-07-10 06:00:44",

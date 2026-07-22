@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il Ghost e Paky in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,277 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,238 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 47 | [Push It \(feat\. ANNA\)](https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Push It \(feat\. ANNA\)](https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5) | 2:55 |
 | 48 | [La violenza Necessaria \(feat\. Shiva\)](https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:43 |
 | 49 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
-| 50 | [Rodrigo Risivi](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [Rodrigo Risivi](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
+| 50 | [RODRIGO RISIVI](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [RODRIGO RISIVI](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
 | 51 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
 | 52 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
 | 53 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |

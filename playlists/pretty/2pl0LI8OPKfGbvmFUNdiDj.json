@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1040,
+  "num_followers": 1046,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEKKkm8lcwVJkzolQdnNHSSuqsVs/2",
+  "snapshot_id": "AAAELa7mcsWfdktgjOOa5FPSB6FvGwEX",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1343,6 +1343,90 @@
       "duration_ms": 373772,
       "name": "Uncharted Ways",
       "url": "https://open.spotify.com/track/1AanP3btYufcT9X6E94FJI"
+    },
+    {
+      "added_at": "2026-07-21 12:24:07",
+      "album": {
+        "name": "Different Ways.",
+        "url": "https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Different Ways.",
+      "url": "https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL"
+    },
+    {
+      "added_at": "2026-07-21 21:05:19",
+      "album": {
+        "name": "SAFE PLACE",
+        "url": "https://open.spotify.com/album/4jLD8hfDGnQteQCz97xEXI"
+      },
+      "artists": [
+        {
+          "name": "Dawnluks",
+          "url": "https://open.spotify.com/artist/0mGXx78dElsOzH3LxC7aka"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "SAFE PLACE",
+      "url": "https://open.spotify.com/track/2NQTx7JMNqfz7O9Ng6pfPS"
+    },
+    {
+      "added_at": "2026-07-21 21:11:26",
+      "album": {
+        "name": "WAKING UP",
+        "url": "https://open.spotify.com/album/0fD04gI97Tk00A53mfALC5"
+      },
+      "artists": [
+        {
+          "name": "Lupo Prospero",
+          "url": "https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J"
+        }
+      ],
+      "duration_ms": 106014,
+      "name": "WAKING UP",
+      "url": "https://open.spotify.com/track/5CmnN94I3535jWKMQW9qu1"
+    },
+    {
+      "added_at": "2026-07-21 21:14:39",
+      "album": {
+        "name": "Espressione d'algebra",
+        "url": "https://open.spotify.com/album/5VdsafQTceOkatMfr6lm0G"
+      },
+      "artists": [
+        {
+          "name": "R.A.L.P.H.",
+          "url": "https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY"
+        },
+        {
+          "name": "Radice Cubica",
+          "url": "https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl"
+        }
+      ],
+      "duration_ms": 138490,
+      "name": "Espressione d'algebra",
+      "url": "https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W"
+    },
+    {
+      "added_at": "2026-07-21 21:17:55",
+      "album": {
+        "name": "Phantom Heart",
+        "url": "https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8"
+      },
+      "artists": [
+        {
+          "name": "Phantom Heart",
+          "url": "https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd"
+        }
+      ],
+      "duration_ms": 273712,
+      "name": "Baron Samedi",
+      "url": "https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

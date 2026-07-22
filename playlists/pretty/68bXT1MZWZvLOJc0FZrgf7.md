@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Tame Impala &amp; JENNIE
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 92,013 likes - 100 songs - 5 hr 25 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 91,998 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 16 | [California Dreamin'](https://open.spotify.com/track/5auOVqNBRXTfyejSXYNYkn) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [dualité](https://open.spotify.com/artist/4pnymQheapZYHjiTWBmoGi) | [California Dreamin'](https://open.spotify.com/album/4hwk20ZuHOAXFtfUk7bw8c) | 2:31 |
 | 17 | [Mesmerized \- Dirtwire Remix Edit](https://open.spotify.com/track/69oB8WPOsGTM9p36Zky6KH) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Mesmerized \(Dirtwire Remix\)](https://open.spotify.com/album/4DDz6WggBJ09NR25Q3YLd2) | 4:00 |
 | 18 | [Shatter My Heart](https://open.spotify.com/track/3Ed9po0uQOz7B4c2ZCXrhp) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L), [orsé](https://open.spotify.com/artist/7o3v2lHBF3YIJLVZqVVLii) | [Shatter My Heart](https://open.spotify.com/album/0bMiJZyvSpscKYvJQoutXH) | 2:54 |
-| 19 | [Honey \- Eli & Fur Remix](https://open.spotify.com/track/6wZX5BXVdZxw8enQXJdhNa) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Honey \(Eli & Fur Remix\)](https://open.spotify.com/album/22jgRPc8IVOu2SkMhSqddu) | 3:36 |
+| 19 | [Honey \- Eli & Fur Remix](https://open.spotify.com/track/6wZX5BXVdZxw8enQXJdhNa) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Honey \(Eli & Fur Remix\)](https://open.spotify.com/album/22jgRPc8IVOu2SkMhSqddu) | 3:36 |
 | 20 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
 | 21 | [Show It Off](https://open.spotify.com/track/3v99wqFqqedYXeKmyUCKP8) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L), [Drago](https://open.spotify.com/artist/2W86O0D3XvwXmfEEbv5SYo) | [Take The Rhythm EP](https://open.spotify.com/album/1bxS8Fu5CpJWMMUUk8TFrF) | 2:56 |
 | 22 | [lovin' on me \(kompa bailar\)](https://open.spotify.com/track/2H7KoP3ehmzd2Vk9mptSrF) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tricky Nicki](https://open.spotify.com/artist/7pBsLYrKwaLsDIezadNyQ3), [G3O](https://open.spotify.com/artist/1DzSz3orlMPP7VTFJxkGzs) | [lovin' on me \(kompa bailar\)](https://open.spotify.com/album/1l1jazGng76JSJXDQuMRkD) | 1:48 |

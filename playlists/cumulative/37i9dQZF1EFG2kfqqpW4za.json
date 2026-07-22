@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "D\u00e1-me F\u00e9",
+        "url": "https://open.spotify.com/album/2RU8HXyEIWedMswsB5UXTC"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182877,
+      "name": "D\u00e1-me F\u00e9",
+      "url": "https://open.spotify.com/track/0Ex802OMAmFleWjDl6ImbA"
+    },
+    {
+      "album": {
         "name": "Sound System Cultura de Rua",
         "url": "https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO"
       },

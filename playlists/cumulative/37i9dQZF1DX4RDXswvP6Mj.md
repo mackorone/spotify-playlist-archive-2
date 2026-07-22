@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: SUNMI \(선미\)\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: WONHO\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-933 songs - 2 day 1 hr 11 min
+935 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Bittersweet](https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [The 1st Mini Album \[AFTER CRY\]](https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF) | 3:20 | 2026-04-01 | 2026-07-09 |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-01-18 | 2022-04-09 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2021-12-21 | 2022-08-02 |
-| [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 | 2026-02-23 |  |
+| [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 | 2026-02-23 | 2026-07-22 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-13 | 2022-06-30 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-16 | 2024-05-10 |
 | [Blind](https://open.spotify.com/track/6WjOw0KjfTtLM9VYm3CFYh) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [BLIND](https://open.spotify.com/album/2HCVBzFcSE6NU7C2HIahqx) | 3:28 | 2022-03-29 | 2022-06-22 |
@@ -116,11 +116,12 @@
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-09 | 2026-04-22 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-15 | 2024-05-10 |
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-20 |  |
+| [BODY WAVE](https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [BODY WAVE](https://open.spotify.com/album/0dyTUphUR3fYciR6Br4KNs) | 2:49 | 2026-07-21 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2021-12-21 | 2022-07-05 |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-06-27 | 2022-07-08 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-21 | 2024-07-27 |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-06-02 | 2026-06-13 |
-| [BOOMPALA \(Champions Remix\)](https://open.spotify.com/track/11jeFzj2MaAaKo8YnSMFTH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [BOOMPALA \(Champions Remix\)](https://open.spotify.com/album/7EG3id1xZ0TeLEVybwzDJ0) | 2:21 | 2026-06-12 |  |
+| [BOOMPALA \(Champions Remix\)](https://open.spotify.com/track/11jeFzj2MaAaKo8YnSMFTH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [BOOMPALA \(Champions Remix\)](https://open.spotify.com/album/7EG3id1xZ0TeLEVybwzDJ0) | 2:21 | 2026-06-12 | 2026-07-22 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-09 | 2022-07-12 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 | 2025-08-07 |
 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 | 2022-03-24 | 2022-04-15 |
@@ -249,6 +250,7 @@
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-21 | 2023-05-10 |
 | [Don't hesitate](https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Don't hesitate](https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC) | 3:23 | 2022-08-23 | 2022-08-26 |
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2021-12-29 | 2022-04-19 |
+| [Don’t Wake Me Up!](https://open.spotify.com/track/3Dj4kMRfZQKqU9wNvoNhAg) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [CORE](https://open.spotify.com/album/2aellk2HBrjc38bHfqXK9V) | 2:37 | 2026-07-21 |  |
 | [Don’t Worry, Be Happy](https://open.spotify.com/track/0MmlCY9mi7pzKeOLdgKNLA) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [FANTASY](https://open.spotify.com/album/1OcEkmdnN6munsOZQmyyYE) | 3:34 | 2024-08-20 | 2024-08-31 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2022-03-02 | 2022-05-10 |
 | [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 | 2022-01-03 | 2022-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244235,
+  "num_followers": 244225,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Harvest Moon",
-        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 303213,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "This Is How Tomorrow Moves",
         "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "jazz is for ordinary people",
         "url": "https://open.spotify.com/album/5itYNW6UW1VvJO7j9dRn2S"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 164000,
       "name": "jazz is for ordinary people",
       "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Labour of Lust",
-        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
-      },
-      "artists": [
-        {
-          "name": "Nick Lowe",
-          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
-        }
-      ],
-      "duration_ms": 210131,
-      "name": "Cruel to Be Kind",
-      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Labour of Lust",
+        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+        }
+      ],
+      "duration_ms": 210131,
+      "name": "Cruel to Be Kind",
+      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 252208,
+      "name": "Marabelle",
+      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "A Mixtape by Anish Kumar",
-        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 252208,
-      "name": "Marabelle",
-      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Afrikan Alien",
-        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Capricorn Sun",
         "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Come Play the Trees",
-        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "I Want My Minutes Back",
-      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Send Return Remixes Pt. 1",
         "url": "https://open.spotify.com/album/2d10S3TzEDbCwxnTSZH1Bq"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 442506,
       "name": "Paris - Chlo\u00e9 Caillet Remix",
       "url": "https://open.spotify.com/track/4J3XYyIJYpXVKenF566F3A"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Come Play the Trees",
+        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "I Want My Minutes Back",
+      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2895,18 +2895,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "NYP2",
-        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
       "artists": [
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
         }
       ],
-      "duration_ms": 427500,
-      "name": "NYP2",
-      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+      "duration_ms": 186065,
+      "name": "The World\u2019s Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2927,18 +2927,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+        "name": "NYP2",
+        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 186065,
-      "name": "The World\u2019s Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+      "duration_ms": 427500,
+      "name": "NYP2",
+      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Back To Back (B2B)",
         "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
       },
@@ -3151,6 +3135,22 @@
       "duration_ms": 175546,
       "name": "Back To Back (B2B)",
       "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2025-06-27 23:00:28",

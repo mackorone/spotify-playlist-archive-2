@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,823 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,854 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
-| 2 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
-| 3 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
-| 4 | [Mon Bb D’Amour](https://open.spotify.com/track/0MDtYGX5JhHuwJtTR4SErR) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Mon Bb D’Amour](https://open.spotify.com/album/0bI0lMM7aloR3itRLadrQx) | 2:57 |
+| 1 | [Mon Bb D’Amour](https://open.spotify.com/track/0MDtYGX5JhHuwJtTR4SErR) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Mon Bb D’Amour](https://open.spotify.com/album/0bI0lMM7aloR3itRLadrQx) | 2:57 |
+| 2 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
+| 3 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
+| 4 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
 | 5 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
 | 6 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 7 | [Bin Lila W’Nhar](https://open.spotify.com/track/5kn5TmiE1sx4c187TM6mcp) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Bin Lila W’Nhar](https://open.spotify.com/album/5rwQ7uhWIKcRZYT8wXt7Jv) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 |
 | 50 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 
-Snapshot ID: `AAAAACamcYMCvC5eeDkDoJdlawGG8pgn`
+Snapshot ID: `AAAAAIE+s7jn9Eq/szmlVxjy3StgJfF7`

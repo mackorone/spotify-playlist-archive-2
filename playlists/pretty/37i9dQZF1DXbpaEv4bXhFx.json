@@ -611,6 +611,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 215533,
       "name": "I\u2019ll Hold You Tight",
       "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "My Ceiling Disappeared",
-      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2026-07-03 07:30:31",

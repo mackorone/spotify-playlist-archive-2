@@ -2,9 +2,9 @@
 
 ### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> Video stuck in devlopment hell \(my mind\)
+> This chart is hella sus but we gettin some changes unlike top 300 albums for real
 
-109 songs - 14 hr 41 min
+111 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 | 2025-08-06 |  |
 | [Carry the Zero](https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 5:43 | 2025-08-06 |  |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2025-08-06 |  |
-| [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2025-12-10 |  |
+| [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2025-12-10 | 2026-07-22 |
 | [Close to the Edge \(I\. The Solid Time of Change, II\. Total Mass Retain, III\. I Get up I Get Down, IV\. Seasons of Man\)](https://open.spotify.com/track/1oJ2a13bVN1RssKIWxKLe2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Close to the Edge](https://open.spotify.com/album/252LyflX4wUeISSzgL392F) | 18:38 | 2025-08-06 |  |
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2025-08-06 |  |
 | [Construção](https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 6:23 | 2025-10-01 |  |
@@ -66,6 +66,7 @@
 | [My Favorite Things](https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things](https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP) | 13:44 | 2026-05-18 | 2026-05-28 |
 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:54 | 2025-08-06 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2025-08-06 |  |
+| [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 | 2026-07-22 |  |
 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 | 2026-01-21 |  |
 | [On GP](https://open.spotify.com/track/4noXM2J8hOKnJ78J4dSTdj) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 6:07 | 2025-08-06 |  |
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2025-08-06 |  |
@@ -84,6 +85,7 @@
 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 | 2025-08-06 |  |
 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 | 2025-08-06 |  |
 | [Sleep](https://open.spotify.com/track/05JqOBN6XW4eFUVQlgR0I3) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 23:17 | 2025-08-06 |  |
+| [Song for Laurie Bird](https://open.spotify.com/track/4DHPraNj9TkCF6Uspge30B) | [Laurie Bird](https://open.spotify.com/artist/3SgYitu8D76EYJuHwouHIQ) | [Laurie Bird](https://open.spotify.com/album/5h9tWZbL4nkA5ZB5OOyqm0) | 46:09 | 2026-07-22 |  |
 | [Song for Laurie Bird](https://open.spotify.com/track/03pbGEzpw7kxp84R3DR2U1) | [Natural Snow Buildings](https://open.spotify.com/artist/6Y6w2HnL3GM49hOa74QhOO) | [Laurie Bird](https://open.spotify.com/album/1ILPGqTDLIrSadZSiCzKpE) | 46:09 | 2026-06-09 | 2026-06-27 |
 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 | 2025-08-06 | 2026-06-10 |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2025-08-06 |  |

@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi"
+      },
+      "artists": [
+        {
+          "name": "Dead Cig",
+          "url": "https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk"
+        },
+        {
+          "name": "Yukari",
+          "url": "https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235693,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A"
+    },
+    {
+      "album": {
         "name": "Endless and Free",
         "url": "https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx"
       },

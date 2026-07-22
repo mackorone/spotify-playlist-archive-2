@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,290 likes - 170 songs - 15 hr 32 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,284 likes - 170 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 152 | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/track/6HavpEsmpotEj5E5QXAcn6) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/album/2WcqnKorQo9unYA7KBVao7) | 10:42 |
 | 153 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 |
 | 154 | [A Million Chances](https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [A Million Chances](https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn) | 3:21 |
-| 155 | [Lord, I give You my heart \- from the studio](https://open.spotify.com/track/13g3YzqljC9Q0Eo20GozcY) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Commons Worship](https://open.spotify.com/artist/1EUPdN4q9MHCGTi7m9d0ax) | [Lord, I give You my heart \(from the studio\)](https://open.spotify.com/album/0L4fhnfyYnaKfvElyUqxHe) | 4:08 |
+| 155 | [Lord, I give You my heart \- from the studio](https://open.spotify.com/track/13g3YzqljC9Q0Eo20GozcY) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Commons Worship](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [Lord, I give You my heart \(from the studio\)](https://open.spotify.com/album/0L4fhnfyYnaKfvElyUqxHe) | 4:08 |
 | 156 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 |
 | 157 | [Nothing](https://open.spotify.com/track/1I3pR0lbHQBGpG8eplkEHG) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Nothing](https://open.spotify.com/album/4zU1cjr6vHoXgUGhxfdfir) | 3:20 |
 | 158 | [Look At What The Blood Has Done \- Live](https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Look At What The Blood Has Done \(Live\)](https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U) | 5:50 |

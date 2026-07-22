@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: SUNMI (\uc120\ubbf8)) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: WONHO) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 194171,
       "name": "BLACKHOLE",
       "url": "https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m"
@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "BODY WAVE",
+        "url": "https://open.spotify.com/album/0dyTUphUR3fYciR6Br4KNs"
+      },
+      "artists": [
+        {
+          "name": "BBGIRLS",
+          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "BODY WAVE",
+      "url": "https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck"
+    },
+    {
+      "album": {
         "name": "A Page",
         "url": "https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 141974,
       "name": "BOOMPALA (Champions Remix)",
       "url": "https://open.spotify.com/track/11jeFzj2MaAaKo8YnSMFTH"
@@ -4520,6 +4538,24 @@
       "duration_ms": 223226,
       "name": "DON'T TOUCH ME",
       "url": "https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC"
+    },
+    {
+      "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/2aellk2HBrjc38bHfqXK9V"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Don\u2019t Wake Me Up!",
+      "url": "https://open.spotify.com/track/3Dj4kMRfZQKqU9wNvoNhAg"
     },
     {
       "album": {

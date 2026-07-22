@@ -3467,6 +3467,32 @@
     },
     {
       "album": {
+        "name": "Intha Istamaa (From \"Comrade Kalyan\")",
+        "url": "https://open.spotify.com/album/41RTn6NDWA2EF21A4oedMd"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304761,
+      "name": "Intha Istamaa (From \"Comrade Kalyan\")",
+      "url": "https://open.spotify.com/track/1UQcAl3T5zNd4aP2KRzCh4"
+    },
+    {
+      "album": {
         "name": "Godari Gattupaina",
         "url": "https://open.spotify.com/album/7voPEQETMVslo8Xe37BfVL"
       },
@@ -5099,6 +5125,36 @@
     },
     {
       "album": {
+        "name": "Manasaagadhe (From \"Toxic - Telugu\")",
+        "url": "https://open.spotify.com/album/0sQAKg2bPKcuf3TCWmSyfs"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245541,
+      "name": "Manasaagadhe - From \"Toxic - Telugu\"",
+      "url": "https://open.spotify.com/track/5bP69IDZDEWdQkjMQXsQgw"
+    },
+    {
+      "album": {
         "name": "Pattudala (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6c5k65a6GGJCrsZvGox4jb"
       },
@@ -5752,7 +5808,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 153600,
       "name": "Na Nacchina Pillave (From \"Youth - Telugu\")",
       "url": "https://open.spotify.com/track/0ocaVtuRiLnRnPaZ92RNvQ"
@@ -6824,7 +6880,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 226640,
       "name": "Nenela Undaalila",
       "url": "https://open.spotify.com/track/1Q2viLb7fUrfXBFkEPEasg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,123 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,126 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 38 | [I natt](https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I natt](https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj) | 2:30 |
 | 39 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 40 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
-| 41 | [Flesk og Duppe](https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Flesk og Duppe](https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y) | 3:26 |
-| 42 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
+| 41 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
+| 42 | [Flesk og Duppe](https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Flesk og Duppe](https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y) | 3:26 |
 | 43 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
 | 44 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
 | 45 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 66 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 |
 | 67 | [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 |
 | 68 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
-| 69 | [Her og no](https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Her og no](https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB) | 3:26 |
-| 70 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
+| 69 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
+| 70 | [Her og no](https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Her og no](https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB) | 3:26 |
 
 Snapshot ID: `AAAAADeJvL9F1Kf9/Eez2Vzyg+G19eKo`

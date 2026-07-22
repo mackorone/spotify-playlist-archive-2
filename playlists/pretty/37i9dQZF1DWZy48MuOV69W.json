@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 111946,
+  "num_followers": 111941,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -423,18 +423,22 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
+        },
+        {
+          "name": "Alanna Vicente",
+          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
         }
       ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+      "duration_ms": 155641,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -455,22 +459,18 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Merry Christmas Darling",
-        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
       "artists": [
         {
-          "name": "James Lanman",
-          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
-        },
-        {
-          "name": "Alanna Vicente",
-          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 155641,
-      "name": "Merry Christmas Darling",
-      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Sleighride",
-      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177160,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Sleighride",
+      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
     },
     {
       "added_at": "2025-12-15 09:00:30",

@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 94 | [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 |
 | 95 | [Memories](https://open.spotify.com/track/6mx1wwYMsr9H7BEFZ3Cu49) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Memories](https://open.spotify.com/album/1iEc4h8qjfHVfY1lqLtRaH) | 2:02 |
 | 96 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 |
-| 97 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
-| 98 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
+| 97 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
+| 98 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
 | 99 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
 | 100 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
 | 101 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcXZCgAAAADcvaAp7AXp582bg3xQmcl1`
+Snapshot ID: `AcXe0gAAAACjO3DVPJLyUAzsTTXL3JUx`

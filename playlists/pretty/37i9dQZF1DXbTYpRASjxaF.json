@@ -1,6 +1,6 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino\n",
-  "num_followers": 135918,
+  "num_followers": 135930,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,34 @@
     {
       "added_at": "2026-07-17 13:34:33",
       "album": {
+        "name": "Giro de Gang",
+        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
+      },
+      "artists": [
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC RBL",
+          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "DJ PADILHA",
+          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
+        }
+      ],
+      "duration_ms": 164217,
+      "name": "Giro de Gang",
+      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
+    },
+    {
+      "added_at": "2026-07-17 13:34:33",
+      "album": {
         "name": "Briga, Separa e Volta",
         "url": "https://open.spotify.com/album/33wIcwUUN0RrQbMJTixPm2"
       },
@@ -899,58 +927,6 @@
     {
       "added_at": "2026-07-17 13:34:33",
       "album": {
-        "name": "Giro de Gang",
-        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
-      },
-      "artists": [
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC RBL",
-          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "DJ PADILHA",
-          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
-        }
-      ],
-      "duration_ms": 164217,
-      "name": "Giro de Gang",
-      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
-    },
-    {
-      "added_at": "2026-07-17 13:34:33",
-      "album": {
-        "name": "Mentiras pro KayG",
-        "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Mentiras pro kayg",
-      "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
-    },
-    {
-      "added_at": "2026-07-17 13:34:33",
-      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 131368,
       "name": "Advinha o CEP",
       "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
+    },
+    {
+      "added_at": "2026-07-17 13:34:33",
+      "album": {
+        "name": "Mentiras pro KayG",
+        "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Mentiras pro kayg",
+      "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
     },
     {
       "added_at": "2026-07-17 13:34:33",

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bia Soull",
-  "num_followers": 249131,
+  "num_followers": 249129,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-07-17 03:00:12",
       "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-07-17 03:00:12",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
@@ -943,18 +959,22 @@
     {
       "added_at": "2026-07-17 03:00:12",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+        "name": "romance",
+        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
       },
       "artists": [
         {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+      "duration_ms": 220689,
+      "name": "romance",
+      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
     },
     {
       "added_at": "2026-07-17 03:00:12",
@@ -1015,26 +1035,6 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
-    },
-    {
-      "added_at": "2026-07-17 03:00:12",
-      "album": {
-        "name": "romance",
-        "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
-      },
-      "artists": [
-        {
-          "name": "renanrenan",
-          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
-        },
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "romance",
-      "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
     },
     {
       "added_at": "2026-07-17 03:00:12",

@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Arame Farpado",
+        "url": "https://open.spotify.com/album/0xrivo48vVCYtbyvoor7WT"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Arame Farpado",
+      "url": "https://open.spotify.com/track/1nPAnnIsvOWmPEBY5OECXd"
+    },
+    {
+      "album": {
         "name": "Assume",
         "url": "https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR"
       },

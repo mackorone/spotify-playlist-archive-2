@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rick Ross, Lil Baby, Larry June and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,230 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,294 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [Better Decisions](https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 2:35 |
 | 4 | [I Can't Tell](https://open.spotify.com/track/0XzVzy15rJ0CbXXhNN3i5k) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [I Can't Tell](https://open.spotify.com/album/200txfwE7GBNmYyvTfn34W) | 3:04 |
 | 5 | [Benz or Mazda](https://open.spotify.com/track/5bh26aWpTNp2GY8JdRTWKz) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Benz or Mazda](https://open.spotify.com/album/5BlTfuG9yGm6op5ShDXWqY) | 2:16 |
-| 6 | [First Day Out](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise](https://open.spotify.com/artist/13dylTS1533xEY3bxSUg31) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
+| 6 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 7 | [Bag Rite](https://open.spotify.com/track/1Y3HZHOHhZwoiz9yQKgIwo) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Bag Rite](https://open.spotify.com/album/6OfAitDuA1ulezpqXVTOht) | 2:22 |
 | 8 | [SATELLITE HIGH](https://open.spotify.com/track/4yB1UflFgktqx3BsDmcvwL) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [SATELLITE HIGH](https://open.spotify.com/album/5sDs8MwD2pt5E2Giqiyerw) | 2:12 |
 | 9 | [Sittin' Duck](https://open.spotify.com/track/7qytrpCfrAbHIaEmG7G4Go) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Sittin' Duck](https://open.spotify.com/album/40VYbEIfJVuXYOj1F3FdgE) | 1:39 |

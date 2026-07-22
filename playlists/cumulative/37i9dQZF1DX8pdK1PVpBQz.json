@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: tickertape",
+  "description": "The best new music by independent artists and labels. Cover: Hayku Kyah",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -8980,7 +8980,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -16270,7 +16270,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 149647,
       "name": "cruel October",
       "url": "https://open.spotify.com/track/15ukfWJtfxmjZvCsL4ATzo"
@@ -19154,6 +19154,24 @@
       "duration_ms": 231233,
       "name": "Dithering",
       "url": "https://open.spotify.com/track/0AOiguFhmZuYQKW8G62fQy"
+    },
+    {
+      "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/7idlNWJeVNUYIxHdooY9gd"
+      },
+      "artists": [
+        {
+          "name": "Nat Luna",
+          "url": "https://open.spotify.com/artist/3T2tCEmOkdYPSlBUaXkK92"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159117,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/2jIR6G90i2MIRQyX4CJ7o2"
     },
     {
       "album": {
@@ -22318,7 +22336,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 202751,
       "name": "Empty Street",
       "url": "https://open.spotify.com/track/2ObYBTcA3g0D98eVFI8fSO"
@@ -29690,7 +29708,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 284146,
       "name": "Going Out",
       "url": "https://open.spotify.com/track/1N4z5lvwP0UPbOAAe6kuWk"
@@ -32035,6 +32053,24 @@
     },
     {
       "album": {
+        "name": "he77",
+        "url": "https://open.spotify.com/album/0KmXWiBdSEwD8pQBe2rxPn"
+      },
+      "artists": [
+        {
+          "name": "Hayku Kyah",
+          "url": "https://open.spotify.com/artist/70b7TMBCkhzP7KgM1qc3Q8"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183878,
+      "name": "he77",
+      "url": "https://open.spotify.com/track/3uN1nkfbLrFcuzKmB1u7bC"
+    },
+    {
+      "album": {
         "name": "Unrest / Headlight Gold",
         "url": "https://open.spotify.com/album/7jHhC7ws3b9UGzbAN4BbaG"
       },
@@ -32100,7 +32136,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 203057,
       "name": "HeadNoise",
       "url": "https://open.spotify.com/track/6P05pv1KAVbQEZjp4kF3Jo"
@@ -34202,7 +34238,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 251070,
       "name": "honeycomb",
       "url": "https://open.spotify.com/track/2FB6kEGsH0aUrsWOCB7yDb"
@@ -35816,6 +35852,24 @@
       "duration_ms": 264347,
       "name": "I Love You Babe",
       "url": "https://open.spotify.com/track/7biAoWdaVpTaKbkOOdf8lC"
+    },
+    {
+      "album": {
+        "name": "I Love You Too Eagerly",
+        "url": "https://open.spotify.com/album/1gW8O1VF0grdWfJZjJ3maR"
+      },
+      "artists": [
+        {
+          "name": "Stella Dunai",
+          "url": "https://open.spotify.com/artist/03UFzahBbYcVlyOu47RQzi"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232338,
+      "name": "I Love You Too Eagerly",
+      "url": "https://open.spotify.com/track/6OyJ57G2Eytka4gfkNmdSn"
     },
     {
       "album": {
@@ -43346,7 +43400,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 206000,
       "name": "Lighthouse Song",
       "url": "https://open.spotify.com/track/3cUTiti93KSc074ONcvHEG"
@@ -49550,7 +49604,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 178153,
       "name": "Mr. Ego",
       "url": "https://open.spotify.com/track/3wr9aUK7tOP4jtbWMPv2s2"
@@ -53102,6 +53156,28 @@
       "duration_ms": 175918,
       "name": "Nothing To Do With You",
       "url": "https://open.spotify.com/track/4vbYCHEr9X2EmRYDSKbstU"
+    },
+    {
+      "album": {
+        "name": "nothing to you (ft. cass)",
+        "url": "https://open.spotify.com/album/5r1SvJl1BMzysrDilKu3Pa"
+      },
+      "artists": [
+        {
+          "name": "maira",
+          "url": "https://open.spotify.com/artist/6PhK60hmcSuYw8iiGlMGSn"
+        },
+        {
+          "name": "cass",
+          "url": "https://open.spotify.com/artist/5Ko5uZ8ZWygQXW7kTgFXB1"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299200,
+      "name": "nothing to you (ft. cass)",
+      "url": "https://open.spotify.com/track/35qOOhEq1jqt8b2RAuqsj9"
     },
     {
       "album": {
@@ -59117,6 +59193,28 @@
     },
     {
       "album": {
+        "name": "Price Of The House",
+        "url": "https://open.spotify.com/album/4Lk1rg460eE9D4MIAZjJTR"
+      },
+      "artists": [
+        {
+          "name": "Olana",
+          "url": "https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy"
+        },
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212975,
+      "name": "Price Of The House",
+      "url": "https://open.spotify.com/track/4P3AkfXRtTR9xpjjjoKku8"
+    },
+    {
+      "album": {
         "name": "PRICE UP!",
         "url": "https://open.spotify.com/album/60KGBRRNCYDbhVLM3IsPJs"
       },
@@ -61215,6 +61313,24 @@
     },
     {
       "album": {
+        "name": "RATKING",
+        "url": "https://open.spotify.com/album/4ILXRxlxJT00tNefcYzFcZ"
+      },
+      "artists": [
+        {
+          "name": "Ratking",
+          "url": "https://open.spotify.com/artist/033SbxhTUZBwoxtUDxJ9Vl"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100853,
+      "name": "Rent/Revolt",
+      "url": "https://open.spotify.com/track/1HcDy92WnsINdm06arQ0xl"
+    },
+    {
+      "album": {
         "name": "Rep the West",
         "url": "https://open.spotify.com/album/694xWysxyZePmBrKC038hF"
       },
@@ -61630,7 +61746,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 154500,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/19R9rUSNOsL7EPM6IOloK3"
@@ -71831,6 +71947,24 @@
     },
     {
       "album": {
+        "name": "Sword",
+        "url": "https://open.spotify.com/album/60nQ5fU7alFF9KrgymLwmM"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199859,
+      "name": "Sword",
+      "url": "https://open.spotify.com/track/2a7zylxn8AhPOcBjAZs6mY"
+    },
+    {
+      "album": {
         "name": "Sxc When I'm Crying",
         "url": "https://open.spotify.com/album/0Q36Mq4QCvDJgFxgRejNPz"
       },
@@ -80263,6 +80397,24 @@
     },
     {
       "album": {
+        "name": "wanting with an open wound",
+        "url": "https://open.spotify.com/album/135sp8KTpmXlotJmAAAS4i"
+      },
+      "artists": [
+        {
+          "name": "Porcelain Boy",
+          "url": "https://open.spotify.com/artist/6iQ4UCzbPgv9fb3zrG6GiX"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "wanting with an open wound",
+      "url": "https://open.spotify.com/track/36l0nfefy4GRRCV1XJyCOU"
+    },
+    {
+      "album": {
         "name": "Smoke & Mirrors",
         "url": "https://open.spotify.com/album/057aZhHQhivi8qHTJ8kanY"
       },
@@ -84776,6 +84928,24 @@
       "duration_ms": 218486,
       "name": "You Said No",
       "url": "https://open.spotify.com/track/4EH5cVoKLqeTAzbZpotXOL"
+    },
+    {
+      "album": {
+        "name": "You See Me",
+        "url": "https://open.spotify.com/album/2DBxxZiqoFNZ8atjS9VS74"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/60CUDBelKW8Rr72PU4PIk3"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "You See Me",
+      "url": "https://open.spotify.com/track/72dqzWRgFMXYPGnzyKerCx"
     },
     {
       "album": {

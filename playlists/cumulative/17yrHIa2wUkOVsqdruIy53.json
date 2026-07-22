@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 28.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 29.2026 / German Streaming-Charts",
   "tracks": [
+    {
+      "album": {
+        "name": "$$$",
+        "url": "https://open.spotify.com/album/6tEFA8qGTI2o3SkIKzn9YX"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "JR.",
+          "url": "https://open.spotify.com/artist/2y3sB31NuEkpgtL8AO6xpU"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134637,
+      "name": "$$$",
+      "url": "https://open.spotify.com/track/6wh8piaD6QJ4EBoHiWP9AK"
+    },
     {
       "album": {
         "name": "(When You Gonna) Give It Up to Me",
@@ -488,7 +510,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -836,7 +858,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 261266,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
@@ -2899,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Body Talk (pt. 1)",
+        "url": "https://open.spotify.com/album/1RY0I5fe7l6cg46x03Dap6"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288670,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3KiCzO6XdIWcAtUZnjLIoX"
+    },
+    {
+      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
       },
@@ -3132,7 +3172,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 282062,
       "name": "Dirty Diana",
       "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
@@ -4223,6 +4263,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -4693,6 +4755,28 @@
     },
     {
       "album": {
+        "name": "gimme luv <3",
+        "url": "https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180383,
+      "name": "gimme luv <3",
+      "url": "https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z"
+    },
+    {
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -4906,6 +4990,24 @@
       "duration_ms": 206760,
       "name": "Golden Brown",
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "album": {
+        "name": "Goldrichtig",
+        "url": "https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Goldrichtig",
+      "url": "https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG"
     },
     {
       "album": {
@@ -7484,7 +7586,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 137268,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2jPMmsIebx3b6FHLpK0f7x"
@@ -7826,6 +7928,24 @@
     {
       "album": {
         "name": "Messy",
+        "url": "https://open.spotify.com/album/4bCcQKDKI3gHZNqA1ZIBnh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl"
+    },
+    {
+      "album": {
+        "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
@@ -8058,7 +8178,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 166906,
       "name": "Mitten in der Nacht",
       "url": "https://open.spotify.com/track/4MxKZPqKG1YIKkloGt82Pv"
@@ -8208,7 +8328,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -9077,6 +9197,32 @@
     },
     {
       "album": {
+        "name": "Papi hat viel Geld",
+        "url": "https://open.spotify.com/album/4st2vuIo1Ukg6LJWht0zq8"
+      },
+      "artists": [
+        {
+          "name": "AlphaBeat",
+          "url": "https://open.spotify.com/artist/04o0rPPYzJOXWvOb2Z41Y9"
+        },
+        {
+          "name": "Blondee",
+          "url": "https://open.spotify.com/artist/6ymkSFIoNAvBkgokkzbUtC"
+        },
+        {
+          "name": "Bade154",
+          "url": "https://open.spotify.com/artist/1bIWj8oPgbgVULKwSrAa7Z"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175475,
+      "name": "Papi hat viel Geld",
+      "url": "https://open.spotify.com/track/67zWryVSV97U0lfKDr4PIB"
+    },
+    {
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/60LVewOQwluam8vtf7vg6n"
       },
@@ -9220,7 +9366,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 141167,
       "name": "Pharma",
       "url": "https://open.spotify.com/track/1b6BwtMjjBASZQt4KVN7bW"
@@ -9412,7 +9558,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 205229,
       "name": "Prada Sport",
       "url": "https://open.spotify.com/track/4l3hXUZ5g2EB0R1SEPcsue"
@@ -10952,7 +11098,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 155516,
       "name": "Spring",
       "url": "https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL"
@@ -11294,7 +11440,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -12092,7 +12238,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 121394,
       "name": "THUG LIFE",
       "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
@@ -12242,6 +12388,28 @@
       "duration_ms": 169004,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
+    },
+    {
+      "album": {
+        "name": "Toni M",
+        "url": "https://open.spotify.com/album/6p9kFnj8gEjQUJdaxNTT21"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121132,
+      "name": "Toni M",
+      "url": "https://open.spotify.com/track/6lkHpm4FOaZSE9Hd11Dy3a"
     },
     {
       "album": {
@@ -13032,7 +13200,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 190363,
       "name": "Was bisher geschah",
       "url": "https://open.spotify.com/track/1knnteL28u8VGh6vkMCzEx"
@@ -13794,7 +13962,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 237857,
       "name": "Wolke 4",
       "url": "https://open.spotify.com/track/5RfxjgQMne0dRNiORcLtMg"

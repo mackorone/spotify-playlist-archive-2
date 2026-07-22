@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 | 2026-04-27 |  |
+| [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 | 2026-04-27 | 2026-07-22 |
 | [Adventures Close to Home](https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:53 | 2026-03-07 |  |
 | [And Then It's OK](https://open.spotify.com/track/35aBZUn6gHTfa2NFaYf2Nd) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:10 | 2026-03-08 |  |
 | [Animal Rhapsody](https://open.spotify.com/track/4PuQC1KUxsIGf6bTnM0Td1) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:29 | 2026-05-13 | 2026-06-23 |
@@ -50,6 +50,6 @@
 | [Truth is Hard](https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 2:57 | 2026-03-07 | 2026-06-16 |
 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 | 2026-03-07 |  |
 | [You Ask Why](https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-06-25 | 2026-07-10 |
-| [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 | 2026-07-07 |
+| [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 |  |
 
 \*This playlist was first scraped on 2026-03-07. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-444 songs - 1 day 2 hr 11 min
+445 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Redneck Love Song](https://open.spotify.com/track/4Fq3qtut7HdtxUVnsAEPDd) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R) | 3:09 | 2024-07-12 |  |
 | [Redneck Love Song](https://open.spotify.com/track/6mcuK40HmzARZP56q9HE40) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:09 | 2024-02-27 | 2024-07-13 |
 | [Relapse](https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8) | [1205](https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug) | [Relapse](https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8) | 2:49 | 2024-03-25 | 2025-07-11 |
+| [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 | 2026-07-21 |  |
 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 | 2024-02-27 |  |
 | [Renegade Runaway](https://open.spotify.com/track/0Lf5evFei2z92kAxQzapy7) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:39 | 2024-02-27 |  |
 | [Revolving Door](https://open.spotify.com/track/6KghbEFkDCgs4UfVHEiHIb) | [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB) | [For The Few And Far Between](https://open.spotify.com/album/0GKRb1RRCEVIYfg87WShL7) | 3:37 | 2024-02-27 |  |

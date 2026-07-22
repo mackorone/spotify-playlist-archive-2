@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88987,
+  "num_followers": 88990,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9"
     },
     {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193838,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
+    },
+    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "special",
@@ -315,22 +331,6 @@
       "duration_ms": 161066,
       "name": "THRIFTED",
       "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u671d\u9854",
-        "url": "https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e"
-      },
-      "artists": [
-        {
-          "name": "Yuta Orisaka",
-          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
-        }
-      ],
-      "duration_ms": 336736,
-      "name": "\u671d\u9854",
-      "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
-    },
-    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "Note of Mothership",
@@ -591,6 +575,22 @@
       "duration_ms": 178995,
       "name": "Note of Mothership",
       "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u671d\u9854",
+        "url": "https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "duration_ms": 336736,
+      "name": "\u671d\u9854",
+      "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
-      "added_at": "2026-05-14 15:00:30",
-      "album": {
-        "name": "6 Years",
-        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "6 Years",
-      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "dandelions",
@@ -779,6 +763,22 @@
       "duration_ms": 192142,
       "name": "dandelions",
       "url": "https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF"
+    },
+    {
+      "added_at": "2026-05-14 15:00:30",
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
-    },
-    {
       "added_at": "2026-03-26 11:46:20",
       "album": {
         "name": "a plumber",
@@ -859,6 +843,22 @@
       "duration_ms": 209774,
       "name": "a plumber",
       "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-      "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u7a7a\u306f\u307e\u308b\u3067",
         "url": "https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 195586,
       "name": "\u5149\u671d",
       "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+      "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Call It A Day",
-        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Call It A Day",
-      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Museum of My Mess",
         "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 269048,
       "name": "Museum of My Mess",
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Call It A Day",
+        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Call It A Day",
+      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1065,20 +1065,20 @@
       "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-07-16 15:00:53",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
       },
       "artists": [
         {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1095,6 +1095,22 @@
       "duration_ms": 209899,
       "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1127,22 +1143,6 @@
       "duration_ms": 181000,
       "name": "covent garden",
       "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
-    },
-    {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "NEW ERA",
         "url": "https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 279000,
       "name": "NEW ERA",
       "url": "https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-05-07 16:20:46",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "TOO MUCH TOO SOON",
-        "url": "https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW"
-      },
-      "artists": [
-        {
-          "name": "Flare",
-          "url": "https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ"
-        }
-      ],
-      "duration_ms": 226967,
-      "name": "TOO MUCH TOO SOON",
-      "url": "https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 238249,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "TOO MUCH TOO SOON",
+        "url": "https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW"
+      },
+      "artists": [
+        {
+          "name": "Flare",
+          "url": "https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ"
+        }
+      ],
+      "duration_ms": 226967,
+      "name": "TOO MUCH TOO SOON",
+      "url": "https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq"
     },
     {
       "added_at": "2026-02-19 15:16:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlk2iVyHXL8.md) - [plain]
 
 > Listen to the soundtracks of I AM A RUNNING MATE\. \(러닝메이트의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,707 likes - 67 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,710 likes - 67 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlk2iVyHXL8.md) - [plain]
 | 29 | [Rewrite The Stars](https://open.spotify.com/track/7FlHNJT4TC120CDvFOHzei) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Greatest Showman: Reimagined \(Deluxe\)](https://open.spotify.com/album/1oqnHxrKI3Gq8MKgAGDtMr) | 3:38 |
 | 30 | [Dangerously](https://open.spotify.com/track/3qonjOrhFCfTnaaMruHzxW) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:19 |
 | 31 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
-| 32 | [Still Fighting It](https://open.spotify.com/track/6gdBTovjZNM6bBjsVqlXJi) | [Lee Chan Sol](https://open.spotify.com/artist/7E09MibBCbxOQjZDdCx6q8) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/3AdMoZJidVaB34cEMM3Bj5) | 5:19 |
+| 32 | [Still Fighting It](https://open.spotify.com/track/6gdBTovjZNM6bBjsVqlXJi) | [이찬솔](https://open.spotify.com/artist/5UrM0vKCy0zn3KJFWj7Q6C) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/3AdMoZJidVaB34cEMM3Bj5) | 5:19 |
 | 33 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
 | 34 | [VVS \(Feat\. JUSTHIS\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/2Zr0bYRHwWXi7eM2wuE6Aj) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/70FWnBesejYnRifMGqbdxu) | 5:35 |
 | 35 | [Message from Hong Hwa Yeon](https://open.spotify.com/track/0N0zSn1Mseuh1i3dqodzTS) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [I AM A RUNNING MATE Audio Liners](https://open.spotify.com/album/7vBXIeeMKTRa8n17n4BtzS) | 0:26 |

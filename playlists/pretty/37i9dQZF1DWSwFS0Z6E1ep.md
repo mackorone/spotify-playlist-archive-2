@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,794 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,820 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,11 +114,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 104 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
 | 105 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
 | 106 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
-| 107 | [What'd I Say](https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles & Friends](https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv) | 6:26 |
-| 108 | [Move It \- 2002 Remaster](https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [75 at 75](https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG) | 2:21 |
-| 109 | [Roll Over Beethoven](https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:24 |
-| 110 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |
-| 111 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 |
+| 107 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 |
+| 108 | [What'd I Say](https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles & Friends](https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv) | 6:26 |
+| 109 | [Move It \- 2002 Remaster](https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [75 at 75](https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG) | 2:21 |
+| 110 | [Roll Over Beethoven](https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:24 |
+| 111 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |
 | 112 | [Summertime Blues](https://open.spotify.com/track/1ZWIQXfAquWtLDK5aOUczS) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe) | 1:59 |
 | 113 | [Lucille](https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard \(Remastered\)](https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0) | 2:22 |
 | 114 | [Papa Loves Mambo](https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Grammy's Songs \(Original Songs Remastered\)](https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3) | 2:41 |

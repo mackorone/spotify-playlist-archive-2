@@ -292,10 +292,28 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 309837,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/49mqv6YBQ0clzBmD8r2frU"
+    },
+    {
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629333,
+      "name": "Dreams - Live",
+      "url": "https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF"
     },
     {
       "album": {
@@ -476,6 +494,28 @@
       "duration_ms": 221000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7uRbggy8jHGQssfTwoE0mC"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        },
+        {
+          "name": "Peter Collins",
+          "url": "https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255141,
+      "name": "I Don't Feel No Ways Tired",
+      "url": "https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm"
     },
     {
       "album": {

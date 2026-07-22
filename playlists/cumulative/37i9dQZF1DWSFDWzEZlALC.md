@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Apsilon, Berq
 
-1,883 songs - 3 day 16 hr 43 min
+1,884 songs - 3 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [Kein Stern](https://open.spotify.com/track/617OQB1qwAXCK8G25Yejop) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Kein Stern](https://open.spotify.com/album/5JkMx2Z48GjrjQkkaXK3xC) | 3:38 | 2023-02-02 | 2023-03-03 |
 | [kein ticket](https://open.spotify.com/track/14kynQzPMPaHiUeBFeOda4) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [kein ticket](https://open.spotify.com/album/55IYsLMmytCHMOOemTpYpx) | 2:04 | 2025-02-20 | 2025-04-25 |
 | [Keine Ahnung](https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Keine Ahnung](https://open.spotify.com/album/6JjNfhRXOgqbeIByk4TU22) | 2:16 | 2024-04-04 | 2024-05-24 |
+| [Keine Angst](https://open.spotify.com/track/3JZQu2KQwQ0mwtzZEaKB0W) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Keine Angst](https://open.spotify.com/album/15d6XT5XuVWkYrFrFaGgfv) | 7:07 | 2026-07-21 |  |
 | [Keine Freunde](https://open.spotify.com/track/2ksbDxdi1P6gTL4kfX8uiN) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX) | [Keine Freunde](https://open.spotify.com/album/1kvJUXYWqm5FT3o1tRVsP6) | 3:09 | 2023-09-21 | 2023-10-13 |
 | [Keine Liebe](https://open.spotify.com/track/5QZlHttgfmdc6nQjmozDzU) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Keine Liebe](https://open.spotify.com/album/4zhaqkO4K3T3oSM0oSwIjB) | 3:03 | 2023-05-18 | 2023-09-01 |
 | [keine Panik](https://open.spotify.com/track/2VmYYyXquNb7kWb6xqSARw) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [keine Panik EP](https://open.spotify.com/album/4KjEU82iAamT0BqNRrVaPT) | 2:41 | 2025-04-17 | 2025-05-09 |

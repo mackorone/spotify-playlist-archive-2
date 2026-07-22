@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 3 min
+62 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Cool Guy](https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Cool Guy](https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY) | 2:09 | 2026-06-20 |  |
 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 | 2022-11-17 |  |
 | [Crazy](https://open.spotify.com/track/1uRdil0iAVexdNLcBBjZJQ) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crazy](https://open.spotify.com/album/0Qp6B1ZS2LbMNKdjLgYWMC) | 1:31 | 2023-03-11 | 2023-03-15 |
-| [Crystallize](https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crystallize](https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3) | 2:18 | 2026-05-23 |  |
+| [Crystallize](https://open.spotify.com/track/1Wgu4bQ0pro77TMBxhg2Ev) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:18 | 2026-07-22 |  |
+| [Crystallize](https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crystallize](https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3) | 2:18 | 2026-05-23 | 2026-07-22 |
 | [Days You Run To](https://open.spotify.com/track/48kKZ8JS4btrlsaZbdMOS4) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 5:36 | 2026-07-19 | 2026-07-21 |
 | [Delusional](https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 3:57 | 2024-10-24 |  |
 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 | 2022-11-17 |  |
@@ -33,7 +34,7 @@
 | [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 | 2024-11-06 |  |
 | [Freezing Process](https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:19 | 2022-11-17 |  |
 | [Get To It](https://open.spotify.com/track/46YHl5eDF9Ofn5sdiwbf0M) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Get To It](https://open.spotify.com/album/501oPIRjZkYmnCqGrAp9aj) | 2:44 | 2026-04-25 | 2026-07-21 |
-| [Get To It](https://open.spotify.com/track/5CiFCaMcwZD53pTxMgJRrF) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 | 2026-07-21 |  |
+| [Get To It](https://open.spotify.com/track/5CiFCaMcwZD53pTxMgJRrF) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 | 2026-07-21 | 2026-07-22 |
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-11-17 | 2026-04-29 |
 | [Head To Wall](https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:07 | 2022-11-17 |  |
 | [Holy Dub \(Hallowed Be Thy Name\)](https://open.spotify.com/track/5WMjstig44rt0AbrlhLeMH) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Holy Dub \(Hallowed Be Thy Name\)](https://open.spotify.com/album/2fQxNB6cAEwzIrpvbkOlwW) | 3:43 | 2022-12-03 | 2023-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,252 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,268 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 84 | [Hit And Run](https://open.spotify.com/track/5Hoe35sDiPC7XyY1ocZI91) | [Rose Batiste](https://open.spotify.com/artist/5LP4nRFZbdswDSBbCYP4gH) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:11 |
 | 85 | [What Shall I Do](https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH) | [Frankie & The Classicals](https://open.spotify.com/artist/4UWGfxt79IQdviWgqwTWV6) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:01 |
 | 86 | [Just Say You're Wanted And Needed](https://open.spotify.com/track/6lYPe6tQFzIZ3P5TeOpiet) | [Gwen Owens](https://open.spotify.com/artist/4fUOCXYxfIUnhJ82T3Iw4N) | [The Stars Of Northern Soul Volume 3](https://open.spotify.com/album/3RkPb0R6HpKjIPuMm8tVuk) | 2:54 |
-| 87 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
-| 88 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 87 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 88 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
 | 89 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
 | 90 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
 | 91 | [Love Runs Out](https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:39 |

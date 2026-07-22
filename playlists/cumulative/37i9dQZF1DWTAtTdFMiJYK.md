@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
 
-444 songs - 1 day 0 hr 50 min
+445 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-10 | 2025-11-12 |
 | [Isharey](https://open.spotify.com/track/7CLYyEz0QhDevkWyJ33MhW) | [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Shubham J](https://open.spotify.com/artist/6jlSVPIRWryMStqD58e63r) | [Isharey](https://open.spotify.com/album/2xvDzxgUsM6IPnAfR9G16I) | 2:32 | 2026-06-17 |  |
 | [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 | 2022-11-10 |
-| [Ishq X Ranjha](https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo) | [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Ishq X Ranjha](https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6) | 2:31 | 2026-02-10 |  |
+| [Ishq X Ranjha](https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo) | [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Ishq X Ranjha](https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6) | 2:31 | 2026-02-10 | 2026-07-22 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-07-03 | 2024-06-22 |
 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 | 2025-11-03 |  |
 | [Jaa Tujhe Ishq Ho](https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Jaa Tujhe Ishq Ho](https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt) | 3:10 | 2026-02-05 |  |
@@ -408,6 +408,7 @@
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-01-10 | 2023-01-11 |
 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 | 2026-03-12 |  |
 | [Theher Ja](https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Theher Ja](https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9) | 4:09 | 2026-02-05 |  |
+| [Thirinjin](https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:03 | 2026-07-21 |  |
 | [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 | 2026-04-01 | 2026-04-21 |
 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 | 2023-03-10 | 2023-10-06 |
 | [Titli](https://open.spotify.com/track/5E7uvya2x1TC3C06GrOdNz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/2JjeKPxWPhbecFf1xqVHWc) | 2:35 | 2023-11-29 | 2024-01-11 |

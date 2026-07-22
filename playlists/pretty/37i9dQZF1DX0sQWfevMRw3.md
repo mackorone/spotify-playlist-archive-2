@@ -8,9 +8,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [O A E](https://open.spotify.com/track/09Q3hbshm6gnzIDV7bktZa) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [O A E](https://open.spotify.com/album/5BKpFPVgfiyEKieEk4bWFW) | 2:16 |
-| 2 | [Fest, Sommar & Vibe](https://open.spotify.com/track/0h7Y014K4rlxfX4jVqiUSp) | [Joakim Lundell](https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0), [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Fest, Sommar & Vibe](https://open.spotify.com/album/43ULmf2eCkDdZsVfhGXHYz) | 3:12 |
-| 3 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
+| 1 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
+| 2 | [O A E](https://open.spotify.com/track/09Q3hbshm6gnzIDV7bktZa) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [O A E](https://open.spotify.com/album/5BKpFPVgfiyEKieEk4bWFW) | 2:16 |
+| 3 | [Fest, Sommar & Vibe](https://open.spotify.com/track/0h7Y014K4rlxfX4jVqiUSp) | [Joakim Lundell](https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0), [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Fest, Sommar & Vibe](https://open.spotify.com/album/43ULmf2eCkDdZsVfhGXHYz) | 3:12 |
 | 4 | [Svealand](https://open.spotify.com/track/7blpOEoBulgKhhzVsEolbj) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Svealand](https://open.spotify.com/album/5r1afhuYQ7ZpPEj0H0HfES) | 2:13 |
 | 5 | [Bra för dig](https://open.spotify.com/track/5P9GJinwjRjyR7t9AardQ3) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf) | [Bra för dig](https://open.spotify.com/album/7AHbQHzvFRU0hULQeXHnSK) | 2:40 |
 | 6 | [2,2 PROMILLE](https://open.spotify.com/track/6FUmuYTZPOLX6t8EShFct3) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [2,2 PROMILLE](https://open.spotify.com/album/3NsgjpV6y9TdzlKSrJPJkJ) | 1:54 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 114 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 115 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAAIt0ZyaSA96e1ijrrvDZ3mTDzZQG`
+Snapshot ID: `AAAAAJYCaDxeSpSEpKFSnwTpJVtf1n+9`

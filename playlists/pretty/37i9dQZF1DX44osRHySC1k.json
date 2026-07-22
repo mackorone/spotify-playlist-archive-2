@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 55805,
+  "num_followers": 55809,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 112311,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 112311,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lovely Thunder",
         "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
@@ -715,18 +699,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "If you ever change your mind",
-        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
       "artists": [
         {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
         }
       ],
-      "duration_ms": 122000,
-      "name": "If you ever change your mind",
-      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
+      "duration_ms": 162061,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 127892,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "If you ever change your mind",
+        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "If you ever change your mind",
+      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 127892,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Deep Mental Stillness 50",
         "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 249300,
       "name": "REM Phase",
       "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Moments of Tomorrow",
         "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 110434,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 155459,
       "name": "Dream dependence",
       "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
+      },
+      "artists": [
+        {
+          "name": "Mi Soon",
+          "url": "https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Storybook",
+      "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "unspoken",
         "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 207000,
       "name": "Stelliferous",
       "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
-      },
-      "artists": [
-        {
-          "name": "Mi Soon",
-          "url": "https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Storybook",
-      "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time to Heal",
-        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
-      },
-      "artists": [
-        {
-          "name": "Vittoria Emanuelle",
-          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
-        }
-      ],
-      "duration_ms": 154642,
-      "name": "Time to Heal",
-      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 131605,
       "name": "Balance",
       "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
+      },
+      "artists": [
+        {
+          "name": "Vittoria Emanuelle",
+          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
+        }
+      ],
+      "duration_ms": 154642,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
     },
     {
       "added_at": "2021-06-24 10:58:44",

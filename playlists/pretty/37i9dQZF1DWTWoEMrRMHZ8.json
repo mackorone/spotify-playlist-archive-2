@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355079,
+  "num_followers": 355073,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+        "name": "A Paz",
+        "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/1UaFyaKEutboGQBQUY7A1y"
         }
       ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+      "duration_ms": 273031,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -443,6 +451,22 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "Por Onde Deus Sorri",
         "url": "https://open.spotify.com/album/45IsMZdwiag4G3I6OHvSct"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 161944,
       "name": "Por Onde Deus Sorri",
       "url": "https://open.spotify.com/track/5QdrveW2rl2WTrhjuca317"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "A Paz",
-        "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/1UaFyaKEutboGQBQUY7A1y"
-        }
-      ],
-      "duration_ms": 273031,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
-        "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Queria Ter Nove",
-      "url": "https://open.spotify.com/track/1c0qadA7kPd7YjLAgCGqjM"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
         "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "O Nome Certo do Amor",
-        "url": "https://open.spotify.com/album/0r6wUyLut4tuyYxdsoAVwO"
+        "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
+        "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
       },
       "artists": [
         {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "G\u00ea Lara",
-          "url": "https://open.spotify.com/artist/2C9ngXw6itJHYuEiZpbsQj"
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
         }
       ],
-      "duration_ms": 166437,
-      "name": "O Nome Certo do Amor",
-      "url": "https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT"
+      "duration_ms": 164500,
+      "name": "Queria Ter Nove",
+      "url": "https://open.spotify.com/track/1c0qadA7kPd7YjLAgCGqjM"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -567,6 +547,26 @@
       "duration_ms": 233229,
       "name": "Nua Ideia",
       "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "O Nome Certo do Amor",
+        "url": "https://open.spotify.com/album/0r6wUyLut4tuyYxdsoAVwO"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "G\u00ea Lara",
+          "url": "https://open.spotify.com/artist/2C9ngXw6itJHYuEiZpbsQj"
+        }
+      ],
+      "duration_ms": 166437,
+      "name": "O Nome Certo do Amor",
+      "url": "https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Vamos Combinar",
         "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 216592,
       "name": "Vamos Combinar",
       "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "L\u00e1",
         "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
       },
@@ -1107,42 +1127,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "Esgotada",
-        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 176235,
-      "name": "Contato",
-      "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Beleza",
         "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 271285,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Esgotada",
+        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 176235,
+      "name": "Contato",
+      "url": "https://open.spotify.com/track/1OwwYDOjA2npNkIJjOEGZN"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
@@ -1219,46 +1239,6 @@
       "duration_ms": 190873,
       "name": "Agudo Grave",
       "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "D'Ouro Brilhante",
-        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        },
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
-        }
-      ],
-      "duration_ms": 246802,
-      "name": "D'Ouro Brilhante",
-      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1279,6 +1259,26 @@
       "duration_ms": 241401,
       "name": "Charme Do Mundo",
       "url": "https://open.spotify.com/track/3NTNo2SvRGXarNeME5y1X4"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "D'Ouro Brilhante",
+        "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        },
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3"
+        }
+      ],
+      "duration_ms": 246802,
+      "name": "D'Ouro Brilhante",
+      "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "VAMO COM CALMA, MALANDRA",
+        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
+      },
+      "artists": [
+        {
+          "name": "Ana Karina Sebasti\u00e3o",
+          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 125193,
+      "name": "VAMO COM CALMA, MALANDRA",
+      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "F\u00e3 do Sandu\u00edche",
         "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 189144,
       "name": "Capit\u00e3o Kirk",
       "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "VAMO COM CALMA, MALANDRA",
-        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
-      },
-      "artists": [
-        {
-          "name": "Ana Karina Sebasti\u00e3o",
-          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 125193,
-      "name": "VAMO COM CALMA, MALANDRA",
-      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
     },
     {
       "added_at": "2026-07-17 19:35:24",

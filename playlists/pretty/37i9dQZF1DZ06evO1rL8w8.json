@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239473,
+  "num_followers": 239509,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAADfJu29tXzvQ65avL7xI2rd",
+  "snapshot_id": "al1lAAAAAABxUE9clqWSGec/j6DUoKm5",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Movimiento Alterado, Vol. 4",
+        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Recordando a Michoacan",
+      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 195813,
       "name": "El Regreso Del Chapo - En Vivo",
       "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Movimiento Alterado, Vol. 4",
-        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Recordando a Michoacan",
-      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Grace of Arc",
-  "num_followers": 9663,
+  "num_followers": 9667,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBg48HHLNriZaTO+YgMh6Unuxyf",
+  "snapshot_id": "AAAAALBPy00NX53SpYMkfGXM4egaRlvQ",
   "tracks": [
     {
       "added_at": "2026-07-17 04:02:55",
@@ -39,6 +39,54 @@
       "duration_ms": 137379,
       "name": "M\u00e9t\u00e9ore",
       "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
+    },
+    {
+      "added_at": "2026-07-17 04:02:55",
+      "album": {
+        "name": "south durham",
+        "url": "https://open.spotify.com/album/0EDQJI9pbPOLSoOLIpGvw5"
+      },
+      "artists": [
+        {
+          "name": "gabno",
+          "url": "https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp"
+        }
+      ],
+      "duration_ms": 201823,
+      "name": "south durham",
+      "url": "https://open.spotify.com/track/6OSjA2o2aocQXtGFcaOiqx"
+    },
+    {
+      "added_at": "2026-07-17 04:02:55",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/7GAF0lfC9wJEkTWDB6qp3P"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Pers\u00e9ides",
+      "url": "https://open.spotify.com/track/47xeKat4c1eZVSpVfEIqVS"
+    },
+    {
+      "added_at": "2026-07-17 04:02:55",
+      "album": {
+        "name": "Correct",
+        "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 286128,
+      "name": "Correct",
+      "url": "https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk"
     },
     {
       "added_at": "2026-07-17 04:02:55",
@@ -143,22 +191,6 @@
       "duration_ms": 495925,
       "name": "Rosegaze",
       "url": "https://open.spotify.com/track/3gc01mn0NUjh0E98DSZJRO"
-    },
-    {
-      "added_at": "2026-07-17 04:02:55",
-      "album": {
-        "name": "Correct",
-        "url": "https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 286128,
-      "name": "Correct",
-      "url": "https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk"
     },
     {
       "added_at": "2026-07-17 04:02:55",
@@ -571,22 +603,6 @@
     {
       "added_at": "2026-07-17 04:02:55",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/7GAF0lfC9wJEkTWDB6qp3P"
-      },
-      "artists": [
-        {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Pers\u00e9ides",
-      "url": "https://open.spotify.com/track/47xeKat4c1eZVSpVfEIqVS"
-    },
-    {
-      "added_at": "2026-07-17 04:02:55",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 211933,
       "name": "Peur dans l'parc",
       "url": "https://open.spotify.com/track/26udX1kImizbH9W9xcz3YR"
-    },
-    {
-      "added_at": "2026-07-17 04:02:55",
-      "album": {
-        "name": "south durham",
-        "url": "https://open.spotify.com/album/0EDQJI9pbPOLSoOLIpGvw5"
-      },
-      "artists": [
-        {
-          "name": "gabno",
-          "url": "https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp"
-        }
-      ],
-      "duration_ms": 201823,
-      "name": "south durham",
-      "url": "https://open.spotify.com/track/6OSjA2o2aocQXtGFcaOiqx"
     },
     {
       "added_at": "2026-07-17 04:02:55",

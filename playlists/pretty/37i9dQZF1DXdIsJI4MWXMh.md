@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,697 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,709 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 57 | [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 |
 | 58 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
 | 59 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 |
-| 60 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 |
-| 61 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 |
+| 60 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 |
+| 61 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 |
 | 62 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
 | 63 | [El Último Trago](https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR) | [Ramón Rimac](https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN) | [Me Voy a Emborrachar](https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW) | 2:40 |
 | 64 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 91 | [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 |
 | 92 | [El Solovino](https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [El Solovino](https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV) | 3:03 |
 | 93 | [En las Cantinas](https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [En las Cantinas](https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL) | 2:49 |
-| 94 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
-| 95 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |
+| 94 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |
+| 95 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
 | 96 | [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 |
 | 97 | [Dame una Respuesta](https://open.spotify.com/track/43IZE1ADlu0YHtYWDOHqsj) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Dame una Respuesta](https://open.spotify.com/album/2kyt4HXFRO29nVujrMkl2B) | 3:43 |
 | 98 | [Lo Que Nunca Fue Tuyo](https://open.spotify.com/track/48bH3xnKLlQmHFZwOlZlrN) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Lucero Salazar](https://open.spotify.com/artist/6wwdjhCsvz48vxftWw6s76) | [Lo Que Nunca Fue Tuyo](https://open.spotify.com/album/57wC5aFqYmDPm5gAitomc0) | 3:05 |
-| 99 | [El Caballo Blanco](https://open.spotify.com/track/6dyy250Elf7UUjL5p6m84R) | [GARAÑON](https://open.spotify.com/artist/4vuZOPfxOGM02V8rp7m9VA) | [Picaito](https://open.spotify.com/album/22JwYPWzu2pKj8LEEv8GY6) | 2:36 |
-| 100 | [Tio Borrachales](https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 2:53 |
+| 99 | [Tio Borrachales](https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 2:53 |
+| 100 | [El Caballo Blanco](https://open.spotify.com/track/6dyy250Elf7UUjL5p6m84R) | [GARAÑON](https://open.spotify.com/artist/4vuZOPfxOGM02V8rp7m9VA) | [Picaito](https://open.spotify.com/album/22JwYPWzu2pKj8LEEv8GY6) | 2:36 |
 
 Snapshot ID: `AAAAALvb6EB7ThwSTQSXyxtBf50JwCv8`

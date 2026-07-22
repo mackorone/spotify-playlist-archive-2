@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,715 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,754 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 32 | [Se Saudade Sentir \(Se Prepara 3\)](https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Se Saudade Sentir \(Se Prepara 3\)](https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi) | 3:17 |
 | 33 | [No Mesmo Lugar](https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [ASTRONEJO](https://open.spotify.com/artist/3P0Px7NoQcBMVVmyc3CDEh) | [Quem Não Chora Faz Bico 2](https://open.spotify.com/album/5IX2z9CIk2rKTb9FYms8mK) | 3:11 |
 | 34 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
-| 35 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
+| 35 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 36 | [Moça Pra Casar \- Ao Vivo](https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Moça Pra Casar \(Ao Vivo\)](https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT) | 2:41 |
 | 37 | [Eu Te Esperarei](https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze) | [Toca Aquela](https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7), [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [Breno Major](https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c), [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Toca Aquela2.0](https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m) | 3:35 |
 | 38 | [Não Namora \- Ao Vivo](https://open.spotify.com/track/7DO7aEQDT3nqPOHlyrFB7X) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Vocês \(Vol\. 1\) \[Ao Vivo\]](https://open.spotify.com/album/1DhyCGWTjpk2WX7DaBJek2) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
 | 50 | [Eu Não Sou Terapia \- Ao Vivo](https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/1ejLnHri909csVlNncBvyD) | 2:42 |
 
-Snapshot ID: `MfGPIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfLgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

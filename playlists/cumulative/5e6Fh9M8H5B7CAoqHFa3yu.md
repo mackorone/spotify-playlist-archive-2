@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,406 songs - 5 day 21 hr 51 min
+2,411 songs - 5 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [hush little one](https://open.spotify.com/track/6jqaFmXEYC8cPKmWZNezGn) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 1:54 | 2025-10-28 |  |
 | [hush now my darling](https://open.spotify.com/track/4yX8dDFy8RxNP2NbgrtE42) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:46 | 2025-10-28 |  |
 | [Hygge Time](https://open.spotify.com/track/6lkPc7WYtuXJeLgGEp39bc) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Hygge Time](https://open.spotify.com/album/16i1tKqqWE6Ce8q7yg4k7q) | 2:39 | 2025-11-07 |  |
+| [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 | 2026-07-21 |  |
 | [Hypomania](https://open.spotify.com/track/2VdwLwj3eS9wT3I9GF9AwL) | [half\-past nine](https://open.spotify.com/artist/5AQdnxlAP1whBuRmbCHsdb) | [9:30 PM: Unanswered Calls](https://open.spotify.com/album/0BS8Ln2dmv9P1bjAGugrnZ) | 2:57 | 2026-01-30 |  |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2024-03-04 |  |
 | [I](https://open.spotify.com/track/6heF1ldh4Tr4mvMAxYuGnL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:30 | 2026-02-05 |  |
@@ -1233,6 +1234,7 @@
 | [Love Me](https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4) | [Dopamine](https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU), [EUFOREIGN](https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z), [Ch7nky](https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq), [Swaglone.mp4](https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp) | [Love Me](https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb) | 2:56 | 2026-02-16 |  |
 | [Love Not War](https://open.spotify.com/track/1nALCPKvmnZTXFmpPg81Wq) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:59 | 2024-05-01 |  |
 | [Love Version](https://open.spotify.com/track/35EWgBVErvAF2MRUtF6DiP) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 2](https://open.spotify.com/album/4fVqUY29YSEFx1B0yTR27Q) | 2:57 | 2024-05-01 |  |
+| [Loved Me Yesterday](https://open.spotify.com/track/00ProhFPScjYekWKgVKepV) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Loved Me Yesterday](https://open.spotify.com/album/3ibTk9amQG5iIkjsX1929I) | 2:26 | 2026-07-21 |  |
 | [Love´s a mystery](https://open.spotify.com/track/1j0QiaXdcj1ZwiJOP0xU8k) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Love´s a mystery](https://open.spotify.com/album/6DFUaEu1zCCDF6Etfvvjl6) | 3:09 | 2025-05-05 |  |
 | [LTD](https://open.spotify.com/track/507JSmxpfl8FnXMm7To8TG) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The Mix Up Bonus Tracks](https://open.spotify.com/album/2a3nLwXuIKhmRQdoeTqrUZ) | 3:12 | 2026-02-07 |  |
 | [Luce](https://open.spotify.com/track/6LcC2XkDXsgFMWbtpsNHUw) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Luce](https://open.spotify.com/album/5yek2EgefZAGdboXus2YRu) | 3:55 | 2024-06-18 |  |
@@ -1418,6 +1420,7 @@
 | [Need to Find My Way](https://open.spotify.com/track/3nfHQXM9zLjBlXcYE71Fjh) | [Pustye Ludi](https://open.spotify.com/artist/7fSBK3bpBVPOxwmdi4wEWS) | [Need to Find My Way](https://open.spotify.com/album/0aRDidH0Qx7v1smEkx96jL) | 4:14 | 2026-01-12 |  |
 | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/track/2QO3yvlqjk7OBbZ4knCcEd) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NEL SILENZIO DELLA NOTTE](https://open.spotify.com/album/4a9BjV5KNYRyMtL73YvzSh) | 3:47 | 2024-12-20 |  |
 | [NELLA STRADA](https://open.spotify.com/track/1LD58KQ0dWXyIRMgZblVOD) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [NELLA STRADA](https://open.spotify.com/album/6j9miS8vjPHys6lb8MGkaa) | 3:36 | 2025-02-27 |  |
+| [Nemo](https://open.spotify.com/track/5BwnMHqoQ8wxF8uhPDOtuL) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [Nemo](https://open.spotify.com/album/7CtKHC7lwjIUu5ni7kZMkM) | 2:11 | 2026-07-21 |  |
 | [NEO TOKYO](https://open.spotify.com/track/3toZsVZJeh6sCBbE7u4YuO) | [kdhaner](https://open.spotify.com/artist/6aCwzXL8knkJ0eiL8Caya0), [Thomas Smith](https://open.spotify.com/artist/6yQ1Wnkd5CR7WM1hkl2r0K) | [NEO TOKYO](https://open.spotify.com/album/5AfCRtN3DdodBYg8NIWMvI) | 2:36 | 2025-06-28 |  |
 | [Neon Breeze](https://open.spotify.com/track/6E0So76OiY5EdlnDdlA1L9) | [Timeless Tunes](https://open.spotify.com/artist/0HrsERv5X1kKsTzjGZhPrN) | [Neon Breeze](https://open.spotify.com/album/2x0AfSoEFCz2uVWpDyptQW) | 2:42 | 2026-04-13 |  |
 | [Neon Sakura Bounce](https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE) | [Peter Mor](https://open.spotify.com/artist/38KJeJHYikt98oEX7gcxSe) | [Neon Sakura Bounce](https://open.spotify.com/album/2zTZlPay4pTaDyucAD2OgO) | 3:21 | 2026-02-22 |  |
@@ -1890,6 +1893,7 @@
 | [Some People Don't Remember Jah](https://open.spotify.com/track/1ins37psl2D0lkNOg3o53l) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn), [Sammy Gold](https://open.spotify.com/artist/7iLvlwOs7UWVWw1VNoFa7l) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:39 | 2024-05-01 |  |
 | [Some Say Dub \(Don Fe Patreon Project\)](https://open.spotify.com/track/47QOpoBiyhHVvhv51BN6I7) | [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl) | [Sub Conscious Dub](https://open.spotify.com/album/2TLOcR3LqBt80Axm4VGggc) | 3:25 | 2024-05-01 |  |
 | [Somebody Say Something](https://open.spotify.com/track/2BOvecjMOdXsDBH8pOq6cU) | [Starmaps](https://open.spotify.com/artist/1rhDyazjXrkjEVlLyyBeaM) | [Somebody Say Something](https://open.spotify.com/album/6ycIRmlL0yU3SmIiojcMwM) | 4:18 | 2025-08-02 |  |
+| [Somewhere After Midnight](https://open.spotify.com/track/3MxokWkqpnzTgD7sqoUQBJ) | [Blue Bohemia](https://open.spotify.com/artist/6tPiRSOD4450Ll6p9ifeQC) | [Somewhere After Midnight](https://open.spotify.com/album/2y6L029qNPAopezjHbsRo0) | 3:16 | 2026-07-21 |  |
 | [Somewhere In My Life](https://open.spotify.com/track/2bzBviImqGjq1c7cI9sQIO) | [Jared Burris](https://open.spotify.com/artist/1E5h6hhhvLosMZ2rOELTiJ) | [Somewhere In My Life](https://open.spotify.com/album/5Acm8DpJD3LAqlLLz1YJdX) | 4:20 | 2025-08-19 |  |
 | [son](https://open.spotify.com/track/5OM9Wjmxfq5bHFrXsNtwYJ) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Abandoned Payphone Prayers](https://open.spotify.com/album/5Z2G3coccrXAdhazbNk0O1) | 2:12 | 2025-11-20 |  |
 | [Son latidos](https://open.spotify.com/track/5VOSgEmunAUim5YrSTvOqE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:41 | 2026-04-12 |  |
@@ -2180,6 +2184,7 @@
 | [Tunnel](https://open.spotify.com/track/4x4iU4zW6wNU6wcco5qerT) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Tunnel](https://open.spotify.com/album/5G5i9EAbN7L0Pbw2vH2QTf) | 3:31 | 2024-10-25 |  |
 | [Tuscan Breeze](https://open.spotify.com/track/5H5thy4j7g7oTRt4G2oo7Z) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [Tuscan Breeze](https://open.spotify.com/album/1NeGeVX7ZfX7AiZme0oi8z) | 3:02 | 2025-11-15 |  |
 | [Tutto è Zero](https://open.spotify.com/track/1FmVS9T0WjWiR2ni31f4rT) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 3:24 | 2023-03-15 |  |
+| [Twilight Ribbit](https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA) | [Ear Crimes](https://open.spotify.com/artist/5u9VKowwLX8qWNwv3RZ77G) | [Twilight Ribbit](https://open.spotify.com/album/7kfYCwOkhlgGDpXEzvFLJR) | 2:38 | 2026-07-21 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2024-03-04 |  |
 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 | 2025-11-25 |  |
 | [Tükröm](https://open.spotify.com/track/66lj9fWMUcvwcFjy9WxMEp) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Felejtsd el!](https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV) | 4:09 | 2025-12-17 |  |

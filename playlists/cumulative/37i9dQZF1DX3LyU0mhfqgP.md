@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Omar Rudberg
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: GUS
 
-1,872 songs - 4 day 5 hr 37 min
+1,873 songs - 4 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,7 +1029,7 @@
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-12-17 | 2022-01-29 |
 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 | 2025-12-03 | 2026-01-15 |
 | [Made of Stars](https://open.spotify.com/track/68pQBPFbW6XJG81KrSMluI) | [Hovi Star](https://open.spotify.com/artist/040W9ZAS80tn0Cak1DKxFo) | [Made of Stars](https://open.spotify.com/album/2V9Fv24EDrqAGn9gj6TE1l) | 3:12 | 2025-05-13 | 2025-05-20 |
-| [Madrugadas de nada](https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN) | [Isleña Antumalen](https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Madrugadas de nada](https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5) | 3:37 | 2026-06-08 |  |
+| [Madrugadas de nada](https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN) | [Isleña Antumalen](https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Madrugadas de nada](https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5) | 3:37 | 2026-06-08 | 2026-07-22 |
 | [Magnetic Field](https://open.spotify.com/track/4AkhBdhZNpIs17kFG6B0dx) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Magnetic Field](https://open.spotify.com/album/0fHYpziHlPlbpOzoODFa2k) | 3:48 | 2024-11-12 | 2024-12-05 |
 | [Mai fermi](https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Mai fermi](https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9) | 3:55 | 2024-07-09 | 2024-08-14 |
 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 | 2025-08-12 | 2025-12-04 |
@@ -1596,6 +1596,7 @@
 | [Thank Yew](https://open.spotify.com/track/6LUZE9aLm0jfIptvGiBoMd) | [Josh Zilberberg](https://open.spotify.com/artist/5IbA10Mlb3LHp3QjSQXEDe) | [Thank Yew](https://open.spotify.com/album/1CguW6SCnxeiNUvjicdimm) | 2:09 | 2022-04-22 | 2022-07-14 |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-06-17 | 2022-06-25 |
 | [That's Us/Wild Combination](https://open.spotify.com/track/4Kh2MJAy65AfHFdGqBg1Jw) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Calling Out Of Context](https://open.spotify.com/album/0cJ39KJ52lQ2tnZUyy299i) | 6:58 | 2026-06-08 |  |
+| [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 | 2026-07-21 |  |
 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 | 2025-06-05 | 2025-09-10 |
 | [The Boy I Am](https://open.spotify.com/track/7uqtN4R6hcRI4Q4KPTH3SQ) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [The Boy I Am](https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9) | 2:34 | 2026-05-12 | 2026-06-09 |
 | [The Boy Is Mine](https://open.spotify.com/track/2k24f8OAI5H9KuFDLZgp44) | [Divan & the House of Quoi](https://open.spotify.com/artist/561X881wDJEjWPVWUWh46f), [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [The Gay Tapes](https://open.spotify.com/album/0xqDiXopd9vC3z73DDMYKT) | 4:11 | 2023-09-12 | 2023-10-11 |

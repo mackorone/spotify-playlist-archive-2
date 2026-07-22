@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أوني
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,553 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,559 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VAR](https://open.spotify.com/track/4JZFh2ZS6i0J3lpNBtgDR7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [VAR](https://open.spotify.com/album/5q0rcyT3gqD9lU4cfcNLnX) | 3:14 |
-| 2 | [K 7 M S](https://open.spotify.com/track/2bwXTWy0FDmReiCbdnV83J) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [BAL MASQUE](https://open.spotify.com/album/5C4ZjsZbMdwQi8Y3fzvtGG) | 3:54 |
-| 3 | [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 |
-| 4 | [Kol Ma Az3l](https://open.spotify.com/track/1CqnLFOGybfafuYPYKdUgI) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:14 |
-| 5 | [AHMED RAMZY](https://open.spotify.com/track/0RrBLm06KzwLREkyXXlgzo) | [SALE7](https://open.spotify.com/artist/4YuGqWE0goKbuCjfnRd5nq), [Swessy](https://open.spotify.com/artist/5A5QYAwB6cSLNAtX0ZHYBS) | [AHMED RAMZY](https://open.spotify.com/album/45aDpCMH7kWF6XnvvOmZqX) | 2:27 |
-| 6 | [Ya Helwa Blil](https://open.spotify.com/track/2OFXqFqZciTrzpG4NMwH1S) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [Ya Helwa Blil](https://open.spotify.com/album/5CH3H6x9Hg4hxM8aCCZIqn) | 2:56 |
-| 7 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 |
-| 8 | [MAFHOOM](https://open.spotify.com/track/0ncJHVZ8L6MAYJPAkA5bYk) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [MAFHOOM](https://open.spotify.com/album/3ChfQ5spwL55P2xEKkhWsK) | 2:54 |
+| 1 | [7adana](https://open.spotify.com/track/1KPz54jwOt4TVWzvAGrjbN) | [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [7adana](https://open.spotify.com/album/5qZ56wDr3oWLmI1Ka0c32m) | 2:00 |
+| 2 | [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 |
+| 3 | [K 7 M S](https://open.spotify.com/track/2bwXTWy0FDmReiCbdnV83J) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [BAL MASQUE](https://open.spotify.com/album/5C4ZjsZbMdwQi8Y3fzvtGG) | 3:54 |
+| 4 | [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 |
+| 5 | [Kol Ma Az3l](https://open.spotify.com/track/1CqnLFOGybfafuYPYKdUgI) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:14 |
+| 6 | [GAMAREK](https://open.spotify.com/track/72GqopF8ZI0qSD06E9Cb6E) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [GAMAREK](https://open.spotify.com/album/3DqPD2BVwlDSehRq5HtowB) | 2:30 |
+| 7 | [AHMED RAMZY](https://open.spotify.com/track/0RrBLm06KzwLREkyXXlgzo) | [SALE7](https://open.spotify.com/artist/4YuGqWE0goKbuCjfnRd5nq), [Swessy](https://open.spotify.com/artist/5A5QYAwB6cSLNAtX0ZHYBS) | [AHMED RAMZY](https://open.spotify.com/album/45aDpCMH7kWF6XnvvOmZqX) | 2:27 |
+| 8 | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/track/6uPZpAw51X73ORLBydHizI) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/album/0RwZOf3Ryy01VKgt3MtRrp) | 2:04 |
 | 9 | [كله زي بعضه](https://open.spotify.com/track/5ScRMOHU9d6bB5AmIOD1hh) | [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [كله زي بعضه](https://open.spotify.com/album/56WEUqyhZ5ODxJIFhyvuEs) | 2:48 |
-| 10 | [Wa7da Wa7da](https://open.spotify.com/track/2JNWhT4ztVhpXtEN20sWd6) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Wa7da Wa7da](https://open.spotify.com/album/6VbzgGPehHK88jWQeT9Wc0) | 2:30 |
-| 11 | [EL NAGHZA](https://open.spotify.com/track/01SBYMQIsFTaBdxcKTcHMF) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [EL NAGHZA](https://open.spotify.com/album/31AKqUeusiO2zZByfTrqws) | 4:21 |
-| 12 | [7adana](https://open.spotify.com/track/1KPz54jwOt4TVWzvAGrjbN) | [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [7adana](https://open.spotify.com/album/5qZ56wDr3oWLmI1Ka0c32m) | 2:00 |
-| 13 | [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 |
-| 14 | [WATHAEQY](https://open.spotify.com/track/5SCYmSWcvZVkAroQk5sj6C) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [WATHAEQY](https://open.spotify.com/album/7nYOylAZXdAghVcCXIpAhN) | 6:18 |
+| 10 | [Ya Helwa Blil](https://open.spotify.com/track/2OFXqFqZciTrzpG4NMwH1S) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [Ya Helwa Blil](https://open.spotify.com/album/5CH3H6x9Hg4hxM8aCCZIqn) | 2:56 |
+| 11 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 |
+| 12 | [MAFHOOM](https://open.spotify.com/track/0ncJHVZ8L6MAYJPAkA5bYk) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [MAFHOOM](https://open.spotify.com/album/3ChfQ5spwL55P2xEKkhWsK) | 2:54 |
+| 13 | [VAR](https://open.spotify.com/track/4JZFh2ZS6i0J3lpNBtgDR7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [VAR](https://open.spotify.com/album/5q0rcyT3gqD9lU4cfcNLnX) | 3:14 |
+| 14 | [EL NAGHZA](https://open.spotify.com/track/01SBYMQIsFTaBdxcKTcHMF) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [EL NAGHZA](https://open.spotify.com/album/31AKqUeusiO2zZByfTrqws) | 4:21 |
 | 15 | [بكرة تشوف](https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [Bokra Teshouf](https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR) | 3:14 |
 | 16 | [Saheb Mama](https://open.spotify.com/track/3fSjgQNEmdPml4KRR9HAL7) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:17 |
 | 17 | [FLEXIN](https://open.spotify.com/track/4hilPZuJldFY5ACcNRAzQv) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 1:33 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 44 | [Meen Ytafy Nary](https://open.spotify.com/track/2ifemK90i9fSrsbC2mx46q) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Meen Ytafy Nary](https://open.spotify.com/album/1F5IOenDkbPmF3NuVzyEH8) | 3:08 |
 | 45 | [WADINI](https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:22 |
 
-Snapshot ID: `AAAAAJbGCGJC9Vtfo5eLaRSJc+mfL+Aj`
+Snapshot ID: `AAAAAIwBpLmgGHN0+e2460RTwCS9EC8i`

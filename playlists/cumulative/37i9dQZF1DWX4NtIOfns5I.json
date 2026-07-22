@@ -8361,6 +8361,24 @@
     },
     {
       "album": {
+        "name": "Metal Through Her Lips",
+        "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Metal Through Her Lips",
+      "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
+    },
+    {
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
       },

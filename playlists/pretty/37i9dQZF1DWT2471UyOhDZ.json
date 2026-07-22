@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mystery Jets",
-  "num_followers": 93596,
+  "num_followers": 93593,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Monroe",
         "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 220290,
       "name": "Monroe",
       "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 168265,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Nosedive",
         "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 339424,
       "name": "Nosedive",
       "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "i'm not joking",
-        "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 234605,
-      "name": "i'm not joking",
-      "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Heaven Knows You're Lonely",
         "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 181773,
       "name": "Heaven Knows You're Lonely",
       "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "i'm not joking",
+        "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 234605,
+      "name": "i'm not joking",
+      "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Stone Over Water",
-        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 194225,
-      "name": "Stone Over Water",
-      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
+      "duration_ms": 210301,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 210301,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 226077,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Stone Over Water",
+        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "The Ground Above",
         "url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 401920,
       "name": "Cigarette Curls",
       "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+        "name": "Something Else to Give",
+        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
       },
       "artists": [
         {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
         }
       ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+      "duration_ms": 285183,
+      "name": "Something Else to Give",
+      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1047,6 +1047,22 @@
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1083,34 +1099,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Something Else to Give",
-        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
+        "name": "Get Sunk",
+        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
       },
       "artists": [
         {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 285183,
-      "name": "Something Else to Give",
-      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "For Love of Grace & the Hereafter",
-        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 223925,
-      "name": "mother-of-pearl",
-      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
+      "duration_ms": 235106,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1127,6 +1127,22 @@
       "duration_ms": 212373,
       "name": "Tina",
       "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 223925,
+      "name": "mother-of-pearl",
+      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1163,22 +1179,6 @@
       "duration_ms": 219661,
       "name": "Seachain",
       "url": "https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Let All That We Imagine Be The Light",
-        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 273598,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Let All That We Imagine Be The Light",
+        "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 273598,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Sliced by a Fingernail",
-        "url": "https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "Sliced by a Fingernail",
-      "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Glamour Magick",
+        "url": "https://open.spotify.com/album/7sClkddld26FI0xg2IFoND"
+      },
+      "artists": [
+        {
+          "name": "Arab Strap",
+          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+        }
+      ],
+      "duration_ms": 270785,
+      "name": "Glamour Magick",
+      "url": "https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
         "name": "Dialing In",
         "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
       },
@@ -1583,6 +1599,22 @@
       "duration_ms": 280968,
       "name": "Dialing In",
       "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Sliced by a Fingernail",
+        "url": "https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "Sliced by a Fingernail",
+      "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1603,22 +1635,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Antidepressants",
-        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 222031,
-      "name": "The Sound And The Summer",
-      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "The Jamie Oliver Petrol Station",
         "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
       },
@@ -1635,34 +1651,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
+        "name": "Antidepressants",
+        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
       },
       "artists": [
         {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Bright Things I Found In The Dark",
-        "url": "https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT"
-      },
-      "artists": [
-        {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
-        }
-      ],
-      "duration_ms": 280506,
-      "name": "Hail",
-      "url": "https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq"
+      "duration_ms": 222031,
+      "name": "The Sound And The Summer",
+      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
     }
   ],
   "unique_name": "The Listening Post",

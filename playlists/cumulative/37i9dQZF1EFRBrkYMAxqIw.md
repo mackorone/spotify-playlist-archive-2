@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-202 songs - 10 hr 37 min
+203 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 | 2022-05-25 |  |
 | [Hiding](https://open.spotify.com/track/5D2X4IURttngKC7IjwYUgP) | [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Hiding](https://open.spotify.com/album/1Uao47Zq5D4ms570cOP3Fb) | 2:53 | 2026-04-17 |  |
 | [HighLife](https://open.spotify.com/track/121Dj5DvG9EKGWJ0PW9s4a) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [HighLife](https://open.spotify.com/album/37hLJXky9rC9KbpzYzzUGg) | 3:32 | 2022-09-27 |  |
+| [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 | 2026-07-21 |  |
 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 | 2022-05-25 |  |
 | [Human](https://open.spotify.com/track/3z9JozYBleU6BhOY3rt0a3) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:35 | 2025-08-14 |  |
 | [Human \- Running Mix 145 BPM](https://open.spotify.com/track/4X9bqQwPGVlacGzQUiwWsT) | [Workout Remix Factory](https://open.spotify.com/artist/2QhmXpKTQIK3Wf0fEcpYEk) | [100 EDM Dance Running](https://open.spotify.com/album/67EFGP9mE4PGN7AXguTZx6) | 4:15 | 2025-08-13 | 2025-08-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2014. Cover: BANKS",
-  "num_followers": 117775,
+  "num_followers": 117799,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Stay Gold",
-        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "My Silver Lining",
-      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 343253,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 211080,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 343253,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 410186,
       "name": "Weight of Love",
       "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Lazaretto",
-        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Lazaretto",
-      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Shawcross",
         "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 136032,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Lazaretto",
+        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Lazaretto",
+      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "I Never Learn",
         "url": "https://open.spotify.com/album/4fGqfyineAZmulNxgitERh"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 222718,
       "name": "No Rest for the Wicked",
       "url": "https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
     },
     {
       "added_at": "2025-03-14 13:43:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 319786,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 319786,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
     },
     {
       "added_at": "2025-03-14 13:43:29",

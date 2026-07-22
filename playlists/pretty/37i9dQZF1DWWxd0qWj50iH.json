@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 612059,
+  "num_followers": 612021,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 237316,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "For Sure",
@@ -459,6 +443,22 @@
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 237316,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1313,20 +1313,20 @@
       "url": "https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+        "name": "Glu",
+        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
+      "duration_ms": 163673,
+      "name": "Glu",
+      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1365,36 +1365,20 @@
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Glu",
-        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 163673,
-      "name": "Glu",
-      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1411,6 +1395,22 @@
       "duration_ms": 202873,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2024-05-31 15:25:10",

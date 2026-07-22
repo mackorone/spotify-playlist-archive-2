@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAVxQrkXliXon7vv8Zu8sXq",
+  "snapshot_id": "al1lAAAAAAAF9Lpn+MXujXnsKXmioIpq",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
+        "name": "Respeito \u00c9 Pra Quem Tem",
+        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
       },
       "artists": [
         {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 199860,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem",
+      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
     },
     {
       "added_at": null,
@@ -771,26 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respeito \u00c9 Pra Quem Tem",
-        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
       "artists": [
         {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem",
-      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+      "duration_ms": 199860,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Xandy MC",
+          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 195447,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -1135,34 +1163,6 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Xandy MC",
-          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 195447,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
     },
     {
       "added_at": null,

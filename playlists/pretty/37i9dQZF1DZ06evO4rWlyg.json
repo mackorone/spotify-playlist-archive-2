@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 155758,
+  "num_followers": 155774,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABRpoyN+YCUGl7rS7hRvZWN",
+  "snapshot_id": "al1lAAAAAABh9ZPUUIa85s1drEqDPHc4",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308053,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/3PfdVg6wGFvUYdGrrUJNQ0"
+      "duration_ms": 409328,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 409328,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
+      "duration_ms": 308053,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/3PfdVg6wGFvUYdGrrUJNQ0"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's In Our Hands, Vol. 1",
-        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 257519,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+      "duration_ms": 180198,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "It's In Our Hands, Vol. 1",
+        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 180198,
-      "name": "History Of Touches",
-      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
+      "duration_ms": 257519,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 253453,
-      "name": "Declare Independence",
-      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
       },
       "artists": [
         {
@@ -796,9 +780,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 368688,
-      "name": "Lionsong",
-      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 261826,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
+      "duration_ms": 368688,
+      "name": "Lionsong",
+      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
     },
     {
       "added_at": null,

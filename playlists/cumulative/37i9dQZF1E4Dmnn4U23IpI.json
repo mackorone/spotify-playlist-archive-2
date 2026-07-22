@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 241500,
       "name": "America 2",
       "url": "https://open.spotify.com/track/65mbkbFtHDa1yYgHb7lidO"
@@ -9934,7 +9934,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 236007,
       "name": "Friction",
       "url": "https://open.spotify.com/track/4fX1MG6fdnCgtVRIVeTVoM"
@@ -18776,7 +18776,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 262500,
       "name": "Nothing Beats Like A Heart",
       "url": "https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y"
@@ -22104,7 +22104,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 307083,
       "name": "Runaways (feat. Bonnie McKee)",
       "url": "https://open.spotify.com/track/1oOo2Kd2mwDomHbtbReSO8"
@@ -22166,6 +22166,28 @@
       "duration_ms": 270000,
       "name": "Running in the Night",
       "url": "https://open.spotify.com/track/0E3HnGJSMplqBSYGsh2exH"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/19KeCQ4PtPNfXCQl8BgdD2"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        },
+        {
+          "name": "Ollie Wride",
+          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Running in the Night",
+      "url": "https://open.spotify.com/track/5ovzDxwSZfrpqZ8LubPV7X"
     },
     {
       "album": {
@@ -23030,7 +23052,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 387857,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/1aXYM5lT1PfKE8gCu90oIe"
@@ -24726,7 +24748,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -25344,7 +25366,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Summer Eyes",
       "url": "https://open.spotify.com/track/1l9GWlY0FPr5Z7xRNoyNcV"
@@ -25416,7 +25438,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 411447,
       "name": "Summer's Ending Soon",
       "url": "https://open.spotify.com/track/7csPHOShFYj9SIFuJOUIsM"
@@ -27702,7 +27724,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 255180,
       "name": "The Video Game Champion",
       "url": "https://open.spotify.com/track/4iADclNEcQMVtPMOpBqwIg"
@@ -28876,7 +28898,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 317228,
       "name": "Vampires",
       "url": "https://open.spotify.com/track/5lVsAfvY2ij8A2T6oYdAyt"

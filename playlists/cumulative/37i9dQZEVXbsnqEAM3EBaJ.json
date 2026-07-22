@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Comin' Soon",
+        "url": "https://open.spotify.com/album/552f1ErEXwDKfPsfSOHMVw"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7uD7vcqPRfcUemS0c6Na00"
+    },
+    {
+      "album": {
         "name": "Alice Through the Looking Glass",
         "url": "https://open.spotify.com/album/3Er6lsWzZmM4oP8RICZseP"
       },
@@ -5242,7 +5260,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 495645,
       "name": "Arctica",
       "url": "https://open.spotify.com/track/1qolRVma7eo9FIclVzU1bb"
@@ -12170,7 +12188,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 259720,
       "name": "Comin' Soon",
       "url": "https://open.spotify.com/track/7GRfdpD6IiIS1pCg9R0gMQ"
@@ -20939,6 +20957,24 @@
     },
     {
       "album": {
+        "name": "Harmonium (2008)",
+        "url": "https://open.spotify.com/album/7jPdyl2wFeXUxuzyd7c2gN"
+      },
+      "artists": [
+        {
+          "name": "Liturgy",
+          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101676,
+      "name": "First Species",
+      "url": "https://open.spotify.com/track/4R3VDpttJjeU0WtZKwQOn4"
+    },
+    {
+      "album": {
         "name": "KISS Off The Soundboard: Live In Poughkeepsie",
         "url": "https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj"
       },
@@ -22478,7 +22514,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 251137,
       "name": "Ganymede",
       "url": "https://open.spotify.com/track/38tbcn81NDdOxR35CSvHEG"
@@ -34438,7 +34474,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 401773,
       "name": "LET NO TIME DECAY",
       "url": "https://open.spotify.com/track/393QuTCTdHa0mAKK9mRHfp"
@@ -59654,7 +59690,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 182627,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/1mecrawAIirDZlTDnJkVZW"
@@ -65412,7 +65448,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 352000,
       "name": "Uncollected",
       "url": "https://open.spotify.com/track/1JK9g5f6dNqBXUqieOtCd2"
@@ -65700,6 +65736,24 @@
       "duration_ms": 250133,
       "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
       "url": "https://open.spotify.com/track/0PXBZRk6FrXzzxJfAkmHhd"
+    },
+    {
+      "album": {
+        "name": "Temptation's Gates",
+        "url": "https://open.spotify.com/album/5JVhnVrXFpSvFx5YZV1Kyg"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243334,
+      "name": "Undying Colours",
+      "url": "https://open.spotify.com/track/5M3yFYwcQ80kikqQOqG56n"
     },
     {
       "album": {
@@ -68578,7 +68632,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 401302,
       "name": "Whatever You Want - Tees Freeze Mix, 2026 Remaster",
       "url": "https://open.spotify.com/track/7pS1F7mLsKL5s27KEVljFe"
@@ -68596,7 +68650,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 488937,
       "name": "Whatever You Want - The Massive Jungle Mix, 2026 Remaster",
       "url": "https://open.spotify.com/track/7dcCjJTmKpVJ8m1ANeysaR"
@@ -68832,6 +68886,24 @@
       "duration_ms": 281600,
       "name": "Where The Wild Things Are",
       "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
+    },
+    {
+      "album": {
+        "name": "A CRY FROM THE SKY ABOVE",
+        "url": "https://open.spotify.com/album/150mS2jekW2VTHMQmJ0Rap"
+      },
+      "artists": [
+        {
+          "name": "GALNERYUS",
+          "url": "https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "WHERE YOU WERE",
+      "url": "https://open.spotify.com/track/1DTDImvRIwlvUtu8jfzbg0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: benny blanco & Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,764 likes - 200 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,697 likes - 200 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

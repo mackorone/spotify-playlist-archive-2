@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 68004,
+  "num_followers": 68042,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAzfzfJHjqIUgP9LLPqgADv",
+  "snapshot_id": "al1lAAAAAAA1aZeq50bF6avBbZKz8VRm",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/71tQtGC4f82VbhikchHliX"
       },
       "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/6bCk2kMU5E5wV3WBLugNnG"
     },
     {
       "added_at": null,
@@ -583,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/71tQtGC4f82VbhikchHliX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/6bCk2kMU5E5wV3WBLugNnG"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REGRESA",
         "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 146032,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
     },
     {
       "added_at": null,

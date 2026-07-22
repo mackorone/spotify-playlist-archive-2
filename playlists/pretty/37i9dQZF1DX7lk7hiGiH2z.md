@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,221 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,238 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 24 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 25 | [Was müssen das für Bäume sein](https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:18 |
 | 26 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
-| 27 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
+| 27 | [Gute Laune](https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommer\-Hits zum Tanzen](https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk) | 2:54 |
 | 28 | [Plitsch, plitsch, platsch](https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 1:54 |
-| 29 | [Gute Laune](https://open.spotify.com/track/5Awu2T5BANm8T3WIioLajG) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommer\-Hits zum Tanzen](https://open.spotify.com/album/3W7puU7nFlO0ZtbxMjf8lk) | 2:54 |
+| 29 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
 | 30 | [Sommerkinder](https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 2:58 |
 | 31 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
 | 32 | [Ab zum Meer / Към морето](https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Ab zum Meer / Към морето](https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg) | 1:59 |

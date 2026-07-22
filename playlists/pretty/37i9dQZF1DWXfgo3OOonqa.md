@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,362 likes - 99 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,349 likes - 99 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SER DIG](https://open.spotify.com/track/6nZNnOkTbsjeZoZCIpp3Yt) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [SER DIG](https://open.spotify.com/album/71RrpijH8fG3isKO9ac601) | 2:33 |
-| 2 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
+| 1 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
+| 2 | [SER DIG](https://open.spotify.com/track/6nZNnOkTbsjeZoZCIpp3Yt) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [SER DIG](https://open.spotify.com/album/71RrpijH8fG3isKO9ac601) | 2:33 |
 | 3 | [Här Med Mig](https://open.spotify.com/track/5O8E7wk3hfOTIfjG1fbFgT) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [Här Med Mig](https://open.spotify.com/album/3TzkrSAvXX1HHvVRGN6515) | 1:57 |
 | 4 | [Mademoiselle](https://open.spotify.com/track/0oZSUWZPd5EXeCE0ATO1k0) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Mademoiselle](https://open.spotify.com/album/0Ewz2TsfYNkbm9XtlaPNDq) | 2:27 |
 | 5 | [Dig](https://open.spotify.com/track/6GtHiksYtjSmNfad56R7W3) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Dig](https://open.spotify.com/album/6GTsGyBPdo5UQHGd4YADFK) | 2:06 |
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 9 | [Lebi](https://open.spotify.com/track/0nfryGPAShDVTwAE2sSgrQ) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Lebi](https://open.spotify.com/album/7JQ3FboHgdO9TKEB3xZnLg) | 2:25 |
 | 10 | [HIGH](https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX) | [Nabzz](https://open.spotify.com/artist/7nGOvemHfv4AoYr6Gu3YLs) | [HIGH](https://open.spotify.com/album/2BXF8rwTMRCHNBCie3TeSS) | 2:18 |
 | 11 | [ROBIN HOOD](https://open.spotify.com/track/6Ft3SAvmGhsyTA7M0vAcG9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ROBIN HOOD](https://open.spotify.com/album/3m9aDT63ak9jHsfdKOcz6z) | 2:15 |
-| 12 | [War With Us](https://open.spotify.com/track/5cQWn9HlLj5ZpRdbkXM0eM) | [Blanco](https://open.spotify.com/artist/3gMyBB61mO4PwZwoDTTwyy), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [War With Us](https://open.spotify.com/album/65YeRxwDI23I5eDzXl56Jg) | 2:08 |
-| 13 | [Andiamo](https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Andiamo](https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK) | 1:50 |
+| 12 | [Andiamo](https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Andiamo](https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK) | 1:50 |
+| 13 | [War With Us](https://open.spotify.com/track/5cQWn9HlLj5ZpRdbkXM0eM) | [Blanco](https://open.spotify.com/artist/3gMyBB61mO4PwZwoDTTwyy), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [War With Us](https://open.spotify.com/album/65YeRxwDI23I5eDzXl56Jg) | 2:08 |
 | 14 | [Fina](https://open.spotify.com/track/4wgQIviaZMJ3l2cEox0ezH) | [Mazar](https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF) | [Fina](https://open.spotify.com/album/4m8KaaUMDEpkso6JGCCLND) | 1:54 |
 | 15 | [PIXEL](https://open.spotify.com/track/7bKjQEcsXoMygMyAg7SOpm) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [BARETTA](https://open.spotify.com/album/1oQFPbWMtwh3CfhbGSDjzT) | 2:19 |
 | 16 | [better know](https://open.spotify.com/track/5fAUfZgvbKGyn5s2GWzxmi) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Roy](https://open.spotify.com/artist/1WghHVAzHXQM8zKUAawhWq) | [better know](https://open.spotify.com/album/3wyi3DAxoWo3YAF4qIHgpH) | 2:25 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [Trafficante](https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Trafficante](https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU) | 1:48 |
 | 99 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
 
-Snapshot ID: `AAAAAKvB/6j/7aqJJajZBgMma2obeH3y`
+Snapshot ID: `AAAAAHbe0IfRPb+7qE/dxPHmYB9DRf0s`

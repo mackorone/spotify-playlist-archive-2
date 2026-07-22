@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51374,
+  "num_followers": 51386,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABH6DsqirS4l6JYLkLb7slo",
+  "snapshot_id": "al1lAAAAAACSPLOL2FXawxvYd9Irw6Bh",
   "tracks": [
     {
       "added_at": null,
@@ -472,21 +472,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         },
         {
           "name": "Stefy Espinosa",
           "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 749184,
-      "name": "Sana Nuestra Naci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
+      "duration_ms": 341208,
+      "name": "Es por Fe - En Vivo",
+      "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
     },
     {
       "added_at": null,
@@ -503,26 +499,6 @@
       "duration_ms": 446302,
       "name": "Con Brazos Abiertos - En Vivo",
       "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        }
-      ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "added_at": null,
@@ -547,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -556,17 +552,21 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         },
         {
           "name": "Stefy Espinosa",
           "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 341208,
-      "name": "Es por Fe - En Vivo",
-      "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
+      "duration_ms": 749184,
+      "name": "Sana Nuestra Naci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
     },
     {
       "added_at": null,
@@ -810,11 +810,19 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,
@@ -890,19 +898,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria",
-      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
     },
     {
       "added_at": null,

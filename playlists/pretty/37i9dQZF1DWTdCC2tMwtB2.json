@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 133953,
+  "num_followers": 133997,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -703,30 +703,6 @@
     {
       "added_at": "2026-06-30 07:20:47",
       "album": {
-        "name": "Baarish Ban Jaana",
-        "url": "https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310"
-      },
-      "artists": [
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        },
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Baarish Ban Jaana",
-      "url": "https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb"
-    },
-    {
-      "added_at": "2026-06-30 07:20:47",
-      "album": {
         "name": "Aaya Na Tu",
         "url": "https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 210000,
       "name": "Aaya Na Tu",
       "url": "https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4"
+    },
+    {
+      "added_at": "2026-06-30 07:20:47",
+      "album": {
+        "name": "Baarish Ban Jaana",
+        "url": "https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Baarish Ban Jaana",
+      "url": "https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb"
     },
     {
       "added_at": "2026-06-30 07:20:47",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-30 07:20:47",
       "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "added_at": "2026-06-30 07:20:47",
+      "album": {
         "name": "RAINA",
         "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 217192,
       "name": "RAINA",
       "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
-    },
-    {
-      "added_at": "2026-06-30 07:20:47",
-      "album": {
-        "name": "Do You Know",
-        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Do You Know",
-      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
     {
       "added_at": "2026-06-30 07:20:47",

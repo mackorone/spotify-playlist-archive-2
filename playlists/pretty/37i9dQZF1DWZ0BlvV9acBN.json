@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 149514,
+  "num_followers": 149504,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Filho do Homem",
-        "url": "https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee"
-      },
-      "artists": [
-        {
-          "name": "Rafa Couto",
-          "url": "https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 177608,
-      "name": "Filho do Homem",
-      "url": "https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Filho do Homem",
+        "url": "https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee"
+      },
+      "artists": [
+        {
+          "name": "Rafa Couto",
+          "url": "https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 177608,
+      "name": "Filho do Homem",
+      "url": "https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR"
     },
     {
       "added_at": "2026-04-24 19:01:02",

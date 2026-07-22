@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Remembering Oliver Tree.",
+  "description": "a little rap, a little pop, a little country... sometimes. BabyChiefDoIt on the cover.",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 157058,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4RhxOqE2gHSQY6GVeymv9N"
@@ -2448,6 +2448,24 @@
       "duration_ms": 237641,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR"
+    },
+    {
+      "album": {
+        "name": "IN RETROSPECT",
+        "url": "https://open.spotify.com/album/2AKdxe2LpdgXWR7Gc5dq2K"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142646,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/07YmDPKRvWOk9Ohoh3CzcZ"
     },
     {
       "album": {
@@ -5796,6 +5814,24 @@
       "duration_ms": 172821,
       "name": "gfy (with Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn"
+    },
+    {
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
     },
     {
       "album": {
@@ -11875,6 +11911,28 @@
     },
     {
       "album": {
+        "name": "Why So Much Hate",
+        "url": "https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor"
+      },
+      "artists": [
+        {
+          "name": "Judah Weston",
+          "url": "https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX"
+        },
+        {
+          "name": "IsoKeys",
+          "url": "https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106032,
+      "name": "RA TA DIA",
+      "url": "https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk"
+    },
+    {
+      "album": {
         "name": "RAGE",
         "url": "https://open.spotify.com/album/5RmYLr4JvrT34dc5efzt6X"
       },
@@ -15438,7 +15496,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 166010,
       "name": "VENUS & SERENA",
       "url": "https://open.spotify.com/track/3qoYryTUWLwuhEP0MQfTht"
@@ -16404,7 +16462,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 107688,
       "name": "WYA",
       "url": "https://open.spotify.com/track/3LiGPTCOLCxaB6ssD6n6bY"

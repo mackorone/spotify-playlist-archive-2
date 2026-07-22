@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Tomb Raider King (\ub3c4\uad74\uc655)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 118858,
+  "num_followers": 118854,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OST)",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
-        "url": "https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP"
-      },
-      "artists": [
-        {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
-      "url": "https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
         "url": "https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 199146,
       "name": "Did you wake up? (one and only romance X Hello Ga-Young, WONPIL(DAY6))",
       "url": "https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+      "url": "https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
+        "url": "https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
+      "url": "https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -1071,38 +1103,6 @@
       "duration_ms": 164000,
       "name": "L.O.V.E (Romantic)",
       "url": "https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
-        "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
-        "url": "https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
-      "url": "https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
-      },
-      "artists": [
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MAY LILY",
-      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "True Beauty Season 1, Part.1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7q2nSEWTAAFPZSZy0g6hwa"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "My Highlight",
-      "url": "https://open.spotify.com/track/5ssGTjB8goLwsqed8YxcGT"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Flower, Wind, You (Blue Archive)",
         "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 210834,
       "name": "Flower, Wind, and You",
       "url": "https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "True Beauty Season 1, Part.1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7q2nSEWTAAFPZSZy0g6hwa"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "My Highlight",
+      "url": "https://open.spotify.com/track/5ssGTjB8goLwsqed8YxcGT"
     },
     {
       "added_at": "2026-07-20 06:36:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-07-20 06:36:40",
       "album": {
-        "name": "Webtoon \u2018The Remarried Empress\u2019 Part. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux"
-      },
-      "artists": [
-        {
-          "name": "BELLE",
-          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "I Rise (Webtoon \u2018The Remarried Empress\u2019)",
-      "url": "https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr"
-    },
-    {
-      "added_at": "2026-07-20 06:36:40",
-      "album": {
         "name": "Better for Me (Nth Romance X MeloMance)",
         "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2026-07-20 06:36:40",
+      "album": {
+        "name": "Webtoon \u2018The Remarried Empress\u2019 Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux"
+      },
+      "artists": [
+        {
+          "name": "BELLE",
+          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "I Rise (Webtoon \u2018The Remarried Empress\u2019)",
+      "url": "https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr"
     },
     {
       "added_at": "2026-07-20 06:36:40",

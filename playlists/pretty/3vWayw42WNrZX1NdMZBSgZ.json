@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte",
-  "num_followers": 51810,
+  "num_followers": 51797,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAU9TQtrIBRP9x0ycz/m+d2jMPngfMh",
+  "snapshot_id": "AAAU95HYD5XSWS2LqkyttHiG5VO9dlJe",
   "tracks": [
     {
       "added_at": "2026-06-09 00:07:42",
@@ -215,6 +215,22 @@
       "duration_ms": 202542,
       "name": "EPA",
       "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
+    },
+    {
+      "added_at": "2026-07-21 20:33:59",
+      "album": {
+        "name": "Hola \u00bfAlo?",
+        "url": "https://open.spotify.com/album/6ByQKGALuWZhg3HsjD2Dzk"
+      },
+      "artists": [
+        {
+          "name": "ELENA SOFIA",
+          "url": "https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg"
+        }
+      ],
+      "duration_ms": 219201,
+      "name": "Hola \u00bfAlo?",
+      "url": "https://open.spotify.com/track/4cs20eWc7SEpCaiUMptubl"
     },
     {
       "added_at": "2025-11-28 13:27:27",

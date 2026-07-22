@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 436696,
+  "num_followers": 436709,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Reiu",
-        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Reiu",
-      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Flower Wings",
         "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 138187,
       "name": "Flower Wings",
       "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Slowly \u6162\u6162\u5730",
-        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 129828,
-      "name": "Slowly \u6162\u6162\u5730",
-      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Evanesce",
         "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 136991,
       "name": "Evanesce",
       "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Noct\u00e9",
-        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
-      },
-      "artists": [
-        {
-          "name": "Van Kahloo",
-          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Noct\u00e9",
-      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Como Nights",
         "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Rowan",
-        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
+        "name": "Noct\u00e9",
+        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
       },
       "artists": [
         {
-          "name": "Ben Moldau",
-          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+          "name": "Van Kahloo",
+          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Rowan",
-      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
+      "duration_ms": 141818,
+      "name": "Noct\u00e9",
+      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1143,6 +1127,22 @@
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Rowan",
+        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rowan",
+      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139885,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Southern Air",
         "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Stigen",
         "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
       },
@@ -1335,6 +1335,38 @@
       "duration_ms": 174905,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Fleur De Vie",
+        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Bergsson",
+          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
+        }
+      ],
+      "duration_ms": 176717,
+      "name": "Fleur De Vie",
+      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1367,38 +1399,6 @@
       "duration_ms": 159466,
       "name": "Villa Cortese",
       "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Velvet Veil",
-        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 123479,
-      "name": "Velvet Veil",
-      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Fleur De Vie",
-        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Bergsson",
-          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
-        }
-      ],
-      "duration_ms": 176717,
-      "name": "Fleur De Vie",
-      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Fireside",
-        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
-      },
-      "artists": [
-        {
-          "name": "Aisen Voight",
-          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
-        }
-      ],
-      "duration_ms": 144291,
-      "name": "Fireside",
-      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "solitude",
         "url": "https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 151124,
       "name": "solitude",
       "url": "https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "duration_ms": 144291,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "D\u00e9lise",
         "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Sailing Away",
-        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
       },
       "artists": [
         {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
         }
       ],
-      "duration_ms": 143879,
-      "name": "Sailing Away",
-      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Shadows On The Lawn",
-        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
-      },
-      "artists": [
-        {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
-        }
-      ],
-      "duration_ms": 133058,
-      "name": "Shadows On The Lawn",
-      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "fallen leaves",
         "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Tranquil Landscape",
-        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
+        "name": "Shadows On The Lawn",
+        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
       },
       "artists": [
         {
-          "name": "Ametrine Skies",
-          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Tranquil Landscape",
-      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+      "duration_ms": 133058,
+      "name": "Shadows On The Lawn",
+      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Ruby Clouds",
         "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
       },
@@ -1883,38 +1899,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Each glorious entity",
-        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
-      },
-      "artists": [
-        {
-          "name": "Eberina",
-          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
-        }
-      ],
-      "duration_ms": 133430,
-      "name": "Each glorious entity",
-      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "My Solace My Home",
-        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
-      },
-      "artists": [
-        {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "My Solace My Home",
-      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Armonia",
         "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 173500,
       "name": "Memoirs",
       "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "My Solace My Home",
+        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "My Solace My Home",
+      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Magic of a Piano",
-        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
-      },
-      "artists": [
-        {
-          "name": "Pederosa Calafiori",
-          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
-        }
-      ],
-      "duration_ms": 167844,
-      "name": "The Magic of a Piano",
-      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Within Reach",
         "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 153301,
       "name": "Within Reach",
       "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
     },
     {
       "added_at": "2026-05-29 04:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,365,650 likes - 250 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365,619 likes - 250 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 42 | [against me](https://open.spotify.com/track/29x3DAnr8zuGjT09KsQMsU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [new avatar](https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE) | 2:40 |
 | 43 | [Tricks Are For Kids](https://open.spotify.com/track/6ggChS1qPtrjHYcN7s4Uol) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [At Least She's Beautiful](https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL) | 2:20 |
 | 44 | [YES](https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [YES](https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr) | 3:43 |
-| 45 | [No Jodeci](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [No Jodeci](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
+| 45 | [NO JODECI](https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [NO JODECI](https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ) | 3:22 |
 | 46 | ['til u cry](https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:58 |
 | 47 | [To Want Someone Badly](https://open.spotify.com/track/6f6EdKXS6CRFGIk6hW8qjS) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Want Someone Badly](https://open.spotify.com/album/1RCqDfERqTPoW669sQdYWA) | 2:57 |
 | 48 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 116 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 117 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 118 | [AM I OKAY?!](https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [AM I OKAY?!](https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91) | 3:37 |
-| 119 | [Talk You Through It](https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Talk You Through It](https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9) | 3:33 |
+| 119 | [TALK YOU THROUGH IT](https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [TALK YOU THROUGH IT](https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9) | 3:33 |
 | 120 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
 | 121 | [Higher Power](https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Higher Power](https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x) | 2:53 |
 | 122 | [this girl wants everything](https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [this girl wants everything](https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb) | 3:33 |

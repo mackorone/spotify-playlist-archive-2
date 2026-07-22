@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21110,
+  "num_followers": 21116,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -115,8 +115,8 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 190270,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -243,8 +243,8 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
       },
       "artists": [
         {
@@ -252,9 +252,41 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
+      "duration_ms": 190270,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -279,34 +311,22 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
       "artists": [
         {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -327,26 +347,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "Give Up and See",
-        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Give Up and See",
-      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
         "name": "TORCHER II",
         "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 137475,
       "name": "Rise Up (Dandelion)",
       "url": "https://open.spotify.com/track/3Q4dmZRKmTFsErYSey6bfM"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
+        "name": "Give Up and See",
+        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Give Up and See",
+      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 140014,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
         "name": "Webkid (Shatta Music)",
         "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 137992,
       "name": "Webkid (Shatta Music)",
       "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -1255,22 +1271,6 @@
       "duration_ms": 194307,
       "name": "Out The Mud",
       "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2026-07-17 00:01:38",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-07-17 00:01:38",
       "album": {
+        "name": "Their Back",
+        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "Their Back",
+      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
+    },
+    {
+      "added_at": "2026-07-17 00:01:38",
+      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 117389,
       "name": "No. 1 Fan",
       "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
-    },
-    {
-      "added_at": "2026-07-17 00:01:38",
-      "album": {
-        "name": "Their Back",
-        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "Their Back",
-      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
     },
     {
       "added_at": "2026-07-17 00:01:38",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+  "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 189722,
       "name": "\u0627\u0644\u0642\u0627\u0636\u064a\u0629 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0648\u0644\u0627\u062f \u0631\u0632\u0642 3)",
       "url": "https://open.spotify.com/track/1x77KcxyDUitE4trltji2r"
@@ -7322,6 +7322,28 @@
       "duration_ms": 284656,
       "name": "\u0647\u062f\u064a \u0641\u064a \u0642\u0644\u0628\u0643 \u0637\u0644\u0642\u0647 ( \u0644\u0648 \u0639\u0648\u0632\u062a \u062a\u0643\u0644\u0645\u0646\u064a )",
       "url": "https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0642\u0644\u0628 \u0639\u0644\u064a\u0643 \u0627\u0646\u0627 \u0627\u0644\u062a\u0631\u0627\u0628\u064a\u0632\u0647 - \u0627\u0646\u0627 \u0627\u062e\u062f\u062a \u0627\u0644\u0633\u0627\u062d\u0647 \u0645\u0646\u0643\u0648",
+        "url": "https://open.spotify.com/album/0Uhoqb7UecnDFAHvGcXtg5"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        },
+        {
+          "name": "\u0627\u0644\u0646\u0627\u0633\u0641 \u0628\u0631\u0648\u062f\u0643\u0634\u0646 - Elnasef prouduction",
+          "url": "https://open.spotify.com/artist/4VPJYDXjNM0dJ6uA4TyqNE"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266182,
+      "name": "\u0647\u0642\u0644\u0628 \u0639\u0644\u064a\u0643 \u0627\u0646\u0627 \u0627\u0644\u062a\u0631\u0627\u0628\u064a\u0632\u0647 - \u0627\u0646\u0627 \u0627\u062e\u062f\u062a \u0627\u0644\u0633\u0627\u062d\u0647 \u0645\u0646\u0643\u0648",
+      "url": "https://open.spotify.com/track/4QGtg0l2WJFsV19AN3CPUE"
     },
     {
       "album": {

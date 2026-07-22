@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 202613,
+  "num_followers": 202648,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAsZMlCzEMAUljtxoOXdX37",
+  "snapshot_id": "al1lAAAAAABQtHqUsMCjuhnMHNPVq7Rc",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 152293,
-      "name": "La Fuga Del Rojo",
-      "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+      "duration_ms": 155506,
+      "name": "La Tumba Ser\u00e1 El Final",
+      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trono Caido",
-        "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trono Caido",
+        "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 155506,
-      "name": "La Tumba Ser\u00e1 El Final",
-      "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
+      "duration_ms": 152293,
+      "name": "La Fuga Del Rojo",
+      "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
     },
     {
       "added_at": null,

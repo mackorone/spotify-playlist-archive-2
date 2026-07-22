@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402077,
+  "num_followers": 402066,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "Le dico de Charlie",
+        "url": "https://open.spotify.com/album/7eauARELSnK7i01uXtUOq7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Motto",
+          "url": "https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb"
+        }
+      ],
+      "duration_ms": 188491,
+      "name": "Le dico de Charlie",
+      "url": "https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Entracte",
         "url": "https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 173235,
       "name": "Grandir",
       "url": "https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "Le dico de Charlie",
-        "url": "https://open.spotify.com/album/7eauARELSnK7i01uXtUOq7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Motto",
-          "url": "https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb"
-        }
-      ],
-      "duration_ms": 188491,
-      "name": "Le dico de Charlie",
-      "url": "https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli"
     },
     {
       "added_at": "2026-06-30 22:00:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ciça e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,980 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,942 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 27 | [Em Qualquer Cama \- Ao Vivo](https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Em Qualquer Cama \(Ao Vivo\)](https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn) | 2:50 |
 | 28 | [Coração e Cadeado](https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Coração e Cadeado](https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c) | 3:09 |
 | 29 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
-| 30 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
-| 31 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 |
+| 30 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 |
+| 31 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 32 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 |
 | 33 | [Sem Sentimento](https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sem Sentimento](https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG) | 2:12 |
 | 34 | [FOME](https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:42 |

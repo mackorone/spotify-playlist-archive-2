@@ -4,7 +4,7 @@
 
 > In celebration of Black music, we're highlighting Black women who are redefining pop on the global stage\. Click into the feed!
 
-6,240 songs - 13 day 4 hr 44 min
+6,241 songs - 13 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4539,6 +4539,7 @@
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2023-07-21 | 2023-10-14 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-03-11 | 2022-04-02 |
 | [RIP + RUN](https://open.spotify.com/track/3ccmOPuJV3xo6DhDcBhVZg) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Charlie Vettuno](https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0) | [Charlie Vettuno Presents… Where in the World is Carmen Randiego?!](https://open.spotify.com/album/3BWOZptaipGp7qf5VCmSFS) | 3:42 | 2024-09-06 | 2024-09-14 |
+| [ripped up jeans](https://open.spotify.com/track/5mzv2ef3grUwoZGcfkB0bO) | [Sajkeena](https://open.spotify.com/artist/0cwB6G7f3ISJObNyQmHb8x) | [ripped up jeans](https://open.spotify.com/album/3dG4hQ1ULO0Qb7YrJROQ0h) | 1:01 | 2026-07-21 |  |
 | [Risk](https://open.spotify.com/track/4rJbBfrN5oYmRAmD6oxSUZ) | [Valiant](https://open.spotify.com/artist/0t2CCmcm3r3IXyJxOFDYvj) | [Risk](https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs) | 2:12 | 2023-10-13 | 2023-11-30 |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-22 | 2024-04-13 |
 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-05-24 | 2024-07-02 |

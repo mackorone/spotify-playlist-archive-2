@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Kasane\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,039 likes - 54 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,043 likes - 54 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

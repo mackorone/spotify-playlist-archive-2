@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 10883,
+  "num_followers": 10895,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Nitafanyaje",
+        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "Nitafanyaje",
+      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "Nakuja (Remix)",
         "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 245202,
       "name": "Nakuja - Remix",
       "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Nitafanyaje",
-        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Nitafanyaje",
-      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
         "name": "Wanijue",
         "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 194366,
       "name": "Wanijue",
       "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "Tumeuona",
         "url": "https://open.spotify.com/album/5VlX8ImZMnhGCj5FAKg7Sn"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+        "name": "Kumi Za Moto",
+        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+      "duration_ms": 206200,
+      "name": "Mtaani Kwetu",
+      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1051,42 +1067,6 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Kumi Za Moto",
-        "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Mtaani Kwetu",
-      "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Kama Ujui Utajua",
-        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
-      },
-      "artists": [
-        {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 239046,
-      "name": "Kama Ujui Utajua",
-      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
         "name": "Kuokota",
         "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 242076,
       "name": "Kuokota",
       "url": "https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
+        "name": "Kama Ujui Utajua",
+        "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 239046,
+      "name": "Kama Ujui Utajua",
+      "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 270460,
+      "name": "Hatujui",
+      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
         "name": "GUGO",
         "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
-        "name": "Maturity EP",
-        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 270460,
-      "name": "Hatujui",
-      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
     },
     {
       "added_at": "2026-06-05 03:30:22",

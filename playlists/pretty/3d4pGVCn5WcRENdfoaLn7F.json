@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 797,
+  "num_followers": 799,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD08wk3+OCG3/pseACKM7NXEJQVhGm",
+  "snapshot_id": "AAAD1qnAGdS67nE3kOCSfvCB88vWboAf",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1459,6 +1459,58 @@
       "duration_ms": 172712,
       "name": "Forgot Yourself",
       "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
+    },
+    {
+      "added_at": "2026-07-21 22:04:18",
+      "album": {
+        "name": "The Shadow",
+        "url": "https://open.spotify.com/album/5PiWNYUNyiCqNZ7WVJxaXQ"
+      },
+      "artists": [
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        },
+        {
+          "name": "Pain in the Yeahs",
+          "url": "https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "The Shadow",
+      "url": "https://open.spotify.com/track/1mcneLdPg8ossSX5Mu8Epz"
+    },
+    {
+      "added_at": "2026-07-21 22:08:45",
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun"
+      },
+      "artists": [
+        {
+          "name": "Crimson Brooks",
+          "url": "https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL"
+    },
+    {
+      "added_at": "2026-07-21 22:17:01",
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3"
+      },
+      "artists": [
+        {
+          "name": "Pale State",
+          "url": "https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,023 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,142 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 22 | [Resonant Wave](https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg), [Phil Heaven](https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ) | [Harmonic Way](https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0) | 5:35 |
 | 23 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 24 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
-| 25 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
-| 26 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
+| 25 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
+| 26 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
 | 27 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 28 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 29 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 62 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
 | 63 | [Spheres Of The Angels](https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1) | [Shajan](https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv) | [The Healing Touch \- Music for Reiki and Meditation, Vol\. 2](https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp) | 15:03 |
 | 64 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
-| 65 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
-| 66 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 65 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 66 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
 | 67 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 |
 | 68 | [Meditation & Sleep](https://open.spotify.com/track/4pJDWE7OGEfV9xVYFke2Uh) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Meditation & Sleep \- Relaxation Sleeping Mindfulness Meditation Music](https://open.spotify.com/album/4dGGznVrt12Gg7kTwaMj0G) | 29:42 |
 | 69 | [Unbroken Flow](https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn) | [Anzan](https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA), [Tomas Walker](https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr) | [Zen Music for Relaxation Vol\. 1 & 2](https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts) | 2:06 |

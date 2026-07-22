@@ -1,12 +1,12 @@
 {
   "description": "\u72ec\u81ea\u306e\u9032\u5316\u3092\u9042\u3052\u308b\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u6587\u5316\u3002\u300c\u30ad\u30e9\u30ad\u30e9\u30dd\u30c3\u30d7\u300d\u306a\u30ca\u30f3\u30d0\u30fc\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Curated by \u3075\u304f\u308a\u3085\u3046\uff08\u97f3\u697d\u30b3\u30f3\u30b7\u30a7\u30eb\u30b8\u30e5\uff09Cover: kohamo",
-  "num_followers": 79383,
+  "num_followers": 79394,
   "original_name": "\u30ad\u30e9\u30ad\u30e9\u30dd\u30c3\u30d7\uff1a\u30b8\u30e3\u30d1\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvbsPcYCZwknvOH5IWZ4lUE3Zmb",
+  "snapshot_id": "AAAAAORth88Mwp4vuIJU1MaTV79SXjeJ",
   "tracks": [
     {
       "added_at": "2026-07-21 00:03:47",
@@ -39,6 +39,54 @@
       "duration_ms": 260666,
       "name": "\u304a\u3063\u304a\u30fc",
       "url": "https://open.spotify.com/track/11GgdHb6qUudhvL6J8wJRS"
+    },
+    {
+      "added_at": "2026-07-21 02:56:25",
+      "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/47fyxspulKsqvujvrqqNcd"
+      },
+      "artists": [
+        {
+          "name": "ENBASE",
+          "url": "https://open.spotify.com/artist/0bJv2ZvmBgnluJuNGftNER"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/3H3Ar8l9ut9zJzFeZN9tDO"
+    },
+    {
+      "added_at": "2026-07-21 00:03:47",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 176233,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3"
+    },
+    {
+      "added_at": "2026-07-21 00:03:47",
+      "album": {
+        "name": "\u732b\u3058\u3083\u3089\u3057",
+        "url": "https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "\u732b\u3058\u3083\u3089\u3057",
+      "url": "https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs"
     },
     {
       "added_at": "2026-07-21 00:03:47",
@@ -91,38 +139,6 @@
     {
       "added_at": "2026-07-21 00:03:47",
       "album": {
-        "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
-        "url": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq"
-      },
-      "artists": [
-        {
-          "name": "Trooper Salute",
-          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
-        }
-      ],
-      "duration_ms": 390101,
-      "name": "\u7d76\u7e01",
-      "url": "https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ"
-    },
-    {
-      "added_at": "2026-07-21 00:03:47",
-      "album": {
-        "name": "Void Cuffs",
-        "url": "https://open.spotify.com/album/6oS4eCkQUlf3vS3QdW7sD3"
-      },
-      "artists": [
-        {
-          "name": "RobotMeetRobo",
-          "url": "https://open.spotify.com/artist/1UmTRr27noKz1utoSTBEkX"
-        }
-      ],
-      "duration_ms": 212959,
-      "name": "To Roses",
-      "url": "https://open.spotify.com/track/2AwvtMnMMs78iE3mQU2pl7"
-    },
-    {
-      "added_at": "2026-07-21 00:03:47",
-      "album": {
         "name": "The Bird",
         "url": "https://open.spotify.com/album/1cinXLxGPsrpzJKh9elvFD"
       },
@@ -155,34 +171,34 @@
     {
       "added_at": "2026-07-21 00:03:47",
       "album": {
-        "name": "\u732b\u3058\u3083\u3089\u3057",
-        "url": "https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr"
+        "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
         }
       ],
-      "duration_ms": 167173,
-      "name": "\u732b\u3058\u3083\u3089\u3057",
-      "url": "https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs"
+      "duration_ms": 390101,
+      "name": "\u7d76\u7e01",
+      "url": "https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ"
     },
     {
       "added_at": "2026-07-21 00:03:47",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2"
+        "name": "Void Cuffs",
+        "url": "https://open.spotify.com/album/6oS4eCkQUlf3vS3QdW7sD3"
       },
       "artists": [
         {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+          "name": "RobotMeetRobo",
+          "url": "https://open.spotify.com/artist/1UmTRr27noKz1utoSTBEkX"
         }
       ],
-      "duration_ms": 176233,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3"
+      "duration_ms": 212959,
+      "name": "To Roses",
+      "url": "https://open.spotify.com/track/2AwvtMnMMs78iE3mQU2pl7"
     },
     {
       "added_at": "2026-07-21 00:03:47",
@@ -379,6 +395,22 @@
       "duration_ms": 130471,
       "name": "Static - Citrus Hack",
       "url": "https://open.spotify.com/track/7IMywKvRFWCaozJiaY9zc9"
+    },
+    {
+      "added_at": "2026-07-21 00:03:47",
+      "album": {
+        "name": "KAMINARI",
+        "url": "https://open.spotify.com/album/734RhFDmYZVpjaxZH1ddWO"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "KAMINARI",
+      "url": "https://open.spotify.com/track/500CTq16fcnpjFHvXDzjUV"
     },
     {
       "added_at": "2026-07-21 00:03:47",
@@ -1163,38 +1195,6 @@
       "duration_ms": 176800,
       "name": "\u79c1\u304c\u304b\u308f\u3044\u304f\u3059\u308b\u7406\u7531",
       "url": "https://open.spotify.com/track/5Cob46pl6boEOFocRxbUEl"
-    },
-    {
-      "added_at": "2026-07-21 00:03:47",
-      "album": {
-        "name": "KAMINARI",
-        "url": "https://open.spotify.com/album/734RhFDmYZVpjaxZH1ddWO"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "KAMINARI",
-      "url": "https://open.spotify.com/track/500CTq16fcnpjFHvXDzjUV"
-    },
-    {
-      "added_at": "2026-07-21 00:03:47",
-      "album": {
-        "name": "Di-Acute",
-        "url": "https://open.spotify.com/album/4mZuG2gGIRP2wNRSi6y1mK"
-      },
-      "artists": [
-        {
-          "name": "\u5bd2\u4e2d\u904a\u6cf3",
-          "url": "https://open.spotify.com/artist/7yWly1eWTSvSJ8NHzmelFp"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "\u307f\u3069\u308a\u306e\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/4QfseC8PlaIjCnIjs0PGZ6"
     },
     {
       "added_at": "2026-07-21 00:03:47",

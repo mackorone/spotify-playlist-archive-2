@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211418,
+  "num_followers": 211429,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABVX5GxgFBA5Z0zm5q1I51c",
+  "snapshot_id": "al1lAAAAAADTsgj5XM3JM073lf8MZyXi",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1GtWTLCdADlhMLyHTcL6XD"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "CORRA",
+      "url": "https://open.spotify.com/track/0megDVVOygNhatbqGU9lBm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 505482,
       "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
       "url": "https://open.spotify.com/track/5ppwv9SmW6AHgBKUrHe34R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1GtWTLCdADlhMLyHTcL6XD"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "CORRA",
-      "url": "https://open.spotify.com/track/0megDVVOygNhatbqGU9lBm"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 329008,
+      "name": "JUNHO DE 94",
+      "url": "https://open.spotify.com/track/56AJGc24Vrk3Zzcut70Sng"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Wesley Alem\u00e3o 2",
         "url": "https://open.spotify.com/album/5dkZyGLNPmRGjmGfMsrDk9"
       },
@@ -535,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 329008,
-      "name": "JUNHO DE 94",
-      "url": "https://open.spotify.com/track/56AJGc24Vrk3Zzcut70Sng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
         "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
       },
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 258816,
-      "name": "HAT TRICK",
-      "url": "https://open.spotify.com/track/2XtvccZF2k2TrAD9kxxqbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 212170,
       "name": "CAN\u00c7\u00c3O PRO MEU FILHO",
       "url": "https://open.spotify.com/track/52lpXQGwOs9dV2Do9CHLex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 258816,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/2XtvccZF2k2TrAD9kxxqbk"
     },
     {
       "added_at": null,

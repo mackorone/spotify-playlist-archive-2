@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 308665,
+  "num_followers": 308734,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "A Mi Ley",
-        "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
+        "name": "Te Voy a Hacer Feliz",
+        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
       },
       "artists": [
         {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+          "name": "Mar\u00eda Sort\u00e9",
+          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
         }
       ],
-      "duration_ms": 179680,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
+      "duration_ms": 234924,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/0HG7OidBVulOngsXxhlj2r"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Te Voy a Hacer Feliz",
-        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
+        "name": "A Mi Ley",
+        "url": "https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Sort\u00e9",
-          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
         }
       ],
-      "duration_ms": 234924,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/0HG7OidBVulOngsXxhlj2r"
+      "duration_ms": 179680,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
+        "name": "Te Voy a Hacer Feliz",
+        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Sort\u00e9",
+          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
+        }
+      ],
+      "duration_ms": 260263,
+      "name": "Se Va Muriendo M\u00ed Alma",
+      "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
-        "name": "Te Voy a Hacer Feliz",
-        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Sort\u00e9",
-          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
-        }
-      ],
-      "duration_ms": 260263,
-      "name": "Se Va Muriendo M\u00ed Alma",
-      "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Arrepentida Y Sola",
-      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 210680,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Arrepentida Y Sola",
+      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Sigo en la Jugada",
         "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224893,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2026-07-16 23:50:42",

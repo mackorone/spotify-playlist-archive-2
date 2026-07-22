@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-645 songs - 1 day 16 hr 12 min
+647 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 | 2026-07-04 | 2026-07-12 |
 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 | 2026-06-18 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
+| [Reavolution In My Heart](https://open.spotify.com/track/69kTUQgmVL6ZmiPCgMvL2X) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Reavolution In My Heart](https://open.spotify.com/album/2CxbbzofbA3QHPUGdGautI) | 3:45 | 2026-07-21 |  |
 | [Recipe](https://open.spotify.com/track/0Ym4Dc0ohJCHsYLjCWSj9m) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Recipe](https://open.spotify.com/album/0rbqeuSrlS68u3gMD0qvN0) | 4:36 | 2026-07-18 |  |
 | [Red Flags](https://open.spotify.com/track/38RZyMyR07gV4f9Fbc6O6a) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Red Flags](https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc) | 3:10 | 2026-07-08 |  |
 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
@@ -501,6 +502,7 @@
 | [Shame on Me](https://open.spotify.com/track/5MJ15vdn2Nmtywbjpm6l5h) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Shame on Me](https://open.spotify.com/album/2YZ4LHiDmL6Yhh0LraTytw) | 5:08 | 2026-02-17 |  |
 | [She Calls Me](https://open.spotify.com/track/1iDu1uRfjqlW4Cqt78zAfm) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [She Calls Me](https://open.spotify.com/album/1KN6GFe9o8fOAJDs9EgPV3) | 5:34 | 2026-06-16 | 2026-06-25 |
 | [She Never Knows](https://open.spotify.com/track/2izli5aeHaBWTIPiiItSj4) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [She Never Knows](https://open.spotify.com/album/3SYxMJvD6LJdPAnZfcYCh0) | 3:24 | 2026-03-03 | 2026-03-18 |
+| [She Sighs](https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When It Was beautiful EP](https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu) | 2:40 | 2026-07-21 |  |
 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 | 2026-04-27 | 2026-05-26 |
 | [She's the girl](https://open.spotify.com/track/45N1BAybnbjmr7GqLsWpGB) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Tell me what it's for](https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U) | 3:38 | 2025-12-16 | 2026-04-21 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2025-12-04 | 2025-12-17 |

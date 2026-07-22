@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 299177,
+  "num_followers": 299192,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Johnny Horton",
-        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Horton",
-          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
         "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 157000,
       "name": "A Dear John Letter",
       "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Johnny Horton",
+        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Horton",
+          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
+        }
+      ],
+      "duration_ms": 130933,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "added_at": "2026-02-17 04:48:24",

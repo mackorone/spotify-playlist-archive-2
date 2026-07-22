@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>with Locky & Luke Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,575 likes - 120 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,610 likes - 120 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |
+| 1 | [Hey Everybody \(Back In The Dance\)](https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hey Everybody \(Back In The Dance\)](https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT) | 2:36 |
 | 2 | [What's Going On](https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [What's Going On](https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO) | 3:59 |
-| 3 | [Burnin' \(2026 Remix\)](https://open.spotify.com/track/7LWHF6fHELXfQ4Z45BZdSN) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [Burnin' \(2026 Remix\)](https://open.spotify.com/album/42baliS0uXFcYAYFdsggDq) | 2:29 |
-| 4 | [Hey Everybody \(Back In The Dance\)](https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hey Everybody \(Back In The Dance\)](https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT) | 2:36 |
-| 5 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
-| 6 | [I Just Need You](https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [I Just Need You](https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy) | 2:30 |
+| 3 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |
+| 4 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
+| 5 | [I Just Need You](https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [I Just Need You](https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy) | 2:30 |
+| 6 | [The Bridge](https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [Nate Katz](https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj) | [The Bridge](https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs) | 3:37 |
 | 7 | [Move Shake](https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Move Shake](https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg) | 2:58 |
 | 8 | [Wish](https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI) | [Mat Eclair](https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa) | [Wish](https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3) | 3:02 |
-| 9 | [The Bridge](https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [Nate Katz](https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj) | [The Bridge](https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs) | 3:37 |
+| 9 | [Burnin' \(2026 Remix\)](https://open.spotify.com/track/7LWHF6fHELXfQ4Z45BZdSN) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [Burnin' \(2026 Remix\)](https://open.spotify.com/album/42baliS0uXFcYAYFdsggDq) | 2:29 |
 | 10 | [To Be Free](https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [To Be Free / Sweet Love](https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50) | 3:04 |
 | 11 | [Run \(feat\. O.MMY\)](https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV), [O.MMY](https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS) | [Run EP](https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts) | 3:03 |
 | 12 | [Set You Free](https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4) | [Caleb Laurenson](https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Set You Free](https://open.spotify.com/album/2dIF1VlTdYgJxZ2tvElVgr) | 3:46 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 120 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/3ICO7iCL1VhEtbt4fSJ46Y) | 4:35 |
 
-Snapshot ID: `AAAAAIUbS1J5gAUNsxvCSpo0puutNpUo`
+Snapshot ID: `AAAAAOBlmzBdbS9dD85anllk3yCxAo0M`

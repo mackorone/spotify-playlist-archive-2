@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, JUST LIZZY and more",
+  "description": "With MIK's Reaction, David Von Beahm, Hrafnsson and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 309410,
       "name": "Barking at the Sun",
       "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 244280,
       "name": "basement dust",
       "url": "https://open.spotify.com/track/0D3zi4wRgtaWOJglzWUZg8"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/2iIYo63gIFDOzZxszarzvE"
@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -7552,7 +7552,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 169183,
       "name": "Hypnosis - Suspiria Remix",
       "url": "https://open.spotify.com/track/1iNZXgxmTa4dPfepnV58i9"
@@ -7870,6 +7870,24 @@
       "duration_ms": 152185,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232763,
+      "name": "I'll Go On",
+      "url": "https://open.spotify.com/track/5DvpZt0IAoxvLrsgHbJdYK"
     },
     {
       "album": {
@@ -9536,7 +9554,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 286567,
       "name": "Lilylicker",
       "url": "https://open.spotify.com/track/7jkTqauzknvA7343TxUC56"
@@ -10810,7 +10828,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 325762,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/2J0ILp2whKIC6gZSc1U4xa"
@@ -11208,7 +11226,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11846,7 +11864,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 212406,
       "name": "Playing With The Orbits",
       "url": "https://open.spotify.com/track/6XX3lYN94ItERpKwkLSgab"
@@ -12508,7 +12526,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -14850,7 +14868,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-22",
       "duration_ms": 246000,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/7gVga4Zuq8jjuNTcLqbC6d"
@@ -15704,7 +15722,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -17472,7 +17490,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"

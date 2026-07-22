@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula
 
-783 songs - 2 day 19 hr 52 min
+784 songs - 2 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 | 2024-07-27 |
 | [Devotion](https://open.spotify.com/track/1K18rK11klBImZNILVXOiH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Devotion](https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA) | 2:45 | 2023-06-30 | 2023-07-07 |
 | [Dey Pray](https://open.spotify.com/track/1yiah3DJ495GGyfoafP2rk) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Dey Pray](https://open.spotify.com/album/7gmh0bY9iZ9zIhCyFz5SSt) | 3:12 | 2026-02-06 | 2026-02-27 |
-| [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-03 |  |
+| [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-03 | 2026-07-22 |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 | 2024-03-22 |
 | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/track/5sa0OZkL9IuJDHudk6rQn9) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt), [Nathaniel Chaluchalu](https://open.spotify.com/artist/0xlxcrciibiWqrtdrYoy18) | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/album/2jxG8W8Gw0ojAYLF7OoCbH) | 2:57 | 2025-12-26 | 2026-01-15 |
 | [Dumije](https://open.spotify.com/track/0jYCGKF8WaWIAVgNDEC3Na) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Dumije](https://open.spotify.com/album/1qIrvb21SxtTlmpjYKmlvq) | 2:24 | 2026-02-27 | 2026-04-03 |
@@ -200,6 +200,7 @@
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-06-09 |  |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forever You Are God](https://open.spotify.com/track/1STQoJfd8xcqv0tKMhf1Ri) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:04 | 2023-12-05 | 2023-12-11 |
+| [Forgive Them](https://open.spotify.com/track/7AKGAXjgLwJqjlDiRgPRzm) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Forgive Them](https://open.spotify.com/album/52NdNfeH0aHfuijcc1IEi4) | 2:26 | 2026-07-10 |  |
 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 | 2026-06-19 |  |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2023-12-01 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2023-12-05 | 2023-12-11 |

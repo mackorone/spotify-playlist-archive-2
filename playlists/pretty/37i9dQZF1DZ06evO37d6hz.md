@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 15 | [FlyBy](https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Prsnt](https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4) | 0:35 |
 | 16 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
 | 17 | [Three Sonic Spaces I](https://open.spotify.com/track/40YsslZstSIWncQEt8NNls) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:36 |
-| 18 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
-| 19 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
-| 20 | [The Expanding Universe](https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 28:28 |
+| 18 | [The Expanding Universe](https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 28:28 |
+| 19 | [Two Archetypes: Hall of Mirrors \- I](https://open.spotify.com/track/1NAWh1hzqWHyRhxFmSVnRF) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:24 |
+| 20 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
 
-Snapshot ID: `alwTgAAAAADby6S9jDVn9sCRhUCAnScY`
+Snapshot ID: `al1lAAAAAADI7mAivTydtPSsRNohmoOS`

@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. RØZ en portada
 
-1,826 songs - 4 day 1 hr 21 min
+1,827 songs - 4 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2023-08-19 |
 | [Bataboom](https://open.spotify.com/track/0LwHPQEjH2f1kPk79RFQGL) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Alex Casas](https://open.spotify.com/artist/7KhNUb1U0pYyNTJf1d98sW), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Bataboom](https://open.spotify.com/album/4WVj93SXOnf5qsoJPOEtBg) | 2:35 | 2023-12-08 | 2023-12-16 |
 | [BBYOSEQESTASPENSANDO](https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [BBYOSEQESTASPENSANDO](https://open.spotify.com/album/2zK3Lk2CBACz7s5U60cGJA) | 3:47 | 2025-03-21 | 2025-03-29 |
+| [beam](https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [beam](https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm) | 3:06 | 2026-07-21 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2022-12-30 | 2023-08-12 |
 | [BEIBY](https://open.spotify.com/track/2QGrlOTCxANQOfgKf7kTzH) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [BEIBY](https://open.spotify.com/album/2P9GoHvBQi1nblhXAjWfYi) | 2:19 | 2024-07-26 | 2024-08-10 |
 | [BEIBY \- Remix](https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [SEXOLANDIA](https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV) | 3:17 | 2024-11-22 | 2024-12-21 |
@@ -1461,7 +1462,7 @@
 | [Si Las Miradas Mataran](https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Si Las Miradas Mataran](https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ) | 2:49 | 2026-05-29 |  |
 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 | 2025-12-05 | 2026-01-31 |
 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 | 2022-05-06 | 2022-10-15 |
-| [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 | 2026-03-27 |  |
+| [si me esperas](https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [si me esperas](https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r) | 3:00 | 2026-03-27 | 2026-07-22 |
 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 | 2023-01-13 | 2023-02-11 |
 | [Si No Piensas Cambiar \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 4:34 | 2025-09-26 | 2025-10-04 |
 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 | 2022-09-23 | 2022-09-30 |

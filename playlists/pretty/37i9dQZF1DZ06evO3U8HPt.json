@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 116659,
+  "num_followers": 117198,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAABkJDT9Jbjs4fp05v6M/X30",
+  "snapshot_id": "al1lAAAAAACPOS7aO57Y8wxcEyZIqnkM",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
       "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Hell At Night (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ"
+      "duration_ms": 185026,
+      "name": "Country Boy's Dream Girl",
+      "url": "https://open.spotify.com/track/5eVuVYp9OyD9dm6Wcyb5nr"
     },
     {
       "added_at": null,
@@ -99,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Country Boy's Dream Girl",
-      "url": "https://open.spotify.com/track/5eVuVYp9OyD9dm6Wcyb5nr"
+      "duration_ms": 179240,
+      "name": "Hell At Night (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ"
     },
     {
       "added_at": null,
@@ -527,18 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Ma I Made It",
-        "url": "https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb"
+        "name": "Here For The Party (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
       },
       "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 210040,
-      "name": "Hey Ma I Made It",
-      "url": "https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF"
+      "duration_ms": 210148,
+      "name": "Here For The Party (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here For The Party (feat. Ella Langley)",
-        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
+        "name": "Hey Ma I Made It",
+        "url": "https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb"
       },
       "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 210148,
-      "name": "Here For The Party (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
+      "duration_ms": 210040,
+      "name": "Hey Ma I Made It",
+      "url": "https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF"
     },
     {
       "added_at": null,

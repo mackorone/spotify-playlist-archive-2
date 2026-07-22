@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Yawar Abdal and other exciting artists.
 
-1,524 songs - 3 day 11 hr 48 min
+1,525 songs - 3 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Don't Cut Me Down](https://open.spotify.com/track/5cphONhhYqXTgIwfhkzvDu) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [Don't Cut Me Down](https://open.spotify.com/album/5WsE1d5oHfcnihzETt9mRf) | 5:34 | 2024-09-27 | 2024-11-09 |
 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 | 2025-08-29 | 2025-11-14 |
 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 | 2025-11-28 | 2025-12-17 |
-| [Don't Say That](https://open.spotify.com/track/6u6q5bLgJhb04upf8EFhdW) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Don't Say That](https://open.spotify.com/album/5OGHihQglHpyoGmIzZyQRk) | 2:00 | 2026-07-03 |  |
+| [Don't Say That](https://open.spotify.com/track/6u6q5bLgJhb04upf8EFhdW) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Don't Say That](https://open.spotify.com/album/5OGHihQglHpyoGmIzZyQRk) | 2:00 | 2026-07-03 | 2026-07-22 |
 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 | 2026-01-09 | 2026-03-27 |
 | [Doob Doob\-Doob Raha \- From "Phir Se Rock & Roll"](https://open.spotify.com/track/0FHsCg7VYzXJ1KEtpqh5b6) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Doob Doob\-Doob Raha \(From "Phir Se Rock & Roll"\)](https://open.spotify.com/album/0v7MKFW2Jb55ELqN5iE2Gf) | 2:47 | 2024-04-05 | 2024-05-18 |
 | [Doob Jaane De](https://open.spotify.com/track/1rYeEKg74fv2vfaQASo665) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Doob Jaane De](https://open.spotify.com/album/3gxJFtWQO3wshwWaQCaaEM) | 4:44 | 2026-01-30 | 2026-04-04 |
@@ -1524,6 +1524,7 @@
 | [Zeest](https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Chaltey Purzay](https://open.spotify.com/album/6xpfp8um2z8KrDKZbAl5GU) | 3:06 | 2024-10-04 | 2024-11-23 |
 | [Zeher](https://open.spotify.com/track/2YaAHGOC5bPKjCFTkNsmji) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Zeher](https://open.spotify.com/album/5jzFaJm5jPTkSYwXpO6NQq) | 3:33 | 2024-10-04 | 2024-11-30 |
 | [Zia](https://open.spotify.com/track/2S7p4KavTGc40XMSr3QTRU) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Zia](https://open.spotify.com/album/499mgoSqPN4ZAdiY0GHbUA) | 3:06 | 2024-12-13 | 2025-02-08 |
+| [zikr](https://open.spotify.com/track/5CzG3f4db3gGOWNriilxHC) | [Niyam](https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL) | [zikr](https://open.spotify.com/album/7thVjGi8ZSGXcZ8EH5NtqU) | 3:02 | 2026-07-17 |  |
 | [Zindagi](https://open.spotify.com/track/7x2PxTmn3mHPgll8j3Hgjx) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT), [Anjum Rehbar](https://open.spotify.com/artist/0zfGITLaaUpGsHqqHXZdEl), [Shubhraj](https://open.spotify.com/artist/2izx5VbbZ5oLFmTPOFCWAs) | [Zindagi](https://open.spotify.com/album/6mGyAJ1zOEQ0KljkrLAqsA) | 3:57 | 2023-07-28 | 2023-08-25 |
 | [Zindagi](https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Zindagi](https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp) | 3:03 | 2023-08-18 | 2023-09-16 |
 | [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-09-29 | 2025-10-11 |

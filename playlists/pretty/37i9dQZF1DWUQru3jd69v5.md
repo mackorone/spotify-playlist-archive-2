@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 10k watt e rooc lee in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,972 likes - 74 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,970 likes - 74 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 25 | [Labubu \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/10MzYKMwqyVIg08RuG344S) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Tigerplug](https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Labubu \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/5mFelpgmMreiY7nwXX9u4q) | 2:37 |
 | 26 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 27 | [Just Dance](https://open.spotify.com/track/4BUkJrKT3k3htt3ydYIC11) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [Just Dance](https://open.spotify.com/album/6TuChdHNHuUiqZkLLtqNl1) | 2:45 |
-| 28 | [Rodrigo Risivi](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [Rodrigo Risivi](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
+| 28 | [RODRIGO RISIVI](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [RODRIGO RISIVI](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
 | 29 | [+high \(dammi\)](https://open.spotify.com/track/6p07zPReDJX2urohIoBTiT) | [Yago](https://open.spotify.com/artist/0V5KSQBTEZ9aMI0rzoLfRI), [G17](https://open.spotify.com/artist/2lB36xZbos512csFypeLDI) | [+high \(dammi\)](https://open.spotify.com/album/2xTjYWqudROTWPiUCZRa1M) | 2:38 |
 | 30 | [xoxo](https://open.spotify.com/track/2K3iqLNDZQTsVMdbYLHY20) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7) | [euroshit](https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0) | 2:06 |
 | 31 | [Milano Keta Club](https://open.spotify.com/track/15ob0fBiNCCttWT5QbF7wP) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Milano Keta Club](https://open.spotify.com/album/2vzffd0pTE0KjZsBOuPBDc) | 2:03 |

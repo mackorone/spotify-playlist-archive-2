@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116551,
+  "num_followers": 116563,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Sudapollismo Ilustrado",
-        "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
-      },
-      "artists": [
-        {
-          "name": "Carry",
-          "url": "https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Sudapollismo Ilustrado",
-      "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Garrote Vil",
         "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 105386,
       "name": "Jubilaci\u00f3n a los 18",
       "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Sudapollismo Ilustrado",
+        "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
+      },
+      "artists": [
+        {
+          "name": "Carry",
+          "url": "https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Sudapollismo Ilustrado",
+      "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1147,26 +1147,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
       "artists": [
         {
-          "name": "Debruces",
-          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
-        },
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        },
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
         }
       ],
-      "duration_ms": 220942,
-      "name": "Una y Nos Vamos - Versi\u00f3n 2024",
-      "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1191,18 +1183,26 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+        "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
       "artists": [
         {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+          "name": "Debruces",
+          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
+        },
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        },
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
         }
       ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+      "duration_ms": 220942,
+      "name": "Una y Nos Vamos - Versi\u00f3n 2024",
+      "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
     },
     {
       "added_at": "2026-06-11 22:00:32",

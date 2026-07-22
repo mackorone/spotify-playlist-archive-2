@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123079,
+  "num_followers": 123096,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,42 @@
     {
       "added_at": "2026-07-16 17:00:23",
       "album": {
+        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
+      },
+      "artists": [
+        {
+          "name": "The Wind",
+          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
+    },
+    {
+      "added_at": "2026-07-16 17:00:23",
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/4oZqNyQWRIYB4hzrLNong1"
+    },
+    {
+      "added_at": "2026-07-16 17:00:23",
+      "album": {
         "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
         "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
       },
@@ -175,42 +211,6 @@
     {
       "added_at": "2026-07-16 17:00:23",
       "album": {
-        "name": "HVL",
-        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/4oZqNyQWRIYB4hzrLNong1"
-    },
-    {
-      "added_at": "2026-07-16 17:00:23",
-      "album": {
-        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
-      },
-      "artists": [
-        {
-          "name": "The Wind",
-          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
-    },
-    {
-      "added_at": "2026-07-16 17:00:23",
-      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
-    },
-    {
-      "added_at": "2026-07-16 17:00:23",
-      "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2026-07-16 17:00:23",
@@ -267,6 +251,22 @@
     {
       "added_at": "2026-07-16 17:00:23",
       "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-07-16 17:00:23",
+      "album": {
         "name": "HVL",
         "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
@@ -274,11 +274,15 @@
         {
           "name": "RPT MCK",
           "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
         }
       ],
-      "duration_ms": 233249,
-      "name": "Li\u1ec7m",
-      "url": "https://open.spotify.com/track/6gmXMeStkiDoAbNaUeHbqU"
+      "duration_ms": 173402,
+      "name": "Baby (feat. marzuz)",
+      "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
     },
     {
       "added_at": "2026-07-16 17:00:23",
@@ -366,15 +370,11 @@
         {
           "name": "RPT MCK",
           "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
         }
       ],
-      "duration_ms": 173402,
-      "name": "Baby (feat. marzuz)",
-      "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
+      "duration_ms": 233249,
+      "name": "Li\u1ec7m",
+      "url": "https://open.spotify.com/track/6gmXMeStkiDoAbNaUeHbqU"
     },
     {
       "added_at": "2026-07-16 17:00:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-16 17:00:23",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
-      },
-      "artists": [
-        {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
-        }
-      ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
-    },
-    {
-      "added_at": "2026-07-16 17:00:23",
-      "album": {
         "name": "ABG",
         "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 180000,
       "name": "ABG",
       "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
+    },
+    {
+      "added_at": "2026-07-16 17:00:23",
+      "album": {
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        }
+      ],
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
     },
     {
       "added_at": "2026-07-16 17:00:23",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-07-16 17:00:23",
       "album": {
+        "name": "Ho\u00e0ng",
+        "url": "https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 231504,
+      "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
+      "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
+    },
+    {
+      "added_at": "2026-07-16 17:00:23",
+      "album": {
         "name": "M\u1eaft B\u00e3o",
         "url": "https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 259402,
       "name": "M\u1eaft B\u00e3o",
       "url": "https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK"
-    },
-    {
-      "added_at": "2026-07-16 17:00:23",
-      "album": {
-        "name": "Ho\u00e0ng",
-        "url": "https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u"
-      },
-      "artists": [
-        {
-          "name": "Ho\u00e0ng Th\u00f9y Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        },
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 231504,
-      "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
-      "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

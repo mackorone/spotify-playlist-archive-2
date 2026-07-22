@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 123577,
+  "num_followers": 123601,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Wolkenreise II",
-        "url": "https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM"
-      },
-      "artists": [
-        {
-          "name": "Eroc",
-          "url": "https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Wolkenreise - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "San",
         "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Wolkenreise II",
+        "url": "https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM"
+      },
+      "artists": [
+        {
+          "name": "Eroc",
+          "url": "https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Wolkenreise - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D"
-      },
-      "artists": [
-        {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
-        }
-      ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise",
-      "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Hergest Ridge (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 1161586,
       "name": "Hergest Ridge: Part One - 2010 Stereo Mix",
       "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D"
+      },
+      "artists": [
+        {
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+        }
+      ],
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise",
+      "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -915,42 +915,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        },
-        {
-          "name": "Jan Akkerman",
-          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
-        }
-      ],
-      "duration_ms": 720426,
-      "name": "Silmarillion",
-      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Valley In The Clouds",
-      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Desert Dawn Song",
         "url": "https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW"
       },
@@ -971,6 +935,42 @@
       "duration_ms": 512466,
       "name": "Canyon Sunrise",
       "url": "https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Valley In The Clouds",
+      "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
+      },
+      "artists": [
+        {
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        },
+        {
+          "name": "Jan Akkerman",
+          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
+        }
+      ],
+      "duration_ms": 720426,
+      "name": "Silmarillion",
+      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Lifeforce Celebration",
-      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 1041569,
       "name": "Pagnifico - Remastered",
       "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Lifeforce Celebration",
+      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
     },
     {
       "added_at": "2023-08-18 14:02:54",

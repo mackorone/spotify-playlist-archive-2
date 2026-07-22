@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 57236,
+  "num_followers": 57252,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "alwTgAAAAAAI3OFlU3SmRBqQ4Fb0kYpW",
+  "snapshot_id": "al1lAAAAAABhdEkFSTt/2mVPTNtU6/j4",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/2NuaEqLJ34II6Av4Dk3A70"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Your Glory",
         "url": "https://open.spotify.com/album/3fNNAjL8EF75DfXo8k8ySZ"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 203807,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/70VJujLz2uUo28xWNuc7ID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/2NuaEqLJ34II6Av4Dk3A70"
     },
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awaken: The Surrounded Experience",
-        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
+        "name": "Purified",
+        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
       "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 344413,
-      "name": "King of Glory",
-      "url": "https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX"
+      "duration_ms": 210893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
     },
     {
       "added_at": null,
@@ -779,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purified",
-        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 635360,
       "name": "King of Glory - Live",
       "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awaken: The Surrounded Experience",
+        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 344413,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Yard Act",
-  "num_followers": 131463,
+  "num_followers": 131467,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Pistol",
         "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 205365,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "mettle",
         "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 205554,
       "name": "Keira Knightley",
       "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Rushmere",
-        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Something To Be Said",
+        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Something To Be Said",
+      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "The Theory Of Whatever",
         "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 235666,
       "name": "The Old Style Raiders",
       "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 197791,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1023,40 +1023,8 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Something To Be Said",
-        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Something To Be Said",
-      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Dirty White Lies",
-        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
       },
       "artists": [
         {
@@ -1064,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
         }
       ],
-      "duration_ms": 179093,
-      "name": "Dirty White",
-      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+      "duration_ms": 197791,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Something Else to Give",
+        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 285183,
+      "name": "Something Else to Give",
+      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Dirty White Lies",
+        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Dirty White",
+      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Busker's Paradise",
-        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 223812,
-      "name": "Busker's Paradise",
-      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Busker's Paradise",
+        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 223812,
+      "name": "Busker's Paradise",
+      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Personality Test",
         "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 140609,
       "name": "Personality Test",
       "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Something Else to Give",
-        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 285183,
-      "name": "Something Else to Give",
-      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 189534,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Put On A Record Tommy",
         "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
       },
@@ -1423,6 +1439,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Vice Versa",
+        "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 163687,
+      "name": "Vice Versa",
+      "url": "https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
       },
@@ -1471,6 +1503,22 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
+        "name": "Flea Joint",
+        "url": "https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "duration_ms": 269872,
+      "name": "Flea Joint",
+      "url": "https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
         "name": "Oh! The Ocean",
         "url": "https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3"
       },
@@ -1499,22 +1547,6 @@
       "duration_ms": 243280,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/0kJCaJv3ghYfRss2vI0r9K"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "COOL",
-        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 189534,
-      "name": "COOL",
-      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1583,38 +1615,6 @@
       "duration_ms": 231394,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Vice Versa",
-        "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 163687,
-      "name": "Vice Versa",
-      "url": "https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi"
     }
   ],
   "unique_name": "Proper Belters",

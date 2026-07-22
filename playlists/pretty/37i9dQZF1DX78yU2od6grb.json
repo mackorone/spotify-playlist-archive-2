@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 532107,
+  "num_followers": 532033,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "You Need To Calm Down (Clean Bandit Remix)",
-        "url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "You Need To Calm Down - Clean Bandit Remix",
-      "url": "https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/2IOxCs33hAnjIQrdwJqFKb"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 199173,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/736MgYHdLtKTBKGJTutpGz"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "You Need To Calm Down (Clean Bandit Remix)",
+        "url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "You Need To Calm Down - Clean Bandit Remix",
+      "url": "https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst"
     },
     {
       "added_at": "2025-02-07 03:01:15",

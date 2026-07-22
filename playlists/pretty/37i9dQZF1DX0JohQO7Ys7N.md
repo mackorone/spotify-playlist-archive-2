@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes over the next two weeks\.  Cover: Nyashinski
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Nyashinski
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,927 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,015 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 49 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 |
 | 50 | [Kitenge](https://open.spotify.com/track/2SYTN0287HIiXyqqO8EowW) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:18 |
 
-Snapshot ID: `AAAAAFTCP0Oir7XDeuUnNMWqfbFA74dA`
+Snapshot ID: `AAAAALFzBgGG4MXfx+DWaCngoaXZX6XT`

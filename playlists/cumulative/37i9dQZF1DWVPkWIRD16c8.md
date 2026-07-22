@@ -4,7 +4,7 @@
 
 > Let Jesus take the wheel...and the aux cord!
 
-291 songs - 17 hr 11 min
+292 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 | 2025-12-12 |  |
 | [Again Again](https://open.spotify.com/track/61deV82ORZt06deZ42I4Ur) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Again Again](https://open.spotify.com/album/2wLpi3IwFOp9GoSTHn4CnE) | 2:47 | 2025-09-14 | 2026-06-16 |
 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 | 2025-09-14 | 2026-03-15 |
+| [Ain't It Beautiful](https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Ain't It Beautiful](https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq) | 3:34 | 2026-05-29 |  |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2024-06-07 | 2026-05-30 |
 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 | 2019-11-20 | 2024-04-19 |
 | [Almost Home](https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/0JNbn5gGkdaRIjaZ54UyCG) | 4:12 | 2019-11-20 | 2024-06-08 |
@@ -101,7 +102,7 @@
 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 | 2025-09-14 |  |
 | [Heaven](https://open.spotify.com/track/6FYjFJCPnWDkKu7Fx6W0cv) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Heaven](https://open.spotify.com/album/5c81L3GTntVoeUPfIfYmjf) | 3:46 | 2019-11-20 | 2022-07-29 |
 | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/track/5dJHRM6Z8shJn5y59KM8ND) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Jude Moses](https://open.spotify.com/artist/0ZucOY9iAgayOMRZwSDJSO) | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/album/2ZEEgDddhG0ET7yhjriWFb) | 5:15 | 2025-09-14 | 2026-03-24 |
-| [heaven knows i tried \- acoustic](https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS \(DELUXE\)](https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS) | 3:09 | 2026-03-23 |  |
+| [heaven knows i tried \- acoustic](https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS \(DELUXE\)](https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS) | 3:09 | 2026-03-23 | 2026-07-22 |
 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 | 2025-09-14 |  |
 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 | 2025-09-14 | 2025-12-13 |
 | [Here In The Moment](https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [aroma:devotion](https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja) | 3:46 | 2026-05-29 |  |

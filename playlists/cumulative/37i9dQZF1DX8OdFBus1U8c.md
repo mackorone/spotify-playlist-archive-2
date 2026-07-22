@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Dabzee
 
-551 songs - 1 day 4 hr 20 min
+552 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Ennil Ne](https://open.spotify.com/track/0xmlne128nCg1MFVCzH3A2) | [Arkeez](https://open.spotify.com/artist/3S44RXlrlkJYdHtQEqo9zv) | [Ennil Ne](https://open.spotify.com/album/5ugaMwBrs27HVF6HQiLebG) | 2:34 | 2025-09-16 | 2025-11-21 |
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |
 | [Ente Vazhi](https://open.spotify.com/track/01QdrNLzZiRMH9VB1zPYxB) | [Aliyanshood](https://open.spotify.com/artist/7ztwqdJ9RiTK2T52lMXRBG), [Tony Jo](https://open.spotify.com/artist/1zId33t7ydEllvaMTFbxmF), [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl), [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Ente Vazhi](https://open.spotify.com/album/7vSh1whD00yvGlYevXp3qw) | 3:38 | 2025-08-25 | 2025-10-19 |
+| [Entha Haal \- From "Kerala Underground"](https://open.spotify.com/track/5hEYWCzHY16Tyieti7xlQ6) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Entha Haal \(From "Kerala Underground"\)](https://open.spotify.com/album/0SPdDPXJGjcaUaSq2Kygax) | 2:34 | 2026-07-21 |  |
 | [Enthannuvecha Aykko](https://open.spotify.com/track/3ZoVs4zumz4WcLbCtr7TPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Enthannuvecha Aykko](https://open.spotify.com/album/095KgHug3ANYEGex1MJw5V) | 2:23 | 2024-01-15 | 2024-02-13 |
 | [Evide Maranam](https://open.spotify.com/track/0eVNMJId5QJJ1DGejNORq6) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Evide Maranam](https://open.spotify.com/album/1E6vVJHjZNzz7BR2KUJt2l) | 5:55 | 2025-01-09 | 2025-03-29 |
 | [EXPEN$VE](https://open.spotify.com/track/4fCg3xLGon9zfOHOzR27uM) | [Deon](https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO), [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl), [Bando B](https://open.spotify.com/artist/4i5TbrwjfzY1IclZa3Peae), [MSAI](https://open.spotify.com/artist/1aGzTpfUipTGG19Bi4ckIe) | [EXPEN$VE](https://open.spotify.com/album/5ZSeXjO5jn2QTMWRZ7sxju) | 4:07 | 2025-05-27 | 2025-07-23 |
