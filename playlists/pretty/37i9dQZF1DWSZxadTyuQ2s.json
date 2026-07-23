@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Jorja Smith, Wizkid",
-  "num_followers": 39601,
+  "num_followers": 39643,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-07-17 00:01:31",
       "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Ma bella",
+      "url": "https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil"
+    },
+    {
+      "added_at": "2026-07-17 00:01:31",
+      "album": {
         "name": "Jetski (FRIKI)",
         "url": "https://open.spotify.com/album/1dXZwVsaw9SAYBrCs3QAax"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 170915,
       "name": "Jetski (FRIKI)",
       "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
-    },
-    {
-      "added_at": "2026-07-17 00:01:31",
-      "album": {
-        "name": "HateLove",
-        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Ma bella",
-      "url": "https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil"
     },
     {
       "added_at": "2026-07-17 00:01:31",

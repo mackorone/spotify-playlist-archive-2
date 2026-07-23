@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14022,
+  "num_followers": 14023,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAAQVfVvjWKVxq+GzgDLputU",
+  "snapshot_id": "al62gAAAAAD+qA7pmMlmtXjOZR3F0FPh",
   "tracks": [
     {
       "added_at": null,
@@ -194,11 +194,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+      "duration_ms": 146176,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/7f5SAz6gixQq0ULfJamBg6"
     },
     {
       "added_at": null,
@@ -266,15 +270,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 146176,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/7f5SAz6gixQq0ULfJamBg6"
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": null,

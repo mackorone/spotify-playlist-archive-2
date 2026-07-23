@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lucas Pretti",
-  "num_followers": 359824,
+  "num_followers": 359785,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "NUVEM NEGRA",
-        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "Fernando Catatau",
-          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "NUVEM NEGRA",
-      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-07-10 03:00:07",
-      "album": {
         "name": "CARAMELO SALGADO",
         "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
       },
@@ -127,18 +107,22 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+        "name": "NUVEM NEGRA",
+        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "Fernando Catatau",
+          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+      "duration_ms": 294570,
+      "name": "NUVEM NEGRA",
+      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
     },
     {
       "added_at": "2026-07-10 03:00:07",
@@ -167,6 +151,22 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-07-10 03:00:07",
+      "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
     },
     {
       "added_at": "2026-07-10 03:00:07",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "Caipiranhas",
-        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        }
-      ],
-      "duration_ms": 116097,
-      "name": "Caipiranhas",
-      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
-    },
-    {
-      "added_at": "2026-07-10 03:00:07",
-      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-07-10 03:00:07",
+      "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
     },
     {
       "added_at": "2026-07-10 03:00:07",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "Mais Que Isso",
-        "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        },
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mais Que Isso",
-      "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
-    },
-    {
-      "added_at": "2026-07-10 03:00:07",
-      "album": {
         "name": "CASA MOLHADA",
         "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 145237,
       "name": "N\u00c3O VOU PARAR",
       "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
+    },
+    {
+      "added_at": "2026-07-10 03:00:07",
+      "album": {
+        "name": "Mais Que Isso",
+        "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mais Que Isso",
+      "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
     },
     {
       "added_at": "2026-07-10 03:00:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
-    },
-    {
-      "added_at": "2026-07-10 03:00:07",
-      "album": {
         "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
         "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2026-07-10 03:00:07",
       "album": {
-        "name": "carne fraca",
-        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
       "artists": [
         {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 154285,
-      "name": "carne fraca",
-      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-07-10 03:00:07",
@@ -991,6 +975,22 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-07-10 03:00:07",
+      "album": {
+        "name": "carne fraca",
+        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "carne fraca",
+      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
     },
     {
       "added_at": "2026-07-10 03:00:07",

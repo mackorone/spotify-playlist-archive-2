@@ -4,7 +4,7 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-193 songs - 10 hr 36 min
+194 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [El Foundou](https://open.spotify.com/track/7aSuIwrwORkhgnASF69Uri) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [El Foundou](https://open.spotify.com/album/0HE2ooOyrWy46UafbdNXXw) | 3:08 | 2024-03-10 | 2024-04-19 |
 | [El Omr](https://open.spotify.com/track/0b7LojaglTKiRajPGjfsiP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [El Omr](https://open.spotify.com/album/6lzqUlf0BIs2IaiQFjSgCc) | 3:38 | 2024-03-10 |  |
 | [El Shawarea Hawadeet](https://open.spotify.com/track/1H8yRqNgrvEfayedUKyJAR) | [Ferqet El Masryeen](https://open.spotify.com/artist/5KmlAHpo6RWvUVoXfc3Q5M) | [Bahebak La](https://open.spotify.com/album/3inqrohlc5Hnph8IPu2guh) | 5:39 | 2026-07-10 |  |
-| [Elly Banna Masr \- From "Bawabet El Halawany"](https://open.spotify.com/track/4CzhIQZkhUidAnTOZpzrQl) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [Arabic Drama Soundtracks](https://open.spotify.com/album/2JfsL3QNhiFdHUfi3P8Xii) | 4:06 | 2026-02-10 |  |
+| [Elly Banna Masr \- From "Bawabet El Halawany"](https://open.spotify.com/track/4CzhIQZkhUidAnTOZpzrQl) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [Arabic Drama Soundtracks](https://open.spotify.com/album/2JfsL3QNhiFdHUfi3P8Xii) | 4:06 | 2026-02-10 | 2026-07-23 |
 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 | 2025-03-13 |  |
 | [Forsa Tanya \- Music from the Original TV Series](https://open.spotify.com/track/3PvwLFsBlIwyKGXgHvHqmH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Forsa Tanya \(Music from the Original TV Series\)](https://open.spotify.com/album/5DI1F2g6R8qumJSSpYLXxC) | 4:06 | 2024-03-10 |  |
 | [Ha Khouya](https://open.spotify.com/track/1eEWmjCWjFtWhL36HKdjsc) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ha Khouya](https://open.spotify.com/album/6XQsDdlTch6XLivTtooFzL) | 2:57 | 2024-03-10 | 2025-03-04 |
@@ -90,6 +90,7 @@
 | [Sayed Alaqareb Intro](https://open.spotify.com/track/3Yhes3SPh9D70CMNA76y9I) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Sayed Alaqareb Intro](https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz) | 3:49 | 2024-03-12 | 2025-02-28 |
 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 | 2024-03-10 | 2025-03-07 |
 | [Shabah El Nas](https://open.spotify.com/track/5j51KQlnszb56wSt6tgi5V) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Shabah El Nas](https://open.spotify.com/album/1599Wbr56qYHRfwaEkbUb3) | 3:09 | 2026-03-06 |  |
+| [Shara Elsama](https://open.spotify.com/track/4rmt3rs6KdMzeFZWX7I84K) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shara Elsama](https://open.spotify.com/album/4hWMHH057g3Wuy0efCs9je) | 3:51 | 2026-07-10 |  |
 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 | 2025-03-06 | 2026-02-11 |
 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 | 2025-02-27 |  |
 | [Tareky](https://open.spotify.com/track/22euUY2htIxug24Wfu1hTG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Tareky Series](https://open.spotify.com/album/6ZcmIgkKh6COUyXudJvT1j) | 4:20 | 2026-02-13 |  |

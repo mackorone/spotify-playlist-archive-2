@@ -1,13 +1,45 @@
 {
   "description": "Videos from our studio and live sessions. Music videos available only on Premium. Cover: Kehlani",
-  "num_followers": 176,
+  "num_followers": 178,
   "original_name": "Spotify Studios Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwC0ZhN/ff4jUjVZFzvdD2rfezm",
+  "snapshot_id": "AAAAAG4bQiqFqYXfMw60u6S0efrF7bEy",
   "tracks": [
+    {
+      "added_at": "2026-07-22 18:10:33",
+      "album": {
+        "name": "SIENNA SPIRO - Spotify Live Room",
+        "url": "https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 172937,
+      "name": "Great Expectation (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/35Wr5GycVuAXWCHqRCceqz"
+    },
+    {
+      "added_at": "2026-07-22 18:10:33",
+      "album": {
+        "name": "SIENNA SPIRO - Spotify Live Room",
+        "url": "https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 242459,
+      "name": "It Takes A Woman (Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm"
+    },
     {
       "added_at": "2026-07-13 17:06:12",
       "album": {

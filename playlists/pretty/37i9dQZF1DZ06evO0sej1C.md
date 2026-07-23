@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,077 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,082 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 22 | [No Me Marques Pedo](https://open.spotify.com/track/3C8BAS81BZWVMQ6jIO8hcT) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Monstruos](https://open.spotify.com/album/0RtwQCubLxroysOl3OwEQ6) | 2:31 |
 | 23 | [Me Baila Hasta Abajo](https://open.spotify.com/track/4lHdMFBQbwz34uO9g2vDgH) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Como Es Arriba, Es Abajo](https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH) | 3:32 |
 | 24 | [Se Me Pasó](https://open.spotify.com/track/24cbsJGo2fQWiFp0dhlTCW) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 3:59 |
-| 25 | [No Vuelvas Mas A Mi](https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R) | 4:03 |
-| 26 | [Chip S \(Metal Version\)](https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De) | 3:13 |
+| 25 | [Chip S \(Metal Version\)](https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De) | 3:13 |
+| 26 | [No Vuelvas Mas A Mi](https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R) | 4:03 |
 | 27 | [Frío](https://open.spotify.com/track/5BuebQJbyQOAS4VFQ10KFn) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Frío](https://open.spotify.com/album/3gPYyyxIn2JBcnCVyz1NVP) | 3:24 |
 | 28 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
 | 29 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 |
 | 50 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 |
 
-Snapshot ID: `al1lAAAAAADrAhRUp0oDtDeaY6A6MTTy`
+Snapshot ID: `al62gAAAAAC1iQVuz7lJ6tFS8uMyF6Bv`

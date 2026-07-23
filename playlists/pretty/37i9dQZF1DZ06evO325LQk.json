@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38401,
+  "num_followers": 38400,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAAX3hOSMljMXMa48K6rx1Rk",
+  "snapshot_id": "al62gAAAAADqCKZ6oYdT0b1pa8dp/bXl",
   "tracks": [
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 327093,
-      "name": "Push Emission (Whore Moans)",
-      "url": "https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx"
+      "duration_ms": 242809,
+      "name": "Pretending I Give In (Let Go)",
+      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 242809,
-      "name": "Pretending I Give In (Let Go)",
-      "url": "https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi"
+      "duration_ms": 327093,
+      "name": "Push Emission (Whore Moans)",
+      "url": "https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx"
     }
   ],
   "unique_name": "This Is SOPHIE",

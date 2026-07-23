@@ -7435,6 +7435,24 @@
     },
     {
       "album": {
+        "name": "Everyday (VIP)",
+        "url": "https://open.spotify.com/album/5u8LAtgQ9vcp6vTiONUYyJ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Everyday - VIP",
+      "url": "https://open.spotify.com/track/6yOOnGQHjdxbEAs6DBvN01"
+    },
+    {
+      "album": {
         "name": "EXHALE",
         "url": "https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA"
       },

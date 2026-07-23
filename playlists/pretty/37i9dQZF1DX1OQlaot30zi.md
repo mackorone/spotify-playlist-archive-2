@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Mambolosco, Artie 5ive, PRACI con Ernia, 10k watt, con rooc lee e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,885 likes - 125 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,893 likes - 125 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

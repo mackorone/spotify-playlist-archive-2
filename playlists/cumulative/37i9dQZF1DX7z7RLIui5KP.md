@@ -2,7 +2,7 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Nyashinski
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Xenia Manasseh
 
 256 songs - 15 hr 1 min
 

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,271 songs - 2 day 22 hr 32 min
+1,272 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 | 2024-11-07 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [Everyday](https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Everyday](https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3) | 3:05 | 2026-04-13 | 2026-07-21 |
+| [Everyday \- VIP](https://open.spotify.com/track/6yOOnGQHjdxbEAs6DBvN01) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Everyday \(VIP\)](https://open.spotify.com/album/5u8LAtgQ9vcp6vTiONUYyJ) | 3:07 | 2026-07-22 |  |
 | [EXHALE](https://open.spotify.com/track/2HpWscyVyXAeiSbEa9SVkS) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EXHALE](https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA) | 2:59 | 2024-10-15 | 2025-01-22 |
 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 | 2024-09-12 |
 | [EYES ON ME \- Sped Up](https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME \(Sped Up\)](https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF) | 3:25 | 2024-10-07 | 2025-01-15 |

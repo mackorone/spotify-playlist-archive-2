@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN?si=bc4OEJ1JT7qFbXZz4zgZ\_g">Ezra</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,667 likes - 130 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,751 likes - 130 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 129 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 | 130 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAACFqWVOTz0yRjNGjPAe4EMZynqxT`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAACc8O7PMws89t36xeTL75Y2",
+  "snapshot_id": "al62gAAAAABgDBzePMOUmLR5afPJXr/r",
   "tracks": [
     {
       "added_at": null,
@@ -48,9 +48,9 @@
           "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
         }
       ],
-      "duration_ms": 363373,
-      "name": "dawn | pulse",
-      "url": "https://open.spotify.com/track/6p6gGiEfakRt7WFcVUEgcb"
+      "duration_ms": 39133,
+      "name": "chewing gum",
+      "url": "https://open.spotify.com/track/0OYEIWUFvv5kzPIjF7lAyH"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
         }
       ],
-      "duration_ms": 275035,
-      "name": "fog | mirror",
-      "url": "https://open.spotify.com/track/1K37qUVVO7hSQkG72X6lye"
+      "duration_ms": 363373,
+      "name": "dawn | pulse",
+      "url": "https://open.spotify.com/track/6p6gGiEfakRt7WFcVUEgcb"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
         }
       ],
-      "duration_ms": 39133,
-      "name": "chewing gum",
-      "url": "https://open.spotify.com/track/0OYEIWUFvv5kzPIjF7lAyH"
+      "duration_ms": 275035,
+      "name": "fog | mirror",
+      "url": "https://open.spotify.com/track/1K37qUVVO7hSQkG72X6lye"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Whistle Seller, Guangzhou",
-        "url": "https://open.spotify.com/album/3D8fHmmuT8ZQxiEzJacM8x"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Home, Los Angeles",
-      "url": "https://open.spotify.com/track/59ClztjwU9ic9p24oyTGJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -279,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "73|74 (Excerpt)",
-        "url": "https://open.spotify.com/album/6jyJo9jpH9KNZOu9hOXO3l"
+        "name": "For Translucence",
+        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
       },
       "artists": [
         {
@@ -292,9 +272,29 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 242000,
-      "name": "73|74",
-      "url": "https://open.spotify.com/track/4wQVGaMlT58dpkymuWcB16"
+      "duration_ms": 642585,
+      "name": "54|56",
+      "url": "https://open.spotify.com/track/0Oxn7S8dD2a3Yhy6X248UC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Whistle Seller, Guangzhou",
+        "url": "https://open.spotify.com/album/3D8fHmmuT8ZQxiEzJacM8x"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Home, Los Angeles",
+      "url": "https://open.spotify.com/track/59ClztjwU9ic9p24oyTGJI"
     },
     {
       "added_at": null,
@@ -323,6 +323,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Steve Rosborough",
+          "url": "https://open.spotify.com/artist/5W75o99frVpwQHuZkrGFK5"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Home, Portland",
+      "url": "https://open.spotify.com/track/63Lk95iGnAj650GzFLpxL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Translucence",
+        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
+      },
+      "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 524000,
+      "name": "65|66",
+      "url": "https://open.spotify.com/track/0uOZrDOlpgV7vcfWrPSftD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When the Distance is Blue",
         "url": "https://open.spotify.com/album/0YCz0QWFzM0bgpEyjJTsTn"
       },
@@ -339,6 +379,30 @@
       "duration_ms": 367000,
       "name": "I Forget How To Remember My Dreams (ft. Lia Kohl)",
       "url": "https://open.spotify.com/track/6nD3PR4C7MwktelphQI8AD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BODY SOUND",
+        "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "snow | touch",
+      "url": "https://open.spotify.com/track/45IvjU3cSolzZqlQP63566"
     },
     {
       "added_at": null,
@@ -371,22 +435,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Transit",
-        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
+        "name": "73|74 (Excerpt)",
+        "url": "https://open.spotify.com/album/6jyJo9jpH9KNZOu9hOXO3l"
       },
       "artists": [
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
         },
         {
-          "name": "Zander Raymond",
-          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 185018,
-      "name": "Woven things rest",
-      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
+      "duration_ms": 242000,
+      "name": "73|74",
+      "url": "https://open.spotify.com/track/4wQVGaMlT58dpkymuWcB16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Translucence",
+        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
+      },
+      "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 689914,
+      "name": "48|50",
+      "url": "https://open.spotify.com/track/5TJBMHreOoaJxfcONpuHuG"
     },
     {
       "added_at": null,
@@ -408,29 +492,9 @@
           "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 168120,
-      "name": "snow | touch",
-      "url": "https://open.spotify.com/track/45IvjU3cSolzZqlQP63566"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 287030,
-      "name": "Car Alarm, Turn Signal",
-      "url": "https://open.spotify.com/track/771vsM7g5JRJp5FzOAy9SK"
+      "duration_ms": 453146,
+      "name": "stone | piece",
+      "url": "https://open.spotify.com/track/4cZS4VNG5ZRpgV9F5djsFy"
     },
     {
       "added_at": null,
@@ -442,15 +506,11 @@
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Steve Rosborough",
-          "url": "https://open.spotify.com/artist/5W75o99frVpwQHuZkrGFK5"
         }
       ],
       "duration_ms": 60000,
-      "name": "Home, Portland",
-      "url": "https://open.spotify.com/track/63Lk95iGnAj650GzFLpxL3"
+      "name": "Train, Antwerp to Amsterdam",
+      "url": "https://open.spotify.com/track/0aaYQVSzfUKPtK4ZUs7Nkv"
     },
     {
       "added_at": null,
@@ -475,26 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY SOUND",
-        "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
       },
       "artists": [
-        {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
-        },
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         },
         {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
         }
       ],
-      "duration_ms": 159093,
-      "name": "cough | laugh",
-      "url": "https://open.spotify.com/track/4pilL720txoSnSUAxcU4WL"
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/771vsM7g5JRJp5FzOAy9SK"
     },
     {
       "added_at": null,
@@ -529,8 +585,8 @@
         }
       ],
       "duration_ms": 60000,
-      "name": "Voting Line, Downtown Chicago",
-      "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"
+      "name": "Amtrak, Hudson Valley",
+      "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
     },
     {
       "added_at": null,
@@ -571,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Translucence",
-        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
       },
       "artists": [
-        {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
-        },
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 524000,
-      "name": "65|66",
-      "url": "https://open.spotify.com/track/0uOZrDOlpgV7vcfWrPSftD"
+      "duration_ms": 196015,
+      "name": "sit on the floor and wait for storms",
+      "url": "https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x"
     },
     {
       "added_at": null,
@@ -601,8 +653,8 @@
         }
       ],
       "duration_ms": 60000,
-      "name": "Amtrak, Hudson Valley",
-      "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
+      "name": "Voting Line, Downtown Chicago",
+      "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"
     },
     {
       "added_at": null,
@@ -620,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 203036,
-      "name": "A duck with green feet",
-      "url": "https://open.spotify.com/track/2L6IrYqvbVp1VMdF7EREgX"
+      "duration_ms": 185018,
+      "name": "Woven things rest",
+      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
     },
     {
       "added_at": null,
@@ -656,97 +708,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 196015,
-      "name": "sit on the floor and wait for storms",
-      "url": "https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Train, Antwerp to Amsterdam",
-      "url": "https://open.spotify.com/track/0aaYQVSzfUKPtK4ZUs7Nkv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Transit",
-        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Zander Raymond",
-          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
-        }
-      ],
-      "duration_ms": 378878,
-      "name": "Not in the hand",
-      "url": "https://open.spotify.com/track/2AaJKxmGLoG3duuSw1GmTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Translucence",
-        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
-      },
-      "artists": [
-        {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
-        },
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 642585,
-      "name": "54|56",
-      "url": "https://open.spotify.com/track/0Oxn7S8dD2a3Yhy6X248UC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 325829,
-      "name": "or things maybe dropping",
-      "url": "https://open.spotify.com/track/4mluhAL9TDVZ8oYbn9z84o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 289870,
-      "name": "Ignition, Sneakers",
-      "url": "https://open.spotify.com/track/5fq1yRS0J3pZp2mNfY0Pq0"
+      "duration_ms": 268509,
+      "name": "in a specific room",
+      "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
     },
     {
       "added_at": null,
@@ -771,38 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Translucence",
-        "url": "https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2"
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
       },
       "artists": [
         {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         },
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 689914,
-      "name": "48|50",
-      "url": "https://open.spotify.com/track/5TJBMHreOoaJxfcONpuHuG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 268509,
-      "name": "in a specific room",
-      "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
+      "duration_ms": 203036,
+      "name": "A duck with green feet",
+      "url": "https://open.spotify.com/track/2L6IrYqvbVp1VMdF7EREgX"
     },
     {
       "added_at": null,
@@ -816,9 +764,25 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 323733,
-      "name": "Ice Cream Truck, Tornado Siren",
-      "url": "https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An"
+      "duration_ms": 289870,
+      "name": "Ignition, Sneakers",
+      "url": "https://open.spotify.com/track/5fq1yRS0J3pZp2mNfY0Pq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 325829,
+      "name": "or things maybe dropping",
+      "url": "https://open.spotify.com/track/4mluhAL9TDVZ8oYbn9z84o"
     },
     {
       "added_at": null,
@@ -839,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 321000,
-      "name": "the moment a zipper",
-      "url": "https://open.spotify.com/track/3oKbjge11bGrq7xABhauTj"
+      "duration_ms": 378878,
+      "name": "Not in the hand",
+      "url": "https://open.spotify.com/track/2AaJKxmGLoG3duuSw1GmTl"
     },
     {
       "added_at": null,
@@ -871,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Small to be a Plain",
-        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 211606,
-      "name": "Second Picture of the Same Weather Pattern",
-      "url": "https://open.spotify.com/track/6F9q6f0K3L0fFfemzWenXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ceiling Reposes",
         "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
       },
@@ -903,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 323733,
+      "name": "Ice Cream Truck, Tornado Siren",
+      "url": "https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ceiling Reposes",
         "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
       },
@@ -915,6 +883,22 @@
       "duration_ms": 472226,
       "name": "when glass is there, and water,",
       "url": "https://open.spotify.com/track/1F0Rj56hbmFWbugq15Dem1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "the moment a zipper",
+      "url": "https://open.spotify.com/track/3oKbjge11bGrq7xABhauTj"
     }
   ],
   "unique_name": "This Is Lia Kohl",

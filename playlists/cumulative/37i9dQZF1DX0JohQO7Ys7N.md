@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Nyashinski
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Njerae
 
-361 songs - 20 hr 22 min
+363 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 | 2025-08-29 |
 | [Baki Kidogo](https://open.spotify.com/track/0pJOEqT901bMtHu7jiEP17) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [We Don't Need Money to Be Rich](https://open.spotify.com/album/6DYfffdAKRD8rMgKoPDKIR) | 2:34 | 2026-06-18 | 2026-07-16 |
 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-02-13 | 2025-02-21 |
+| [Beg For It](https://open.spotify.com/track/46QXFPj4a8Pc0bgTHJKw0i) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2q6wjA7JZIKvEAFRzmhBuW) | 2:53 | 2026-07-22 |  |
 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 | 2025-01-17 | 2026-07-16 |
 | [Beta](https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Beta](https://open.spotify.com/album/4gsFVC2N6mrMo5Q5lmBHIz) | 3:13 | 2025-02-13 | 2025-02-21 |
 | [Bloom](https://open.spotify.com/track/4sDQhJISnGJtydLmhrHMEy) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Bosire](https://open.spotify.com/artist/3RZuOCEI4xdVG81shJPVG9) | [Bloom](https://open.spotify.com/album/3zWISwsDNQcI3mDojttm6H) | 3:40 | 2025-02-13 | 2025-02-21 |
@@ -118,7 +119,7 @@
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
 | [Hold Me](https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Eternal](https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7) | 4:21 | 2026-03-05 | 2026-07-16 |
-| [Homabay](https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:23 | 2026-07-15 |  |
+| [Homabay](https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:23 | 2026-07-15 | 2026-07-23 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
 | [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 | 2026-07-16 |
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 |  |
@@ -160,6 +161,7 @@
 | [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 | 2023-09-13 |
 | [Kitenge](https://open.spotify.com/track/2SYTN0287HIiXyqqO8EowW) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:18 | 2026-07-15 |  |
 | [Kitenge](https://open.spotify.com/track/6Xt2YN0KckBlx9wRhZM97M) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP) | 3:18 | 2025-02-13 | 2025-02-21 |
+| [Kupendwa Na We](https://open.spotify.com/track/11J60sqzkA3kC4iHTzGCuL) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Kupendwa Na We](https://open.spotify.com/album/4o59AzJ3bVaTfr8zHVkmi6) | 3:38 | 2026-07-22 |  |
 | [Kweli](https://open.spotify.com/track/5JPRVLg7QWAe0Trj0YlYtb) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Out With The Old](https://open.spotify.com/album/2pE7yxSv7xw2uRL8Sz6XDP) | 2:12 | 2025-02-13 | 2025-02-21 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2026-07-16 |
 | [Lavender](https://open.spotify.com/track/3nv3jjG5cQ8vRW6JeDyS06) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Hornsphere](https://open.spotify.com/artist/27PRI6n81ZU9wJUSbIiLUN) | [Hekaya](https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP) | 3:37 | 2026-07-15 |  |
@@ -200,7 +202,7 @@
 | [Memory Lane](https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Memory Lane](https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW) | 3:26 | 2023-06-16 | 2024-08-09 |
 | [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-21 | 2026-01-24 |
 | [Milele](https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 3:21 | 2021-12-28 | 2025-02-08 |
-| [Mine](https://open.spotify.com/track/74q47ATOyzDIN4K1zqVmuH) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/3ttVDeym0cWIGLtSvD2DDA) | 3:50 | 2026-07-15 |  |
+| [Mine](https://open.spotify.com/track/74q47ATOyzDIN4K1zqVmuH) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/3ttVDeym0cWIGLtSvD2DDA) | 3:50 | 2026-07-15 | 2026-07-23 |
 | [MONEY OVER LOVE](https://open.spotify.com/track/1bRVuXgt09LS1QVUHO4MLT) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [MONEY OVER LOVE](https://open.spotify.com/album/1b91cls5Jm2s4naoWKtMKp) | 2:26 | 2026-06-18 | 2026-07-16 |
 | [More Than Friends](https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [More Than Friends](https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg) | 3:14 | 2024-10-10 | 2026-01-24 |
 | [Moto](https://open.spotify.com/track/3GBPQ74aZ3YehMxOP6zWLq) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81) | [Leta Ngoma](https://open.spotify.com/album/1rX8TJwwfaEfhjp2v41emq) | 3:14 | 2026-07-15 |  |

@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With winterburn, After Cooking, Michael Canitrot and more
+> With Michael Canitrot, After Cooking, Leblanc and more
 
 312 songs - 23 hr 50 min
 

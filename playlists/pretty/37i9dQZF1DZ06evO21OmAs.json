@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 255551,
+  "num_followers": 255556,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAB2S/XEONIvNAo+KQCZgkal",
+  "snapshot_id": "al62gAAAAADVANX3tiASRvaZRrh6Z9or",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 193928,
+      "name": "midnight love",
+      "url": "https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00d8DT HVITT BL\u00c5TT",
         "url": "https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 148923,
       "name": "R\u00d8DT HVITT BL\u00c5TT",
       "url": "https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "midnight love",
-      "url": "https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA"
     },
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 201945,
+      "name": "I'll Call You Mine",
+      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 201945,
-      "name": "I'll Call You Mine",
-      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 143355,
-      "name": "forget her",
-      "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 166240,
       "name": ".",
       "url": "https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 143355,
+      "name": "forget her",
+      "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dead girl in the pool.",
-        "url": "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 186642,
-      "name": "dead girl in the pool.",
-      "url": "https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dead girl in the pool.",
+        "url": "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 186642,
+      "name": "dead girl in the pool.",
+      "url": "https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "confession",
-        "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 84578,
-      "name": "confession",
-      "url": "https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "confession",
+        "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 84578,
+      "name": "confession",
+      "url": "https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say It - Spotify Studio Oyster Recording",
-        "url": "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 173175,
-      "name": "Say It - Spotify Studio Oyster Recording",
-      "url": "https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186672,
       "name": "Body And Mind",
       "url": "https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say It - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 173175,
+      "name": "Say It - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOOMINVALLEY 2 (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 205591,
-      "name": "something new",
-      "url": "https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girlfriend Is Better",
         "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 185333,
       "name": "Girlfriend Is Better",
       "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOOMINVALLEY 2 (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 205591,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0"
     },
     {
       "added_at": null,

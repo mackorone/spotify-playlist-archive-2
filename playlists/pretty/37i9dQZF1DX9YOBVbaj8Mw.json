@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20480,
+  "num_followers": 20481,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Cud",
+      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Cud",
-      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "ZA DU\u017bO GITAR",
+        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
+      },
+      "artists": [
+        {
+          "name": "Jacko Brango",
+          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "ZE SPRITE'EM",
+      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 159700,
       "name": "Co za stan",
       "url": "https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "ZA DU\u017bO GITAR",
-        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
-      },
-      "artists": [
-        {
-          "name": "Jacko Brango",
-          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
-        }
-      ],
-      "duration_ms": 207232,
-      "name": "ZE SPRITE'EM",
-      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 297493,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
-      },
-      "artists": [
-        {
-          "name": "Miro Kepinski",
-          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Wolny jak Li\u015b\u0107",
-      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Grzyby",
         "url": "https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 174023,
       "name": "Chaga",
       "url": "https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Druga Furioza (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
+      },
+      "artists": [
+        {
+          "name": "Miro Kepinski",
+          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Wolny jak Li\u015b\u0107",
+      "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",

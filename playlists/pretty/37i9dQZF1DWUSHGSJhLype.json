@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
-  "num_followers": 760037,
+  "num_followers": 760072,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -351,42 +351,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Cortando Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sonho de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Pela \u00daltima Vez (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -411,6 +375,42 @@
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Pela \u00daltima Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sonho de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
     },
     {
       "added_at": "2026-06-26 03:00:56",

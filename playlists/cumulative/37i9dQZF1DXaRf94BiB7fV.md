@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- som.
+> The best new music by independent artists and labels in India\. Cover \- Noush!
 
-1,969 songs - 4 day 17 hr 51 min
+1,971 songs - 4 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Bemausam Baarish](https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Bemausam Baarish](https://open.spotify.com/album/0xBbItufW99JKgkNiFG937) | 3:34 | 2024-06-26 | 2025-01-23 |
 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 | 2025-06-11 | 2025-08-28 |
 | [Bemisal](https://open.spotify.com/track/6Bqa5xaXuofeU7fR9OjUBy) | [Tuset Dwiz](https://open.spotify.com/artist/6tIYsTJBGkonpEY9VjOsUa) | [Bemisal](https://open.spotify.com/album/1lj3hsSBfaS3eagcyd8x7K) | 4:40 | 2022-02-16 | 2022-03-10 |
-| [Bepanah](https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v) | [Eden's Echo](https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd) | [Bepanah](https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ) | 3:07 | 2026-06-03 |  |
+| [Bepanah](https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v) | [Eden's Echo](https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd) | [Bepanah](https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ) | 3:07 | 2026-06-03 | 2026-07-23 |
 | [Beparwah Ishq](https://open.spotify.com/track/1c4yC1AqfnGKmswWKXWL0d) | [Nikhil Pawar Music](https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Beparwah Ishq](https://open.spotify.com/album/4rxXqAqWa2x6l0VDR0jzPf) | 2:58 | 2024-07-17 | 2024-10-24 |
 | [Beqaaboo](https://open.spotify.com/track/3YLexwYPRyl9ULHCYe9Pny) | [Rumii](https://open.spotify.com/artist/72mOygqSqfOoHLiiL9s7ig), [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Beqaaboo](https://open.spotify.com/album/7yui22Z5fNjmhjDmaNKcyu) | 3:04 | 2025-08-13 | 2026-02-12 |
 | [Berukh Hai Hum](https://open.spotify.com/track/6ZQNURIWEs7XMVB93nmM5a) | [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD), [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Berukh Hai Hum](https://open.spotify.com/album/6KVvpw8RcFj5aO0nm4kvR3) | 3:17 | 2024-04-24 | 2024-05-16 |
@@ -312,7 +312,7 @@
 | [Channa Ve](https://open.spotify.com/track/0MuoauECUiHuvbqyNderjQ) | [Rishabh Chaturvedi](https://open.spotify.com/artist/4iJJbMgmek6nHH45nRO3x9) | [Channa Ve](https://open.spotify.com/album/4o0ARRPIWLrUtsUNWfEthP) | 2:42 | 2025-04-30 | 2025-07-24 |
 | [Chapter in gore](https://open.spotify.com/track/1N69HeKJRGrHOOW0f3dYsq) | [Vanita Singh](https://open.spotify.com/artist/5CThY5IHKqw51ssrOym5qu) | [Chapter in gore](https://open.spotify.com/album/2TN8yPcDcIhz354CdNnyyP) | 3:27 | 2024-02-21 | 2024-03-14 |
 | [Chasm City](https://open.spotify.com/track/3ZKeNguEN4fyIDdv1pjQLB) | [Oceans Within](https://open.spotify.com/artist/3obxa04yhreT9jn9TubPgX) | [Chasm City](https://open.spotify.com/album/72U1oPrYwXYRG0yeuR0r22) | 4:19 | 2023-11-15 | 2024-02-29 |
-| [Chauliye](https://open.spotify.com/track/15ApCH6ec35pzXzPUiPTUQ) | [Anjali Bansal](https://open.spotify.com/artist/5JgRavNRJv5cUetrSWb25t), [Aditya Bansal](https://open.spotify.com/artist/2Jh2DwaTKsCM2ggWsQL2jK) | [Chauliye](https://open.spotify.com/album/0z7UsLZXOBnlkMD00O3upi) | 2:52 | 2026-04-08 |  |
+| [Chauliye](https://open.spotify.com/track/15ApCH6ec35pzXzPUiPTUQ) | [Anjali Bansal](https://open.spotify.com/artist/5JgRavNRJv5cUetrSWb25t), [Aditya Bansal](https://open.spotify.com/artist/2Jh2DwaTKsCM2ggWsQL2jK) | [Chauliye](https://open.spotify.com/album/0z7UsLZXOBnlkMD00O3upi) | 2:52 | 2026-04-08 | 2026-07-23 |
 | [Chehre](https://open.spotify.com/track/7uTSNjXqzGTK4VxLVGH5vq) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Chehre](https://open.spotify.com/album/1gaGKCUH6uQgM9MRrG2Kz5) | 1:27 | 2023-11-08 | 2024-02-15 |
 | [Chori Chori](https://open.spotify.com/track/4K9QslTTQPeZTJzn61o1rM) | [Unnati Shah](https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP), [D Abdul](https://open.spotify.com/artist/5xdLMgqVotMjEohEcOtMeF) | [Chori Chori](https://open.spotify.com/album/12H4QOGu1toWssU1TRh0zZ) | 3:18 | 2023-05-24 | 2023-08-10 |
 | [Chosen One](https://open.spotify.com/track/2lEJHewM3XPgNVURpZ1U8i) | [Tirth Kamdar](https://open.spotify.com/artist/38hMIdKodgdaQ4iBG2DhBN) | [Chosen One](https://open.spotify.com/album/5dW262WIQRVOLBgxM8qFHW) | 1:53 | 2025-10-15 | 2026-02-05 |
@@ -1363,6 +1363,7 @@
 | [Pinjara](https://open.spotify.com/track/7nNgNRf7vQZXZ4knH5PNVV) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pinjara](https://open.spotify.com/album/08As87NfOX1mnuXyHLnLCF) | 5:04 | 2024-09-11 | 2025-01-30 |
 | [Pink Blue](https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Pink Blue](https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF) | 3:25 | 2022-04-13 | 2022-05-05 |
 | [Pink Shoes](https://open.spotify.com/track/16jty1IyP7fftF3gbqMPqD) | [Monsoon.](https://open.spotify.com/artist/1FChofpC2Fcovw34KDTsMb), [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [Pink Shoes](https://open.spotify.com/album/3g6K9YMdbSOFdJNaq163WD) | 2:36 | 2022-04-06 | 2022-07-21 |
+| [Piritiya](https://open.spotify.com/track/1RLISDma35bouaTcZaqOyl) | [Arrjun pandey](https://open.spotify.com/artist/4cXHd2VBtClRi3H4tmSDpd) | [Piritiya](https://open.spotify.com/album/5gCD9HspfoFy4uAw6IIMtb) | 4:11 | 2026-07-22 |  |
 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 | 2024-04-17 | 2025-01-23 |
 | [Piya](https://open.spotify.com/track/2HOuZDuD7iBz4FOR3kOjIg) | [Priyanka Shinde](https://open.spotify.com/artist/11FQjZppJKBa8Y8K34iszI) | [Piya](https://open.spotify.com/album/2b5QvZg5Ky93DLiOtHix2L) | 3:34 | 2025-07-30 | 2025-11-06 |
 | [Piya](https://open.spotify.com/track/4MGK3bBOUNobiaHXZ9cDJZ) | [Saad Khan](https://open.spotify.com/artist/2BgtsA96fFhzvWo1CcleVb) | [Ishqabad](https://open.spotify.com/album/40MYbSto7fRTyf6TgeK8nn) | 2:46 | 2025-11-12 | 2026-03-26 |
@@ -1957,6 +1958,7 @@
 | [You're Alright](https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi) | [Dev Mehta](https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl) | [You're Alright](https://open.spotify.com/album/3UDzwTqfQSL6l4QD6Q18DO) | 4:18 | 2023-06-14 | 2023-08-03 |
 | [Your Best](https://open.spotify.com/track/10XpcY7siZYCfmo5pTBqIo) | [Noah Avantkar](https://open.spotify.com/artist/4sqVkfh4SJ8GIPMykxSpof) | [Your Best](https://open.spotify.com/album/1PrjCohIrNhJhF5hLa7mIo) | 2:58 | 2022-01-12 | 2022-04-14 |
 | [Your Map](https://open.spotify.com/track/16GRrOq8gQtGDlXskA8ekh) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Your Map](https://open.spotify.com/album/2p1VHwLxFNTGYg3gESrgvd) | 2:36 | 2024-10-23 | 2025-02-13 |
+| [Yun](https://open.spotify.com/track/3xbvpP9fQiu3YQdTn1JMe7) | [Ananya Wadkar](https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI) | [Yun](https://open.spotify.com/album/06381i0zYv1ScVjz8z4nau) | 3:58 | 2026-07-22 |  |
 | [Zaai Go?](https://open.spotify.com/track/7D4ANCfZ9XG2lZynrZUYCz) | [Joanne Fernandes](https://open.spotify.com/artist/5hGAuNl8gBn5A3OkOh0nah), [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Zaai Go?](https://open.spotify.com/album/5g1RmspRqUpjOWOJAcJg8p) | 2:58 | 2024-01-10 | 2024-02-08 |
 | [Zahir Si Baat Hai](https://open.spotify.com/track/7j3llRAvBQrHT7owVF6iuL) | [Vineet Wunnava Mohanty](https://open.spotify.com/artist/6JIPfyk7QtUlH1BplKhnl4) | [Zahir Si Baat Hai](https://open.spotify.com/album/1CE2mQT5543Il9bR8tnCJ6) | 3:08 | 2023-09-27 | 2024-01-18 |
 | [Zameen](https://open.spotify.com/track/2VmExCXsbi79GKd2lNssA5) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Zameen](https://open.spotify.com/album/0PuKmpsavABFX8sq0nhfka) | 4:31 | 2022-04-06 | 2023-01-12 |

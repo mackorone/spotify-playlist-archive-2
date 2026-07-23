@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25226,
+  "num_followers": 25227,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAABs5ELFWyxyzc9YVGMbLBvD",
+  "snapshot_id": "al62gAAAAABwVvsJQmgz4DFR7f7kSpy6",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Tema del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
+      "duration_ms": 251026,
+      "name": "Tema del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
     },
     {
       "added_at": null,

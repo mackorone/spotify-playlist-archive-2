@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 126848,
+  "num_followers": 126858,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Divididos en Argentinos Juniors (En Vivo)",
         "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 293061,
       "name": "S\u00e9 Vos - En Vivo",
       "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 183826,
       "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
       "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Vivo en Obras",
-        "url": "https://open.spotify.com/album/2iSeuaCC2bxgTKf5Tpy9i0"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 324125,
-      "name": "Movimiento Astral - En vivo",
-      "url": "https://open.spotify.com/track/1gQRoX5GMn1MIbamqGT2uJ"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 156999,
       "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
       "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Vivo en Obras",
+        "url": "https://open.spotify.com/album/2iSeuaCC2bxgTKf5Tpy9i0"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 324125,
+      "name": "Movimiento Astral - En vivo",
+      "url": "https://open.spotify.com/track/1gQRoX5GMn1MIbamqGT2uJ"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Fanky (En Vivo)",
-        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 303952,
-      "name": "Fanky (En Vivo)",
-      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Fanky (En Vivo)",
+        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 303952,
+      "name": "Fanky (En Vivo)",
+      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
     },
     {
       "added_at": "2026-06-12 03:00:36",

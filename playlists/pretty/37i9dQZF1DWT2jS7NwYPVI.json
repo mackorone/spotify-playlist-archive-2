@@ -1,12 +1,12 @@
 {
   "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Saint Clair",
-  "num_followers": 470587,
+  "num_followers": 470558,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACDlm6l2nPAL7e8hm3D6h/19wXlY",
+  "snapshot_id": "AAAAAP7Pc1ZEqJ+tu0pQRsaAXnmm1Xks",
   "tracks": [
     {
       "added_at": "2026-07-17 04:00:42",
@@ -331,6 +331,22 @@
       "duration_ms": 216332,
       "name": "THE END",
       "url": "https://open.spotify.com/track/3MndEpp95uMmGHqa3b6GBl"
+    },
+    {
+      "added_at": "2026-07-22 14:11:40",
+      "album": {
+        "name": "life",
+        "url": "https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "life",
+      "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
     },
     {
       "added_at": "2026-07-17 04:00:42",

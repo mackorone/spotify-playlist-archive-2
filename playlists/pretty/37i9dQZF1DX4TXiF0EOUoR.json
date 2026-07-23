@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 260789,
+  "num_followers": 260824,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
+      },
+      "artists": [
+        {
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "Nuestra Historia Musical (Volumen 1)",
-        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
-      },
-      "artists": [
-        {
-          "name": "Banda Ola Azul de Zirahuen",
-          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Un Angel No Debe Llorar",
-      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "el taca taca ta (remix)",
+        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        },
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 242112,
+      "name": "el taca taca ta - remix",
+      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
       },
@@ -1831,6 +1851,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "La Chiclanera",
+      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "El Rezado (En Vivo)",
         "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
       },
@@ -1851,38 +1887,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+        "name": "Me Gusta Todo De Ti",
+        "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
       },
       "artists": [
         {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Sinaloense El Recodo De Cruz Lizarraga",
+          "url": "https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM"
         }
       ],
-      "duration_ms": 131328,
-      "name": "La Chiclanera",
-      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "el taca taca ta (remix)",
-        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Nuevo Amanecer",
-          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
-        },
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 242112,
-      "name": "el taca taca ta - remix",
-      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+      "duration_ms": 120240,
+      "name": "La Cuichi",
+      "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1899,22 +1915,6 @@
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "Me Gusta Todo De Ti",
-        "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense El Recodo De Cruz Lizarraga",
-          "url": "https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM"
-        }
-      ],
-      "duration_ms": 120240,
-      "name": "La Cuichi",
-      "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
     },
     {
       "added_at": "2025-09-01 20:36:31",

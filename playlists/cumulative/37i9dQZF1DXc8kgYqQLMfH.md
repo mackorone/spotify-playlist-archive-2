@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,333 songs - 2 day 2 hr 58 min
+1,334 songs - 2 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 | 2022-10-13 |
 | [6pm](https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [6pm](https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU) | 2:14 | 2026-02-06 | 2026-07-18 |
 | [7 o'clock](https://open.spotify.com/track/6KPm7sTpDFaFGKn8nIJe1y) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [7 o'clock](https://open.spotify.com/album/4fof8WgryM4FgYnAXg3OSB) | 2:02 | 2022-11-11 | 2023-04-12 |
-| [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 | 2023-02-17 |  |
+| [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 | 2023-02-17 | 2026-07-23 |
 | [A Guide To Daydreaming](https://open.spotify.com/track/0BxpuhfkdRBY2SxPxw8piy) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [A Guide To Daydreaming](https://open.spotify.com/album/2YjHTbrgym2wZBtTiHDCZl) | 2:09 | 2022-06-10 | 2022-07-22 |
 | [A Letter In A Bottle](https://open.spotify.com/track/4DAcn2yYuvTR3TzBlxfdF3) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn) | [A Letter In A Bottle](https://open.spotify.com/album/5VQoDrNEGMznRN5DNkNNWy) | 2:36 | 2022-07-29 | 2022-11-12 |
 | [A Logic Problem](https://open.spotify.com/track/48mBkW6fjxqZtPskOIgiBZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [A Logic Problem](https://open.spotify.com/album/09SaJDAQuZTjnYR292cA6y) | 2:20 | 2024-05-13 | 2024-07-19 |
@@ -712,6 +712,7 @@
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Markwood](https://open.spotify.com/track/1IlgyO5jzXby1OYeEl8lL1) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Markwood](https://open.spotify.com/album/1WUZxQa3ZqMrA1ifSOwr13) | 3:12 | 2024-05-13 | 2024-07-19 |
 | [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 | 2026-05-30 |
+| [may sound trite](https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [may sound trite](https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u) | 2:21 | 2026-07-17 |  |
 | [Maypop](https://open.spotify.com/track/2Qv56D7vDQr1p2mjIivW2o) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Maypop](https://open.spotify.com/album/7IgT3NALeMrMkHPMHaayra) | 2:13 | 2022-10-01 | 2023-10-06 |
 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 | 2023-02-17 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-02-18 | 2025-07-16 |

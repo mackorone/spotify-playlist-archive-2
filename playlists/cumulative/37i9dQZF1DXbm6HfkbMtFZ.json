@@ -3349,6 +3349,28 @@
     },
     {
       "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
+      },
+      "artists": [
+        {
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        },
+        {
+          "name": "Thao & The Get Down Stay Down",
+          "url": "https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243365,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
+    },
+    {
+      "album": {
         "name": "Jazz engag\u00e9",
         "url": "https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L"
       },
@@ -12674,7 +12696,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 216840,
       "name": "You Make Me Smile",
       "url": "https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp"

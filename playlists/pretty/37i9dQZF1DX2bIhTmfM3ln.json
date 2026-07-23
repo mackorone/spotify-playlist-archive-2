@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60954,
+  "num_followers": 60977,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "YBTM",
         "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 176727,
       "name": "YBTM",
       "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
         "name": "Uche Jumbo",
         "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 148269,
       "name": "Uche Jumbo",
       "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
-      },
-      "artists": [
-        {
-          "name": "Lemon Adisa",
-          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "i think i love you 2",
         "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 164400,
       "name": "i think i love you 2",
       "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
+        "name": "For Me, This Time",
+        "url": "https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9"
       },
       "artists": [
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 168791,
-      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
+      "duration_ms": 122410,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "For Me, This Time",
-        "url": "https://open.spotify.com/album/2JF5YNoayMQ40NLPCtaOi9"
+        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
       },
       "artists": [
         {
-          "name": "Africaine",
-          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         },
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 122410,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz"
+      "duration_ms": 168791,
+      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Anini (Thief)",
-        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "Anini (Thief)",
-      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "First Sight",
         "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 186220,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Anini (Thief)",
+        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "Anini (Thief)",
+      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
     },
     {
       "added_at": "2026-06-25 22:33:06",

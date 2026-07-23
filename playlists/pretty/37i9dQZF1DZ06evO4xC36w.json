@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1027190,
+  "num_followers": 1027359,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAACCvMF3wVduJl0hdEEz2Prb",
+  "snapshot_id": "al62gAAAAADUG8633M086sjIcB2Q1JWd",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 178607,
-      "name": "No Le Tengas Compasi\u00f3n",
-      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 180906,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/67mC1sqidIwycByzWmT96o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Juliantla",
-      "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Nuevas Baladas",
         "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 186003,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Juliantla",
+      "url": "https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "Melod\u00eda Para Dos",
-      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Baladas Favoritas",
         "url": "https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 208486,
       "name": "Manantial De Llanto",
       "url": "https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186734,
+      "name": "Melod\u00eda Para Dos",
+      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Hoy Empieza Mi Tristeza",
-      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 187315,
       "name": "Mi C\u00f3mplice",
       "url": "https://open.spotify.com/track/61HrsOIuBD36ERPk77792M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Hoy Empieza Mi Tristeza",
+      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
     },
     {
       "added_at": null,

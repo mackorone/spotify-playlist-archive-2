@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Hadise",
-  "num_followers": 585050,
+  "num_followers": 585127,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2026-07-15 06:25:24",
       "album": {
+        "name": "Gel",
+        "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        },
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "Gel",
+      "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
+    },
+    {
+      "added_at": "2026-07-15 06:25:24",
+      "album": {
         "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
         "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
-    },
-    {
-      "added_at": "2026-07-15 06:25:24",
-      "album": {
-        "name": "Gel",
-        "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
-      },
-      "artists": [
-        {
-          "name": "Umur Doma",
-          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
-        },
-        {
-          "name": "Hande \u00dcnsal",
-          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Gel",
-      "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
     },
     {
       "added_at": "2026-07-15 06:25:24",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-07-15 06:25:24",
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
+      },
+      "artists": [
+        {
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "\u0130htimal",
+      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
+    },
+    {
+      "added_at": "2026-07-15 06:25:24",
+      "album": {
         "name": "Geri Ver",
         "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 139350,
       "name": "hola hola",
       "url": "https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL"
-    },
-    {
-      "added_at": "2026-07-15 06:25:24",
-      "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
-      },
-      "artists": [
-        {
-          "name": "KARM6",
-          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "\u0130htimal",
-      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
     },
     {
       "added_at": "2026-07-15 06:25:24",

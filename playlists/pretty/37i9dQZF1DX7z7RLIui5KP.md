@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Nyashinski
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,411 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,477 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fresh](https://open.spotify.com/track/4T6bGw578hemIIBSozohSq) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Yariasu](https://open.spotify.com/album/7rAF6bJ2WanJTkZegTMFPN) | 2:44 |
-| 2 | [ManyoPesa](https://open.spotify.com/track/0CE53lBoWtLoHkn5v0hSTK) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Fweny \(Revelations\)](https://open.spotify.com/album/0S847GxnhGNoxKa7rhGHyf) | 3:40 |
-| 3 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 |
-| 4 | [Ngozi Kama Jua](https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:29 |
-| 5 | [Beta](https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Beta](https://open.spotify.com/album/4gsFVC2N6mrMo5Q5lmBHIz) | 3:13 |
-| 6 | [TAI CHI](https://open.spotify.com/track/0Q8Vztfn6jrMPlpcxE6l6C) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Yariasu](https://open.spotify.com/album/7rAF6bJ2WanJTkZegTMFPN) | 2:49 |
-| 7 | [Kuwe](https://open.spotify.com/track/5wulhKu9hzHq8HTLU2Xccw) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:10 |
-| 8 | [Aki Sioni](https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 3:03 |
-| 9 | [Tamu](https://open.spotify.com/track/7yMe9oKzF0MB40uvtYx8aX) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:00 |
-| 10 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
-| 11 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 |
-| 12 | [Anticipate](https://open.spotify.com/track/6gv1a5OJZ46sscMzaMc8uL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:47 |
+| 1 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 |
+| 2 | [Fresh](https://open.spotify.com/track/4T6bGw578hemIIBSozohSq) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Yariasu](https://open.spotify.com/album/7rAF6bJ2WanJTkZegTMFPN) | 2:44 |
+| 3 | [ManyoPesa](https://open.spotify.com/track/0CE53lBoWtLoHkn5v0hSTK) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Fweny \(Revelations\)](https://open.spotify.com/album/0S847GxnhGNoxKa7rhGHyf) | 3:40 |
+| 4 | [Chai ya saa kumi](https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Chai ya saa kumi](https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5) | 4:00 |
+| 5 | [Aki Sioni](https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 3:03 |
+| 6 | [Ngozi Kama Jua](https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:29 |
+| 7 | [Anticipate](https://open.spotify.com/track/6gv1a5OJZ46sscMzaMc8uL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:47 |
+| 8 | [Beta](https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Beta](https://open.spotify.com/album/4gsFVC2N6mrMo5Q5lmBHIz) | 3:13 |
+| 9 | [TAI CHI](https://open.spotify.com/track/0Q8Vztfn6jrMPlpcxE6l6C) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Yariasu](https://open.spotify.com/album/7rAF6bJ2WanJTkZegTMFPN) | 2:49 |
+| 10 | [Kuwe](https://open.spotify.com/track/5wulhKu9hzHq8HTLU2Xccw) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:10 |
+| 11 | [Tamu](https://open.spotify.com/track/7yMe9oKzF0MB40uvtYx8aX) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:00 |
+| 12 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 |
 | 13 | [Mimi Na Wewe](https://open.spotify.com/track/3dD3R2tOwctlnslnNl4rnq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:12 |
-| 14 | [Ananipenda](https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Ananipenda](https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20) | 3:00 |
-| 15 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 |
-| 16 | [Siaka](https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:16 |
-| 17 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 |
+| 14 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 |
+| 15 | [Ananipenda](https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Ananipenda](https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20) | 3:00 |
+| 16 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 |
+| 17 | [Siaka](https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:16 |
 | 18 | [Wi Muthaka](https://open.spotify.com/track/27fREfR29KgpnCGHQa658H) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Wi Muthaka](https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj) | 3:08 |
 | 19 | [Lifestyle](https://open.spotify.com/track/6PwjKdyaavh0KaOsU6KKYJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:09 |
 | 20 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 54 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 |
 | 55 | [Golden Sun](https://open.spotify.com/track/0W9zakikiqrw7njcDalBWI) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [KUZO \(KE\)](https://open.spotify.com/artist/04bJrgjsR56IZs8EyyMWzp) | [Golden Sun](https://open.spotify.com/album/4hAWv2LULhjHdP0BLSNeNO) | 3:10 |
 
-Snapshot ID: `AAAAAPQu6DKt5EkNSVrADJ23d9cjGIrH`
+Snapshot ID: `AAAAAPoHBE4fdMBBo9fJxxK+6vQWBfTn`

@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 13 | [Stained](https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:05 |
 | 14 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
 | 15 | [Monsters](https://open.spotify.com/track/05Kms0excTlHRel656GZ3U) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Monsters](https://open.spotify.com/album/3s2IsYkvz1qAGFhvfsi1Kr) | 3:37 |
-| 16 | [Raincoat](https://open.spotify.com/track/1fuv5IQZYgYZAe5ob2wswo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:37 |
-| 17 | [Options](https://open.spotify.com/track/2mqAwLuAZBIVEAOaDTScEm) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:49 |
+| 16 | [Options](https://open.spotify.com/track/2mqAwLuAZBIVEAOaDTScEm) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:49 |
+| 17 | [Raincoat](https://open.spotify.com/track/1fuv5IQZYgYZAe5ob2wswo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:37 |
 | 18 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
 | 19 | [Maybe Next Time](https://open.spotify.com/track/32r7xn09FoylHoSOatv4dy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 3:08 |
 | 20 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 170 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 171 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcXe0gAAAADn7AwdyVr8ykoj4aYMmPHY`
+Snapshot ID: `AcXkhgAAAABNI1GZKiq71Zwj0TYc3e/f`

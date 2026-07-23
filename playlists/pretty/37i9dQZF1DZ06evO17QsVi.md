@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,347 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,409 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 22 | [To Live & Die In L.A.](https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:32 |
 | 23 | [Until The End Of Time](https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [R.L\. Hugger](https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM), [Samuel J\. "Tone" Barnes](https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:26 |
 | 24 | [Only God Can Judge Me \(ft\. Rappin' 4\-Tay\)](https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:56 |
-| 25 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
-| 26 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
+| 25 | [Deadly Combination \(feat\. 2Pac\)](https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Big Picture](https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII) | 2:32 |
+| 26 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 |
 | 27 | [Troublesome '96](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:37 |
 | 28 | [Letter 2 My Unborn](https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:55 |
-| 29 | [Old School](https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
+| 29 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 |
 | 30 | [Thug Luv \(feat\. 2pac\)](https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Art of War: World War 2](https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx) | 5:07 |
 | 31 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
 | 32 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
-| 33 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 |
+| 33 | [Old School](https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 34 | [Loyal To The Game](https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:23 |
 | 35 | [When Thugz Cry](https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:22 |
 | 36 | [My Block \- Nitty Remix](https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `al1lAAAAAABQLfA1a1npP8aqgpldB/wt`
+Snapshot ID: `al62gAAAAABexjqwX6qpLeILH8odTCPN`

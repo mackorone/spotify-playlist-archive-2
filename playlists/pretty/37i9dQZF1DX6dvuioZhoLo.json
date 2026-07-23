@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover:  Presley Haile",
-  "num_followers": 315307,
+  "num_followers": 315309,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
-      },
-      "artists": [
-        {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Drive & Cry",
         "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203973,
       "name": "Rootin\u2019 For You",
       "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
-      },
-      "artists": [
-        {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
       "artists": [
         {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
         }
       ],
-      "duration_ms": 287058,
-      "name": "Hold The Door",
-      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -903,6 +887,22 @@
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+        }
+      ],
+      "duration_ms": 287058,
+      "name": "Hold The Door",
+      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Flyin'",
-        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 145995,
-      "name": "Flyin'",
-      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+        "name": "Flyin'",
+        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
       },
       "artists": [
         {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
         }
       ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+      "duration_ms": 145995,
+      "name": "Flyin'",
+      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1383,6 +1367,22 @@
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Over the Hill",
-        "url": "https://open.spotify.com/album/0qiMZ5JP7cPermGzvLNL5V"
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
       },
       "artists": [
         {
-          "name": "Omar Velasco",
-          "url": "https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ"
+          "name": "Adam Chaffins",
+          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
         }
       ],
-      "duration_ms": 286940,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/6WaVOSups4AIb72awqLxZC"
+      "duration_ms": 143386,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
     }
   ],
   "unique_name": "Vintage Vibes",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 3053,
+  "num_followers": 3052,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAABfEm28H1g7oOIWrYCANAe4",
+  "snapshot_id": "al62gAAAAADmcvNEEJXqF7R9krKffV1n",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 177216,
-      "name": "Bent Nail",
-      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+      "duration_ms": 272864,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
     },
     {
       "added_at": null,
@@ -468,29 +468,25 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 272864,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
+      "duration_ms": 177216,
+      "name": "Bent Nail",
+      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "When No Birds Sang",
-        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
       },
       "artists": [
-        {
-          "name": "Full Of Hell",
-          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
-        },
         {
           "name": "Nothing",
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 324053,
-      "name": "Like Stars In The Firmament",
-      "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     },
     {
       "added_at": null,
@@ -527,8 +523,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+      "duration_ms": 239920,
+      "name": "You Wind Me Up",
+      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 247746,
       "name": "Forever Well",
       "url": "https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 239920,
-      "name": "You Wind Me Up",
-      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
     },
     {
       "added_at": null,

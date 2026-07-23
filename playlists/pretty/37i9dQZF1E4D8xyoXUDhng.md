@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Daryl Coley, Kurt Carr & The Kurt Carr Singers and more
+> With Daryl Coley, Walter Hawkins, Kurt Carr & The Kurt Carr Singers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

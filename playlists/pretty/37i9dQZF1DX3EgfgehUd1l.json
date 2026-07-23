@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178509,
+  "num_followers": 178523,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -348,7 +348,7 @@
           "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 146066,
+      "duration_ms": 144066,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Magic Of Malcolm Vaughan",
+        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "St Therese of the Roses",
+      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
         "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Magic Of Malcolm Vaughan",
-        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "St Therese of the Roses",
-      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Come prima",
+      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Guaglione",
-        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
-      },
-      "artists": [
-        {
-          "name": "Marino Marini",
-          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Come prima",
-      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Love Is A Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 142426,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Love Is A Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "60's Triple set",
-        "url": "https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 149093,
       "name": "I Need You Now - 2001 Remastered",
       "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "60's Triple set",
+        "url": "https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe"
     },
     {
       "added_at": "2023-10-17 16:18:55",

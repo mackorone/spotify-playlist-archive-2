@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Emma Smalley, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: McCall Chapin, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -2890,6 +2890,24 @@
       "duration_ms": 189946,
       "name": "Another Heartbreak Song",
       "url": "https://open.spotify.com/track/4j4uQMDSoevor0D24G6xAr"
+    },
+    {
+      "album": {
+        "name": "Another Love Song",
+        "url": "https://open.spotify.com/album/7aboRAM7Y1ecwN4KSIkMF1"
+      },
+      "artists": [
+        {
+          "name": "Chris Housman",
+          "url": "https://open.spotify.com/artist/6kpQQUxQqxZEXaaWEoFdhY"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202868,
+      "name": "Another Love Song",
+      "url": "https://open.spotify.com/track/4gOdtvrWn2pYZGTr9htkO9"
     },
     {
       "album": {
@@ -15285,6 +15303,28 @@
     },
     {
       "album": {
+        "name": "Don't Let Your Cowboys Grow Up to Be Babies (feat. Madison Kozak)",
+        "url": "https://open.spotify.com/album/1auJ9GwN1RDm1thix3mfRy"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Madison Kozak",
+          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Don't Let Your Cowboys Grow Up to Be Babies (feat. Madison Kozak)",
+      "url": "https://open.spotify.com/track/4eg7Q3xfm6lGwiatcSiXMF"
+    },
+    {
+      "album": {
         "name": "Don't Mean I Don't",
         "url": "https://open.spotify.com/album/0d7oi6WnDaOu7sPIiUPhV2"
       },
@@ -16420,6 +16460,24 @@
       "duration_ms": 197692,
       "name": "Drive Your Tacoma",
       "url": "https://open.spotify.com/track/3NgBhPjnyTB27g3mmdmCro"
+    },
+    {
+      "album": {
+        "name": "Driver Drive",
+        "url": "https://open.spotify.com/album/3yI0Wnxu6p47M8tQLKvOLM"
+      },
+      "artists": [
+        {
+          "name": "Brooke Lee",
+          "url": "https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Driver Drive",
+      "url": "https://open.spotify.com/track/0bwdEVUu97fgkZDYTWRhW4"
     },
     {
       "album": {
@@ -32703,6 +32761,24 @@
     },
     {
       "album": {
+        "name": "King Size Trouble",
+        "url": "https://open.spotify.com/album/1gvgDEXRuM8VztzLVgZ0pr"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "King Size Trouble",
+      "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
+    },
+    {
+      "album": {
         "name": "Kiss It Goodbye",
         "url": "https://open.spotify.com/album/5EHAI3dEtiNBZnBpJZJBbC"
       },
@@ -47415,6 +47491,24 @@
     },
     {
       "album": {
+        "name": "Road Sign",
+        "url": "https://open.spotify.com/album/1NNe8xs0bmM1h84NLaPjIj"
+      },
+      "artists": [
+        {
+          "name": "Myles Morgan",
+          "url": "https://open.spotify.com/artist/1lzPWhUDpLSVDwK02Mz0Eo"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160840,
+      "name": "Road Sign",
+      "url": "https://open.spotify.com/track/6O21pFb4Xf894eSEUTE0DN"
+    },
+    {
+      "album": {
         "name": "Road Signs",
         "url": "https://open.spotify.com/album/5xfpPuuV38qotf3AZPdFah"
       },
@@ -48748,7 +48842,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 212778,
       "name": "SATURDAY SIN",
       "url": "https://open.spotify.com/track/3v9IQFfUwtdWU4g52n0Bj2"
@@ -55426,7 +55520,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 215000,
       "name": "Take Tallahassee",
       "url": "https://open.spotify.com/track/267sH29Twv8BJoDhqLtjGq"
@@ -58059,6 +58153,24 @@
     },
     {
       "album": {
+        "name": "The Summer I Turned Petty",
+        "url": "https://open.spotify.com/album/28e0uSEKnY9Q3CuTnENcuE"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181567,
+      "name": "The Summer I Turned Petty",
+      "url": "https://open.spotify.com/track/3CKDCJR7BgrLm1a5QVD0DM"
+    },
+    {
+      "album": {
         "name": "The Summer That Got Away",
         "url": "https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq"
       },
@@ -58146,6 +58258,24 @@
       "duration_ms": 223582,
       "name": "The Tracks",
       "url": "https://open.spotify.com/track/37pBe50r2tPBWTy5w3ck6O"
+    },
+    {
+      "album": {
+        "name": "The Universe Knows",
+        "url": "https://open.spotify.com/album/0NxZy18GUUwdfGkjDe5xP2"
+      },
+      "artists": [
+        {
+          "name": "McCall Chapin",
+          "url": "https://open.spotify.com/artist/1p1vSCajXqjtztjnfu3xuB"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "The Universe Knows",
+      "url": "https://open.spotify.com/track/6uoMqsyy0Q7MzhOTTYyza0"
     },
     {
       "album": {
@@ -63721,6 +63851,24 @@
     },
     {
       "album": {
+        "name": "When the Whiskey Wears Off",
+        "url": "https://open.spotify.com/album/3g8QlWwUjLZSCSYZJeiIKj"
+      },
+      "artists": [
+        {
+          "name": "SJ McDonald",
+          "url": "https://open.spotify.com/artist/5fNtAyhwpmJjMHZDPCTtei"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184469,
+      "name": "When the Whiskey Wears Off",
+      "url": "https://open.spotify.com/track/4s9e94Z8roGTcLcqQHw32X"
+    },
+    {
+      "album": {
         "name": "When We Break Up",
         "url": "https://open.spotify.com/album/088QxOBxqUHNKFPyaPeRRo"
       },
@@ -66512,7 +66660,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 166733,
       "name": "Wrong Kind of History",
       "url": "https://open.spotify.com/track/2h4qONJWTJQiYncCRLutct"

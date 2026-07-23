@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22616,
+  "num_followers": 22640,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2rLsfSGADUJZW1VFblXRGi7O1T",
+  "snapshot_id": "AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+",
   "tracks": [
     {
       "added_at": "2026-07-13 22:00:02",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "GORGONA",
         "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+        "name": "Algo me falta",
+        "url": "https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE"
       },
       "artists": [
         {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+          "name": "Lucia De la Puerta",
+          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
         }
       ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+      "duration_ms": 181500,
+      "name": "Algo me falta",
+      "url": "https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -815,22 +831,6 @@
       "duration_ms": 172650,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "Algo me falta",
-        "url": "https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE"
-      },
-      "artists": [
-        {
-          "name": "Lucia De la Puerta",
-          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Algo me falta",
-      "url": "https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU"
     },
     {
       "added_at": "2026-07-13 22:00:02",

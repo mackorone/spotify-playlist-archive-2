@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > Sync Next 26에서 이어지는 가장 뜨거운 주파수!<br/>baan, Mogwaa, HYPNOSIS THERAPY는 물론, 파트너사 녹기 전에와 배러댄서프가 함께 큐레이션한 여름의 사운드트랙\. 전자음악과 힙합, 헤비니스가 교차하는 사운드 속에서 당신만의 New Black을 발견해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,299 likes - 27 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,303 likes - 27 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

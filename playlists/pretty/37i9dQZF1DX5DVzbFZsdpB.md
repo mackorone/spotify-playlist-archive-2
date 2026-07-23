@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > The TYPECast is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 8 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 8 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

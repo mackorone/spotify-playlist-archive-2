@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,758 likes - 49 songs - 3 hr 11 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,757 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 47 | [The Cycle](https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Cycle](https://open.spotify.com/album/5fODtmdm4JsifXS8emavBw) | 4:35 |
 | 48 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 |
 | 49 | [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 |
+| 50 | [Run](https://open.spotify.com/track/2c2Quhm8fF8MlFmiRFJ8I9) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:35 |
+| 51 | [Kingdoms](https://open.spotify.com/track/3iJfjc0J2xJLiweVjhwhED) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:51 |
 
-Snapshot ID: `AAAO3gDdedU8QFF2uzKjnByKGKqho/In`
+Snapshot ID: `AAAO4ON4V9UA0D80AI+c1Meb/JBBmEG0`

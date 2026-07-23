@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Bieber, Maroon 5 and more
+> With Bruno Mars, Maroon 5, Justin Bieber and more
 
 1,383 songs - 3 day 12 hr 54 min
 

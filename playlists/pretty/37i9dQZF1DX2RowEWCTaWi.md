@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RowEWCTaWi.md) - [plain]
 
 > Enjoy the sound track of Can This Love Be Translated? with memorable lines from the show \(이 사랑 통역 되나요?의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,003 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,028 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RowEWCTaWi.md) - [plain]
 | 17 | [Daydream](https://open.spotify.com/track/5EzhW71tVR5Rad6TdvdYKq) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 4:34 |
 | 18 | [Can This Love Be Translated? : In His Place](https://open.spotify.com/track/6zj3apyRViwXTnJ6D4cibG) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Can This Love Be Translated? Audio Liners](https://open.spotify.com/album/31o4YRIPPS8Q9AY1HQINVB) | 0:15 |
 | 19 | [Someday](https://open.spotify.com/track/3WGq6n1SGYkfO5ee9G0507) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:42 |
-| 20 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 |
+| 20 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:46 |
 | 21 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 |
 | 22 | [Reality](https://open.spotify.com/track/1gci2QBGH5nzPWePv6ATom) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY), [Richard Sanderson](https://open.spotify.com/artist/2VYfYBKv8RPlY3MhwI7mSR) | [La boum \(Bande originale du film de Claude Pinoteau\)](https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL) | 4:49 |
 | 23 | [Can This Love Be Translated? : Gelato in Italy](https://open.spotify.com/track/4ROjn8hK2JA10avWvbr81U) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Can This Love Be Translated? Audio Liners](https://open.spotify.com/album/31o4YRIPPS8Q9AY1HQINVB) | 0:11 |

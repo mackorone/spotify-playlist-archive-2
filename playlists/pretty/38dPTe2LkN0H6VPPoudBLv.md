@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/38dPTe2LkN0H6VPPoudBLv.md) - [plain]
 
 > For Dimitri :\]
 
-[daniel](https://open.spotify.com/user/daniel1flowers) - 2 likes - 6 songs - 25 min 32 sec
+[daniel](https://open.spotify.com/user/daniel1flowers) - 1 like - 6 songs - 25 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

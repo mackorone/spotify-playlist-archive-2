@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 1300\)
 
-3,466 songs - 7 day 6 hr 28 min
+3,467 songs - 7 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1489,6 +1489,7 @@
 | [Intro](https://open.spotify.com/track/1abp5SE8Z4zBOhVGRln1V1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [See Ya](https://open.spotify.com/album/1QneW5vELH5DFkrvHGb9QL) | 0:05 | 2023-06-15 | 2023-07-14 |
 | [Intro “Soul Quake”](https://open.spotify.com/track/7a8wdXlndvzoEx1z0nKJs8) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Intro “Soul Quake”](https://open.spotify.com/album/5UdN0uKskXyNBTT3zT5lmN) | 3:19 | 2026-02-12 | 2026-04-17 |
 | [Invitation](https://open.spotify.com/track/2XvUMH1pFcrnoEt4jrU7us) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 2:50 | 2023-06-30 | 2023-08-04 |
+| [ION KNOW YALL \(feat\. LIL YACHTY\)](https://open.spotify.com/track/2leiCgNUPwRhgzvSTmLk1f) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [ION KNOW YALL \(feat\. LIL YACHTY\)](https://open.spotify.com/album/79jxrycVeg0rZEbBnBynUI) | 3:00 | 2026-07-02 |  |
 | [IRDC](https://open.spotify.com/track/7JIgpHtU0fZOlnzL1JYDBv) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [IRDC](https://open.spotify.com/album/5R18debjLS1B8EpiIY5hu7) | 1:46 | 2025-11-14 | 2025-12-19 |
 | [IRON MIKE](https://open.spotify.com/track/409IZ4xmIq6Gfh5Cac6cpB) | [Martin Spacely](https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS), [Sharbil](https://open.spotify.com/artist/5V0a9aIe2TMOGWECwBUG9n), [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t) | [IRON MIKE](https://open.spotify.com/album/028uBTEowynwUISRqpuGcz) | 2:35 | 2024-09-20 | 2024-10-25 |
 | [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-27 | 2024-11-01 |

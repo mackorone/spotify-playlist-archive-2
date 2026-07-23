@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,564 likes - 76 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,567 likes - 76 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

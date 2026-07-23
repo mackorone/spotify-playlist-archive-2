@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 235634,
+  "num_followers": 235651,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAC7KRN/aJ927yCOC3czixaS",
+  "snapshot_id": "al62gAAAAAA0bBUHcYX4mvoPQMsBgAFj",
   "tracks": [
     {
       "added_at": null,
@@ -591,34 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pavarotti - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
-      },
-      "artists": [
-        {
-          "name": "Peter Sterling Radcliffe",
-          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
-        },
-        {
-          "name": "Tony Sepe",
-          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
-      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -647,6 +619,34 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pavarotti - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
+      },
+      "artists": [
+        {
+          "name": "Peter Sterling Radcliffe",
+          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
+        },
+        {
+          "name": "Tony Sepe",
+          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
+      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {
       "added_at": null,

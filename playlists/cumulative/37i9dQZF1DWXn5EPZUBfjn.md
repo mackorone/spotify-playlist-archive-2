@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-63 songs - 3 hr 33 min
+64 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [NISSAN ALTIMA](https://open.spotify.com/track/3FyZuf7Lmi5vf1Af3SM1VB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/7b9vrdtS34R289wwRJmC1A) | 2:08 | 2025-12-09 |  |
 | [No Idea](https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu) | 2:34 | 2025-12-09 |  |
 | [No Pole](https://open.spotify.com/track/6RJTQlCfG4K5wDhZB47Dg6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Pole](https://open.spotify.com/album/1TzqwaIgWaZ0x15gdjlcAD) | 4:17 | 2026-01-27 |  |
+| [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0zVWX3fDULXxtS8krbAdo2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/album/14XWT2AvEjVWIojcj7OE6g) | 3:58 | 2026-07-22 |  |
 | [Paint The Town Red](https://open.spotify.com/track/6FZSpeskRlhogcrGqPA76w) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/2YllXSbf2UqKcQ3LGiUUIk) | 4:55 | 2025-12-09 |  |
 | [Pardon Me](https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Pardon Me](https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25) | 3:04 | 2025-12-09 |  |
 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/5rFb63vP8ftwxVBBoomh4o) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/7rEM3N9B7RX6ESWUqkCzZI) | 3:44 | 2025-12-09 |  |
@@ -56,7 +57,7 @@
 | [Sprinter](https://open.spotify.com/track/1GBzfoHf4FfustFKKMI5gM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/0PfbItXP9ZeQ4P7QuODYX5) | 3:49 | 2025-12-09 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/5NUHcOdBIhbq9K2ksWEjhh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Sugar On My Tongue](https://open.spotify.com/album/7vqUPziG3E5XenIIiRoJvQ) | 2:44 | 2025-12-09 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/2gJjdDDe0LYCNUrhxEERrC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/1fNEdMjkD1VmcoqpHXGode) | 2:51 | 2025-12-09 |  |
-| [That's It](https://open.spotify.com/track/5VKZOBY98yt802BXnHCle6) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [That's It](https://open.spotify.com/album/4cGPk71AX7uoamfY7pcpMC) | 3:44 | 2026-01-27 |  |
+| [That's It](https://open.spotify.com/track/5VKZOBY98yt802BXnHCle6) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [That's It](https://open.spotify.com/album/4cGPk71AX7uoamfY7pcpMC) | 3:44 | 2026-01-27 | 2026-07-23 |
 | [The Woo](https://open.spotify.com/track/3JsHyN9yWEoh9IfuwhlC1e) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Woo](https://open.spotify.com/album/4I8Xrgbh2ECSvdmEB0i72e) | 3:23 | 2025-12-09 |  |
 | [Two Six](https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:16 | 2026-05-26 |  |
 | [Two Six](https://open.spotify.com/track/0fmkZqKsK7RwxjJOPEx7i4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Two Six](https://open.spotify.com/album/0ANv7vrZk5KxQChBKFObow) | 4:14 | 2026-03-09 |  |

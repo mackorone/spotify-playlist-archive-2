@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1438975,
+  "num_followers": 1439007,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAAxsr+/tSMxIUuUr2xiURkq",
+  "snapshot_id": "al62gAAAAAAEG9N6QiDthaR4KlrnLkyQ",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+        "name": "Some People Have REAL Problems",
+        "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
       },
       "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
-      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+      "duration_ms": 260120,
+      "name": "Soon We'll Be Found",
+      "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some People Have REAL Problems",
-        "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
       "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 260120,
-      "name": "Soon We'll Be Found",
-      "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
+      "duration_ms": 213026,
+      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
+      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
     },
     {
       "added_at": null,

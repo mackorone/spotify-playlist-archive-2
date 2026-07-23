@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 21987,
+  "num_followers": 22001,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAABEq4iNI600l/P1d3F1z0Lv",
+  "snapshot_id": "al62gAAAAADRHJVHJDUelnWcc4DhoeeM",
   "tracks": [
     {
       "added_at": null,
@@ -98,15 +98,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 191032,
-      "name": "all fours (feat. DESTIN CONRAD)",
-      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
+      "duration_ms": 238950,
+      "name": "'til u cry",
+      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
     },
     {
       "added_at": null,
@@ -170,11 +166,15 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 238950,
-      "name": "'til u cry",
-      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
+      "duration_ms": 191032,
+      "name": "all fours (feat. DESTIN CONRAD)",
+      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wn way or another",
+        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 130932,
+      "name": "wn way or another",
+      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wn way or another",
-        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 130932,
-      "name": "wn way or another",
-      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
     },
     {
       "added_at": null,

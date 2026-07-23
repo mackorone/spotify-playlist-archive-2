@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hermanos Espinoza, Oscar Maydon, RØZ & Young Cister, Jasiel Nuñez  & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,625 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,643 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 27 | [Chica Del Computador](https://open.spotify.com/track/0aIlUyoHZbFEVYednMQJ8D) | [Baltazar Lora](https://open.spotify.com/artist/1OcU1uVtqF9umURdShNIwP) | [Chica Del Computador](https://open.spotify.com/album/5pjK81xmNEB1zqRiVH2Uot) | 3:33 |
 | 28 | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 29 | [PRADA](https://open.spotify.com/track/1BfncFeDU02qCPMniEs8UQ) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [PRADA](https://open.spotify.com/album/1q0qIEQ2IpBre8A9LMkN88) | 2:40 |
-| 30 | [Pasito](https://open.spotify.com/track/23A2r9obaHsWnxTzyjP9oY) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Pasito](https://open.spotify.com/album/3XqCW77SrPc2TmqMEGpkhe) | 1:46 |
+| 30 | [Pasito](https://open.spotify.com/track/23A2r9obaHsWnxTzyjP9oY) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Pasito](https://open.spotify.com/album/3XqCW77SrPc2TmqMEGpkhe) | 1:46 |
 | 31 | [Italianas](https://open.spotify.com/track/29Oit21mQW7GlXh8J7ONKa) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Si Señor](https://open.spotify.com/album/7nkUSYTRa9dSMNezeQzu8Y) | 3:37 |
 | 32 | [Soledad](https://open.spotify.com/track/384CehhGeP5t9uEzKmJdZQ) | [Helado Tropical](https://open.spotify.com/artist/4pqutkxj0y0je4UpFFX8B9), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Helado Tropical](https://open.spotify.com/album/4O96jPlSmIgEMIl84oTl4s) | 4:01 |
 | 33 | [Randy Orton](https://open.spotify.com/track/7aLmjIxr3p1bxo1Qpcgcx7) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Randy Orton](https://open.spotify.com/album/5fZOKxQoXIKXPL24vz75hs) | 1:53 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-548 songs - 1 day 7 hr 5 min
+549 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Doubl3 Dutch](https://open.spotify.com/track/2tJXpYb8gzU0A2NlsSBImd) | [3thereal](https://open.spotify.com/artist/05s71BdjTOfki43R5ctqG7), [FlipzWorld](https://open.spotify.com/artist/5FGdc7Yftc06zpl5AtppPM) | [Doubl3 Dutch](https://open.spotify.com/album/4pXHGRaXxIjRYJHOxB9tu9) | 2:07 | 2025-12-25 | 2026-01-15 |
 | [Drain of Dreams](https://open.spotify.com/track/3TWiRLmfW6HORefLcPvJUm) | [Granon](https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3) | [Drain of Dreams](https://open.spotify.com/album/1V98TQNnwbNIkYbfBoMYT4) | 2:35 | 2026-04-08 | 2026-05-26 |
 | [Drank too much Freestyle](https://open.spotify.com/track/6hUqMp8aO2W9PdOZoKd6UD) | [Q\-Rhyus](https://open.spotify.com/artist/4Eb361siaO3XB8Skokxhcx) | [Drank too much Freestyle](https://open.spotify.com/album/6e07ciGpzCVKNxl2UojNYJ) | 4:01 | 2026-03-14 | 2026-05-26 |
+| [Dream](https://open.spotify.com/track/4ecImVEuf5jm9Joc2cqycN) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Dream](https://open.spotify.com/album/4H8CIjBwxyxZtoeA6hvAJn) | 3:47 | 2026-07-22 |  |
 | [Dreaming](https://open.spotify.com/track/2cFVv2XWyq8WFWA6nLm5gz) | [Joshua Pascua](https://open.spotify.com/artist/1TVYzXm40r4fagLpaUuCny) | [Dreaming](https://open.spotify.com/album/46qeTORxWn5S5DdtLA6796) | 3:12 | 2025-11-17 | 2026-01-05 |
 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-20 | 2026-05-17 |
 | [Eerie Bells](https://open.spotify.com/track/1gaUWzXr4eZe5n3RDVU8Kr) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Eerie Bells](https://open.spotify.com/album/3vTOBKNhl3rv4Yua9BUzMY) | 3:50 | 2025-11-08 | 2025-12-01 |

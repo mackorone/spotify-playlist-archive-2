@@ -1,12 +1,12 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4758,
+  "num_followers": 4757,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO3gDdedU8QFF2uzKjnByKGKqho/In",
+  "snapshot_id": "AAAO4ON4V9UA0D80AI+c1Meb/JBBmEG0",
   "tracks": [
     {
       "added_at": "2026-07-15 08:14:12",
@@ -807,6 +807,38 @@
       "duration_ms": 277224,
       "name": "Lesson to Be Learned",
       "url": "https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp"
+    },
+    {
+      "added_at": "2026-07-22 15:39:05",
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2c2Quhm8fF8MlFmiRFJ8I9"
+    },
+    {
+      "added_at": "2026-07-22 16:05:10",
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Kingdoms",
+      "url": "https://open.spotify.com/track/3iJfjc0J2xJLiweVjhwhED"
     }
   ],
   "unique_name": "Indie Rock",

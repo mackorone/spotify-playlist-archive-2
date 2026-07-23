@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 7368,
+  "num_followers": 7373,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAACsMtv+HSNYrbbnmkkWrt92",
+  "snapshot_id": "al62gAAAAAA2kXbqivbb3dEgi3bkRWo8",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
       "artists": [
         {
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 212775,
-      "name": "Komi Komi",
-      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
+        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 394122,
+      "name": "Esubiri Ebo Mi - Re-Mastered",
+      "url": "https://open.spotify.com/track/5kA97lf7rl6lMab9BGgr3Z"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
-        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 394122,
-      "name": "Esubiri Ebo Mi - Re-Mastered",
-      "url": "https://open.spotify.com/track/5kA97lf7rl6lMab9BGgr3Z"
+      "duration_ms": 212775,
+      "name": "Komi Komi",
+      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
     },
     {
       "added_at": null,

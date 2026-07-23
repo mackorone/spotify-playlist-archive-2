@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Letter from a Soldier",
+        "url": "https://open.spotify.com/album/1vhVHMdQJPDW8amt8C9aPk"
+      },
+      "artists": [
+        {
+          "name": "Baby and the Beats",
+          "url": "https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321368,
+      "name": "Letter from a Soldier",
+      "url": "https://open.spotify.com/track/2yehxUK2zwMZuVLT61GYKS"
+    },
+    {
+      "album": {
         "name": "Libertad de Expresi\u00f3n",
         "url": "https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18422,
+  "num_followers": 18425,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAADx41depijEVEU7ewISoLlm",
+  "snapshot_id": "al62gAAAAADjBc22zz3m0mwi9gTEQwFl",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "Your Father Would Be Proud",
-      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 219293,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "Your Father Would Be Proud",
+      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Jyn Erso & Hope Suite",
-      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 458933,
       "name": "Up With End Credits",
       "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Jyn Erso & Hope Suite",
+      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 175026,
       "name": "Hot Fursuit",
       "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 56400,
+      "name": "A Commuted Relationship",
+      "url": "https://open.spotify.com/track/3wjNabi8OaDNKoyXkl7fS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Incredibles (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 474506,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 56400,
-      "name": "A Commuted Relationship",
-      "url": "https://open.spotify.com/track/3wjNabi8OaDNKoyXkl7fS2"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Guardians of the Whills Suite",
-      "url": "https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 250293,
       "name": "The Fantastic Four: First Steps Main Theme Extended Version",
       "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
+        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
+      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
-        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 202560,
-      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
-      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
+      "duration_ms": 172533,
+      "name": "Guardians of the Whills Suite",
+      "url": "https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8"
     },
     {
       "added_at": null,

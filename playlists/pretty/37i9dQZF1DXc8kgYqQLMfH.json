@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1103406,
+  "num_followers": 1103519,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "Orient Silence",
-        "url": "https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4"
-      },
-      "artists": [
-        {
-          "name": "Mellow Melt",
-          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
-        }
-      ],
-      "duration_ms": 149125,
-      "name": "Orient Silence",
-      "url": "https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
         "name": "wind chimes",
         "url": "https://open.spotify.com/album/2yVAYaHuL9Ta5WWiDFP1Ec"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 135000,
       "name": "wind chimes",
       "url": "https://open.spotify.com/track/4ZerYi8XUvfDttgjHunuvf"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "Orient Silence",
+        "url": "https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "duration_ms": 149125,
+      "name": "Orient Silence",
+      "url": "https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "your touch",
+        "url": "https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "jeppa.",
+          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
+        }
+      ],
+      "duration_ms": 148872,
+      "name": "your touch",
+      "url": "https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "Dew",
         "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 151080,
       "name": "drowse",
       "url": "https://open.spotify.com/track/28DC7ed7WyifmElgEnqzZ4"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "your touch",
-        "url": "https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt"
-      },
-      "artists": [
-        {
-          "name": "Kichiro",
-          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
-        },
-        {
-          "name": "jeppa.",
-          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
-        }
-      ],
-      "duration_ms": 148872,
-      "name": "your touch",
-      "url": "https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
-      },
-      "artists": [
-        {
-          "name": "Attic Dizzt",
-          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
-        }
-      ],
-      "duration_ms": 142717,
-      "name": "Meanwhile",
-      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
         "name": "coral night",
         "url": "https://open.spotify.com/album/0Tju0cd3KK5gQBJTuLmwKF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 135341,
       "name": "coral night",
       "url": "https://open.spotify.com/track/5rlazXeH3ZsW1Uk7D1TCJb"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
+      },
+      "artists": [
+        {
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+        }
+      ],
+      "duration_ms": 142717,
+      "name": "Meanwhile",
+      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9lian",
+          "url": "https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0"
+        }
+      ],
+      "duration_ms": 102447,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/3ATlgaIBgAPLH2inuQTQfm"
       },
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "City Slumber",
-        "url": "https://open.spotify.com/album/3LFKhcJRHralwHO3i24jeL"
-      },
-      "artists": [
-        {
-          "name": "Mellow Melt",
-          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "City Slumber",
-      "url": "https://open.spotify.com/track/2fJpL4FueJLloOBvP0NevD"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e9lian",
-          "url": "https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0"
-        }
-      ],
-      "duration_ms": 102447,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
         "name": "cicada",
         "url": "https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 127619,
       "name": "cicada",
       "url": "https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "City Slumber",
+        "url": "https://open.spotify.com/album/3LFKhcJRHralwHO3i24jeL"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "City Slumber",
+      "url": "https://open.spotify.com/track/2fJpL4FueJLloOBvP0NevD"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "north",
+        "url": "https://open.spotify.com/album/0O0qhqXRMLv3gzUwjrjP3K"
+      },
+      "artists": [
+        {
+          "name": "tendgarden",
+          "url": "https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl"
+        }
+      ],
+      "duration_ms": 128878,
+      "name": "north",
+      "url": "https://open.spotify.com/track/0zPy5NVLohdcz1bPdHf8le"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "moonlit",
         "url": "https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 153600,
       "name": "Theoretical",
       "url": "https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "north",
-        "url": "https://open.spotify.com/album/0O0qhqXRMLv3gzUwjrjP3K"
-      },
-      "artists": [
-        {
-          "name": "tendgarden",
-          "url": "https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl"
-        }
-      ],
-      "duration_ms": 128878,
-      "name": "north",
-      "url": "https://open.spotify.com/track/0zPy5NVLohdcz1bPdHf8le"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt"
+      },
+      "artists": [
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "Pisa",
         "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt"
+        "name": "beneath",
+        "url": "https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy"
       },
       "artists": [
         {
-          "name": "herman.",
-          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+          "name": "costa rossa",
+          "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW"
+      "duration_ms": 151480,
+      "name": "beneath",
+      "url": "https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1683,6 +1699,22 @@
       "duration_ms": 106400,
       "name": "night sky",
       "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "Urban Summer",
+        "url": "https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2"
+      },
+      "artists": [
+        {
+          "name": "Alkis Siokis",
+          "url": "https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Urban Summer",
+      "url": "https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1715,22 +1747,6 @@
       "duration_ms": 190054,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "Urban Summer",
-        "url": "https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2"
-      },
-      "artists": [
-        {
-          "name": "Alkis Siokis",
-          "url": "https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Urban Summer",
-      "url": "https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "beneath",
-        "url": "https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy"
-      },
-      "artists": [
-        {
-          "name": "costa rossa",
-          "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
-        }
-      ],
-      "duration_ms": 151480,
-      "name": "beneath",
-      "url": "https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
         "name": "After Glow",
         "url": "https://open.spotify.com/album/23Q2Ne4BuHUkceLFKdk0Wn"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
-        "name": "neon reflections",
-        "url": "https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97"
-      },
-      "artists": [
-        {
-          "name": "Jarhed",
-          "url": "https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "neon reflections",
-      "url": "https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 125647,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "neon reflections",
+        "url": "https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97"
+      },
+      "artists": [
+        {
+          "name": "Jarhed",
+          "url": "https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "neon reflections",
+      "url": "https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "Tatami Haze",
+        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "Tatami Haze",
+      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "my safe place",
         "url": "https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv"
       },
@@ -1899,38 +1915,6 @@
       "duration_ms": 96000,
       "name": "my safe place",
       "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "bubble push",
-        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "bubble push",
-      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "ripple",
-        "url": "https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP"
-      },
-      "artists": [
-        {
-          "name": "soulful beats",
-          "url": "https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "ripple",
-      "url": "https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -1951,6 +1935,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "ripple",
+        "url": "https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP"
+      },
+      "artists": [
+        {
+          "name": "soulful beats",
+          "url": "https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "ripple",
+      "url": "https://open.spotify.com/track/5P74LLSSglF3gIt2tcFSVn"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/7wnhqe7r2D6sg82zGfZgpb"
       },
@@ -1967,6 +1967,22 @@
       "duration_ms": 89600,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/6kOTW7PCRfhd2I4hpq6BVT"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
+        "name": "bubble push",
+        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "bubble push",
+      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -2035,22 +2051,6 @@
       "duration_ms": 136634,
       "name": "Looking Up To The Sky",
       "url": "https://open.spotify.com/track/5AxmNIeY9dwOxmTMD9iZId"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "Tatami Haze",
-        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
-      },
-      "artists": [
-        {
-          "name": "Cloudroom",
-          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
-        }
-      ],
-      "duration_ms": 124153,
-      "name": "Tatami Haze",
-      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
     },
     {
       "added_at": "2026-07-17 04:00:21",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-07-17 04:00:21",
       "album": {
+        "name": "may sound trite",
+        "url": "https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u"
+      },
+      "artists": [
+        {
+          "name": "Mist Ant",
+          "url": "https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "may sound trite",
+      "url": "https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN"
+    },
+    {
+      "added_at": "2026-07-17 04:00:21",
+      "album": {
         "name": "Channel 4",
         "url": "https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 138082,
       "name": "Staring Out The Window",
       "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
-    },
-    {
-      "added_at": "2026-07-17 04:00:21",
-      "album": {
-        "name": "A better day",
-        "url": "https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA"
-      },
-      "artists": [
-        {
-          "name": "cuttingwood",
-          "url": "https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "A better day",
-      "url": "https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj"
     }
   ],
   "unique_name": "slow living",

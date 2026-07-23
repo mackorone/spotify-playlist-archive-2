@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-208 songs - 12 hr 15 min
+209 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Done](https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage \(Deluxe Edition\)](https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D) | 2:39 | 2026-04-19 |  |
 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 | 2026-04-19 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/5S8UxDwf7l053EkJvCK9jn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love Pt\. 1](https://open.spotify.com/album/5Cnb7R1qKioeMdNH0gPSGH) | 4:07 | 2025-01-24 | 2025-01-27 |
+| [Easy Love Pt\. 1](https://open.spotify.com/track/7grU08S64v7P3n4jWizd9R) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/7G0BrdROBgIMcEbYyelQ71) | 4:07 | 2026-07-23 |  |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 | 2025-01-31 | 2026-06-02 |
 | [Easy Love Pt\. 2](https://open.spotify.com/track/3Q4sXBBu9V3V46dk5YDZ9q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 3:27 | 2025-01-27 | 2025-02-23 |
-| [Easy Love, Pt\. 1](https://open.spotify.com/track/1yQQYopgKxI7X2juU18Aov) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:07 | 2026-06-02 |  |
+| [Easy Love, Pt\. 1](https://open.spotify.com/track/1yQQYopgKxI7X2juU18Aov) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:07 | 2026-06-02 | 2026-07-23 |
 | [Easy Love, Pt\. 1](https://open.spotify.com/track/5Dk9fnCqZZkNpRMtczWB7t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love, Pt\. 1](https://open.spotify.com/album/4ieeFJtdxEkHtM5DxbSyyb) | 4:07 | 2025-01-27 | 2025-01-31 |
 | [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2022-08-05 | 2023-03-28 |
 | [Easy Street](https://open.spotify.com/track/5guqdCxSoMWo22zBn13ybb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:17 | 2023-06-02 | 2024-09-01 |

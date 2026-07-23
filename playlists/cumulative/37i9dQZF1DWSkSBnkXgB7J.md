@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Bandar Abdulaziz
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Zaid Khaled
 
-175 songs - 9 hr 13 min
+177 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2022-06-24 | 2022-11-09 |
 | [Fesam](https://open.spotify.com/track/4A5EWaur2f9Wu44tnBJrRH) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Moataz Mady](https://open.spotify.com/artist/08f43lunay0gG19Cd7k3iU) | [El Aasela](https://open.spotify.com/album/5VyF7ggNDvSyD1WyD2Jssj) | 4:09 | 2022-06-24 | 2022-11-09 |
 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-05-14 | 2025-01-30 |
-| [GARALI EH](https://open.spotify.com/track/26I24lR20m0nDwdniIKOlU) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [GARALI EH](https://open.spotify.com/album/0EnbWw8id6Ze4muR1Wro9F) | 2:22 | 2025-03-24 |  |
+| [GARALI EH](https://open.spotify.com/track/26I24lR20m0nDwdniIKOlU) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [GARALI EH](https://open.spotify.com/album/0EnbWw8id6Ze4muR1Wro9F) | 2:22 | 2025-03-24 | 2026-07-23 |
+| [GAWAB / جواب](https://open.spotify.com/track/6DIfWF70oQUCabuVcQXqXT) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm) | [GAWAB / جواب](https://open.spotify.com/album/5FV14arZ6cCsDsRAkjFGbP) | 3:17 | 2026-07-22 |  |
 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2025-01-29 | 2025-12-27 |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2024-05-02 | 2026-04-02 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-06-24 | 2024-05-03 |
@@ -78,6 +79,7 @@
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [MOLHAM](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-21 | 2025-01-30 |
 | [Khayali](https://open.spotify.com/track/6r7tAWZJKh1bAcDY49IZyh) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khayali](https://open.spotify.com/album/25dlC7CoMPDwTrcMindR3w) | 2:09 | 2022-06-24 | 2022-11-09 |
 | [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 | 2026-03-20 |  |
+| [Kima 7na](https://open.spotify.com/track/12AqToGd0FW2pD2DvxJI3V) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Kima 7na](https://open.spotify.com/album/21fagJSbZiTGEmsBKQsKEX) | 2:47 | 2026-07-22 |  |
 | [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 | 2025-05-12 |  |
 | [Layli](https://open.spotify.com/track/5GWLrhnqDDGyjbwbweY8FT) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Layli](https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5) | 3:16 | 2025-01-29 |  |
 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 | 2025-01-29 |  |
@@ -162,7 +164,7 @@
 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/2hXeiHmVkR1DNL99tr7Rf2) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/51jxRscBO8Hy26XA2zWIvq) | 1:45 | 2023-03-01 | 2024-04-19 |
 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/7ypmlaEF73dkmyo6KKOgeL) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/6HIocR1nRFrIoK3lZn8YOV) | 1:45 | 2022-11-08 | 2025-04-15 |
 | [طوفان](https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup) | [Nagham Saleh](https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [طوفان](https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C) | 3:28 | 2025-03-24 |  |
-| [طول الليل](https://open.spotify.com/track/4nYJ8Nd2sq6BFN1fh0XzZD) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [طول الليل](https://open.spotify.com/album/7MJsxMKsO2BX5vk4mamGLq) | 3:01 | 2025-03-24 |  |
+| [طول الليل](https://open.spotify.com/track/4nYJ8Nd2sq6BFN1fh0XzZD) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [طول الليل](https://open.spotify.com/album/7MJsxMKsO2BX5vk4mamGLq) | 3:01 | 2025-03-24 | 2026-07-23 |
 | [عشانك](https://open.spotify.com/track/01wXy6jRJBni1IePERVd7K) | [Deleted songs \- اغاني محذوفة](https://open.spotify.com/artist/7DgoZYbE59JMvzhmtCG7Y5), [Siilawy](https://open.spotify.com/artist/3Vn8HsYVqbtuJ1tBOsdVAU) | [جميع اغاني سيلاوي المحذوفة \(Siilawy\)](https://open.spotify.com/album/4Xs77eNtwhVCsF3iTVqoLK) | 3:07 | 2023-08-03 | 2023-09-13 |
 | [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-11-08 | 2025-04-15 |
 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 | 2023-03-01 | 2024-04-19 |

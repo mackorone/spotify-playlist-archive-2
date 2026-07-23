@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,155 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,179 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 67 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 |
 | 68 | [NO MORE PAIN](https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [NO MORE PAIN](https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI) | 3:27 |
 | 69 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
-| 70 | [Active Now](https://open.spotify.com/track/1z1DCyzCEntFmJHXG5RnFQ) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [RD WestYorks](https://open.spotify.com/artist/2Opb3TVPI7KeOlhdo7tZkG) | [Active Now](https://open.spotify.com/album/6C2EWfAXZ1j1PXEv1sbEXG) | 3:25 |
+| 70 | [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

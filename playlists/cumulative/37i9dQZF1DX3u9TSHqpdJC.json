@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/6xibxT71j595mgwTr3FASn"
+      },
+      "artists": [
+        {
+          "name": "oktehya",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124309,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb"
+    },
+    {
+      "album": {
         "name": "4th Wall",
         "url": "https://open.spotify.com/album/3JDkeoDg1MFK5ApgfzJCXn"
       },
@@ -11726,7 +11744,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 195471,
       "name": "CAIRO (I Like That...)",
       "url": "https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx"
@@ -12802,7 +12820,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 136843,
       "name": "catch//release",
       "url": "https://open.spotify.com/track/67BMD9neEgHI68CpuOCoyO"
@@ -15643,6 +15661,24 @@
     },
     {
       "album": {
+        "name": "CRAVING CONNECTION !!!",
+        "url": "https://open.spotify.com/album/3pNGHDlwF18dCw0WPAckYZ"
+      },
+      "artists": [
+        {
+          "name": "Isabel",
+          "url": "https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194294,
+      "name": "CRAVING CONNECTION !!!",
+      "url": "https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT"
+    },
+    {
+      "album": {
         "name": "Crawl",
         "url": "https://open.spotify.com/album/10G3lGUgPUKaAkCTL98OpB"
       },
@@ -16324,7 +16360,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 138855,
       "name": "CRYING IS A GIRL'S BEST FRIEND",
       "url": "https://open.spotify.com/track/7x0UBBaRHCCg7Xzx1XJqeG"
@@ -21060,6 +21096,24 @@
       "duration_ms": 226861,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4R8V0QRbPWNdirPk7OsM2Y"
+    },
+    {
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/69g6I12DCHSqAFU18CoXrV"
+      },
+      "artists": [
+        {
+          "name": "Hannah-Morgan",
+          "url": "https://open.spotify.com/artist/7CnLDFv2r1kVrF42nTZV51"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131066,
+      "name": "Eat",
+      "url": "https://open.spotify.com/track/40kCK0g07iM65DGFaMb6Cv"
     },
     {
       "album": {
@@ -26800,6 +26854,24 @@
       "duration_ms": 138786,
       "name": "Funny",
       "url": "https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj"
+    },
+    {
+      "album": {
+        "name": "further from you",
+        "url": "https://open.spotify.com/album/09XfupZsiklci63jsFiYr4"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243144,
+      "name": "further from you",
+      "url": "https://open.spotify.com/track/6CKWUJEPPWArK8a73FusqF"
     },
     {
       "album": {
@@ -46200,7 +46272,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 170381,
       "name": "magic",
       "url": "https://open.spotify.com/track/6lKfOVXCnxouZjkz95gq52"
@@ -49448,7 +49520,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 200021,
       "name": "move, honey",
       "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
@@ -50594,7 +50666,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 179189,
       "name": "Never Be Friends",
       "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
@@ -51030,7 +51102,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 198139,
       "name": "New York",
       "url": "https://open.spotify.com/track/7uWdf0IRjNNU7IfbaGXia6"
@@ -51546,6 +51618,24 @@
       "duration_ms": 181093,
       "name": "Nightvision",
       "url": "https://open.spotify.com/track/5e5czhnp5U8yaglHsHprHv"
+    },
+    {
+      "album": {
+        "name": "NINE-ONE-ONE",
+        "url": "https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6"
+      },
+      "artists": [
+        {
+          "name": "insha",
+          "url": "https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101172,
+      "name": "NINE-ONE-ONE",
+      "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
     },
     {
       "album": {
@@ -58294,7 +58384,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 250308,
       "name": "prom king",
       "url": "https://open.spotify.com/track/3v5vLLV5ThebrEbLQXyim7"
@@ -63869,6 +63959,24 @@
     },
     {
       "album": {
+        "name": "Shit Kicker",
+        "url": "https://open.spotify.com/album/2b2kasSXoYzTXYp9NuiDdE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Frost",
+          "url": "https://open.spotify.com/artist/68rOPXerz0MYCpK05DYWjo"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151415,
+      "name": "Shit Kicker",
+      "url": "https://open.spotify.com/track/1fz5t0Oge6VBwnzCo7fAlk"
+    },
+    {
+      "album": {
         "name": "SHIT SHOW",
         "url": "https://open.spotify.com/album/3wqeXZkmQcbxkcUbyAZ2Ce"
       },
@@ -66968,6 +67076,24 @@
       "duration_ms": 184000,
       "name": "Spaghetti On Repeat",
       "url": "https://open.spotify.com/track/091PbyjUM3mDrO1V7JzGxA"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
     },
     {
       "album": {
@@ -70429,6 +70555,24 @@
     },
     {
       "album": {
+        "name": "Taken",
+        "url": "https://open.spotify.com/album/59K9Tku4soM5WKE0cH3bsR"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hintze",
+          "url": "https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142741,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/4eKdz79wkQxSlHdah7X13S"
+    },
+    {
+      "album": {
         "name": "TAKEN BACK",
         "url": "https://open.spotify.com/album/5VSHHaUiU4qwpw2XjTKsyC"
       },
@@ -72412,6 +72556,24 @@
       "duration_ms": 179791,
       "name": "The Eviction Song",
       "url": "https://open.spotify.com/track/6oQiyu9WMFDSKn2my0k7p7"
+    },
+    {
+      "album": {
+        "name": "The Eye",
+        "url": "https://open.spotify.com/album/6LafjcWQmmGVOXWhSD0hh3"
+      },
+      "artists": [
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179558,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/4Bn6ZWVHsquZIgauEe74cs"
     },
     {
       "album": {

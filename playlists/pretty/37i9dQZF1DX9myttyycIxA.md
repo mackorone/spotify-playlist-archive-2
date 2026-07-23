@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Trophy Wife
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,769 likes - 105 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,762 likes - 105 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

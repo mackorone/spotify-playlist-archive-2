@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Bonnie Loo\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: justseow\. Artwork: Isu Kim.
 
-1,491 songs - 3 day 9 hr 46 min
+1,492 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Harta & Nyawa](https://open.spotify.com/track/2DRq315HH5q5rN5b6yTt99) | [Arilaffiz](https://open.spotify.com/artist/7lI3X3dtM0XlJEGQ32KSr0) | [Harta & Nyawa](https://open.spotify.com/album/4eJWOabJV3Qzc3VGqv1hjp) | 4:03 | 2025-11-14 | 2026-03-21 |
 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 | 2023-03-30 | 2023-10-20 |
 | [HASTE](https://open.spotify.com/track/5dm8zFrhLC1fOfuxM8jCpT) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HIDDEN INTIMACIES](https://open.spotify.com/album/2moJ4oE3T6qwX88eb9AVrl) | 3:00 | 2023-11-29 | 2024-01-12 |
+| [Hate That I Miss You](https://open.spotify.com/track/2ajRD6O9yfql10QFJuxPfy) | [justseow](https://open.spotify.com/artist/0hDAO7mJrK3VSdatUp1kQL) | [Hate That I Miss You](https://open.spotify.com/album/3quyJza5oICfxrt2ooYcNt) | 2:54 | 2026-07-22 |  |
 | [hatin' on ok](https://open.spotify.com/track/48zyNX8WTgDkpn4e0GIhcx) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [hatin' on ok](https://open.spotify.com/album/3ooZSPtOFEhfnqFMrjKqDT) | 2:29 | 2023-02-03 | 2023-05-27 |
 | [havelock](https://open.spotify.com/track/4XgtMkpCcRdH6b5bkj5nJ1) | [KAI.ZEN](https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx) | [havelock](https://open.spotify.com/album/06nerL1BSQjHrskov357cx) | 4:00 | 2025-09-26 | 2025-11-14 |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
@@ -1131,7 +1132,7 @@
 | [STILL HER](https://open.spotify.com/track/6mlH1Nb6Znliy8lUKKTsK9) | [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [STILL HER](https://open.spotify.com/album/6WDX9O6IgPSmUyqST5vumx) | 2:42 | 2025-03-21 | 2025-05-03 |
 | [still want it all](https://open.spotify.com/track/1OU0Lz9YH1JPOf2uR4tHyM) | [Claire Javier](https://open.spotify.com/artist/0YOmSGHZSCYRXMZYWnIAOz) | [still want it all](https://open.spotify.com/album/7Ds3zE6nVbsFSRfgDOXAOO) | 3:08 | 2026-05-27 |  |
 | [Stolen](https://open.spotify.com/track/1oSC81BQM0d2Wt3UgoG66Z) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG), [DJ Fuzz](https://open.spotify.com/artist/1YfTLG8X1AGBhEuUegQJrb) | [Stolen](https://open.spotify.com/album/5hLO7KicXb7v9tDt3xMLjl) | 3:27 | 2023-06-15 | 2023-11-24 |
-| [STOMACH](https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [STOMACH](https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU) | 1:15 | 2026-05-06 |  |
+| [STOMACH](https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [STOMACH](https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU) | 1:15 | 2026-05-06 | 2026-07-23 |
 | [Stop Playing!](https://open.spotify.com/track/2fZAtkoNrUrJuiCeeCUgEy) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [Psychedelic Ensemble\. ](https://open.spotify.com/artist/3n6uOAk5t1mGD2JhBGC2kO) | [CACOPHONOUS DIGRESSIONS, A RECORD OF A MOMENT IN TIME](https://open.spotify.com/album/0DI7fCoiZixb2rscyjE8lj) | 1:22 | 2023-11-02 | 2024-01-19 |
 | [Stoplight](https://open.spotify.com/track/47N6MR3XrYN5AwW01bEHu4) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Stoplight](https://open.spotify.com/album/1b1RmBzvKgnQWIkPv0gBC8) | 3:21 | 2023-06-22 | 2024-05-10 |
 | [Stranger Danger](https://open.spotify.com/track/4jX5nfbHRQgyZ2Lhix5ScN) | [Ayumi](https://open.spotify.com/artist/2ND7OWbqX8jgIcN5pkdpfL) | [Stranger Danger](https://open.spotify.com/album/3lsrTCvy0m1fQvS0CFuWGB) | 3:04 | 2023-11-02 | 2024-01-19 |

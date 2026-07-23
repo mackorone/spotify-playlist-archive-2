@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0H4GV8vMFV1wLkuywC64LE.md) - [plain]
 
 > A selection of dark&\#x2F;energetic songs for Mac
 
-[Dimitri Toff](https://open.spotify.com/user/21hu747ltxerwdau5dmaznvka) - 1 like - 8 songs - 29 min 53 sec
+[Dimitri Toff](https://open.spotify.com/user/21hu747ltxerwdau5dmaznvka) - 0 likes - 8 songs - 29 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

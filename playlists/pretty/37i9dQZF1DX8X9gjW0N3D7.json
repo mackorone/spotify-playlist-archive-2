@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: N NAO",
-  "num_followers": 69833,
+  "num_followers": 69836,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
+      },
+      "artists": [
+        {
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
+        }
+      ],
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "Todas mis amigas",
         "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 202493,
       "name": "verres fum\u00e9s",
       "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+        "name": "Les serpents dans l'eau",
+        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
       },
       "artists": [
         {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+          "name": "c\u00e9cile",
+          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
         }
       ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
+      "duration_ms": 217046,
+      "name": "Les serpents dans l'eau",
+      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Les serpents dans l'eau",
-        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
       },
       "artists": [
         {
-          "name": "c\u00e9cile",
-          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
         }
       ],
-      "duration_ms": 217046,
-      "name": "Les serpents dans l'eau",
-      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -859,22 +859,6 @@
       "duration_ms": 117333,
       "name": "Tout c\u2019qui faut",
       "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 337719,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 337719,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "Sanzaru",
         "url": "https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "Timid",
-        "url": "https://open.spotify.com/album/5CGOzYGviWoPJ6NYpScd8S"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 164376,
-      "name": "Timid",
-      "url": "https://open.spotify.com/track/7KIk6TtenbaYf0OUJQqIui"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Not on the Run",
         "url": "https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 225801,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "Timid",
+        "url": "https://open.spotify.com/album/5CGOzYGviWoPJ6NYpScd8S"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 164376,
+      "name": "Timid",
+      "url": "https://open.spotify.com/track/7KIk6TtenbaYf0OUJQqIui"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Qu'est-ce que je viens faire ici ?",
-      "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
         "name": "Paranormal",
         "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 177106,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Qu'est-ce que je viens faire ici ?",
+      "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
     },
     {
       "added_at": "2026-07-17 14:45:43",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-07-17 14:45:43",
       "album": {
+        "name": "Rebound",
+        "url": "https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9"
+      },
+      "artists": [
+        {
+          "name": "BLAMM",
+          "url": "https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5"
+        }
+      ],
+      "duration_ms": 236551,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"
+    },
+    {
+      "added_at": "2026-07-17 14:45:43",
+      "album": {
         "name": "Animal imberbe",
         "url": "https://open.spotify.com/album/57yyvI0RDu5XuGVGITRjRf"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 177213,
       "name": "Mes joues",
       "url": "https://open.spotify.com/track/4cUN9JWxHrJeLdkywDGefx"
-    },
-    {
-      "added_at": "2026-07-17 14:45:43",
-      "album": {
-        "name": "Rebound",
-        "url": "https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9"
-      },
-      "artists": [
-        {
-          "name": "BLAMM",
-          "url": "https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5"
-        }
-      ],
-      "duration_ms": 236551,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"
     },
     {
       "added_at": "2026-07-17 14:45:43",

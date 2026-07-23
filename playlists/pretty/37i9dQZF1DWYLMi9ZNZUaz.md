@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,096 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,102 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 13 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 14 | [Baby \(feat\. marzuz\)](https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 2:53 |
 | 15 | [Đó Chỉ Là Thành Phố Của Anh](https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [New$oulz](https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc) | [Đó Chỉ Là Thành Phố Của Anh](https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs) | 1:53 |
-| 16 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
-| 17 | [Feel At Home](https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 2:43 |
+| 16 | [Feel At Home](https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 2:43 |
+| 17 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
 | 18 | [Nếu \(feat\. Obito\)](https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:15 |
 | 19 | [Liệm](https://open.spotify.com/track/6gmXMeStkiDoAbNaUeHbqU) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 3:53 |
 | 20 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 21 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
 | 22 | [Bước Za Đi Xa](https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Marlykid](https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI), [Lucin3x](https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2) | [Bước Za Đi Xa](https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf) | 2:48 |
 | 23 | [Tuyển Bạn Gái](https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op) | [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Tuyển Bạn Gái](https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4) | 3:40 |
-| 24 | [Xa Xôi \(feat\. Obito\)](https://open.spotify.com/track/3SJBCyImil9sNCH8lcCnqO) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 3:37 |
+| 24 | [Wtf Bby I'm Lit](https://open.spotify.com/track/1k9KzeTfQTmUDVtVWdSYAM) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 2:46 |
 | 25 | [Hững Hờ](https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:26 |
 | 26 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 27 | [Mời Em](https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:23 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 |
 | 48 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
 | 49 | [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 |
-| 50 | [Mắt Bão](https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Long Nón Lá](https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB), [Phương Nghiêm](https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay) | [Mắt Bão](https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7) | 4:19 |
+| 50 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
 
 Snapshot ID: `AAAAAINpxnxRuokqLuAWTD6fDOevDhWY`

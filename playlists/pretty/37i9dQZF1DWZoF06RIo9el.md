@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2026\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,643 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,431 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 33 | [mientras pueDa](https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [ANTES DE QUE SEA TARDE](https://open.spotify.com/album/7z513StymZaeATXNoCBeDr) | 2:55 |
 | 34 | [Silverado](https://open.spotify.com/track/7AiufZydQdIZypUWpiEABD) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Silverado](https://open.spotify.com/album/1AFVBBfgExQd6OKIchabdA) | 3:09 |
 | 35 | [TUS AMIGAS](https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [SECHO GANG](https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn) | 2:18 |
-| 36 | [pequeñita!](https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [pequeñita!](https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt) | 2:39 |
-| 37 | [24/7](https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [24/7](https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx) | 2:20 |
+| 36 | [24/7](https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [24/7](https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx) | 2:20 |
+| 37 | [pequeñita!](https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [pequeñita!](https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt) | 2:39 |
 | 38 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 |
 | 39 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
 | 40 | [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 |

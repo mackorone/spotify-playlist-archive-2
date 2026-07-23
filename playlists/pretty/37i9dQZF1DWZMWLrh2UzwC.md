@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Gracie Abrams, beabadoobee, Eric Chou, Ismail Izzani, Noh Salleh, Aina Abdul , 蔡恩雨 Priscilla Abby, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,524 likes - 86 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,520 likes - 86 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

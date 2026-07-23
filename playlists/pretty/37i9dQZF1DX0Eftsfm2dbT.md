@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Daichi Yamamoto \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,790 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,847 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 7 | [アニョハセヨ \- ちゃんみな Remix](https://open.spotify.com/track/5QCASgLrtOEISqWjkLdATC) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [アニョハセヨ \(ちゃんみな Remix\)](https://open.spotify.com/album/7mALuD7NbYltVd68maGxuR) | 1:56 |
 | 8 | [Summer Time \(feat\. DADA\)](https://open.spotify.com/track/3cIQZmweQ674dC4NwJSoji) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Summer Time \(feat\. DADA\)](https://open.spotify.com/album/5Oow8jIviXhqxYtc1AWz0H) | 3:03 |
 | 9 | [How Many Girls \(feat\. HENTAI SHINSHI CLUB\)](https://open.spotify.com/track/3CmGHhqP3dbORDxhZNIqgR) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [How Many Girls \(feat\. HENTAI SHINSHI CLUB\)](https://open.spotify.com/album/4l6dux8zCO2yyhId7ReIo1) | 4:09 |
-| 10 | [Midnight Friend \(feat\. DALU\)](https://open.spotify.com/track/5b7gjTad0jugU8zGVMH2zA) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm) | [Midnight Friend \(feat\. DALU\)](https://open.spotify.com/album/2sNfSFKyq0hWqfWGWM3ath) | 2:36 |
+| 10 | [Midnight Friend \(feat\. DALU\)](https://open.spotify.com/track/5b7gjTad0jugU8zGVMH2zA) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm) | [Midnight Friend \(feat\. DALU\)](https://open.spotify.com/album/2sNfSFKyq0hWqfWGWM3ath) | 2:34 |
 | 11 | [Put It On The Floor \(feat\. Vingo\)](https://open.spotify.com/track/0Q1yMQkL2bfZjK0BiuZY8F) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [RAINMAN](https://open.spotify.com/album/25myz2BcZ6grAvhdASLfvB) | 3:27 |
 | 12 | [A New Life](https://open.spotify.com/track/4myZPKVB0IB56ALzlBUEvt) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Ride With Me](https://open.spotify.com/album/0qRG44VeY94sZsFg29SeEy) | 3:18 |
 | 13 | [Ikimasho](https://open.spotify.com/track/280bEa0f1QtZZl9UgFV9Pi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Ikimasho](https://open.spotify.com/album/6L94dnRripVBvZCX1e79BK) | 2:40 |

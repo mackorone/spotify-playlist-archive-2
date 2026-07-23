@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: إليسا
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,101 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,249 likes - 53 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Faker](https://open.spotify.com/track/4bUhab5kmCe74AFnYlVphQ) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Asaad Wahda](https://open.spotify.com/album/1ppVmx3JFg7IYHkeMb2vBX) | 5:44 |
+| 1 | [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 |
 | 2 | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5) | 2:38 |
 | 3 | [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 |
 | 4 | [Estanna,](https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Chokran,](https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB) | 3:32 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 52 | [A2al Wageb](https://open.spotify.com/track/6ueYazWy9KcEkYrlOVf77r) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Yally Mashy](https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM) | 5:50 |
 | 53 | [Be Amaret Eh](https://open.spotify.com/track/4eoGHcyLFTwtgWRRIkVS1s) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Oum O2af](https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR) | 5:02 |
 
-Snapshot ID: `AAAAANuZbP1AhzgvIxbxTBPQEcBakt36`
+Snapshot ID: `AAAAACH2uBtV7rY6XN0GJPyZWlvQKOp5`

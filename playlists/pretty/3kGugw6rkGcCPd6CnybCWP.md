@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,164 likes - 104 songs - 6 hr 9 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,164 likes - 106 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 102 | [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 |
 | 103 | [Im not going home](https://open.spotify.com/track/1U1Eqi1n2Q0PMoi1Rw9FuA) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T), [nostranger](https://open.spotify.com/artist/1llGv7eEgoGpXykdEan0cJ) | [Im not going home](https://open.spotify.com/album/3YIwF38ME0q1PRfqF8kBpa) | 3:36 |
 | 104 | [Useless](https://open.spotify.com/track/1isdRGP8dqpVLayBrlHXtg) | [strange world's end](https://open.spotify.com/artist/2MCW80Q2JBmvQARxrYI1Tb) | [Useless](https://open.spotify.com/album/5x5DH9RSBhGjkmhgnjr9ob) | 3:57 |
+| 105 | [Shadow Spun](https://open.spotify.com/track/0HHqWEbz06O9f0WVhQWfEH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Shadow Spun](https://open.spotify.com/album/2YV7pbZSFmQoNB9wlGS8YQ) | 4:14 |
+| 106 | [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 |
 
-Snapshot ID: `AAAPdv8vKFNHCwA9gZ1uThFEqFAbB5Fu`
+Snapshot ID: `AAAPeIjFkTB2viFtQ9X3SD9TRneZbI9+`

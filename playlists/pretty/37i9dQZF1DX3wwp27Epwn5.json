@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 342944,
+  "num_followers": 343159,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,26 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
-        "name": "Ragini Mms 2",
-        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
+        "name": "Humraah (From \"Malang - Unleash The Madness\")",
+        "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
       },
       "artists": [
         {
-          "name": "Meet Bros Anjjan",
-          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
         },
         {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "The Fusion Project",
+          "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
         }
       ],
-      "duration_ms": 213887,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H"
+      "duration_ms": 299821,
+      "name": "Humraah (From \"Malang - Unleash The Madness\")",
+      "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
     },
     {
       "added_at": "2026-07-20 07:19:16",
@@ -307,26 +311,22 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
-        "name": "Humraah (From \"Malang - Unleash The Madness\")",
-        "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
+        "name": "Ragini Mms 2",
+        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
       },
       "artists": [
         {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
         },
         {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        },
-        {
-          "name": "The Fusion Project",
-          "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
         }
       ],
-      "duration_ms": 299821,
-      "name": "Humraah (From \"Malang - Unleash The Madness\")",
-      "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
+      "duration_ms": 213887,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H"
     },
     {
       "added_at": "2026-07-20 07:19:16",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
-    },
-    {
-      "added_at": "2026-07-20 07:19:16",
-      "album": {
         "name": "Dangal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 299325,
       "name": "Dangal",
       "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
+    },
+    {
+      "added_at": "2026-07-20 07:19:16",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2026-07-20 07:19:16",
@@ -975,6 +975,34 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
+        "name": "Loveyatri - A Journey Of Love",
+        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "duration_ms": 249741,
+      "name": "Chogada",
+      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
+    },
+    {
+      "added_at": "2026-07-20 07:19:16",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1011,34 +1039,6 @@
       "duration_ms": 203881,
       "name": "Chhote Chhote Peg",
       "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
-    },
-    {
-      "added_at": "2026-07-20 07:19:16",
-      "album": {
-        "name": "Loveyatri - A Journey Of Love",
-        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Lijo George-Dj Chetas",
-          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
-        }
-      ],
-      "duration_ms": 249741,
-      "name": "Chogada",
-      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
     },
     {
       "added_at": "2026-07-20 07:19:16",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-07-20 07:19:16",
-      "album": {
         "name": "Heer Aasmani (From \"Fighter\")",
         "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
+    },
+    {
+      "added_at": "2026-07-20 07:19:16",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2026-07-20 07:19:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-07-20 07:19:16",
       "album": {
-        "name": "Urvashi",
-        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Urvashi",
-      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
-    },
-    {
-      "added_at": "2026-07-20 07:19:16",
-      "album": {
         "name": "Delhi Belly (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 241304,
       "name": "Bhaag D.K. Bose, Aandhi Aayi",
       "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
+    },
+    {
+      "added_at": "2026-07-20 07:19:16",
+      "album": {
+        "name": "Urvashi",
+        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "Urvashi",
+      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
     },
     {
       "added_at": "2026-07-20 07:19:16",

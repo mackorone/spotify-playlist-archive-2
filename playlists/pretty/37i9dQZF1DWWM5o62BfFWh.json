@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167166,
+  "num_followers": 167193,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -147,10 +147,18 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "EL PROBLEMA SOY YO",
-        "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
       },
       "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+        },
         {
           "name": "Dale Pututi",
           "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
@@ -158,19 +166,11 @@
         {
           "name": "Nesty",
           "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
         }
       ],
-      "duration_ms": 211490,
-      "name": "EL PROBLEMA SOY YO",
-      "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -235,18 +235,10 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "El Doctorado (Version Reparto)",
-        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+        "name": "EL PROBLEMA SOY YO",
+        "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
       },
       "artists": [
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
-        },
         {
           "name": "Dale Pututi",
           "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
@@ -254,11 +246,19 @@
         {
           "name": "Nesty",
           "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
         }
       ],
-      "duration_ms": 221671,
-      "name": "El Doctorado - Version Reparto",
-      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+      "duration_ms": 211490,
+      "name": "EL PROBLEMA SOY YO",
+      "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -623,22 +623,26 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Suave y Rico",
-        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
+        "name": "Yo Voy A Mi",
+        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
       },
       "artists": [
         {
-          "name": "Chucho Flash",
-          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
         },
         {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
         }
       ],
-      "duration_ms": 189693,
-      "name": "Suave y Rico",
-      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
+      "duration_ms": 164009,
+      "name": "Yo Voy A Mi",
+      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -683,6 +687,26 @@
       "duration_ms": 190909,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Suave y Rico",
+        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
+      },
+      "artists": [
+        {
+          "name": "Chucho Flash",
+          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Suave y Rico",
+      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -879,30 +903,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Yo Voy A Mi",
-        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn"
-      },
-      "artists": [
-        {
-          "name": "Ya Ice Dilan",
-          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
-        },
-        {
-          "name": "JipMusic Global",
-          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Yo Voy A Mi",
-      "url": "https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "10 \u00c9xitos Duros",
         "url": "https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "Imaginaciones M\u00edas",
+        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
+      },
+      "artists": [
+        {
+          "name": "Bebeshito",
+          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 185716,
+      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 178055,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "Imaginaciones M\u00edas",
-        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
-      },
-      "artists": [
-        {
-          "name": "Bebeshito",
-          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 185716,
-      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 219220,
       "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
       "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
     },
     {
       "added_at": "2026-07-17 04:01:27",

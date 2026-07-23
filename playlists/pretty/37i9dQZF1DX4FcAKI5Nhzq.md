@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: GIRLSET\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,728 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,685 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,410 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,599 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Burning Hearts](https://open.spotify.com/track/0fY0C9BjglHljAPwNtMwtv) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Burning Hearts](https://open.spotify.com/album/3l8uhqpjdts2kncGoOQBTj) | 5:48 |
 | 80 | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH) | 4:32 |
 
-Snapshot ID: `AAAAAB3HZdamFZAiVmlzWcPooi64aswB`
+Snapshot ID: `AAAAAK+RIkaoL0LxnH9FRQ/XscCVfhzO`

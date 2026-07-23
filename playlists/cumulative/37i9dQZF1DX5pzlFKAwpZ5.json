@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 202077,
       "name": "LICHT",
       "url": "https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV"
@@ -7118,6 +7118,32 @@
       "duration_ms": 292000,
       "name": "York",
       "url": "https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh"
+    },
+    {
+      "album": {
+        "name": "The Mountain I See",
+        "url": "https://open.spotify.com/album/4rQ9LbF8o5HRNlRRAuMEzN"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289966,
+      "name": "You within me",
+      "url": "https://open.spotify.com/track/5m4eFtSwBy5nmHkYpRVpyX"
     },
     {
       "album": {

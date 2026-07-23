@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Mikayla Geier
+> Reimagined pop covers of your favorite songs\.  Cover: Sienna Spiro
 
-473 songs - 1 day 3 hr 10 min
+474 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Into You](https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI) | 4:46 | 2022-09-23 | 2022-12-30 |
 | [Into You \- Spotify Singles](https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Into You \(Spotify Singles\)](https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM) | 4:06 | 2026-03-06 |  |
 | [Iris](https://open.spotify.com/track/1yMC3CVOMznLCFBTalBZVZ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Iris](https://open.spotify.com/album/5CcE9mu9LmgXp7a946MkEO) | 2:27 | 2025-12-12 |  |
+| [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 4:02 | 2026-07-22 |  |
 | [It'll Be Okay](https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5) | 3:52 | 2022-05-20 | 2022-12-30 |
 | [It's A Sin](https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's A Sin](https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg) | 3:12 | 2021-12-17 | 2026-01-24 |
 | [It's Gonna Be Me](https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV) | 2:54 | 2021-12-17 | 2022-10-13 |
@@ -301,7 +302,7 @@
 | [Miss Independent](https://open.spotify.com/track/12x7PoOlGISTE8a2yfGeKQ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Miss Independent / Adorn](https://open.spotify.com/album/1xbCdCoAV0vFtfnFRsHlfI) | 3:01 | 2023-07-10 | 2023-10-17 |
 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Montero \(Call Me By Your Name\)](https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG) | 2:21 | 2022-07-29 | 2023-10-17 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2021-12-17 | 2022-05-02 |
-| [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-12-29 |  |
+| [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-12-29 | 2026-07-23 |
 | [Moon River](https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Moon River](https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5) | 2:37 | 2022-04-01 | 2022-12-30 |
 | [My All](https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [My All](https://open.spotify.com/album/4udtcIAttKDLjbwVdpRFbg) | 2:31 | 2022-01-07 | 2022-12-30 |
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2021-12-17 | 2022-05-02 |

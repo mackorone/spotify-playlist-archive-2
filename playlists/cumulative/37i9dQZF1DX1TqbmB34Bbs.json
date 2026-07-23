@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: 1300) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \ud76c\ub300\uc758(HEEDAE)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -462,6 +462,32 @@
       "duration_ms": 291066,
       "name": "111%",
       "url": "https://open.spotify.com/track/509PwprNSRjHf7PWwHqjZp"
+    },
+    {
+      "album": {
+        "name": "DOMO",
+        "url": "https://open.spotify.com/album/1BtFOc54jRJ5WLOfZmn6JC"
+      },
+      "artists": [
+        {
+          "name": "HEEDAE",
+          "url": "https://open.spotify.com/artist/6J4oB6UcxVwsI6jmjmeMGA"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "112",
+      "url": "https://open.spotify.com/track/3ewkk2oDhpmhz0geDTlnLI"
     },
     {
       "album": {
@@ -23081,6 +23107,36 @@
     },
     {
       "album": {
+        "name": "2000 TAPE",
+        "url": "https://open.spotify.com/album/0HhoqCRYpuH5sc9mlgCgrF"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173833,
+      "name": "RHYMES N FLOWS",
+      "url": "https://open.spotify.com/track/04pj9vRlHRY2ogbcl8xoGo"
+    },
+    {
+      "album": {
         "name": "RIDERS",
         "url": "https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV"
       },
@@ -24144,7 +24200,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 241578,
       "name": "saimsaim",
       "url": "https://open.spotify.com/track/1azntoRYHtrEfAhicqPuit"
@@ -24412,7 +24468,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 232308,
       "name": "Selfmade Orange",
       "url": "https://open.spotify.com/track/2KB7PsnsD4LdSP6p8WMLN4"

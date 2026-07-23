@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,224 likes - 72 songs - 4 hr 15 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,226 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 33 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
 | 34 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 |
 | 35 | [OFFLINE](https://open.spotify.com/track/2Fb4kVQG0EIwcy1TUzUUFx) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [OFFLINE](https://open.spotify.com/album/4teAao2YdsYP1jGUrucahm) | 2:14 |
-| 36 | [Pambu Mookan Uncle](https://open.spotify.com/track/4otttORNbeUh154JTvuwdV) | [Keshavara](https://open.spotify.com/artist/0jydXaYhlJIF2kLYHPofSI), [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Pambu Mookan Uncle](https://open.spotify.com/album/4fefJl6tlBM7qx6PyvBqNP) | 3:07 |
+| 36 | [Pambu Mookan Uncle](https://open.spotify.com/track/4otttORNbeUh154JTvuwdV) | [Keshavara](https://open.spotify.com/artist/0jydXaYhlJIF2kLYHPofSI), [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Pambu Mookan Uncle](https://open.spotify.com/album/4fefJl6tlBM7qx6PyvBqNP) | 3:08 |
 | 37 | [Photos Of The Reenactment](https://open.spotify.com/track/07PDGEQVBzUjZpmFEsff5G) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Photos of the Reenactment](https://open.spotify.com/album/2BrZ8S8v0fXxnpUW0XRDcH) | 3:03 |
 | 38 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 39 | [Tears of Joy](https://open.spotify.com/track/73A2mMTvyvq69r84BTAAQk) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 2:42 |

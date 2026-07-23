@@ -357,6 +357,32 @@
     },
     {
       "album": {
+        "name": "Aaja Ve",
+        "url": "https://open.spotify.com/album/5jfYSuL9WHSzTcI7LAVhmN"
+      },
+      "artists": [
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        },
+        {
+          "name": "Mandy Gill",
+          "url": "https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202109,
+      "name": "Aaja Ve",
+      "url": "https://open.spotify.com/track/47JvQUCqIDjfcH74eP77eI"
+    },
+    {
+      "album": {
         "name": "AANKH",
         "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
       },
@@ -12652,7 +12678,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 215994,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
@@ -12748,6 +12774,32 @@
       "duration_ms": 230322,
       "name": "Rootho Na",
       "url": "https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g"
+    },
+    {
+      "album": {
+        "name": "Musafir Cafe (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Neel Adhikari",
+          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135093,
+      "name": "Rozzana",
+      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
       "album": {
@@ -13574,7 +13626,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 199672,
       "name": "Sazaa",
       "url": "https://open.spotify.com/track/4SnKHVVbxbdfBlC7ruDwue"

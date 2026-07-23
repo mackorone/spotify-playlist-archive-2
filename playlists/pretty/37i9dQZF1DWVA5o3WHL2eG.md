@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,256 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,267 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [HÄ, WIESO?](https://open.spotify.com/track/0ctPMsJW9ktrGcBQU0vz0R) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [HÄ, WIESO?](https://open.spotify.com/album/0QCwIk4CS6jo3MCZW5DC2l) | 2:00 |
 | 22 | [OBSESSED](https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [OBSESSED](https://open.spotify.com/album/67OvUTrUOEhzujquhBm1pQ) | 2:08 |
 | 23 | [In My Dreams](https://open.spotify.com/track/4ZXEd49kxTCbDpbjzhHtpj) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/4Y4SOIejf7sDcAhUgkbFwq) | 3:35 |
-| 24 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
-| 25 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
+| 24 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
+| 25 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
 | 26 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |
 | 27 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
 | 28 | [Blue Star](https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR) | 3:06 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [mama](https://open.spotify.com/track/7eLvcOXD9tGss0MTMtmrqg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [mama](https://open.spotify.com/album/4Z96xMS4QstoYt0ajepsuZ) | 2:19 |
 | 36 | [Marlow first](https://open.spotify.com/track/48f31aoDxpekF9fCCMGSqx) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Marlow first](https://open.spotify.com/album/7b9jgWE9Vu3CoIFcfgIikb) | 2:38 |
 | 37 | [Ich Ich](https://open.spotify.com/track/0QUa24xMNtEviDZyNB9eTG) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Ich Ich](https://open.spotify.com/album/6wjDyA1Yx4GfbDlFnIGIiJ) | 3:20 |
-| 38 | [Federleicht](https://open.spotify.com/track/6m2HLUFt7U9aweAPqJ92wQ) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Federleicht](https://open.spotify.com/album/5EDa5xMsCklcpQcAvxOijk) | 3:24 |
-| 39 | [MON CHÉRI](https://open.spotify.com/track/0ETTeq8wof8q3llTA3stYP) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [MON CHÉRI](https://open.spotify.com/album/2LRQ7FmjQBSSATRzNrPak5) | 2:28 |
+| 38 | [MON CHÉRI](https://open.spotify.com/track/0ETTeq8wof8q3llTA3stYP) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [MON CHÉRI](https://open.spotify.com/album/2LRQ7FmjQBSSATRzNrPak5) | 2:28 |
+| 39 | [Federleicht](https://open.spotify.com/track/6m2HLUFt7U9aweAPqJ92wQ) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Federleicht](https://open.spotify.com/album/5EDa5xMsCklcpQcAvxOijk) | 3:24 |
 | 40 | [do it for the plot](https://open.spotify.com/track/4yUNvSK5PBu2L0qa3315Xv) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [do it for the plot](https://open.spotify.com/album/6dhgGDHp0iBo2w72uHG4G5) | 2:28 |
 | 41 | [primetime](https://open.spotify.com/track/2Vj5ENVmd7BM1hSDA0dUs4) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [primetime](https://open.spotify.com/album/1Gct02nOLfBFJ34XXzm0rN) | 3:18 |
 | 42 | [Girls Girl](https://open.spotify.com/track/0oeeQa2xlJqVp8alhJWsuU) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Ich will ganz laut schreien](https://open.spotify.com/album/1aYIaiJnBt1OmTV0ql6eGP) | 2:25 |

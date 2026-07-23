@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 57219,
+  "num_followers": 57228,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "ACELERADAS!",
         "url": "https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 210352,
       "name": "ACELERADAS!",
       "url": "https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "4ME",
-        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "4ME",
-      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Stuck in California",
         "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Midifalda",
-        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "el p\u00e1jaro del mar",
-          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Midifalda",
-      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Midifalda",
+        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "el p\u00e1jaro del mar",
+          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "Midifalda",
+      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Amantes Astrales",
-        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "Amantes Astrales",
-      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 242951,
       "name": "Antes de Marcharte",
       "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Amantes Astrales",
+        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "Amantes Astrales",
+      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/43hFx68RPmU3Am7UqyaEr1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "SKB",
-      "url": "https://open.spotify.com/track/6IoYualM1IWe59G70nc9nK"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 265798,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/43hFx68RPmU3Am7UqyaEr1"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "SKB",
+      "url": "https://open.spotify.com/track/6IoYualM1IWe59G70nc9nK"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Me Sobran las Ganas (Cuando Te Vas)",
-        "url": "https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        },
-        {
-          "name": "Lizi Lay",
-          "url": "https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Me Sobran las Ganas (Cuando Te Vas)",
-      "url": "https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Quiero Quedarme para Siempre",
         "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
       },
@@ -1343,18 +1323,38 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD"
+        "name": "Me Sobran las Ganas (Cuando Te Vas)",
+        "url": "https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj"
       },
       "artists": [
         {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        },
+        {
+          "name": "Lizi Lay",
+          "url": "https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f"
+      "duration_ms": 182293,
+      "name": "Me Sobran las Ganas (Cuando Te Vas)",
+      "url": "https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     }
   ],
   "unique_name": "dreamy ",

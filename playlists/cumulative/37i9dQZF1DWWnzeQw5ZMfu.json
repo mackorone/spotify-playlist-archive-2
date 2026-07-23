@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Great Expectation (Live) - Spotify Live Room",
+        "url": "https://open.spotify.com/album/4SwLLwnz1xlfwoor3Hg9OJ"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181439,
+      "name": "Great Expectation (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/4cywNXmDElcemNFZRcbpPW"
+    },
+    {
+      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123482,
+  "num_followers": 123466,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVmXvVKvJrEOi9ONO2R1EGdMjQNoEB",
+  "snapshot_id": "AAAVmlg1SQFiq7OKPYMDGbCzcclNLzvW",
   "tracks": [
+    {
+      "added_at": "2026-07-22 14:26:37",
+      "album": {
+        "name": "Everyday (VIP)",
+        "url": "https://open.spotify.com/album/5u8LAtgQ9vcp6vTiONUYyJ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Everyday - VIP",
+      "url": "https://open.spotify.com/track/6yOOnGQHjdxbEAs6DBvN01"
+    },
     {
       "added_at": "2026-07-20 13:55:52",
       "album": {

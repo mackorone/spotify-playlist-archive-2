@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring yhwh nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,990 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,872 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 12 | [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 |
 | 13 | [Side On](https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Side On](https://open.spotify.com/album/2TtRgcTgoO8lkzV3pt69Ic) | 3:50 |
 | 14 | [47](https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Childhood](https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj) | 3:51 |
-| 15 | [CRADLE](https://open.spotify.com/track/2iqAQjtPMOzPa2wND9UiNO) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3), [Pollyfromthedirt](https://open.spotify.com/artist/5QJdzOu2rw6wC3hvT56h7J) | [CRADLE](https://open.spotify.com/album/7z1H5ZAJ97xEk0wosAB7pI) | 2:57 |
+| 15 | [CRADLE](https://open.spotify.com/track/2iqAQjtPMOzPa2wND9UiNO) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3) | [CRADLE](https://open.spotify.com/album/7z1H5ZAJ97xEk0wosAB7pI) | 2:57 |
 | 16 | [GET UP AND GO OUT](https://open.spotify.com/track/6rbZYE14DriaJM9fm8gLm1) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [GET UP AND GO OUT](https://open.spotify.com/album/4X7sOElaeXt4kZqHeTrx4j) | 4:24 |
 | 17 | [Silly Me](https://open.spotify.com/track/6GX7P4hD0slEetJcZcuRrv) | [Morgan Noise](https://open.spotify.com/artist/0sgr78pWLPJ012BnBaGm11) | [Silly Me](https://open.spotify.com/album/0o9qzYi2ZB1NHfNZhVuN5Q) | 4:34 |
 | 18 | [HEAVENS \#1](https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HEAVENS \#1](https://open.spotify.com/album/7GerVx0fR4fOHh3aITnOSm) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 |
 | 80 | [Play Pretend](https://open.spotify.com/track/3LxPW6GwjZYEMwDQfqLHkE) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [9Million](https://open.spotify.com/album/79py83N1md93QCNFPoSfQF) | 3:26 |
 
-Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`
+Snapshot ID: `AAAAAAhoAfkAZTXJFVXTsery8zL95lWU`

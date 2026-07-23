@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-1,019 songs - 2 day 2 hr 25 min
+1,020 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [La Bohème](https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [La Bohème](https://open.spotify.com/album/0KPV5PV7fs0qD0KRPbDTEH) | 3:27 | 2025-01-16 | 2025-05-16 |
 | [LA LA](https://open.spotify.com/track/2f16hnBDWaBDZyngM3USQw) | [Thomas Irwin](https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [LA LA](https://open.spotify.com/album/2jNsFY1USlFFhfiLXq7nFQ) | 2:53 | 2022-03-24 | 2022-12-25 |
 | [La La Light](https://open.spotify.com/track/3mQKWiSQjMKNEgBo20GAOb) | [OLWIK](https://open.spotify.com/artist/7z55f4aJkaPR4EF2BXqsq7), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [La La Light](https://open.spotify.com/album/0xeVTgosVIG2cXAiQWiGLn) | 2:58 | 2021-01-16 | 2022-04-18 |
+| [La Révolution](https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Révolution](https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU) | 2:12 | 2026-07-18 |  |
 | [Lambada](https://open.spotify.com/track/1JyRjcUxnDd0TaR5Sd0V3c) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Manos](https://open.spotify.com/artist/0YpW5IBgyiQVWG7VpiyI62) | [Lambada](https://open.spotify.com/album/5NDn2gTfasa4rJd9QHhCQM) | 3:06 | 2020-08-14\* | 2021-10-16 |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-16 | 2026-02-13 |
 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 | 2023-02-09 | 2023-09-01 |
@@ -504,7 +505,7 @@
 | [Lights Go Down](https://open.spotify.com/track/2shD8wlebq8fDg6ChqOPkC) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Lights Go Down](https://open.spotify.com/album/1NYgb2NDh6zWxF9mYgxRSs) | 2:35 | 2020-08-14\* | 2021-12-21 |
 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2024-05-09 |  |
 | [Like A Prayer \(feat\. Charla K\)](https://open.spotify.com/track/6HjdL6nsBMykh2ehTv1kbb) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [Like A Prayer \(feat\. Charla K\)](https://open.spotify.com/album/5mPeCuhPdfuifGDXEBhnvY) | 2:44 | 2020-12-23 | 2022-08-05 |
-| [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-22 |  |
+| [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-22 | 2026-07-23 |
 | [Like The First Time \- House Mix](https://open.spotify.com/track/5ABnK6bOqbsIRVsrc1UBOt) | [Isaac Elton](https://open.spotify.com/artist/0mxa4JzMvYVnNjxdqk4tsj), [Matthews](https://open.spotify.com/artist/16q5odYEbm0HNtK3x5OZE5) | [Like The First Time](https://open.spotify.com/album/456dBIhcwnCWy5RrtqWnhc) | 3:29 | 2021-03-14 | 2021-10-13 |
 | [Like We Do](https://open.spotify.com/track/1Qf07UNBIu1XolBnl7XTi8) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Like We Do](https://open.spotify.com/album/7KcBUaE8EeCk37sjdqeSOr) | 2:41 | 2021-03-17 | 2021-03-22 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-27 | 2024-01-04 |

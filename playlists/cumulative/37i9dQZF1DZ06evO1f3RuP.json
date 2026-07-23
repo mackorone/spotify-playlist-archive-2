@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Hi_TEK MZK, VOL. 1",
+        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "PURPLE APE",
+      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
+    },
+    {
+      "album": {
         "name": "Push N Pull",
         "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },

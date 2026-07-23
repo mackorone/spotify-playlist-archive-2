@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
-  "num_followers": 37648,
+  "num_followers": 37659,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-07-17 11:23:05",
-      "album": {
         "name": "everybody dies",
         "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 152079,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+    },
+    {
+      "added_at": "2026-07-17 11:23:05",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-07-17 11:23:05",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+    },
+    {
+      "added_at": "2026-07-17 11:23:05",
+      "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
       },
@@ -1211,26 +1235,22 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
-        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
-        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
       "artists": [
         {
-          "name": "KINO",
-          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        },
-        {
-          "name": "UWA",
-          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "DIRTY BOY (feat. JAMIE & UWA)",
-      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
       "added_at": "2026-07-17 11:23:05",
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
-    },
-    {
-      "added_at": "2026-07-17 11:23:05",
-      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2026-07-17 11:23:05",
+      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
-    },
-    {
-      "added_at": "2026-07-17 11:23:05",
-      "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-07-17 11:23:05",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
-        "name": "AREA X",
-        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
-        }
-      ],
-      "duration_ms": 220555,
-      "name": "Baya",
-      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
-    },
-    {
-      "added_at": "2026-07-17 11:23:05",
-      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2026-07-17 11:23:05",
+      "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
       "added_at": "2026-07-17 11:23:05",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-07-17 11:23:05",
       "album": {
-        "name": "MOLLAK",
-        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
-      },
-      "artists": [
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
-        },
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Narak",
-      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
-    },
-    {
-      "added_at": "2026-07-17 11:23:05",
-      "album": {
         "name": "Atmosphere - SM STATION",
         "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 191654,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
+    },
+    {
+      "added_at": "2026-07-17 11:23:05",
+      "album": {
+        "name": "MOLLAK",
+        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        },
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Narak",
+      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
       "added_at": "2026-07-17 11:23:05",

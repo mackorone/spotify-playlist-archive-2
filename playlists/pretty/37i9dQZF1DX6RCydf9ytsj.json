@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 740801,
+  "num_followers": 740918,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
-      },
-      "artists": [
-        {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+      },
+      "artists": [
+        {
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "His Epic Hits",
-        "url": "https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "C.C. Waterback",
-      "url": "https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
@@ -2359,18 +2339,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+        "name": "His Epic Hits",
+        "url": "https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
+      "duration_ms": 215906,
+      "name": "C.C. Waterback",
+      "url": "https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2387,6 +2371,22 @@
       "duration_ms": 168666,
       "name": "Give Me One More Chance",
       "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Do You Want to Go to Heaven",
-        "url": "https://open.spotify.com/album/0mMewKMunFjw7JJsJsUwkw"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 203238,
-      "name": "War Is Hell - Re-Recorded",
-      "url": "https://open.spotify.com/track/2QaKxNtOx8bT7Q8ogqB7P6"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 186706,
       "name": "Woke Up In Love",
       "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Do You Want to Go to Heaven",
+        "url": "https://open.spotify.com/album/0mMewKMunFjw7JJsJsUwkw"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 203238,
+      "name": "War Is Hell - Re-Recorded",
+      "url": "https://open.spotify.com/track/2QaKxNtOx8bT7Q8ogqB7P6"
     },
     {
       "added_at": "2026-02-17 04:46:38",

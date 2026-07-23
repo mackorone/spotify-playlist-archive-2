@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 493,228 likes - 50 songs - 2 hr 28 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 493,327 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 5 | [De Ceilândia a Ceilândia](https://open.spotify.com/track/5xUmPJtc1PlbPJS7KHbu46) | [FvlCosta](https://open.spotify.com/artist/1lywcFK0OFfWzhYHfRsGc8) | [De Ceilândia a Ceilândia](https://open.spotify.com/album/6XRZpC5bdH8Gf0E40iwvMR) | 3:44 |
 | 6 | [Almost Called](https://open.spotify.com/track/030CrTOdpjdnCc4FkpKBZ3) | [Byte dh](https://open.spotify.com/artist/11s3bB3ORVLkpBO1e3bUO2) | [Different Decisions](https://open.spotify.com/album/0paKDYrXTdMme2mUKjipF8) | 3:30 |
 | 7 | [The Real Thing](https://open.spotify.com/track/2cyoeQBJJqztuLyytos0n8) | [Alex Villa](https://open.spotify.com/artist/0TL5quT3xyCmg6BGPiCsiw), [Thomas Austin](https://open.spotify.com/artist/68isQhzDhDaERWs5O28Y8W) | [The Real Thing](https://open.spotify.com/album/1fLkCtWy7nq7pfs69aUkRZ) | 3:06 |
-| 8 | [Temperature](https://open.spotify.com/track/6vbNxJ7o9HYgrwc7N8njsV) | [Saint Sáel](https://open.spotify.com/artist/33glEHTHT5dyGnlX7d7awr) | [Temperature](https://open.spotify.com/album/0E7fbmtU5F74BP6t0eMF1s) | 2:09 |
+| 8 | [Temperature](https://open.spotify.com/track/6vbNxJ7o9HYgrwc7N8njsV) | [Saint](https://open.spotify.com/artist/7oNfItMm4IqxRsuc4MAIaj) | [Temperature](https://open.spotify.com/album/0E7fbmtU5F74BP6t0eMF1s) | 2:09 |
 | 9 | [Nə olsaydı](https://open.spotify.com/track/04eNOLS2nG0N0hIl793M9C) | [Eddie Bueno](https://open.spotify.com/artist/6mrqY1DE5KmwpvSIKx1QXR) | [Buenos Aires](https://open.spotify.com/album/720swG80xOb9ZlX9u3ekjF) | 2:13 |
 | 10 | [Changë](https://open.spotify.com/track/4H81TVlKhUTTJrldT8qSKI) | [33antoinz](https://open.spotify.com/artist/4DYclzEf1yzd6EapcLlLWt) | [Changë](https://open.spotify.com/album/7ez7tZFNo7Ls4psBS9CAcK) | 2:45 |
 | 11 | [Flight or Fight](https://open.spotify.com/track/4fTzILUwPzIHZnFb7FnXZr) | [Bryant Burns](https://open.spotify.com/artist/4r3027srHHrOEmMI59ZXia), [EgoLeo](https://open.spotify.com/artist/0KEtDdFob3iIdGpbjGm6mW) | [Flight or Fight](https://open.spotify.com/album/0c9Rb8ZQeFqwM1Z9dtw6Dm) | 2:57 |

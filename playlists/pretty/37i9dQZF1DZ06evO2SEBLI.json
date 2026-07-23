@@ -1,12 +1,12 @@
 {
   "description": "This is iu takahashi. The essential tracks, all in one playlist.",
-  "num_followers": 45,
+  "num_followers": 46,
   "original_name": "This Is iu takahashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAAaLRiDJS7Cl8jqDnIU3VdP",
+  "snapshot_id": "al62gAAAAAB6Tn+8zoaUklMMNmYG6a2I",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 294500,
-      "name": "end is ___",
-      "url": "https://open.spotify.com/track/0bZJYufmFxZ3XIdCGnMlZm"
+      "duration_ms": 238000,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD"
+      "duration_ms": 294500,
+      "name": "end is ___",
+      "url": "https://open.spotify.com/track/0bZJYufmFxZ3XIdCGnMlZm"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
+        "name": "Still Left",
+        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "IDFA",
-      "url": "https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4"
+      "duration_ms": 351153,
+      "name": "Culvert",
+      "url": "https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Left",
-        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 351153,
-      "name": "Culvert",
-      "url": "https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO"
+      "duration_ms": 424000,
+      "name": "halfway",
+      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Left",
+        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "halfway",
         "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
       },
@@ -420,9 +436,25 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 424000,
-      "name": "halfway",
-      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
+      "duration_ms": 360000,
+      "name": "IDFA",
+      "url": "https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
     },
     {
       "added_at": null,
@@ -439,22 +471,6 @@
       "duration_ms": 506583,
       "name": "Mitake",
       "url": "https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Left",
-        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 423999,
-      "name": "Abyssal",
-      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Interspace",
         "url": "https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 236000,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
+      "duration_ms": 423999,
+      "name": "Abyssal",
+      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
     },
     {
       "added_at": null,

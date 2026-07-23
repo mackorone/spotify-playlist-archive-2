@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,754 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,766 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação 2, Vol.3](https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3) | 2:28 |
-| 2 | [Cuida do Pet](https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Cuida do Pet](https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a) | 7:39 |
+| 2 | [Cuida do Pet](https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO) | [Cuida do Pet](https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a) | 7:39 |
 | 3 | [Peão Todo Tatuado](https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ) | [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Peão Todo Tatuado](https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL) | 2:13 |
 | 4 | [Pau Pra Toda Obra](https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Pau Pra Toda Obra](https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ) | 3:48 |
 | 5 | [Bala Alojada](https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Bala Alojada](https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
 | 50 | [Eu Não Sou Terapia \- Ao Vivo](https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/1ejLnHri909csVlNncBvyD) | 2:42 |
 
-Snapshot ID: `MfLgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfQ0eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

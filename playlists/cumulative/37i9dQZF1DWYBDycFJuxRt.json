@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/347594\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/347739\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -4384,6 +4384,24 @@
       "duration_ms": 2945730,
       "name": "2026/7/15 Mrs. GREEN APPLE\u304c\u65b0\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01MILLENNIUM PARADE\u5e38\u7530\u5927\u5e0c\u304b\u3089\u30e1\u30c3\u30bb\u30fc\u30b8\u304c\u5230\u7740\uff01YAO\u3078\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01Vaundy\u3001Bonbero\u3001AKASAKI\u3001Ginger Root\u306e\u30cb\u30e5\u30fc\u30ea\u30ea\u30fc\u30b9\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/6J7GwQuHUniEIvh80Bk8ZV"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1242221,
+      "name": "2026/7/22 \u30ad\u30bf\u30cb\u30bf\u30c4\u30e4\u304c\u65b0\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01SIRUP\u306e\u65b0\u66f2\u3001Daichi Yamamoto \u00d7 KID FRESINO\u306e\u30b3\u30e9\u30dc\u65b0\u66f2\u3082\uff01\u6a4b\u672c\u7d75\u8389\u5b50\u3001C\u00f6 shu Nie\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/episode/167lo3DvuLvtdMXC2S6nxW"
     },
     {
       "album": {
@@ -46804,6 +46822,10 @@
         {
           "name": "(sic)boy",
           "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
       "date_added": "2026-07-21",
@@ -180777,24 +180799,6 @@
     },
     {
       "album": {
-        "name": "TO THE LIVING CREATURES",
-        "url": "https://open.spotify.com/album/20vAXiL7JKVM2n04hqzvmZ"
-      },
-      "artists": [
-        {
-          "name": "Akiko Yano",
-          "url": "https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns"
-        }
-      ],
-      "date_added": "2026-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/46F5IOzjm7aLrXwGtzUxba"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -197782,6 +197786,28 @@
       "duration_ms": 283106,
       "name": "You are so amazing (\u300e\u864e\u306b\u7ffc\u300f\u30e1\u30a4\u30f3\u30c6\u30fc\u30de)",
       "url": "https://open.spotify.com/track/5FsNEH59scXmXax0P6u40v"
+    },
+    {
+      "album": {
+        "name": "TO THE LIVING CREATURES",
+        "url": "https://open.spotify.com/album/20vAXiL7JKVM2n04hqzvmZ"
+      },
+      "artists": [
+        {
+          "name": "Akiko Yano",
+          "url": "https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns"
+        },
+        {
+          "name": "Takako Matsu",
+          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255413,
+      "name": "YOU ARE SPECIAL TO ME feat. Takako Matsu",
+      "url": "https://open.spotify.com/track/46F5IOzjm7aLrXwGtzUxba"
     },
     {
       "album": {

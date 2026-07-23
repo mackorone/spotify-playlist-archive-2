@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula",
-  "num_followers": 118651,
+  "num_followers": 118675,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -849,26 +849,6 @@
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "We Behold(Qavah Anthem)",
@@ -887,6 +867,26 @@
       "duration_ms": 773605,
       "name": "We Behold(Qavah Anthem)",
       "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1101,20 +1101,20 @@
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
-      "added_at": "2026-03-27 00:01:12",
+      "added_at": "2026-05-15 00:01:30",
       "album": {
-        "name": "Jehovah Move",
-        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
       },
       "artists": [
         {
-          "name": "Sikaflames",
-          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
         }
       ],
-      "duration_ms": 221077,
-      "name": "Jehovah Move",
-      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
+      "duration_ms": 258741,
+      "name": "Ogbon Mi O Gbe",
+      "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2026-05-15 00:01:30",
-      "album": {
-        "name": "Aanu Ni",
-        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
-      },
-      "artists": [
-        {
-          "name": "BisiManuel",
-          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
-        }
-      ],
-      "duration_ms": 258741,
-      "name": "Ogbon Mi O Gbe",
-      "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
-    },
-    {
       "added_at": "2026-06-12 08:45:30",
       "album": {
         "name": "Hallelujah",
@@ -1187,6 +1171,22 @@
       "duration_ms": 501003,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
+    },
+    {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "Jehovah Move",
+        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
+      },
+      "artists": [
+        {
+          "name": "Sikaflames",
+          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
+        }
+      ],
+      "duration_ms": 221077,
+      "name": "Jehovah Move",
+      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
     },
     {
-      "added_at": "2026-02-27 00:01:20",
-      "album": {
-        "name": "I CAN NOT BE STRANDED",
-        "url": "https://open.spotify.com/album/0jmOfuQSTrgrwKhlEn8C1a"
-      },
-      "artists": [
-        {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
-        }
-      ],
-      "duration_ms": 505865,
-      "name": "I CAN NOT BE STRANDED",
-      "url": "https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Pretty Day",
@@ -1371,6 +1355,22 @@
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2026-02-27 00:01:20",
+      "album": {
+        "name": "I CAN NOT BE STRANDED",
+        "url": "https://open.spotify.com/album/0jmOfuQSTrgrwKhlEn8C1a"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "duration_ms": 505865,
+      "name": "I CAN NOT BE STRANDED",
+      "url": "https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     },
     {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "Walk With God",
+        "url": "https://open.spotify.com/album/5AHCUzq7E6QfhuKsezRC51"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 202882,
+      "name": "Walk With God",
+      "url": "https://open.spotify.com/track/6BTaPFXJ1lhHsuj9mZ0WOX"
+    },
+    {
       "added_at": "2026-05-29 00:01:47",
       "album": {
         "name": "Subscribed (Live)",
@@ -1447,22 +1463,6 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Walk With God",
-        "url": "https://open.spotify.com/album/5AHCUzq7E6QfhuKsezRC51"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 202882,
-      "name": "Walk With God",
-      "url": "https://open.spotify.com/track/6BTaPFXJ1lhHsuj9mZ0WOX"
     },
     {
       "added_at": "2026-01-23 00:01:16",

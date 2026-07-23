@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Lo más pegado, lo más random, lo más 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,845 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,849 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lo mejor del amor](https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- Lo mejor del amor](https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ) | 3:48 |
-| 2 | [Yo Argento](https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [LRZ](https://open.spotify.com/artist/1fvaacuDXe0NLSWh5K9Koa) | [Yo Argento](https://open.spotify.com/album/5jBZSNcYxE5R7q2wrzSFRr) | 2:35 |
-| 3 | [Quiero Volver a Robarle un Gol al Ladrón](https://open.spotify.com/track/38OSLsnekTFC2LNYZyjVgv) | [Barras De Futbol](https://open.spotify.com/artist/2Kkj9l2ZVqahiJTvMZRDN8), [Grupo Contento](https://open.spotify.com/artist/0iKJS0FHJD108zFgKAhSYY) | [Quiero Volver a Robarle un Gol al Ladrón](https://open.spotify.com/album/5vhcOJQdf8NoRUUv8IQw1I) | 2:15 |
+| 2 | [Inconsciente Colectivo](https://open.spotify.com/track/1JTKEiTpAtlK01CEwRRals) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Pubis Angelical / Yendo De La Cama Al Living](https://open.spotify.com/album/1oZU9a9rdlLV2AB0OCocTZ) | 3:54 |
+| 3 | [Yo Argento](https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [LRZ](https://open.spotify.com/artist/1fvaacuDXe0NLSWh5K9Koa) | [Yo Argento](https://open.spotify.com/album/5jBZSNcYxE5R7q2wrzSFRr) | 2:35 |
 | 4 | [La Cuarta Estrella](https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella](https://open.spotify.com/album/7sScNswh3NiMX7biccktnE) | 2:46 |
 | 5 | [Si Te Tuviera](https://open.spotify.com/track/6SHxgXq3fSFUC3FFhGoOfq) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Si Te Tuviera](https://open.spotify.com/album/0ucwHq2F9hOTrSLRmRetJ5) | 4:04 |
 | 6 | [Argentina Es Un Carnaval](https://open.spotify.com/track/6hBOT549vs8F9UBASUT7kj) | [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Zapada Argentina](https://open.spotify.com/album/1syouBbhrkRvTnLqP3yL7Z) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 49 | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z) | 3:09 |
 | 50 | [BOOBYTRAP](https://open.spotify.com/track/6bZSBMYHM5AsOKlbExciWi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [BOOBYTRAP](https://open.spotify.com/album/3FAOK8isCm4SdlQcGfRXnf) | 3:16 |
 
-Snapshot ID: `AAAAAJPNUs1VHx/xI/CS2cQH0D+TLl3v`
+Snapshot ID: `AAAAAEgOKAMSfoYqJJ2HId1krVU6wSTy`

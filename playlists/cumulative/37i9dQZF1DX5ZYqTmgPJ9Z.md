@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-110 songs - 6 hr 48 min
+111 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Krispy](https://open.spotify.com/track/6ZizKmm2kQY7e77rXrlwWs) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:41 | 2024-12-17 |  |
 | [Labyrinth](https://open.spotify.com/track/4K24FedWyG2LXIXp6kXYyW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/1or1EVymKizDf9IovJURHD) | 4:01 | 2024-12-17 |  |
 | [Let Me Into Your Heart](https://open.spotify.com/track/6HfXfC5aZR5fZq8Ag50lVI) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Let Me Into Your Heart](https://open.spotify.com/album/0uVffzwyBDvOYbh8IrVVEc) | 5:04 | 2024-12-17 |  |
+| [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 | 2024-12-17 |  |
 | [Life Is](https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b) | 3:08 | 2024-12-17 | 2026-06-09 |
 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 | 2024-12-17 |  |
 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 | 2024-12-17 |  |
@@ -78,7 +79,7 @@
 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2024-12-17 |  |
 | [Not Today](https://open.spotify.com/track/0La1VlmPQNwvTyJD3qIxGL) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 3:06 | 2024-12-17 |  |
 | [Other Way](https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Other Way](https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC) | 3:03 | 2024-12-17 |  |
-| [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2024-12-17 |  |
+| [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2024-12-17 | 2026-07-23 |
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2024-12-17 |  |
 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 | 2024-12-17 |  |
 | [Piano Joint \(This Kind Of Love\)](https://open.spotify.com/track/3kERuxcw7g0URUtzIs7H5d) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Piano Joint \(This Kind Of Love\)](https://open.spotify.com/album/2ibsoJps6tosNlFJtFlBDN) | 3:51 | 2024-12-17 |  |

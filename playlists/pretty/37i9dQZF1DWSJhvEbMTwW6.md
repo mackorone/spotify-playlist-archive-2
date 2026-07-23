@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,365 likes - 175 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,424 likes - 175 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 31 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 32 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 |
 | 33 | [Caricias \- Acaríciame](https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p) | [Los Javugoh](https://open.spotify.com/artist/6WpqijLQ174As9uCl0RbP5) | [Toquin en América](https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj) | 3:27 |
-| 34 | [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:21 |
+| 34 | [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:19 |
 | 35 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
 | 36 | [Es El Amor \(Cumbia\)](https://open.spotify.com/track/37lIfxeByDvtVCssBc2ztA) | [SONIDEROS COMPANY](https://open.spotify.com/artist/7xt6x4Au8i4KFZnHv4uFAn) | [Grandes Éxitos De La Música Sonidera Vol.1](https://open.spotify.com/album/4Zlmm8Ypa6ctZeJPnCE0Fg) | 5:07 |
 | 37 | [Ilusión](https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H) | [Cuerdas De Venezuela](https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy) | [Ilusión y Más Ilusión](https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9) | 2:57 |

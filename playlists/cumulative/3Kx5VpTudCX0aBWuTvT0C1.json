@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "INSTINTOS",
+        "url": "https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9"
+      },
+      "artists": [
+        {
+          "name": "REGIO",
+          "url": "https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262588,
+      "name": "INSTINTOS",
+      "url": "https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas"
+    },
+    {
+      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt"
       },

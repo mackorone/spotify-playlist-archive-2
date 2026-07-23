@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 34022,
+  "num_followers": 34106,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAACVQ9e8zlz5IEDC54oX7+HA",
+  "snapshot_id": "al62gAAAAAAPTBb9fwe6vYLDWT9HN9U2",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Night Night Parade Lullaby",
-      "url": "https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC"
+      "duration_ms": 209076,
+      "name": "Razz Ma Tazz Lullaby",
+      "url": "https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 209076,
-      "name": "Razz Ma Tazz Lullaby",
-      "url": "https://open.spotify.com/track/3NhHZ4RuTSTrD7mG0JcLaI"
+      "duration_ms": 241000,
+      "name": "Night Night Parade Lullaby",
+      "url": "https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airplane Mode!",
-        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224557,
-      "name": "Airplane Mode!",
-      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Glow-in-the-Dark Shapes Dance",
         "url": "https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213938,
       "name": "The Glow-in-the-Dark Shapes Dance",
       "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Airplane Mode!",
+        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 224557,
+      "name": "Airplane Mode!",
+      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rabbit Turtle Rodeo",
-        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 238871,
-      "name": "Rabbit Turtle Rodeo",
-      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop Digging",
         "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 245411,
       "name": "Don't Stop Digging",
       "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rabbit Turtle Rodeo",
+        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 238871,
+      "name": "Rabbit Turtle Rodeo",
+      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Dance",
-        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "The Color Dance",
-      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Math Whiz",
         "url": "https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214614,
       "name": "Math Whiz - Addition Version",
       "url": "https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Dance",
+        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "The Color Dance",
+      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,

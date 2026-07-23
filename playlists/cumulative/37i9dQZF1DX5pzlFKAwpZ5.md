@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-406 songs - 1 day 5 hr 9 min
+407 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Ley](https://open.spotify.com/track/6KY33JhZ06PP1gyuDdXGRM) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [Ley](https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq) | 4:51 | 2026-05-12 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
-| [LICHT](https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [LICHT](https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM) | 3:22 | 2025-12-02 |  |
+| [LICHT](https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [LICHT](https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM) | 3:22 | 2025-12-02 | 2026-07-23 |
 | [Life Of Blessing](https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [井口 寛](https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt) | [Life Of Blessing](https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB) | 2:01 | 2026-01-23 |  |
 | [Life, Life](https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:23 | 2022-01-07 | 2024-08-09 |
 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 | 2022-07-22 | 2024-04-19 |
@@ -392,6 +392,7 @@
 | [YACHIMATA\_170424](https://open.spotify.com/track/3qYxmTgoENg9azekCo3pzm) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 3:42 | 2022-01-07 | 2022-07-29 |
 | [YASE](https://open.spotify.com/track/7gXZTMjQDyn6jNEBxMTKsV) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [YASE](https://open.spotify.com/album/4nNF4QVWfKHNYv3tFyjPV8) | 4:15 | 2026-04-27 |  |
 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 | 2022-01-07 | 2023-04-22 |
+| [You within me](https://open.spotify.com/track/5m4eFtSwBy5nmHkYpRVpyX) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0), [Daniel H Pereira](https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN) | [The Mountain I See](https://open.spotify.com/album/4rQ9LbF8o5HRNlRRAuMEzN) | 4:49 | 2026-07-18 |  |
 | [Yowa](https://open.spotify.com/track/7LcoSuCny0cee4PPF7ehVC) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yowa](https://open.spotify.com/album/6xF5BAMSXRNud3nF4ms1s0) | 3:28 | 2022-08-11 | 2023-04-22 |
 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
 | [クラムボンの瞑想\- Meditation of Clammbon](https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a) | 11:32 | 2024-07-04 | 2026-02-21 |

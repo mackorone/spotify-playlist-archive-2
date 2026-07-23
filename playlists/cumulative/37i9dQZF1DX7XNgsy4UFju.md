@@ -4,7 +4,7 @@
 
 > The Best Indie Tracks of the Moment w/ Steve Lacy
 
-3,246 songs - 7 day 22 hr 30 min
+3,247 songs - 7 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Bless This Mess](https://open.spotify.com/track/07c1JDEzG7AQNci3xFFAAA) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/0DShhASR18vMDEA27fVa8o) | 4:02 | 2022-10-28 | 2022-12-10 |
 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 | 2026-01-23 | 2026-04-18 |
 | [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 | 2025-09-19 | 2025-10-25 |
+| [Blink Twice](https://open.spotify.com/track/4XWexAStrMG280AljjLIag) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Blink Twice](https://open.spotify.com/album/0zU0lQcO5KpfcY36ELFvxG) | 3:53 | 2026-07-22 |  |
 | [Block Of Wood](https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Block Of Wood](https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c) | 3:19 | 2023-05-19 | 2023-07-01 |
 | [Blond October](https://open.spotify.com/track/2oeJQ1hcqENUnZWLOPPrBY) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Enter the Mirror](https://open.spotify.com/album/2qWNPd8ticSF4JXrMZGqk0) | 3:42 | 2022-03-25 | 2022-06-11 |
 | [Blood](https://open.spotify.com/track/6qGyxIijWIscsjxHLZBLhG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Blood](https://open.spotify.com/album/4IDiAoz7AJPidIn5Z2SIc4) | 2:41 | 2021-12-31 | 2022-01-22 |

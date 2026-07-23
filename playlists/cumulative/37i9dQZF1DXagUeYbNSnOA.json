@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Sofia Lafuente. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Rigoazulado. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -922,6 +922,28 @@
       "duration_ms": 144768,
       "name": "5JONES",
       "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
+    },
+    {
+      "album": {
+        "name": "6/8",
+        "url": "https://open.spotify.com/album/2gHk4FNRZY0gdUa4IwGrVU"
+      },
+      "artists": [
+        {
+          "name": "Mddle",
+          "url": "https://open.spotify.com/artist/4UhpuBlKBacXwWXgTunCI9"
+        },
+        {
+          "name": "Akira Kintsugi",
+          "url": "https://open.spotify.com/artist/1K1dPnpajLuA1vpXeDK4Oj"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120406,
+      "name": "6/8",
+      "url": "https://open.spotify.com/track/1pOvyWbQoX16kBFgTIMPSX"
     },
     {
       "album": {
@@ -4818,7 +4840,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 159095,
       "name": "Ataques en mi ciudad",
       "url": "https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX"
@@ -6630,7 +6652,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 154821,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/6lMXfRy0JXxAFe3XqNZdSW"
@@ -23448,7 +23470,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 122591,
       "name": "KNOCK KNOCK",
       "url": "https://open.spotify.com/track/1kOlcb92caaFigsM1sVnkB"
@@ -26350,7 +26372,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 155520,
       "name": "Lo que no sabes tu",
       "url": "https://open.spotify.com/track/0vuFk5CjCau6dpjUGDoSwZ"
@@ -28154,6 +28176,24 @@
       "duration_ms": 240234,
       "name": "Manifiesto Surrealista",
       "url": "https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63"
+    },
+    {
+      "album": {
+        "name": "Manos de Sal",
+        "url": "https://open.spotify.com/album/12DgeO0trjzTTexjgtvUvb"
+      },
+      "artists": [
+        {
+          "name": "TR\u00cdADA",
+          "url": "https://open.spotify.com/artist/25sGauAghntKxR2zrlsXAl"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162753,
+      "name": "Manos de Sal",
+      "url": "https://open.spotify.com/track/1pMfuxOuyXJV1zeRjj90ze"
     },
     {
       "album": {
@@ -30298,6 +30338,24 @@
       "duration_ms": 178629,
       "name": "Mi Torta",
       "url": "https://open.spotify.com/track/45ISWGV9uG7Dt1GEspSgZI"
+    },
+    {
+      "album": {
+        "name": "Mi Vicio Tu",
+        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
+      },
+      "artists": [
+        {
+          "name": "Julian Solorzano",
+          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293637,
+      "name": "Mi Vicio Tu",
+      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
     },
     {
       "album": {
@@ -34280,7 +34338,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 194890,
       "name": "no te vayas",
       "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
@@ -40966,7 +41024,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 138805,
       "name": "rest of your life",
       "url": "https://open.spotify.com/track/3RWJFWM0eTwfUYVZQmzHWa"
@@ -43621,6 +43679,24 @@
     },
     {
       "album": {
+        "name": "sin ti",
+        "url": "https://open.spotify.com/album/6sqKNe5XkZs9QSoZIJRgEQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199128,
+      "name": "sin ti",
+      "url": "https://open.spotify.com/track/6KKoVWWdziiKn4gkRJmn0I"
+    },
+    {
+      "album": {
         "name": "Hasta en los sue\u00f1os...",
         "url": "https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL"
       },
@@ -45930,6 +46006,24 @@
       "duration_ms": 137000,
       "name": "TDAH",
       "url": "https://open.spotify.com/track/1InklXBZuBnpvnaN5542i0"
+    },
+    {
+      "album": {
+        "name": "Te amo,",
+        "url": "https://open.spotify.com/album/25MsnitZeUFhYnRG0qo21C"
+      },
+      "artists": [
+        {
+          "name": "Mariana V",
+          "url": "https://open.spotify.com/artist/18ek0Dmj5TcmA9b7mA0q6p"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Te amo,",
+      "url": "https://open.spotify.com/track/4lIvdNUYKgwMzUZeRZCMlc"
     },
     {
       "album": {
@@ -50154,7 +50248,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 152320,
       "name": "V3n3n0",
       "url": "https://open.spotify.com/track/5dKKCA9ULz6TYWAlVEmhDu"
@@ -50634,6 +50728,24 @@
       "duration_ms": 161273,
       "name": "VEN",
       "url": "https://open.spotify.com/track/2HOyTAN9AzYSDrDLJtWjg1"
+    },
+    {
+      "album": {
+        "name": "Venas full",
+        "url": "https://open.spotify.com/album/63nVdfpwcJdcOw1HdokqG2"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146428,
+      "name": "Venas full",
+      "url": "https://open.spotify.com/track/0M1CpOvPHhAT3KOIRvl1xt"
     },
     {
       "album": {
@@ -52058,6 +52170,24 @@
       "duration_ms": 230829,
       "name": "Wolftyla",
       "url": "https://open.spotify.com/track/699GqfO9XFoX0tb67M03XJ"
+    },
+    {
+      "album": {
+        "name": "WONDERGIRL",
+        "url": "https://open.spotify.com/album/6VyCM7T14ysphQZUVJeMMC"
+      },
+      "artists": [
+        {
+          "name": "Jaswiry",
+          "url": "https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "WONDERGIRL",
+      "url": "https://open.spotify.com/track/22oBPTwFtF8NED536XveOd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-683 songs - 1 day 16 hr 56 min
+684 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2025-04-29 |  |
 | [Following the Sun](https://open.spotify.com/track/0l6X7PafPZB83LkWaB4HkN) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Following the Sun](https://open.spotify.com/album/2jaNswLulmmi2sX1Iqxct8) | 4:27 | 2022-03-30 | 2022-04-21 |
 | [fool around](https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:44 | 2024-12-09 |  |
+| [Fossils](https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [Fossils](https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf) | 4:03 | 2026-07-22 |  |
 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 | 2025-04-29 | 2025-08-30 |
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2022-07-26 | 2024-04-19 |
 | [Free \- Single Version](https://open.spotify.com/track/6kPsTBAGRoAeCCbzYoAZIm) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Free](https://open.spotify.com/album/6O3OdDwmvAM9S9mpk4Z3pv) | 3:39 | 2021-12-16 | 2022-07-29 |
@@ -681,7 +682,7 @@
 | [You Know](https://open.spotify.com/track/2jmcBquyui2pEmlb4n4V66) | [The Fjords](https://open.spotify.com/artist/1tkW59MDSeRL2I9GdvLjKe) | [Ladders](https://open.spotify.com/album/1CPDMzfnMjGgUaLPQ37Kwn) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [You Made Us Change](https://open.spotify.com/track/0gvAtzCUCAQ66ul1tQ4o8A) | [Ephemerals](https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w) | [You Made Us Change](https://open.spotify.com/album/1Cp3yJkvocT5mG8ImiWThV) | 3:25 | 2022-03-30 | 2022-04-21 |
 | [You Made Us Change](https://open.spotify.com/track/2JcM6vLgip99pfWjzyQi6H) | [Ephemerals](https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w) | [Nothin Is Easy](https://open.spotify.com/album/2wYrfd1Plq1Bh6ePTi78LA) | 3:25 | 2022-11-11 | 2023-02-14 |
-| [You Make Me Smile](https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mamalarky](https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43) | 3:36 | 2025-04-29 |  |
+| [You Make Me Smile](https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mamalarky](https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43) | 3:36 | 2025-04-29 | 2026-07-23 |
 | [You Make My Life a Better Place](https://open.spotify.com/track/0Mio3cXD3Wts4NdrNMhe4Z) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/095mf0n8Q8VK9dEtfIKPLZ) | 3:52 | 2021-12-16 | 2022-02-05 |
 | [You Want The Sun](https://open.spotify.com/track/0JRNPoITcFcNSTRErs8moc) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [You Want the Sun](https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/0bI8EkjX0m9HXgbgZOJPi5) | 3:31 | 2022-09-26 | 2023-03-25 |

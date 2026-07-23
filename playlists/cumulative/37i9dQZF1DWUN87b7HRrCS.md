@@ -2,7 +2,7 @@
 
 ### [Bossa in the Background](https://open.spotify.com/playlist/37i9dQZF1DWUN87b7HRrCS)
 
-> Soft bossa nova sounds for focusing, reading, or unwinding at home.
+> Soft bossa nova sounds for focusing, reading, or unwinding.
 
 122 songs - 7 hr 46 min
 

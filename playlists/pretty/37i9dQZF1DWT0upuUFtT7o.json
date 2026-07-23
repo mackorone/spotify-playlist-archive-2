@@ -1,13 +1,61 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: @",
-  "num_followers": 256921,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Oscar Lindsey",
+  "num_followers": 256961,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjFbCmVv86S09eyiB3O9KnrCOPo",
+  "snapshot_id": "AAAAAFvlZXI6YjysVaNiR2tYp0pOpJ/1",
   "tracks": [
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Metal Through Her Lips",
+        "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "Metal Through Her Lips",
+      "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "When we get by",
+        "url": "https://open.spotify.com/album/08okRl4uCEu3z2h9beW53s"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "duration_ms": 169058,
+      "name": "When we get by",
+      "url": "https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/1ophkSwCGRCMZJXZf6fAR8"
+      },
+      "artists": [
+        {
+          "name": "A.G. Sully",
+          "url": "https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/38AqanZ5azzHt3T3eTUDVB"
+    },
     {
       "added_at": "2026-07-09 16:16:47",
       "album": {
@@ -25,20 +73,68 @@
       "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
     },
     {
-      "added_at": "2026-07-16 15:07:23",
+      "added_at": "2026-07-22 13:07:20",
       "album": {
-        "name": "Lima",
-        "url": "https://open.spotify.com/album/0kXzXKuBJQ7wGEoeLCwZUg"
+        "name": "Something To Be Said",
+        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
       },
       "artists": [
         {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
         }
       ],
-      "duration_ms": 299000,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
+      "duration_ms": 213688,
+      "name": "Something To Be Said",
+      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Dancer First",
+        "url": "https://open.spotify.com/album/4u13nvmCyiX26JEbLMi3xT"
+      },
+      "artists": [
+        {
+          "name": "book NOT brooke",
+          "url": "https://open.spotify.com/artist/2MU9XJB5y649GRPpU62tGE"
+        }
+      ],
+      "duration_ms": 144726,
+      "name": "I Do The Worm",
+      "url": "https://open.spotify.com/track/7z2DUQ3EFDrz3Y9lEvegT6"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3NXNcSOO6GCByk6d6kqSlT"
+      },
+      "artists": [
+        {
+          "name": "Reality Enjoyer",
+          "url": "https://open.spotify.com/artist/6AB4jHgbR5EUgZfsTjoUWk"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4mQyJDtKOj3L3zpElotkdC"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "1LDK",
+        "url": "https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL"
+      },
+      "artists": [
+        {
+          "name": "1LDK",
+          "url": "https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0H8Fj06ouARNhY5toOa9Nt"
     },
     {
       "added_at": "2026-07-09 16:16:47",
@@ -57,6 +153,70 @@
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Sword",
+        "url": "https://open.spotify.com/album/60nQ5fU7alFF9KrgymLwmM"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "duration_ms": 199859,
+      "name": "Sword",
+      "url": "https://open.spotify.com/track/2a7zylxn8AhPOcBjAZs6mY"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "Maybe Selena",
+        "url": "https://open.spotify.com/album/5bGT1tX9jmddlQu1TETmIh"
+      },
+      "artists": [
+        {
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+        }
+      ],
+      "duration_ms": 222818,
+      "name": "Maybe Selena",
+      "url": "https://open.spotify.com/track/4pfeWrjIyUu7WjCsgbKE1Q"
+    },
+    {
+      "added_at": "2026-07-16 15:07:23",
+      "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/0kXzXKuBJQ7wGEoeLCwZUg"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "deep end",
+        "url": "https://open.spotify.com/album/5Fk2Z7snYZVaGJPh8wB9BS"
+      },
+      "artists": [
+        {
+          "name": "josie",
+          "url": "https://open.spotify.com/artist/7Bh9Pns9Yl4iZWjOhA2MRR"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "deep end",
+      "url": "https://open.spotify.com/track/4PYs8qD6tLUGKP6B27Fij1"
+    },
+    {
       "added_at": "2026-07-09 16:30:21",
       "album": {
         "name": "melody",
@@ -71,6 +231,30 @@
       "duration_ms": 158400,
       "name": "melody",
       "url": "https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt"
+    },
+    {
+      "added_at": "2026-07-22 13:07:20",
+      "album": {
+        "name": "mickey don\u2019t pose / new deal",
+        "url": "https://open.spotify.com/album/5iVjaWnCrKrA6MuxdxcjPd"
+      },
+      "artists": [
+        {
+          "name": "god of war",
+          "url": "https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp"
+        },
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        }
+      ],
+      "duration_ms": 141517,
+      "name": "mickey don\u2019t pose",
+      "url": "https://open.spotify.com/track/5hem4rDuW2QYEplpDFc9ly"
     },
     {
       "added_at": "2026-07-16 15:07:23",
@@ -741,22 +925,6 @@
       "url": "https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5"
     },
     {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "Gretchen",
-        "url": "https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 171597,
-      "name": "Gretchen",
-      "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
-    },
-    {
       "added_at": "2026-06-17 21:21:13",
       "album": {
         "name": "missin out",
@@ -1017,182 +1185,6 @@
       "url": "https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv"
     },
     {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Car Park Cult",
-        "url": "https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5"
-      },
-      "artists": [
-        {
-          "name": "Mia Lord",
-          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Car Park Cult",
-      "url": "https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq"
-    },
-    {
-      "added_at": "2026-05-29 04:02:21",
-      "album": {
-        "name": "JACKIE'S BACK",
-        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
-      },
-      "artists": [
-        {
-          "name": "ASHMOOR",
-          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "JACKIE'S BACK",
-      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "BEST FRIEND",
-        "url": "https://open.spotify.com/album/4XT24ABR707MaW74Ap0XqK"
-      },
-      "artists": [
-        {
-          "name": "Carver Jones",
-          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
-        }
-      ],
-      "duration_ms": 141383,
-      "name": "BEST FRIEND",
-      "url": "https://open.spotify.com/track/6uC01mhcVUqMZCmz0czKIn"
-    },
-    {
-      "added_at": "2026-05-06 17:59:13",
-      "album": {
-        "name": "You Never Did Anything Wrong",
-        "url": "https://open.spotify.com/album/1xSwpgGTUS2mPqUeJm4H7L"
-      },
-      "artists": [
-        {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
-        }
-      ],
-      "duration_ms": 267854,
-      "name": "You Never Did Anything Wrong",
-      "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
-    },
-    {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Engraving of Armor",
-        "url": "https://open.spotify.com/album/7lnEzdujsWtorIwBqxj2EQ"
-      },
-      "artists": [
-        {
-          "name": "Beck Zegans",
-          "url": "https://open.spotify.com/artist/4RZ4TTDLU3Wfycm5zk90tA"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Record Tamer",
-      "url": "https://open.spotify.com/track/3A0SR6ebkcwXmKrMUjuqcK"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "Past The Veil",
-        "url": "https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 232698,
-      "name": "Past The Veil",
-      "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
-    },
-    {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Call It What You Want",
-        "url": "https://open.spotify.com/album/1duNvkWcNlJfPIOugCfAfP"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 175158,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/5U9uVRRZ7PkvAvyLKhg3jx"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "Like It Was Before",
-        "url": "https://open.spotify.com/album/18tolLGoJPOlfjCCRtHV21"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngel Loor",
-          "url": "https://open.spotify.com/artist/4kJvNJK7Q9jo130THvUnFZ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Like It Was Before",
-      "url": "https://open.spotify.com/track/1PAlK7pZ3VQi5aQau400W4"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "Beams",
-        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
-      },
-      "artists": [
-        {
-          "name": "Derby",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
-    },
-    {
-      "added_at": "2026-05-13 15:04:02",
-      "album": {
-        "name": "When It's Leaving",
-        "url": "https://open.spotify.com/album/0zibF0KTPQWL5KSBI6FWex"
-      },
-      "artists": [
-        {
-          "name": "Pleasure Systems",
-          "url": "https://open.spotify.com/artist/6tuEL6IAVy9fuSPuZp1hMk"
-        }
-      ],
-      "duration_ms": 184874,
-      "name": "When It's Leaving",
-      "url": "https://open.spotify.com/track/4DywkvVLSUQnJg21CfMqUU"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "Can't Be Friends",
-        "url": "https://open.spotify.com/album/3SfxPR1KPUmrtAda5BXuYg"
-      },
-      "artists": [
-        {
-          "name": "Sierra Spirit",
-          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Can\u2019t Be Friends",
-      "url": "https://open.spotify.com/track/2EVMWA702ony5lIXv6zqOb"
-    },
-    {
       "added_at": "2026-05-13 15:04:02",
       "album": {
         "name": "HOLD ME (SLOWLY)",
@@ -1207,22 +1199,6 @@
       "duration_ms": 251500,
       "name": "HOLD ME (SLOWLY)",
       "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
-    },
-    {
-      "added_at": "2026-05-20 16:23:12",
-      "album": {
-        "name": "Dust & Feathers",
-        "url": "https://open.spotify.com/album/6KfdxTS3YywzRVhnIfgV1i"
-      },
-      "artists": [
-        {
-          "name": "toast",
-          "url": "https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Softwing",
-      "url": "https://open.spotify.com/track/5JIaoy9tHYQCMR0rHpunsN"
     }
   ],
   "unique_name": "Fresh Finds Indie",

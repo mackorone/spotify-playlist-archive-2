@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
@@ -8464,7 +8464,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -24948,7 +24948,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -25844,7 +25844,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 215570,
       "name": "Neka da e tayno",
       "url": "https://open.spotify.com/track/5xtqsB0ziLWMldW3JLcTZe"
@@ -31520,7 +31520,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 207376,
       "name": "S drug me barkash",
       "url": "https://open.spotify.com/track/2yb57VXhDSwgQuXMcyftjv"
@@ -32858,7 +32858,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 209577,
       "name": "SHIVALI",
       "url": "https://open.spotify.com/track/4TxCB4NwlnlL4kVnw3U75h"
@@ -43427,6 +43427,28 @@
     },
     {
       "album": {
+        "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
+        "url": "https://open.spotify.com/album/75ALv1pn6VCh7KrmkO2PNg"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+        },
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
+      "url": "https://open.spotify.com/track/5igEXmQo4UruzPSXTAb1rn"
+    },
+    {
+      "album": {
         "name": "\u0411\u0440\u0430\u0432\u043e \u043d\u0430 \u0442\u0435\u0431\u0435",
         "url": "https://open.spotify.com/album/0lwAFbovUJT57oTU2C91Qj"
       },
@@ -49320,7 +49342,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
@@ -50620,7 +50642,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 214285,
       "name": "\u0425\u0432\u0430\u0449\u0430\u043c\u0435 \u0431\u0430\u0441",
       "url": "https://open.spotify.com/track/6WTMZB0lrYzULDWUPmvAsb"
@@ -50940,7 +50962,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 217245,
       "name": "\u0429\u043e\u0442\u043e \u0435 \u043c\u0430\u0439\u043c\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/1o0qlusiY9LdkWtPxgybVs"

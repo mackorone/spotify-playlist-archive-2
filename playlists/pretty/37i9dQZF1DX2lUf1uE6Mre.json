@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 910842,
+  "num_followers": 910802,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Sommernacht",
-        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
-      },
-      "artists": [
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 201843,
-      "name": "Sommernacht",
-      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "PARFUM",
         "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 160863,
       "name": "PARFUM",
       "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Sommernacht",
+        "url": "https://open.spotify.com/album/4Oxf9aFjAzv40XBaeUyaxw"
+      },
+      "artists": [
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 201843,
+      "name": "Sommernacht",
+      "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "BOMBA",
         "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 165799,
       "name": "BOMBA",
       "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "FUXWAVE",
         "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 141866,
       "name": "FUXWAVE",
       "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
-      },
-      "artists": [
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 140168,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "Bend Over 2",
         "url": "https://open.spotify.com/album/74xSrHtoKbfwUx6flF0GjA"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 131428,
       "name": "Bend Over 2",
       "url": "https://open.spotify.com/track/0xdCOXFgnKNBFmhVGyDJjl"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 140168,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "E Mira",
+        "url": "https://open.spotify.com/album/2E8biAm8WTlyuhCZgNHDZd"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 203914,
+      "name": "E Mira",
+      "url": "https://open.spotify.com/track/22BFuNPujopFAhZJx7nr8k"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Aladin",
         "url": "https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 170655,
       "name": "Aladin",
       "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "E Mira",
-        "url": "https://open.spotify.com/album/2E8biAm8WTlyuhCZgNHDZd"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 203914,
-      "name": "E Mira",
-      "url": "https://open.spotify.com/track/22BFuNPujopFAhZJx7nr8k"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "Fashion Killa",
+        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 132112,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/4AGuMclFqXQScBUF4OICPS"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 152195,
       "name": "Planet",
       "url": "https://open.spotify.com/track/3jqrkCLNToczOkUbutDK2B"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "Fashion Killa",
-        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 132112,
-      "name": "Fashion Killa",
-      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
     },
     {
       "added_at": "2026-07-09 22:01:03",

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vishwanath & Sons
 
-2,536 songs - 6 day 8 hr 34 min
+2,537 songs - 6 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Jujubee \(From "Jailer"\)](https://open.spotify.com/track/09Q0LYcLol1C8HOZ6pIRdO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jujubee \(From "Jailer"\)](https://open.spotify.com/album/3LgCX0eAm7TGAbqZHfFvPm) | 2:47 | 2023-07-26 | 2023-12-24 |
 | [Kaadhal Kannadi \- From "Aasai"](https://open.spotify.com/track/0dyPutmOgQazTfK5MngTu5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kaadhal Kannadi \(From "Aasai"\)](https://open.spotify.com/album/5GO2cXtXQvu4ClHe8BHb6V) | 3:42 | 2023-02-17 | 2023-03-07 |
 | [Kaadhal Sadugudu \(From "Madraskaaran"\)](https://open.spotify.com/track/6UeTfjx90nKL4CdRaGUGON) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Kaadhal Sadugudu \(From "Madraskaaran"\)](https://open.spotify.com/album/6PfjhUhkqlflnDcBUyhlcD) | 3:12 | 2024-12-10 | 2025-03-01 |
+| [Kaadhal Yaathiriye \- "Keezhadi" The Lost Verse \- From "Think Indie"](https://open.spotify.com/track/0DWOyVu0g07GQsCIfNudTv) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t), [Thamizh Aadhavan](https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb) | [Kaadhal Yaathiriye \- "Keezhadi" The Lost Verse \(From "Think Indie"\)](https://open.spotify.com/album/0DsP0dr0UDvsodnEJCNMQr) | 1:06 | 2026-07-22 |  |
 | [Kaadhal Yaathiriye \- From "Think Indie"](https://open.spotify.com/track/1GTWzhdIIIugDh4AClJ2ZF) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Thamizh Aadhavan](https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb) | [Kaadhal Yaathiriye \(From "Think Indie"\)](https://open.spotify.com/album/5YawLSM6jt8nqy9YcEWCgM) | 3:10 | 2026-06-09 |  |
 | [Kaadhale \(From "Varunan"\)](https://open.spotify.com/track/6mYIZuBCWlYWCCdJBrd1B1) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Bobo Shashi](https://open.spotify.com/artist/207e202Dz3barZ9ij9jGpR), [Reshman](https://open.spotify.com/artist/0kxmZJ0t1zOhEgZezxcNtu) | [Kaadhale \(From "Varunan"\)](https://open.spotify.com/album/1skBbRnto9o6hi9gleoAVP) | 4:40 | 2024-07-19 | 2024-08-01 |
 | [Kaadu Onnu](https://open.spotify.com/track/5oflI4gX5J6I32hllk1nSX) | [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY) | [Parundhagadhu Oor Kuruvi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TSokMnpCpjfqBYBvR2lS3) | 3:01 | 2023-03-08 | 2023-03-25 |

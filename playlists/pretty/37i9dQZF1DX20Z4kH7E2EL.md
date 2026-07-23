@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,126 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,134 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 18 | [Comes and Goes \- Dom Dolla Remix](https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Comes and Goes \(Dom Dolla Remix\)](https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5) | 4:27 |
 | 19 | [U GO](https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [U GO](https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W) | 3:50 |
 | 20 | [4LUV](https://open.spotify.com/track/3vLIQUhwO0tWdWx7JXuNXz) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [4LUV](https://open.spotify.com/album/0CCk0WMAJw8GLvlQbGUOqB) | 5:13 |
-| 21 | [Circle of Light \(feat\. Antony Szmierek\) \- Dosem Remix](https://open.spotify.com/track/34tFmwf3kZ2JOXiQqWMR89) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Circle of Light \(Dosem Remix\)](https://open.spotify.com/album/6NU2WbGP0JAe68cEsjOwz7) | 4:11 |
+| 21 | [Circle of Light \- Dosem Remix](https://open.spotify.com/track/34tFmwf3kZ2JOXiQqWMR89) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Circle of Light \(Dosem Remix\)](https://open.spotify.com/album/6NU2WbGP0JAe68cEsjOwz7) | 4:11 |
 | 22 | [Pull Me In](https://open.spotify.com/track/5tgLjn8Ni6CGsnfMl35Gxa) | [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [Pull Me In](https://open.spotify.com/album/4DVdzuWo6vZVtyTg5fV5ZB) | 3:20 |
 | 23 | [Clown In My Kitchen](https://open.spotify.com/track/3DECwoGPOgAlqDG0SOvMgY) | [Modek](https://open.spotify.com/artist/69ZZUr4YIsRL8Qi5cbNAkz) | [Clown In My Kitchen](https://open.spotify.com/album/49tGSTJILJhQv6rs1F9BeG) | 4:41 |
 | 24 | [SOMEWHERE ELSE](https://open.spotify.com/track/4ROFunSkVUlXqU0cMi6vYJ) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [COME CLOSER](https://open.spotify.com/album/5C40IE0VAEHNZJcpwUxoNY) | 4:11 |

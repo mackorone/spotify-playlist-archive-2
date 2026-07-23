@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 1071280,
+  "num_followers": 1071606,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 1",
-        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
-      },
-      "artists": [
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226274,
       "name": "A Little Girl",
       "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "STILL",
+        "url": "https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 254924,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "STILL",
-        "url": "https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU"
+        "name": "Guardian (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp"
       },
       "artists": [
         {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+          "name": "SAM KIM",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 254924,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY"
+      "duration_ms": 255463,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/6O4EixqImEZRPjS96H5ppp"
+        "name": "START-UP (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9"
       },
       "artists": [
         {
-          "name": "SAM KIM",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 255463,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/7Jo5oEViT27zCkdRI5hEuG"
+      "duration_ms": 260600,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/1j5oDtBWVtNoVHMi2n6Fkz"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -963,18 +979,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9"
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
       },
       "artists": [
         {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+          "name": "SAM KIM",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/1j5oDtBWVtNoVHMi2n6Fkz"
+      "duration_ms": 201786,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 215880,
       "name": "Future",
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
-      },
-      "artists": [
-        {
-          "name": "SAM KIM",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Snowdrop (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 238862,
       "name": "Beautiful Moment",
       "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Snowdrop (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
-      },
-      "artists": [
-        {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream",
       "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 226108,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Doom at Your Service (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 226108,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Heartstrings OST Part.1",
-        "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
-      },
-      "artists": [
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Master`s sun OST Part.3",
         "url": "https://open.spotify.com/album/00Gajw59e8BvExy9BJQUIz"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 270431,
       "name": "Crazy of you",
       "url": "https://open.spotify.com/track/1EC8QewniFjTg6a2eYB60a"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Heartstrings OST Part.1",
+        "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "SECRET GARDEN DRAMA OST Part.5",
-        "url": "https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy"
+        "name": "Guardian (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc"
       },
       "artists": [
         {
-          "name": "HYUN BIN",
-          "url": "https://open.spotify.com/artist/7u0vBjg2cyEOum1UzgH8W6"
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
         }
       ],
-      "duration_ms": 271220,
-      "name": "The man",
-      "url": "https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX"
+      "duration_ms": 296134,
+      "name": "The First Snow",
+      "url": "https://open.spotify.com/track/43ogAyFAzG58KW7rhWeGQE"
     }
   ],
   "unique_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",

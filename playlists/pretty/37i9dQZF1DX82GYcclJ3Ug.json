@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: In Color",
-  "num_followers": 1225960,
+  "num_followers": 1225942,
   "original_name": "the new alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6MEj2OYcVhD7k2t7Dae0sQBFqI",
+  "snapshot_id": "AAAAAKEg/AJYP0sXZ1Yd2seowvQ+Be1g",
   "tracks": [
     {
       "added_at": "2026-07-17 04:00:47",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-07-17 04:00:47",
       "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "added_at": "2026-07-17 04:00:47",
+      "album": {
         "name": "Cancel Me (I'm Tired)",
         "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
       },
@@ -1289,6 +1305,22 @@
       "url": "https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1"
     },
     {
+      "added_at": "2026-07-22 14:12:22",
+      "album": {
+        "name": "life",
+        "url": "https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "life",
+      "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
+    },
+    {
       "added_at": "2026-07-17 04:00:47",
       "album": {
         "name": "Plans",
@@ -1303,22 +1335,6 @@
       "duration_ms": 231351,
       "name": "Plans",
       "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
-    },
-    {
-      "added_at": "2026-07-17 04:00:47",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-07-17 04:00:47",

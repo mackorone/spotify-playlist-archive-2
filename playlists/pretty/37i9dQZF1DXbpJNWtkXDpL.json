@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93312,
+  "num_followers": 93329,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "PVT0 VACIO",
         "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 231129,
       "name": "PVT0 VACIO",
       "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "C\u00ednico",
         "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 184000,
       "name": "C\u00ednico",
       "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
-      },
-      "artists": [
-        {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
-        }
-      ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "sobrio",
         "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        },
+        {
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+        }
+      ],
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Cereza",
         "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 198150,
       "name": "Cereza",
       "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -903,6 +887,22 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "S\u00daPLICA",
         "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 207969,
       "name": "S\u00daPLICA",
       "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+        "name": "YoPiensoEnTi",
+        "url": "https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ"
       },
       "artists": [
         {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
         }
       ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
+      "duration_ms": 156000,
+      "name": "YoPiensoEnTi",
+      "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,077 likes - 92 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,075 likes - 92 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

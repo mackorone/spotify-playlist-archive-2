@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Steve Lacy✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,489 likes - 250 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,494 likes - 250 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

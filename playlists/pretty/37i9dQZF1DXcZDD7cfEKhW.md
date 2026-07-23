@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,370,053 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,369,761 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 72 | [Beep \(with Devault\)](https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD Forever \(Deluxe Edition\)](https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ) | 2:27 |
 | 73 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
 | 74 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
-| 75 | [Blow My Mind \- CA7RIEL & Paco Amoroso Version](https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Blow My Mind \(CA7RIEL & Paco Amoroso Version\)](https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk) | 2:49 |
+| 75 | [It's ok I'm ok \- Ian Asher remix](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [It's ok I'm ok \(remixes\)](https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ) | 2:46 |
 
 Snapshot ID: `AAAAAK12gNFA4g+FqWjr9cN2jd7DaN+B`

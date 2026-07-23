@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,654 likes - 100 songs - 5 hr 29 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,655 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 68 | [Feel Better](https://open.spotify.com/track/1AvD21gCNCSxF0Qxzj2Su6) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Feel Better](https://open.spotify.com/album/0tUFOGJeITsBtvbIJZHhDn) | 3:49 |
 | 69 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 70 | [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:55 |
-| 71 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 |
+| 71 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 |
 | 72 | [Monte Carlo](https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Monte Carlo](https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak) | 3:47 |
 | 73 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 |
 | 74 | [Where Do You Go?](https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [8](https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW) | 2:50 |

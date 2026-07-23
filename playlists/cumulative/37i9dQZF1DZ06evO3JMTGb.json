@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59280,
+      "name": "Eleven d",
+      "url": "https://open.spotify.com/track/1oaf9vUGUqXsrVH9S6BmMT"
+    },
+    {
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 298865,
       "name": "Endowment",
       "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
+    },
+    {
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205876,
+      "name": "Fluorit",
+      "url": "https://open.spotify.com/track/3lq7IjY8xOkEnosQkWFZDs"
     },
     {
       "album": {
@@ -364,7 +400,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 712522,
       "name": "Hills Bells Mother",
       "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
@@ -510,10 +546,32 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 175106,
       "name": "Kandisae",
       "url": "https://open.spotify.com/track/5UKjl5phwLwc2tXb7aiBjg"
+    },
+    {
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Alfred Bundgaard",
+          "url": "https://open.spotify.com/artist/3HhLZ0jfYi0Og65mYA2tKs"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56473,
+      "name": "Kyakalia",
+      "url": "https://open.spotify.com/track/5jsSQZEUgzOmiMyI1JFnEx"
     },
     {
       "album": {
@@ -623,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Meo busa",
+      "url": "https://open.spotify.com/track/3ibvUgdYxX4aOHSzO1NxY5"
+    },
+    {
+      "album": {
         "name": "Miarai",
         "url": "https://open.spotify.com/album/1L06JWVmYUbYe9jNzx0JI8"
       },
@@ -682,7 +758,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 1087000,
       "name": "Morgen\u00e5nder",
       "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
@@ -744,7 +820,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 344827,
       "name": "Mu Evans",
       "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
@@ -766,7 +842,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 246967,
       "name": "Mue - Sofie Birch Remix",
       "url": "https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv"
@@ -842,7 +918,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 364837,
       "name": "Net (Neverendingthing)",
       "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
@@ -1028,10 +1104,28 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 234502,
       "name": "Runge",
       "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
+    },
+    {
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sefirot Surfa",
+      "url": "https://open.spotify.com/track/6C3wqmj5zUqOSTJrpiDZwt"
     },
     {
       "album": {
@@ -1068,7 +1162,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 413882,
       "name": "Slow Piru",
       "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
@@ -1258,6 +1352,28 @@
       "duration_ms": 1102625,
       "name": "Vidsyn",
       "url": "https://open.spotify.com/track/3WTuJZxHjTFUeyHywToGVB"
+    },
+    {
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Janoya",
+          "url": "https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126006,
+      "name": "Wanwu",
+      "url": "https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK"
     },
     {
       "album": {

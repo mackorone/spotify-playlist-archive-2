@@ -4,7 +4,7 @@
 
 > Playlist
 
-653 songs - 1 day 14 hr 36 min
+654 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 | 2024-12-12 |  |
 | [Nublado](https://open.spotify.com/track/4H6Nq1nMoqPpjoH2eKEJfo) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:23 | 2023-10-25 |  |
 | [NWO](https://open.spotify.com/track/3KfiI3V6V1RAkrPThLFEj0) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:51 | 2024-11-14 |  |
+| [Odd Cafe](https://open.spotify.com/track/4AR4Tx7mGcN5irYqRgnsDy) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Odd Cafe](https://open.spotify.com/album/3MefQP7drDcoa4jYkIj4GY) | 3:33 | 2026-07-22 |  |
 | [Oh My World](https://open.spotify.com/track/6gy47ICkG9ejWcsTh5sXDG) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Oh My World](https://open.spotify.com/album/2IijwnM5ZUfVBneZr89uV9) | 3:35 | 2026-05-22 |  |
 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 | 2023-10-25 |  |
 | [On Edge](https://open.spotify.com/track/5joJ2RbMO3jlQpgbN3m6Ay) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [On Edge](https://open.spotify.com/album/4i5kwe4vbjH0nxDNJVSKWW) | 3:50 | 2024-06-12 |  |

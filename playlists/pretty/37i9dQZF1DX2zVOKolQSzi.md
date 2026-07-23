@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest 10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,957 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,973 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 26 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 4:01 |
 | 27 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/3HpBC2ECGBxWOviA8CyLhb) | 4:28 |
 | 28 | [Hold Up, Wait a Minute](https://open.spotify.com/track/4o2UcMhDLHpi09m8esAVqT) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 4:08 |
-| 29 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/5GuKx54Cj6eZanOdPVGfHu) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
+| 29 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 30 | [Change](https://open.spotify.com/track/2U2OWAIT6F4ZLpH6Yy8TR7) | [NoJazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [Soul Stimulation](https://open.spotify.com/album/26lKujx8VZ8nUFRXKRn2tC) | 3:37 |
 | 31 | [Troubled Land \(feat\. James Junior\)](https://open.spotify.com/track/3WKaXpha1oA7aeTQ3YAoDQ) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 5:29 |
 | 32 | [Crave](https://open.spotify.com/track/6qoflwZlr3RxB3RiH9GRuG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Crave](https://open.spotify.com/album/4uWKXErh1mdc6M2rAjPXY0) | 2:53 |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,687 songs - 3 day 15 hr 43 min
+1,688 songs - 3 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,7 +855,7 @@
 | [Knievel](https://open.spotify.com/track/1ldzWhXrE6hh4CJBBn17DZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Knievel](https://open.spotify.com/album/1z2YrXsRB4B7rgg1g69cYh) | 3:02 | 2021-08-14 | 2021-10-16 |
 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-07 | 2026-02-28 |
 | [Kool](https://open.spotify.com/track/35arSG83D9FCN2Ts0qOuoc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 2:48 | 2020-11-13 | 2021-02-20 |
-| [La confrérie du Néant](https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb) | [Jashim](https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp) | [R3](https://open.spotify.com/album/3EcYRQfM93Vi9uAKZ1gVWy) | 2:34 | 2026-03-13 |  |
+| [La confrérie du Néant](https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb) | [Jashim](https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp) | [R3](https://open.spotify.com/album/3EcYRQfM93Vi9uAKZ1gVWy) | 2:34 | 2026-03-13 | 2026-07-23 |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-02-11 | 2022-03-05 |
 | [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 | 2024-05-31 | 2025-10-03 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-07 | 2021-09-11 |
@@ -1626,6 +1626,7 @@
 | [When It Kills Me](https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [When It Kills Me: Pt\. 2](https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX) | 3:41 | 2022-05-06 | 2023-07-08 |
 | [When Nobody's Watching](https://open.spotify.com/track/7jEHng9pQFSFE9De2dFRMA) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [When Nobody's Watching](https://open.spotify.com/album/0kOUrPu1RF2jvxu0SCP0ga) | 3:36 | 2021-07-17 | 2021-09-11 |
 | [When U Saw Love \(ft\. Babygirl\)](https://open.spotify.com/track/2DGdgztVbE3pFmqoF1rHzp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 3:26 | 2021-05-15 | 2021-09-18 |
+| [When we get by](https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [When we get by](https://open.spotify.com/album/08okRl4uCEu3z2h9beW53s) | 2:49 | 2026-07-22 |  |
 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 | 2022-07-01 | 2023-09-29 |
 | [When You Catch Me](https://open.spotify.com/track/5kDzNu8ot9Ww9qRvgwUWxs) | [Jets Overhead](https://open.spotify.com/artist/7hrkCWuz4OT9xz4E33wWJO) | [When You Catch Me](https://open.spotify.com/album/6tNS3SlJ7oiOyZ8wcEl7DM) | 2:44 | 2026-05-29 | 2026-07-11 |
 | [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 | 2024-06-08 |

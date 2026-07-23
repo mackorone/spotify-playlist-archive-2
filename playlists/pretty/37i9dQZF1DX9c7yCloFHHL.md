@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: HUG
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,577 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,658 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [mirada brillante](https://open.spotify.com/track/27X5DcBfODxhUIifleMa3E) | [Lumtz](https://open.spotify.com/artist/1EJ7eVmYftASdbBbOzLfQQ), [MAQ](https://open.spotify.com/artist/6sMwNqltT78pmobEIPp3kJ) | [tesoros](https://open.spotify.com/album/74hZtmbbExrhsa6Ac0cJLi) | 2:41 |
+| 1 | [mirada brillante](https://open.spotify.com/track/27X5DcBfODxhUIifleMa3E) | [Lumtz](https://open.spotify.com/artist/1EJ7eVmYftASdbBbOzLfQQ), [MAQ](https://open.spotify.com/artist/41hWHcEviFviFoXNK1GL39) | [tesoros](https://open.spotify.com/album/74hZtmbbExrhsa6Ac0cJLi) | 2:41 |
 | 2 | [Inflorescence](https://open.spotify.com/track/1K8QtTQoUU8FdvwFwCe0jS) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Inflorescence](https://open.spotify.com/album/1xzkI9ZoRUqb48C8HKzvl3) | 5:09 |
 | 3 | [Cow With Half Moon Parasol](https://open.spotify.com/track/2pUjVfqByVLqkgrKBrsdkw) | [HUG](https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Cow With Half Moon Parasol](https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS) | 4:36 |
 | 4 | [While Seeing In Ultraviolet](https://open.spotify.com/track/0zk5CpStq7IELCQOLQJP8o) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Âstra](https://open.spotify.com/artist/0Br7Es1U70JYeOaAwi56z9), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW) | [While Seeing In Ultraviolet](https://open.spotify.com/album/5a7XaOOYbQsBCfznuREV2b) | 3:20 |

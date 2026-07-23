@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 113710,
+  "num_followers": 113748,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 274261,
       "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
       "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "N\u00e3o Saia do Meu Lado",
         "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 216127,
       "name": "N\u00e3o Saia do Meu Lado",
       "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     }
   ],
   "unique_name": "Sertanejo Religioso",

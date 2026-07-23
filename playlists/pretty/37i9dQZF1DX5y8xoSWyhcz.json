@@ -1,12 +1,12 @@
 {
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
-  "num_followers": 229834,
+  "num_followers": 229821,
   "original_name": "indie pop & chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADI0Gvvvx58M9/JnY7b6QUPTDgY2",
+  "snapshot_id": "AAAAAIe5djsnLSX6ARwf81CGLZhUKrHQ",
   "tracks": [
     {
       "added_at": "2026-07-17 04:03:00",
@@ -127,6 +127,22 @@
       "duration_ms": 189538,
       "name": "Hands On (feat. Aidan Bissett)",
       "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+    },
+    {
+      "added_at": "2026-07-22 13:20:56",
+      "album": {
+        "name": "When we get by",
+        "url": "https://open.spotify.com/album/08okRl4uCEu3z2h9beW53s"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "duration_ms": 169058,
+      "name": "When we get by",
+      "url": "https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh"
     },
     {
       "added_at": "2026-07-17 04:03:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 210625,
       "name": "Wanna Say",
       "url": "https://open.spotify.com/track/5zxD0xUMpRlD2Vmvs9KWHf"
-    },
-    {
-      "added_at": "2026-07-17 04:03:00",
-      "album": {
-        "name": "R3",
-        "url": "https://open.spotify.com/album/3EcYRQfM93Vi9uAKZ1gVWy"
-      },
-      "artists": [
-        {
-          "name": "Jashim",
-          "url": "https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "La confr\u00e9rie du N\u00e9ant",
-      "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
     },
     {
       "added_at": "2026-07-17 04:03:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & Hottest K-Hip Hop is here. (Cover: untell)",
+  "description": "New & Hottest K-Hip Hop is here. (Cover: HAON, NOWIMYOUNG, JMIN, KC)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 268563,
       "name": "AEIOU (Feat. Loco) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/1IOb9H50dKN0amB8LChG31"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 243000,
       "name": "BAOW (Feat. Jay Park) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/7uZ2OWKKrWTyqycyVmxJQQ"
@@ -5648,7 +5648,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 228000,
       "name": "BOUNCE BACK (Feat. Jay Park) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl"
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 202000,
       "name": "DIRT! (Feat. ZICO) (Prod. by ZICO)",
       "url": "https://open.spotify.com/track/6IsblvUWlwFjo5nA9TWpB9"
@@ -10668,7 +10668,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
@@ -14168,7 +14168,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 282427,
       "name": "GR8EST (Prod. by APRO)",
       "url": "https://open.spotify.com/track/5JtOF5nBbjHmcvEhFKL79F"
@@ -16974,7 +16974,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 170149,
       "name": "I DON'T BARGAIN",
       "url": "https://open.spotify.com/track/2aTs07BHIgEoelYtdYONw7"
@@ -19720,7 +19720,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 193000,
       "name": "KOO KOO (Feat. NATTY of KISS OF LIFE) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/4Oo5FV4sE9QttQHrLm2N26"
@@ -19746,6 +19746,36 @@
       "duration_ms": 198250,
       "name": "Korea Bank (Feat. YDG)",
       "url": "https://open.spotify.com/track/4fHUAvyszdqZ8PbjrZuXsN"
+    },
+    {
+      "album": {
+        "name": "2000 TAPE",
+        "url": "https://open.spotify.com/album/0HhoqCRYpuH5sc9mlgCgrF"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "KOREAN ANTHEM",
+      "url": "https://open.spotify.com/track/4vYLZn6tCxVmabeB18FmUH"
     },
     {
       "album": {
@@ -19980,7 +20010,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 2604,
       "name": "KrOWN_GRAY",
       "url": "https://open.spotify.com/track/4SyvE1nvdnvFshtxUTOfq9"
@@ -20016,7 +20046,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 2791,
       "name": "KrOWN_J-Tong",
       "url": "https://open.spotify.com/track/332lPwSuZvsMXVIxONyOPM"
@@ -20106,7 +20136,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 2604,
       "name": "KrOWN_Loco",
       "url": "https://open.spotify.com/track/1aMU3K4GxvEgikHmfBi8Tw"
@@ -22856,7 +22886,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 234000,
       "name": "MAMA (Feat. UNEDUCATED KID) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/0dt0DccOIWLtzX45F6uZ1I"
@@ -23244,7 +23274,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 207000,
       "name": "MDLZ (With. PENOMECO)",
       "url": "https://open.spotify.com/track/5u77QBJa2fUREcFTM7PwME"
@@ -24240,7 +24270,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 269081,
       "name": "Money Checks (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/5bB7348yF6DXMmK1WQlBui"
@@ -24774,7 +24804,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 211000,
       "name": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/3MC7fwjrvN8Qz4Ky9L45qy"
@@ -24844,7 +24874,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 228046,
       "name": "MSG (Feat. Omega Sapien) (Prod. by Spatchies, PapZilla, KIRWAV, Sawat)",
       "url": "https://open.spotify.com/track/6zLEtJTbYfDI8Kn3ubSB5S"
@@ -25688,7 +25718,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 283100,
       "name": "NEVER (Feat. Wonstein, lIlBOI) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/46CRlyiQ9Z4GrxQrKgHIyh"
@@ -26476,7 +26506,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 238000,
       "name": "No Manners (Feat. Jay Park) (Prod. by Lil Moshpit)",
       "url": "https://open.spotify.com/track/0GB2Y83tCVDoanc5kQXQxR"
@@ -27273,6 +27303,32 @@
     },
     {
       "album": {
+        "name": "DOMO",
+        "url": "https://open.spotify.com/album/1BtFOc54jRJ5WLOfZmn6JC"
+      },
+      "artists": [
+        {
+          "name": "HEEDAE",
+          "url": "https://open.spotify.com/artist/6J4oB6UcxVwsI6jmjmeMGA"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "OHYEOHYE",
+      "url": "https://open.spotify.com/track/1KrOm6qJGVpGG7BVcUaFdD"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/2aVzG0xQisfr60C4zSD4Um"
       },
@@ -27336,7 +27392,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 221000,
       "name": "OKA (Feat. DIMO REX, Woo) (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0YYNOAm8ldHy3AZYBlexOK"
@@ -28123,6 +28179,28 @@
     },
     {
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "outta time (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/3ofRgPxmnRjIDLcd8sYgOX"
+    },
+    {
+      "album": {
         "name": "Drop The Bit The 3rd round Pt. 1",
         "url": "https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX"
       },
@@ -28392,7 +28470,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 258000,
       "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
@@ -29070,7 +29148,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 186000,
       "name": "PLAYER (feat. Crush)",
       "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
@@ -31280,7 +31358,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 284705,
       "name": "Robbing (Feat. Roh Yun Ha, Coogie) (Prod. by Matthew)",
       "url": "https://open.spotify.com/track/4IyxjgnjGwqfvXiuzDjhLk"
@@ -33544,7 +33622,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 301824,
       "name": "SKY PASS (Feat. BOBBY) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/0eyMfW9Y8Ogmc5VCF4Sb7s"
@@ -34156,7 +34234,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 210000,
       "name": "SOOM (Feat. Crush) (Prod. by Crush)",
       "url": "https://open.spotify.com/track/7xKWA46U2YLr2fcJVpx8I2"
@@ -34802,7 +34880,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/6PpxPJyQYHGeiUCYy6jF02"
@@ -39636,7 +39714,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 306477,
       "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
@@ -42790,7 +42868,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 222000,
       "name": "Yin and Yang - FANXY CHILD Ver.",
       "url": "https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM"

@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6055,
+  "num_followers": 6058,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAD5xF25PXQJLuCicOg/4zde",
+  "snapshot_id": "al62gAAAAADRVSWc0tcBTY1c/V0aWiQ4",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Yoruba Worship Medley",
-        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 620000,
-      "name": "Deep Yoruba Worship Medley",
-      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Subscribed (Live)",
         "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Yoruba Worship Medley",
+        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 620000,
+      "name": "Deep Yoruba Worship Medley",
+      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
     },
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalm 8",
+        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -335,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You make all things Beautiful (Piano Session)",
-        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 87405,
-      "name": "You make all things Beautiful (Piano Session)",
-      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalm 8",
-        "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
+        "name": "You make all things Beautiful (Piano Session)",
+        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
       },
       "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 199250,
-      "name": "Psalm 8",
-      "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
+      "duration_ms": 87405,
+      "name": "You make all things Beautiful (Piano Session)",
+      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
     },
     {
       "added_at": null,

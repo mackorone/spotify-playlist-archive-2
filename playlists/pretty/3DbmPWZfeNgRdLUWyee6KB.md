@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,316 likes - 98 songs - 5 hr 40 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,327 likes - 107 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 96 | [Primer acto](https://open.spotify.com/track/47fzrHw42KM9RzQ58nXsoC) | [wezconzeta](https://open.spotify.com/artist/1eIFyGwFvtvyKGCX5ACYK5), [Eddy Ballester](https://open.spotify.com/artist/31uTlsIzQtJfv6j1EaE6on) | [Primer acto](https://open.spotify.com/album/30tZq0dAqLvIRZiSSQfBLR) | 2:27 |
 | 97 | [In Slow Motion \- Acoustic](https://open.spotify.com/track/4ioRmTEXJEOrbfRSA6Cox2) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [In Slow Motion \(Acoustic\)](https://open.spotify.com/album/0C2WHZjFbNEYdeKsHuJnIM) | 3:30 |
 | 98 | [The Ghost You Keep](https://open.spotify.com/track/1760jOHkD2BCjsDl6WdO2t) | [Marionette Noir](https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA) | [The Ghost You Keep](https://open.spotify.com/album/0SYyJDhzFiOymUxtwoyYAd) | 5:16 |
+| 99 | [Through The Air](https://open.spotify.com/track/6Cy1NkMkGIHdbsbEWDZE1f) | [Milena Lainovic](https://open.spotify.com/artist/1K3TF9vJP7JfG2kjx8w2ME) | [Chapter 3.](https://open.spotify.com/album/7cg3IiIayKorn5vY1ttKe4) | 3:41 |
+| 100 | [Burn It Down \- Stripped Version](https://open.spotify.com/track/5e6CaDpZZp96QThzuAlIIf) | [JB and Me](https://open.spotify.com/artist/4PdHm4dyO7YaXQxXyz3Yk2) | [12:21](https://open.spotify.com/album/3wBynC8dg8ZV6IZxYzE9az) | 4:45 |
+| 101 | [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 |
+| 102 | [Eternity](https://open.spotify.com/track/4alHLUCvTPS03vLRlbXuse) | [Joakim Doverskär](https://open.spotify.com/artist/5KVzy4gC3sa63hV6wZdhW0) | [The Last Goodbye](https://open.spotify.com/album/3X14Da2e7GPK0VMaT6ZUzJ) | 4:24 |
+| 103 | [We Back](https://open.spotify.com/track/30Q6sXYF71gQphk9W99TLC) | [213NINJA](https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH), [Sheesh](https://open.spotify.com/artist/0wBHjJw2HX3BcFjQc9rBpi) | [We Back](https://open.spotify.com/album/2q5sV2oNX6v9TwbeVlW0Dd) | 4:04 |
+| 104 | [Monterey](https://open.spotify.com/track/0W6kpgMf0hW55oBg6dqxls) | [Ceci Reyes](https://open.spotify.com/artist/0s36KOhpQysz0GY263bMsd) | [Monterey](https://open.spotify.com/album/4vtHF6ALhkTSO5V0LzcJP5) | 4:25 |
+| 105 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
+| 106 | [Somme di momenti](https://open.spotify.com/track/6VxQ3W7ewnrYPHQqvDzRJ5) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Complicazioni inutili](https://open.spotify.com/album/4gCXHzSnwhXLyI9vLZegrI) | 3:13 |
+| 107 | [Nowhere](https://open.spotify.com/track/051yjsV0DXVGtKsTqmRgl0) | [GIUCA](https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh), [Annalena](https://open.spotify.com/artist/1fDbDvS7xBPktEEt078Oww) | [Fragments Of A Broken Wing](https://open.spotify.com/album/1vsRiM9vIaylQNtgKurzLP) | 4:23 |
 
-Snapshot ID: `AAAWd6326Mck8G+CVi1Kbs9f26ZvQjgP`
+Snapshot ID: `AAAWgNnEMaqBK5IVnbUaOeGuJNsg+oIR`

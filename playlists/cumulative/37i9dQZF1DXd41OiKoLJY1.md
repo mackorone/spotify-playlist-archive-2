@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Kasane\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Iann Penn\]\. Artwork: Isu Kim.
 
-4,119 songs - 10 day 0 hr 36 min
+4,126 songs - 10 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | ['Di Ka Mawawala](https://open.spotify.com/track/3jXS5B3EHc9ZFCew3ieGH5) | [DJ Galang](https://open.spotify.com/artist/7a96E3WjP7KV5TLZDNaTrX) | ['Di Ka Mawawala](https://open.spotify.com/album/782vGTdD7ExD10n1Jr631l) | 4:20 | 2023-02-09 | 2023-02-17 |
 | ['di ko alam](https://open.spotify.com/track/3XbVGx3bBme0HBvrAb9xXt) | [Mai Nolledo](https://open.spotify.com/artist/7Lybjq2UvU57zZe62LHl2B) | ['di ko alam](https://open.spotify.com/album/5POhyaWdQ6kGLLhmSgY8qs) | 3:12 | 2022-02-10 | 2022-03-11 |
 | ['Di Mabanggit](https://open.spotify.com/track/6hM6yA5EKF8ZEzZ7Ddht0v) | [Paul Arcega](https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME) | ['Di Mabanggit](https://open.spotify.com/album/46xXWTtiSs1ejYlE55WKhK) | 5:29 | 2023-04-27 | 2023-05-12 |
+| ['Di Mapigilan](https://open.spotify.com/track/3bDP1usy7ad1jaH4nhct43) | [Madeline](https://open.spotify.com/artist/2eig3YdFRFpCuUzjUYnFtE) | ['Di Mapigilan](https://open.spotify.com/album/2KCOZuCAX7T3pv0n3CCoN0) | 3:56 | 2026-07-22 |  |
 | ['di na ba](https://open.spotify.com/track/6OLW2mJLNP47iPqZhVXe4h) | [Cedric Escobar](https://open.spotify.com/artist/2VzuK7FmRvapbBzdMY1mK2) | ['di na ba](https://open.spotify.com/album/3mUHCRpP9DRpZti8wyUYqJ) | 4:18 | 2023-03-16 | 2023-04-07 |
 | ['Di Na Lang](https://open.spotify.com/track/0iO2UwjkcscGhATqBWRqst) | [Ace](https://open.spotify.com/artist/1mJ8U4ACcijFKSQoujkrds), [$uppboy Lynrd](https://open.spotify.com/artist/7F5VO8fKe0INgFTn3gs6RI) | ['Di Na Lang](https://open.spotify.com/album/2rPBsZHMqPF9WW1ypDLOdh) | 3:57 | 2024-10-24 | 2025-02-07 |
 | ['Di Na Makita](https://open.spotify.com/track/2MV2xjrtF4Ukt1PpZJ1eyg) | [Magic Strawberry](https://open.spotify.com/artist/3zGhjRCQkEWQ1LFkCq9VP7) | ['Di Na Makita](https://open.spotify.com/album/7Hp16qxn687tTtxjssJlBq) | 4:26 | 2024-06-27 | 2024-08-09 |
@@ -496,6 +497,7 @@
 | [Better Version \(feat\. filla\)](https://open.spotify.com/track/12MLlCzPCZT965ejwfHM4z) | [Go](https://open.spotify.com/artist/0hljZOYB6oqK0FlT9cLNER), [filla](https://open.spotify.com/artist/1UAApJOL8Sz19AqIqxTGww) | [Better Version \(feat\. filla\)](https://open.spotify.com/album/3QSWJ1OlV2gBCgGXz0gd1z) | 3:45 | 2026-01-29 | 2026-03-20 |
 | [Between The Lines](https://open.spotify.com/track/7HDSlOamQPWvhS6RBJ8P8W) | [Social Climb](https://open.spotify.com/artist/0qJyDXaczsO0G4qsssWXxL) | [Between The Lines](https://open.spotify.com/album/0iRDPYwxwApTMLSLFqUMYf) | 2:53 | 2025-09-11 | 2025-11-28 |
 | [Bicol Express](https://open.spotify.com/track/6jE9E6Ob41bziV2aeSsCKr) | [Kael](https://open.spotify.com/artist/3Zg0uCUbC9g94BT0VQEQqi) | [Bicol Express](https://open.spotify.com/album/2G6VvN9jMZyMAnQJ2WKrSS) | 5:39 | 2023-11-09 | 2024-01-19 |
+| [Biggest Critic](https://open.spotify.com/track/2M3GCRCIOh6s1K0pagulso) | [Rafi](https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl) | [Biggest Critic](https://open.spotify.com/album/3DHRwOgqD1G2lpzNiXrLLE) | 3:29 | 2026-07-22 |  |
 | [BIGLA](https://open.spotify.com/track/5rNBHTQk2vts9joacuJo4g) | [Migz Haleco](https://open.spotify.com/artist/7wiOdGEiSTAOKZ3lxAvIsc) | [BIGLA](https://open.spotify.com/album/0cqorulK18WZlIwyRdfNew) | 3:35 | 2024-03-07 | 2024-04-12 |
 | [Bigla Kang Nawala](https://open.spotify.com/track/3dtKiaSfjbbzRyMQ4IVYKr) | [YooGo](https://open.spotify.com/artist/0C2UMiL7SHWJFBvrdGzdn7) | [Bigla Kang Nawala](https://open.spotify.com/album/0zV7fagucKSeoBGkiAtU4Y) | 3:23 | 2023-03-02 | 2023-03-25 |
 | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/track/3a9nrbtqAwqNZ2zTtcNuiE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49), [King Promdi](https://open.spotify.com/artist/6Mp2h4C9XeFduDTfhoTmtQ) | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/album/2MY1dDcU42g5NX3WFhOeIx) | 4:01 | 2023-07-13 | 2023-08-04 |
@@ -833,6 +835,7 @@
 | [Dekada](https://open.spotify.com/track/5riQUYoIZ5jDXZD0kqN66W) | [Justin Taller](https://open.spotify.com/artist/6EWxRnepcr37PGDIara8gI) | [Dekada](https://open.spotify.com/album/1G3JgZMBSqp2mUtfIp8eEr) | 3:40 | 2023-01-19 | 2023-02-17 |
 | [Delikado](https://open.spotify.com/track/0ZwFfvqIQ9dGtBSEkDfvTr) | [$aint Pxpe](https://open.spotify.com/artist/6Ym0aSumqoa7GnFGtk4nch) | [Delikado](https://open.spotify.com/album/5QgAMdSnqxHpuWyosSEKmL) | 2:30 | 2022-07-07 | 2022-07-22 |
 | [Delikado](https://open.spotify.com/track/5tFbhH1EcG90wiqMOywYJE) | [Lee Noynoy](https://open.spotify.com/artist/3Lunw8x5Yc1NeuvDv9AF6E) | [Delikado](https://open.spotify.com/album/4LXvj6SPvH97yBGqL0amhF) | 3:26 | 2025-07-24 | 2025-09-26 |
+| [Delikado](https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [Delikado](https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc) | 3:39 | 2026-07-22 |  |
 | [delulu](https://open.spotify.com/track/5f9o6HBTdtDGq4PlMznHx5) | [palagi.](https://open.spotify.com/artist/7CaN0416jaWruOGjD1os6S) | [delulu](https://open.spotify.com/album/0xuXgz7QqG3cjH3UIUsYhL) | 2:59 | 2024-01-11 | 2024-02-09 |
 | [Delusyon](https://open.spotify.com/track/29FjkHTUnc6KvecxhCx4mz) | [Perfect Average](https://open.spotify.com/artist/7paf4j1ddcMJDPmGAPMyjf) | [Delusyon](https://open.spotify.com/album/4GM0162RgLMMiqspCNd0rk) | 3:36 | 2022-03-10 | 2022-04-01 |
 | [DELUSYON](https://open.spotify.com/track/4fPymaE49aqxi27sHG95Se) | [Zildjan De Leon](https://open.spotify.com/artist/70eq7PDs4jQwVTU83exAaZ) | [DELUSYON](https://open.spotify.com/album/14oUZXasO9kGdHMGTPLb2r) | 4:38 | 2024-02-08 | 2024-03-08 |
@@ -1217,6 +1220,7 @@
 | [Game Over](https://open.spotify.com/track/1i4wpyZuLvBY87UZNgDYG4) | [Bob](https://open.spotify.com/artist/4umDoBMx98t5QVmMiiYuav) | [Game Over](https://open.spotify.com/album/6MEFCUkAZr11aCLDhROH79) | 4:09 | 2024-05-30 | 2024-06-28 |
 | [Gameplan](https://open.spotify.com/track/0Uw95a8goqsa0SHlnF62NQ) | [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Gameplan](https://open.spotify.com/album/4p8HvpSROQPOUbzBmSVfJw) | 1:30 | 2024-10-03 | 2024-11-23 |
 | [Ganado](https://open.spotify.com/track/6VZXWzF7azvl34woacKiKw) | [Freddie Boi](https://open.spotify.com/artist/1yKUtH3rCYmaVF6qUDHja6), [NAM](https://open.spotify.com/artist/7IWjFF0ujgFCepFX56Q5eE) | [Ganado](https://open.spotify.com/album/6ie1qb0OX0nxpVp9BbypPD) | 3:00 | 2023-02-09 | 2023-02-17 |
+| [Ganado](https://open.spotify.com/track/0cjAsIL3aFgw3fIC8njX8U) | [Ijiboy](https://open.spotify.com/artist/2qCwqpQzlQTlFIIggAQS9l), [Mesiahhh](https://open.spotify.com/artist/2aB5J25RuW4OHFnr68vxtx) | [Ganado](https://open.spotify.com/album/6e9CQSJy9Qk6MsC2d7aTcg) | 2:33 | 2026-07-22 |  |
 | [Gangsters](https://open.spotify.com/track/4IjSbJiMvjp7BTZsd7l7Iv) | [Japo Vs the French Girl](https://open.spotify.com/artist/14I96EEjQFjMejE629gJZ7) | [Gangsters](https://open.spotify.com/album/21cBINSxLSK0QLjrHRBcIA) | 3:52 | 2023-06-22 | 2023-07-07 |
 | [Ganito Pala Umibig](https://open.spotify.com/track/3YSeMNkaaOqTqhmBQ709Cb) | [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [Ganito Pala Umibig](https://open.spotify.com/album/75OUoqRrl8pZAEnUTDsX95) | 3:48 | 2025-10-30 | 2025-12-04 |
 | [Ganon Ka Rin](https://open.spotify.com/track/4wUlW9EowYo3AsWEWC3ggH) | [RiNCO](https://open.spotify.com/artist/2rGkhP3biKlQPxW2rKaXlm) | [Ganon Ka Rin](https://open.spotify.com/album/6ASC37RdHEts9XBICT9FgF) | 2:34 | 2025-09-04 | 2025-11-21 |
@@ -1567,6 +1571,7 @@
 | [I Just Wanna Be Alright](https://open.spotify.com/track/0Hhc9pLmYx7ybUM6QzMHSG) | [Yhuan](https://open.spotify.com/artist/3Dw1lH0mmEb3kx6qJXEN53) | [I Just Wanna Be Alright](https://open.spotify.com/album/3G27KwUCxItEtdFPS2kKJI) | 3:47 | 2023-10-12 | 2023-11-11 |
 | [I Just Wanna Feel Love](https://open.spotify.com/track/74gU2IKfISA4t2xf97MnKt) | [Amika Priya](https://open.spotify.com/artist/3rN4T86zB1Oz3MKG7nXN9U) | [I Just Wanna Feel Love](https://open.spotify.com/album/1oFK4yvEdVF5gcBhcpgBsK) | 3:22 | 2023-07-13 | 2023-08-04 |
 | [I Keep On Falling](https://open.spotify.com/track/532xPW45YaF5xh0kwp7cN7) | [Pixiedaze](https://open.spotify.com/artist/0sSxjyICFh5XsCy9d9V6xy) | [I Keep On Falling](https://open.spotify.com/album/6us7H07riqiVS9xDW8xw7V) | 3:44 | 2025-06-26 | 2025-09-19 |
+| [I Kiss You Deeply](https://open.spotify.com/track/35FWhpYscb7zwm2mSBEc3o) | [Ian Penn](https://open.spotify.com/artist/29P62aSu5Xspo08JqiyX3F) | [I Kiss You Deeply](https://open.spotify.com/album/7lwkCklu3g8lNNmYYZ5LER) | 3:35 | 2026-07-22 |  |
 | [I Know](https://open.spotify.com/track/5VOGkM11JTrO8mlFFIFJfv) | [Stinson](https://open.spotify.com/artist/5heQJQjyB6zbpi6NhzuLtW) | [I Know](https://open.spotify.com/album/7DzAFxgOokg9uych5uKbNP) | 3:05 | 2023-07-06 | 2023-07-21 |
 | [I KNOW](https://open.spotify.com/track/6VpWGBen761yjhzpNWO2UX) | [Trap Q](https://open.spotify.com/artist/1wVL9AFdcdszRUTAd8xAzY) | [I KNOW](https://open.spotify.com/album/0f0XzUliXISvEM7UtMZHJ1) | 3:23 | 2025-11-13 | 2026-02-06 |
 | [I Know Maria](https://open.spotify.com/track/0I95cjhMyc9hZTJEC0nwUd) | [Sunday Mercado](https://open.spotify.com/artist/6YWsDScAS2rCTABuMQcMOe) | [Pulang Distrito](https://open.spotify.com/album/1cgmNrO9uIvayxcyBbokDp) | 3:16 | 2025-11-20 | 2026-02-06 |
@@ -2063,6 +2068,7 @@
 | [LIGHTS CAMERA ACTION](https://open.spotify.com/track/7vAGHRiCiPMQTofr8RIWzS) | [sanopoppa](https://open.spotify.com/artist/3qhcJVDhrlWf6K0r5UA6qd), [StopBeingSoSillyMilly](https://open.spotify.com/artist/0TFyv3tPaLHaE3miASDero) | [LIGHTS CAMERA ACTION](https://open.spotify.com/album/3duilug8tj1LHwKxYfIAy2) | 2:42 | 2026-02-05 | 2026-05-07 |
 | [Lights Come Down](https://open.spotify.com/track/2osHHo5EXhgUNatoptEcyg) | [Alfred Jasper](https://open.spotify.com/artist/0hVGrTglkRDhYto5PE3kXV) | [Lights Come Down](https://open.spotify.com/album/4M4MinLAKObNvPuL04UWw0) | 2:57 | 2022-04-14 | 2022-04-22 |
 | [LIGHTS OFF](https://open.spotify.com/track/1QwRxEhpayRwmkaVsOr1WN) | [Jeruu](https://open.spotify.com/artist/2J7GWtqNamdQUN5vgB4TVb) | [LIGHTS OFF](https://open.spotify.com/album/4vMyyWigkJDJXqO5YyF8Tk) | 3:06 | 2025-07-17 | 2025-09-26 |
+| [Ligtas](https://open.spotify.com/track/5LIRD5iiSXAXsUxoiVc0kd) | [Maropok](https://open.spotify.com/artist/7zR09LIFOL2rpfGfW4iYCA) | [Ligtas](https://open.spotify.com/album/7kr692jNbooLGACxzRp8w9) | 4:47 | 2026-07-22 |  |
 | [Ligtas](https://open.spotify.com/track/6c2KsvTX9k7bEOKSP7GVrV) | [Torch Family Music](https://open.spotify.com/artist/7uXEC6VJLXhLDb3oZ5MTfw) | [Ligtas](https://open.spotify.com/album/5AFt9Um6ybLcQ42fAqYlZc) | 4:26 | 2025-01-31 | 2025-03-21 |
 | [Liham](https://open.spotify.com/track/5X95QhVjnVze08XVnjbKQA) | [Ayip](https://open.spotify.com/artist/5hvJjbF0h7vQRvZ47Ll1zP) | [Liham](https://open.spotify.com/album/4xBhxQonHNeWaI8uyEcB5W) | 3:06 | 2022-07-28 | 2022-09-23 |
 | [LIHAM](https://open.spotify.com/track/052TjOn3gOFXYsRroele3u) | [Marq Aljo](https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj) | [LIHAM](https://open.spotify.com/album/3xDCQRLv3fwoUB9gEsPLVx) | 2:58 | 2023-10-12 | 2023-11-11 |
@@ -3591,6 +3597,7 @@
 | [taking you](https://open.spotify.com/track/4qFiYwbukL3is6peFBnjzH) | [ANDREA FERN](https://open.spotify.com/artist/5hUfhQeRhwuqb7yVkdcLEx) | [taking you](https://open.spotify.com/album/7pVZN17R42ZRI2bqtM7nW2) | 3:33 | 2025-03-27 | 2025-05-23 |
 | [Takipsilim](https://open.spotify.com/track/4MwmmWSbTLchr7mkOqpCai) | [DiCE](https://open.spotify.com/artist/22eghEGKE9MXLe333loGTK) | [Echoheart](https://open.spotify.com/album/1RTUlcXFBzyzJq2rOevuAt) | 3:24 | 2026-01-29 | 2026-03-20 |
 | [Takipsilim](https://open.spotify.com/track/34XyKY5E1PdDzLB0e9yf8u) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Takipsilim](https://open.spotify.com/album/4BHBebfIgNOkvEe5f95FZX) | 4:24 | 2024-04-11 | 2024-06-01 |
+| [TAKIS](https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [TAKIS](https://open.spotify.com/album/7gKzeZUuIW2aKU95TWqWe1) | 2:45 | 2026-07-22 |  |
 | [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-14 | 2023-10-06 |
 | [Talk \(To the Girl\)](https://open.spotify.com/track/1hS1cgmwCWuaTCq7iXsFA2) | [Ventura](https://open.spotify.com/artist/5VGXRx8itEcICtHlmeeqZR) | [Do You Even \(See Me\)](https://open.spotify.com/album/62C4dBzp3yNPRabzcpRDyj) | 2:16 | 2025-05-30 | 2025-07-25 |
 | [Talking Stage](https://open.spotify.com/track/6RpytkFVo42wKQ40wjbhlH) | [Kyla Michi](https://open.spotify.com/artist/3Cff0W3YdKeDMRpPAfTalx) | [Talking Stage](https://open.spotify.com/album/55aR1ptgXSn4IEV2GoaxFh) | 4:42 | 2024-08-01 | 2025-01-17 |

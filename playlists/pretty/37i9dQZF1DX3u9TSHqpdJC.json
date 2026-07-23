@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Mercer Artwork by Paola Saliby",
-  "num_followers": 242222,
+  "num_followers": 242241,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA6LbXI2Tc84x56iLsJkMukdDm1i",
+  "snapshot_id": "AAAAAB4M1iqGz0GeN4BKuM5H7ST867Sn",
   "tracks": [
     {
       "added_at": "2026-07-15 04:00:28",
@@ -23,6 +23,150 @@
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "Shit Kicker",
+        "url": "https://open.spotify.com/album/2b2kasSXoYzTXYp9NuiDdE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Frost",
+          "url": "https://open.spotify.com/artist/68rOPXerz0MYCpK05DYWjo"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "Shit Kicker",
+      "url": "https://open.spotify.com/track/1fz5t0Oge6VBwnzCo7fAlk"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "CRAVING CONNECTION !!!",
+        "url": "https://open.spotify.com/album/3pNGHDlwF18dCw0WPAckYZ"
+      },
+      "artists": [
+        {
+          "name": "Isabel",
+          "url": "https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN"
+        }
+      ],
+      "duration_ms": 194294,
+      "name": "CRAVING CONNECTION !!!",
+      "url": "https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "NINE-ONE-ONE",
+        "url": "https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6"
+      },
+      "artists": [
+        {
+          "name": "insha",
+          "url": "https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9"
+        }
+      ],
+      "duration_ms": 101172,
+      "name": "NINE-ONE-ONE",
+      "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "Taken",
+        "url": "https://open.spotify.com/album/59K9Tku4soM5WKE0cH3bsR"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hintze",
+          "url": "https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH"
+        }
+      ],
+      "duration_ms": 142741,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/4eKdz79wkQxSlHdah7X13S"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "The Eye",
+        "url": "https://open.spotify.com/album/6LafjcWQmmGVOXWhSD0hh3"
+      },
+      "artists": [
+        {
+          "name": "Salty",
+          "url": "https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD"
+        }
+      ],
+      "duration_ms": 179558,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/4Bn6ZWVHsquZIgauEe74cs"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "further from you",
+        "url": "https://open.spotify.com/album/09XfupZsiklci63jsFiYr4"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "duration_ms": 243144,
+      "name": "further from you",
+      "url": "https://open.spotify.com/track/6CKWUJEPPWArK8a73FusqF"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/6xibxT71j595mgwTr3FASn"
+      },
+      "artists": [
+        {
+          "name": "oktehya",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "duration_ms": 124309,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/5rylK4OzVZA4Se5TM997rb"
+    },
+    {
+      "added_at": "2026-07-22 04:00:22",
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/69g6I12DCHSqAFU18CoXrV"
+      },
+      "artists": [
+        {
+          "name": "Hannah-Morgan",
+          "url": "https://open.spotify.com/artist/7CnLDFv2r1kVrF42nTZV51"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Eat",
+      "url": "https://open.spotify.com/track/40kCK0g07iM65DGFaMb6Cv"
     },
     {
       "added_at": "2026-07-08 04:00:12",
@@ -601,102 +745,6 @@
       "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
     },
     {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "CRYING IS A GIRL'S BEST FRIEND",
-        "url": "https://open.spotify.com/album/5N5C3BDmi0MBKrzQWLEPFv"
-      },
-      "artists": [
-        {
-          "name": "RAEGAN",
-          "url": "https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz"
-        }
-      ],
-      "duration_ms": 138855,
-      "name": "CRYING IS A GIRL'S BEST FRIEND",
-      "url": "https://open.spotify.com/track/7x0UBBaRHCCg7Xzx1XJqeG"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/2wr4CUba7Uv0hM5WdwbQIW"
-      },
-      "artists": [
-        {
-          "name": "Ava Claire",
-          "url": "https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/7uWdf0IRjNNU7IfbaGXia6"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "CAIRO (I Like That...)",
-        "url": "https://open.spotify.com/album/3VfIOszi5DLjrPoMz61Atw"
-      },
-      "artists": [
-        {
-          "name": "Babe America",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 195471,
-      "name": "CAIRO (I Like That...)",
-      "url": "https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "prom king",
-        "url": "https://open.spotify.com/album/59zlzo8waDYHUzNfMCONqS"
-      },
-      "artists": [
-        {
-          "name": "Kiki Kramer",
-          "url": "https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL"
-        }
-      ],
-      "duration_ms": 250308,
-      "name": "prom king",
-      "url": "https://open.spotify.com/track/3v5vLLV5ThebrEbLQXyim7"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "catch//release",
-        "url": "https://open.spotify.com/album/12pX3EXutVLaxvG3WocoZM"
-      },
-      "artists": [
-        {
-          "name": "oktehya",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 136843,
-      "name": "catch//release",
-      "url": "https://open.spotify.com/track/67BMD9neEgHI68CpuOCoyO"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "magic",
-        "url": "https://open.spotify.com/album/4P0lcfRd6RqpGk33mIEOY3"
-      },
-      "artists": [
-        {
-          "name": "Cosette",
-          "url": "https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf"
-        }
-      ],
-      "duration_ms": 170381,
-      "name": "magic",
-      "url": "https://open.spotify.com/track/6lKfOVXCnxouZjkz95gq52"
-    },
-    {
       "added_at": "2026-06-10 04:00:26",
       "album": {
         "name": "Heartache Made Me A Killer",
@@ -711,22 +759,6 @@
       "duration_ms": 184726,
       "name": "Heartache Made Me A Killer",
       "url": "https://open.spotify.com/track/0xMb6R3pzOzaFPrmAIHsUZ"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "the train where the time slows (deluxe)",
-        "url": "https://open.spotify.com/album/7By4XMbKKHqDfqDeYpdnzQ"
-      },
-      "artists": [
-        {
-          "name": "Ben Ellis",
-          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
-        }
-      ],
-      "duration_ms": 200021,
-      "name": "move, honey",
-      "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
     },
     {
       "added_at": "2026-06-10 04:00:26",
@@ -807,22 +839,6 @@
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "Never Be Friends",
-        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 179189,
-      "name": "Never Be Friends",
-      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
     },
     {
       "added_at": "2026-05-20 04:00:06",

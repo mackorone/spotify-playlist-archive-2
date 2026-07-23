@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Kasane]. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Iann Penn]. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 329334,
       "name": "'Di Mabanggit",
       "url": "https://open.spotify.com/track/6hM6yA5EKF8ZEzZ7Ddht0v"
+    },
+    {
+      "album": {
+        "name": "'Di Mapigilan",
+        "url": "https://open.spotify.com/album/2KCOZuCAX7T3pv0n3CCoN0"
+      },
+      "artists": [
+        {
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/2eig3YdFRFpCuUzjUYnFtE"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "'Di Mapigilan",
+      "url": "https://open.spotify.com/track/3bDP1usy7ad1jaH4nhct43"
     },
     {
       "album": {
@@ -9385,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "Biggest Critic",
+        "url": "https://open.spotify.com/album/3DHRwOgqD1G2lpzNiXrLLE"
+      },
+      "artists": [
+        {
+          "name": "Rafi",
+          "url": "https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Biggest Critic",
+      "url": "https://open.spotify.com/track/2M3GCRCIOh6s1K0pagulso"
+    },
+    {
+      "album": {
         "name": "BIGLA",
         "url": "https://open.spotify.com/album/0cqorulK18WZlIwyRdfNew"
       },
@@ -15916,6 +15952,24 @@
       "duration_ms": 206565,
       "name": "Delikado",
       "url": "https://open.spotify.com/track/5tFbhH1EcG90wiqMOywYJE"
+    },
+    {
+      "album": {
+        "name": "Delikado",
+        "url": "https://open.spotify.com/album/67MgYExrsnq9DMi9Q6lMPc"
+      },
+      "artists": [
+        {
+          "name": "The Nomads",
+          "url": "https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Delikado",
+      "url": "https://open.spotify.com/track/7DLY0iWhYVKTuXewK8oNCY"
     },
     {
       "album": {
@@ -23251,6 +23305,28 @@
     },
     {
       "album": {
+        "name": "Ganado",
+        "url": "https://open.spotify.com/album/6e9CQSJy9Qk6MsC2d7aTcg"
+      },
+      "artists": [
+        {
+          "name": "Ijiboy",
+          "url": "https://open.spotify.com/artist/2qCwqpQzlQTlFIIggAQS9l"
+        },
+        {
+          "name": "Mesiahhh",
+          "url": "https://open.spotify.com/artist/2aB5J25RuW4OHFnr68vxtx"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Ganado",
+      "url": "https://open.spotify.com/track/0cjAsIL3aFgw3fIC8njX8U"
+    },
+    {
+      "album": {
         "name": "Gangsters",
         "url": "https://open.spotify.com/album/21cBINSxLSK0QLjrHRBcIA"
       },
@@ -29900,6 +29976,24 @@
       "duration_ms": 224848,
       "name": "I Keep On Falling",
       "url": "https://open.spotify.com/track/532xPW45YaF5xh0kwp7cN7"
+    },
+    {
+      "album": {
+        "name": "I Kiss You Deeply",
+        "url": "https://open.spotify.com/album/7lwkCklu3g8lNNmYYZ5LER"
+      },
+      "artists": [
+        {
+          "name": "Ian Penn",
+          "url": "https://open.spotify.com/artist/29P62aSu5Xspo08JqiyX3F"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215505,
+      "name": "I Kiss You Deeply",
+      "url": "https://open.spotify.com/track/35FWhpYscb7zwm2mSBEc3o"
     },
     {
       "album": {
@@ -39220,6 +39314,24 @@
       "duration_ms": 186240,
       "name": "LIGHTS OFF",
       "url": "https://open.spotify.com/track/1QwRxEhpayRwmkaVsOr1WN"
+    },
+    {
+      "album": {
+        "name": "Ligtas",
+        "url": "https://open.spotify.com/album/7kr692jNbooLGACxzRp8w9"
+      },
+      "artists": [
+        {
+          "name": "Maropok",
+          "url": "https://open.spotify.com/artist/7zR09LIFOL2rpfGfW4iYCA"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "Ligtas",
+      "url": "https://open.spotify.com/track/5LIRD5iiSXAXsUxoiVc0kd"
     },
     {
       "album": {
@@ -68584,6 +68696,24 @@
       "duration_ms": 264461,
       "name": "Takipsilim",
       "url": "https://open.spotify.com/track/34XyKY5E1PdDzLB0e9yf8u"
+    },
+    {
+      "album": {
+        "name": "TAKIS",
+        "url": "https://open.spotify.com/album/7gKzeZUuIW2aKU95TWqWe1"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "TAKIS",
+      "url": "https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Bonnie Loo. Artwork: Isu Kim.",
-  "num_followers": 7056,
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: justseow. Artwork: Isu Kim.",
+  "num_followers": 7057,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEstdTLYjYRF1vOKgqBRrMlSNNXh",
+  "snapshot_id": "AAAAAIk6SMubasj+Ri6y8yqrlrovvbeY",
   "tracks": [
+    {
+      "added_at": "2026-07-22 05:00:27",
+      "album": {
+        "name": "Hate That I Miss You",
+        "url": "https://open.spotify.com/album/3quyJza5oICfxrt2ooYcNt"
+      },
+      "artists": [
+        {
+          "name": "justseow",
+          "url": "https://open.spotify.com/artist/0hDAO7mJrK3VSdatUp1kQL"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Hate That I Miss You",
+      "url": "https://open.spotify.com/track/2ajRD6O9yfql10QFJuxPfy"
+    },
     {
       "added_at": "2026-07-15 08:21:03",
       "album": {
@@ -539,22 +555,6 @@
       "duration_ms": 203283,
       "name": "\u8aaa\u611b\u6211, \u9084\u9a19\u6211",
       "url": "https://open.spotify.com/track/6ghC8d3QsiiBCRXFdkcQgA"
-    },
-    {
-      "added_at": "2026-07-15 08:21:03",
-      "album": {
-        "name": "STOMACH",
-        "url": "https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU"
-      },
-      "artists": [
-        {
-          "name": "ALICIA DC",
-          "url": "https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E"
-        }
-      ],
-      "duration_ms": 75000,
-      "name": "STOMACH",
-      "url": "https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3"
     },
     {
       "added_at": "2026-07-15 08:21:03",

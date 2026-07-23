@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1640,
+  "num_followers": 1638,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAADYCCQkCkL48n0TnKLa07Nx",
+  "snapshot_id": "al62gAAAAAAHvwjHz865m1mQjYUwJikc",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 246095,
-      "name": "Bite The Bait",
-      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
+      "duration_ms": 223921,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 223921,
-      "name": "Ladida",
-      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
+      "duration_ms": 246095,
+      "name": "Bite The Bait",
+      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Sidiooo, Vol. 1",
+        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 119443,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Sidiooo, Vol. 1",
-        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 119443,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 156239,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 210266,
       "name": "Losing",
       "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 156239,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,543 likes - 49 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,557 likes - 49 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 13 | [Você Não Pode Desistir \- Ao Vivo](https://open.spotify.com/track/2M52qkTAmA3MGIP7ueLaf1) | [Rodrigo Torres](https://open.spotify.com/artist/7d39sb27yeZFIV3QhEjaQ9) | [Você Não Pode Desistir \(Ao Vivo\)](https://open.spotify.com/album/1njT7tJrm826HjB7Sp8Kp0) | 5:10 |
 | 14 | [Quando Eu Chorar \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/3LVTeLAt7slnynhZNfpbAl) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Quando Eu Chorar \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/7GCRwUbjXCDF4W8fxZ6PFf) | 4:20 |
 | 15 | [Raboni \(Ao Vivo\)](https://open.spotify.com/track/3lkFEoN0xf5pRWMeo9UckB) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Raboni \(Ao Vivo\)](https://open.spotify.com/album/7bvYMqRJZaMsIlJPTWWVZc) | 4:38 |
-| 16 | [Meu Melhor Amigo](https://open.spotify.com/track/2BVWVNNY8FrPgN4pBpFfnJ) | [GoYoung](https://open.spotify.com/artist/0xK2vUsdSDZsxmu7cRCSU7), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Joaquim](https://open.spotify.com/artist/2PmFY2iPAeKzb8TZja9mN8), [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Meu Melhor Amigo](https://open.spotify.com/album/4IUbKRzLiP37bJhYIflNHI) | 12:48 |
+| 16 | [Meu Melhor Amigo](https://open.spotify.com/track/2BVWVNNY8FrPgN4pBpFfnJ) | [GoYoung](https://open.spotify.com/artist/0xK2vUsdSDZsxmu7cRCSU7), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Joaquim de José](https://open.spotify.com/artist/6B4hGHNKYDLhImyCoSSfAP), [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Meu Melhor Amigo](https://open.spotify.com/album/4IUbKRzLiP37bJhYIflNHI) | 12:48 |
 | 17 | [E Se Deus Disser Não? \- Ao Vivo](https://open.spotify.com/track/4lbMjNGgc5BxgBUirrI4br) | [Abraão Alencar](https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [E Se Deus Disser Não? \(Ao Vivo\)](https://open.spotify.com/album/6RhXgd8XLN8GrDUOdwu1sd) | 5:08 |
 | 18 | [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/0tIeWlRo1s3R2R83GLzXN3) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Os Sonhos de Deus \(Ao Vivo\)](https://open.spotify.com/album/6ixU3Qh1Lob6kEI02SeGQM) | 5:22 |
 | 19 | [Salva\-me, ó Deus](https://open.spotify.com/track/3GvweYWA2GjqPXdXbh31ot) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67) | [Salva\-me, ó Deus](https://open.spotify.com/album/4rwgrmh2mqhsHCJNBBkNDa) | 5:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: STEAK N' CO. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TACE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1MApKORs0FVvRdByK9FEzK"
+      },
+      "artists": [
+        {
+          "name": "TIMER",
+          "url": "https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5bZKnOnbEvGowHt7JVpEDJ"
+    },
+    {
+      "album": {
         "name": "Expire",
         "url": "https://open.spotify.com/album/4tzE6Gv1L50X43CJ3PmNY2"
       },
@@ -3468,6 +3486,24 @@
       "duration_ms": 205500,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o"
+    },
+    {
+      "album": {
+        "name": "Gimme A Rest",
+        "url": "https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm"
+      },
+      "artists": [
+        {
+          "name": "J\u016bji",
+          "url": "https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Gimme A Rest",
+      "url": "https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q"
     },
     {
       "album": {
@@ -5611,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Make Friends",
+        "url": "https://open.spotify.com/album/13gcdIvcdQJZmx6Vjnc9Qe"
+      },
+      "artists": [
+        {
+          "name": "Pawitt",
+          "url": "https://open.spotify.com/artist/74SBxmdiDYl2tNbxmQg7VM"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192023,
+      "name": "Make Friends",
+      "url": "https://open.spotify.com/track/2VeKVJp976fNTlrTREbJqa"
+    },
+    {
+      "album": {
         "name": "Marry & After",
         "url": "https://open.spotify.com/album/3UJyr5Lc8jallseQVHkHaO"
       },
@@ -5644,6 +5698,24 @@
       "duration_ms": 204600,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/5TEOHM6063mG2Woy35Nkmj"
+    },
+    {
+      "album": {
+        "name": "Mask On",
+        "url": "https://open.spotify.com/album/7oQaXMuUb5klXybeER7LKg"
+      },
+      "artists": [
+        {
+          "name": "TACE",
+          "url": "https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Mask On",
+      "url": "https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8"
     },
     {
       "album": {
@@ -19228,7 +19300,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 333176,
       "name": "\u0e14\u0e34\u0e48\u0e07 (Deep)",
       "url": "https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK"
@@ -20023,6 +20095,24 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01=\u0e09\u0e31\u0e19 (option)",
+        "url": "https://open.spotify.com/album/6fh9X8CF25ja1PS6Zhvt3Q"
+      },
+      "artists": [
+        {
+          "name": "MOFO",
+          "url": "https://open.spotify.com/artist/62bRgpDlI2vIiK5AUh6RKP"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230741,
+      "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01=\u0e09\u0e31\u0e19 (option)",
+      "url": "https://open.spotify.com/track/3foSLRZfeWObI1yiH6fb9x"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (Last Choice)",
         "url": "https://open.spotify.com/album/0mZlDGb5dCV9axABSxcUfs"
       },
@@ -20088,7 +20178,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 167804,
       "name": "\u0e15\u0e31\u0e27\u0e41\u0e1b\u0e23\u0e15\u0e49\u0e19 = [U]",
       "url": "https://open.spotify.com/track/0LauDR14e60cNowItL4WEF"
@@ -27954,7 +28044,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 200307,
       "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/4bVZKg1RgYqNzOZGOvxL6k"
@@ -28026,7 +28116,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 307272,
       "name": "\u0e22\u0e31\u0e07\u0e08\u0e33\u0e44\u0e14\u0e49\u0e14\u0e35",
       "url": "https://open.spotify.com/track/2H6daeWFhnfAYoTwS769AM"
@@ -32678,7 +32768,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 248186,
       "name": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/2KMsKOuGAZZQNdUTnldl8K"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,757 songs - 6 day 0 hr 14 min
+2,758 songs - 6 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,6 +1205,7 @@
 | [Je m'habille pas en Versace](https://open.spotify.com/track/3N5cjze4WLrSsj53vFQwjP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:46 | 2024-12-07 | 2024-12-09 |
 | [Je n'ai pas que des potes](https://open.spotify.com/track/6515c0hOsfWseNRCeO1kmw) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Je n'ai pas que des potes](https://open.spotify.com/album/4Ba8KIrfUWAXAPinWjNMaT) | 3:18 | 2021-06-20 | 2021-06-27 |
 | [Je n'ai pas que des potes](https://open.spotify.com/track/70MrRXJfGbZz4D5YFLpWpm) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:18 | 2021-06-27 | 2021-07-10 |
+| [Je pense à toi](https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:52 | 2026-07-22 |  |
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-12-29 | 2025-04-13 |
 | [Je ressens rien](https://open.spotify.com/track/1UyBDxF6P4WLJphGiF9djD) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:03 | 2022-02-05 | 2022-02-13 |
 | [Je salue](https://open.spotify.com/track/16xS7ZnFOygZjMTB6YSkYP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:42 | 2024-01-20 | 2024-01-22 |
@@ -1906,7 +1907,7 @@
 | [Paris](https://open.spotify.com/track/0ApBt9e7LSkrHhJ2SZbHk2) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:16 | 2021-11-07 | 2021-11-14 |
 | [Paris](https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [RESTART](https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L) | 2:52 | 2025-11-14 |  |
 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 | 2025-04-14 | 2025-11-15 |
-| [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 | 2025-10-10 |  |
+| [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 | 2025-10-10 | 2026-07-23 |
 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 | 2025-08-02 | 2025-08-13 |
 | [PARISIENNE](https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1Pbn4jIeuwCSbcXiaVyoPf) | 2:38 | 2025-08-12 | 2025-10-11 |
 | [Parle moi](https://open.spotify.com/track/6J91jbBDyoOJHl7te7EHiN) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pleins Phares](https://open.spotify.com/album/76fQoy7EIbHkqQ2VxR86rb) | 3:03 | 2025-10-11 | 2025-11-09 |

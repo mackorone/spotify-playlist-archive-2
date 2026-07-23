@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-186 songs - 10 hr 48 min
+187 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 | 2026-06-21 |  |
 | [If I Die](https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:42 | 2026-05-31 |  |
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 | 2026-03-15 |
+| [INSTINTOS](https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas) | [REGIO](https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL) | [INSTINTOS](https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9) | 4:22 | 2026-07-22 |  |
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-05-30 |  |
 | [It Is Time](https://open.spotify.com/track/1GoRkIfs0IFKnllVoMzRJm) | [Maurice Hirschhaut](https://open.spotify.com/artist/1o8IEDCXLoJxrzVjR655un) | [It Is Time](https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T) | 2:55 | 2025-11-15 | 2026-03-15 |
 | [IYKYK](https://open.spotify.com/track/7wW7kNGVWUjFYTrBOpxl9F) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY), [Zac George](https://open.spotify.com/artist/5kRb45Iu6aafhD6UbF2344) | [ilLOOM!nate](https://open.spotify.com/album/5J09AiwM6RnQHO3SYlkjjx) | 3:00 | 2026-06-18 |  |

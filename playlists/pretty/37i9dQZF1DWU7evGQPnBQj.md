@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 
 > Go back in time with these video throwbacks\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 22 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 22 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

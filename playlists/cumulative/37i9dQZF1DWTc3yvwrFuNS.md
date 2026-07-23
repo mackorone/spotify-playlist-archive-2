@@ -4,7 +4,7 @@
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-31 songs - 1 hr 45 min
+33 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [Día de Enero \- Spotify Anniversary Version](https://open.spotify.com/track/1tXZylFuEsD84CSVvswZJD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 2:52 | 2026-05-08 |  |
 | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN) | 4:02 | 2026-05-08 |  |
 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 | 2026-05-08 |  |
+| [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/35Wr5GycVuAXWCHqRCceqz) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 2:52 | 2026-07-22 |  |
 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 | 2026-05-08 |  |
 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 | 2026-05-08 |  |
 | [I CAN TELL \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/5FpFMWxPfwPZ3lrdEV2ERj) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 3:23 | 2026-05-08 |  |
+| [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SIENNA SPIRO \- Spotify Live Room](https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg) | 4:02 | 2026-07-22 |  |
 | [La Pared \- Spotify Anniversary Version](https://open.spotify.com/track/1foAJDTHldUwI6mvmPj1D8) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 2:59 | 2026-05-08 |  |
 | [LETAL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2dcU6QzHaKgZG36mKQpzFV) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Junior H \- Spotify Live Room](https://open.spotify.com/album/5YdEBNUaKJtFfnDKtDAxVW) | 3:34 | 2026-05-08 |  |
 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 | 2026-07-13 |  |

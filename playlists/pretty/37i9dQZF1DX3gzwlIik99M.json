@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 203125,
+  "num_followers": 203102,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Nuevo Orden Mundial",
+        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Nuevo Orden Mundial",
+      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Inri",
         "url": "https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 237586,
       "name": "En la Jaula",
       "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Nuevo Orden Mundial",
-        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
-      },
-      "artists": [
-        {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Nuevo Orden Mundial",
-      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
     },
     {
       "added_at": "2025-09-18 22:01:59",

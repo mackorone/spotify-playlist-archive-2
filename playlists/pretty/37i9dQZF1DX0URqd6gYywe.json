@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 171581,
+  "num_followers": 171593,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "Rock Nacional",
-        "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 279441,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Esclavo",
         "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 158066,
       "name": "Hay Momentos",
       "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "Rock Nacional",
+        "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 279441,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
     },
     {
       "added_at": "2026-06-11 14:45:01",

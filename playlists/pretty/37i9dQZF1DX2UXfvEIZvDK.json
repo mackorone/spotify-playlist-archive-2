@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 945015,
+  "num_followers": 945082,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
         "name": "Pisces Iscariot (Deluxe)",
         "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 208213,
       "name": "Way down We Go - Stripped",
       "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2026-04-24 04:01:49",

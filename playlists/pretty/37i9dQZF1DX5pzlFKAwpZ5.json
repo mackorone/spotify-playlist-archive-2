@@ -1,6 +1,6 @@
 {
   "description": "The calming space of Japanese Ambient and Environmental music. ",
-  "num_followers": 170305,
+  "num_followers": 170381,
   "original_name": "Ambient Japan",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "Iyo No Hito",
+        "url": "https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 374318,
+      "name": "Iyo No Hito",
+      "url": "https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "Radio Yugawara",
         "url": "https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 213000,
       "name": "Strange Clouds",
       "url": "https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "Iyo No Hito",
-        "url": "https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 374318,
-      "name": "Iyo No Hito",
-      "url": "https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Life After Life",
-        "url": "https://open.spotify.com/album/7FCjw9Fl0Mlrsrx9yzasaJ"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 232300,
-      "name": "Hoshi no Jikan",
-      "url": "https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "DANZINDAN-POJIDON (New Master Edition)",
         "url": "https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 258826,
       "name": "WASSER",
       "url": "https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Life After Life",
+        "url": "https://open.spotify.com/album/7FCjw9Fl0Mlrsrx9yzasaJ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 232300,
+      "name": "Hoshi no Jikan",
+      "url": "https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "BLUR",
-        "url": "https://open.spotify.com/album/105aiznYDd8TlZ3p2s1IqA"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "BLUR",
-      "url": "https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Purple Sunshine",
         "url": "https://open.spotify.com/album/5NDODsJUEfw0SKxoNbbKuv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 517427,
       "name": "Purple Sunshine",
       "url": "https://open.spotify.com/track/0bNgicoJDD9CZagB9FH5fL"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "BLUR",
+        "url": "https://open.spotify.com/album/105aiznYDd8TlZ3p2s1IqA"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "BLUR",
+      "url": "https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "I Follow a Barren Path Across the Old Mountain",
         "url": "https://open.spotify.com/album/5hS7idTRSq4lzWvAzL2OWf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 348166,
       "name": "I Follow a Barren Path Across the Old Mountain",
       "url": "https://open.spotify.com/track/5HjWFzDitkQMH7MLg1YAut"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "Still Water",
+        "url": "https://open.spotify.com/album/5tkzME9xg15CNkLXXhuUIs"
+      },
+      "artists": [
+        {
+          "name": "Takuro Okada",
+          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+        }
+      ],
+      "duration_ms": 198848,
+      "name": "Still Water",
+      "url": "https://open.spotify.com/track/1bIW4vG9WyPDtT2EjYwz42"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
       },
@@ -907,6 +923,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "Ukatu",
+        "url": "https://open.spotify.com/album/0q439Ua2fXGsQj3ysOX0p1"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 153499,
+      "name": "orei",
+      "url": "https://open.spotify.com/track/2jq6SDNBxog4cBkAeElVjd"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "Nagi / \u51ea",
         "url": "https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN"
       },
@@ -923,22 +955,6 @@
       "duration_ms": 297576,
       "name": "Nagi / \u51ea",
       "url": "https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "Ukatu",
-        "url": "https://open.spotify.com/album/0q439Ua2fXGsQj3ysOX0p1"
-      },
-      "artists": [
-        {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
-        }
-      ],
-      "duration_ms": 153499,
-      "name": "orei",
-      "url": "https://open.spotify.com/track/2jq6SDNBxog4cBkAeElVjd"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Memoride 2",
-        "url": "https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz"
-      },
-      "artists": [
-        {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
-        }
-      ],
-      "duration_ms": 98595,
-      "name": "Toki",
-      "url": "https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "memories of younger days (that never existed)",
         "url": "https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "Memoride 2",
+        "url": "https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "duration_ms": 98595,
+      "name": "Toki",
+      "url": "https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "\u9e7f\u306e\u56fd\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/46XuuEnSzH2DtKOPaYWYZM"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 224298,
       "name": "vi (almost equal to) ix",
       "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "Still Water",
-        "url": "https://open.spotify.com/album/5tkzME9xg15CNkLXXhuUIs"
-      },
-      "artists": [
-        {
-          "name": "Takuro Okada",
-          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
-        }
-      ],
-      "duration_ms": 198848,
-      "name": "Still Water",
-      "url": "https://open.spotify.com/track/1bIW4vG9WyPDtT2EjYwz42"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "The Mountain I See",
+        "url": "https://open.spotify.com/album/4rQ9LbF8o5HRNlRRAuMEzN"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "duration_ms": 289966,
+      "name": "You within me",
+      "url": "https://open.spotify.com/track/5m4eFtSwBy5nmHkYpRVpyX"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "Uprise",
         "url": "https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2"
       },
@@ -1139,22 +1163,6 @@
       "duration_ms": 495583,
       "name": "Uprise",
       "url": "https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
-      },
-      "artists": [
-        {
-          "name": "Yumiko Morioka",
-          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
-        }
-      ],
-      "duration_ms": 321941,
-      "name": "\u9280\u306e\u8239",
-      "url": "https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1175,18 +1183,18 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "LICHT",
-        "url": "https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM"
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
       },
       "artists": [
         {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
         }
       ],
-      "duration_ms": 202077,
-      "name": "LICHT",
-      "url": "https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV"
+      "duration_ms": 321941,
+      "name": "\u9280\u306e\u8239",
+      "url": "https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1223,22 +1231,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "KLAMAUK",
-        "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
-      },
-      "artists": [
-        {
-          "name": "Takeshi Kurihara",
-          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
-        }
-      ],
-      "duration_ms": 427370,
-      "name": "Second Harvest",
-      "url": "https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Hikari no kaikou",
         "url": "https://open.spotify.com/album/4wiqics4KOw3tjxMwH8ahU"
       },
@@ -1259,18 +1251,18 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "\u3072\u304b\u308a\u306e\u4e16\u754c",
-        "url": "https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN"
+        "name": "KLAMAUK",
+        "url": "https://open.spotify.com/album/3H6tjwSunpKqPMug5RSLcb"
       },
       "artists": [
         {
-          "name": "GOMA",
-          "url": "https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg"
+          "name": "Takeshi Kurihara",
+          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
         }
       ],
-      "duration_ms": 1212671,
-      "name": "\u5185\u89b3",
-      "url": "https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI"
+      "duration_ms": 427370,
+      "name": "Second Harvest",
+      "url": "https://open.spotify.com/track/2To5sfZUDbK9xlbHT9weRX"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1287,6 +1279,22 @@
       "duration_ms": 266973,
       "name": "ORIGIN OF HUM",
       "url": "https://open.spotify.com/track/3dhASweBAUqoalCaROi97S"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "\u3072\u304b\u308a\u306e\u4e16\u754c",
+        "url": "https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN"
+      },
+      "artists": [
+        {
+          "name": "GOMA",
+          "url": "https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg"
+        }
+      ],
+      "duration_ms": 1212671,
+      "name": "\u5185\u89b3",
+      "url": "https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1355,22 +1363,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Planetary Vision / \u60d1\u661f\u306e\u30d3\u30b8\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/1K3cMdPAW2O4r7a8MzvtHd"
-      },
-      "artists": [
-        {
-          "name": "nubo",
-          "url": "https://open.spotify.com/artist/0RtoXCR1PcmkcM2iZ3d8L6"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Esperanza / \u5e0c\u671b",
-      "url": "https://open.spotify.com/track/1DzMkx08Zq6aDDhsRDVnPb"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY"
       },
@@ -1387,18 +1379,18 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Pierrepont",
-        "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
+        "name": "Planetary Vision / \u60d1\u661f\u306e\u30d3\u30b8\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1K3cMdPAW2O4r7a8MzvtHd"
       },
       "artists": [
         {
-          "name": "Shuta Hasunuma",
-          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+          "name": "nubo",
+          "url": "https://open.spotify.com/artist/0RtoXCR1PcmkcM2iZ3d8L6"
         }
       ],
-      "duration_ms": 270664,
-      "name": "Pierrepont",
-      "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
+      "duration_ms": 235160,
+      "name": "Esperanza / \u5e0c\u671b",
+      "url": "https://open.spotify.com/track/1DzMkx08Zq6aDDhsRDVnPb"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1419,6 +1411,22 @@
       "duration_ms": 303456,
       "name": "\u5149\u306e\u5875",
       "url": "https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Pierrepont",
+        "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Pierrepont",
+      "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1459,6 +1467,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "Kimi",
+        "url": "https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 153499,
+      "name": "honnkakuha",
+      "url": "https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "The Monster Which Makes Dawn",
         "url": "https://open.spotify.com/album/3uL0XVMCKaC7g5szl8M83A"
       },
@@ -1479,22 +1503,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Kimi",
-        "url": "https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX"
-      },
-      "artists": [
-        {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
-        }
-      ],
-      "duration_ms": 153499,
-      "name": "honnkakuha",
-      "url": "https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Still Way (Wave Notation 2)",
         "url": "https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg"
       },
@@ -1507,22 +1515,6 @@
       "duration_ms": 515493,
       "name": "Still Sky",
       "url": "https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "On the Motion of Fortune",
-        "url": "https://open.spotify.com/album/5ZuAyNPLSVwjUHKaOoD7JZ"
-      },
-      "artists": [
-        {
-          "name": "Exportion",
-          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
-        }
-      ],
-      "duration_ms": 426693,
-      "name": "The Breath That Precedes Light",
-      "url": "https://open.spotify.com/track/5I9csQLzfT16RQUYRr8Xr5"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1543,22 +1535,18 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Life Of Blessing",
-        "url": "https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB"
+        "name": "On the Motion of Fortune",
+        "url": "https://open.spotify.com/album/5ZuAyNPLSVwjUHKaOoD7JZ"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        },
-        {
-          "name": "\u4e95\u53e3 \u5bdb",
-          "url": "https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt"
+          "name": "Exportion",
+          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
         }
       ],
-      "duration_ms": 121374,
-      "name": "Life Of Blessing",
-      "url": "https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh"
+      "duration_ms": 426693,
+      "name": "The Breath That Precedes Light",
+      "url": "https://open.spotify.com/track/5I9csQLzfT16RQUYRr8Xr5"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1591,6 +1579,26 @@
       "duration_ms": 348373,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/7l8yPCXB66bLXVSBEjqWtO"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Life Of Blessing",
+        "url": "https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "\u4e95\u53e3 \u5bdb",
+          "url": "https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt"
+        }
+      ],
+      "duration_ms": 121374,
+      "name": "Life Of Blessing",
+      "url": "https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1675,22 +1683,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Music for Peace and Harmony",
         "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
       },
@@ -1707,6 +1699,22 @@
       "duration_ms": 275194,
       "name": "Billowing",
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1743,22 +1751,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "World Standard II (2021 Remastered)",
-        "url": "https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D"
-      },
-      "artists": [
-        {
-          "name": "\u30ef\u30fc\u30eb\u30c9\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
-          "url": "https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI"
-        }
-      ],
-      "duration_ms": 302906,
-      "name": "Celeste = Sky Blue",
-      "url": "https://open.spotify.com/track/77AxYrrtLw02YTBZvSvota"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Oto No Wa: Selected Sounds of Japan 1988-2018",
         "url": "https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn"
       },
@@ -1771,6 +1763,22 @@
       "duration_ms": 351313,
       "name": "Sealed",
       "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "World Standard II (2021 Remastered)",
+        "url": "https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D"
+      },
+      "artists": [
+        {
+          "name": "\u30ef\u30fc\u30eb\u30c9\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9",
+          "url": "https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI"
+        }
+      ],
+      "duration_ms": 302906,
+      "name": "Celeste = Sky Blue",
+      "url": "https://open.spotify.com/track/77AxYrrtLw02YTBZvSvota"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1807,22 +1815,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "TEAM",
-        "url": "https://open.spotify.com/album/3IT0wDe6Yu4cWELJWMqRzW"
-      },
-      "artists": [
-        {
-          "name": "Shuta Hasunuma",
-          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
-        }
-      ],
-      "duration_ms": 481915,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/2Q8fiL6AW0rKMnCjOr9HTC"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "June Love",
         "url": "https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO"
       },
@@ -1839,6 +1831,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "TEAM",
+        "url": "https://open.spotify.com/album/3IT0wDe6Yu4cWELJWMqRzW"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "duration_ms": 481915,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/2Q8fiL6AW0rKMnCjOr9HTC"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "My Story, The Buraku Story (An Original Soundtrack)",
         "url": "https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP"
       },
@@ -1851,26 +1859,6 @@
       "duration_ms": 151133,
       "name": "Kokyo",
       "url": "https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "northern wind",
-        "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Hideyuki Mochizuki",
-          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
-        }
-      ],
-      "duration_ms": 179251,
-      "name": "les cinqui\u00e8me altern\u00e9es",
-      "url": "https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1907,18 +1895,38 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc\u304c\u3059\u3059\u3081\u308b\u4e0d\u5b89\u89e3\u6d88\u3001\u5b89\u7720\u30d2\u30fc\u30ea\u30f3\u30b0 \u301c\u81ea\u7136\u3068\u3064\u306a\u304c\u308b\u97f3\u697d\u301c",
-        "url": "https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17"
+        "name": "northern wind",
+        "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
       },
       "artists": [
         {
-          "name": "CROIX HEALING",
-          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
         }
       ],
-      "duration_ms": 312272,
-      "name": "\u68ee\u306e\u3056\u308f\u3081\u304d",
-      "url": "https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj"
+      "duration_ms": 179251,
+      "name": "les cinqui\u00e8me altern\u00e9es",
+      "url": "https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "duration_ms": 384905,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -1947,22 +1955,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Escapism",
-        "url": "https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE"
-      },
-      "artists": [
-        {
-          "name": "H.Takahashi",
-          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
-        }
-      ],
-      "duration_ms": 384905,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE"
       },
@@ -1975,6 +1967,22 @@
       "duration_ms": 205090,
       "name": "Planet",
       "url": "https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc\u304c\u3059\u3059\u3081\u308b\u4e0d\u5b89\u89e3\u6d88\u3001\u5b89\u7720\u30d2\u30fc\u30ea\u30f3\u30b0 \u301c\u81ea\u7136\u3068\u3064\u306a\u304c\u308b\u97f3\u697d\u301c",
+        "url": "https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17"
+      },
+      "artists": [
+        {
+          "name": "CROIX HEALING",
+          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "\u68ee\u306e\u3056\u308f\u3081\u304d",
+      "url": "https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -2039,6 +2047,22 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
+        "name": "hikari umi",
+        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "light seeing 3-3",
+      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
         "name": "727",
         "url": "https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja"
       },
@@ -2067,22 +2091,6 @@
       "duration_ms": 113213,
       "name": "shade",
       "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
-        "name": "hikari umi",
-        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "light seeing 3-3",
-      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -2167,22 +2175,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "Glow Echoes",
-        "url": "https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3"
-      },
-      "artists": [
-        {
-          "name": "Koji Ishikura",
-          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Glow Echoes",
-      "url": "https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Music for Artificial Island 1989",
         "url": "https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX"
       },
@@ -2195,6 +2187,22 @@
       "duration_ms": 447999,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "Glow Echoes",
+        "url": "https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Glow Echoes",
+      "url": "https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -2279,22 +2287,6 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "spiral energy",
-        "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "spiral energy",
-      "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
-    },
-    {
-      "added_at": "2026-07-18 07:08:26",
-      "album": {
         "name": "Dear (Haruhisa Tanaka Remix)",
         "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
       },
@@ -2315,18 +2307,18 @@
     {
       "added_at": "2026-07-18 07:08:26",
       "album": {
-        "name": "vein",
-        "url": "https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV"
+        "name": "spiral energy",
+        "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
       },
       "artists": [
         {
-          "name": "Masafumi Teruyama",
-          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
         }
       ],
-      "duration_ms": 128146,
-      "name": "vein",
-      "url": "https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo"
+      "duration_ms": 177600,
+      "name": "spiral energy",
+      "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
     },
     {
       "added_at": "2026-07-18 07:08:26",
@@ -2343,6 +2335,22 @@
       "duration_ms": 422284,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf"
+    },
+    {
+      "added_at": "2026-07-18 07:08:26",
+      "album": {
+        "name": "vein",
+        "url": "https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "duration_ms": 128146,
+      "name": "vein",
+      "url": "https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo"
     },
     {
       "added_at": "2026-07-18 07:08:26",

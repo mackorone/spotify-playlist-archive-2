@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Justin Bieber
 
-271 songs - 20 hr 31 min
+272 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Good Girl / Gone Girl \- Live from California](https://open.spotify.com/track/0GHMAVRr5oDkL2lmKK54bc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would I Still Love Me If I Really Knew Me? \(Live from California\)](https://open.spotify.com/album/0PEdTMcybaJbUFJoTY7VBb) | 3:45 | 2025-09-26 |  |
 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 | 2022-04-14 | 2025-01-18 |
 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 | 2022-04-14 | 2025-01-18 |
+| [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/track/4cywNXmDElcemNFZRcbpPW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Great Expectation \(Live\) \- Spotify Live Room](https://open.spotify.com/album/4SwLLwnz1xlfwoor3Hg9OJ) | 3:01 | 2026-07-22 |  |
 | [Greatest Love of All \- Live from That's What Friends Are For: Arista Records 15th Anniversary Concert](https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 6:50 | 2022-04-14 | 2023-08-19 |
 | [Guilty \(feat\. Barry Gibb\) \- Live Duet With Barry Gibb](https://open.spotify.com/track/2f7wiqS80eqRzDlXT8BI6G) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [One Voice](https://open.spotify.com/album/69TPOVVeA5VBEPWLrCMQ4f) | 4:32 | 2022-04-14 | 2022-07-28 |
 | [hate that i made you love me \- live from rehearsal](https://open.spotify.com/track/2pNbrMKqDaUwmCzmPr5upM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v) | 3:17 | 2026-06-26 |  |

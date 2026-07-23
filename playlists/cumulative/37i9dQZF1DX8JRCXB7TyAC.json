@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 175058,
       "name": "Petrol",
       "url": "https://open.spotify.com/track/5B60tnqylP3wRYjJvtcj5y"
@@ -3318,6 +3318,36 @@
       "duration_ms": 181764,
       "name": "Rohtak 3",
       "url": "https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z"
+    },
+    {
+      "album": {
+        "name": "Ror Royalty Of Ror",
+        "url": "https://open.spotify.com/album/4YKnDPe0kRYGy0zB4VJW1e"
+      },
+      "artists": [
+        {
+          "name": "Sumit Bandrana",
+          "url": "https://open.spotify.com/artist/4Tc2xorXELPVNveDdNbm6g"
+        },
+        {
+          "name": "Rekha Goswami",
+          "url": "https://open.spotify.com/artist/1jVoT8RHZh4P4vTvuxJntR"
+        },
+        {
+          "name": "Naseeb Siwan",
+          "url": "https://open.spotify.com/artist/4XeGn3NcpOwE7FmslsMXo3"
+        },
+        {
+          "name": "Jyoti Goswami",
+          "url": "https://open.spotify.com/artist/2J66ocei0CUfocahfP1qs7"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163779,
+      "name": "Ror Royalty Of Ror",
+      "url": "https://open.spotify.com/track/6hZQZI7wMjpWI2DwTS425h"
     },
     {
       "album": {

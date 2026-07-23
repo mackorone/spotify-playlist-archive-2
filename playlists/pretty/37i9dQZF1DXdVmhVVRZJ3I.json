@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 354893,
+  "num_followers": 354957,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-06-19 03:03:09",
       "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
-    },
-    {
-      "added_at": "2026-06-19 03:03:09",
-      "album": {
         "name": "New Memories",
         "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+    },
+    {
+      "added_at": "2026-06-19 03:03:09",
+      "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2026-06-19 03:03:09",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-06-19 03:03:09",
       "album": {
-        "name": "Pa Ca",
-        "url": "https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 185859,
-      "name": "Pa Ca",
-      "url": "https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR"
-    },
-    {
-      "added_at": "2026-06-19 03:03:09",
-      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 162090,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
+    },
+    {
+      "added_at": "2026-06-19 03:03:09",
+      "album": {
+        "name": "Pa Ca",
+        "url": "https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 185859,
+      "name": "Pa Ca",
+      "url": "https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR"
     },
     {
       "added_at": "2026-06-19 03:03:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > Champeta, afrobeats, dancehall y vallenato pa' celebrar a Lucho\. 🇨🇴
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,374 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,373 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

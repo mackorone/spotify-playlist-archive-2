@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Sing along with Moana and Maui to "How Far I'll Go," "You're Welcome" and other Disney favorites! Disney's Moana, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,128 likes - 79 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,294 likes - 79 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 78 | [Circle of Life](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) | [Carmen Twillie](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:59 |
 | 79 | [Cruella De Vil \- Soundtrack Version](https://open.spotify.com/track/0BXmWSeBL9zIazKcbvr2pb) | [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 4:47 |
 
-Snapshot ID: `AAAAAMOxl8fblUbch7Ge8ZPgY/97T/QA`
+Snapshot ID: `AAAAAHFddoeWKfRNuecrUN0xK6Rd8uXe`

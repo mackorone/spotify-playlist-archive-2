@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "\"Summer Sunsets: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/3NtITnMUeNksmPzIrjJMtP"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124720,
+      "name": "7 Fantasien, Op. 116: No. 1, Capriccio in D Minor",
+      "url": "https://open.spotify.com/track/0iETFwyIZZuaBizPqYa051"
+    },
+    {
+      "album": {
         "name": "\"Classics for Summer: Bach, Mozart & more\"",
         "url": "https://open.spotify.com/album/0ZYWUohwqnJJbUcm296O3D"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "Berceuse (Version for cello and piano)",
       "url": "https://open.spotify.com/track/5BUtgHIjkYXZFQ4Wt6FJqn"
@@ -322,7 +344,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 143360,
       "name": "Children's Corner, CD 119: I. Doctor Gradus ad Parnassum",
       "url": "https://open.spotify.com/track/0ApfjxZkgMdbuLa6ZNVJOH"
@@ -960,7 +982,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 215933,
       "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
       "url": "https://open.spotify.com/track/0S4FjVNIBHxynpe7o0SeeM"

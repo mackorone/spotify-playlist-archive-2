@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 203702,
       "name": "Jacinto Trevi\u00f1o",
       "url": "https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J"
@@ -2076,6 +2076,24 @@
       "duration_ms": 249226,
       "name": "Una Noche Serena Y Oscura",
       "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
+    },
+    {
+      "album": {
+        "name": "Una Noche Serena Y Obscura",
+        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Ya Viene Amaneciendo Aka Comprendeme",
+      "url": "https://open.spotify.com/track/0K0NM2fZ5VdNsdJTtrhEQt"
     },
     {
       "album": {

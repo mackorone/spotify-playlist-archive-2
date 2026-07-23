@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,726 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,725 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 49 | [lodowisko](https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [nareszcie w domu](https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb) | 2:24 |
 | 50 | [Nowa Kultura](https://open.spotify.com/track/1l5u5znLAXCxMimLcR6G5f) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ALESHEN II](https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ) | 2:32 |
 | 51 | [AJAJAJ](https://open.spotify.com/track/6jS5RCxEbmaj68sFKBbnN6) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kania](https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq) | [POLOT](https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR) | 2:45 |
-| 52 | [STYL POPPIN](https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe) | [AG](https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [LET'S DANCE MIXTAPE](https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6) | 2:04 |
-| 53 | [Nie Śpię](https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC) | [Shellerini](https://open.spotify.com/artist/0mGMdkeDynbGXSVd0PY8Oq), [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [Sher7ock](https://open.spotify.com/artist/3FmbA2vDCuf2XOKzSaAmXq) | [Rajzefiber](https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse) | 3:08 |
+| 52 | [Nie Śpię](https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC) | [Shellerini](https://open.spotify.com/artist/0mGMdkeDynbGXSVd0PY8Oq), [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [Sher7ock](https://open.spotify.com/artist/3FmbA2vDCuf2XOKzSaAmXq) | [Rajzefiber](https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse) | 3:08 |
+| 53 | [STYL POPPIN](https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe) | [AG](https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [LET'S DANCE MIXTAPE](https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6) | 2:04 |
 | 54 | [To nie pop \(intro\)](https://open.spotify.com/track/7Ll9a1sk3cX6w9VmjkpqsH) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [To nie pop \(intro\) / Młody Ma Plik](https://open.spotify.com/album/3vGjPsCJKSSEbZNv2eTR6K) | 2:10 |
 | 55 | [ODRODZENIE](https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [ODRODZENIE](https://open.spotify.com/album/1QspK6ZaAhtUUXu6uuABdY) | 2:39 |
 | 56 | [Samiec beta](https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV) | [Samiec beta](https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37) | 2:24 |

@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Jason\u2019s Lyric (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1z5rSJMkLJgx2P07vS9VOC"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Just Like My Papa",
+      "url": "https://open.spotify.com/track/15M2mCwZQWPXACPhyFrRkj"
+    },
+    {
+      "album": {
         "name": "Sons Of Soul",
         "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
       },

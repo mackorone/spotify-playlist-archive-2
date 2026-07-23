@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > كل الجديد من أصوات وفنانين\. الغلاف: للّا فضة
 
-[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 497 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 48 | [Love TKO](https://open.spotify.com/track/3HMfqbXxvOXdYpjXaZChNH) | [Layal](https://open.spotify.com/artist/0rxqySAJPQZJ2SJMBfTGyG) | [Love TKO](https://open.spotify.com/album/0EYqnoNrlvfObgfIO4lb0P) | 3:16 |
 | 49 | [Fe Ghayet El Sa3ada \(Feat\. Dee\)](https://open.spotify.com/track/08fciYVQySEkGxUKJCNaH0) | [Nizar Saad](https://open.spotify.com/artist/30B7ZoA7c8BS1fM7xzlLc8), [Dee](https://open.spotify.com/artist/5G4SwvjxOlSyIq6FyyIlxw) | [Mafesh Haga Btetghayar Fe3lan](https://open.spotify.com/album/6vMfXX82Yx8CiJwhhVpclS) | 3:23 |
 
-Snapshot ID: `AAAAAO61N33Xn2NJqcKIn6Yp4PLraEq8`
+Snapshot ID: `AAAAAOC94IhyzxYZ2gTnWNp/kNWNe0sp`

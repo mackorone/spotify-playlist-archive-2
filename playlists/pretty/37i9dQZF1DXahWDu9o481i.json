@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Rose Gray",
-  "num_followers": 106815,
+  "num_followers": 106811,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "MANE",
-        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
+        "name": "HAAVIN",
+        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 197260,
-      "name": "MANE",
-      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
+      "duration_ms": 150000,
+      "name": "HAAVIN",
+      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -307,18 +303,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "HAAVIN",
-        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 150000,
-      "name": "HAAVIN",
-      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "peach sand",
         "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 281869,
       "name": "peach sand",
       "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K"
+      },
+      "artists": [
+        {
+          "name": "prettifun",
+          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+        }
+      ],
+      "duration_ms": 178267,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Pink Pocket Pistol",
         "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
       },
@@ -679,18 +695,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K"
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
       "artists": [
         {
-          "name": "prettifun",
-          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 178267,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb"
+      "duration_ms": 259189,
+      "name": "Faster (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -715,22 +735,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
         }
       ],
-      "duration_ms": 259189,
-      "name": "Faster (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC"
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -763,38 +779,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 188005,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "FIRE BURNIN' THRU THE RAIN",
-        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "FIRE BURNIN' THRU THE RAIN",
-      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Violins",
         "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 250386,
       "name": "Violins",
       "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 188005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH"
     },
     {
       "added_at": "2026-07-01 04:00:22",

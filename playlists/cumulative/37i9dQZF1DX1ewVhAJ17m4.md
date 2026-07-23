@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Riley!
 
-602 songs - 1 day 6 hr 13 min
+603 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 | 2025-02-21 |  |
 | [Did It Again](https://open.spotify.com/track/4FXIE9hlvdvOkL2ftXG3d9) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Did It Again](https://open.spotify.com/album/4ht8qqsxp0kyPjKFT1ycdo) | 3:57 | 2022-07-04 | 2022-08-19 |
 | [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-09 |  |
+| [Do You Remember?](https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [As It Is](https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK) | 3:33 | 2026-07-17 |  |
 | [Don't Be Racist](https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Don't Be Racist](https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj) | 3:13 | 2022-07-18 | 2022-08-19 |
 | [Don't Cut Your Hair](https://open.spotify.com/track/4afcRSxkvKPlZDoBRwTuv7) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Don't Cut Your Hair](https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01) | 2:21 | 2023-03-10 | 2024-01-12 |
 | [Don't Do Drugs](https://open.spotify.com/track/4FuUgNKassiGR75fk4MNM1) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [Don't Do Drugs](https://open.spotify.com/album/28GgPoqiQlxes9auHiRnyA) | 1:47 | 2021-12-20 | 2022-07-19 |
@@ -492,7 +493,7 @@
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-31 | 2023-08-11 |
 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 | 2024-08-14 | 2026-07-18 |
 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 | 2026-02-20 | 2026-04-18 |
-| [Straight Up to Space](https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [Straight Up to Space](https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ) | 2:31 | 2026-06-05 |  |
+| [Straight Up to Space](https://open.spotify.com/track/2Fu0ymVqrFGgFWYeah705d) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [Straight Up to Space](https://open.spotify.com/album/4O1oiHIUMvxzLW7TEO7DPQ) | 2:31 | 2026-06-05 | 2026-07-23 |
 | [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 | 2023-10-19 | 2024-03-23 |
 | [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-15 | 2023-11-19 |
 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 | 2024-07-18 | 2024-08-15 |

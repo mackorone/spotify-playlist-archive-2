@@ -4,7 +4,7 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-45 songs - 1 hr 57 min
+46 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Posh](https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:33 | 2025-11-20 | 2025-11-29 |
 | [Posh \- MJ Nebreda Remix](https://open.spotify.com/track/1PDZoDVGqDE5C4tzDJl6Hy) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [NO RE\-ENTRY \(Nano Mixes\)](https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y) | 2:34 | 2026-07-05 |  |
 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2025-11-20 |  |
+| [PURPLE APE](https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Hi\_TEK MZK, VOL\. 1](https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7) | 3:07 | 2026-07-23 |  |
 | [Push N Pull](https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Push N Pull](https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV) | 2:42 | 2025-11-20 |  |
 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 | 2025-11-20 |  |
 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 | 2025-11-20 |  |

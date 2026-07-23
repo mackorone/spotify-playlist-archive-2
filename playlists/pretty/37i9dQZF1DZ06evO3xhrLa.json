@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 246876,
+  "num_followers": 246898,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAAAOtqE3IhUrXotZMZI0hhNd",
+  "snapshot_id": "al62gAAAAAAnr8rYuatYEFskJ/HaDx2V",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Coppin",
+        "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 184550,
+      "name": "California Dream (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/4q0CsTpnatXglYVvhD9qDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -483,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "you vs them",
-      "url": "https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Coppin",
-        "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
       "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 184550,
-      "name": "California Dream (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/4q0CsTpnatXglYVvhD9qDI"
+      "duration_ms": 204613,
+      "name": "you vs them",
+      "url": "https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR"
     },
     {
       "added_at": null,

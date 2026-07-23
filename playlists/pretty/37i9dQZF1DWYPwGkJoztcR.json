@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397695,
+  "num_followers": 397696,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
       },
       "artists": [
         {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
         }
       ],
-      "duration_ms": 169993,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "The Ones We Seek",
-        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
       "artists": [
         {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
         }
       ],
-      "duration_ms": 274955,
-      "name": "The Ones We Seek",
-      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
+      "duration_ms": 169993,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Here's To Forever",
         "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184883,
       "name": "Here's To Forever",
       "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "When She\u2019s Around",
         "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 215280,
       "name": "When She\u2019s Around",
       "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
-      },
-      "artists": [
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
         "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 211862,
       "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
       "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
+      },
+      "artists": [
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 179054,
       "name": "Company Store",
       "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Redeeming Grace",
-        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
-      },
-      "artists": [
-        {
-          "name": "SJ Hoffman",
-          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Afraid Of What You Might Find",
-      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "At My Worst (feat. philine & Remy van Kesteren)",
         "url": "https://open.spotify.com/album/3SQlbSAOLKTVGyei9tKNPC"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 207058,
       "name": "At My Worst (feat. philine & Remy van Kesteren)",
       "url": "https://open.spotify.com/track/1folSXp8ckfkK0wsoXWsUZ"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Redeeming Grace",
+        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
+      },
+      "artists": [
+        {
+          "name": "SJ Hoffman",
+          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Afraid Of What You Might Find",
+      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
     },
     {
       "added_at": "2026-07-17 14:00:06",

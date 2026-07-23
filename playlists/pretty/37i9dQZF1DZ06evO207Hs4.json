@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43725,
+  "num_followers": 43726,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAADkFd9cRjgffHR+MDTnl/ea",
+  "snapshot_id": "al62gAAAAADzOSSBqzVfFa3wzhmXBiMq",
   "tracks": [
     {
       "added_at": null,
@@ -340,82 +340,6 @@
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        },
-        {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
-        },
-        {
-          "name": "Mickey Hart",
-          "url": "https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU"
-        },
-        {
-          "name": "Bill Kreutzmann",
-          "url": "https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV"
-        }
-      ],
-      "duration_ms": 413929,
-      "name": "Fire On The Mountain - Live",
-      "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cliff Hanger",
-        "url": "https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "Now and Forever",
-      "url": "https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Roots Radical",
-      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye Yesterday",
-        "url": "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Bongo Man",
-      "url": "https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
-        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
-      },
-      "artists": [
-        {
           "name": "Phil Lesh & Communion",
           "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
         },
@@ -495,6 +419,82 @@
       "duration_ms": 329046,
       "name": "Ripple - Live",
       "url": "https://open.spotify.com/track/5D9PzL95N2AE7hGj7r8kSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cliff Hanger",
+        "url": "https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Now and Forever",
+      "url": "https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Yesterday",
+        "url": "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Bongo Man",
+      "url": "https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        },
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        },
+        {
+          "name": "Mickey Hart",
+          "url": "https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU"
+        },
+        {
+          "name": "Bill Kreutzmann",
+          "url": "https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV"
+        }
+      ],
+      "duration_ms": 413929,
+      "name": "Fire On The Mountain - Live",
+      "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g"
+      "duration_ms": 251640,
+      "name": "Peace Officer",
+      "url": "https://open.spotify.com/track/36sW72NlM0xaqjBAEzuy2S"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Peace Officer",
-      "url": "https://open.spotify.com/track/36sW72NlM0xaqjBAEzuy2S"
+      "duration_ms": 230933,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g"
     },
     {
       "added_at": null,

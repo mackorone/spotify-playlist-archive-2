@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,532 likes - 41 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,548 likes - 41 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 10 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/03rTshJnAuh5YxvXrHGw5V) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Chopin: Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb) | 4:28 |
 | 11 | [Nocturne in C\-sharp minor, B\. 49](https://open.spotify.com/track/0bcGY7mfG10QfeaDbz97hC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 3:59 |
 | 12 | [Chopin: Nocturne No\. 4 in F Major, Op\. 15 No\. 1](https://open.spotify.com/track/5tx6c2YLbXJsldPeb1BQR8) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 5:09 |
-| 13 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:48 |
+| 13 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:52 |
 | 14 | [Chopin: Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/track/088OWVKqW0SPLbv7f78SUc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Journal intime](https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz) | 2:37 |
 | 15 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/track/4enYj5VBLp4qYox1BS6G3k) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 3:40 |
 | 16 | [Waltzes, Op\. 69, B\. 35: No\. 1 in A\-Flat Major, "L'adieu"\. Lento](https://open.spotify.com/track/2GsXE49M5f126iuAFurXcq) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Intégrale des valses](https://open.spotify.com/album/5COrc0P5XfGZrbHM2UH6Fy) | 3:00 |

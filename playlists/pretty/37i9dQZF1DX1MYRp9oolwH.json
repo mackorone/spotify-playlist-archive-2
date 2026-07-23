@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
-  "num_followers": 171186,
+  "num_followers": 171188,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHsnJmsAkJK+4L9iZVh/Ur+Otmt",
+  "snapshot_id": "AAAAAANg/Fe1pJIzpJW30AuAf7cpDvaQ",
   "tracks": [
     {
       "added_at": "2026-07-20 06:30:37",
@@ -59,6 +59,30 @@
       "duration_ms": 242149,
       "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
       "url": "https://open.spotify.com/track/69HFjzMqwtoLsyZDIlf8UG"
+    },
+    {
+      "added_at": "2026-06-30 08:25:33",
+      "album": {
+        "name": "Chilaka (From \"Thellakaagitham\")",
+        "url": "https://open.spotify.com/album/3RxaWICAznFhAdPe11zkPe"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 285473,
+      "name": "Chilaka (From \"Thellakaagitham\")",
+      "url": "https://open.spotify.com/track/0fF2INV3W1UJALLC2Ctif7"
     },
     {
       "added_at": "2026-07-07 07:45:20",
@@ -411,30 +435,6 @@
       "duration_ms": 203138,
       "name": "Yetta Yetta (From \"Lenin\")",
       "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
-    },
-    {
-      "added_at": "2026-06-30 08:25:33",
-      "album": {
-        "name": "Chilaka (From \"Thellakaagitham\")",
-        "url": "https://open.spotify.com/album/3RxaWICAznFhAdPe11zkPe"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 285473,
-      "name": "Chilaka (From \"Thellakaagitham\")",
-      "url": "https://open.spotify.com/track/0fF2INV3W1UJALLC2Ctif7"
     },
     {
       "added_at": "2026-05-11 12:51:12",

@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38400,
+  "num_followers": 38418,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Lagan",
+        "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 246671,
+      "name": "Payee Fufata",
+      "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 223831,
       "name": "Baharla Ha Madhumas",
       "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Lagan",
-        "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 246671,
-      "name": "Payee Fufata",
-      "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
     },
     {
       "added_at": "2026-06-10 09:54:00",

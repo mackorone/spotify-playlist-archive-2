@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-437 songs - 1 day 3 hr 54 min
+438 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 | 2025-12-12 | 2026-06-01 |
 | [This Wild Earth](https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \(Or the Nuclear Sunburst of the Truth Revealed\)](https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp) | 4:00 | 2020-08-31 | 2024-06-24 |
 | [This Wine Is Alive](https://open.spotify.com/track/3mnTUaCnwreaKe2rbeJitq) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [This Wine Is Alive](https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH) | 2:47 | 2024-06-23 | 2025-10-11 |
+| [Time for You](https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Time for You](https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0) | 3:39 | 2026-04-17 |  |
 | [Time's Never Wasted on You](https://open.spotify.com/track/4hJO0SG03kyipeeFX6mbRz) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Lodge Sessions](https://open.spotify.com/album/4CkZDHHw1eOmIftHZLH9Vb) | 3:21 | 2025-08-06 |  |
 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 | 2026-04-17 |  |
 | [TOGETHER \(Acoustic Version\)](https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [TOGETHER \(Acoustic Version\)](https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E) | 3:36 | 2020-08-31 | 2024-06-24 |
@@ -402,7 +403,7 @@
 | [We Rise And Fall](https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Northstar](https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L) | 3:11 | 2025-08-06 | 2026-03-24 |
 | [Well Done \- Acoustic](https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Well Done \(Acoustic\)](https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW) | 4:38 | 2020-08-31 | 2023-10-07 |
 | [Well Done \- Acoustic](https://open.spotify.com/track/4Ax0OUw3sH67c2ZwaUix0c) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Well Done \(Acoustic\)](https://open.spotify.com/album/74IHbsvrTcs57jA0TNE6uE) | 4:38 | 2020-08-31 | 2024-08-03 |
-| [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 | 2026-03-23 |  |
+| [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 | 2026-03-23 | 2026-07-23 |
 | [what's not to love?](https://open.spotify.com/track/6or7mxmaOGL3vyWs1s5pqp) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Prayer Journal III](https://open.spotify.com/album/6iYXtoRxXbSTxFGvJNs7nv) | 3:37 | 2026-04-17 |  |
 | [when i think about my jesus](https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [when i think about my jesus](https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW) | 3:30 | 2026-03-23 |  |
 | [When My Heart Became Aware](https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 3:58 | 2020-08-31 | 2025-10-11 |

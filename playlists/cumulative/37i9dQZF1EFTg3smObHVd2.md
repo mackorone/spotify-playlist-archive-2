@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 7 hr 3 min
+123 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,8 @@
 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 | 2025-10-12 |  |
 | [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 | 2025-10-02 | 2025-10-13 |
 | [Not Hopeless](https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 4:17 | 2025-09-17 |  |
+| [Oh Lord \- Club Mix](https://open.spotify.com/track/75koR63UBU57BauuQvIbaV) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Oh Lord \(feat\. Pixie Lott\)](https://open.spotify.com/album/0jiK8Z621aREseX3nQaBjM) | 2:52 | 2026-07-22 |  |
+| [Oh Lord \- Dance Mix](https://open.spotify.com/track/3KvW2saxwzrwSawCq10HWr) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Oh Lord \(feat\. Pixie Lott\)](https://open.spotify.com/album/0jiK8Z621aREseX3nQaBjM) | 2:29 | 2026-07-22 |  |
 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 | 2024-02-27 |  |
 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 | 2024-02-27 |  |
 | [Only When You're Close](https://open.spotify.com/track/7BhxxlLcCCfvixzy8KExZv) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:44 | 2024-02-27 |  |

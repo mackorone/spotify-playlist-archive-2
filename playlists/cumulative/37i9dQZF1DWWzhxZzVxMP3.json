@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Birds of a feather",
+        "url": "https://open.spotify.com/album/01YqFMlRp2ajINHPbOB6Ub"
+      },
+      "artists": [
+        {
+          "name": "The Bacalhau Quintet",
+          "url": "https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Birds of a feather",
+      "url": "https://open.spotify.com/track/4OSX3HcQkcEbYYm8200QIb"
+    },
+    {
+      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/1HmkXHFDjG9iLu3VissPyY"
       },
@@ -564,6 +582,24 @@
       "duration_ms": 223106,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx"
+    },
+    {
+      "album": {
+        "name": "Cake by the Ocean",
+        "url": "https://open.spotify.com/album/5w2mW8lOJStVdUsABAPr4T"
+      },
+      "artists": [
+        {
+          "name": "Norrpann",
+          "url": "https://open.spotify.com/artist/1WOv7j8FFLio8VNoZjSNke"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Cake by the Ocean",
+      "url": "https://open.spotify.com/track/1TRPwXTgobAIKpQf3hgoHz"
     },
     {
       "album": {
@@ -2773,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/6T1c8lMNJRIBBrpDbChx2U"
+      },
+      "artists": [
+        {
+          "name": "The Bacalhau Quintet",
+          "url": "https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245156,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/7A7karMOUYg6yNNABD8CGF"
+    },
+    {
+      "album": {
         "name": "Positions (Bossa Version)",
         "url": "https://open.spotify.com/album/218e30ooDSv9hrL6127O7b"
       },
@@ -3370,6 +3424,24 @@
       "duration_ms": 156641,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW"
+    },
+    {
+      "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1"
+      },
+      "artists": [
+        {
+          "name": "Anita Donndorff",
+          "url": "https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211092,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP"
     },
     {
       "album": {

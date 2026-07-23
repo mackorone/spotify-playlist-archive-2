@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Aya Nakamura",
-  "num_followers": 17306,
+  "num_followers": 17344,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
-        "name": "Doucement",
-        "url": "https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Doucement",
-      "url": "https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q"
-    },
-    {
-      "added_at": "2026-06-26 00:01:48",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
+    },
+    {
+      "added_at": "2026-06-26 00:01:48",
+      "album": {
+        "name": "Doucement",
+        "url": "https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Doucement",
+      "url": "https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q"
     },
     {
       "added_at": "2026-06-26 00:01:48",

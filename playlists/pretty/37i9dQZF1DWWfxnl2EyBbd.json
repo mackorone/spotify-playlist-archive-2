@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 369408,
+  "num_followers": 369413,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Nothing Like Home",
-        "url": "https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6"
-      },
-      "artists": [
-        {
-          "name": "Degli Scalzi",
-          "url": "https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Nothing Like Home",
-      "url": "https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Another sunset",
         "url": "https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ"
+        "name": "Nothing Like Home",
+        "url": "https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6"
       },
       "artists": [
         {
-          "name": "In-No-Scence",
-          "url": "https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA"
+          "name": "Degli Scalzi",
+          "url": "https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp"
         }
       ],
-      "duration_ms": 156362,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9"
+      "duration_ms": 153200,
+      "name": "Nothing Like Home",
+      "url": "https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -555,6 +539,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ"
+      },
+      "artists": [
+        {
+          "name": "In-No-Scence",
+          "url": "https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA"
+        }
+      ],
+      "duration_ms": 156362,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Seat for Two",
         "url": "https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 159600,
       "name": "Last light on 52nd street",
       "url": "https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Where Dreams Go to Sleep",
-        "url": "https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 169956,
-      "name": "Where Dreams Go to Sleep",
-      "url": "https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Everyone Will Know",
-        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
+        "name": "Where Dreams Go to Sleep",
+        "url": "https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia"
       },
       "artists": [
         {
-          "name": "Hveiti Brauo",
-          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
         }
       ],
-      "duration_ms": 173318,
-      "name": "Everyone Will Know",
-      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
+      "duration_ms": 169956,
+      "name": "Where Dreams Go to Sleep",
+      "url": "https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -695,6 +679,22 @@
       "duration_ms": 137142,
       "name": "bygones",
       "url": "https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Everyone Will Know",
+        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "duration_ms": 173318,
+      "name": "Everyone Will Know",
+      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
-      },
-      "artists": [
-        {
-          "name": "Randall Peterson",
-          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Evening Stillness",
         "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198437,
       "name": "Evening Stillness",
       "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
+      },
+      "artists": [
+        {
+          "name": "Randall Peterson",
+          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Midnight on 5th Avenue",
-        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 180259,
-      "name": "Midnight on 5th Avenue",
-      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Fourth Thought",
         "url": "https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Midnight on 5th Avenue",
+        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 180259,
+      "name": "Midnight on 5th Avenue",
+      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Quite a dilemma",
         "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 175833,
       "name": "Quite a dilemma",
       "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "A Clear Sky",
-        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
-      },
-      "artists": [
-        {
-          "name": "Leah Lambert",
-          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "A clear sky",
-      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "An Evening Walk",
-        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
+        "name": "A Clear Sky",
+        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
       },
       "artists": [
         {
-          "name": "Uno Blanket",
-          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
         }
       ],
-      "duration_ms": 133390,
-      "name": "An Evening Walk",
-      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
+      "duration_ms": 170686,
+      "name": "A clear sky",
+      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Staying for Tomorrow",
-        "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
+        "name": "An Evening Walk",
+        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
       },
       "artists": [
         {
-          "name": "Hveiti Brauo",
-          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+          "name": "Uno Blanket",
+          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
         }
       ],
-      "duration_ms": 203083,
-      "name": "Staying for Tomorrow",
-      "url": "https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3"
+      "duration_ms": 133390,
+      "name": "An Evening Walk",
+      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -983,6 +967,22 @@
       "duration_ms": 165833,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Staying for Tomorrow",
+        "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "duration_ms": 203083,
+      "name": "Staying for Tomorrow",
+      "url": "https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Strangers by Midnight",
-        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
-        }
-      ],
-      "duration_ms": 200310,
-      "name": "Strangers by Midnight",
-      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Few Horizons",
         "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 140997,
       "name": "A Few Horizons",
       "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Strangers by Midnight",
+        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "duration_ms": 200310,
+      "name": "Strangers by Midnight",
+      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Right Up",
+        "url": "https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i"
+      },
+      "artists": [
+        {
+          "name": "Montenegro Garner",
+          "url": "https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms"
+        }
+      ],
+      "duration_ms": 192798,
+      "name": "Right Up",
+      "url": "https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "A Phonecall Away",
         "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 152733,
       "name": "A Phonecall Away",
       "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Be Calm My Friend",
-        "url": "https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW"
-      },
-      "artists": [
-        {
-          "name": "Wes Ivory",
-          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
-        }
-      ],
-      "duration_ms": 197382,
-      "name": "Be Calm My Friend",
-      "url": "https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Be Calm My Friend",
+        "url": "https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "duration_ms": 197382,
+      "name": "Be Calm My Friend",
+      "url": "https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Beneath the Paris Sky",
         "url": "https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 168047,
       "name": "Beneath the Paris Sky",
       "url": "https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Right Up",
-        "url": "https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i"
-      },
-      "artists": [
-        {
-          "name": "Montenegro Garner",
-          "url": "https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms"
-        }
-      ],
-      "duration_ms": 192798,
-      "name": "Right Up",
-      "url": "https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3"
     },
     {
       "added_at": "2026-05-25 14:11:39",

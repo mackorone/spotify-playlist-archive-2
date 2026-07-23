@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 174018,
       "name": "All Night In Lafayette",
       "url": "https://open.spotify.com/track/5Jedm5s1ci1wvAoBVJzIra"
@@ -19614,7 +19614,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 325565,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7Ml6gPsLqfb8yqEFWSWaL8"
@@ -24750,7 +24750,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 230000,
       "name": "Dear Love",
       "url": "https://open.spotify.com/track/4uliKgu8V74MRUUDFqGuBM"
@@ -33908,7 +33908,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 243136,
       "name": "Favorite Thing",
       "url": "https://open.spotify.com/track/0RcGMeFCChHGyxm2ERoXyV"
@@ -35384,7 +35384,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 178117,
       "name": "Fireflys",
       "url": "https://open.spotify.com/track/09Wbm7S4TRvMEiPYsBSYLt"
@@ -36958,7 +36958,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 152064,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/0pjTGFaKhQ7X5JEp1YbN28"
@@ -42806,7 +42806,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 204233,
       "name": "Hair Up No Makeup - Live at New Heights",
       "url": "https://open.spotify.com/track/2jjczhKyE2fMzn0pyqx2bP"
@@ -44162,7 +44162,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 178109,
       "name": "HEAVEN'S IN YOUR EYES",
       "url": "https://open.spotify.com/track/3CQ9PXfZXPQTwxRZsnOYoZ"
@@ -44626,7 +44626,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 204399,
       "name": "Her Strawberry Wine",
       "url": "https://open.spotify.com/track/2rJayXEG1UfUw3v9f8BBA0"
@@ -49157,6 +49157,24 @@
     },
     {
       "album": {
+        "name": "I Tried (To Tell You)",
+        "url": "https://open.spotify.com/album/68uYY5jaeEwqFQ6fCjdgKN"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Bindzi",
+          "url": "https://open.spotify.com/artist/4r4yiJl5T8xG80tFnUGIxv"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "I Tried (To Tell You)",
+      "url": "https://open.spotify.com/track/63vC3T0WxJ7vs7e2oye6oC"
+    },
+    {
+      "album": {
         "name": "I Wake Up",
         "url": "https://open.spotify.com/album/6TFhIgiJn6OI7fIXuajthj"
       },
@@ -50450,7 +50468,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 201293,
       "name": "Identification Please",
       "url": "https://open.spotify.com/track/0ozySjGR0THi9XfWHMh7qI"
@@ -53350,7 +53368,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 285692,
       "name": "Jack Daniel's Cologne",
       "url": "https://open.spotify.com/track/6ul1f6HI6yj48bLbop1iFJ"
@@ -57760,6 +57778,24 @@
       "duration_ms": 176068,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3SEY8FLUpXwXgcCaTDizof"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2XY8GN9PEsOMyolg1WVXKL"
+      },
+      "artists": [
+        {
+          "name": "PRIZILLA",
+          "url": "https://open.spotify.com/artist/5DgKBokSrPxPl5RMMt7HWr"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254513,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0F0VtbbFl3ZkkOKJqxMqaQ"
     },
     {
       "album": {
@@ -66454,7 +66490,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 201520,
       "name": "Midnight Static",
       "url": "https://open.spotify.com/track/0ywTephNfbtJHs2bYjwyIF"
@@ -74032,7 +74068,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 201342,
       "name": "Obra Maestra",
       "url": "https://open.spotify.com/track/10xc0lox0r7D3OrEhZT4Vr"
@@ -74792,7 +74828,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 159130,
       "name": "OMALICHA",
       "url": "https://open.spotify.com/track/67rBHTBy8bSRCkRhoPQmIF"
@@ -75740,7 +75776,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 178964,
       "name": "One Take Man",
       "url": "https://open.spotify.com/track/14oSX4uFsrpbdWtto1Urdi"
@@ -75842,7 +75878,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 228167,
       "name": "One Voice In Everyone\u2019s Memory",
       "url": "https://open.spotify.com/track/7y5jBrMfndjtekhBOTnIuf"
@@ -76398,7 +76434,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 363999,
       "name": "Oslo",
       "url": "https://open.spotify.com/track/1K9BhSXO0HxztEHcwvITag"
@@ -85258,7 +85294,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 176546,
       "name": "Ringer",
       "url": "https://open.spotify.com/track/5hFUznPRrZKMtDptnz5Oj1"
@@ -86164,7 +86200,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 194546,
       "name": "Roses in the Back",
       "url": "https://open.spotify.com/track/13IvlW3j1MQqF28RhCunb3"
@@ -97316,7 +97352,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 168336,
       "name": "Summertime Fling",
       "url": "https://open.spotify.com/track/5kStPAXMxQTzZU3QVuE6ae"
@@ -97530,7 +97566,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 190982,
       "name": "Sunday to Monday",
       "url": "https://open.spotify.com/track/7oAoyqVdInRnKC2gfXbc9y"
@@ -100602,7 +100638,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 133906,
       "name": "TE TOCA",
       "url": "https://open.spotify.com/track/2W8msNlokoHJJW8AZ1VkRP"
@@ -103640,7 +103676,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 198453,
       "name": "The Wrong Guys",
       "url": "https://open.spotify.com/track/77rxdNAUM6mL9Ud3TWAs3x"
@@ -105444,7 +105480,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 172414,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/3D7PZ01ZhjRK01qs8ZbaJt"
@@ -109912,7 +109948,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 141346,
       "name": "VEGAS (What Goes On)",
       "url": "https://open.spotify.com/track/0YAGosEIjMO1bg4AUbkY19"
@@ -110646,7 +110682,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 203412,
       "name": "VOLVEMOS A VER",
       "url": "https://open.spotify.com/track/6Ie1iANzHXxuge8rYQq5jU"

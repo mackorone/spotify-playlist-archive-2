@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2594012,
+  "num_followers": 2593922,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 219087,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 219087,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
         "name": "Ain't Letting You Down",
         "url": "https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf"
       },
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 192209,
-      "name": "Come To Life",
-      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "For The Soul",
         "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
       },
@@ -1475,6 +1475,46 @@
       "duration_ms": 180849,
       "name": "Gravity (feat. SACHA)",
       "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Love Parade",
+        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 206308,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -1531,30 +1571,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Love Parade",
-        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 206308,
-      "name": "Love Parade",
-      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "Is It Over Now?",
         "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 193500,
       "name": "GIRLBOSS",
       "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
-      },
-      "artists": [
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "Break The Loop",
         "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 226874,
       "name": "Break The Loop",
       "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
+        "name": "She's A Devil",
+        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "She's A Devil",
+      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
         "name": "All My Life (feat. John Martin)",
         "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
       },
@@ -1795,22 +1815,18 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "She's A Devil",
-        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 204923,
-      "name": "She's A Devil",
-      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -1851,22 +1867,6 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2071,22 +2071,26 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Arp12",
-        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
+        "name": "Every Single Day (feat. Dhany)",
+        "url": "https://open.spotify.com/album/5qH7ySbYFHOaB50ZiQNurO"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         },
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Dhany",
+          "url": "https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Arp12",
-      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
+      "duration_ms": 192461,
+      "name": "Every Single Day (feat. Dhany)",
+      "url": "https://open.spotify.com/track/4zcpFctawL6csNjqjkiQML"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2107,6 +2111,26 @@
       "duration_ms": 172900,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Arp12",
+        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Arp12",
+      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2171,26 +2195,22 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Every Single Day (feat. Dhany)",
-        "url": "https://open.spotify.com/album/5qH7ySbYFHOaB50ZiQNurO"
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         },
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Dhany",
-          "url": "https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF"
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Every Single Day (feat. Dhany)",
-      "url": "https://open.spotify.com/track/4zcpFctawL6csNjqjkiQML"
+      "duration_ms": 184615,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2227,22 +2247,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "Picasso",
         "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
       },
@@ -2259,22 +2263,18 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "The Realm",
-        "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "KASIA",
-          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
         }
       ],
-      "duration_ms": 184615,
-      "name": "The Realm",
-      "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
+      "duration_ms": 207619,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2379,54 +2379,6 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
-        "name": "Pull Me Closer",
-        "url": "https://open.spotify.com/album/05ZGMoxJwod7dDF2yRY6WK"
-      },
-      "artists": [
-        {
-          "name": "DJ Pauly D",
-          "url": "https://open.spotify.com/artist/4kGCUSJJlEKTuol4jSYGPb"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "Pull Me Closer",
-      "url": "https://open.spotify.com/track/1XSh0fpZoJi70sudcWIpEa"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
-        "name": "Identity",
-        "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 157847,
-      "name": "Abraza",
-      "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
-    },
-    {
-      "added_at": "2026-07-17 04:01:10",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
       },
@@ -2451,22 +2403,50 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "It's Chemical",
-        "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
         }
       ],
-      "duration_ms": 306500,
-      "name": "It's Chemical",
-      "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 157847,
+      "name": "Abraza",
+      "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "Pull Me Closer",
+        "url": "https://open.spotify.com/album/05ZGMoxJwod7dDF2yRY6WK"
+      },
+      "artists": [
+        {
+          "name": "DJ Pauly D",
+          "url": "https://open.spotify.com/artist/4kGCUSJJlEKTuol4jSYGPb"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Pull Me Closer",
+      "url": "https://open.spotify.com/track/1XSh0fpZoJi70sudcWIpEa"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2487,6 +2467,26 @@
       "duration_ms": 184000,
       "name": "Move",
       "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
+    },
+    {
+      "added_at": "2026-07-17 04:01:10",
+      "album": {
+        "name": "It's Chemical",
+        "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "It's Chemical",
+      "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
     },
     {
       "added_at": "2026-07-17 04:01:10",
@@ -2559,22 +2559,26 @@
     {
       "added_at": "2026-07-17 04:01:10",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/0RweNLkaauLQFlQPfDXtiV"
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
       "artists": [
         {
-          "name": "Leena Punks",
-          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
         },
         {
-          "name": "Rowland Giles",
-          "url": "https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP"
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
+        },
+        {
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
         }
       ],
-      "duration_ms": 198780,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn"
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
     }
   ],
   "unique_name": "Power Hour",

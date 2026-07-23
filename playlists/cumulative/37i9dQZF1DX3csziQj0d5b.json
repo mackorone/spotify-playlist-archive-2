@@ -13115,6 +13115,24 @@
     },
     {
       "album": {
+        "name": "Take A Drink",
+        "url": "https://open.spotify.com/album/7jMnT6irYdrAb1APfm2LcN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177695,
+      "name": "Take A Drink",
+      "url": "https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm"
+    },
+    {
+      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },

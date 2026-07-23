@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vacations
 
-684 songs - 1 day 14 hr 17 min
+685 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Change My Mind](https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 3:01 | 2025-09-11 | 2025-09-19 |
 | [Change Of Heart](https://open.spotify.com/track/1Nv9SIJR749xhMm08m44bU) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Change Of Heart](https://open.spotify.com/album/3fkYR6baLhX5QZAhGT977b) | 3:49 | 2026-06-11 | 2026-06-19 |
 | [Changing](https://open.spotify.com/track/1L9ihx86nr6vzWjB7PDSeR) | [LAHGO](https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB) | [Changing](https://open.spotify.com/album/2OJGY23x3ueCepfifj1ctL) | 3:30 | 2024-12-05 | 2025-01-31 |
-| [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 | 2026-04-23 |  |
+| [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 | 2026-04-23 | 2026-07-23 |
 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 | 2024-12-12 | 2025-02-07 |
 | [Chemistry](https://open.spotify.com/track/6k8UrKM6ScUbXGpPVz4xXf) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Chemistry](https://open.spotify.com/album/6E6E7Qd61G1O1ZfY5oz93v) | 3:29 | 2026-07-02 |  |
 | [Cigarette](https://open.spotify.com/track/0RQmlqEtYB7fqDvLHgAIjI) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Cigarette](https://open.spotify.com/album/5Oxe4hv91gpBQOSDROFhK7) | 3:34 | 2025-05-15 | 2025-05-23 |
@@ -364,6 +364,7 @@
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-21 | 2025-05-09 |
 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 | 2025-06-05 |  |
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-31 | 2024-07-27 |
+| [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-16 |  |
 | [Love Vomit](https://open.spotify.com/track/1qWdaFIPrEiAtBvK3FGy5L) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Love Vomit](https://open.spotify.com/album/3vpGAg1Ph4u0abMSszKAgS) | 3:47 | 2025-09-01 | 2025-09-05 |
 | [Love You Still](https://open.spotify.com/track/0TgIQaoJL7rxGSPjW1AKgq) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Love You Still](https://open.spotify.com/album/1tsfKTRuEzjvqGQnzX9XOU) | 3:53 | 2025-04-24 | 2025-05-02 |
 | [Lovesick](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 3:54 | 2026-05-07 |  |

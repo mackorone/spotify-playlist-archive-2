@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087 likes - 218 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,086 likes - 218 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 157 | [Joy Unspeakable](https://open.spotify.com/track/6UWVXYDOQXXYh6jSflYJel) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [the Journey \(Live\)](https://open.spotify.com/album/26dnr3d2HZ3hg1iq9Iv8zG) | 3:30 |
 | 158 | [Walls Come Down](https://open.spotify.com/track/10GaVzf8JDe0Ulri28B3J1) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:10 |
 | 159 | [dtf](https://open.spotify.com/track/75VGtAHWNDycxHnK5j2mBT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 2:48 |
-| 160 | [Make It Rain](https://open.spotify.com/track/6NFmLIXVZI2jVGmCPrNSvL) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Masterpiece](https://open.spotify.com/album/1QoD0fNJigVXa82cVwmHcW) | 3:37 |
-| 161 | [Worst Guy Ever](https://open.spotify.com/track/1UfFuY6BDZVDsanqQGFgmX) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel](https://open.spotify.com/album/1O0hQggcu3MyPbmvTPm3X7) | 3:08 |
+| 160 | [Worst Guy Ever](https://open.spotify.com/track/1UfFuY6BDZVDsanqQGFgmX) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel](https://open.spotify.com/album/1O0hQggcu3MyPbmvTPm3X7) | 3:08 |
+| 161 | [Make It Rain](https://open.spotify.com/track/6NFmLIXVZI2jVGmCPrNSvL) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Masterpiece](https://open.spotify.com/album/1QoD0fNJigVXa82cVwmHcW) | 3:37 |
 | 162 | [When We Had Nothing](https://open.spotify.com/track/73vtN663UNxCwhBc1xwD7Q) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Walking Disaster](https://open.spotify.com/album/5ar5qfwErZYd6JPEtS5pFX) | 3:19 |
 | 163 | [How Much More](https://open.spotify.com/track/7Gf89EnjBp9LQthVznFpEH) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:41 |
 | 164 | [Fall Out](https://open.spotify.com/track/7pgdDc8CEOBnKcXgeHHomf) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/0TJoGKCktudahrtegfmmgD) | 2:49 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 217 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 218 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcXe0gAAAADFZaLh6rK04T6UgIJePe1m`
+Snapshot ID: `AcXkcgAAAADEg/Ihmungoh5ebcJmI7/b`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: IARA",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Native James",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 184982,
       "name": "[zippermouth]",
       "url": "https://open.spotify.com/track/5hQUu3nqe7nIZM9qViyO6X"
+    },
+    {
+      "album": {
+        "name": "A Cure For A Knife's Blade",
+        "url": "https://open.spotify.com/album/2R29O43lctyQRjUv29WUWW"
+      },
+      "artists": [
+        {
+          "name": "PLUME",
+          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "A Cure For A Knife's Blade",
+      "url": "https://open.spotify.com/track/4a4S9OwONHLCMOyIS1A6XX"
     },
     {
       "album": {
@@ -2509,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "CAVITY",
+        "url": "https://open.spotify.com/album/25GJqtmytS20AOipKNjf0X"
+      },
+      "artists": [
+        {
+          "name": "Weeping Wound",
+          "url": "https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "CAVITY",
+      "url": "https://open.spotify.com/track/2nny02bqroARvn9eSs7OJm"
+    },
+    {
+      "album": {
         "name": "Celebrity Culture Simp Farm",
         "url": "https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU"
       },
@@ -3938,7 +3974,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 185500,
       "name": "Devour",
       "url": "https://open.spotify.com/track/7hRL8iqMX5nlMr0YBnSgRw"
@@ -8126,7 +8162,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 162426,
       "name": "Judgement",
       "url": "https://open.spotify.com/track/5G0JtGsrYr1BgShZzdaAo2"
@@ -9315,6 +9351,24 @@
     },
     {
       "album": {
+        "name": "Manslayer (Hell Hath No Fury)",
+        "url": "https://open.spotify.com/album/7KWUYBAwKw2mLXrDUoJJgZ"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Manslayer (Hell Hath No Fury)",
+      "url": "https://open.spotify.com/track/33q9li7Jyqe9IUnWPhAGN9"
+    },
+    {
+      "album": {
         "name": "Mariah's Song",
         "url": "https://open.spotify.com/album/2O2tab6lfNyfZxWp8dWhM0"
       },
@@ -9731,6 +9785,24 @@
     },
     {
       "album": {
+        "name": "my dearly departed",
+        "url": "https://open.spotify.com/album/3xvK2oFV6TySsyU9AjcY23"
+      },
+      "artists": [
+        {
+          "name": "Long Goodbye",
+          "url": "https://open.spotify.com/artist/2yfv45UhAaHIGmrnvstbb2"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188097,
+      "name": "my dearly departed",
+      "url": "https://open.spotify.com/track/02oYejzVXCFpiNwofi9quA"
+    },
+    {
+      "album": {
         "name": "My Final Stand",
         "url": "https://open.spotify.com/album/74XU3n5i8IbykQ9GaW61Oe"
       },
@@ -9948,6 +10020,28 @@
       "duration_ms": 210000,
       "name": "Neurosis",
       "url": "https://open.spotify.com/track/14tKEJqz1gNitOSbnhuz87"
+    },
+    {
+      "album": {
+        "name": "Never Been Scared",
+        "url": "https://open.spotify.com/album/5EsBmhwr1v301Og4ixy12M"
+      },
+      "artists": [
+        {
+          "name": "Native James",
+          "url": "https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Never Been Scared",
+      "url": "https://open.spotify.com/track/0mbMgeh3WQ0EjHRFIPrPwL"
     },
     {
       "album": {
@@ -11546,7 +11640,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 245215,
       "name": "ragebait",
       "url": "https://open.spotify.com/track/3TISfuFzH3v2gmvMPgkSHJ"
@@ -11658,7 +11752,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 197828,
       "name": "Ready To Talk",
       "url": "https://open.spotify.com/track/0N6XAJxfd261NPvdZvIKpH"
@@ -11802,7 +11896,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 203764,
       "name": "REM",
       "url": "https://open.spotify.com/track/1Xm1e4NF6ogjUhfxOuaWJt"
@@ -11838,7 +11932,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 224461,
       "name": "RETURN THE GOAT",
       "url": "https://open.spotify.com/track/6APXWI6fbpi51urblYZZkE"
@@ -12220,6 +12314,24 @@
       "duration_ms": 172800,
       "name": "Scream",
       "url": "https://open.spotify.com/track/3gUqdFcilOuLCU5xOY1JY2"
+    },
+    {
+      "album": {
+        "name": "Second Best",
+        "url": "https://open.spotify.com/album/66JYHGwITGQLcJyXbsv4Nz"
+      },
+      "artists": [
+        {
+          "name": "Harroway",
+          "url": "https://open.spotify.com/artist/3j7sVJ6v7lAF3rqv9CiMZI"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/3PRNATTR6XsYcgKcBOm5H7"
     },
     {
       "album": {
@@ -12730,6 +12842,28 @@
       "duration_ms": 52558,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3Qpb9NDN8c0fzS5lokl90D"
+    },
+    {
+      "album": {
+        "name": "Siege Proof Hovel",
+        "url": "https://open.spotify.com/album/1JLcwBIo9IOQ6J8SAIXrlB"
+      },
+      "artists": [
+        {
+          "name": "Netherwilds",
+          "url": "https://open.spotify.com/artist/2e6T7U7RcG9IXadiJxNH4j"
+        },
+        {
+          "name": "Hole Dweller",
+          "url": "https://open.spotify.com/artist/3wENndPAPACVtaHTFogPUI"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177399,
+      "name": "Siege Proof Hovel",
+      "url": "https://open.spotify.com/track/12lsJcNwSv80rMunQ8l2yb"
     },
     {
       "album": {
@@ -15344,7 +15478,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 250000,
       "name": "Trailer For A Movie That Doesn't Exist",
       "url": "https://open.spotify.com/track/0KLC1t5lFJh8zEyoUGFjKF"

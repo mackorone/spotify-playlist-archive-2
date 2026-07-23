@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,677 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,707 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 55 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 |
 | 56 | [Dil Ko Kya Ho Gaya](https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf) | [Dil Ko Kya Ho Gaya](https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ) | 5:20 |
 | 57 | [Kaisa Manzar](https://open.spotify.com/track/4QmPaU6ipYU0tAS5FUJnn1) | [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Kaisa Manzar](https://open.spotify.com/album/3lEUa9SEtO39Dg0rPuF8uu) | 4:55 |
-| 58 | [Ab Vo Baat Kahaan](https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Ab Vo Baat Kahaan](https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK) | 5:33 |
+| 58 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
 | 59 | [Achanak Safar Mein](https://open.spotify.com/track/3x8uf74HEWtW3AZ7uCvTWI) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Achanak Safar Mein](https://open.spotify.com/album/6dkt2eYxjXK0z7EnEFcNDw) | 6:31 |
-| 60 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
+| 60 | [Ab Vo Baat Kahaan](https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Ab Vo Baat Kahaan](https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK) | 5:33 |
 | 61 | [Bekhudi Ishq Ki](https://open.spotify.com/track/24BHj41vxRhHfxo5Zfa7Rq) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Bekhudi Ishq Ki](https://open.spotify.com/album/4G1jCHowIxMGm1Qeg3wRex) | 4:51 |
 | 62 | [Ikhtiyar](https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 4:36 |
 | 63 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 74 | [Isse Pehle](https://open.spotify.com/track/4KCtJWeuJTh4n7geCGG4nO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Ahmad Faraz](https://open.spotify.com/artist/2LJEfT1Ljm07p3iAU2Gclr) | [Fauji 2](https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B) | 4:16 |
 | 75 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 
-Snapshot ID: `AAAAABj9LW3ympIDJuhGZ23AaWHyAmqf`
+Snapshot ID: `AAAAALuJCZfw5ezTSoHvZ5SKPIG1SOKh`

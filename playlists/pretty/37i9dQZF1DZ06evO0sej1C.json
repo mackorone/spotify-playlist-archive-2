@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46077,
+  "num_followers": 46082,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al1lAAAAAADrAhRUp0oDtDeaY6A6MTTy",
+  "snapshot_id": "al62gAAAAAC1iQVuz7lJ6tFS8uMyF6Bv",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vuelvas Mas A Mi",
-        "url": "https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 243461,
-      "name": "No Vuelvas Mas A Mi",
-      "url": "https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chip S (Metal Version)",
         "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 193846,
       "name": "Chip S (Metal Version)",
       "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Vuelvas Mas A Mi",
+        "url": "https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 243461,
+      "name": "No Vuelvas Mas A Mi",
+      "url": "https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18"
     },
     {
       "added_at": null,

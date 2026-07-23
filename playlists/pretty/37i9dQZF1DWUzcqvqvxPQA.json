@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33710,
+  "num_followers": 33730,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "FREE! (Live)",
         "url": "https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 225617,
       "name": "FREE! - Live",
       "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Like I Am Yours",
-        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Like I Am Yours",
-      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -699,6 +699,46 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Sentimental Prison",
+        "url": "https://open.spotify.com/album/4GW9lZPCyOjLSQI4nKAKRC"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Sentimental Prison",
+      "url": "https://open.spotify.com/track/406OJmzC7Evty1Ht2LzuTt"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Reclaiming My Life",
         "url": "https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ"
       },
@@ -803,26 +843,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Sentimental Prison",
-        "url": "https://open.spotify.com/album/4GW9lZPCyOjLSQI4nKAKRC"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Sentimental Prison",
-      "url": "https://open.spotify.com/track/406OJmzC7Evty1Ht2LzuTt"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 214200,
       "name": "Meant For Good",
       "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "backseat drive",
-        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 174650,
-      "name": "backseat drive",
-      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 145919,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "backseat drive",
+        "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "backseat drive",
+      "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Emmaus",
         "url": "https://open.spotify.com/album/4VQPtBO3Y1a1wy7d2gByMQ"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "FOOTSTOOL",
-        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
       },
       "artists": [
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 249750,
-      "name": "FOOTSTOOL",
-      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1379,22 +1395,6 @@
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "God Must Be Smiling On Me",
+        "url": "https://open.spotify.com/album/30bQKLeJpgIXBu9DfWQ78d"
+      },
+      "artists": [
+        {
+          "name": "Bay Turner",
+          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
+        }
+      ],
+      "duration_ms": 175809,
+      "name": "God Must Be Smiling On Me",
+      "url": "https://open.spotify.com/track/1lFHxOLEmI9NoXnUXQW2IS"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Not For You",
         "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 184046,
       "name": "Just Got Better",
       "url": "https://open.spotify.com/track/1ivpauFFHo56fKDgHZSLWG"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "God Must Be Smiling On Me",
-        "url": "https://open.spotify.com/album/30bQKLeJpgIXBu9DfWQ78d"
-      },
-      "artists": [
-        {
-          "name": "Bay Turner",
-          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
-        }
-      ],
-      "duration_ms": 175809,
-      "name": "God Must Be Smiling On Me",
-      "url": "https://open.spotify.com/track/1lFHxOLEmI9NoXnUXQW2IS"
     },
     {
       "added_at": "2026-07-17 05:41:07",

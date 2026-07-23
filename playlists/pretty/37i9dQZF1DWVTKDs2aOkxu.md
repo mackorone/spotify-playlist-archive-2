@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Man/Woman/Chainsaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,649 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,573 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Julia Roberts](https://open.spotify.com/track/5UHJBQGIOncb7Yqzp72vhG) | [jo from school](https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT) | [Julia Roberts](https://open.spotify.com/album/1j0ulOC55hGtPc1BdbbmnZ) | 3:06 |
 | 80 | [Sorry Mister](https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw) | [Disgusting Sisters](https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe) | [Sorry Mister](https://open.spotify.com/album/5Bn5uZmBgIgIfDEiaiThOH) | 2:51 |
 
-Snapshot ID: `AAAAAJGtOWBW98FNrabC+/M3FRurLsGB`
+Snapshot ID: `AAAAAJOn3Jo/mS4NTlw+0WI+DKg4wbt+`

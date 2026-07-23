@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498110,
+  "num_followers": 498117,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-07-16 22:01:09",
       "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "added_at": "2026-07-16 22:01:09",
+      "album": {
         "name": "Auf uns",
         "url": "https://open.spotify.com/album/4WlXgGmTpei2JSDB3cbhQU"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2026-07-16 22:01:09",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2026-07-16 22:01:09",
-      "album": {
         "name": "10 von 10",
         "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
       },
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2026-07-16 22:01:09",
       "album": {
-        "name": "Schei\u00dfegal",
-        "url": "https://open.spotify.com/album/3TCfWCtApFzCJMy0rfKrzP"
+        "name": "Chaos im Kopf",
+        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
       },
       "artists": [
         {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        },
-        {
           "name": "Isi Gl\u00fcck",
           "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
         }
       ],
-      "duration_ms": 139239,
-      "name": "Schei\u00dfegal",
-      "url": "https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL"
+      "duration_ms": 168750,
+      "name": "Chaos im Kopf",
+      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
     },
     {
       "added_at": "2026-07-16 22:01:09",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-07-16 22:01:09",
       "album": {
-        "name": "Chaos im Kopf",
-        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Chaos im Kopf",
-      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
-    },
-    {
-      "added_at": "2026-07-16 22:01:09",
-      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2026-07-16 22:01:09",
+      "album": {
+        "name": "Schei\u00dfegal",
+        "url": "https://open.spotify.com/album/3TCfWCtApFzCJMy0rfKrzP"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 139239,
+      "name": "Schei\u00dfegal",
+      "url": "https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL"
     },
     {
       "added_at": "2026-07-16 22:01:09",

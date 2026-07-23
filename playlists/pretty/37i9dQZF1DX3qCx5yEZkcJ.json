@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1469805,
+  "num_followers": 1469733,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+        "name": "Veluwe",
+        "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
       },
       "artists": [
         {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+        },
+        {
+          "name": "twofiveone",
+          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
         }
       ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
+      "duration_ms": 175000,
+      "name": "Veluwe",
+      "url": "https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -387,22 +391,18 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "Veluwe",
-        "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
       },
       "artists": [
         {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
-        },
-        {
-          "name": "twofiveone",
-          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Veluwe",
-      "url": "https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm"
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 263000,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -595,6 +595,34 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
+        "name": "Flute Echoes",
+        "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
+      },
+      "artists": [
+        {
+          "name": "Shin Ichikawa",
+          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "duration_ms": 147747,
+      "name": "Flute Echoes",
+      "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -635,34 +663,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "Flute Echoes",
-        "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
-      },
-      "artists": [
-        {
-          "name": "Shin Ichikawa",
-          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        }
-      ],
-      "duration_ms": 147747,
-      "name": "Flute Echoes",
-      "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "Life in the Wild Garden",
         "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
@@ -695,6 +695,30 @@
       "duration_ms": 193125,
       "name": "Raincoat (Paul Grant Remix)",
       "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
+      },
+      "artists": [
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        }
+      ],
+      "duration_ms": 132507,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -739,30 +763,6 @@
       "duration_ms": 181931,
       "name": "Yosei",
       "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
-      },
-      "artists": [
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
-        },
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        }
-      ],
-      "duration_ms": 132507,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 134959,
       "name": "Sasanqua",
       "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "A Kid From Yerevan (Instrumental)",
         "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 164769,
       "name": "Sinking Ship - Instrumental",
       "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
         "name": "Whatsreal",
         "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
       "artists": [
         {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "Colibri",
         "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-07-18 07:06:52",
       "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1471,6 +1471,26 @@
       "duration_ms": 150857,
       "name": "Night Step",
       "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-07-18 07:06:52",
+      "album": {
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-07-18 07:06:52",
@@ -1491,22 +1511,6 @@
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
-    },
-    {
-      "added_at": "2026-07-18 07:06:52",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     }
   ],
   "unique_name": "Mellow Beats",

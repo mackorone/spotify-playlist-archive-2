@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Luke Tyler Shelton",
-  "num_followers": 426631,
+  "num_followers": 426644,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
+        "name": "How To Get Away With Murder",
+        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "How To Get Away With Murder",
+      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "How To Get Away With Murder",
-        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
       "artists": [
         {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 171000,
-      "name": "How To Get Away With Murder",
-      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -547,22 +563,6 @@
       "duration_ms": 222793,
       "name": "Fire Drill",
       "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Good Together",
-        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 201045,
-      "name": "Good Together",
-      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Good Together",
+        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 201045,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Choose Love / It\u2019s Been Too Long",
-        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
+        "name": "Look Who's Back",
+        "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
       },
       "artists": [
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
         }
       ],
-      "duration_ms": 234801,
-      "name": "Choose Love",
-      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
+      "duration_ms": 199156,
+      "name": "Love is Electric",
+      "url": "https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Look Who's Back",
-        "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
+        "name": "Choose Love / It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU"
       },
       "artists": [
         {
-          "name": "The Nude Party",
-          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 199156,
-      "name": "Love is Electric",
-      "url": "https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW"
+      "duration_ms": 234801,
+      "name": "Choose Love",
+      "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "It Must Change",
         "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 295013,
       "name": "It Must Change",
       "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Better Broken",
+      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
         "name": "Here You Come Again (with Max Abrams)",
         "url": "https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 210826,
       "name": "Here You Come Again (with Max Abrams)",
       "url": "https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Better Broken",
-      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
-      },
-      "artists": [
-        {
-          "name": "Balto",
-          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Lost on the Young",
-      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "Waterfallin'",
         "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Lost on the Young",
+      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
     }
   ],
   "unique_name": "the new retro",

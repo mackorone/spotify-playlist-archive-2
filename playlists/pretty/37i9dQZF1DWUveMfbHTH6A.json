@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15142,
+  "num_followers": 15146,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "East Coast Summers",
+        "url": "https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 221927,
+      "name": "East Coast Summers",
+      "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "East Coast Summers",
-        "url": "https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 221927,
-      "name": "East Coast Summers",
-      "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
-      },
-      "artists": [
-        {
-          "name": "GENBLUE\u5e7b\u85cd\u5c0f\u718a",
-          "url": "https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "BADASS",
-      "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "be careful",
         "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 203940,
       "name": "be careful",
       "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
+      },
+      "artists": [
+        {
+          "name": "GENBLUE\u5e7b\u85cd\u5c0f\u718a",
+          "url": "https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "BADASS",
+      "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Now Would Be A Good Time",
-        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 277951,
-      "name": "Hotel TV",
-      "url": "https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 185370,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Now Would Be A Good Time",
+        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2025",

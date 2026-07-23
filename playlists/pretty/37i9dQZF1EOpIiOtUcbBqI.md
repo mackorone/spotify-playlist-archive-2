@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpIiOtUcbBqI.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 |
-| 2 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:45 |
+| 2 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:46 |
 | 3 | [What's Most Important with Michael Bublé](https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K) | [Self\-Helpless](https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG) | [Self\-Helpless](https://open.spotify.com/album/331TJ7eQKg2gHmAk7AU4XG) | 30:37 |
 | 4 | [You, Who?](https://open.spotify.com/track/4oklfRljGkpZjzpc5vt6qj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/7mVurXzE8Gs5x5UqV0BwTQ) | 3:39 |
 | 5 | [Eric Nam \- Love Die Young](https://open.spotify.com/episode/6ohwumlrcG4Or0R7Leh3KB) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 21:47 |

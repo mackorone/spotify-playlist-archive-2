@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Deer Anna, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Amigo Altmark, Artwork: Isu Kim
 
-1,688 songs - 3 day 21 hr 48 min
+1,691 songs - 3 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Bei dir sein](https://open.spotify.com/track/43VHFznEBH15WqU9kHGeG6) | [MIK](https://open.spotify.com/artist/2ekHJqBh5XBOzrVbZLzCi8) | [Bei dir sein](https://open.spotify.com/album/2KJ2t89CtxAwmduHT6Q8ac) | 2:44 | 2025-03-05 | 2025-04-17 |
 | [Beifahrersitz](https://open.spotify.com/track/7rs0VE9FDv69ooyms0oMMI) | [Holli](https://open.spotify.com/artist/0mWMTIEvUdaNLWqfXg4Q7E) | [Beifahrersitz](https://open.spotify.com/album/5P3FIlvGp6SwBVjgI0C5wc) | 5:13 | 2023-04-05 | 2023-06-01 |
 | [Believer](https://open.spotify.com/track/1nmsQfX5xgz6LRr054LCKJ) | [Kliffs](https://open.spotify.com/artist/3SUCYwCglnvQ1kTaYb3vMS) | [Believer](https://open.spotify.com/album/4fxXduBgKbNpiOjq2DSZVT) | 2:55 | 2022-09-28 | 2023-01-26 |
+| [Belladonna](https://open.spotify.com/track/5DSiL11ZisLDkjCyOQBWSN) | [TABY](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI) | [Belladonna](https://open.spotify.com/album/3u3UbRmDokaHpvlZRWlxtM) | 2:14 | 2026-07-22 |  |
 | [Berlin \(etwas das blieb\)](https://open.spotify.com/track/48aB503kYKVwyOZUHFmQQB) | [linusjonathan](https://open.spotify.com/artist/3D3Q9LASaJvXo7VxZaJdsP) | [Berlin \(etwas das blieb\)](https://open.spotify.com/album/0VeEPXrhhd7ko7bSaG11yh) | 1:58 | 2025-06-04 | 2026-01-15 |
 | [berliner waterloo](https://open.spotify.com/track/6nkofJg9SeaUVExk2GJVsG) | [Schmerzis](https://open.spotify.com/artist/0axcbvQwwe0KjYq8xnapxH) | [berliner waterloo](https://open.spotify.com/album/2gJB8WNKF0L3KjZoV3Ts04) | 3:00 | 2025-07-09 | 2025-12-04 |
 | [besser wenn du gehst](https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp) | [Luciero](https://open.spotify.com/artist/2z9Hp9J66hI99455C79RLz) | [besser wenn du gehst](https://open.spotify.com/album/6Pjr3L03yq46nmxUZrLdNJ) | 3:16 | 2025-01-29 | 2026-01-15 |
@@ -481,7 +482,7 @@
 | [Experiencer](https://open.spotify.com/track/3OtAkD3nypkALLtLWZPohS) | [Lucy Dreams](https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT) | [Experiencer](https://open.spotify.com/album/4ISmR3EneuPIF7tyInEBqE) | 3:11 | 2022-03-30 | 2022-04-21 |
 | [Extreme](https://open.spotify.com/track/7IiyVCnv2pLgKB0RJPM3k4) | [Blake Harley](https://open.spotify.com/artist/0QLKEJIWFE4TSLUUHskwwB) | [Extreme](https://open.spotify.com/album/2wSL1vaLpGmD4Fl3EnQIPs) | 3:18 | 2024-03-20 | 2024-04-04 |
 | [Extremes](https://open.spotify.com/track/7ceYbZh7LYzcGtyqPeUw8s) | [RIIVA](https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J) | [Extremes](https://open.spotify.com/album/6RC2Zo8k056PDHxFQus5VE) | 2:29 | 2024-10-23 | 2024-11-28 |
-| [Eye of the Storm](https://open.spotify.com/track/6RMGWGyOg25fQrNXq9SIrM) | [Leo Karter](https://open.spotify.com/artist/4DWzTWMZaEGcCMTAzMdVW0) | [Eye of the Storm](https://open.spotify.com/album/6IUNTiECSgmNcVmf5gIHW9) | 2:22 | 2026-05-06 |  |
+| [Eye of the Storm](https://open.spotify.com/track/6RMGWGyOg25fQrNXq9SIrM) | [Leo Karter](https://open.spotify.com/artist/4DWzTWMZaEGcCMTAzMdVW0) | [Eye of the Storm](https://open.spotify.com/album/6IUNTiECSgmNcVmf5gIHW9) | 2:22 | 2026-05-06 | 2026-07-23 |
 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 | 2023-05-24 | 2024-01-04 |
 | [F\_ck Doch](https://open.spotify.com/track/6rVnm3qBxXvp5rhEyr2O8T) | [Erik Leuthäuser](https://open.spotify.com/artist/7jLnVLOLhw2jgNNY0IHQ0D) | [F\_ck Doch](https://open.spotify.com/album/4by2GwlwDz2t9DTCTHz0Bw) | 3:44 | 2024-02-07 | 2024-03-21 |
 | [Face 2 Face](https://open.spotify.com/track/1ujWKKFcIgKiVpGQCcwMpO) | [Ninja Kidsoul](https://open.spotify.com/artist/5fGQSkk1vCCsXliK22M5SJ) | [Face 2 Face](https://open.spotify.com/album/69lxB42eabgnDljSTcTRkL) | 3:02 | 2023-07-26 | 2023-09-21 |
@@ -743,6 +744,7 @@
 | [ICH BIN MEHR](https://open.spotify.com/track/0YS0OKO57tCeF4ozTpoHZ5) | [NAEON](https://open.spotify.com/artist/4QnLc5PK7vhBN0Zu6uGA0h) | [ICH BIN MEHR](https://open.spotify.com/album/1E2tSMQNHGAPmVFMTmsBYU) | 2:33 | 2022-03-16 | 2022-04-07 |
 | [Ich brauche Zeit](https://open.spotify.com/track/1Pk5gcTpJ31lA3Y5zy4Gq7) | [Die Partie](https://open.spotify.com/artist/4t9JuxQWRP7ZUGlMzIl1KH) | [Ich brauche Zeit](https://open.spotify.com/album/5dwxmklrwzAsvhOwSHY872) | 3:16 | 2023-03-22 | 2023-05-04 |
 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 | 2024-10-23 | 2025-03-27 |
+| [Ich dachte es wär' L'Amour toujours](https://open.spotify.com/track/5rzVThaJh0gWFXjHNG12Ty) | [Amigo Altmark](https://open.spotify.com/artist/1XhVUKaD8seaza3vv32MV2) | [Ich dachte es wär' L'Amour toujours](https://open.spotify.com/album/5vQx72pKOlEeiFHkE32ruy) | 3:28 | 2026-07-22 |  |
 | [Ich hasse, wenn](https://open.spotify.com/track/1ZN0a7X6ob3OtqeZG9pJ1c) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Ich hasse, wenn](https://open.spotify.com/album/772vujjiQ5Ka0MIbaUKzja) | 2:34 | 2024-09-25 | 2025-04-10 |
 | [ICH JAGE EINEN ZUG IN DIE LUFT](https://open.spotify.com/track/0vh7IEWBOUBMmPx5x0Eaqo) | [Peat](https://open.spotify.com/artist/63PWHfegUNVId6jDiZLOCL) | [WEICH](https://open.spotify.com/album/7ffhILR3RMdTQCWRQyui6d) | 2:46 | 2023-06-21 | 2023-07-27 |
 | [Ich lass mich heut nicht gehn](https://open.spotify.com/track/1fhVt2OThBJGVt03x8ScPQ) | [Club Arielle](https://open.spotify.com/artist/2uwgI4jlUDMA9GpRtUUDQs) | [Ich lass mich heut nicht gehn](https://open.spotify.com/album/2FyHzgsdq9NA2ODVJ93Dsm) | 3:43 | 2023-05-03 | 2023-06-01 |
@@ -865,7 +867,7 @@
 | [Laufen](https://open.spotify.com/track/5LXHSMvqTonMnHI8r8rys6) | [WAHNSCHAFFE](https://open.spotify.com/artist/2NnBz1FZqbjNd17dBBMsdh) | [Laufen](https://open.spotify.com/album/2dakEVmPv4LIeEiVVXkspV) | 4:06 | 2024-02-14 | 2024-04-04 |
 | [Laura](https://open.spotify.com/track/20THYUWiTFveytALH4pyUD) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [Laura](https://open.spotify.com/album/5yjJyNylWf8IgBjgtramLD) | 2:22 | 2022-01-05 | 2022-01-20 |
 | [Laura's Stern](https://open.spotify.com/track/4QAPoCZhTSWKO38zAmpZGh) | [NALI](https://open.spotify.com/artist/7J7cXoOrDcrMeozaxsrnkB), [kalla](https://open.spotify.com/artist/6NPqm65uxN88zrFo7l6vY3) | [Laura's Stern](https://open.spotify.com/album/2E3jVlkDn8oKLzRFeMN55J) | 2:27 | 2023-03-01 | 2023-04-06 |
-| [Laut liebst](https://open.spotify.com/track/50HLrozSR4h88iQn1mkxfS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Laut liebst](https://open.spotify.com/album/6jjxJxDaTdd4HGqM2WBehP) | 3:24 | 2026-02-18 |  |
+| [Laut liebst](https://open.spotify.com/track/50HLrozSR4h88iQn1mkxfS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Laut liebst](https://open.spotify.com/album/6jjxJxDaTdd4HGqM2WBehP) | 3:24 | 2026-02-18 | 2026-07-23 |
 | [Lavandin](https://open.spotify.com/track/5IZGF3cNuSXNOx6avWw1kZ) | [Henry Lee](https://open.spotify.com/artist/4vi7y8PycG15offJwItMkk) | [Lavandin](https://open.spotify.com/album/3mox9b1UDyEm2qGm6zvecL) | 4:26 | 2022-07-20 | 2022-09-09 |
 | [Lay Low](https://open.spotify.com/track/4Pi2uAbu29ro4kckXpi30u) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Lay Low](https://open.spotify.com/album/2Eh78kGNndSogbAf3hWCng) | 3:05 | 2022-03-07 | 2022-03-24 |
 | [Layla](https://open.spotify.com/track/05XRxhBH4w7gqkUWVn6Ktz) | [Yosef Madar](https://open.spotify.com/artist/0Om9WwRZyNzAI0NisSEXHg) | [Layla](https://open.spotify.com/album/01fIx3bZF1StvJaRAL13uO) | 4:13 | 2025-07-02 | 2025-08-14 |
@@ -914,6 +916,7 @@
 | [Lonely Garden](https://open.spotify.com/track/0IJpqvv7ItoJynsR7lcnxp) | [Wezn](https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf) | [Gonna Be Fine](https://open.spotify.com/album/40p8TMPlfO20tifVhpLWZt) | 4:14 | 2022-01-05 | 2022-01-27 |
 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 | 2024-09-25 | 2025-06-13 |
 | [Lonely Mermaid](https://open.spotify.com/track/08kgfckd3ggM9ctntbYyUZ) | [Gritty June](https://open.spotify.com/artist/5z5bN9lFTB51BLYGgn3449) | [Lonely Mermaid](https://open.spotify.com/album/2o20uWO718t5G2n4MO8ELU) | 4:15 | 2024-10-23 | 2025-06-19 |
+| [Look What I Found](https://open.spotify.com/track/7E86oNhprOwKUYa9ONGD5L) | [Sone & Solche](https://open.spotify.com/artist/5pULDfJ2E7PGzZIoTxeNV2) | [Look What I Found](https://open.spotify.com/album/7x5bHscadRpbTExdrOyd0L) | 4:28 | 2026-07-22 |  |
 | [Loop](https://open.spotify.com/track/6JvxNeGUgJSqCRgv1LGgFB) | [Radiovita](https://open.spotify.com/artist/5d5AjuBwEVxBsNMupg0FBa) | [Loop](https://open.spotify.com/album/09t9pxAI0P8UgMuhV3ZT1Q) | 2:45 | 2022-08-24 | 2022-10-13 |
 | [Looping](https://open.spotify.com/track/53iQ9f54NwGtlfdJti37fH) | [CORNETTI](https://open.spotify.com/artist/1s4ItLun1Fyn1irR7aiePS) | [Woddi In Gefahr](https://open.spotify.com/album/6Lo7UVIEFCKpAyI72vFkg2) | 2:54 | 2023-01-04 | 2023-01-26 |
 | [Loose Ends](https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC) | [True Blue](https://open.spotify.com/artist/0w4ZE2mVwiPd3f0zeZdvvQ) | [Loose Ends](https://open.spotify.com/album/17xVWNBPwsDdlFErK0J7Tx) | 3:17 | 2025-10-15 | 2025-11-13 |
@@ -1287,7 +1290,7 @@
 | [Search Bar](https://open.spotify.com/track/4slphl3JnFqtwwUka4zurt) | [NANI](https://open.spotify.com/artist/6NQk4holFlWEQkRPfCZHaQ) | [Search Bar](https://open.spotify.com/album/4rBi5KLTIImhBZeSr6lmmH) | 3:55 | 2023-03-22 | 2023-04-20 |
 | [Seasons](https://open.spotify.com/track/0CJVcIjU3xKOgRufhiE99j) | [Nina Celine](https://open.spotify.com/artist/4ts0PBYiqG54p9lBrZ6hy3) | [Seasons](https://open.spotify.com/album/3qfG69uFbDHJ9pXRQsUFBS) | 2:35 | 2024-06-26 | 2024-09-26 |
 | [See Me Falling](https://open.spotify.com/track/4uwMBGlXd7Yn8HMEaQpk31) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [See Me Falling](https://open.spotify.com/album/2SXIj5tIf7lkxLdTafEVXW) | 2:51 | 2022-05-18 | 2022-07-21 |
-| [Sehnsucht nach Sommer](https://open.spotify.com/track/4hC6rWpvPnDv5XoJPjEj5e) | [Magdalena Emilia](https://open.spotify.com/artist/6fKpmZpi5XC1eV7GR6bDRo) | [Sehnsucht nach Sommer](https://open.spotify.com/album/7wcg6C2eLJ7bomZMT7bvq4) | 4:02 | 2026-06-10 |  |
+| [Sehnsucht nach Sommer](https://open.spotify.com/track/4hC6rWpvPnDv5XoJPjEj5e) | [Magdalena Emilia](https://open.spotify.com/artist/6fKpmZpi5XC1eV7GR6bDRo) | [Sehnsucht nach Sommer](https://open.spotify.com/album/7wcg6C2eLJ7bomZMT7bvq4) | 4:02 | 2026-06-10 | 2026-07-23 |
 | [Sei Mal Nicht So Ungeduldig](https://open.spotify.com/track/1GBqCVG8qj2V54cD9dVWwG) | [Møenster](https://open.spotify.com/artist/13rAt0APbUEjLVnpCXC7AN) | [Sei Mal Nicht So Ungeduldig](https://open.spotify.com/album/5fXUDQHX1DHQwAb3aTgFct) | 7:18 | 2026-06-10 | 2026-07-09 |
 | [Selfie at the Beach](https://open.spotify.com/track/0T6AMaYBN4ubzr88xQrlAw) | [Olafur Mowa](https://open.spotify.com/artist/2X6EKI5skOSXrcGjaNe2Zl) | [Selfie at the Beach](https://open.spotify.com/album/1cFXzGos4lMyviwlhqXE32) | 3:11 | 2026-05-06 |  |
 | [Senior \- Original Mix](https://open.spotify.com/track/4j8E0U7XBYlkY68UIGr2El) | [Roemisch](https://open.spotify.com/artist/0WuIfBOsejzJRLHiVXtDSI) | [Senior, Pt.1](https://open.spotify.com/album/3GCgIARVOsS1QJUcrivfkU) | 7:00 | 2023-05-24 | 2023-07-06 |

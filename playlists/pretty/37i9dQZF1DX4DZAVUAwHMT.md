@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Loathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,333 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,129 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 |
 | 80 | [...hospice](https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [...hospice](https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf) | 4:13 |
 
-Snapshot ID: `AAAAAJPYpsNeiDe1uYvt1ID5Uh6U9hwu`
+Snapshot ID: `AAAAAI4zeT2wkINTTBrUtQ+uNvxNvIDU`

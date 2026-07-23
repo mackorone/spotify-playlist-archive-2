@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 234638,
+  "num_followers": 234672,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 180698,
       "name": "Kehkashan",
       "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
     },
     {
       "added_at": "2026-06-12 05:30:19",

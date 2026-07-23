@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,534 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,560 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 4 | [Rail](https://open.spotify.com/track/6z2XnVsRqnGUoyNQMNOwax) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Rail](https://open.spotify.com/album/1G0KafDEeFuPmEof5eRYo7) | 2:06 |
 | 5 | [DINOSAUR](https://open.spotify.com/track/7E39PKJyPRbwnzmFI1h8ur) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [ICon](https://open.spotify.com/artist/5nVC0lWDXqCHm0WX9BgjXg) | [DINOSAUR](https://open.spotify.com/album/6rA0EdOuLyA1DpOBYj7Wvf) | 2:21 |
 | 6 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
-| 7 | [Damn Fuck](https://open.spotify.com/track/2wYKOBgsmQCVblxlkXxxyX) | [The VIJU](https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv) | [Damn Fuck](https://open.spotify.com/album/6AJm6JTctKUjZZE9LXr87I) | 2:21 |
+| 7 | [Damn F\*ck](https://open.spotify.com/track/2wYKOBgsmQCVblxlkXxxyX) | [The VIJU](https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv) | [Damn F\*ck](https://open.spotify.com/album/6AJm6JTctKUjZZE9LXr87I) | 2:21 |
 | 8 | [Stock](https://open.spotify.com/track/3GOGNcPzmN3Vy804D9vUNV) | [Nindaniya](https://open.spotify.com/artist/5DhA0gXqsyZ4tpGqiybGva) | [Stock](https://open.spotify.com/album/01eLHSYcmafJra1YN2mCg2) | 3:06 |
 | 9 | [Sa Re Ga Ma Pa](https://open.spotify.com/track/0WlHUvu2yd2jJhaYrOJLFP) | [Parth Kamboj](https://open.spotify.com/artist/3nPa0lkAwrXNg0ceAhUDlF) | [Sa Re Ga Ma Pa](https://open.spotify.com/album/5aDPBJfTVFUn70Kl2qoQJv) | 2:26 |
 | 10 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |

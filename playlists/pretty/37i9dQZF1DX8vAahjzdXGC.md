@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Gracie Abrams , Shabrina Leanor, Katyana, Nadhif Basalamah, Carly Rae Jepsen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,245 likes - 83 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,199 likes - 83 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

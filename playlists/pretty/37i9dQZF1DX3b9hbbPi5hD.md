@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,937 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,051 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 24 | [Rumble](https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Rockabilly Insanity](https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL) | 2:24 |
 | 25 | [Treat Her Right](https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7) | [Roy Head And The Traits](https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ) | [The Best Of Roy Head](https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt) | 2:05 |
 | 26 | [Lo Chiamavano King \(His Name Is King\)](https://open.spotify.com/track/342v3Is0g1CfidoxekA4f8) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 1:57 |
-| 27 | [Surf Rider](https://open.spotify.com/track/7sOBuRK26Ov7CR5fRSR7Om) | [The Lively Ones](https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J) | [Surf Rider](https://open.spotify.com/album/0Sr5iRFquCQ5wFpKplZWSO) | 3:18 |
+| 27 | [Surf Rider](https://open.spotify.com/track/7sOBuRK26Ov7CR5fRSR7Om) | [The Lively Ones](https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J) | [Surf Rider](https://open.spotify.com/album/0Sr5iRFquCQ5wFpKplZWSO) | 3:19 |
 | 28 | [Fever](https://open.spotify.com/track/0p8lGTQcHQx6XgsVLrkQdx) | [Ann O'Day](https://open.spotify.com/artist/1WXPtDK8q0vU5pL7ozqMhC) | [Tarantino Fiction](https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ) | 3:27 |
 | 29 | [Out of Limits](https://open.spotify.com/track/7xAJpAeopaV6rilu3iiwME) | [The Marketts](https://open.spotify.com/artist/2W9dD4SfW7p19JtzRgWGjz) | [Out Of Limits!](https://open.spotify.com/album/36SLEYpVr7zHe3oDCC6hcI) | 2:09 |
 | 30 | [Flowers On the Wall](https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ) | [The Statler Brothers](https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI) | [Flowers On The Wall: The Essential Statler Brothers 1964\-1969](https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD) | 2:18 |

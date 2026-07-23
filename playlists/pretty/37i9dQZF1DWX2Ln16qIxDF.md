@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Joaquin LevinD10S
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,983 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,973 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
-| 2 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
+| 1 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
+| 2 | [Inconsciente Colectivo](https://open.spotify.com/track/1JTKEiTpAtlK01CEwRRals) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Pubis Angelical / Yendo De La Cama Al Living](https://open.spotify.com/album/1oZU9a9rdlLV2AB0OCocTZ) | 3:54 |
 | 3 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
 | 4 | [Pa' la Selección](https://open.spotify.com/track/2l0hr2jYYXdkbF393AThLm) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa' la Selección](https://open.spotify.com/album/3eEDJ9kMWQSwpJ0ymHxfk8) | 3:06 |
 | 5 | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [Toda La Semana](https://open.spotify.com/track/3z5DRSkON15pLJ4mHQwhUs) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [CASA](https://open.spotify.com/album/4O7hvaH8dCZsFg1wpTF9Og) | 1:52 |
 | 100 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 |
 
-Snapshot ID: `AAAAAPJT0wzEwPPy4G0QQjjBENJ4tgVV`
+Snapshot ID: `AAAAANmWJeB2GxwNPoxQedZwzMfWmDnO`

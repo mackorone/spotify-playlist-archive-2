@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chara
 
-3,837 songs - 10 day 4 hr 12 min
+3,837 songs - 10 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1978,7 +1978,6 @@
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 |  |
-| [Track 7](https://open.spotify.com/track/46F5IOzjm7aLrXwGtzUxba) | [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [TO THE LIVING CREATURES](https://open.spotify.com/album/20vAXiL7JKVM2n04hqzvmZ) | 0:00 | 2026-07-21 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |
@@ -2187,6 +2186,7 @@
 | [You Are My Snorkel](https://open.spotify.com/track/6Wcat6Y6mt1KXw2XzIBeIc) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [You Are My Snorkel](https://open.spotify.com/album/4k262eLlTpHidQVREp4gmc) | 3:39 | 2025-01-14 | 2025-01-22 |
 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 | 2022-05-29 | 2022-07-29 |
 | [You Are Not Alone Anymore](https://open.spotify.com/track/3TqESWzuryvfVT0ko09ot4) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [You Are Not Alone Anymore](https://open.spotify.com/album/6TwmINkXT8y2QbmqxVVSGi) | 4:35 | 2022-11-03 | 2022-11-09 |
+| [YOU ARE SPECIAL TO ME feat\. Takako Matsu](https://open.spotify.com/track/46F5IOzjm7aLrXwGtzUxba) | [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [TO THE LIVING CREATURES](https://open.spotify.com/album/20vAXiL7JKVM2n04hqzvmZ) | 4:15 | 2026-07-21 |  |
 | [You Be the Grandpa and I Be the Grandma](https://open.spotify.com/track/0TRR29A1f4tHNI6cDdlYCv) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Hibi AiAi](https://open.spotify.com/album/49yagUf1DBt4S2S72EBGWP) | 3:41 | 2024-03-05 | 2024-03-20 |
 | [YOU GOT IT](https://open.spotify.com/track/6xVIDaSATdzGWvqc7w32RV) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [YOU GOT IT](https://open.spotify.com/album/1uqGnDb73X1yu4IPrp18vD) | 4:42 | 2022-05-31 | 2022-06-02 |
 | [You Got This](https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [You Got This](https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta) | 4:15 | 2025-12-23 | 2026-04-16 |

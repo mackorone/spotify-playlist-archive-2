@@ -5560,7 +5560,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 201266,
       "name": "Circa 2019",
       "url": "https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT"
@@ -13462,6 +13462,32 @@
       "duration_ms": 181629,
       "name": "Il Sogno",
       "url": "https://open.spotify.com/track/5mWTu2PBwjreYBmGF05SfH"
+    },
+    {
+      "album": {
+        "name": "images on loan",
+        "url": "https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        },
+        {
+          "name": "Jan Urila Sas",
+          "url": "https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "images on loan",
+      "url": "https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO"
     },
     {
       "album": {
@@ -28810,7 +28836,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 233773,
       "name": "The Lesson",
       "url": "https://open.spotify.com/track/1NTdvJQ5GSdzf62o5GAmzq"
@@ -31428,6 +31454,24 @@
       "duration_ms": 190000,
       "name": "Updraft",
       "url": "https://open.spotify.com/track/7fMdiwexApJxjJExjROAB7"
+    },
+    {
+      "album": {
+        "name": "Use Your Noggin",
+        "url": "https://open.spotify.com/album/6yjp8vbsnuvvRDskpc5eoB"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198514,
+      "name": "Use Your Noggin",
+      "url": "https://open.spotify.com/track/2OjjAKMeEcpCvd7kJJ4MF4"
     },
     {
       "album": {

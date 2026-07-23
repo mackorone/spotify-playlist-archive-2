@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Marshmello and Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,002 likes - 106 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,892 likes - 106 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

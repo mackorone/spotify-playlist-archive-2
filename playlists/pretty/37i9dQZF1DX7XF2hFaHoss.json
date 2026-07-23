@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155560,
+  "num_followers": 155577,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Awake Me (Acoustic)",
-        "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Awake Me - Acoustic",
-      "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Awake Me (Acoustic)",
+        "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Awake Me - Acoustic",
+      "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Funeral for My Past",
-        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "3 Crow",
-      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Nothing We Say - EP",
         "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 211186,
       "name": "Nothing We Say",
       "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Funeral for My Past",
+        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "3 Crow",
+      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5"
+        "name": "Hard To Look At",
+        "url": "https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv"
       },
       "artists": [
         {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+          "name": "Cammy Enaharo",
+          "url": "https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b"
+      "duration_ms": 149773,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z"
     }
   ],
   "unique_name": "Women of Acoustic",

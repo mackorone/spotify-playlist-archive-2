@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-590 songs - 1 day 0 hr 34 min
+591 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 | 2023-11-09 |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2026-07-23 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -291,6 +291,7 @@
 | [let up](https://open.spotify.com/track/79LW20kYsfGPXIU6UEXkHC) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/3xIi8UWc8EG3qKhSnhPZ9o) | 3:04 | 2022-09-22 | 2022-11-28 |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2020-09-18 | 2022-07-21 |
 | [Life moves fast, so take my hand.](https://open.spotify.com/track/67N6n2BFVxoZJ085I7UwpN) | [pigbaby](https://open.spotify.com/artist/6bY6N1PHP9mSt8fZ1V2hHd) | [Life moves fast, so take my hand.](https://open.spotify.com/album/17EqbqNeKeVznFr0Z7uxoF) | 3:19 | 2024-04-12 | 2024-04-29 |
+| [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2026-07-18 |  |
 | [Lofi Just Colleagues](https://open.spotify.com/track/2kTCoVdNSA48FZH8lV3xAR) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Just Colleagues](https://open.spotify.com/album/4evSVnCgwLIdxp2DOXsoiI) | 3:20 | 2019-06-14 | 2019-08-13 |
 | [Lofi Keanu Level Lonely](https://open.spotify.com/track/2I5Gnq6Cbws0Sw2AFNWrGP) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Keanu Level Lonely](https://open.spotify.com/album/3gVRNPuo2EiUZiIcPT2IK4) | 2:53 | 2020-11-06 | 2022-07-08 |
 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 | 2020-03-27 | 2026-06-10 |

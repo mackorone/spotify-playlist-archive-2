@@ -4,7 +4,7 @@
 
 > New makes old\. Cover:  Presley Haile
 
-274 songs - 16 hr 7 min
+275 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Kindness of Strangers](https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Kindness of Strangers](https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ) | 3:30 | 2021-11-12 | 2026-04-11 |
 | [Lavender Cowboy](https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07), [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Lavender Cowboy](https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w) | 3:13 | 2026-04-17 |  |
 | [Lawdy Mama](https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Lawdy Mama](https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe) | 2:44 | 2026-03-06 |  |
-| [Leap of Faith](https://open.spotify.com/track/6WaVOSups4AIb72awqLxZC) | [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Over the Hill](https://open.spotify.com/album/0qiMZ5JP7cPermGzvLNL5V) | 4:46 | 2026-04-17 |  |
+| [Leap of Faith](https://open.spotify.com/track/6WaVOSups4AIb72awqLxZC) | [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Over the Hill](https://open.spotify.com/album/0qiMZ5JP7cPermGzvLNL5V) | 4:46 | 2026-04-17 | 2026-07-23 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 6:19 | 2021-11-12 | 2022-07-29 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 | 2022-04-01 | 2024-04-19 |
 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 | 2023-05-19 | 2024-04-17 |
@@ -161,6 +161,7 @@
 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 | 2022-04-01 | 2024-04-19 |
 | [Love Don’t](https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 5:10 | 2021-11-12 | 2026-03-07 |
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2025-04-27 |
+| [Lucky Me](https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Lucky Me](https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05) | 2:23 | 2026-07-17 |  |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2025-05-31 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
 | [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 | 2023-05-13 |

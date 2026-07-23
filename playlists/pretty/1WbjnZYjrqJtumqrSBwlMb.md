@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,274 songs - 3 day 6 hr 37 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,275 songs - 3 day 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1282,5 +1282,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1272 | [lovesexdrugbomb \(feat\. Cecile Believe\)](https://open.spotify.com/track/4cPmWicSiYsqRQAzBey7h3) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:56 |
 | 1273 | [nice shoes / in your world](https://open.spotify.com/track/3HiQJBnNtDkugJdUasvFl9) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 9:03 |
 | 1274 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
+| 1275 | [Hell of a time](https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Hell of a time](https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF) | 3:43 |
 
-Snapshot ID: `AAAJ/ykBvMHcca26HYuSjCInx1l6wQax`
+Snapshot ID: `AAAKAG9Fri5n6n6VN01316soZsTNxF98`

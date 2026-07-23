@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Gaskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,679 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,653 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 6 | [Mobile Groove](https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Mobile Groove](https://open.spotify.com/album/2njt1aVBaYxJLhWsdffPvD) | 3:39 |
 | 7 | [Livin' It Up \(feat\. Aaron Pfeiffer\)](https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Ellia Jaya](https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO), [Wildish](https://open.spotify.com/artist/4Ad0ieOmXbPzBc6zgtZPGp), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Energy Crew Pt\. 1](https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe) | 3:27 |
 | 8 | [Best Be Believing](https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd), [Caleb Laurenson](https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR) | [Best Be Believing](https://open.spotify.com/album/02mPc6O70UKAHE4A3rEVkL) | 3:37 |
-| 9 | [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 |
-| 10 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
-| 11 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 |
-| 12 | [Lola](https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Lola](https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH) | 3:08 |
-| 13 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
-| 14 | [Run \(feat\. O.MMY\)](https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV), [O.MMY](https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS) | [Run EP](https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts) | 3:03 |
-| 15 | [What's Going On](https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [What's Going On](https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO) | 3:59 |
-| 16 | [Soul Makossa](https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul Makossa](https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX) | 3:57 |
-| 17 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
-| 18 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 |
+| 9 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 |
+| 10 | [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 |
+| 11 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
+| 12 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 |
+| 13 | [Lola](https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Lola](https://open.spotify.com/album/6l1M4X2wod3t8TRskGOtYH) | 3:08 |
+| 14 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
+| 15 | [Run \(feat\. O.MMY\)](https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV), [O.MMY](https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS) | [Run EP](https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts) | 3:03 |
+| 16 | [What's Going On](https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [What's Going On](https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO) | 3:59 |
+| 17 | [Soul Makossa](https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul Makossa](https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX) | 3:57 |
+| 18 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 19 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
 | 20 | [The Bridge](https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [Nate Katz](https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj) | [The Bridge](https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs) | 3:37 |
 | 21 | [Superstitious](https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Superstitious](https://open.spotify.com/album/4OFWmT2MVOf56J4u4WMe1b) | 3:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 98 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
 | 99 | [Don't Stop](https://open.spotify.com/track/5q9k7vafwOFIB6ErqcjCJe) | [Dafs](https://open.spotify.com/artist/4o1Bvr2CXpQRuw7JnTaO4N) | [Don't Stop](https://open.spotify.com/album/3Ml1RHy8ZnnCUOcG1kP2bA) | 3:16 |
 
-Snapshot ID: `AAAAAGNm+YT4WNRqP/rMZB9uY3YzDIPL`
+Snapshot ID: `AAAAAHrVGGa3ESI+UxCkJtfQ2nTPzTYH`

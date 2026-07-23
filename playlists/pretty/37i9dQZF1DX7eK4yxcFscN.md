@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eK4yxcFscN.md) - [plain]
 
 > Enjoy the TWS 24/7:FOR:YOU Tour LIVE SET including the voices from stage! \(TWS 맴버들의 무대 멘트가 포함된 24/7:FOR:YOU 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,726 likes - 23 songs - 54 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,757 likes - 23 songs - 54 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

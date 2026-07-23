@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Rebelion & The Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,853 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,909 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 30 | [Pump This Party](https://open.spotify.com/track/7EECoeGtYFyDHRTJ1qAlPD) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Pump This Party](https://open.spotify.com/album/5TSg4h8NEMvntbqkKfPURu) | 2:51 |
 | 31 | [Ready To Fly](https://open.spotify.com/track/4HzGGIqXWAqK0SkLpXVUgB) | [Testarossa](https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW) | [Ready To Fly](https://open.spotify.com/album/7eRo0B3Xiy3UnvTzFWrDgd) | 3:06 |
 | 32 | [BACK TO BASICS](https://open.spotify.com/track/26Ia0YGbzItnlz5IpewDaI) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [BACK TO BASICS](https://open.spotify.com/album/1AKBx4RPU7jtv0qDzOot8U) | 2:51 |
-| 33 | [Waiting 4](https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ) | [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Waiting 4](https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN) | 3:44 |
+| 33 | [WAITING 4](https://open.spotify.com/track/0BUnzynrao4zAwwB0i3sWQ) | [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [WAITING 4](https://open.spotify.com/album/7dsCiVsIdLVpjaIig6X0sN) | 3:44 |
 | 34 | [2001](https://open.spotify.com/track/3lXFCv64yKOqac9z7mAJSA) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2001](https://open.spotify.com/album/2QOa2OfzGzpOZC8gsi5pH2) | 3:18 |
 | 35 | [What Is Love](https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [What Is Love](https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a) | 2:29 |
 | 36 | [Dark Side Of The Moon](https://open.spotify.com/track/72GAzWAJ6lf1ILU9jPVmLD) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [Wolv](https://open.spotify.com/artist/3rG76jpMKtnTFp9pOuKIYX) | [Dark Side Of The Moon](https://open.spotify.com/album/3cjRGnhfG72ACtuCA9FEFW) | 3:17 |

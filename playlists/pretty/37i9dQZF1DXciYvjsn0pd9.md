@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,879 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,886 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 28 | [Zombie Nation](https://open.spotify.com/track/3csn4s62ZZbxKT4bPxSALg) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/2lOLSKJN0YjN9CPHsOqBOx) | 3:03 |
 | 29 | [Missing You](https://open.spotify.com/track/5sw7riEsdPOFMjjGUietiz) | [Niklas Long](https://open.spotify.com/artist/56udwxmcaG72FBXguNW1AN) | [Missing You](https://open.spotify.com/album/6qYZ9VnIrtHkgALrCfPUsY) | 2:22 |
 | 30 | [Echo](https://open.spotify.com/track/57Zcl7oKKr29qHp38dzzWi) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Echo](https://open.spotify.com/album/5FD17pMow4ZwfWdRGPqNBw) | 3:00 |
-| 31 | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/track/3muLhrpYdopNymiYwHs8Wx) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/album/3ZyK7RwnYOGoUh3QRhM6cN) | 3:49 |
+| 31 | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/track/3muLhrpYdopNymiYwHs8Wx) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/album/3ZyK7RwnYOGoUh3QRhM6cN) | 3:49 |
 | 32 | [Blue Dreams](https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Blue Dreams](https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe) | 4:08 |
 | 33 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 34 | [Amor en la Playa](https://open.spotify.com/track/7po18yftlR0AgXUq2QxNTk) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/6Dd7ia5yM9pOKvfqPFnb5p) | 3:54 |

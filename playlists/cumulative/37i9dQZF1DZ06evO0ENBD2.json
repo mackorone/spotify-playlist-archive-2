@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Night At The Opera (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210800,
+      "name": "'39",
+      "url": "https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 210800,
       "name": "'39 - Remastered 2011",
       "url": "https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0"
@@ -142,10 +160,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 41454,
       "name": "Ay-Oh - Live Aid",
       "url": "https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41454,
+      "name": "Ay-Oh - Live Aid",
+      "url": "https://open.spotify.com/track/6vSlOsSEWF6IA3kXJj16jF"
     },
     {
       "album": {
@@ -527,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "Dreamer's Ball - Remastered 2011",
+      "url": "https://open.spotify.com/track/0TpWjIOuNMnpuRjriPbGiF"
+    },
+    {
+      "album": {
         "name": "Face It Alone",
         "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
       },
@@ -833,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "Headlong",
+      "url": "https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX"
+    },
+    {
+      "album": {
         "name": "Innuendo (2011 Remaster)",
         "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
       },
@@ -844,7 +916,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 277773,
       "name": "Headlong - Remastered 2011",
       "url": "https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh"
@@ -1013,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Made In Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289813,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8"
+    },
+    {
+      "album": {
         "name": "Made in Heaven (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD"
       },
@@ -1042,7 +1132,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 289813,
       "name": "I Was Born To Love You - 2011 Remaster",
       "url": "https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb"
@@ -1085,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393026,
+      "name": "Innuendo",
+      "url": "https://open.spotify.com/track/1TSyv6LI3bGpK2k0WbHxMG"
+    },
+    {
+      "album": {
         "name": "Innuendo (2011 Remaster)",
         "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
       },
@@ -1096,7 +1204,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 393026,
       "name": "Innuendo - Remastered 2011",
       "url": "https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi"
@@ -1121,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "The Works (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246973,
+      "name": "It's A Hard Life",
+      "url": "https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz"
+    },
+    {
+      "album": {
         "name": "The Works (2011 Remaster)",
         "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
       },
@@ -1132,7 +1258,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 246973,
       "name": "It's A Hard Life - Remastered 2011",
       "url": "https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic"
@@ -1211,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Sheer Heart Attack",
+        "url": "https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Killer Queen",
+      "url": "https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq"
+    },
+    {
+      "album": {
         "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
@@ -1222,7 +1366,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
@@ -1507,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "A Kind Of Magic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Princes Of The Universe",
+      "url": "https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG"
+    },
+    {
+      "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
@@ -1518,7 +1680,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 213826,
       "name": "Princes Of The Universe - Remastered 2011",
       "url": "https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK"
@@ -1615,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "The Game (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229920,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE"
+    },
+    {
+      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -1626,7 +1806,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 229920,
       "name": "Save Me - Remastered 2011",
       "url": "https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd"
@@ -1666,6 +1846,24 @@
       "duration_ms": 134120,
       "name": "Seaside Rendezvous - Remastered 2011",
       "url": "https://open.spotify.com/track/0VU7avDE4OZ36oVmLPSEZA"
+    },
+    {
+      "album": {
+        "name": "Queen II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "Seven Seas Of Rhye",
+      "url": "https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT"
     },
     {
       "album": {
@@ -1734,7 +1932,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 168973,
       "name": "Seven Seas Of Rhye - Remastered 2011",
       "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
@@ -2081,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255040,
+      "name": "These Are The Days Of Our Lives",
+      "url": "https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya"
+    },
+    {
+      "album": {
         "name": "Innuendo (2011 Remaster)",
         "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
       },
@@ -2092,7 +2308,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 255040,
       "name": "These Are The Days Of Our Lives - 2011 Remaster",
       "url": "https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN"
@@ -2464,7 +2680,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-23",
       "duration_ms": 167103,
       "name": "Who Wants To Live Forever - Stranger Things Remix",
       "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"

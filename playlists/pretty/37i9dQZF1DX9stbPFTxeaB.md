@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,896 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,852 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 28 | [Long Coal Train](https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [New World Arisin'](https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj) | 3:51 |
 | 29 | [Dark Side of Love](https://open.spotify.com/track/6EbzWtH5vZb9gq39Ql8XYI) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [How I Go](https://open.spotify.com/album/4eCuv1pfX4HHc1pl2uKcCg) | 4:20 |
 | 30 | [Walkin' The Dawg](https://open.spotify.com/track/6xHzY67lLIJNdxbR5LxZ5S) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Rollin' & Tumblin'](https://open.spotify.com/album/4GMf9XTF6WJSh6Eh8cm6Up) | 3:44 |
-| 31 | [Well Run Dry](https://open.spotify.com/track/0dlfcbC2ecv3RS94noopTd) | [Phat Phunktion](https://open.spotify.com/artist/5GuKx54Cj6eZanOdPVGfHu) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 4:04 |
+| 31 | [Well Run Dry](https://open.spotify.com/track/0dlfcbC2ecv3RS94noopTd) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 4:04 |
 | 32 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 33 | [Built For Comfort](https://open.spotify.com/track/5vXgup8xsz2qAd2cySLrBk) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues](https://open.spotify.com/album/12jkU3QDHEWbtJWobBgR61) | 4:24 |
 | 34 | [U got 2 believe](https://open.spotify.com/track/7acEqMLOUhLp3N5jav2YzM) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U got 2 believe](https://open.spotify.com/album/46Ccp0e59OQ79ivNnP6XVY) | 3:28 |

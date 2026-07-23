@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,436 songs - 3 day 15 hr 33 min
+1,437 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Be My Peace](https://open.spotify.com/track/7fEb4dVIBpAuVSgBMYsLVQ) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [NIGHT](https://open.spotify.com/album/0F8J7b1Ce2P1PgKGaKLlL3) | 2:30 | 2025-09-14 | 2025-11-16 |
 | [Be Still](https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Feel It All](https://open.spotify.com/album/3qF1BKqphh0Cmcf5i55Kqe) | 4:25 | 2025-10-06 | 2025-11-16 |
 | [Be Thou My Vision](https://open.spotify.com/track/217ORFLwhqBy6WXKvZWRwk) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Sparrow](https://open.spotify.com/album/0uXW5wg5k3SWxfnJNYKRU6) | 3:07 | 2026-04-17 | 2026-05-20 |
+| [Beat Around the Bush](https://open.spotify.com/track/1514nKJZGRVY6rjnABlqBj) | [Madalyn Rae](https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG) | [Beat Around the Bush](https://open.spotify.com/album/3VBfv8Xf2zITBnaavDIOuo) | 3:01 | 2026-07-17 |  |
 | [Beat Of My Heart](https://open.spotify.com/track/67iOBwdL5gF9Iz50jxJjka) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Beat Of My Heart](https://open.spotify.com/album/3mvfIJc3bBLBkmn2JjhbcC) | 2:26 | 2025-03-14 | 2025-04-05 |
 | [Beautiful Life](https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Forever Now](https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi) | 3:54 | 2026-07-03 |  |
 | [Beautiful Things \(From the Angel Original Series Miracle\)](https://open.spotify.com/track/5pdVUXCTlMP4kfwcNICBai) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Beautiful Things \(From the Angel Original Series Miracle\)](https://open.spotify.com/album/3EaCnsYAOPeRGrd6bfful3) | 3:22 | 2025-11-15 | 2026-02-21 |
@@ -1254,7 +1255,7 @@
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2022-10-29 | 2024-04-19 |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-29 | 2023-02-25 |
 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 | 2025-11-15 | 2026-01-18 |
-| [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 | 2026-07-17 |  |
+| [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 | 2026-07-17 | 2026-07-23 |
 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 | 2022-05-27 | 2024-06-08 |
 | [This Is The Kingdom](https://open.spotify.com/track/6X2Hk6NqJZtRaQKi0yDNdR) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [This Is The Kingdom](https://open.spotify.com/album/7KozhBzKtdVRPbQpGF8eQf) | 3:22 | 2025-10-06 | 2025-11-16 |
 | [This Is Where It Ends](https://open.spotify.com/track/3eWh9MGqBQDIh4in5G4aMc) | [Izzy Marcil](https://open.spotify.com/artist/5TLisHXAWT6wxNAPpBtKyW), [Ester Na](https://open.spotify.com/artist/2ovCrxeZKuCtLvBMbVbu4V) | [This Is Where It Ends](https://open.spotify.com/album/16GXDHvlNbXxwBgzIbuhW0) | 3:33 | 2026-02-20 | 2026-03-22 |

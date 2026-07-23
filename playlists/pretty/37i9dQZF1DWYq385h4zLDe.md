@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 > It’s a call from the ancestors\. Listen to all of your favorite music from the world of Moana\. Disney's Live\-Action Moana, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,671 likes - 97 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,742 likes - 97 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 | 96 | [Navigating Home](https://open.spotify.com/track/4izlxzOjLPRzWy6Co5x0N0) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:47 |
 | 97 | [Hand of a God](https://open.spotify.com/track/1ytmdDK5IqzTGhmEc4gHIt) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:30 |
 
-Snapshot ID: `AAAAAI/BTbrJ27TwKs+ij6/JXyZAtOWa`
+Snapshot ID: `AAAAAL8ou3pdzCSvw3l2yhlR64nakAGm`

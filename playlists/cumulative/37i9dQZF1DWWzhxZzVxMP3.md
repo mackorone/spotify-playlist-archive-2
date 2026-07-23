@@ -4,7 +4,7 @@
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-209 songs - 12 hr 6 min
+213 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,14 @@
 | [Beautiful Things](https://open.spotify.com/track/4CRjazq3qlqmWA70eRYT04) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Beautiful Things](https://open.spotify.com/album/3YVIdrr8jij0zXuPsbCQTc) | 2:49 | 2025-07-15 |  |
 | [Best Day of my life](https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [Best Day of my life](https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr) | 2:16 | 2024-01-12 |  |
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2022-03-10 | 2023-05-17 |
+| [Birds of a feather](https://open.spotify.com/track/4OSX3HcQkcEbYYm8200QIb) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Birds of a feather](https://open.spotify.com/album/01YqFMlRp2ajINHPbOB6Ub) | 3:04 | 2026-07-22 |  |
 | [Blackbird](https://open.spotify.com/track/5QM7e0GyD5DMBOIvtLjaf2) | [Sun Valley](https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL) | [Blackbird](https://open.spotify.com/album/1HmkXHFDjG9iLu3VissPyY) | 2:55 | 2025-07-15 |  |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2023-05-16 |  |
 | [Boy's A Liar Pt\. 2](https://open.spotify.com/track/628N0m21u9FyGMIFV85HGt) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [Boy's A Liar Pt\. 2](https://open.spotify.com/album/4lVPIw5W56lJN0Tia74J0j) | 3:13 | 2023-06-01 |  |
 | [Boyfriend \- Bossa Nova](https://open.spotify.com/track/3LzIAzvutNe6RMl3q6ad5F) | [Bossalistix](https://open.spotify.com/artist/6JLsmh5MxY9n0nIhgfiJ6d) | [Boyfriend \(Bossa Nova\)](https://open.spotify.com/album/6kBAw2nCXHTeZxv6Pu1fgP) | 3:01 | 2022-03-10 |  |
 | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y) | 2:48 | 2022-03-10 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Cake By The Ocean](https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI) | 3:43 | 2022-03-10 | 2023-05-17 |
+| [Cake by the Ocean](https://open.spotify.com/track/1TRPwXTgobAIKpQf3hgoHz) | [Norrpann](https://open.spotify.com/artist/1WOv7j8FFLio8VNoZjSNke) | [Cake by the Ocean](https://open.spotify.com/album/5w2mW8lOJStVdUsABAPr4T) | 2:42 | 2026-07-22 |  |
 | [Call Me Maybe](https://open.spotify.com/track/5HwjQ63UtHURR9Dn0JuLtw) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Call Me Maybe](https://open.spotify.com/album/3NZtAzx3ncvX0WVNQdqFaJ) | 3:24 | 2023-09-22 |  |
 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 | 2022-03-10 | 2023-05-17 |
 | [Can't Feel My Face](https://open.spotify.com/track/6kCmzHekDabtgbLVrMeK3G) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Can't Feel My Face](https://open.spotify.com/album/40h5M7JPSNxEP577f4iqRG) | 3:57 | 2024-03-22 |  |
@@ -154,6 +156,7 @@
 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-26 | 2023-02-16 |
 | [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 | 2022-09-30 | 2023-05-17 |
 | [Peaches](https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs) | 3:16 | 2022-03-10 | 2022-07-29 |
+| [Pink Pony Club](https://open.spotify.com/track/7A7karMOUYg6yNNABD8CGF) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Pink Pony Club](https://open.spotify.com/album/6T1c8lMNJRIBBrpDbChx2U) | 4:05 | 2026-07-22 |  |
 | [Positions \- Bossa Version](https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl) | [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Positions \(Bossa Version\)](https://open.spotify.com/album/218e30ooDSv9hrL6127O7b) | 3:50 | 2023-04-13 | 2023-05-17 |
 | [Pretty Girl](https://open.spotify.com/track/5XNTOoC2zlrKu6PUNAcFw5) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl](https://open.spotify.com/album/10xokanjgvjyZYFmaDND32) | 3:00 | 2023-05-25 |  |
 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 | 2022-03-10 |  |
@@ -186,6 +189,7 @@
 | [Stayin’ Alive](https://open.spotify.com/track/5KgnB166PJ24Oypfe8petC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Stayin' Alive](https://open.spotify.com/album/3plUh4cu5YpQJRHY61QHBN) | 3:37 | 2022-06-03 | 2023-05-17 |
 | [Summertime Sadness \(Bossa Nova Version\) \[Originally Performed By Lana Del Rey\]](https://open.spotify.com/track/7fu2faNjkEZWrHxpBdHJw6) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 4:32 | 2022-03-10 | 2023-04-14 |
 | [Sunday Best](https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW) | [Hot Spot Band](https://open.spotify.com/artist/280Ye8CB89v9PCZE1b2H8s), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best](https://open.spotify.com/album/4K3x2c6Juuuq5nTHR56TYr) | 2:36 | 2022-03-10 |  |
+| [Sweater Weather](https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP) | [Anita Donndorff](https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ) | [Sweater Weather](https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1) | 3:31 | 2026-07-22 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 | 2022-05-04 | 2023-05-17 |
 | [Sweet Dreams \(Are Made of This\) \- Bossa Nova Version](https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW) | [Lisa Laew](https://open.spotify.com/artist/1BJxvqEKk18whkqb6eNUSR) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/417nFOw9t04mP8GCqMKqps) | 2:35 | 2023-10-27 |  |
 | [Take on me](https://open.spotify.com/track/6TYgHFFLZRbX491zjRjcND) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 3:38 | 2023-04-13 | 2023-05-17 |
