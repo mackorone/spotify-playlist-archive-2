@@ -2,9 +2,9 @@
 
 ### [Rock 2026](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Bloodstein.
+> Súbete a la nueva ola del rock español\. Foto: Viva Belgrado.
 
-752 songs - 1 day 14 hr 56 min
+755 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [El sueño dura una semana](https://open.spotify.com/track/58EkA2ErzMaMEGdc6ofJZ8) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [El sueño dura una semana](https://open.spotify.com/album/7bKHcGcrUqX7NGE6pYH3Ol) | 2:34 | 2025-09-25 | 2026-03-06 |
 | [Elegante](https://open.spotify.com/track/6YeaXPb86tGmdlgpizacvb) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Elegante](https://open.spotify.com/album/2a0yaEpQbmjBMxkjwKW9qS) | 2:22 | 2025-08-28 | 2025-11-21 |
 | [Ella quiere tocarme el pelo](https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Ella quiere tocarme el pelo](https://open.spotify.com/album/3ZsloSV4M7bd7IKef9BxwJ) | 2:18 | 2025-06-26 | 2026-01-16 |
+| [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 | 2026-07-23 |  |
 | [EN EL FESTÍN](https://open.spotify.com/track/1UAc6pOJ6j0Su1SLpXUdMB) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [EN EL FESTÍN](https://open.spotify.com/album/4GmcslgP7KlsZ0loxXfm5G) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-27 | 2024-11-22 |
 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 | 2024-11-14 | 2025-10-10 |
@@ -461,7 +462,7 @@
 | [Nena, no estás](https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Nena, no estás](https://open.spotify.com/album/7pwjXZKNYOqhKBRTJwDmTZ) | 2:36 | 2025-02-27 | 2025-11-07 |
 | [Nirvana](https://open.spotify.com/track/4JY44DPb89RJztHekdCeiV) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Nirvana](https://open.spotify.com/album/5ZYYYVWdLbVb8vc3nSfFEX) | 2:47 | 2025-02-20 | 2025-03-14 |
 | [NIÑATO](https://open.spotify.com/track/3IN2HLaiCMzZdTbzI02ilO) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [NIÑATO](https://open.spotify.com/album/6Yq2v36dO3vv7MXQ61DibR) | 2:23 | 2025-05-01 | 2025-05-16 |
-| [Niño de 30 años](https://open.spotify.com/track/4CpgEPgm49U7pCekSg08xF) | [Los Primos Chicos](https://open.spotify.com/artist/3f5tmulSTw3ykOxZIrnPbm) | [Niño de 30 años](https://open.spotify.com/album/5qPQrLUHlpDKJQRFgNBeYo) | 3:08 | 2026-06-25 |  |
+| [Niño de 30 años](https://open.spotify.com/track/4CpgEPgm49U7pCekSg08xF) | [Los Primos Chicos](https://open.spotify.com/artist/3f5tmulSTw3ykOxZIrnPbm) | [Niño de 30 años](https://open.spotify.com/album/5qPQrLUHlpDKJQRFgNBeYo) | 3:08 | 2026-06-25 | 2026-07-24 |
 | [Niños Perdidos](https://open.spotify.com/track/1UqcUWFQdHsdkOuBLStzem) | [Tatuaje](https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8) | [Niños Perdidos](https://open.spotify.com/album/6Jm9mp28EyfixR9ZvxCmY7) | 3:31 | 2025-02-13 | 2025-03-07 |
 | [No dejaré de abrazarte](https://open.spotify.com/track/1oICrICUMPDOMRatYykwOf) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [No dejaré de abrazarte](https://open.spotify.com/album/3DSbalh1h4whx7z8Hrw3br) | 2:52 | 2025-10-02 | 2025-10-31 |
 | [No era esto a lo que veníamos](https://open.spotify.com/track/19yuL7xgX4vYVPh4mdImWG) | [destellos\*](https://open.spotify.com/artist/64lSN5YYxoqLJB1dC3HS3C) | [No era esto a lo que veníamos](https://open.spotify.com/album/5cpTiFYB37nyHvEnme2XLa) | 3:16 | 2025-06-26 | 2025-07-11 |
@@ -593,12 +594,13 @@
 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 | 2024-06-27 | 2024-09-06 |
 | [saliendo bien](https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB) | [Supermeganada](https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0) | [saliendo bien](https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP) | 3:04 | 2024-12-05 | 2025-01-24 |
 | [Salir a Ganar](https://open.spotify.com/track/70etMlxRMquUw95FunfxWx) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Salir a Ganar](https://open.spotify.com/album/259OdbClRvZ1xzDRaL2yBY) | 3:19 | 2026-01-15 | 2026-01-23 |
+| [San Antón 21](https://open.spotify.com/track/6PuO0OWCAwBOtAuDbF9aqe) | [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4) | [San Antón 21](https://open.spotify.com/album/7mCr53lNt2RCAUBoBqw6Vg) | 2:15 | 2026-07-23 |  |
 | [San Petersburgo](https://open.spotify.com/track/26AcPb0hGHW5lhuOUToe2r) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [San Petersburgo](https://open.spotify.com/album/4k5TKLYvuFbJBdBr9bykPe) | 2:29 | 2025-10-23 | 2025-11-21 |
 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 | 2024-07-25 | 2025-01-17 |
 | [Santas Pascuas](https://open.spotify.com/track/2tNFq8fnljBjfpbnF61As4) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Santas Pascuas](https://open.spotify.com/album/1uvsVK56FgVStxDCJGbCfg) | 2:16 | 2024-08-29 | 2024-09-06 |
 | [seguir sufriendo](https://open.spotify.com/track/2liLdJK1sGGkz32KyLlYYP) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM), [Hazme Caso](https://open.spotify.com/artist/0b5peNQ5p3JYJX6E8FjxNO) | [seguir sufriendo](https://open.spotify.com/album/7qYlbGm7Llzjj9SMan99sN) | 3:11 | 2025-08-21 | 2025-09-05 |
 | [Segunda capa](https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv) | [Palo Domado](https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5) | [Segunda capa](https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3) | 2:49 | 2025-07-31 | 2025-11-07 |
-| [Señales](https://open.spotify.com/track/2CiIzUY0Jm3lYBGK6x7mj0) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Señales](https://open.spotify.com/album/04CEOKH1mBOyzwm5w4Qb4M) | 3:43 | 2026-07-02 |  |
+| [Señales](https://open.spotify.com/track/2CiIzUY0Jm3lYBGK6x7mj0) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Señales](https://open.spotify.com/album/04CEOKH1mBOyzwm5w4Qb4M) | 3:43 | 2026-07-02 | 2026-07-24 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 | 2025-07-17 |  |
 | [Si Me Pierdo](https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Si Me Pierdo](https://open.spotify.com/album/3MJbzjwIt0YuozGKQcTagl) | 3:19 | 2025-03-27 | 2025-07-25 |
 | [Si me quieres o si no](https://open.spotify.com/track/6UAcqX3SVd0rEJF7ki11Vd) | [The Killer Barbies](https://open.spotify.com/artist/56yLECeTwcGv8OoIS9ycwP) | [Si me quieres o si no](https://open.spotify.com/album/1RwmbDa7JJOzzr1FRwTQz4) | 2:55 | 2025-03-13 | 2025-05-30 |
@@ -635,6 +637,7 @@
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
 | [Sé Lo Que Quiero](https://open.spotify.com/track/0hjmqetCUhd1EQBnVEulLI) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Sé Lo Que Quiero](https://open.spotify.com/album/7pWL1LAJaW1TZnH2VJFvMD) | 2:35 | 2025-06-19 | 2025-07-18 |
 | [Sé que no](https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Sé que no](https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH) | 2:36 | 2024-10-31 | 2024-11-22 |
+| [Súper futuro](https://open.spotify.com/track/5Qnf3VzZuGRbCDiN5cgkGB) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Súper futuro](https://open.spotify.com/album/48mUtZXZlr52j6LfjCCeaq) | 4:08 | 2026-07-23 |  |
 | [T E R A P I A](https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [T E R A P I A](https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1) | 2:34 | 2024-12-05 | 2025-04-12 |
 | [talento natural](https://open.spotify.com/track/1aQTHE9NGTGnV4hc9BsSPt) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [el uno por el otro](https://open.spotify.com/album/7h9XlyWGpF4EXfpgQVCR6t) | 2:24 | 2026-04-23 | 2026-05-15 |
 | [Tampoco Pasa Nada](https://open.spotify.com/track/3UkqKPDhPQ5aMA5hxK73fx) | [Bianca Castafiore](https://open.spotify.com/artist/1KHlqNuKCNNK8Li5h77Ygi) | [Tampoco Pasa Nada](https://open.spotify.com/album/04Yu6Y47Goe7vEht6rI5HT) | 3:21 | 2026-03-05 | 2026-03-20 |
@@ -653,7 +656,7 @@
 | [Todas las cosas que no te decía](https://open.spotify.com/track/5SyuKCkZ6qyfs8N2OiCYM3) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Todas las cosas que no te decía](https://open.spotify.com/album/30SLv9bbXxBA358ZcSh9sa) | 2:26 | 2026-06-04 | 2026-06-12 |
 | [Todo Igual](https://open.spotify.com/track/5i9BjMMjV6saaKFhkBigf7) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [Todo Igual](https://open.spotify.com/album/6zIwjmV4OU5zUmUKEzbN8v) | 4:30 | 2026-04-23 | 2026-06-26 |
 | [Todo Irá Bien](https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Todo Irá Bien](https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB) | 3:18 | 2024-06-27 | 2024-12-06 |
-| [Todo mi potencial](https://open.spotify.com/track/7smWODDoooX1JYESLR8Hnx) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Todo mi potencial](https://open.spotify.com/album/3hXU10UOgdoAHy3l7hi0Ax) | 2:42 | 2026-04-16 |  |
+| [Todo mi potencial](https://open.spotify.com/track/7smWODDoooX1JYESLR8Hnx) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Todo mi potencial](https://open.spotify.com/album/3hXU10UOgdoAHy3l7hi0Ax) | 2:42 | 2026-04-16 | 2026-07-24 |
 | [Todo pasa](https://open.spotify.com/track/5ncahyhTVpGdLWSl40yB47) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [Todo pasa](https://open.spotify.com/album/6pD7ECCBMczShUQfv5HjGH) | 2:35 | 2025-07-10 | 2025-08-22 |
 | [Todo por el Aire](https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP) | [Corazones Eléctricos](https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP) | [Todo por el Aire](https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL) | 3:43 | 2024-06-27 | 2024-12-06 |
 | [TODO ROSA](https://open.spotify.com/track/2w4G9KIg5tfLF87lv38rBx) | [Raya Diplomática](https://open.spotify.com/artist/3yUu1qLWJhq7XYxd7g8NfU) | [TODO ROSA](https://open.spotify.com/album/32MYXfjjL1FOCbBRgUU4nQ) | 2:59 | 2025-04-17 | 2025-05-09 |

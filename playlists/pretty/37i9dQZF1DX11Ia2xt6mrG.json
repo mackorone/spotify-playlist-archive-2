@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73228,
+  "num_followers": 73244,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
+      },
+      "artists": [
+        {
+          "name": "Broz",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "coraz\u00f3n negro",
         "url": "https://open.spotify.com/album/6Ishs6DC7Msxjvq4Tbzkxh"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 151181,
       "name": "coraz\u00f3n negro",
       "url": "https://open.spotify.com/track/24wmCaxb62soCdelRPXKYM"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
-      },
-      "artists": [
-        {
-          "name": "Broz",
-          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
     }
   ],
   "unique_name": "electro mx ",

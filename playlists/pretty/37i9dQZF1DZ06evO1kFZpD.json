@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAACeluQexhXGy2hzP3mo/iMN",
+  "snapshot_id": "amAIAAAAAAAWbbhfYG6jfH0y8piYcqFr",
   "tracks": [
     {
       "added_at": null,
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         },
         {
-          "name": "Ganavya",
-          "url": "https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz"
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 307718,
-      "name": "16 Candles (feat. Ganavya)",
-      "url": "https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM"
+      "duration_ms": 110487,
+      "name": "We Should Move Somewhere Beautiful (feat. Arima Ederra)",
+      "url": "https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l"
     },
     {
       "added_at": null,
@@ -696,13 +696,13 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         },
         {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+          "name": "Ganavya",
+          "url": "https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz"
         }
       ],
-      "duration_ms": 110487,
-      "name": "We Should Move Somewhere Beautiful (feat. Arima Ederra)",
-      "url": "https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l"
+      "duration_ms": 307718,
+      "name": "16 Candles (feat. Ganavya)",
+      "url": "https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL"
+      "duration_ms": 260826,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/0z6aLSVOKcrq5UuCjzEw5z"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 260826,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/0z6aLSVOKcrq5UuCjzEw5z"
+      "duration_ms": 167320,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL"
     },
     {
       "added_at": null,

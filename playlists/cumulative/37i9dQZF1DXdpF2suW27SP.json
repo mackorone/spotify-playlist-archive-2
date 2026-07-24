@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LEO2745 entra na zona. ",
+  "description": "Waze entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 193654,
       "name": "D\u00e1 Ou N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1raTDevZ0qoQddaSVphDUX"
@@ -9679,6 +9679,24 @@
     },
     {
       "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/2IqWfktBGpArfSn2uKSmbo"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147341,
+      "name": "Ipanema",
+      "url": "https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc"
+    },
+    {
+      "album": {
         "name": "Lista dos N\u00e3o Convocados (Mixtape)",
         "url": "https://open.spotify.com/album/0WxDcCImbaX1qups97EjxW"
       },
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 170322,
       "name": "MAL ME QUERES",
       "url": "https://open.spotify.com/track/6C0sd3cdzCkKv8nYEeT1M1"
@@ -18460,6 +18478,24 @@
       "duration_ms": 316411,
       "name": "SOLDIER",
       "url": "https://open.spotify.com/track/3oosIm7TgiF3eAIcLu577u"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1T0JyeBnv2ZlSZz13plNm0"
+      },
+      "artists": [
+        {
+          "name": "Gohu G",
+          "url": "https://open.spotify.com/artist/4UV8zcyA6TvL6dJOWbqSjW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200834,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3oSFBYprT99o3jznOLEaea"
     },
     {
       "album": {

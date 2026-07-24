@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3y4u6kpDvd.md) - [plain]
 
 > Enjoy the BOYNEXTDOOR TOUR \[KNOCK ON Vol.2\] BEST SET for the upcoming concert! \(다가오는 보이넥스트도어 투어를 준비하며 히트곡 BEST SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,620 likes - 20 songs - 55 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,680 likes - 20 songs - 55 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3y4u6kpDvd.md) - [plain]
 | 19 | [Dangerous](https://open.spotify.com/track/0OaHZgVm77zLQNR3kwFf6n) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:23 |
 | 20 | [OUR](https://open.spotify.com/track/54wqX30KnwGZdLmi8r0Wgo) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:36 |
 
-Snapshot ID: `AAAAANaCcjDwfEb2PTVQtzgTKKbxKGRl`
+Snapshot ID: `AAAAAGIQc3jD55us//Y88YYKP7Tw7VQS`

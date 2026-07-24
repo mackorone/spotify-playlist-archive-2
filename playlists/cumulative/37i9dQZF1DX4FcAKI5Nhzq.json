@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: GIRLSET)",
+  "description": "Future K-Pop hits! (Cover: 8TURN(\uc5d0\uc787\ud134))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204257,
       "name": "Burn",
       "url": "https://open.spotify.com/track/58kVAoRD1xcFy53KH4xNOq"
@@ -8686,7 +8686,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 162000,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/5VsDJDsQvrq60taUNZPnOj"
@@ -14966,7 +14966,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 178000,
       "name": "Into You (My Royal Nemesis : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/4rC5blu7XZkF1ApNpVsFWe"
@@ -16050,7 +16050,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 191000,
       "name": "Layback",
       "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
@@ -25416,7 +25416,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186000,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/565dU15Wh3puMVgKKGrkdE"
@@ -26037,6 +26037,24 @@
     },
     {
       "album": {
+        "name": "Off the Grid",
+        "url": "https://open.spotify.com/album/2GIJc6T1ohV5bELFJBSKyk"
+      },
+      "artists": [
+        {
+          "name": "LUN8",
+          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/5BwU28Gj1jfpYNf6tdJKh0"
+    },
+    {
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz"
       },
@@ -26522,6 +26540,24 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
+    },
+    {
+      "album": {
+        "name": "[8.X]",
+        "url": "https://open.spotify.com/album/3b4jk8OaXFFLVTEBEK3J93"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stagefright",
+      "url": "https://open.spotify.com/track/4RGe2TF6AdEGtf2ejkktbu"
     },
     {
       "album": {

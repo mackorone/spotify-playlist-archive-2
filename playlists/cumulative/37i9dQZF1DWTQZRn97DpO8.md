@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : Anaïs Cardot
+> 🍯🍯🍯<br/>Photo : Jäde
 
-624 songs - 1 day 6 hr 47 min
+626 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Dis\-moi](https://open.spotify.com/track/7noUkZhtjTcybZEbBPIfJQ) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [Dis\-moi](https://open.spotify.com/album/15ht7VlmShUwfZH2a0Q6Ue) | 3:03 | 2025-05-22 | 2025-06-20 |
 | [Dis\-moi ce que je dois faire](https://open.spotify.com/track/69FcnOE8Cvm2ZO0zcaGqcQ) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Dis\-moi ce que je dois faire](https://open.spotify.com/album/32yTwatVMuuASNG6BtVUdn) | 2:39 | 2024-09-12 | 2025-01-10 |
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc) | 3:13 | 2025-06-05 | 2025-09-12 |
-| [Discipline](https://open.spotify.com/track/1oHLNUqnUwtCE2ks737fqq) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Discipline](https://open.spotify.com/album/23qJXJLcKd8dpzgHi6rjmw) | 3:41 | 2026-02-26 |  |
+| [Discipline](https://open.spotify.com/track/1oHLNUqnUwtCE2ks737fqq) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Discipline](https://open.spotify.com/album/23qJXJLcKd8dpzgHi6rjmw) | 3:41 | 2026-02-26 | 2026-07-24 |
 | [DMN](https://open.spotify.com/track/4GLhJvzEntPv9ACB2I2iaH) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [DMN](https://open.spotify.com/album/7JBrrX1HAx5FWeffISPRrz) | 2:53 | 2025-06-19 | 2025-09-26 |
 | [DOGSITTER](https://open.spotify.com/track/7dhJJNt9UMzUBIr9MTZ3g5) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [DOGSITTER](https://open.spotify.com/album/4KtwACwA2923WVKRlxrDBE) | 1:53 | 2026-07-02 |  |
 | [Donne\-moi le temps](https://open.spotify.com/track/712cCUL7oIMdyQOWJRY02o) | [Denzel Macintosh](https://open.spotify.com/artist/3rJT4WiFhdI1RCZynrgv1G), [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [Donne\-moi le temps](https://open.spotify.com/album/2WncVOTRl18k7LtNSsD1vW) | 2:55 | 2024-09-19 | 2024-11-29 |
@@ -194,6 +194,7 @@
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
 | [Fan2moi](https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 3:10 | 2025-11-20 | 2026-01-02 |
 | [Fanta](https://open.spotify.com/track/2JL66ksUsOcaAsUtv5Vfuk) | [Lukazam](https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD) | [Fanta](https://open.spotify.com/album/1Km4UjdNQOi00GpA9OMPbP) | 3:38 | 2026-03-26 | 2026-04-24 |
+| [Fantaisie](https://open.spotify.com/track/1pdtTlrKAG69x4WDolSXnI) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Fantaisie](https://open.spotify.com/album/63nFwsGGKaNlNWqg5Qo52K) | 2:55 | 2026-07-23 |  |
 | [Fantôme](https://open.spotify.com/track/1sv04kUYXAD92I4U37J8IT) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Rare I](https://open.spotify.com/album/04Pj2FsURb6wr4AIaXEF8f) | 3:24 | 2026-01-15 | 2026-05-08 |
 | [FAR AWAY](https://open.spotify.com/track/2v16Grluo6s9UyN1sfumCc) | [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [CLOSURE / FAR AWAY](https://open.spotify.com/album/0BT7WC1eD6jjx0bc6BYLOi) | 3:12 | 2025-08-07 | 2025-10-03 |
 | [FEU](https://open.spotify.com/track/4QgD0HU3APilEvKMGtKWWi) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [FEU](https://open.spotify.com/album/5lxVTi7KP1uChiFZbDZF0B) | 2:34 | 2024-08-08 | 2024-08-30 |
@@ -522,7 +523,7 @@
 | [SANS RAISON](https://open.spotify.com/track/4DdCTLacDOTvE3Aw0I8STp) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM) | [Love, Kuin.](https://open.spotify.com/album/6XaCRdMowZbLdO9ADST8VB) | 3:37 | 2024-12-05 | 2025-02-14 |
 | [Sans Repères](https://open.spotify.com/track/1TnNbPCL6Z1qkSI7FZRY0M) | [Keziah](https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467) | [ECLIPSE](https://open.spotify.com/album/2KQU36I9cq47lKy0Ceyqri) | 2:37 | 2025-02-13 | 2025-03-21 |
 | [Sans réponse](https://open.spotify.com/track/6MgTIxyaLffsfYrGeqloib) | [Brooxy](https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S) | [Sans réponse](https://open.spotify.com/album/5abv7rk1YXCAbjC6dD45rO) | 3:27 | 2024-04-18 | 2024-05-24 |
-| [Sans voix](https://open.spotify.com/track/7CMwXnkXyHgqcIGNzqOM5q) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sans voix](https://open.spotify.com/album/6rVWzFgk9l09KPOyRKVenE) | 2:32 | 2026-03-26 |  |
+| [Sans voix](https://open.spotify.com/track/7CMwXnkXyHgqcIGNzqOM5q) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sans voix](https://open.spotify.com/album/6rVWzFgk9l09KPOyRKVenE) | 2:32 | 2026-03-26 | 2026-07-24 |
 | [Saudade](https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ) | [AFFA](https://open.spotify.com/artist/6OYuMeXCCMPFWo9816vuu9) | [Saudade](https://open.spotify.com/album/2uU4hrAmslLUYUtKOevSZW) | 4:39 | 2024-04-18 | 2024-05-03 |
 | [Save Me](https://open.spotify.com/track/1RvreQuZ1kRpuAGkUIZ2V7) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Save Me](https://open.spotify.com/album/41erfshyFUBUuPPYxOzt3A) | 2:34 | 2024-11-07 | 2025-05-23 |
 | [Say my name](https://open.spotify.com/track/13IWwumPWR4yxibM1ILGen) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:51 | 2023-09-28 | 2023-12-15 |
@@ -589,6 +590,7 @@
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 | 2025-12-19 |
 | [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 | 2026-02-06 |
 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 | 2025-10-02 | 2026-03-06 |
+| [Track 5](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 0:00 | 2026-07-23 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trigger](https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Trigger](https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu) | 2:16 | 2025-11-20 | 2025-12-19 |
 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 | 2024-04-25 | 2024-06-28 |

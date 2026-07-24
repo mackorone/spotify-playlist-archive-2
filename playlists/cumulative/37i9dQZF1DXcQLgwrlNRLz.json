@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-06-30",
-  "description": "Le plus chauds d'Afrique Francophone. Cover: Aya Nakamura",
+  "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola & Burna Boy",
   "name": "Francophone.wav",
   "tracks": [
     {
@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176250,
       "name": "Gba Gba (feat. Toofan)",
       "url": "https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172941,
       "name": "Ma Cherie (Remix)",
       "url": "https://open.spotify.com/track/4Rv6zpv0GZvlwynha2iLTN"
@@ -1222,6 +1222,24 @@
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp"
+    },
+    {
+      "album": {
+        "name": "2026 Golden Run",
+        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173471,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul"
     },
     {
       "album": {

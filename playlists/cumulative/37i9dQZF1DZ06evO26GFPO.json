@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 248000,
       "name": "Brigas Demais",
       "url": "https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL"
@@ -1414,6 +1414,28 @@
       "duration_ms": 119843,
       "name": "Mostra Tua For\u00e7a, Brasil",
       "url": "https://open.spotify.com/track/1Z2CgJ3mxCRXnT4jacGxFf"
+    },
+    {
+      "album": {
+        "name": "Mo\u00e7a",
+        "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3225487,
+  "num_followers": 3225716,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Super Reggae & Soul Hits",
+        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Harder They Come",
         "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
       },
@@ -1607,38 +1623,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+        "name": "Singasong",
+        "url": "https://open.spotify.com/album/676PzGO6FiWPcYpmd3e0Un"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "War Ina Babylon",
-        "url": "https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV"
-      },
-      "artists": [
-        {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+          "name": "Taggy Matcher",
+          "url": "https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF"
         },
         {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+          "name": "LMK",
+          "url": "https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Chase The Devil",
-      "url": "https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n"
+      "duration_ms": 241615,
+      "name": "No Love Allowed (feat. LMK)",
+      "url": "https://open.spotify.com/track/17VuKYmgB5hVsEDDY5TxfJ"
     }
   ],
   "unique_name": "Reggae Classics",

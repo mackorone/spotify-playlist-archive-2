@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 104772,
+  "num_followers": 104788,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Boogaloo Blues",
+        "url": "https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "duration_ms": 411680,
+      "name": "Boogaloo Blues",
+      "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 381240,
       "name": "Guaguanc\u00f3 Raro",
       "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Boogaloo Blues",
-        "url": "https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 411680,
-      "name": "Boogaloo Blues",
-      "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Columbia's Boogaloo",
-      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Aprovecha el Tiempo",
         "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Columbia's Boogaloo",
+      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Vud\u00fa",
         "url": "https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 242226,
       "name": "Everything's Gonna Change",
       "url": "https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
     },
     {
       "added_at": "2024-07-18 20:57:58",

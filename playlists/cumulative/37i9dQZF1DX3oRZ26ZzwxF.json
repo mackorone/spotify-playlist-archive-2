@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Ameka Zrai",
+  "description": "Le meilleur du rap africain francophone. Photo : d\u00f8pelym",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -471,6 +471,32 @@
     },
     {
       "album": {
+        "name": "Armageddon (feat. Genezio)",
+        "url": "https://open.spotify.com/album/2izdFK60er4VekUQoMQMKZ"
+      },
+      "artists": [
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Armageddon (feat. Genezio)",
+      "url": "https://open.spotify.com/track/2gBVUZqu3B0RvQImki9Z3j"
+    },
+    {
+      "album": {
         "name": "ASKEL GESTE",
         "url": "https://open.spotify.com/album/0a2Zb35LSYcFWD0XbLOzAi"
       },
@@ -654,6 +680,24 @@
       "duration_ms": 133407,
       "name": "Baby Bash",
       "url": "https://open.spotify.com/track/2mGa62sNWuotNy9HQCzbPv"
+    },
+    {
+      "album": {
+        "name": "2026 Golden Run",
+        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/7bsRJRmIzJlOZOsCLOPsT6"
     },
     {
       "album": {
@@ -4200,7 +4244,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 143606,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/2GXIob6eYx6EpWi2PbfhRd"
@@ -5192,7 +5236,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 157524,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2kvzPVP8dE49fDg8N7Wb9k"
@@ -5356,7 +5400,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 173471,
       "name": "Numero Uno",
       "url": "https://open.spotify.com/track/314dh0kgderW6Sil3rWDtl"
@@ -5931,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Premier",
+        "url": "https://open.spotify.com/album/6CUNkgdSxv1IhEKuhM9YXN"
+      },
+      "artists": [
+        {
+          "name": "Iba One",
+          "url": "https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Premier",
+      "url": "https://open.spotify.com/track/5KPDQgUXkwPSXGZwwq8vTb"
+    },
+    {
+      "album": {
         "name": "INVASION TOME II",
         "url": "https://open.spotify.com/album/7uG8F9BVGaYGeAHZ2OqQnX"
       },
@@ -6106,7 +6168,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 128947,
       "name": "Rasta Rocket",
       "url": "https://open.spotify.com/track/2ClQYQQ6JWm4N0Tk1wKxpJ"
@@ -6344,6 +6406,24 @@
       "duration_ms": 76702,
       "name": "SANKARABABY",
       "url": "https://open.spotify.com/track/7v7odyVKNNHefW774i415Y"
+    },
+    {
+      "album": {
+        "name": "SANTORINI",
+        "url": "https://open.spotify.com/album/6rm1OP1fo4qGywTL1goeAb"
+      },
+      "artists": [
+        {
+          "name": "Skulio",
+          "url": "https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155430,
+      "name": "SANTORINI",
+      "url": "https://open.spotify.com/track/2oQ4yPaC19xVPrrPL4ywLQ"
     },
     {
       "album": {

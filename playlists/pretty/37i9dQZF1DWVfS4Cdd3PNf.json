@@ -1,6 +1,6 @@
 {
   "description": "Masterpieces from the world of opera.",
-  "num_followers": 586587,
+  "num_followers": 586707,
   "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,34 @@
       "duration_ms": 244600,
       "name": "Le nozze di Figaro, K. 492: Overture",
       "url": "https://open.spotify.com/track/4LOYVBlRSjda6mxoLiqAoG"
+    },
+    {
+      "added_at": "2026-07-10 04:00:58",
+      "album": {
+        "name": "Verdi: Macbeth: Duncano sar\u00e0 qui?",
+        "url": "https://open.spotify.com/album/5DA2nWsPlSfMeYpXJFkDT8"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Macbeth, Act I: Duncano sar\u00e0 qui?",
+      "url": "https://open.spotify.com/track/0gsCocxaCi7NqiQdbHHfT8"
     },
     {
       "added_at": "2026-07-10 04:00:58",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,376 likes - 1,773 songs - 4 day 3 hr 9 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,384 likes - 1,773 songs - 4 day 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shireen](https://open.spotify.com/track/1H7DO4k3pvGAowYgJnJ8qD) | [Josh da Costa](https://open.spotify.com/artist/1tXtrQXExzdyrNptNQLeZk) | [Shireen](https://open.spotify.com/album/5nbLCdSg4iC7I34jpzt6Xm) | 3:49 |
-| 2 | [Save for the Horses](https://open.spotify.com/track/6x6g5VwjPg7p4iEpOBoYzk) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Save for the Horses](https://open.spotify.com/album/7bSvkFJr6DSRcXixboFB9k) | 3:09 |
-| 3 | [Picture In My Wallet](https://open.spotify.com/track/27A9p3fKg9CMMOmyxWAGki) | [Legit Smitty](https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu) | [Picture In My Wallet](https://open.spotify.com/album/6UsmqH0n2CxCVypidpHr3S) | 2:32 |
-| 4 | [Cruise The Town](https://open.spotify.com/track/0SbkhX0zVR4b1Ju84tiKmu) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Cruise The Town](https://open.spotify.com/album/7C8EgLPkVl6dBpfUAtEEuj) | 3:23 |
+| 2 | [Picture In My Wallet](https://open.spotify.com/track/27A9p3fKg9CMMOmyxWAGki) | [Legit Smitty](https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu) | [Picture In My Wallet](https://open.spotify.com/album/6UsmqH0n2CxCVypidpHr3S) | 2:32 |
+| 3 | [Cruise The Town](https://open.spotify.com/track/0SbkhX0zVR4b1Ju84tiKmu) | [Ok Cowgirl](https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8) | [Cruise The Town](https://open.spotify.com/album/7C8EgLPkVl6dBpfUAtEEuj) | 3:23 |
+| 4 | [Save for the Horses](https://open.spotify.com/track/6x6g5VwjPg7p4iEpOBoYzk) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Save for the Horses](https://open.spotify.com/album/7bSvkFJr6DSRcXixboFB9k) | 3:09 |
 | 5 | [Dooms banjo](https://open.spotify.com/track/73rEKo4GFSrCppAYqmj60l) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Dooms banjo](https://open.spotify.com/album/0396XV5FcAWrEYzXFsJPxv) | 3:36 |
 | 6 | [Thank You Sorry](https://open.spotify.com/track/2780RMr03iXcLoKBETLsqE) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Thank You Sorry](https://open.spotify.com/album/4OYTIUfrHC4rsMDroMYJod) | 4:07 |
 | 7 | [Goodboy](https://open.spotify.com/track/2oDTtfPN1IvVsu3ns1NLf9) | [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Miss Obliteration](https://open.spotify.com/album/5iPoFBnFn2rDKQH1VvaxeU) | 3:08 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 44 | [Solitude](https://open.spotify.com/track/5dvhzBH07dg8ouXgqEUP6s) | [Fraternal Twin](https://open.spotify.com/artist/3Q9iGL0GMpQIIr9iZKo8wQ) | [Solitude](https://open.spotify.com/album/0GEoTBIoqND2ZFPT3eXQwl) | 3:18 |
 | 45 | [weapon of light](https://open.spotify.com/track/2Zg6aCIr5ikRbOc5ommbAj) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i am your defender](https://open.spotify.com/album/0VjohUQgeXa1AiZTi2DRqv) | 3:02 |
 | 46 | [upside frown](https://open.spotify.com/track/0lMLxjZGoEh7dYcrG3rFoW) | [lor2mg](https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh), [Lilyotv](https://open.spotify.com/artist/76TGC6j5RSWafmbhmSaVOe) | [dinner and a movie](https://open.spotify.com/album/1TZJVFPeHQ1gvD8U2fBO1W) | 3:31 |
-| 47 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [No Other \- Loukeman Mix](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
+| 47 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [No Other \- Loukeman Mix](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
 | 48 | [White Claw Addict](https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [White Claw Addict](https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH) | 3:07 |
 | 49 | [Faded baby](https://open.spotify.com/track/60JSAFzEtIJF6QjdX7mTMs) | [ALLERGi](https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR) | [Faded baby](https://open.spotify.com/album/1rKAoaFEuQGKmt2R2JNSZD) | 2:29 |
 | 50 | [Sword](https://open.spotify.com/track/2a7zylxn8AhPOcBjAZs6mY) | [Lover](https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z) | [Sword](https://open.spotify.com/album/60nQ5fU7alFF9KrgymLwmM) | 3:19 |
@@ -1782,4 +1782,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1772 | [i can't see enough of you](https://open.spotify.com/track/7oQqne3UbHEtkNA9Mwf7yv) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [i can't see enough of you](https://open.spotify.com/album/4eqqpCisNuftclFSmMHADa) | 3:04 |
 | 1773 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABMbo9b3EjWnVTXW1/WiFMbif238maC`
+Snapshot ID: `AABMb0ol18h24pU3Bcaz10S+Udl2Dq5q`

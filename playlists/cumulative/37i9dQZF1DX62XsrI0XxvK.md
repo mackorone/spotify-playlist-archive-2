@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Mikha Tambayong, Rayi Putra
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Ave, Farrel Hilal
 
-274 songs - 16 hr 8 min
+278 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,10 @@
 | [Don't Fall In Love With A Rockstar](https://open.spotify.com/track/1G3rrZgog8LsbhHIWLwdLN) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Don't Fall In Love With A Rockstar](https://open.spotify.com/album/6sIn2kBU20TFGKkocQYiRi) | 4:48 | 2026-05-21 |  |
 | [dusta](https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [dusta](https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d) | 3:21 | 2025-08-22 | 2026-04-10 |
 | [Ecstasy](https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Arif DG Rate](https://open.spotify.com/artist/2chclvmh09mRLkSBiZCy4O), [Saleh Hariwibowo](https://open.spotify.com/artist/3bk30OwAODCVXw5ST6pBi0) | [Ecstasy](https://open.spotify.com/album/4LVVokSMi6D8f5xX0JO9ev) | 3:53 | 2025-08-21 | 2026-02-06 |
+| [Emotional](https://open.spotify.com/track/0iZr4VsajY8fcp1H5vCE2y) | [DANE](https://open.spotify.com/artist/5dPtZlg7D3XGCrmaGmqY63) | [Emotional](https://open.spotify.com/album/1t1cDTh8F0FGlwxPtPrgkA) | 3:23 | 2026-07-24 |  |
 | [Empty.](https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Empty.](https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn) | 3:54 | 2025-11-27 |  |
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-10-03 | 2025-05-02 |
+| [EVOCATIVE](https://open.spotify.com/track/7bHqxLsJE5BJk2iV4bsdQS) | [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq), [Liam Amadeo](https://open.spotify.com/artist/4OqmQrQ2HxPbyLsefGKIHq) | [EVOKATIF](https://open.spotify.com/album/4MkICmpMKDe02tkt9hZIrI) | 3:55 | 2026-07-24 |  |
 | [FACE CARD](https://open.spotify.com/track/3eA5suAsHBAjwtsjcNCNmA) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FACE CARD](https://open.spotify.com/album/5MtHZ2HiS8NoqhqD1x4JMe) | 4:43 | 2026-07-16 |  |
 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 | 2026-02-12 |  |
 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 | 2025-10-23 |  |
@@ -99,6 +101,7 @@
 | [GOAT](https://open.spotify.com/track/1ARGO5jcbNkka0uGRaIa3S) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [GOAT](https://open.spotify.com/album/4aNePmRNnjTOVh3PgqtNxT) | 2:15 | 2026-06-04 |  |
 | [GODSENT](https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [GODSENT](https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1) | 3:04 | 2026-05-21 |  |
 | [Good Fellas](https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq) | [Zhizaa](https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ) | [Good Fellas](https://open.spotify.com/album/3x0oNPgMi1nHkpKhJozTzr) | 4:38 | 2025-11-13 | 2026-02-13 |
+| [Got Me Like](https://open.spotify.com/track/5atizzSIWt1JCLmduS662p) | [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [Got Me Like](https://open.spotify.com/album/5O3xEG8cPVGl4jNMa8ZbrP) | 1:56 | 2026-07-24 |  |
 | [GREEN](https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq) | [yuan](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [GAZM](https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes) | [S 90 3](https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL) | 2:48 | 2026-04-23 |  |
 | [Guna Guna](https://open.spotify.com/track/4MH2IMPImhyzzPEIqpMqSr) | [Buzar](https://open.spotify.com/artist/6OWl6OpSaGDoQBooOlChJI) | [Guna Guna](https://open.spotify.com/album/4Lce2g6iWMtomgg46M0Dxc) | 3:44 | 2026-06-19 |  |
 | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7) | 2:54 | 2025-11-06 | 2026-05-01 |
@@ -169,6 +172,7 @@
 | [Lupa Daratan](https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3) | [Ticya](https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27) | [Lupa Daratan](https://open.spotify.com/album/7zqXHDGTJuEkTKiOUyM2sM) | 4:09 | 2025-08-14 | 2026-01-15 |
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2024-10-03 | 2025-11-28 |
 | [Man for Me](https://open.spotify.com/track/7zq0xgNwLdwFacF2gFLPGy) | [Almira Zaky](https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy) | [Man for Me](https://open.spotify.com/album/1yA8bE3pLEMjHuzcHTmdXr) | 2:33 | 2025-05-15 | 2025-10-03 |
+| [MANISE](https://open.spotify.com/track/0AN5NlR0bdsdA2aOLVCmDi) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [MANISE](https://open.spotify.com/album/2Wndvm5x0sYXINZNLbhFfW) | 2:37 | 2026-07-24 |  |
 | [Masih Aku Yang Sama](https://open.spotify.com/track/6BknzjfEY84uqrtoXuocZe) | [Raka](https://open.spotify.com/artist/4RhPQsKW0Aa8vsKFNNuGpt), [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [Cinta & Derita](https://open.spotify.com/album/4vUUs8KefGN9peEWkHGOwF) | 2:55 | 2026-07-16 |  |
 | [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-10-03 | 2026-05-22 |
 | [MENU](https://open.spotify.com/track/3Vn8GxxDb2RVsKXccq8C5l) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [MENU](https://open.spotify.com/album/0lag32AUNO5cQXh6JAQ1Ra) | 3:01 | 2025-10-16 | 2026-04-10 |

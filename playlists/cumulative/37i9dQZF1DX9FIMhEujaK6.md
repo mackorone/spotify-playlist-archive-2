@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-242 songs - 17 hr 43 min
+243 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 | 2021-10-15 | 2025-07-14 |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2021-10-15 |  |
 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 | 2021-10-15 | 2024-03-28 |
+| [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 | 2026-07-23 |  |
 | [Les Nuits \- Radio Edit](https://open.spotify.com/track/1y1xQf7kcYtk96q3iyl7jJ) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/5x9ex9cqxZWYe0bYqsPk4r) | 3:42 | 2021-10-15 | 2023-02-03 |
 | [Les Nuits \- Radio Edit](https://open.spotify.com/track/2NFD2OuVhcP8ZK9QRgQ5Ah) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/0tFo2Q4eY8grx7hc1WmI0R) | 3:42 | 2022-07-20 | 2023-11-17 |
 | [Light of Day](https://open.spotify.com/track/1rlkXwdVRwLSQb00RmPo2Z) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 6:41 | 2022-07-20 | 2024-03-28 |
@@ -155,7 +156,7 @@
 | [Nite Glo](https://open.spotify.com/track/7kuW6Ho3HAoYzE1qkDkDRv) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Nite Glo](https://open.spotify.com/album/0haNDDHtiSPENbdrq07srH) | 3:18 | 2021-10-15 | 2022-06-28 |
 | [Nobody New Around You](https://open.spotify.com/track/33OTdf4l4rnrAMIc6FPjh1) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [Nobody New Around You](https://open.spotify.com/album/7MQyqBx6A1JbidrUgYWveK) | 4:27 | 2021-10-15 | 2022-07-25 |
 | [Nocturnal Lady](https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Nocturnal Lady](https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe) | 5:04 | 2021-10-15 | 2022-07-22 |
-| [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 | 2025-05-01 |  |
+| [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 | 2025-05-01 | 2026-07-24 |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-03-27 |  |
 | [Not Long Now](https://open.spotify.com/track/1OXRsNCso4znIoOrFGfJN5) | [Native Cruise](https://open.spotify.com/artist/7wmtRLIGKfnqzKBsGaVrAN) | [Human Nature EP](https://open.spotify.com/album/24U4WTZtCAjR7w3dcH4Wct) | 5:14 | 2021-10-15 | 2022-07-28 |
 | [Notforyou \(Jacana People Remix\)](https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Blue Coat, Red Dress Remixed, Pt\. 1](https://open.spotify.com/album/0tPHt8iFGIkpiW6Ao1U5lS) | 3:49 | 2021-10-15 | 2022-07-04 |

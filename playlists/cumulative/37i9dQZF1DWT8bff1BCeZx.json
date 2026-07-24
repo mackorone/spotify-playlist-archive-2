@@ -943,6 +943,36 @@
     },
     {
       "album": {
+        "name": "All The Earth",
+        "url": "https://open.spotify.com/album/2a6QyOHyF3kFvr3GBqXBQ8"
+      },
+      "artists": [
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Thepeterjacobs",
+          "url": "https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657500,
+      "name": "All The Earth",
+      "url": "https://open.spotify.com/track/57h4CZ2g2FD0hMFMwMIeIY"
+    },
+    {
+      "album": {
         "name": "All The Praise",
         "url": "https://open.spotify.com/album/4xwAr47XDSNr7ShZZgkQHf"
       },
@@ -2748,6 +2778,24 @@
       "duration_ms": 155543,
       "name": "BUILT ON YOU",
       "url": "https://open.spotify.com/track/5IhLGBsho1eNGjQiAPhtfU"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5obXaepp0EfarEVrSmVSDi"
+      },
+      "artists": [
+        {
+          "name": "Itohan",
+          "url": "https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147027,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/55dTzICXCCrSEwKLyoeaYr"
     },
     {
       "album": {
@@ -8931,6 +8979,28 @@
     },
     {
       "album": {
+        "name": "I Pray You Know The Love Of Jesus",
+        "url": "https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu"
+      },
+      "artists": [
+        {
+          "name": "Circanineti",
+          "url": "https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn"
+        },
+        {
+          "name": "Mireya Harris",
+          "url": "https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131337,
+      "name": "I Pray You Know The Love Of Jesus",
+      "url": "https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK"
+    },
+    {
+      "album": {
         "name": "I surrender",
         "url": "https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo"
       },
@@ -11114,7 +11184,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205333,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0eFv5lJ5Xz0OQCz2UYgn6O"
@@ -11948,6 +12018,24 @@
       "duration_ms": 270772,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1g4jJTP4fKszLJ7SMVFrIJ"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/09MDCYAg75qzebKZ3QwR3L"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Amiah",
+          "url": "https://open.spotify.com/artist/13BrcJ888g2SIrywaVEfCi"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2dUKow1aD5tsKWc6GzsTqO"
     },
     {
       "album": {
@@ -12835,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155688,
+      "name": "My Soul Sings",
+      "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/3JxyZ8fua0OYL06p4eRsoY"
       },
@@ -13698,6 +13804,24 @@
       "duration_ms": 161591,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3OjNHsBXP8V1ABRru6tsoZ"
+    },
+    {
+      "album": {
+        "name": "Nobody Be Like You",
+        "url": "https://open.spotify.com/album/47ZoXmzm0kWFEOp42o6HZF"
+      },
+      "artists": [
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "Nobody Be Like You",
+      "url": "https://open.spotify.com/track/6OdsMqq3y4wwaVp5KdroaC"
     },
     {
       "album": {
@@ -16186,6 +16310,24 @@
       "duration_ms": 124800,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/0xn4Y3EXSLiN4mx65Oagkt"
+    },
+    {
+      "album": {
+        "name": "Praise You Again",
+        "url": "https://open.spotify.com/album/1a0l8kaZ1PHfcbDTqxPniz"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Praise You Again",
+      "url": "https://open.spotify.com/track/3JMVP4qKYnAb9RiTRhsKti"
     },
     {
       "album": {
@@ -20916,6 +21058,24 @@
       "duration_ms": 188837,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0LTLKDQIRa6KdxDYxKvGke"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ahonen",
+          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139572,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2wbpkchm8KyYYqAY3fg252"
     },
     {
       "album": {

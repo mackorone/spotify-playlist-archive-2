@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Bruce Africa",
+  "description": "What is your love language? Say it in Swahili.  Cover: Darassa",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "Love Design",
+        "url": "https://open.spotify.com/album/4ZFec2ttYPEPubrGB2J3Sw"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223242,
+      "name": "Love Design",
+      "url": "https://open.spotify.com/track/7zkZ8iKtTAt97oEosdKMpK"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt"
       },
@@ -5294,7 +5316,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 155604,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/2rhVZ0qqAPyjWLLx6FK9ND"
@@ -5956,7 +5978,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 202192,
       "name": "Siwezi",
       "url": "https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF"

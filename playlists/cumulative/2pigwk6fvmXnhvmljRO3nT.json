@@ -19475,6 +19475,28 @@
     },
     {
       "album": {
+        "name": "breakfast",
+        "url": "https://open.spotify.com/album/3Dc1sLt0yOt0IIIGO9Yzvf"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        },
+        {
+          "name": "lando!",
+          "url": "https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131041,
+      "name": "breakfast",
+      "url": "https://open.spotify.com/track/5inPJdObXRtrY0cNrUDv3b"
+    },
+    {
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -66931,6 +66953,28 @@
     },
     {
       "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/2zVBYnuUN52s5mA8hDHhqm"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        },
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/2H0QuISiUsNgSHSnGIZIc9"
+    },
+    {
+      "album": {
         "name": "Tokyo Boys & Girls",
         "url": "https://open.spotify.com/album/6PEFP6GtIyBmQaYj4tlagi"
       },
@@ -86540,6 +86584,24 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "moonglow",
+      "url": "https://open.spotify.com/track/0g9TAdriKculilWojd8829"
     },
     {
       "album": {
@@ -126183,6 +126245,28 @@
     },
     {
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        },
+        {
+          "name": "Chance Thrash",
+          "url": "https://open.spotify.com/artist/3z82km7NvHtfV4LHwRk072"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190112,
+      "name": "take me there",
+      "url": "https://open.spotify.com/track/7t66Nws0Ib5fDptCU1Guqg"
+    },
+    {
+      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -150039,7 +150123,7 @@
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209493,
+      "duration_ms": 212960,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },

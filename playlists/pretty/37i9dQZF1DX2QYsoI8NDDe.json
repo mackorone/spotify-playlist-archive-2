@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Marian Oviedo y Laraim \ud83d\udd25",
-  "num_followers": 579782,
+  "num_followers": 579759,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 245648,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/28pBWsRsiegR4UbeKfHpQQ"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Piensa en m\u00ed",
         "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 173102,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 245648,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/28pBWsRsiegR4UbeKfHpQQ"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "El Adi\u00f3s Ranchero",
-        "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 170997,
-      "name": "El Adi\u00f3s Ranchero",
-      "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Chingos De Amor",
         "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188671,
       "name": "Chingos De Amor",
       "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "El Adi\u00f3s Ranchero",
+        "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 170997,
+      "name": "El Adi\u00f3s Ranchero",
+      "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "A Mi Modo, Pt. 2",
-        "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        }
-      ],
-      "duration_ms": 183317,
-      "name": "No Se Lo Digas A Ella",
-      "url": "https://open.spotify.com/track/32eOUym8jszwzTiFjq9L7K"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "De Beso En Cuando",
         "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 156013,
       "name": "De Beso En Cuando",
       "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "A Mi Modo, Pt. 2",
+        "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "No Se Lo Digas A Ella",
+      "url": "https://open.spotify.com/track/32eOUym8jszwzTiFjq9L7K"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "Me Acost\u00e9 Con Otro",
+        "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
+      },
+      "artists": [
+        {
+          "name": "Olga Valkiria",
+          "url": "https://open.spotify.com/artist/6AkGdw07a7wxybz7y4pMj4"
+        }
+      ],
+      "duration_ms": 200928,
+      "name": "Me Acost\u00e9 Con Otro",
+      "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Me Acost\u00e9 Con Otro",
-        "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
       "artists": [
         {
-          "name": "Olga Valkiria",
-          "url": "https://open.spotify.com/artist/6AkGdw07a7wxybz7y4pMj4"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 200928,
-      "name": "Me Acost\u00e9 Con Otro",
-      "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+        "name": "Algunas Canciones Romanticas",
+        "url": "https://open.spotify.com/album/155GEFtzsqj9iMhZNjEwKh"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
         }
       ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+      "duration_ms": 215483,
+      "name": "Maldito Sea Tu Amor",
+      "url": "https://open.spotify.com/track/1N2sjSxjlMu0za92rIXrcL"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Algunas Canciones Romanticas",
-        "url": "https://open.spotify.com/album/155GEFtzsqj9iMhZNjEwKh"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Maldito Sea Tu Amor",
-      "url": "https://open.spotify.com/track/1N2sjSxjlMu0za92rIXrcL"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Selectiva",
         "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l"
-      },
-      "artists": [
-        {
-          "name": "MXKA",
-          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
-        }
-      ],
-      "duration_ms": 176596,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "BOTITAS",
         "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166285,
       "name": "BOTITAS",
       "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        }
+      ],
+      "duration_ms": 176596,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1375,6 +1375,26 @@
       "duration_ms": 178265,
       "name": "Tragos de amargo licor",
       "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "La M\u00e1s Bella",
+        "url": "https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "duration_ms": 228238,
+      "name": "La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK"
     },
     {
       "added_at": "2026-07-10 06:00:52",
@@ -1415,26 +1435,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "La M\u00e1s Bella",
-        "url": "https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE"
-      },
-      "artists": [
-        {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
-        }
-      ],
-      "duration_ms": 228238,
-      "name": "La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Ay Mar\u00eda",
         "url": "https://open.spotify.com/album/0kMB100laHgatol6jxokqE"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-10 06:00:52",
       "album": {
-        "name": "Ahora Somos",
-        "url": "https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Ahora Somos",
-      "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
-    },
-    {
-      "added_at": "2026-07-10 06:00:52",
-      "album": {
         "name": "Tanto Lo Queria",
         "url": "https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 244965,
       "name": "Tanto Lo Queria",
       "url": "https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys"
+    },
+    {
+      "added_at": "2026-07-10 06:00:52",
+      "album": {
+        "name": "Ahora Somos",
+        "url": "https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Ahora Somos",
+      "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
     },
     {
       "added_at": "2026-07-10 06:00:52",

@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "A ROT GIR",
+        "url": "https://open.spotify.com/album/5w2hY4S6123K7xE3tEHWNw"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131296,
+      "name": "A ROT GIR",
+      "url": "https://open.spotify.com/track/3twNLjZOcirgWcvGyFLpwL"
+    },
+    {
+      "album": {
         "name": "A Storia M\u00ec",
         "url": "https://open.spotify.com/album/2iG6CfO4qfmEGAYjHzZyD5"
       },
@@ -1840,7 +1866,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 126861,
       "name": "CARACAS",
       "url": "https://open.spotify.com/track/46qBqierqPc0ilaD0sHkqV"
@@ -6920,7 +6946,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 109388,
       "name": "MILLY MILLY",
       "url": "https://open.spotify.com/track/78bfPOEIgbb3v9h0brogPH"
@@ -8838,6 +8864,40 @@
       "duration_ms": 209438,
       "name": "PALM ANGELS (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6giqG8OVQjOAcRxyr9nUBn"
+    },
+    {
+      "album": {
+        "name": "Panama (feat. La traviesa malcr\u00eda)",
+        "url": "https://open.spotify.com/album/1EEhY2COS5nFvejmbDnMaj"
+      },
+      "artists": [
+        {
+          "name": "Pepp 'O Red",
+          "url": "https://open.spotify.com/artist/0wF47dWCTiDlqm5FkNkr1B"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        },
+        {
+          "name": "Manu T4L",
+          "url": "https://open.spotify.com/artist/2de10LNWppHbpw38HULkDs"
+        },
+        {
+          "name": "Young Donghito",
+          "url": "https://open.spotify.com/artist/4Ll4sOvxN7VHLMX7d04FB4"
+        },
+        {
+          "name": "La traviesa malcr\u00eda",
+          "url": "https://open.spotify.com/artist/3OKlJrSBwCQSGnWZOQ2zeW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Panama (feat. La traviesa malcr\u00eda)",
+      "url": "https://open.spotify.com/track/3DdFELMtRQhEb4lXK3fBX6"
     },
     {
       "album": {
@@ -10950,7 +11010,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 108000,
       "name": "SCUGNIZZI X SEMPRE",
       "url": "https://open.spotify.com/track/2pakBQInXYUYEw0p1PKF7w"
@@ -12910,6 +12970,32 @@
       "duration_ms": 144374,
       "name": "Vallanzasca",
       "url": "https://open.spotify.com/track/2W20JFYn1SWeum3tc8VvDo"
+    },
+    {
+      "album": {
+        "name": "Vampir",
+        "url": "https://open.spotify.com/album/6alKUQHE9qfMkv0Ff6kOu6"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Vampir",
+      "url": "https://open.spotify.com/track/0a3ExYKSoPq3vHenZ0GZB1"
     },
     {
       "album": {

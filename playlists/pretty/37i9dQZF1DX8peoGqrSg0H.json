@@ -1,47 +1,15 @@
 {
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA, ALIE BLACKCOBRA",
-  "num_followers": 195935,
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "num_followers": 195952,
   "original_name": "T-Pop Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkmkCvwIz7eZdm3BfKXuQx30+fU",
+  "snapshot_id": "AAAAAPluu+T/TIpdiNb+2FHT8x5Dcxsd",
   "tracks": [
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
-        "url": "https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP"
-      },
-      "artists": [
-        {
-          "name": "BUS",
-          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
-        }
-      ],
-      "duration_ms": 253764,
-      "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
-      "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
-        "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
-      "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
         "url": "https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG"
@@ -57,7 +25,171 @@
       "url": "https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+        "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+      "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
+        "url": "https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 158901,
+      "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
+      "url": "https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+        "url": "https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "duration_ms": 253764,
+      "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
+      "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
+        "url": "https://open.spotify.com/album/4j5mY7lTZYH99bY7EB1gac"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "duration_ms": 246796,
+      "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
+      "url": "https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e08\u0e33\u0e43\u0e08 (Gone Away)",
+        "url": "https://open.spotify.com/album/6tISxzG9OMJnK2EBACyBj5"
+      },
+      "artists": [
+        {
+          "name": "Gawin Caskey",
+          "url": "https://open.spotify.com/artist/6KLzn6hqkx6hk8o9X2fTpN"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "\u0e08\u0e33\u0e43\u0e08 (Gone Away)",
+      "url": "https://open.spotify.com/track/38Arv4CQ4Gil0Z1VUAl3qb"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
+        "url": "https://open.spotify.com/album/3lBrefeSY9SwTYiKn2DQjY"
+      },
+      "artists": [
+        {
+          "name": "William Jakrapatr",
+          "url": "https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ"
+        }
+      ],
+      "duration_ms": 267559,
+      "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
+      "url": "https://open.spotify.com/track/0qE8ZkREZXAn9zMcYzYUZV"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6J636qRw7XgBSXvlCk0q6D"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "143",
+      "url": "https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+        "url": "https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
+      "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "Mask On",
+        "url": "https://open.spotify.com/album/7oQaXMuUb5klXybeER7LKg"
+      },
+      "artists": [
+        {
+          "name": "TACE",
+          "url": "https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Mask On",
+      "url": "https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e1b\u0e31\u0e01\u0e40\u0e21\u0e19\u0e41\u0e1f\u0e19 (I STAN YOU) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
         "url": "https://open.spotify.com/album/3U36l9cCWzHB6LFR3oNmLY"
@@ -85,27 +217,27 @@
       "url": "https://open.spotify.com/track/2fSEAfvpGg4drnweGfCMQu"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
-        "url": "https://open.spotify.com/album/3l2g8O8hS67OF1hHe6yRUr"
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/6lKElQkCjcx8YKzKPFOsAh"
       },
       "artists": [
         {
-          "name": "ALALA",
-          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/60YtQwBpzzFgsRpcYo7kIc"
         },
         {
-          "name": "ALIE BLACKCOBRA",
-          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
         }
       ],
-      "duration_ms": 212142,
-      "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
-      "url": "https://open.spotify.com/track/2cVkSqGKhDJzbqLDcVz6O9"
+      "duration_ms": 187547,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3b6Z9R6qkXA56Ymen3MMjf"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49 (Love Allergy)",
         "url": "https://open.spotify.com/album/1RRrXPfEjVTA2769fQy8ro"
@@ -121,7 +253,55 @@
       "url": "https://open.spotify.com/track/60ztSIToposWNzYOWeKrtp"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "MARY JANE (Marry Me)",
+        "url": "https://open.spotify.com/album/58oXvQSxGnfpbaKzbUVOf1"
+      },
+      "artists": [
+        {
+          "name": "Golf Pichaya",
+          "url": "https://open.spotify.com/artist/3SHlcJPDT3x3TINU3xjwFL"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "MARY JANE (Marry Me)",
+      "url": "https://open.spotify.com/track/3gIEqFgeCe89G0r6UPRYIc"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+        "url": "https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 239007,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
+      "url": "https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
+        "url": "https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "duration_ms": 293831,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
+      "url": "https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "amor",
         "url": "https://open.spotify.com/album/7xR7EizDHwZvNXG136xtoS"
@@ -141,103 +321,39 @@
       "url": "https://open.spotify.com/track/4IhpuWgVMk3VI8F6aRErB0"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+        "name": "While I'm away",
+        "url": "https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W"
       },
       "artists": [
         {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
         }
       ],
-      "duration_ms": 255466,
-      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+      "duration_ms": 219047,
+      "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 (Forever n ever)",
+      "url": "https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "Better Life",
-        "url": "https://open.spotify.com/album/3oWsL8nTThyJrytCDG2HN3"
+        "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+        "url": "https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8"
       },
       "artists": [
         {
-          "name": "WOLF & WANDER",
-          "url": "https://open.spotify.com/artist/7wdvxj46daKf9awePzBHSd"
+          "name": "NUTDAN",
+          "url": "https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da"
         }
       ],
-      "duration_ms": 223217,
-      "name": "Better Life",
-      "url": "https://open.spotify.com/track/5dApXF5URhY6jDBnNpTocr"
+      "duration_ms": 179433,
+      "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+      "url": "https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
-        "url": "https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv"
-      },
-      "artists": [
-        {
-          "name": "Jaonaay",
-          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
-      "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
-        "url": "https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE"
-      },
-      "artists": [
-        {
-          "name": "BUS",
-          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
-        }
-      ],
-      "duration_ms": 293831,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
-      "url": "https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
-        "url": "https://open.spotify.com/album/3lBrefeSY9SwTYiKn2DQjY"
-      },
-      "artists": [
-        {
-          "name": "William Jakrapatr",
-          "url": "https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ"
-        }
-      ],
-      "duration_ms": 267559,
-      "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
-      "url": "https://open.spotify.com/track/0qE8ZkREZXAn9zMcYzYUZV"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e14\u0e31\u0e07\u0e43\u0e19\u0e43\u0e08 (Rain Fall) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"]",
-        "url": "https://open.spotify.com/album/1h0Wmkp5cmcm7vAzDuCuUm"
-      },
-      "artists": [
-        {
-          "name": "FOURTH",
-          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
-        }
-      ],
-      "duration_ms": 209913,
-      "name": "\u0e14\u0e31\u0e07\u0e43\u0e19\u0e43\u0e08 (Rain Fall) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
-      "url": "https://open.spotify.com/track/6mP1n3YcWFq7kpvZmFLbEP"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 (You with Me) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e21\u0e35\u0e2a\u0e15\u0e34\u0e41\u0e25\u0e49\u0e27\u0e25\u0e39\u0e01\u0e1e\u0e35\u0e0a Peach And Me\"]",
         "url": "https://open.spotify.com/album/2TLc6OfaPKJiEyxRFIgpE1"
@@ -257,103 +373,43 @@
       "url": "https://open.spotify.com/track/1lv4lZpBhfRBTrwz0IgyFt"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
-        "url": "https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8"
+        "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
+        "url": "https://open.spotify.com/album/3l2g8O8hS67OF1hHe6yRUr"
       },
       "artists": [
         {
-          "name": "NUTDAN",
-          "url": "https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da"
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
         }
       ],
-      "duration_ms": 179433,
-      "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
-      "url": "https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr"
+      "duration_ms": 212142,
+      "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
+      "url": "https://open.spotify.com/track/2cVkSqGKhDJzbqLDcVz6O9"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "Play To Win",
-        "url": "https://open.spotify.com/album/1hkg8AMqV1e7UpcbUKFOz4"
+        "name": "Better Life",
+        "url": "https://open.spotify.com/album/3oWsL8nTThyJrytCDG2HN3"
       },
       "artists": [
         {
-          "name": "MEEPOOH",
-          "url": "https://open.spotify.com/artist/6m6obXYeSAepfEH0nwGhHa"
+          "name": "WOLF & WANDER",
+          "url": "https://open.spotify.com/artist/7wdvxj46daKf9awePzBHSd"
         }
       ],
-      "duration_ms": 224195,
-      "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19 (My Wish List)",
-      "url": "https://open.spotify.com/track/0STnyzhG4ObyyC13sHP1bS"
+      "duration_ms": 223217,
+      "name": "Better Life",
+      "url": "https://open.spotify.com/track/5dApXF5URhY6jDBnNpTocr"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "DMMA",
-        "url": "https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd"
-      },
-      "artists": [
-        {
-          "name": "JustmineNika",
-          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "DMMA",
-      "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
-        "url": "https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 239007,
-      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
-      "url": "https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Before Tomorrow) (From \"\u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time\")",
-        "url": "https://open.spotify.com/album/4UpjGCs5qMIh2PYeYDukEm"
-      },
-      "artists": [
-        {
-          "name": "JJ Radchapon",
-          "url": "https://open.spotify.com/artist/5geh3xf43IPPVFVzCaix9c"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "\u0e16\u0e49\u0e32\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Before Tomorrow) (From \"\u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time\")",
-      "url": "https://open.spotify.com/track/46P94Nv3gO0ieTIdDhDZOU"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
-        "url": "https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY"
-      },
-      "artists": [
-        {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 228397,
-      "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
-      "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
         "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
@@ -373,7 +429,23 @@
       "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
+        "url": "https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 228397,
+      "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
+      "url": "https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "wanna be yours (\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01)",
         "url": "https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU"
@@ -389,10 +461,26 @@
       "url": "https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "While I'm away",
-        "url": "https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W"
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "duration_ms": 205337,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "Living Death",
+        "url": "https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y"
       },
       "artists": [
         {
@@ -400,28 +488,12 @@
           "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
         }
       ],
-      "duration_ms": 219047,
-      "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49 (Forever n ever)",
-      "url": "https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV"
+      "duration_ms": 258823,
+      "name": "Living Death",
+      "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e41\u0e1e\u0e49\u0e43\u0e04\u0e23 (Hotter than ur X)",
-        "url": "https://open.spotify.com/album/0umpKcPUyVl4gzIXVfHoTP"
-      },
-      "artists": [
-        {
-          "name": "PERSES",
-          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
-        }
-      ],
-      "duration_ms": 204566,
-      "name": "\u0e44\u0e21\u0e48\u0e41\u0e1e\u0e49\u0e43\u0e04\u0e23 (Hotter than ur X)",
-      "url": "https://open.spotify.com/track/02BhVARYsGU1xLzVodgf9L"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
         "url": "https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t"
@@ -441,23 +513,7 @@
       "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "Living Death",
-        "url": "https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 258823,
-      "name": "Living Death",
-      "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e40\u0e01\u0e48\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d GOOD (not) ENOUGH",
         "url": "https://open.spotify.com/album/2JzTPvAWYpr5etUf7RNARu"
@@ -473,23 +529,7 @@
       "url": "https://open.spotify.com/track/4JM1bfniKXEiI4QHtfbBDE"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
-        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
-      },
-      "artists": [
-        {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
-        }
-      ],
-      "duration_ms": 205337,
-      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
-      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e22\u0e31\u0e07\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e34\u0e21\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Same Old Song)",
         "url": "https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV"
@@ -505,7 +545,7 @@
       "url": "https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e08\u0e33\u0e44\u0e27\u0e49",
         "url": "https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx"
@@ -521,7 +561,7 @@
       "url": "https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) [Bonus Track]",
         "url": "https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/1gyGLofOECzdg9t8X3s78C"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
         "url": "https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
         "url": "https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9"
@@ -597,123 +637,7 @@
       "url": "https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        },
-        {
-          "name": "1MILL",
-          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e1b\u0e31\u0e01\u0e43\u0e08 (Still) [Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series]",
-        "url": "https://open.spotify.com/album/4GyqFPxBc3cwlm8Y2c0eXs"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "\u0e1b\u0e31\u0e01\u0e43\u0e08 (Still) - Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series",
-      "url": "https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e41\u0e17\u0e19\u0e23\u0e31\u0e01 (Tanrak) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"]",
-        "url": "https://open.spotify.com/album/3EnVrSOOm8xDUhc6t0GdQA"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
-        }
-      ],
-      "duration_ms": 240923,
-      "name": "\u0e41\u0e17\u0e19\u0e23\u0e31\u0e01 (Tanrak) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
-      "url": "https://open.spotify.com/track/4CfKSYXHVwmNeW5mHnLjEl"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
-        "url": "https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv"
-      },
-      "artists": [
-        {
-          "name": "LYKN",
-          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
-      "url": "https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
-        "url": "https://open.spotify.com/album/09g1TRMQbauWslcoOYwvXk"
-      },
-      "artists": [
-        {
-          "name": "Phuwin",
-          "url": "https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0"
-        }
-      ],
-      "duration_ms": 214166,
-      "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
-      "url": "https://open.spotify.com/track/4GoLfWS3yj0GA4GjUqLIFQ"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
-        "url": "https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
-      "url": "https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
-        "url": "https://open.spotify.com/album/5IbgR6Y89OrHXNf6sRYBbm"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
-      "url": "https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
         "url": "https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc"
@@ -733,27 +657,27 @@
       "url": "https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
-        "name": "TURN ME ON (feat. Tobii)",
-        "url": "https://open.spotify.com/album/2sVAmfSBfpzVqAXq2CHm6V"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq"
       },
       "artists": [
         {
-          "name": "PERSES",
-          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
         },
         {
-          "name": "Tobii",
-          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
         }
       ],
-      "duration_ms": 229000,
-      "name": "TURN ME ON (feat. Tobii)",
-      "url": "https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ"
+      "duration_ms": 255000,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
         "url": "https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ"
@@ -773,7 +697,27 @@
       "url": "https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "TURN ME ON (feat. Tobii)",
+        "url": "https://open.spotify.com/album/2sVAmfSBfpzVqAXq2CHm6V"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        },
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "TURN ME ON (feat. Tobii)",
+      "url": "https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
         "url": "https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p"
@@ -793,63 +737,7 @@
       "url": "https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
-        "url": "https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        },
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
-      "url": "https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "What's going on",
-        "url": "https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN"
-      },
-      "artists": [
-        {
-          "name": "PP KRIT",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "What's going on",
-      "url": "https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
-      "album": {
-        "name": "\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Is This Love?)",
-        "url": "https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
-        },
-        {
-          "name": "FOURTH",
-          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Is This Love?)",
-      "url": "https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu"
-    },
-    {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "Take Our Time (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\")",
         "url": "https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F"
@@ -869,7 +757,111 @@
       "url": "https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ"
     },
     {
-      "added_at": "2026-07-17 17:52:45",
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
+        "url": "https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
+      "url": "https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
+        "url": "https://open.spotify.com/album/5IbgR6Y89OrHXNf6sRYBbm"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
+      "url": "https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
+        "url": "https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
+      "url": "https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Is This Love?)",
+        "url": "https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        },
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Is This Love?)",
+      "url": "https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "What's going on",
+        "url": "https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "What's going on",
+      "url": "https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+        "url": "https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "\u0e1e\u0e23\u0e30\u0e40\u0e2d\u0e01 (Prince Charming)",
+      "url": "https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
       "album": {
         "name": "Pretty Girl",
         "url": "https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE"
@@ -883,6 +875,22 @@
       "duration_ms": 167586,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ"
+    },
+    {
+      "added_at": "2026-07-23 19:29:15",
+      "album": {
+        "name": "\u0e1b\u0e31\u0e01\u0e43\u0e08 (Still) [Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series]",
+        "url": "https://open.spotify.com/album/4GyqFPxBc3cwlm8Y2c0eXs"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "\u0e1b\u0e31\u0e01\u0e43\u0e08 (Still) - Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series",
+      "url": "https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z"
     }
   ],
   "unique_name": "T-Pop Now",

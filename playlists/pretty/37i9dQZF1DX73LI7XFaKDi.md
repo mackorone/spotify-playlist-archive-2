@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 
-> There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
+> Descendants: Wicked Wonderland is available now! Listen to music from the movie alongside all your Descendants favorites on the official playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,483 likes - 88 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,875 likes - 88 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 | 87 | [Space Between \- Instrumental](https://open.spotify.com/track/3Kz6kb8LEXGCk82KKgMvhf) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:25 |
 | 88 | [What's My Name \- Instrumental](https://open.spotify.com/track/3vjefeCdg7wuckiSZcs2KJ) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:08 |
 
-Snapshot ID: `AAAAAJs944QqWNF3cjFUZUdAKON7+i0w`
+Snapshot ID: `AAAAAF8t+XWvVlcZ2UUr2O6pCLHoGJTM`

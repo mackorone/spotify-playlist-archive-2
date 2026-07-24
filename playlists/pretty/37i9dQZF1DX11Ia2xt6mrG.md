@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. YoSoyMatt en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,228 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,244 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 42 | [MOPUS](https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [MOPUS](https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO) | 2:13 |
 | 43 | [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 |
 | 44 | [MENTA](https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [MENTA](https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT) | 2:28 |
-| 45 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
-| 46 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
+| 45 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
+| 46 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
 | 47 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |
 | 48 | [La Bandera \(Remix\)](https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera \(Remix\)](https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE) | 2:40 |
 | 49 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 86 | [cuándo](https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [cuándo](https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr) | 3:21 |
 | 87 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
 | 88 | [Dónde Andarás \- USB GAD Remix](https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Yo Solo Quiero Que Me Quieras Como Yo Te Quiero](https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu) | 3:24 |
-| 89 | [corazón negro](https://open.spotify.com/track/24wmCaxb62soCdelRPXKYM) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [We Don't Know U](https://open.spotify.com/artist/1dGgHSB6ORkimKKvzZYoT3) | [corazón negro](https://open.spotify.com/album/6Ishs6DC7Msxjvq4Tbzkxh) | 2:31 |
-| 90 | [Bésame Mucho](https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bésame Mucho](https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ) | 2:31 |
+| 89 | [Bésame Mucho](https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bésame Mucho](https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ) | 2:31 |
+| 90 | [corazón negro](https://open.spotify.com/track/24wmCaxb62soCdelRPXKYM) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [We Don't Know U](https://open.spotify.com/artist/1dGgHSB6ORkimKKvzZYoT3) | [corazón negro](https://open.spotify.com/album/6Ishs6DC7Msxjvq4Tbzkxh) | 2:31 |
 
 Snapshot ID: `AAAAAP9kTFskmADNYghRuYGBg55/K2ek`

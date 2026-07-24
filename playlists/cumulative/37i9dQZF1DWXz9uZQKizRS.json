@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Sad Smiles",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: BELA",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 253860,
       "name": "Basia",
       "url": "https://open.spotify.com/track/7BBzb45Wl71DMTzUe5e1dN"
@@ -5796,7 +5796,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 222252,
       "name": "Do Ciebie",
       "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
@@ -6951,6 +6951,24 @@
     },
     {
       "album": {
+        "name": "Egzotyczne wyspy",
+        "url": "https://open.spotify.com/album/0ys0A15Pt6GBBu4kkKfhuI"
+      },
+      "artists": [
+        {
+          "name": "BELA",
+          "url": "https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138900,
+      "name": "Egzotyczne wyspy",
+      "url": "https://open.spotify.com/track/7Gq8yq526BZ3iqEiPJAkeq"
+    },
+    {
+      "album": {
         "name": "Zjawy",
         "url": "https://open.spotify.com/album/2Mel1C4NYvTYLU2TwGvobd"
       },
@@ -7198,6 +7216,24 @@
       "duration_ms": 366004,
       "name": "Etiuda nr4 O.S.T.R.",
       "url": "https://open.spotify.com/track/3R1arpF9KPIsxu4yaQhumP"
+    },
+    {
+      "album": {
+        "name": "euforia",
+        "url": "https://open.spotify.com/album/32nsOy5JEhnTay6sOg4PSE"
+      },
+      "artists": [
+        {
+          "name": "mop",
+          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241686,
+      "name": "euforia",
+      "url": "https://open.spotify.com/track/71LYnd5tkjDOnffCRaMSbm"
     },
     {
       "album": {
@@ -8334,7 +8370,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 138197,
       "name": "GRANATOWE PORSCHE",
       "url": "https://open.spotify.com/track/1sxyNQkN7ZboctIXesWxZl"
@@ -10238,7 +10274,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 144421,
       "name": "Jest Mi Dobrze",
       "url": "https://open.spotify.com/track/1mas8R3yJGfMRXnvUeDimW"
@@ -13498,7 +13534,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 191250,
       "name": "ludzik",
       "url": "https://open.spotify.com/track/1QEJVqRz6oYgTvGRa582jV"
@@ -14876,6 +14912,24 @@
       "duration_ms": 185192,
       "name": "Miodowe Lata",
       "url": "https://open.spotify.com/track/3AEpsuPJXtPwEJMpptFwsn"
+    },
+    {
+      "album": {
+        "name": "Miodowe lata",
+        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211196,
+      "name": "Miodowe lata",
+      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
     },
     {
       "album": {
@@ -24115,6 +24169,24 @@
     },
     {
       "album": {
+        "name": "Seen It Land",
+        "url": "https://open.spotify.com/album/5UslOtiNVzKKhmZus67qK8"
+      },
+      "artists": [
+        {
+          "name": "Rosa Vertov",
+          "url": "https://open.spotify.com/artist/1jkVkjpQ7WpH3MIT3IESUf"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301487,
+      "name": "Seen It Land",
+      "url": "https://open.spotify.com/track/3yRrZfp1rYEOq4a95cAfyj"
+    },
+    {
+      "album": {
         "name": "Sejsmografy",
         "url": "https://open.spotify.com/album/1qdvZgDYoLEh1I1ic8rBUO"
       },
@@ -24798,6 +24870,28 @@
       "duration_ms": 185000,
       "name": "Sk\u0142adam si\u0119",
       "url": "https://open.spotify.com/track/6p5DXBcSSEQJKWVI979iCb"
+    },
+    {
+      "album": {
+        "name": "Slow food",
+        "url": "https://open.spotify.com/album/4MpDDLn8mp6k8h0FHceLDH"
+      },
+      "artists": [
+        {
+          "name": "Renata \u015alesicka",
+          "url": "https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae"
+        },
+        {
+          "name": "Jakub Magier",
+          "url": "https://open.spotify.com/artist/5aCXLfaZgPiIxfDIjSXoCi"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Slow food",
+      "url": "https://open.spotify.com/track/0scaKDD1nEsr2GaUvSljPI"
     },
     {
       "album": {
@@ -28736,7 +28830,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 152826,
       "name": "Ucieczki donik\u0105d",
       "url": "https://open.spotify.com/track/37RcI3x05qLoHm44xS13px"
@@ -29648,6 +29742,28 @@
       "duration_ms": 230669,
       "name": "Walczyk",
       "url": "https://open.spotify.com/track/29edwTF4pFcJWpmCDAkJiV"
+    },
+    {
+      "album": {
+        "name": "Walnut",
+        "url": "https://open.spotify.com/album/2N2t2IVNVvvlYPkGlkr46O"
+      },
+      "artists": [
+        {
+          "name": "Paulina Przybysz",
+          "url": "https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API"
+        },
+        {
+          "name": "Tony Tixier",
+          "url": "https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Walnut",
+      "url": "https://open.spotify.com/track/69XBb81Q5tft2lnALci7iB"
     },
     {
       "album": {

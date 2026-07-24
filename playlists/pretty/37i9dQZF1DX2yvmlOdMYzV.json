@@ -1,6 +1,6 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 957433,
+  "num_followers": 957430,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
@@ -1841,6 +1841,22 @@
       "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
     },
     {
+      "added_at": "2024-04-05 04:04:34",
+      "album": {
+        "name": "I Can\u2019t Even Cry",
+        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 221771,
+      "name": "I Can\u2019t Even Cry",
+      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
+    },
+    {
       "added_at": "2025-08-01 07:30:09",
       "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
@@ -1859,22 +1875,6 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
-    },
-    {
-      "added_at": "2024-04-05 04:04:34",
-      "album": {
-        "name": "I Can\u2019t Even Cry",
-        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 221771,
-      "name": "I Can\u2019t Even Cry",
-      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
     },
     {
       "added_at": "2025-07-13 05:44:43",
@@ -2109,22 +2109,6 @@
       "url": "https://open.spotify.com/track/3pp63SNvp4x3qSPv3TqYAM"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Greatest Gift (Reimagined)",
-        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Greatest Gift - Reimagined",
-      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
-    },
-    {
       "added_at": "2023-09-15 01:16:56",
       "album": {
         "name": "Sharing is Caring",
@@ -2139,6 +2123,22 @@
       "duration_ms": 218068,
       "name": "Watching The News",
       "url": "https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Greatest Gift (Reimagined)",
+        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Greatest Gift - Reimagined",
+      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
     },
     {
       "added_at": "2025-03-07 07:16:40",
@@ -2265,26 +2265,6 @@
       "url": "https://open.spotify.com/track/0WCKUJ180VjZYtLqrGYNci"
     },
     {
-      "added_at": "2025-06-06 06:53:28",
-      "album": {
-        "name": "Could Be",
-        "url": "https://open.spotify.com/album/1CwZsDw1F7MQxUePjM81OB"
-      },
-      "artists": [
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Nahima",
-          "url": "https://open.spotify.com/artist/0avtNq4c3sQcobAKKfJnVV"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Could Be",
-      "url": "https://open.spotify.com/track/3mr5IsAJMwN4FxWzRf2yng"
-    },
-    {
       "added_at": "2025-05-23 04:58:51",
       "album": {
         "name": "To Be Found",
@@ -2307,6 +2287,26 @@
       "duration_ms": 220165,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
+    },
+    {
+      "added_at": "2025-06-06 06:53:28",
+      "album": {
+        "name": "Could Be",
+        "url": "https://open.spotify.com/album/1CwZsDw1F7MQxUePjM81OB"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Nahima",
+          "url": "https://open.spotify.com/artist/0avtNq4c3sQcobAKKfJnVV"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Could Be",
+      "url": "https://open.spotify.com/track/3mr5IsAJMwN4FxWzRf2yng"
     },
     {
       "added_at": "2024-08-23 06:05:45",
@@ -2385,26 +2385,6 @@
       "url": "https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR"
     },
     {
-      "added_at": "2025-03-29 05:25:30",
-      "album": {
-        "name": "Letters From The Atlantic",
-        "url": "https://open.spotify.com/album/4t7ckccjrCGSqqUFrfQLpX"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        }
-      ],
-      "duration_ms": 210220,
-      "name": "Change in Weather [Feat. MIA GLADSTONE]",
-      "url": "https://open.spotify.com/track/0N496JaQOKmheVB9T3mJWP"
-    },
-    {
       "added_at": "2025-02-07 08:33:49",
       "album": {
         "name": "Hey Girl (s)",
@@ -2427,6 +2407,26 @@
       "duration_ms": 228266,
       "name": "Hey Girl(s)",
       "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
+    },
+    {
+      "added_at": "2025-03-29 05:25:30",
+      "album": {
+        "name": "Letters From The Atlantic",
+        "url": "https://open.spotify.com/album/4t7ckccjrCGSqqUFrfQLpX"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        }
+      ],
+      "duration_ms": 210220,
+      "name": "Change in Weather [Feat. MIA GLADSTONE]",
+      "url": "https://open.spotify.com/track/0N496JaQOKmheVB9T3mJWP"
     },
     {
       "added_at": "2025-06-13 04:00:58",
@@ -2629,6 +2629,38 @@
       "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"
     },
     {
+      "added_at": "2025-10-17 06:10:24",
+      "album": {
+        "name": "Lonely Mile",
+        "url": "https://open.spotify.com/album/2SLdyDrKz5ALBPMrwQGKbf"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
+        }
+      ],
+      "duration_ms": 223472,
+      "name": "Lonely Mile",
+      "url": "https://open.spotify.com/track/6rQ1ypqzzbYrVTmhSt2nKl"
+    },
+    {
+      "added_at": "2024-10-26 03:56:59",
+      "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
       "added_at": "2025-03-21 05:45:29",
       "album": {
         "name": "high vibrations",
@@ -2651,38 +2683,6 @@
       "duration_ms": 335846,
       "name": "high vibrations",
       "url": "https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb"
-    },
-    {
-      "added_at": "2024-10-26 03:56:59",
-      "album": {
-        "name": "Rebel Soul",
-        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Rebel Soul",
-      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
-    },
-    {
-      "added_at": "2025-10-17 06:10:24",
-      "album": {
-        "name": "Lonely Mile",
-        "url": "https://open.spotify.com/album/2SLdyDrKz5ALBPMrwQGKbf"
-      },
-      "artists": [
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
-        }
-      ],
-      "duration_ms": 223472,
-      "name": "Lonely Mile",
-      "url": "https://open.spotify.com/track/6rQ1ypqzzbYrVTmhSt2nKl"
     },
     {
       "added_at": "2024-07-19 16:58:40",
@@ -2841,6 +2841,22 @@
       "url": "https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX"
     },
     {
+      "added_at": "2024-03-29 07:27:25",
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/6BXhsVJP6Lus1iXf5Z7P1M"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
+        }
+      ],
+      "duration_ms": 144137,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/2odCr4E6CiL2kkcy8EMUeg"
+    },
+    {
       "added_at": "2024-09-28 03:33:15",
       "album": {
         "name": "FOR THE BOY IN ME",
@@ -2871,22 +2887,6 @@
       "duration_ms": 127409,
       "name": "TEETH",
       "url": "https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU"
-    },
-    {
-      "added_at": "2024-03-29 07:27:25",
-      "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/6BXhsVJP6Lus1iXf5Z7P1M"
-      },
-      "artists": [
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
-        }
-      ],
-      "duration_ms": 144137,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/2odCr4E6CiL2kkcy8EMUeg"
     },
     {
       "added_at": "2024-10-26 03:56:59",
@@ -3033,26 +3033,6 @@
       "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Better Care (Remix)",
-        "url": "https://open.spotify.com/album/45CNxXO0n5ZWhp1RtquSLR"
-      },
-      "artists": [
-        {
-          "name": "UNA MIA",
-          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
-        },
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 219652,
-      "name": "Better Care - Remix",
-      "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
-    },
-    {
       "added_at": "2025-03-21 05:45:29",
       "album": {
         "name": "Love Deep",
@@ -3071,6 +3051,26 @@
       "duration_ms": 220125,
       "name": "Love Deep",
       "url": "https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Better Care (Remix)",
+        "url": "https://open.spotify.com/album/45CNxXO0n5ZWhp1RtquSLR"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        },
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 219652,
+      "name": "Better Care - Remix",
+      "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
     },
     {
       "added_at": "2024-04-05 04:04:34",
@@ -3185,22 +3185,6 @@
       "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
     },
     {
-      "added_at": "2024-10-26 03:56:59",
-      "album": {
-        "name": "love me right",
-        "url": "https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6"
-      },
-      "artists": [
-        {
-          "name": "RISSA",
-          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
-        }
-      ],
-      "duration_ms": 157164,
-      "name": "love me right",
-      "url": "https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ"
-    },
-    {
       "added_at": "2025-03-07 07:16:40",
       "album": {
         "name": "So Lucky",
@@ -3215,6 +3199,22 @@
       "duration_ms": 143758,
       "name": "So Lucky",
       "url": "https://open.spotify.com/track/3DAJjuBdlhH7APSVY9bN8Z"
+    },
+    {
+      "added_at": "2024-10-26 03:56:59",
+      "album": {
+        "name": "love me right",
+        "url": "https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+        }
+      ],
+      "duration_ms": 157164,
+      "name": "love me right",
+      "url": "https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ"
     },
     {
       "added_at": "2025-02-14 09:47:36",
@@ -3289,22 +3289,6 @@
       "url": "https://open.spotify.com/track/6ayHXjLC5FsNhOdYeEOaDN"
     },
     {
-      "added_at": "2024-11-08 14:58:29",
-      "album": {
-        "name": "Sit Down",
-        "url": "https://open.spotify.com/album/0QkUS3cJxlcy27pCa4timk"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9"
-    },
-    {
       "added_at": "2025-02-14 09:47:36",
       "album": {
         "name": "Love is Gold",
@@ -3361,6 +3345,22 @@
       "url": "https://open.spotify.com/track/36ccoNmi9e2noC3xnmKr0Y"
     },
     {
+      "added_at": "2024-11-08 14:58:29",
+      "album": {
+        "name": "Sit Down",
+        "url": "https://open.spotify.com/album/0QkUS3cJxlcy27pCa4timk"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 176603,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9"
+    },
+    {
       "added_at": "2024-04-05 04:04:34",
       "album": {
         "name": "Multiply (Feat. Luedji Luna)",
@@ -3379,6 +3379,22 @@
       "duration_ms": 240133,
       "name": "Multiply - Feat. Luedji Luna",
       "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 189063,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
     },
     {
       "added_at": "2024-08-23 06:05:45",
@@ -3403,22 +3419,6 @@
       "duration_ms": 240538,
       "name": "Remember (feat. Samara Joy, Robert Glasper)",
       "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 189063,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
     },
     {
       "added_at": "2024-11-22 08:43:50",

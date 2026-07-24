@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 43178,
+  "num_followers": 43213,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
+        "name": "Greatest Hits Of Manmohan Waris",
+        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
+      },
+      "artists": [
+        {
+          "name": "Manmohan Waris",
+          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
+        }
+      ],
+      "duration_ms": 417213,
+      "name": "Kalli Beh Ke Sochni",
+      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
         "name": "Jogi",
         "url": "https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 285708,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
-        "name": "Greatest Hits Of Manmohan Waris",
-        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
-      },
-      "artists": [
-        {
-          "name": "Manmohan Waris",
-          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
-        }
-      ],
-      "duration_ms": 417213,
-      "name": "Kalli Beh Ke Sochni",
-      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
-        "name": "Ghazal",
-        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
-      },
-      "artists": [
-        {
-          "name": "Ammri",
-          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
-        },
-        {
-          "name": "Jang Dhillon",
-          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
-        }
-      ],
-      "duration_ms": 199511,
-      "name": "Ghazal",
-      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
         "name": "Ranjhe",
         "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 206895,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
+      },
+      "artists": [
+        {
+          "name": "Ammri",
+          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
-        "name": "Ek Anokhi Dulhan Saavi",
-        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
-      },
-      "artists": [
-        {
-          "name": "Harpreet",
-          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
-        },
-        {
-          "name": "Baba Bulleh Shah",
-          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Jaan Na Jaan - Male Version",
-      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
         "name": "Dil Mera Dol Da",
         "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 548127,
       "name": "Ruh Le Gaya Dil da Jani",
       "url": "https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
+        "name": "Ek Anokhi Dulhan Saavi",
+        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
+      },
+      "artists": [
+        {
+          "name": "Harpreet",
+          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+        },
+        {
+          "name": "Baba Bulleh Shah",
+          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Jaan Na Jaan - Male Version",
+      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
     },
     {
       "added_at": "2026-07-17 10:06:57",

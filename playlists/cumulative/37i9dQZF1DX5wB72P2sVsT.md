@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Blasterjaxx au top des bangers dance/electro du moment !
+> Ofenbach au top des bangers dance/electro du moment !
 
 375 songs - 17 hr 20 min
 

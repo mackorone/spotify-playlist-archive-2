@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,267 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,284 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [HÄ, WIESO?](https://open.spotify.com/track/0ctPMsJW9ktrGcBQU0vz0R) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [HÄ, WIESO?](https://open.spotify.com/album/0QCwIk4CS6jo3MCZW5DC2l) | 2:00 |
 | 22 | [OBSESSED](https://open.spotify.com/track/4yZc4VjXu43T2wsxQ7tjvF) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [OBSESSED](https://open.spotify.com/album/67OvUTrUOEhzujquhBm1pQ) | 2:08 |
 | 23 | [In My Dreams](https://open.spotify.com/track/4ZXEd49kxTCbDpbjzhHtpj) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/4Y4SOIejf7sDcAhUgkbFwq) | 3:35 |
-| 24 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
-| 25 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
-| 26 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |
+| 24 | [Sexkaufverbot](https://open.spotify.com/track/3Pa2YjE1pK4eVWPuDCD40C) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Sexkaufverbot](https://open.spotify.com/album/5PGiRFULjgn2jHXTROBL3c) | 2:14 |
+| 25 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
+| 26 | [FLIEHN](https://open.spotify.com/track/6IPLF0A1V1MGMAYW6Q43de) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [FLIEHN](https://open.spotify.com/album/6XZZe3fvZ1ZEytfqcpCEp3) | 2:39 |
 | 27 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
 | 28 | [Blue Star](https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR) | 3:06 |
 | 29 | [GIRLZ GIRLZ](https://open.spotify.com/track/2IvdFVrOzSnbHw6KIX1yyg) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [GIRLZ GIRLZ](https://open.spotify.com/album/6d5uT2Afimxl2B7UiURKOP) | 2:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [bad 2 the bones](https://open.spotify.com/track/1BXMyANdOhc3KGtzhmS9zB) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [keiner lacht](https://open.spotify.com/album/0I4QIa41Ls0ckSSwzXMJGs) | 2:27 |
 | 45 | [supersexy](https://open.spotify.com/track/7w7ncCA51LlnTfgcqsQnzY) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [supersexy](https://open.spotify.com/album/7DAHk01LDcEiRXNyyzbPLu) | 2:24 |
 | 46 | [2k16//capriKid](https://open.spotify.com/track/7m40TgwNJ8MkeHGFdbQfA7) | [Naomi Westlake](https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml) | [2k16//capriKid](https://open.spotify.com/album/5covX8DwctSAofDqDheVJ3) | 2:16 |
-| 47 | [Everybody Knows](https://open.spotify.com/track/4VRfMVqeTN6CGCWkobs7Nu) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [A Deep Breath Out](https://open.spotify.com/album/3VaMQq9rS8aGIALKEeJ0qL) | 3:15 |
-| 48 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
+| 47 | [daddy issues](https://open.spotify.com/track/4aktSA7vtw9vLvxOcIIrAN) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [daddy issues](https://open.spotify.com/album/6HiZg3loJpBoct2oIDs2Cy) | 2:07 |
+| 48 | [Everybody Knows](https://open.spotify.com/track/4VRfMVqeTN6CGCWkobs7Nu) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [A Deep Breath Out](https://open.spotify.com/album/3VaMQq9rS8aGIALKEeJ0qL) | 3:15 |
 | 49 | [sonnenmond](https://open.spotify.com/track/1124okt8bynAcxo4O4QtC8) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [klein sein](https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG) | 2:40 |
 | 50 | [Live](https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Live](https://open.spotify.com/album/7EfBBLRVpkw9nDgTPviap7) | 2:13 |
 

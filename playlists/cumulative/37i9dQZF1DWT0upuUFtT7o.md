@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Oscar Lindsey
 
-3,894 songs - 8 day 23 hr 38 min
+3,895 songs - 8 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [02:56](https://open.spotify.com/track/7dwrsFI1SUX1Xho36ecb69) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [BEBELUNA](https://open.spotify.com/artist/55RGGwGDenbVKeCLIu5HXT), [Nwakke](https://open.spotify.com/artist/4sjhQahJDiTX6LZgqYKySQ) | [02:56](https://open.spotify.com/album/3hsXB2QcqgtvyyXGZFjEAp) | 2:56 | 2023-05-03 | 2023-06-08 |
 | [1](https://open.spotify.com/track/7Go7v5ORG2LyImhgD4Pz5W) | [Zac Farro](https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3) | [1](https://open.spotify.com/album/1j63TAAhLc3azuz9l5Z8jT) | 3:00 | 2025-07-09 | 2025-09-18 |
 | [1 plus 1](https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [1 plus 1](https://open.spotify.com/album/1LysZgJlcQxPkF3VcRCs80) | 3:01 | 2026-02-11 | 2026-05-14 |
-| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/27NMMrWjXmfxTtNjdH8PcB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/4tSRBO4d092lpDSr7ir5gR) | 3:34 | 2026-07-16 |  |
+| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/4sX1QVHVcYr8dlnLqOLpvZ) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/1vR7iuEnukcCPHE4ZEqK0y) | 3:33 | 2026-07-23 |  |
+| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/27NMMrWjXmfxTtNjdH8PcB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/4tSRBO4d092lpDSr7ir5gR) | 3:34 | 2026-07-16 | 2026-07-24 |
 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 | 2024-08-28 | 2025-01-16 |
 | [10/10](https://open.spotify.com/track/4oAK2KzG31bqlbJBpoP0kz) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [10/10](https://open.spotify.com/album/7tg8e48iTJUhDBbyTpsADe) | 2:55 | 2022-09-14 | 2022-10-20 |
 | [10:23](https://open.spotify.com/track/28EkYcJzKaRZGNbAxqw3xR) | [Hank Bee](https://open.spotify.com/artist/5nhxIq9KHK2pnfB4T7URxn) | [10:23](https://open.spotify.com/album/6UJU2PB3L5tOaX2d4c74qp) | 4:24 | 2026-01-14 | 2026-02-26 |

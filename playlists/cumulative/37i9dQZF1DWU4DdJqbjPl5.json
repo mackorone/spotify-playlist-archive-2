@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover:  Nasty C",
+  "description": "Intersection of R&B and afrobeats. Cover:  Tyla",
   "name": "afro&b ",
   "tracks": [
     {
@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Devil's Daughter",
+        "url": "https://open.spotify.com/album/6RyH7bJpZVS8BkVJfBQGto"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Devil's Daughter",
+      "url": "https://open.spotify.com/track/2ENMkHQa5YZyYqpc9zUPfh"
+    },
+    {
+      "album": {
         "name": "Diani",
         "url": "https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -2735,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148575,
+      "name": "DOUBLE BLIND",
+      "url": "https://open.spotify.com/track/4VLekTV2mblX91gl1BHIJE"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
       },
@@ -2848,7 +2884,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 147326,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
@@ -4442,7 +4478,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
@@ -5917,6 +5953,24 @@
     },
     {
       "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
       },
@@ -7324,6 +7378,32 @@
       "duration_ms": 196306,
       "name": "M\u00e8re ya Palais",
       "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
+    },
+    {
+      "album": {
+        "name": "NAKANAMO (V2)",
+        "url": "https://open.spotify.com/album/099PuhGWc6BiuRXKAJn8lX"
+      },
+      "artists": [
+        {
+          "name": "Uncle Baby",
+          "url": "https://open.spotify.com/artist/52QEDrtqzlvcelNX429V9o"
+        },
+        {
+          "name": "Tiimie",
+          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
+        },
+        {
+          "name": "Dre Foryoursoul",
+          "url": "https://open.spotify.com/artist/3WUSqwXcNB1E8JbAdFXUAT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186902,
+      "name": "NAKANAMO - V2",
+      "url": "https://open.spotify.com/track/2WIVtwjKtZuyxA1ZQu7qsB"
     },
     {
       "album": {
@@ -9397,6 +9477,36 @@
     },
     {
       "album": {
+        "name": "Shona Malanga",
+        "url": "https://open.spotify.com/album/4YemRJsDlgvqjghYmMEv6K"
+      },
+      "artists": [
+        {
+          "name": "Lexsil",
+          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
+        },
+        {
+          "name": "Sbahle",
+          "url": "https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5"
+        },
+        {
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+        },
+        {
+          "name": "Deestar ZA",
+          "url": "https://open.spotify.com/artist/5ZARmkqYyIt7cGbTJflwEI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180645,
+      "name": "Shona Malanga",
+      "url": "https://open.spotify.com/track/2FCETbbcUZBopUgQlyAJoV"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -10230,6 +10340,36 @@
       "duration_ms": 146127,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx"
+    },
+    {
+      "album": {
+        "name": "Painfully Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/0qRB249PHQdJmsCgP7S1yh"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        },
+        {
+          "name": "Mbryo",
+          "url": "https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy"
+        },
+        {
+          "name": "Christer",
+          "url": "https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Taking Me Places",
+      "url": "https://open.spotify.com/track/33ut674yyb3quH7Ubf6Q7J"
     },
     {
       "album": {
@@ -11544,7 +11684,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"

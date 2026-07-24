@@ -4,13 +4,13 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: TRADE L\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-841 songs - 1 day 20 hr 51 min
+842 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:01](https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 1:56 | 2024-01-23 | 2026-03-14 |
 | [1 more min \(Feat\. Woodie Gochild\)](https://open.spotify.com/track/53kiTTfAshduSTtNTG6nCX) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:06 | 2022-04-21 | 2022-07-02 |
-| [1,2,3,4,5](https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [1,2,3,4,5](https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz) | 3:02 | 2025-01-24 |  |
+| [1,2,3,4,5](https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [1,2,3,4,5](https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz) | 3:02 | 2025-01-24 | 2026-07-24 |
 | [11:59 \(feat\. Goopy\)](https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [11:59 \(feat\. Goopy\)](https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk) | 2:57 | 2022-05-11 | 2026-06-05 |
 | [19](https://open.spotify.com/track/5LGvVjkDajEdjaWDeovd3q) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [2 Kids On The Block \- Part.1](https://open.spotify.com/album/7KmTTJ8lFaNmGvqL8BJKRd) | 4:11 | 2023-06-23 | 2023-10-04 |
 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 | 2024-06-27 | 2026-03-14 |
@@ -303,6 +303,7 @@
 | [Have A Little Fun](https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:20 | 2022-07-24 | 2023-09-22 |
 | [HAWAII \- Remaster](https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs) | [YELLA](https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw) | [21 Colorful \(Remaster\)](https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP) | 3:19 | 2022-07-14 | 2022-07-18 |
 | [HBD](https://open.spotify.com/track/4A1ebEAzG7zN385y88Rs5F) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [HBD](https://open.spotify.com/album/3elyXc4qG16WZfqXAomDZ6) | 3:02 | 2024-05-21 | 2024-06-01 |
+| [Heartfall](https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:01 | 2026-07-22 |  |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
 | [help me out o kill me not](https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:20 | 2024-03-08 | 2024-03-30 |
 | [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-26 | 2024-04-29 |

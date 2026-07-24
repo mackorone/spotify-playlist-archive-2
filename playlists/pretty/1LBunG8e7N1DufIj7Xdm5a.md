@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,624 songs - 10 day 8 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,626 songs - 10 day 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4632,5 +4632,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4622 | [Broken Promises](https://open.spotify.com/track/5axb6OElLAzfWCZjD2Fh81) | [D\. J\. Lauria Band](https://open.spotify.com/artist/1ZF1ndUQ5T08p1jmkORNeZ), [Vic Bullard](https://open.spotify.com/artist/7GKSqmzsu97QQ9UkK3cmbx), [Casey Ruth Little](https://open.spotify.com/artist/0HPgdaCQytDSYaDfZjmqqp) | [New Old Stock](https://open.spotify.com/album/3usVMYM41EIU0dfF0DpWXF) | 4:00 |
 | 4623 | [Stalk Your Stories](https://open.spotify.com/track/4uLxIFk69J4Tx1VdVNzPWU) | [Eddion](https://open.spotify.com/artist/1bVeTVCyDIs8YsBwUpCwdr) | [Stalk Your Stories](https://open.spotify.com/album/0zjRy4gvZJbf6QZKnfio7F) | 3:04 |
 | 4624 | [Unforgiving Nights](https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE) | [Ev Kalo](https://open.spotify.com/artist/0kuWGBFMMa8a6jJeFAZwbq) | [Unforgiving Nights](https://open.spotify.com/album/6rAssQcROkNxsZrDfqJsYP) | 3:38 |
+| 4625 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 |
+| 4626 | [Desolate](https://open.spotify.com/track/303YZOIjFPc92eth5JaBxg) | [Asylum Road](https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2) | [Desolate](https://open.spotify.com/album/3u3Qf5KG0AFwSLAl7BdKyM) | 3:32 |
 
-Snapshot ID: `AAAJUfGnSKG/pWf1PMRd/ffP/SLhbPIb`
+Snapshot ID: `AAAJU5mhk73MT2Joz1P5UpNG+Qs4eYlg`

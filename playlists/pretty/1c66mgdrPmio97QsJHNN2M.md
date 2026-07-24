@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,783 likes - 277 songs - 14 hr 27 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,783 likes - 281 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 275 | [Home](https://open.spotify.com/track/0SBq0rnvZpyXHoadoJ73lC) | [DeeLFØx](https://open.spotify.com/artist/5BiN0BJo7wWsd2rkrE1vae) | [Home](https://open.spotify.com/album/1usFNKGdTcPo00qnSMWYpU) | 2:32 |
 | 276 | [Tidal calm](https://open.spotify.com/track/2VT0Nl6ylMaoc6yUt6uowS) | [ROBERTO ANDREOLI](https://open.spotify.com/artist/2njD5URlCc3rQMX9FhvWJ7) | [Tidal calm](https://open.spotify.com/album/4OVznltaEBqFebJT30DKft) | 3:02 |
 | 277 | [You Can't Bring That in Here, Our Drummer Has a Peanut Allergy](https://open.spotify.com/track/4BuMcXOhOOIWBardnE8oHA) | [Tiebreak](https://open.spotify.com/artist/38pIPIk1VQJhC5sYkIqJB1) | [You Can't Bring That in Here, Our Drummer Has a Peanut Allergy](https://open.spotify.com/album/2p7SwgiSGULHlbk54I1ZTE) | 2:13 |
+| 278 | [Underwater Stars](https://open.spotify.com/track/6fMS3c3NMXoPlJ5fr12r7y) | [Lauren D'Abate](https://open.spotify.com/artist/2MYTtsE7VnifHjTdQn0HC7) | [Underwater Stars](https://open.spotify.com/album/7mNcdkMhGDrjLFvQvU8Jyu) | 2:45 |
+| 279 | [Makeshift](https://open.spotify.com/track/0Z5PFrCgToAGQlyhGMrOXl) | [Tiebreak](https://open.spotify.com/artist/38pIPIk1VQJhC5sYkIqJB1) | [Makeshift](https://open.spotify.com/album/615fsNmtMYwGZRzcHeGxLi) | 3:27 |
+| 280 | [ferric dust](https://open.spotify.com/track/7xyolnzBVFKF1InuJZFCJX) | [ferric dust](https://open.spotify.com/artist/3cXeLNuw7EvxZsgvVrmpHh) | [ferric dust](https://open.spotify.com/album/2HQ2ZdCN1SbJf5uMBS7B87) | 4:26 |
+| 281 | [Gioco a Papmusic Game](https://open.spotify.com/track/6zI79WCcjePKCyWBI26lih) | [PAPmusic Official](https://open.spotify.com/artist/3cH7Zis27i2yeGUaKtJICz), [LeiKiè](https://open.spotify.com/artist/1qZN7FeNmTwY75cnrPyUh7) | [Gioco a Papmusic Game](https://open.spotify.com/album/5XGY2PgQGu3fHWyL3gBTKg) | 2:01 |
 
-Snapshot ID: `AAA6yshjl6hVzmHYtwWOtD8YLN4Br22A`
+Snapshot ID: `AAA6zm0BW/b+Uvlz01ZHpUXk9lg7nki8`

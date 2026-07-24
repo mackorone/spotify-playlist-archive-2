@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28714,
+  "num_followers": 28729,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAABCOtzXCbED+WMAPk/NA9eJ",
+  "snapshot_id": "amAIAAAAAAAsxp8sRsLxpnkjZTz9G+Ye",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Whiskey & Women",
-      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unchained",
         "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 158293,
       "name": "I'm Gonna Hurt Her On the Radio",
       "url": "https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Whiskey & Women",
+      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Another Pretty Country Song",
-      "url": "https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183840,
       "name": "She Used to Love Me a Lot",
       "url": "https://open.spotify.com/track/5JELJ6SX5zeGRQWrFp2m3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Another Pretty Country Song",
+      "url": "https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Album",
-        "url": "https://open.spotify.com/album/7E52wkFEuclohpXk3MKgt2"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Take This Job and Shove It Too",
-      "url": "https://open.spotify.com/track/08iMxhW6hClhGiSo5QHIhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 242306,
       "name": "Piece of Wood and Steel",
       "url": "https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Album",
+        "url": "https://open.spotify.com/album/7E52wkFEuclohpXk3MKgt2"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Take This Job and Shove It Too",
+      "url": "https://open.spotify.com/track/08iMxhW6hClhGiSo5QHIhc"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Mona Lisa Lost Her Smile",
-      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 197826,
       "name": "Drank My Wife Away",
       "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Mona Lisa Lost Her Smile",
+      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Human Emotions",
-      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castles in the Sand",
         "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162293,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Human Emotions",
+      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Playlist
 
-654 songs - 1 day 14 hr 39 min
+655 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [L'amour](https://open.spotify.com/track/00JRUvdwqCvf2sWeKbYdS9) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:26 | 2023-10-25 |  |
 | [L'amour](https://open.spotify.com/track/4mHpCT7O7c6zCQOiKKRPKB) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [L'amour](https://open.spotify.com/album/5Lssu6Cfb9mAjCN2W6OseG) | 3:26 | 2023-10-25 |  |
 | [L'Ultima Corsa](https://open.spotify.com/track/6wzdLuCN90WycoNBMCrPEE) | [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod), [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [L'Ultima Corsa](https://open.spotify.com/album/39XHiau3fGqnz8GHDF7Yag) | 3:39 | 2025-12-23 |  |
+| [La Lista](https://open.spotify.com/track/3CTMz34eXafsYmOngdLNcu) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6), [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [La Lista](https://open.spotify.com/album/75iroRSlNPmLhCvvtQjpip) | 3:22 | 2026-07-23 |  |
 | [La Luna](https://open.spotify.com/track/0cUMkwTX3WwAwDfQUTaiOX) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [La Luna](https://open.spotify.com/album/06TAgt1W7JwMagyzlp5t8U) | 3:59 | 2023-10-25 |  |
 | [Laced Up](https://open.spotify.com/track/5k6mwsbR61D4ru3Q5V9l17) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Laced Up](https://open.spotify.com/album/6az1CCt62V1JJWnVxMPrQS) | 2:42 | 2023-10-25 |  |
 | [Laissez\-Moi Rêver](https://open.spotify.com/track/0v1W40nJew2JlgTOSkjVEF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 2:55 | 2023-10-25 |  |

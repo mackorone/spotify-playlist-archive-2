@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Noah Bridgen
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,131 likes - 165 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,137 likes - 165 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

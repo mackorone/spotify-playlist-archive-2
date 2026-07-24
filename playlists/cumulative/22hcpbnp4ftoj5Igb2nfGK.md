@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-185 songs - 11 hr 9 min
+186 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Gas Drawls](https://open.spotify.com/track/2x98hOxbd1cnV6AKhPRUcX) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 3:43 | 2025-01-30 |  |
 | [GAZZILLION EAR](https://open.spotify.com/track/5KeW2rotY0Gdsml5RPOBN8) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 4:14 | 2025-02-26 |  |
 | [Get Got](https://open.spotify.com/track/781V2Y5LPtcpgONEOadadE) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:51 | 2025-03-10 | 2025-07-06 |
+| [Ghost](https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3) | 3:05 | 2026-07-23 |  |
 | [Ghost](https://open.spotify.com/track/3IWUCuJ19dmUhddJAEZddx) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 4:08 | 2026-05-26 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2025-06-19 |  |
 | [Giving Bad People Good Ideas](https://open.spotify.com/track/3rkBaypKGiemuTeZSRCBKk) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 3:07 | 2025-03-10 | 2025-04-22 |

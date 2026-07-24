@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Geolier sulla cover della playlist urban più grande italiana 🥵
+> it's an Artie summer 🩸
 
-1,129 songs - 2 day 6 hr 26 min
+1,130 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Colpa Mia](https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Colpa Mia](https://open.spotify.com/album/14hWXI41p18S5cmcOwMPHM) | 2:10 | 2025-04-17 | 2025-05-16 |
 | [COLPA MIA](https://open.spotify.com/track/74XIQivqiyMyCoIuZod4YG) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [COLPA MIA](https://open.spotify.com/album/4n019zTaeLXAcHTk0X9cX7) | 2:29 | 2025-01-23 | 2025-02-28 |
 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 | 2024-10-03 | 2024-12-17 |
+| [come no \. \. .](https://open.spotify.com/track/0IgGFVvbuzzghavTQI8ii0) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [FREESTYLE](https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm) | 2:24 | 2026-07-23 |  |
 | [COME POSSO FIDARMI](https://open.spotify.com/track/505Bud7x4Nea07A39ZEJpD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-01-09 | 2025-01-24 |
 | [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 | 2026-05-14 | 2026-06-19 |
 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 | 2025-09-30 |  |
@@ -589,7 +590,7 @@
 | [Lovés \(feat\. VillaBanks\)](https://open.spotify.com/track/3qY9QaUVAfBXNhen1oNCbf) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:46 | 2023-01-26 | 2023-06-07 |
 | [Lucifero](https://open.spotify.com/track/49wZe6prFOo9iSHwsUXrLO) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Lucifero](https://open.spotify.com/album/2Gy6N1OiAJu8CBnmR2M6df) | 2:53 | 2022-06-30 | 2022-09-02 |
 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-05-26 | 2026-01-23 |
-| [M'AMA NON M'AMA](https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [M'AMA NON M'AMA](https://open.spotify.com/album/3AtmmwCyWNlimeMrEC8rq7) | 2:32 | 2026-06-18 |  |
+| [M'AMA NON M'AMA](https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [M'AMA NON M'AMA](https://open.spotify.com/album/3AtmmwCyWNlimeMrEC8rq7) | 2:32 | 2026-06-18 | 2026-07-24 |
 | [M.S.O.M.](https://open.spotify.com/track/4tC2tHKt8xZfm36rqXSQxJ) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 3:02 | 2022-05-26 | 2022-07-01 |
 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 | 2025-12-06 | 2026-04-10 |
 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 | 2022-05-09 | 2022-11-30 |

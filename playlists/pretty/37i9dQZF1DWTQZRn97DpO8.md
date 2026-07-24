@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : Anaïs Cardot
+> 🍯🍯🍯<br/>Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,776 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,719 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
-| 2 | [penelope, pt.2](https://open.spotify.com/track/4ihUydbCx8R5KnjyPsQW68) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/2mFSVxcA7iG5GVdrhmN5PB) | 2:09 |
-| 3 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
-| 4 | [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 |
-| 5 | [NANANERE](https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [4PLAY](https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD) | 2:35 |
+| 1 | [Track 5](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 0:00 |
+| 2 | [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 |
+| 3 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |
+| 4 | [NANANERE](https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [4PLAY](https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD) | 2:35 |
+| 5 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
 | 6 | [LA MÊME HISTOIRE](https://open.spotify.com/track/44p541OPMP2VEvGugqgXYA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:56 |
-| 7 | [LAURYN HILL](https://open.spotify.com/track/10rQ8yfPzhD2EXc7xoIFK1) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [LAURYN HILL](https://open.spotify.com/album/4MqYfRe08Dc4bXM19dK8Hm) | 3:09 |
-| 8 | [SmB006 \(le Dilemme\)](https://open.spotify.com/track/7q56mdXjLTLaxaGMsyPwp7) | [Eddy Ape](https://open.spotify.com/artist/7xQU55Z6PSJAgvL2LmwU6e) | [SmB006 \(le Dilemme\)](https://open.spotify.com/album/6n81YWRJIHC1NEJMctXPqX) | 3:16 |
-| 9 | [Friend with benefits](https://open.spotify.com/track/6MgA1YVPItOwUi2kvBAdwB) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Friend with benefits](https://open.spotify.com/album/2VbQeyflxsF55FFRvZvZKr) | 2:24 |
-| 10 | [Médusa](https://open.spotify.com/track/3soB4XKjo5VW2wGsq6whEo) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Médusa](https://open.spotify.com/album/1cr6gnv8Qlh2sKRhpJTx2K) | 2:21 |
-| 11 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |
-| 12 | [le port des gens mal\-aimés](https://open.spotify.com/track/3bTlKuRgB2WqmpVTTdws55) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:38 |
-| 13 | [Illusion](https://open.spotify.com/track/0KTl4fNPLmP7Fhff53QkTT) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Illusion](https://open.spotify.com/album/1kgFMVQavdv4OOUeHwuSRn) | 3:42 |
-| 14 | [Coração](https://open.spotify.com/track/7cRyGiBwYqHXQaBtKmflMG) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 2:50 |
-| 15 | [DOGSITTER](https://open.spotify.com/track/7dhJJNt9UMzUBIr9MTZ3g5) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [DOGSITTER](https://open.spotify.com/album/4KtwACwA2923WVKRlxrDBE) | 1:53 |
-| 16 | [Moi](https://open.spotify.com/track/0mnOyAm1KkPPvCd3eMmrHZ) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Broken Hearts Club, Vol\. 2](https://open.spotify.com/album/31Wh9XreXQ5hiGSoUvt8oD) | 2:46 |
-| 17 | [Sans voix](https://open.spotify.com/track/7CMwXnkXyHgqcIGNzqOM5q) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sans voix](https://open.spotify.com/album/6rVWzFgk9l09KPOyRKVenE) | 2:32 |
-| 18 | [Je sais](https://open.spotify.com/track/1Q8vYrG5iFD4JpskyujRoc) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [Je sais](https://open.spotify.com/album/4lmcjgANmZwOkNoRJaREHF) | 2:31 |
-| 19 | [Discipline](https://open.spotify.com/track/1oHLNUqnUwtCE2ks737fqq) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Discipline](https://open.spotify.com/album/23qJXJLcKd8dpzgHi6rjmw) | 3:41 |
-| 20 | [tu sais tout](https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn) | [Lyes Kaci](https://open.spotify.com/artist/59hJAQqagh8q3ERA9gXwkx) | [tu sais tout](https://open.spotify.com/album/3ChIEosAciQbGuVRgkw6gV) | 2:54 |
-| 21 | [La sève \- Live aux Santolines](https://open.spotify.com/track/5OOT2UeIk1tjg3VX0CNMlK) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Live aux Santolines](https://open.spotify.com/album/2UY5EKFsMR1rjinabTEmL6) | 4:16 |
-| 22 | [Que de bonnes saveurs](https://open.spotify.com/track/74omEMX04PwNJJggax8MwS) | [FEEL](https://open.spotify.com/artist/7Et5is6sEj6d1naU26wy14) | [Que de bonnes saveurs](https://open.spotify.com/album/2V0yYEUSj4qSQgnP4EALnX) | 2:32 |
-| 23 | [VORTEX!](https://open.spotify.com/track/5uLXRiGDQBUNH5lMVuSkdf) | [Jahïem Solo](https://open.spotify.com/artist/5XN9cJro2ndaoRsUaS7huS) | [VORTEX!](https://open.spotify.com/album/5eJs1LEY7KZ1CZOn95bRNg) | 3:51 |
+| 7 | [Fantaisie](https://open.spotify.com/track/1pdtTlrKAG69x4WDolSXnI) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Fantaisie](https://open.spotify.com/album/63nFwsGGKaNlNWqg5Qo52K) | 2:55 |
+| 8 | [Je sais](https://open.spotify.com/track/1Q8vYrG5iFD4JpskyujRoc) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [Je sais](https://open.spotify.com/album/4lmcjgANmZwOkNoRJaREHF) | 2:31 |
+| 9 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
+| 10 | [le port des gens mal\-aimés](https://open.spotify.com/track/3bTlKuRgB2WqmpVTTdws55) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:38 |
+| 11 | [Friend with benefits](https://open.spotify.com/track/6MgA1YVPItOwUi2kvBAdwB) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Friend with benefits](https://open.spotify.com/album/2VbQeyflxsF55FFRvZvZKr) | 2:24 |
+| 12 | [Moi](https://open.spotify.com/track/0mnOyAm1KkPPvCd3eMmrHZ) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Broken Hearts Club, Vol\. 2](https://open.spotify.com/album/31Wh9XreXQ5hiGSoUvt8oD) | 2:46 |
+| 13 | [DOGSITTER](https://open.spotify.com/track/7dhJJNt9UMzUBIr9MTZ3g5) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [DOGSITTER](https://open.spotify.com/album/4KtwACwA2923WVKRlxrDBE) | 1:53 |
+| 14 | [VORTEX!](https://open.spotify.com/track/5uLXRiGDQBUNH5lMVuSkdf) | [Jahïem Solo](https://open.spotify.com/artist/5XN9cJro2ndaoRsUaS7huS) | [VORTEX!](https://open.spotify.com/album/5eJs1LEY7KZ1CZOn95bRNg) | 3:51 |
+| 15 | [LAURYN HILL](https://open.spotify.com/track/10rQ8yfPzhD2EXc7xoIFK1) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [LAURYN HILL](https://open.spotify.com/album/4MqYfRe08Dc4bXM19dK8Hm) | 3:09 |
+| 16 | [SmB006 \(le Dilemme\)](https://open.spotify.com/track/7q56mdXjLTLaxaGMsyPwp7) | [Eddy Ape](https://open.spotify.com/artist/7xQU55Z6PSJAgvL2LmwU6e) | [SmB006 \(le Dilemme\)](https://open.spotify.com/album/6n81YWRJIHC1NEJMctXPqX) | 3:16 |
+| 17 | [Médusa](https://open.spotify.com/track/3soB4XKjo5VW2wGsq6whEo) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Médusa](https://open.spotify.com/album/1cr6gnv8Qlh2sKRhpJTx2K) | 2:21 |
+| 18 | [tu sais tout](https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn) | [Lyes Kaci](https://open.spotify.com/artist/59hJAQqagh8q3ERA9gXwkx) | [tu sais tout](https://open.spotify.com/album/3ChIEosAciQbGuVRgkw6gV) | 2:54 |
+| 19 | [Illusion](https://open.spotify.com/track/0KTl4fNPLmP7Fhff53QkTT) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Illusion](https://open.spotify.com/album/1kgFMVQavdv4OOUeHwuSRn) | 3:42 |
+| 20 | [penelope, pt.2](https://open.spotify.com/track/4ihUydbCx8R5KnjyPsQW68) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/2mFSVxcA7iG5GVdrhmN5PB) | 2:09 |
+| 21 | [Coração](https://open.spotify.com/track/7cRyGiBwYqHXQaBtKmflMG) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 2:50 |
+| 22 | [La sève \- Live aux Santolines](https://open.spotify.com/track/5OOT2UeIk1tjg3VX0CNMlK) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Live aux Santolines](https://open.spotify.com/album/2UY5EKFsMR1rjinabTEmL6) | 4:16 |
+| 23 | [Que de bonnes saveurs](https://open.spotify.com/track/74omEMX04PwNJJggax8MwS) | [FEEL](https://open.spotify.com/artist/7Et5is6sEj6d1naU26wy14) | [Que de bonnes saveurs](https://open.spotify.com/album/2V0yYEUSj4qSQgnP4EALnX) | 2:32 |
 | 24 | [Si elle demande](https://open.spotify.com/track/42GUegcNJubq8geCozIssi) | [Dienini](https://open.spotify.com/artist/5MCpw9P0BJ7vTFst9E6COK) | [Jusqu'à l'aube](https://open.spotify.com/album/26MONn92vJC2Z3UV3kSarj) | 2:52 |
 | 25 | [Jusqu'ici tout va bien](https://open.spotify.com/track/3tCSDz7OiGQUTQNRkUqw0E) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [EGO'STRIP](https://open.spotify.com/album/3NfIHvvShDhGkn1x41UVFE) | 2:12 |
 | 26 | [Maintenant je peux faire l'amour](https://open.spotify.com/track/7CZAQa1vqXf7DcMga5fyXp) | [Tianmi](https://open.spotify.com/artist/1cxvTBZk2FxR8hgtF25sK2) | [Maintenant je peux faire l'amour](https://open.spotify.com/album/2gaqd7uYhtG10FyrIjWEpK) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Oublier](https://open.spotify.com/track/3j72wtC2S5bZ8AKIEdT4hH) | [Mishaël](https://open.spotify.com/artist/7967X4fzzyLLDsw9kiJUPu) | [Oublier](https://open.spotify.com/album/339B0RklgGgH3oe6z1oFC2) | 2:25 |
 | 50 | [COURSIVE](https://open.spotify.com/track/3NJtJXaEj4TtJo8Ep4hqjV) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl), [Ritual X](https://open.spotify.com/artist/5yrBVGMDNNUY5gd6FusHAC) | [COURSIVE](https://open.spotify.com/album/6YLnwx7P42Np0V11aORNkQ) | 3:30 |
 
-Snapshot ID: `AAAAAHziu2Y8NaWr3AIKFSpVIons6AEV`
+Snapshot ID: `AAAAAO+TAp3Hi9Xjbhy6EgTB5f4clVzD`

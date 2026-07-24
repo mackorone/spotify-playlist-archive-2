@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-570 songs - 1 day 3 hr 14 min
+572 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [909 Hittin](https://open.spotify.com/track/0YH8m815wipIdqit4uUKWg) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [909 Hittin](https://open.spotify.com/album/7EXWEskGpH365MRdTThgf1) | 2:20 | 2026-03-06 |  |
 | [911](https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [911](https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp) | 2:55 | 2024-03-12 | 2025-04-27 |
 | [A Little Techno](https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [A Little Techno](https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1) | 2:46 | 2024-04-12 | 2025-04-27 |
+| [Acid Techno Y Perreo](https://open.spotify.com/track/5KPV6uL5v5On7dzJvX5q26) | [Shelco](https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD) | [Acid Techno Y Perreo](https://open.spotify.com/album/7xZm4zPJ7Sy1Kt79asj3BM) | 2:50 | 2026-07-24 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
 | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-27 | 2025-04-27 |
 | [Afterlife](https://open.spotify.com/track/6NpIoNOekUlkZotewb82Hn) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo) | [Afterlife](https://open.spotify.com/album/0LR8Ik7nU99JSLyj10ozaf) | 2:40 | 2025-04-04 |  |
@@ -410,6 +411,7 @@
 | [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 | 2025-01-31 |  |
 | [People Are You Ready Again](https://open.spotify.com/track/4qf4aOWoBw5vMGHrjHIgcP) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7) | [People Are You Ready Again](https://open.spotify.com/album/01g1W2TFNuBG011R11ICvg) | 2:24 | 2026-01-16 |  |
 | [Phat Brahms \- Coone Remix 2.0](https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Phat Brahms \(Coone Remix 2.0\)](https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw) | 2:59 | 2023-01-13 | 2023-03-25 |
+| [Phoenix](https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Phoenix](https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS) | 3:07 | 2026-07-24 |  |
 | [Pick Up The Tempo](https://open.spotify.com/track/67gU1a7O4sc7V1yhMVtFTn) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Pick Up The Tempo](https://open.spotify.com/album/710YAyd3dQL44pxrVY8pmK) | 2:28 | 2025-07-03 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2023-01-21 |
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 | 2022-08-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110151,
+  "num_followers": 110158,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -567,30 +567,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Allemaal Een Droom",
+        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 155433,
+      "name": "Tout Est Bon",
+      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -615,22 +607,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Allemaal Een Droom",
-        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 155433,
-      "name": "Tout Est Bon",
-      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -927,30 +927,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
-      },
-      "artists": [
-        {
-          "name": "Dyna",
-          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Omlaag",
         "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 196958,
       "name": "Omlaag",
       "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
+      },
+      "artists": [
+        {
+          "name": "Dyna",
+          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Nachtvlinder",
-        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 147467,
-      "name": "Go Go Club",
-      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reloaded",
         "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 184421,
       "name": "Op De Weg (feat. Adje & CHO)",
       "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Nachtvlinder",
+        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 147467,
+      "name": "Go Go Club",
+      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "My B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 154077,
       "name": "My B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/4CVQy4t1gkQQWkZDzWrfEM"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: LIMIT NALA",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Maqatha",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 266475,
       "name": "Bafuna Sihlukane",
       "url": "https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 291418,
       "name": "BENG'DAKIWE",
       "url": "https://open.spotify.com/track/4Hv4Gwl4awcQzzazJ054Vg"
@@ -946,6 +946,24 @@
       "duration_ms": 275331,
       "name": "ELAWINI LIKAMAGUMEDE",
       "url": "https://open.spotify.com/track/2wdIlufkUPuHHDzslnWfVF"
+    },
+    {
+      "album": {
+        "name": "eMachobeni",
+        "url": "https://open.spotify.com/album/2HVQN77l6PDCfZqmpdsR1D"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "eMachobeni",
+      "url": "https://open.spotify.com/track/3YyKbUSBZReejeozYuj1JH"
     },
     {
       "album": {
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2021-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 269189,
       "name": "Ijele",
       "url": "https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 333662,
       "name": "Ilo Nalo Naloya",
       "url": "https://open.spotify.com/track/7d2se65A7Vxyvlh0tnYoGN"
@@ -1816,6 +1834,24 @@
     {
       "album": {
         "name": "Inkanyezi",
+        "url": "https://open.spotify.com/album/1xRjTYPc9s1oBwuL25giMR"
+      },
+      "artists": [
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244212,
+      "name": "Incenge Kancane",
+      "url": "https://open.spotify.com/track/4rFJIz3p24IZj18zrl7Yuv"
+    },
+    {
+      "album": {
+        "name": "Inkanyezi",
         "url": "https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt"
       },
       "artists": [
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -2042,7 +2078,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 255373,
       "name": "Inja Nodogo",
       "url": "https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl"
@@ -3098,7 +3134,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 372480,
       "name": "Mawalawala",
       "url": "https://open.spotify.com/track/0ehYWFeYfsH3S4dSuPj1zL"
@@ -3549,6 +3585,28 @@
     },
     {
       "album": {
+        "name": "Izethembiso",
+        "url": "https://open.spotify.com/album/2I7wr8XqNpmfMFPRzLL5eT"
+      },
+      "artists": [
+        {
+          "name": "Umlabalaba",
+          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+        },
+        {
+          "name": "Mashimane",
+          "url": "https://open.spotify.com/artist/2bTZRgvnTjx6rjwcHSctuu"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253743,
+      "name": "Ngilimele Kakhulu",
+      "url": "https://open.spotify.com/track/6HxcilFI5SZnZYbXWVnMSE"
+    },
+    {
+      "album": {
         "name": "Inja Kabi Lena",
         "url": "https://open.spotify.com/album/4HhLwMC4pyd1GPF3wLb9Ce"
       },
@@ -3564,6 +3622,28 @@
       "duration_ms": 287843,
       "name": "Ngimile Mpo",
       "url": "https://open.spotify.com/track/16B7JnyBsNloQWuWHtUGu7"
+    },
+    {
+      "album": {
+        "name": "AmaKillometre",
+        "url": "https://open.spotify.com/album/2zRYEhA2jbOEJkxHxmutpG"
+      },
+      "artists": [
+        {
+          "name": "Maqatha",
+          "url": "https://open.spotify.com/artist/7ijapeqUB1Kjh7Ou34Bbtk"
+        },
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/6nUOVYcWS0pat3LXuZMe6q"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262625,
+      "name": "Ngiphelele",
+      "url": "https://open.spotify.com/track/64N5FotBq94fBRNG6GWoTX"
     },
     {
       "album": {
@@ -3891,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/2AfiWKREPtDThbX2XxAU5A"
+      },
+      "artists": [
+        {
+          "name": "JIKIJIKI",
+          "url": "https://open.spotify.com/artist/4Bv7LRWfDAcI13VW6SNF94"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228179,
+      "name": "Ngzomthatha",
+      "url": "https://open.spotify.com/track/1fU3m1fWGQsKzm7tfDCjDs"
+    },
+    {
+      "album": {
         "name": "Ziyangiluma Izinja",
         "url": "https://open.spotify.com/album/1NEqGFT5ZfRJc5TwGffesn"
       },
@@ -3986,6 +4084,28 @@
       "duration_ms": 294426,
       "name": "Onke Lamadoda",
       "url": "https://open.spotify.com/track/6nhKAdmOWTivF0gggsVHx2"
+    },
+    {
+      "album": {
+        "name": "Owabulala uBaba",
+        "url": "https://open.spotify.com/album/3C7Lq0UxQ3gJx7yeh70yZX"
+      },
+      "artists": [
+        {
+          "name": "SIHAYO",
+          "url": "https://open.spotify.com/artist/04YRKHV66wdlYt3hQ92HRZ"
+        },
+        {
+          "name": "Shenge Wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285703,
+      "name": "Owabulala uBaba",
+      "url": "https://open.spotify.com/track/6ZKNLVaLpgtvADzjw90OpR"
     },
     {
       "album": {
@@ -4533,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "STOP and GO",
+        "url": "https://open.spotify.com/album/2gY0JQkS1nANoMqC2qciBZ"
+      },
+      "artists": [
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "JIKIJIKI",
+          "url": "https://open.spotify.com/artist/6v42HsaFE0J5bQqudWC7KL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215745,
+      "name": "STOP and GO",
+      "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
+    },
+    {
+      "album": {
         "name": "Zingishiyil' Eziy'emhlangeni",
         "url": "https://open.spotify.com/album/4cwb1hs6tqaGnzySIFtw6I"
       },
@@ -4592,6 +4734,28 @@
       "duration_ms": 266026,
       "name": "Sukuma Mkami Bakubone",
       "url": "https://open.spotify.com/track/1KitXldomi1Q5ueBrWTWCs"
+    },
+    {
+      "album": {
+        "name": "Sulani Igama Lami EP",
+        "url": "https://open.spotify.com/album/2gEJ6jTGHdUUlysMBjXXJa"
+      },
+      "artists": [
+        {
+          "name": "uMhlakazi",
+          "url": "https://open.spotify.com/artist/4JzRcJk4va1UZ4FWGru1dE"
+        },
+        {
+          "name": "Shenge WaseHlalankosi",
+          "url": "https://open.spotify.com/artist/6zz268q1RXdRgGLIDyZ8x1"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272796,
+      "name": "Sulani Igama Lami",
+      "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
     },
     {
       "album": {
@@ -4672,6 +4836,28 @@
       "duration_ms": 250546,
       "name": "Thuma mina baba",
       "url": "https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv"
+    },
+    {
+      "album": {
+        "name": "U XA",
+        "url": "https://open.spotify.com/album/6bgrhWDlYyAGIIeUz7Ppjk"
+      },
+      "artists": [
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "Mjabulisi",
+          "url": "https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203388,
+      "name": "U XA",
+      "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
     },
     {
       "album": {
@@ -4980,10 +5166,28 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 271595,
       "name": "Umaqondana",
       "url": "https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK"
+    },
+    {
+      "album": {
+        "name": "Inkanyezi",
+        "url": "https://open.spotify.com/album/1xRjTYPc9s1oBwuL25giMR"
+      },
+      "artists": [
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271597,
+      "name": "Umaqondana",
+      "url": "https://open.spotify.com/track/17rT3jC2Hxz7z1RDHALeKe"
     },
     {
       "album": {
@@ -5156,7 +5360,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244648,
       "name": "Umjolo Lowo",
       "url": "https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB"
@@ -5368,6 +5572,24 @@
       "duration_ms": 239259,
       "name": "Ushwebile (feat. Mjolisi)",
       "url": "https://open.spotify.com/track/7xhd84IlV2WBbsOnQukuoh"
+    },
+    {
+      "album": {
+        "name": "Imikhonto",
+        "url": "https://open.spotify.com/album/6X5yIlflEhPDxmuEe2Uki6"
+      },
+      "artists": [
+        {
+          "name": "Nkeshemba",
+          "url": "https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267493,
+      "name": "Usungikhombisile",
+      "url": "https://open.spotify.com/track/40Pz55sGOiG7enWMDnq36u"
     },
     {
       "album": {
@@ -5724,7 +5946,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 299937,
       "name": "Washonaphi",
       "url": "https://open.spotify.com/track/5hKahvWd7ELDHgaoMl5m96"
@@ -5750,7 +5972,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 297351,
       "name": "Wawungekho",
       "url": "https://open.spotify.com/track/1QSPqvHIeDBNGKfrIpCeKt"

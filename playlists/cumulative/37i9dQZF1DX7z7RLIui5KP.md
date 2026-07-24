@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Xenia Manasseh
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes\. Cover: Shad Mziki
 
-256 songs - 15 hr 1 min
+258 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 | 2025-10-23 | 2026-07-16 |
 | [All Over](https://open.spotify.com/track/3rByEZzH7lk609vg6pAn3m) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [All Over](https://open.spotify.com/album/19i8esoItUheg9XSpqjf78) | 3:22 | 2026-02-05 | 2026-07-16 |
 | [Alright](https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Alright](https://open.spotify.com/album/7G38ts49BsJ26h2pmCHR5j) | 2:25 | 2025-10-23 | 2026-03-06 |
+| [Always and Forever](https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Always and Forever](https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi) | 4:11 | 2026-07-23 |  |
 | [Ananipenda](https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Ananipenda](https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20) | 3:00 | 2026-07-15 |  |
 | [Anguka Nayo](https://open.spotify.com/track/1l8IWe4LY8SqXnKv7M9OAv) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE), [Didi Man](https://open.spotify.com/artist/0u3gmLk5tQKe5RZ6Ace57A) | [Anguka Nayo](https://open.spotify.com/album/4ZsLMjoQDbA8Xg8UVqtqs8) | 3:23 | 2026-07-15 | 2026-07-21 |
 | [Anitah](https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Anitah](https://open.spotify.com/album/64M1BDnx2IoJyzziD0Bm6V) | 3:51 | 2026-03-19 | 2026-07-10 |
@@ -116,6 +117,7 @@
 | [Kuliko Jana](https://open.spotify.com/track/77RDFcRkZwkeo0szQymQ0l) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [RedFourth Chorus](https://open.spotify.com/artist/4yPKgjg5Mz0GEqaT387cRd) | [Kuliko Jana](https://open.spotify.com/album/1bs789C7lgI9v0pOuaumy9) | 5:10 | 2025-11-21 | 2025-11-28 |
 | [Kung Fu](https://open.spotify.com/track/6Rm5V1fRunN1rA5vJRLipL) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bien](https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Boss](https://open.spotify.com/album/43KKokp4Xhul9RXFULhX82) | 3:28 | 2025-11-21 | 2025-11-28 |
 | [Kuwe](https://open.spotify.com/track/5wulhKu9hzHq8HTLU2Xccw) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:10 | 2026-07-15 |  |
+| [Leila](https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Leila](https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu) | 3:04 | 2026-07-23 |  |
 | [Lifestyle](https://open.spotify.com/track/6PwjKdyaavh0KaOsU6KKYJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:09 | 2025-11-21 |  |
 | [Lil Mama](https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Lil Mama](https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR) | 3:44 | 2025-11-21 | 2025-11-28 |
 | [Live and Die in Afrika](https://open.spotify.com/track/4UiTMA87MlulPx9NXqCfaE) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:12 | 2025-11-21 | 2025-11-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Shannon",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 157714,
       "name": "An Lot Fwa",
       "url": "https://open.spotify.com/track/6yp4SGjkyiokUCFFSVsH6K"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 168000,
       "name": "An plen ky\u00e8",
       "url": "https://open.spotify.com/track/0c5FGOrY2qeX5vylg3iVHu"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 152922,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/1rTjNnf4zSE6h9vNA0MHWa"
@@ -9820,7 +9820,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 143547,
       "name": "Jalousie",
       "url": "https://open.spotify.com/track/1pTglsjRh3hiT5TzXisDcY"
@@ -11845,6 +11845,28 @@
     },
     {
       "album": {
+        "name": "Lunettes",
+        "url": "https://open.spotify.com/album/0fuiZ1ZY9HWs8zef0tf8Vw"
+      },
+      "artists": [
+        {
+          "name": "Missi\u00e9 Kako",
+          "url": "https://open.spotify.com/artist/33pRUkEpPPUZQdnNAih6Q9"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Lunettes",
+      "url": "https://open.spotify.com/track/3puDJkxPGz3EMOJ3pVnZUJ"
+    },
+    {
+      "album": {
         "name": "LUSHENANA",
         "url": "https://open.spotify.com/album/3aww39e7kTls8lgXDhBRI8"
       },
@@ -12562,7 +12584,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 182415,
       "name": "Miami Vice",
       "url": "https://open.spotify.com/track/4weo7UBnXLgp7RN9zqHoru"
@@ -14131,6 +14153,24 @@
     },
     {
       "album": {
+        "name": "Nous on a vraiment boss\u00e9 beaucoup",
+        "url": "https://open.spotify.com/album/0NIwMQ0x4AawbwMhba3DLZ"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Nous on a vraiment boss\u00e9 beaucoup",
+      "url": "https://open.spotify.com/track/6vxx7W2zwPCqW1OyROxev5"
+    },
+    {
+      "album": {
         "name": "NUH CHAT",
         "url": "https://open.spotify.com/album/2kkku6ZBU9L7lxgDefGcBa"
       },
@@ -14718,6 +14758,28 @@
       "duration_ms": 139537,
       "name": "PA AY SI MWEN",
       "url": "https://open.spotify.com/track/1hwoJE8mWywOkUufNSJVDy"
+    },
+    {
+      "album": {
+        "name": "Pa Bizwen Yo",
+        "url": "https://open.spotify.com/album/15FnzhRgo0tpN95C1GqEAx"
+      },
+      "artists": [
+        {
+          "name": "Kssidy",
+          "url": "https://open.spotify.com/artist/1FVfPwEVHF1G3aauViuKS8"
+        },
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Pa Bizwen Yo",
+      "url": "https://open.spotify.com/track/3nRKWddamGaU3yb7IUo97m"
     },
     {
       "album": {
@@ -16878,6 +16940,36 @@
       "duration_ms": 133529,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/4yj9WM6YoBq4Klxlp3xEZG"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE"
     },
     {
       "album": {
@@ -19433,6 +19525,56 @@
     },
     {
       "album": {
+        "name": "Thug Life",
+        "url": "https://open.spotify.com/album/1vmeEuR3ijvYXXVQ7psHYy"
+      },
+      "artists": [
+        {
+          "name": "Tii Alexandre",
+          "url": "https://open.spotify.com/artist/4y5BekShl9otQUj6ikj7Ao"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Lion Fiah",
+          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        },
+        {
+          "name": "BlackBoy",
+          "url": "https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK"
+        },
+        {
+          "name": "Jozii",
+          "url": "https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d"
+        },
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj"
+        },
+        {
+          "name": "#TUKS",
+          "url": "https://open.spotify.com/artist/4ZpWvzEYDHCzUXVPPLd4EK"
+        },
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224854,
+      "name": "Thug Life",
+      "url": "https://open.spotify.com/track/2ibO3gPpV0r6sxCBvCJ47V"
+    },
+    {
+      "album": {
         "name": "Tic",
         "url": "https://open.spotify.com/album/3mZXvkX8YsR3MI33seIECN"
       },
@@ -19510,7 +19652,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 144666,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/7gEWpJkTZq2ay1JH4uP6gv"
@@ -21664,6 +21806,28 @@
       "duration_ms": 134477,
       "name": "Yabadabadou",
       "url": "https://open.spotify.com/track/6r4IINpukXMdI3jEOkfxM6"
+    },
+    {
+      "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/2IHLFq4F3EBgNHWrK30ahO"
+      },
+      "artists": [
+        {
+          "name": "DJ Erise",
+          "url": "https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna"
+        },
+        {
+          "name": "T-Matt",
+          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111854,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/2cim1LzHnJIJArsZqa4MrD"
     },
     {
       "album": {

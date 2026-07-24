@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 51120,
+  "num_followers": 51134,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-10 12:30:26",
       "album": {
-        "name": "Jutti Kasuri",
-        "url": "https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD"
-      },
-      "artists": [
-        {
-          "name": "Sonu Kakkar",
-          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Jutti Kasuri",
-      "url": "https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl"
-    },
-    {
-      "added_at": "2026-07-10 12:30:26",
-      "album": {
         "name": "Geet Shagna De",
         "url": "https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 150586,
       "name": "Ve Gurdit Deya Lalaa",
       "url": "https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy"
+    },
+    {
+      "added_at": "2026-07-10 12:30:26",
+      "album": {
+        "name": "Jutti Kasuri",
+        "url": "https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD"
+      },
+      "artists": [
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Jutti Kasuri",
+      "url": "https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl"
     },
     {
       "added_at": "2026-07-10 12:30:26",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-07-10 12:30:26",
       "album": {
-        "name": "Virsa Volume 2",
-        "url": "https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj"
+        "name": "Geet Shagna De",
+        "url": "https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j"
       },
       "artists": [
         {
-          "name": "Jasbir Kaur",
-          "url": "https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju"
+          "name": "Madan Bala Sindhu",
+          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Kala Shah Kala - Original",
-      "url": "https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO"
+      "duration_ms": 264826,
+      "name": "Hulle Hulaare",
+      "url": "https://open.spotify.com/track/5MOpZgPo1iGtHX3gH0Nf57"
     }
   ],
   "unique_name": "Folk Punjabi",

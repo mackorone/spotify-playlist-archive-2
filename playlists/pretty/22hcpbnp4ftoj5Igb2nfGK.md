@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 144 songs - 8 hr 58 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 145 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,6 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 142 | [Gardenhead / Leave Me Alone](https://open.spotify.com/track/4ZhNktkJqWP24tKJJAMGlH) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3HTsNBfZLfRXQTfdLeLVK1) | 3:13 |
 | 143 | [Hive \(feat\. Vince Staples & Casey Veggies\)](https://open.spotify.com/track/6JKoTnberZoBgUuxa6l4Kh) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 4:37 |
 | 144 | [Come Around](https://open.spotify.com/track/7iO8C8WokR1folp9mPdN2t) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:54 |
+| 145 | [Ghost](https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3) | 3:05 |
 
-Snapshot ID: `AAAGX3hkaEeSis2mE4aYHD8QDezNY4lS`
+Snapshot ID: `AAAGYEGmWPPNSL/GkURtF+6a7p6Saso/`

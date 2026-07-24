@@ -5373,6 +5373,32 @@
     },
     {
       "album": {
+        "name": "Dance until the mornin'",
+        "url": "https://open.spotify.com/album/1JiIuQa0cRun02X7XfhE3a"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Velaur",
+          "url": "https://open.spotify.com/artist/39FlLQiyUMJsl6lB0Y30sK"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164625,
+      "name": "Dance until the mornin'",
+      "url": "https://open.spotify.com/track/6zipXvd54OTGLb6NAu8KdP"
+    },
+    {
+      "album": {
         "name": "Dancing In My Mind",
         "url": "https://open.spotify.com/album/3Wbg4MGTu8AvdYpm3HVg2Q"
       },
@@ -20192,6 +20218,24 @@
       "duration_ms": 184959,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/7N0Atz2eQesZyTY12zcrcD"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3OXoJbbtJ4q7kPJclGBxnq"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/7bVuZXsFQqrp9PzDXENNwU"
     },
     {
       "album": {

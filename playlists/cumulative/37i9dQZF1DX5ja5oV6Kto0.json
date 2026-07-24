@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Scottyolorin",
+  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Taves",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 222545,
       "name": "BAD BITCH SYNDROME PART II",
       "url": "https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3"
@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0"
+      },
+      "artists": [
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139856,
+      "name": "CHASE",
+      "url": "https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv"
+    },
+    {
+      "album": {
         "name": "Chasing Calm",
         "url": "https://open.spotify.com/album/0GGEcDp9FSwWebvpaPpj5X"
       },
@@ -5588,6 +5610,24 @@
       "duration_ms": 203500,
       "name": "Did Enough",
       "url": "https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW"
+    },
+    {
+      "album": {
+        "name": "Dide",
+        "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121025,
+      "name": "Dide",
+      "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
     },
     {
       "album": {
@@ -9884,7 +9924,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 197956,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
@@ -15876,7 +15916,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 151052,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
@@ -18728,6 +18768,24 @@
       "duration_ms": 133488,
       "name": "SIMMER DOWN",
       "url": "https://open.spotify.com/track/3n7r7yp5Y72lSJIVIdUDZ4"
+    },
+    {
+      "album": {
+        "name": "Popstar - Side A",
+        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128053,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
     },
     {
       "album": {
@@ -22814,7 +22872,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
@@ -23370,6 +23428,28 @@
       "duration_ms": 157714,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml"
+    },
+    {
+      "album": {
+        "name": "Yeye Talk",
+        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Yeye Talk",
+      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
     },
     {
       "album": {

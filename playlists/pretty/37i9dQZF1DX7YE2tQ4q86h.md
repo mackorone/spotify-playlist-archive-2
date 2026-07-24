@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Beware laser beams 💞
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,747 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,851 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 48 | [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 |
 | 49 | [DON'T LET ME GO \(again\)](https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [DON'T LET ME GO \(again\)](https://open.spotify.com/album/0wZlPvzzSxaCznKcymoHde) | 2:54 |
 | 50 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
-| 51 | [Wrong Impression](https://open.spotify.com/track/4rmKh6FRRvu8JN7j2RJYDk) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Wrong Impression](https://open.spotify.com/album/2zIYuYZq8LxGEC2EkQqNWw) | 3:06 |
+| 51 | [WRONG IMPRESSION](https://open.spotify.com/track/4rmKh6FRRvu8JN7j2RJYDk) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [WRONG IMPRESSION](https://open.spotify.com/album/2zIYuYZq8LxGEC2EkQqNWw) | 3:06 |
 | 52 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 53 | [Attaboy!](https://open.spotify.com/track/1GhKaP6CoT6VvgXCxQlbih) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Attaboy!](https://open.spotify.com/album/0tYqtIOu6rABziVPENQYUR) | 2:44 |
 | 54 | [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 |

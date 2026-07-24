@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 | 2025-01-28 |  |
+| [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 | 2025-01-28 | 2026-07-24 |
 | [Ame Sua Missão](https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:23 | 2022-06-04 | 2025-02-07 |
 | [Ame Sua Missão](https://open.spotify.com/track/4leP1rYncidk4Cdl13CpVv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 8:23 | 2025-02-06 |  |
 | [Amizade Pura](https://open.spotify.com/track/6PBAUqWSj0HQFOU715kCLj) | [José Punho Forte Rodrigues](https://open.spotify.com/artist/2oHZ01dSsEw7B9bmyySKGo), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Amizade Pura](https://open.spotify.com/album/3zi8PK2lpLMQbyxTwlQwSy) | 3:40 | 2022-06-04 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Gaskin",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Kolter",
   "name": "UK House Music",
   "tracks": [
     {
@@ -520,6 +520,24 @@
       "duration_ms": 193125,
       "name": "After Five",
       "url": "https://open.spotify.com/track/0EW1GSsCSgQ9npkDtbLn5B"
+    },
+    {
+      "album": {
+        "name": "Ah Ah Ah",
+        "url": "https://open.spotify.com/album/7rKCKT639yeCpA8MB7PHU5"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Ah Ah Ah",
+      "url": "https://open.spotify.com/track/2WCdQPOg6vWU1mSb1ozqNc"
     },
     {
       "album": {
@@ -4221,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Stop Thinking About You",
         "url": "https://open.spotify.com/album/75HTnkSTvIf4r4UtOjRLKo"
       },
@@ -5650,7 +5686,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 169250,
       "name": "Danca",
       "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
@@ -7206,6 +7242,28 @@
       "duration_ms": 146953,
       "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
       "url": "https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP"
+    },
+    {
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194198,
+      "name": "Dream or Fantasy",
+      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "album": {
@@ -10443,6 +10501,32 @@
     },
     {
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
       },
@@ -10694,6 +10778,24 @@
       "duration_ms": 180362,
       "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
       "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
+    },
+    {
+      "album": {
+        "name": "Groovin'",
+        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198931,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
     },
     {
       "album": {
@@ -12264,6 +12366,24 @@
       "duration_ms": 205440,
       "name": "I Love Me (with Wh0)",
       "url": "https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG"
+    },
+    {
+      "album": {
+        "name": "I Luv It",
+        "url": "https://open.spotify.com/album/4YVxVKZJU1AGKy1mHCmF4W"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/69XQo8h9hfXUspdlNGtLkA"
     },
     {
       "album": {
@@ -18163,6 +18283,24 @@
     },
     {
       "album": {
+        "name": "Never Leave U",
+        "url": "https://open.spotify.com/album/5rFrWczbNB34mjzq0NDRr6"
+      },
+      "artists": [
+        {
+          "name": "Sonny Kane",
+          "url": "https://open.spotify.com/artist/5AAojYr0Ov163yqEVDi5l5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221787,
+      "name": "Never Leave U",
+      "url": "https://open.spotify.com/track/23khOJxVCE4SEDYCf4mZb8"
+    },
+    {
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g"
       },
@@ -19104,6 +19242,46 @@
       "duration_ms": 186461,
       "name": "On The Record",
       "url": "https://open.spotify.com/track/2S9nAbjk51mgA4sW4n1WIF"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5pK4zjoOm6dpoplv7iOyqP"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3ZYnpgImdmlKvOXLMm9dMX"
+    },
+    {
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1In4MpJozb9h0525jhEdee"
+      },
+      "artists": [
+        {
+          "name": "Rio Tashan",
+          "url": "https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7"
     },
     {
       "album": {
@@ -22055,6 +22233,28 @@
     },
     {
       "album": {
+        "name": "NTB / Rockin'",
+        "url": "https://open.spotify.com/album/6Zs6JUFnrETZbqTUfAZ2O4"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Will Makin",
+          "url": "https://open.spotify.com/artist/5mlHhVwONbABzNhcrw4jNd"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Rockin'",
+      "url": "https://open.spotify.com/track/6KeiZ3gXkeqkKMyH8FL17U"
+    },
+    {
+      "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm"
       },
@@ -24346,6 +24546,24 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
+    },
+    {
+      "album": {
+        "name": "Steppin' In EP",
+        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165382,
+      "name": "Steppin' In",
+      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
     },
     {
       "album": {

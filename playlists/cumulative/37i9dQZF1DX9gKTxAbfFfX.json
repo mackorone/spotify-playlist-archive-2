@@ -289,6 +289,28 @@
     },
     {
       "album": {
+        "name": "Ale Le Le",
+        "url": "https://open.spotify.com/album/4ira1jHUicUYExyOyshS4f"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148157,
+      "name": "Ale Le Le",
+      "url": "https://open.spotify.com/track/6x65qlBADMh2G8Ve3vXQsQ"
+    },
+    {
+      "album": {
         "name": "Algo Bonito REMIX",
         "url": "https://open.spotify.com/album/3XAchEoextX3FRvw3xvxMr"
       },
@@ -984,6 +1006,28 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "BnB",
+      "url": "https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh"
     },
     {
       "album": {
@@ -1714,7 +1758,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4i3eWwG09zTzJy8lItFsXB"
@@ -1736,6 +1780,24 @@
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
+    },
+    {
+      "album": {
+        "name": "Please Behave Radio Vol.2",
+        "url": "https://open.spotify.com/album/4QpExkNMNpOydvI8Oh73Oq"
+      },
+      "artists": [
+        {
+          "name": "mvrk",
+          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "DAALE",
+      "url": "https://open.spotify.com/track/1O4S7iSaxFJh6SuUvFrdvJ"
     },
     {
       "album": {
@@ -2420,6 +2482,28 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
+    },
+    {
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/1DgWMxQWs3CHRgwbue91eC"
+      },
+      "artists": [
+        {
+          "name": "Dr. Bellido",
+          "url": "https://open.spotify.com/artist/52wHLjXBRtdLP9VXX4Uosn"
+        },
+        {
+          "name": "Kiko Rivera",
+          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182158,
+      "name": "El Patio",
+      "url": "https://open.spotify.com/track/3MJtv4kmX1phZ26QQRjbsx"
     },
     {
       "album": {
@@ -3416,7 +3500,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -5338,7 +5422,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -5496,7 +5580,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 200625,
       "name": "Olvidarnos De To' :)",
       "url": "https://open.spotify.com/track/113qKxW6LitRIPAaUeHhyw"
@@ -5646,7 +5730,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 218372,
       "name": "PaToLasGyales",
       "url": "https://open.spotify.com/track/67MPl4JyywGoIxtNarQZpC"
@@ -6225,6 +6309,40 @@
     },
     {
       "album": {
+        "name": "Rayos de Sol (feat. Jose De Rico) [Remix]",
+        "url": "https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Jos\u00e9 de Rico",
+          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Rayos de Sol (feat. Jose De Rico) - Remix",
+      "url": "https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -6524,7 +6642,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -7600,6 +7718,32 @@
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
+    },
+    {
+      "album": {
+        "name": "UnCafeConMiEx",
+        "url": "https://open.spotify.com/album/6vFGCpzqYCpS0rXg40XzTH"
+      },
+      "artists": [
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pikeras",
+          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
+        },
+        {
+          "name": "Guerrero",
+          "url": "https://open.spotify.com/artist/493QLCW6p8oZh2JPHciiru"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "UnCafeConMiEx",
+      "url": "https://open.spotify.com/track/5iNjXCbKADM601a9OzHPlV"
     },
     {
       "album": {

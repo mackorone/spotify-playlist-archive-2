@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 264 | [A Química](https://open.spotify.com/track/4l7OjdyU6LR2AFJPShRzV5) | [Helena e Rodrigo](https://open.spotify.com/artist/5jtAN0UDDubVHtF8Epxyk4) | [A Química](https://open.spotify.com/album/4Q1szNu63lHF7Tz1emgLDb) | 2:30 |
 | 265 | [Ela Mitou \- Ao Vivo](https://open.spotify.com/track/7rHcjd7x9tOfkiDGydEzhA) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 3:08 |
 | 266 | [Esquenta dos Solteiros \- Ao Vivo](https://open.spotify.com/track/4vpQ1DAkBZrf9hy40SUR7h) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:36 |
-| 267 | [Pra Você Que Duvidou](https://open.spotify.com/track/7p5AcF1FtSKP77GDdHxX2a) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 2:43 |
-| 268 | [Pra Ser Feliz](https://open.spotify.com/track/14KCFn9ofLiEqfDvuUwYVL) | [PEL Diferentão](https://open.spotify.com/artist/2T1MA1Z6AdqBBnnud019tR) | [Pra Ser Feliz](https://open.spotify.com/album/5ZMfQ5KRHtgL5oV6ObEB7o) | 2:52 |
+| 267 | [Pra Ser Feliz](https://open.spotify.com/track/14KCFn9ofLiEqfDvuUwYVL) | [PEL Diferentão](https://open.spotify.com/artist/2T1MA1Z6AdqBBnnud019tR) | [Pra Ser Feliz](https://open.spotify.com/album/5ZMfQ5KRHtgL5oV6ObEB7o) | 2:52 |
+| 268 | [Pra Você Que Duvidou](https://open.spotify.com/track/7p5AcF1FtSKP77GDdHxX2a) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 2:43 |
 | 269 | [Nem Espinho, Nem Flor](https://open.spotify.com/track/38gD2C0LwxmPLubCLcqMVL) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 3:25 |
 | 270 | [Louco por Tu \(Ao Vivo\)](https://open.spotify.com/track/3rRgb24SWRECGFNoXNQPh8) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:41 |
 | 271 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 309 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 | 310 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `AcXkcgAAAADOS+k3umd2Ph1KfbM0iK60`
+Snapshot ID: `AcXqCAAAAADkBAtoSRSoiGqZcmfkLdcG`

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57763,
+  "num_followers": 57768,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAABX5RJ1BT1Cf3Hr1MrunseG",
+  "snapshot_id": "amAIAAAAAAB5o6kFNvJkNMdsl96Q8ISv",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,
@@ -907,18 +907,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que Se Apag\u00f3 El Carb\u00f3n...",
-        "url": "https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50"
+        "name": "Sonora VS Sinaloa",
+        "url": "https://open.spotify.com/album/40nHSdrnwIppWLZ8qe6j08"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/6bDxVk8D1IfyCfnMPPxj4T"
+        },
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        },
+        {
+          "name": "miguel padilla",
+          "url": "https://open.spotify.com/artist/3eTTvmgPO3b9J3YaoDvGVq"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        },
+        {
+          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento",
+          "url": "https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ"
+        },
+        {
+          "name": "Jonathan Higuera",
+          "url": "https://open.spotify.com/artist/4X1OTGBzCSwUsrNhQQHF7h"
+        },
+        {
+          "name": "El Bichi",
+          "url": "https://open.spotify.com/artist/3GoBr8t32fCl05oyXd8Zsd"
+        },
+        {
+          "name": "Piti de La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Besos En Guerra (En Vivo)",
-      "url": "https://open.spotify.com/track/0J7MwBf1MWqAFVkb96kn5Q"
+      "duration_ms": 220055,
+      "name": "Esta Es Otra Pa Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/3fs7nOUED72HjcppWMCvkw"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

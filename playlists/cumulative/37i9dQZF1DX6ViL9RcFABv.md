@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Margarida Vasconcelos
 
-551 songs - 1 day 5 hr 1 min
+552 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 | 2025-11-14 |
 | [Ela É Do Norte](https://open.spotify.com/track/285CJZNiqyV1wZbo6pJA6E) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Ela É Do Norte](https://open.spotify.com/album/6oqEQBRtq5vpuz2EOzkOx5) | 2:07 | 2026-02-13 | 2026-03-27 |
 | [Elavoko](https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO) | [Elavoko](https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ) | 3:27 | 2025-10-02 | 2026-05-29 |
+| [Emocional](https://open.spotify.com/track/26G0JFPqGFhNo5fSnFNwaf) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Emocional](https://open.spotify.com/album/3rmXVRArkyElls1x12Hrsw) | 3:26 | 2026-07-23 |  |
 | [engana\-me que eu gosto](https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:23 | 2025-06-05 | 2025-07-25 |
 | [Entre O Passado E O Futuro](https://open.spotify.com/track/0CohDEhfKQFP1cuJ5NEoPs) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Entre O Passado E O Futuro](https://open.spotify.com/album/1RGsfRn9pL5WrFJUutdu4V) | 2:38 | 2024-08-29 | 2024-09-20 |
 | [Entrelinhas](https://open.spotify.com/track/60vkCRiJaMoLOmJXyfQ7iR) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3) | [Entrelinhas](https://open.spotify.com/album/4J9Tmc8AYAeyIMrOnoyZRk) | 3:18 | 2026-06-11 |  |
@@ -501,7 +502,7 @@
 | [Tanta Pena](https://open.spotify.com/track/7mUs8RjGaraHXBS07nZo6A) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [Tanta Pena](https://open.spotify.com/album/1MaAT3WQf8oKhaRBRML60M) | 3:36 | 2025-06-26 | 2025-08-15 |
 | [Tanto Amor](https://open.spotify.com/track/5012dz8q299F6E7071dRob) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX), [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5) | [Tanto Amor](https://open.spotify.com/album/0BrlKPXc6kFTL2dd2fpJl6) | 3:19 | 2026-03-27 | 2026-05-22 |
 | [Tanto Tempo](https://open.spotify.com/track/003pENpxbAlWY7nMscpC05) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Tanto Tempo](https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr) | 3:45 | 2025-09-18 | 2026-06-12 |
-| [Teki Manxi](https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Teki Manxi](https://open.spotify.com/album/5dvv0BjEIwIQsMV1LJ1KY7) | 2:59 | 2026-07-02 |  |
+| [Teki Manxi](https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Teki Manxi](https://open.spotify.com/album/5dvv0BjEIwIQsMV1LJ1KY7) | 2:59 | 2026-07-02 | 2026-07-24 |
 | [Telefone Estragado](https://open.spotify.com/track/6jbj7rIgPoimjgB9SXlP81) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Telefone Estragado](https://open.spotify.com/album/5a8Yvj8bqm5h6FsLe9SmJ7) | 3:01 | 2025-05-08 | 2025-05-23 |
 | [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 | 2025-12-05 | 2026-06-19 |
 | [Temos Pena!](https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Temos Pena!](https://open.spotify.com/album/3Y8NyBrhqvvHAu5ZEeLMML) | 3:14 | 2024-11-15 | 2025-05-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,538 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,591 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 17 | [Gyal Good](https://open.spotify.com/track/60L2FqkzM2yYMxVvyFOZbu) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [NPT](https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z) | 2:32 |
 | 18 | [BAD & BBC RICH](https://open.spotify.com/track/3wARNOXPa2RTE8tkmZ7pLV) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [BAD & BBC RICH](https://open.spotify.com/album/3TVrtike7vgZl86oDfEyAW) | 2:24 |
 | 19 | [New Gears \(feat\. Vybz Kartel & Françoise Hardy\)](https://open.spotify.com/track/6v2WTkZpJL3XeO0bo9SO2p) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [International](https://open.spotify.com/album/2KwToo62TPPItxMyg3qxv9) | 2:22 |
-| 20 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
+| 20 | [SHAKE IT TO THE MAX \(FLY\) \- REMIX](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [SHAKE IT TO THE MAX \(FLY\) \(REMIX\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 21 | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/track/4uqzkSQkjkxIkF9GPeYkpQ) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Dancehall Nice \(feat\. Beres Hammond & Dexta Daps\)](https://open.spotify.com/album/1vBusIa8NYBoKMCQmKn4Sq) | 2:34 |
 | 22 | [Money Fragrance](https://open.spotify.com/track/22outyIZo4xM2S6v1xfdQo) | [Jamal](https://open.spotify.com/artist/56wMNEAcTJhxIKMqwgfoI9), [Extol](https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj) | [Money Fragrance](https://open.spotify.com/album/58FOWNhxpBQ1ES17RtwxR7) | 2:38 |
 | 23 | [Inch by Inch](https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Inch by Inch](https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy) | 3:09 |

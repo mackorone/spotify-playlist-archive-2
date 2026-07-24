@@ -3493,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Dolphin",
+        "url": "https://open.spotify.com/album/30H9Lt1nwENwVINJNg50l1"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249904,
+      "name": "Dolphin",
+      "url": "https://open.spotify.com/track/2aqBG5dPwf7igL5OPOYmPr"
+    },
+    {
+      "album": {
         "name": "Beats For You Vol.2",
         "url": "https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG"
       },
@@ -12491,6 +12509,28 @@
     },
     {
       "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/0AOSMpiBypDw4Hl6UEmmb0"
+      },
+      "artists": [
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165895,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/3Q1i1S8SsuLcmrV6GAlINi"
+    },
+    {
+      "album": {
         "name": "Someone not like you (Instrumental)",
         "url": "https://open.spotify.com/album/7JwzW6WkGG3II0iKrRPtMQ"
       },
@@ -15670,7 +15710,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
@@ -15872,7 +15912,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 159370,
       "name": "\u5922\u306e\u4e2d",
       "url": "https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny"

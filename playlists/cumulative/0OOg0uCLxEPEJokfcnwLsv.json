@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Balla da solo",
+        "url": "https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Balla da solo",
+      "url": "https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM"
+    },
+    {
+      "album": {
         "name": "Phantom Heart",
         "url": "https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8"
       },
@@ -1686,6 +1704,24 @@
       "duration_ms": 207716,
       "name": "Burnout and Fadeaway",
       "url": "https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7"
+    },
+    {
+      "album": {
+        "name": "c'mon automaton",
+        "url": "https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g"
+      },
+      "artists": [
+        {
+          "name": "paradiso PDE",
+          "url": "https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "c'mon automaton",
+      "url": "https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf"
     },
     {
       "album": {
@@ -5006,6 +5042,24 @@
       "duration_ms": 176208,
       "name": "LIGHTHOUSE",
       "url": "https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE"
+    },
+    {
+      "album": {
+        "name": "Lights Down",
+        "url": "https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s"
+      },
+      "artists": [
+        {
+          "name": "Baby Richman",
+          "url": "https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193809,
+      "name": "Lights Down",
+      "url": "https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg"
     },
     {
       "album": {
@@ -9790,6 +9844,24 @@
       "duration_ms": 227181,
       "name": "UNITED",
       "url": "https://open.spotify.com/track/4qpFehbPX0sdg7UgxB2na7"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "United",
+      "url": "https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT"
     },
     {
       "album": {

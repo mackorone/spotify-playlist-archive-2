@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Rvfleuze x Aya Nakumara au top de la première playlist de rap français.
+> Nono La Grinta au top de la première playlist de rap français.
 
-463 songs - 23 hr 10 min
+464 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [OTF](https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [ORIGINAL GANGSTA](https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR) | 2:29 | 2025-01-30 | 2025-05-02 |
 | [P.I.B](https://open.spotify.com/track/5YpjJNnPOEkTupO9Doy14b) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/0kCmk5DMxjBwgPbO4R2897) | 2:12 | 2025-08-07 | 2026-01-30 |
 | [PANAMA](https://open.spotify.com/track/6czia5imsRfw18FRD8FJ5L) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SUR LE CHEMIN](https://open.spotify.com/album/0sLnQ2wypUWqf1Q15VXGSn) | 2:49 | 2024-02-22 | 2024-11-22 |
-| [Pangor \(Swalalala\)](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 | 2026-06-11 |  |
+| [Pangor \(Swalalala\)](https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x) | 2:01 | 2026-07-23 |  |
+| [Pangor \(Swalalala\)](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 | 2026-06-11 | 2026-07-24 |
 | [PANORAMA](https://open.spotify.com/track/3FWYuNW6lxMGYcRCwqiHFi) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING](https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc) | 3:25 | 2025-11-13 | 2026-01-23 |
 | [PAPEL](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [PAPEL](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 | 2023-02-03 |
 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 | 2022-06-23 | 2022-10-14 |

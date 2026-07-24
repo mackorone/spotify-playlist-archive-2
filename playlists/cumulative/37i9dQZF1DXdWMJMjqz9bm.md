@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-865 songs - 1 day 15 hr 29 min
+866 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BUCKLE UP](https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk) | [CROOK](https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv) | [BUCKLE UP](https://open.spotify.com/album/38xoZjwstC5LlgHLTpoBQN) | 2:24 | 2022-07-22 | 2022-10-15 |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-16 | 2022-02-26 |
 | [BULL IN A CHINA SHOP](https://open.spotify.com/track/75sJj5dLx4He3eS7EPPbId) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [BULL IN A CHINA SHOP](https://open.spotify.com/album/5F7uSuXVoLqL4dzppS1NMA) | 2:19 | 2026-06-26 |  |
+| [burger](https://open.spotify.com/track/3UbEemDEz6b6l5EBiswULJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [burger](https://open.spotify.com/album/0PlelLEfPrffv3fayPmza9) | 2:01 | 2026-07-24 |  |
 | [Burn \(feat\. Landon Cube\)](https://open.spotify.com/track/0GDi9HUrIEblbli5za2Ef2) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [The Evolution of the Rose](https://open.spotify.com/album/4Qz3DtoS7bMyQrK9Wxfu6W) | 2:48 | 2025-06-30 | 2026-01-06 |
 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 | 2026-04-03 |  |
 | [C'est la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [C'est la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 | 2022-08-18 | 2024-02-03 |
@@ -620,7 +621,7 @@
 | [Private Island](https://open.spotify.com/track/0zeKbYR9kxjLeGZqqz6QAw) | [Budman.](https://open.spotify.com/artist/4nYiKj7r3vpgTeoF0kz5rU) | [Private Island](https://open.spotify.com/album/7AJMx9IUY0FnYo3JLZ2MFF) | 2:18 | 2022-01-28 | 2022-02-26 |
 | [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-06-17 | 2022-10-12 |
 | [Psychotic](https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Psychotic](https://open.spotify.com/album/0IRfqoNUuqjAHGOho4oWhu) | 2:18 | 2022-08-26 | 2022-09-10 |
-| [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-05 |  |
+| [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-05 | 2026-07-24 |
 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 | 2025-10-05 | 2026-02-07 |
 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [RA TA DIA](https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk) | [Judah Weston](https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX), [IsoKeys](https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm) | [Why So Much Hate](https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor) | 1:46 | 2026-07-21 |  |

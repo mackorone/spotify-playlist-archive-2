@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Davido
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tayc
 
-971 songs - 1 day 23 hr 8 min
+973 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [J'achète](https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [47°](https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg) | 2:54 | 2024-07-11 | 2024-08-02 |
 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 | 2025-05-22 | 2025-11-28 |
 | [J'en ai pas](https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [J'en ai pas](https://open.spotify.com/album/3hgDbNflYYzd3O3urFxMlQ) | 2:26 | 2024-05-09 | 2024-06-01 |
-| [J'encaisse](https://open.spotify.com/track/5B04NDsZbXaABoY1dzCmCJ) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'encaisse](https://open.spotify.com/album/3lKCGFnWewuB9rwxWxDKV3) | 2:08 | 2026-06-18 |  |
+| [J'encaisse](https://open.spotify.com/track/5B04NDsZbXaABoY1dzCmCJ) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'encaisse](https://open.spotify.com/album/3lKCGFnWewuB9rwxWxDKV3) | 2:08 | 2026-06-18 | 2026-07-24 |
 | [J'prends la confiance](https://open.spotify.com/track/5OgUa2plRZRIF4IGpzL1QG) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Dip Doundou Guiss](https://open.spotify.com/artist/42A1uhQc0Rln9VlVGsll0m) | [J'prends la confiance](https://open.spotify.com/album/5wld2chDFFtitgleWkRfIE) | 3:38 | 2022-09-08 | 2022-12-24 |
 | [J'veux pas](https://open.spotify.com/track/5LnWCmjNkpLf6eHrepqhGO) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [GINGER BOY](https://open.spotify.com/album/2Qhxf3ya4iieGZHHSdAFV3) | 2:37 | 2024-09-12 | 2024-10-11 |
 | [J'élimine](https://open.spotify.com/track/1U13A13YafzmqthKXiul91) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [J'élimine](https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo) | 2:17 | 2022-09-01 | 2022-12-16 |
@@ -534,7 +534,7 @@
 | [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-05-26 | 2022-08-19 |
 | [LV](https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [LV](https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi) | 2:20 | 2024-05-30 | 2024-08-23 |
 | [LÉWÉ](https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [LÉWÉ](https://open.spotify.com/album/6WwthXnlTCy9mrCL85Jfab) | 3:29 | 2026-05-28 |  |
-| [Ma bella](https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [HateLove](https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x) | 3:22 | 2026-05-21 |  |
+| [Ma bella](https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [HateLove](https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x) | 3:22 | 2026-05-21 | 2026-07-24 |
 | [Ma Came](https://open.spotify.com/track/5lQggx7iO1OOT2inTcSRJ0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:42 | 2025-06-12 | 2025-07-11 |
 | [Ma chérie](https://open.spotify.com/track/2Kle8vKrSquAU200Sb5WHp) | [Ici c'est Paris](https://open.spotify.com/artist/0XVAP17xehWKLmcb0DhtbZ), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Ma chérie](https://open.spotify.com/album/2Ff3vqpWfrBskuHurHzaK3) | 3:33 | 2022-08-18 | 2022-10-28 |
 | [Ma chérie](https://open.spotify.com/track/122t69y9AvrnLJI6Rnw6eJ) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Ma chérie](https://open.spotify.com/album/7mc5TJygKkXlH71wasMs88) | 2:31 | 2023-04-27 | 2023-05-19 |
@@ -931,6 +931,7 @@
 | [Viens bébé](https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL) | [Dy La Mano](https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr) | [Viens bébé](https://open.spotify.com/album/6HOV3HPssgnbD8Ran4DTr1) | 3:01 | 2023-07-06 | 2023-09-01 |
 | [VIP](https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [VIP](https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2) | 2:27 | 2022-09-22 | 2023-01-13 |
 | [Vitamine \- \(Remix\) feat\. Ya Levis](https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Vitamine \(Remix\)](https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q) | 2:34 | 2022-01-13 | 2022-05-27 |
+| [VIVE LA MONNAIE](https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [VIVE LA MONNAIE](https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An) | 3:04 | 2026-07-23 |  |
 | [WAHALA](https://open.spotify.com/track/1fCDZFT7cAYMWSJPwrihge) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:12 | 2022-06-30 | 2022-07-22 |
 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-25 | 2025-03-28 |
 | [WAIST](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [WAIST](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 | 2025-11-13 | 2026-05-29 |
@@ -967,6 +968,7 @@
 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-29 | 2025-08-16 |
 | [Zaza](https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Zaza](https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT) | 2:16 | 2023-04-06 | 2023-05-12 |
 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 | 2025-07-17 | 2025-11-07 |
+| [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 | 2026-07-23 |  |
 | [Zéro Limite](https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Zéro Limite](https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV) | 2:09 | 2023-06-22 | 2023-07-14 |
 | [À distance \- Chokololo](https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [À distance \(Chokololo\)](https://open.spotify.com/album/3SS31nC0avfiusueSnTZdX) | 2:55 | 2022-12-08 | 2022-12-30 |
 | [À l'aise](https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:59 | 2026-04-23 | 2026-07-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Yaraki",
+  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Rare\u0219",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -28,6 +28,32 @@
       "duration_ms": 153913,
       "name": "!LA BALLATA DELLA FOGLIA",
       "url": "https://open.spotify.com/track/01fWjvbCVM4CzBrnfZM5gv"
+    },
+    {
+      "album": {
+        "name": "#cannavaro",
+        "url": "https://open.spotify.com/album/3blrfGD0QaVacdmiXURSTu"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        },
+        {
+          "name": "Pentola",
+          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123111,
+      "name": "#cannavaro",
+      "url": "https://open.spotify.com/track/1GbuCcP5T7MM6qIY3A8LWQ"
     },
     {
       "album": {
@@ -9391,6 +9417,28 @@
     },
     {
       "album": {
+        "name": "giochi con me",
+        "url": "https://open.spotify.com/album/0683NRBT7Jx9aNRLBmPvK5"
+      },
+      "artists": [
+        {
+          "name": "Joy Bloo",
+          "url": "https://open.spotify.com/artist/4FT5nGhINGFOibKEQVsseP"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162089,
+      "name": "giochi con me",
+      "url": "https://open.spotify.com/track/3WYTqmnuQOh0Khd0dzSGpj"
+    },
+    {
+      "album": {
         "name": "pok\u00e9 melodrama",
         "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
       },
@@ -9894,7 +9942,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 219093,
       "name": "Grattacieli",
       "url": "https://open.spotify.com/track/7keLzMGocBTJTcKo0fgpxo"
@@ -12728,6 +12776,24 @@
       "duration_ms": 175800,
       "name": "Latitante",
       "url": "https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv"
+    },
+    {
+      "album": {
+        "name": "le armi",
+        "url": "https://open.spotify.com/album/2kf6C4qU707xEwKdQepUEQ"
+      },
+      "artists": [
+        {
+          "name": "PICCOLE EMOZIONI",
+          "url": "https://open.spotify.com/artist/63FskuwgyUygrwm8M7WzLi"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164691,
+      "name": "le armi",
+      "url": "https://open.spotify.com/track/287SpRoBNCbyUQOVU0T6JF"
     },
     {
       "album": {
@@ -16149,6 +16215,28 @@
     },
     {
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/51woFdylGmi3suhTmuMxNf"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146868,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/2tldaEg5dObbWuYn1J4wKs"
+    },
+    {
+      "album": {
         "name": "neon",
         "url": "https://open.spotify.com/album/3TqQQ7zh3RtfoG8PgKcLvK"
       },
@@ -19176,7 +19264,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 130479,
       "name": "Per Niente",
       "url": "https://open.spotify.com/track/5PsGLywECNS5El8KEEjxEK"
@@ -19748,7 +19836,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 177849,
       "name": "Piume",
       "url": "https://open.spotify.com/track/3e6NpgKdxjOhzjJPVReisy"
@@ -20664,7 +20752,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 171593,
       "name": "punto g",
       "url": "https://open.spotify.com/track/2sqMq6LHcwdzPD60oAMeaD"
@@ -24584,7 +24672,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 174358,
       "name": "Sto con Ferro",
       "url": "https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa"
@@ -25730,7 +25818,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 210031,
       "name": "Todo Modo",
       "url": "https://open.spotify.com/track/2Dr8MIlPxPFVpeKcjRkn5V"
@@ -26815,6 +26903,24 @@
     },
     {
       "album": {
+        "name": "Un bel fiore",
+        "url": "https://open.spotify.com/album/6amUSem17p6NC31pxniZFQ"
+      },
+      "artists": [
+        {
+          "name": "SCAR",
+          "url": "https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154165,
+      "name": "Un bel fiore",
+      "url": "https://open.spotify.com/track/5KOLM7S44wGCfDPRCnXBVR"
+    },
+    {
+      "album": {
         "name": "I - Autunno",
         "url": "https://open.spotify.com/album/5UMS2YRbBGmK7auQraSmcU"
       },
@@ -27392,6 +27498,24 @@
       "duration_ms": 157466,
       "name": "velo sugli occhi",
       "url": "https://open.spotify.com/track/5C2xHN8kdVt4isVqLFZM8z"
+    },
+    {
+      "album": {
+        "name": "Venere e Marte",
+        "url": "https://open.spotify.com/album/4Vo0p0NEpvPhhEgKOwWSFK"
+      },
+      "artists": [
+        {
+          "name": "MEZZANERA",
+          "url": "https://open.spotify.com/artist/5mzvaN29YKtfK4wmctgEqv"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167392,
+      "name": "Venere e Marte",
+      "url": "https://open.spotify.com/track/4YCZ5YGfcmVoUvii20xPRw"
     },
     {
       "album": {

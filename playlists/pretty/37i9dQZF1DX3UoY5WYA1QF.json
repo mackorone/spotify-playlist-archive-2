@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 194540,
+  "num_followers": 194581,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 180113,
-      "name": "Mil Navajas",
-      "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165000,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 180113,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Grandes De Joan Sebasti\u00e1n",
-        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 289386,
-      "name": "Corrido de Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 219166,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Grandes De Joan Sebasti\u00e1n",
+        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 289386,
+      "name": "Corrido de Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Grandes De Joan Sebasti\u00e1n",
-        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Hay Un Tren A Las 5",
-      "url": "https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 195232,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Grandes De Joan Sebasti\u00e1n",
+        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Hay Un Tren A Las 5",
+      "url": "https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 160903,
-      "name": "Maldita Suerte",
-      "url": "https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 155742,
       "name": "Soy Como Quiero Ser",
       "url": "https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 160903,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/0HLOXA1miR7Wb1ZqBSFsVa"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 203202,
-      "name": "La Venganza de Tina",
-      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 212427,
       "name": "Estuve",
       "url": "https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "La Venganza de Tina",
+      "url": "https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 144938,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 144938,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/33viYM3K3VAhasx8OPRtUZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",

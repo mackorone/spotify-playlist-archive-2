@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Number_i",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: JO1",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30b8\u30de\u30eaCOLOR",
+        "url": "https://open.spotify.com/album/1bB5Mmp1ek91sv1kV6hRfS"
+      },
+      "artists": [
+        {
+          "name": "aoen",
+          "url": "https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156766,
+      "name": "BOoM\u00d72 DROP",
+      "url": "https://open.spotify.com/track/3NusltMWyvzSJKukJrfyWP"
+    },
+    {
+      "album": {
         "name": "BOOST",
         "url": "https://open.spotify.com/album/1f1Dqbf05nnLcoCPVOn9BN"
       },
@@ -4081,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/2aellk2HBrjc38bHfqXK9V"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Don\u2019t Wake Me Up!",
+      "url": "https://open.spotify.com/track/3Dj4kMRfZQKqU9wNvoNhAg"
+    },
+    {
+      "album": {
         "name": "MONKEY MODE",
         "url": "https://open.spotify.com/album/5uOZbWLWrFLPTShywsJC3b"
       },
@@ -4146,7 +4182,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 168000,
       "name": "Dream With Us",
       "url": "https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg"
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 207000,
       "name": "EIEN",
       "url": "https://open.spotify.com/track/6ClylAWwV9WNcXjliFN1sa"
@@ -7376,6 +7412,24 @@
       "duration_ms": 267607,
       "name": "IDENTITY",
       "url": "https://open.spotify.com/track/0XAAeX8QO2Lo3oOpMNvU5u"
+    },
+    {
+      "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/5mZJdvas47gU2FAfCuNjma"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/2xKV89roTBVQhGNMsUtqko"
     },
     {
       "album": {
@@ -16304,7 +16358,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 212680,
       "name": "Wanna",
       "url": "https://open.spotify.com/track/1hRpw7vgb6ksXg0vKxvQBU"
@@ -16582,6 +16636,24 @@
       "duration_ms": 241578,
       "name": "What's Up!!",
       "url": "https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56"
+    },
+    {
+      "album": {
+        "name": "WHATCHA DOIN",
+        "url": "https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202725,
+      "name": "WHATCHA DOIN",
+      "url": "https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF"
     },
     {
       "album": {
@@ -18100,7 +18172,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 195866,
       "name": "\u30cf\u30b8\u30de\u30eaCOLOR",
       "url": "https://open.spotify.com/track/3Rsysd8ENj8B2pTJReEDJk"

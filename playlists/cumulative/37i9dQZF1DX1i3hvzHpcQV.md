@@ -2,7 +2,7 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Karuppu
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Jana Nayagan
 
 205 songs - 12 hr 21 min
 

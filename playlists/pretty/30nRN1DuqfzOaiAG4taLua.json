@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "AAAAZo2GjIGQuAPTGk10bW6WIA5JgZ3p",
+  "snapshot_id": "AAAAZ74W8gnW/Jbsv1Xz7ucE9eoTCJbh",
   "tracks": [
     {
       "added_at": "2023-12-14 18:50:16",
@@ -1179,6 +1179,26 @@
       "duration_ms": 161250,
       "name": "Pa'lante Pa'Atras",
       "url": "https://open.spotify.com/track/7rJBEchMUTTXv28F7oUIju"
+    },
+    {
+      "added_at": "2026-07-23 20:39:21",
+      "album": {
+        "name": "Back To You (feat. Emi Grace)",
+        "url": "https://open.spotify.com/album/5KXVkVxvJB5G6BM75yrhUY"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 194488,
+      "name": "Back To You (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/2XDmP2r2wd3qSuZ2vu3z7k"
     }
   ],
   "unique_name": "Work From House",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Joseph Kamel.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Disiz.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 169653,
       "name": "Cow-girl moderne",
       "url": "https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A"
@@ -2494,6 +2494,24 @@
       "duration_ms": 195047,
       "name": "Et moi",
       "url": "https://open.spotify.com/track/173fbv2LkD0gNW5PW7ggcL"
+    },
+    {
+      "album": {
+        "name": "et si je pars",
+        "url": "https://open.spotify.com/album/2nGlgDpNePZ3YoCNquQtgw"
+      },
+      "artists": [
+        {
+          "name": "Lily Campa",
+          "url": "https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "et si je pars",
+      "url": "https://open.spotify.com/track/0EqJLRMLhmJkPCr3D5o46w"
     },
     {
       "album": {
@@ -5489,6 +5507,28 @@
     },
     {
       "album": {
+        "name": "M'en veux pas",
+        "url": "https://open.spotify.com/album/20pqrl78xUu2rxIEsY40Vb"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        },
+        {
+          "name": "Bosco",
+          "url": "https://open.spotify.com/artist/5e0dt4ubHmVg4Ds1EhYTy8"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "M'en veux pas",
+      "url": "https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N"
+    },
+    {
+      "album": {
         "name": "M'envoler",
         "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
       },
@@ -7646,7 +7686,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 207119,
       "name": "Qui tu es",
       "url": "https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL"

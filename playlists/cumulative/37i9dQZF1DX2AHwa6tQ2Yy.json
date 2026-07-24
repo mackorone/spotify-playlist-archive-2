@@ -1491,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -2956,7 +2978,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 145451,
       "name": "If It Ain't Broke (Love Wins) (feat. Phoelix & 9th Wonder)",
       "url": "https://open.spotify.com/track/2dDULsctTpwmEPyY7HQNhf"
@@ -3488,7 +3510,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 226274,
       "name": "Let My Soul Catch Fire",
       "url": "https://open.spotify.com/track/2Fn7ArZX77f510EaMI0KPj"
@@ -4904,6 +4926,32 @@
       "duration_ms": 234931,
       "name": "Pleasure Boy",
       "url": "https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp"
+    },
+    {
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/66UYpIBgewhI93UtX5OIBI"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Laureen Mobo",
+          "url": "https://open.spotify.com/artist/0BHWAPogicvHzBxbEAo8cU"
+        },
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187352,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/70HjnCqSksQAQt9Udsb1st"
     },
     {
       "album": {

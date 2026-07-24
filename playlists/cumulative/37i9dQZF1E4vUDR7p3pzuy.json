@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, Hrafnsson and more",
+  "description": "With MIK's Reaction, David Von Beahm, Captain Margaret and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 294155,
       "name": "A Love So Bold",
       "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
+    },
+    {
+      "album": {
+        "name": "A New Thing!",
+        "url": "https://open.spotify.com/album/2G4HXHZsYPVYhaDnEki1Gh"
+      },
+      "artists": [
+        {
+          "name": "Kristin Ambuhl",
+          "url": "https://open.spotify.com/artist/0wmiQwmtugtfwUV2R8OGJr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153874,
+      "name": "A New Thing!",
+      "url": "https://open.spotify.com/track/3PMV5Co3fA3kzhR2m2x6El"
     },
     {
       "album": {
@@ -952,7 +970,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244280,
       "name": "basement dust",
       "url": "https://open.spotify.com/track/0D3zi4wRgtaWOJglzWUZg8"
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 255518,
       "name": "Change to Come",
       "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
@@ -3798,7 +3816,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 192000,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/2iIYo63gIFDOzZxszarzvE"
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 346000,
       "name": "Destiny - Extended",
       "url": "https://open.spotify.com/track/3umS0zJJU7lyQ81TvqlzdI"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
@@ -5572,7 +5590,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 200500,
       "name": "Harsh Times",
       "url": "https://open.spotify.com/track/223aM0Hd6pcwaD5lb6vHHp"
@@ -8781,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "Just a Bunch of Words",
+        "url": "https://open.spotify.com/album/5kvaAdBbE3IHaDDse9bplC"
+      },
+      "artists": [
+        {
+          "name": "Matt Strader",
+          "url": "https://open.spotify.com/artist/6ZsJyXW6UUjqzofPtsNGx1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Just a Bunch of Words",
+      "url": "https://open.spotify.com/track/5xiDKWKTsqAkWk6em6iDQD"
+    },
+    {
+      "album": {
         "name": "Just Like All The Others (Vampire King Version)",
         "url": "https://open.spotify.com/album/6aq2Oysvx6FU8PAynyEJ9C"
       },
@@ -9186,7 +9222,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 268080,
       "name": "leaden coat",
       "url": "https://open.spotify.com/track/4ro4DezuYlhKKpEPS3Dat7"
@@ -9276,7 +9312,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 257741,
       "name": "Let Me Breathe - Kissed With A Lie",
       "url": "https://open.spotify.com/track/4BCy3ZARSbTdEVrwc9Ey4q"
@@ -9410,7 +9446,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -9716,7 +9752,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 218008,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
@@ -10904,7 +10940,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/4vs2lgSfRqonxxsumPueKr"
@@ -11190,7 +11226,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11226,7 +11262,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -13853,6 +13889,24 @@
     },
     {
       "album": {
+        "name": "Sloppy Kisses",
+        "url": "https://open.spotify.com/album/0ShBJZEJy6phydTCvfBjrs"
+      },
+      "artists": [
+        {
+          "name": "Miles Mania",
+          "url": "https://open.spotify.com/artist/0WjP9dwk2MUGIy6SlZNy5w"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Sloppy Kisses",
+      "url": "https://open.spotify.com/track/1C1W7OEQSC4GvCyLKvN8FT"
+    },
+    {
+      "album": {
         "name": "LOVE SONGS WILL SLOWLY KILL YOU",
         "url": "https://open.spotify.com/album/1RlojDVhONjfMChl49VL6J"
       },
@@ -13882,7 +13936,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 277282,
       "name": "Smile, Smile, Smile",
       "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
@@ -13900,7 +13954,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/26s2AEv7vlwoyrUGQMaZPA"
@@ -14478,7 +14532,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 608833,
       "name": "Star Scream",
       "url": "https://open.spotify.com/track/2RWEDjpidI5bdbYIVoP8Ag"
@@ -14720,7 +14774,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 207857,
       "name": "Stray",
       "url": "https://open.spotify.com/track/7FJgXLgAj9dKf9Vm4fC2j2"
@@ -15722,7 +15776,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -15884,7 +15938,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -17360,7 +17414,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -17490,7 +17544,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"
@@ -17852,7 +17906,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -17964,6 +18018,24 @@
       "duration_ms": 171413,
       "name": "Wasp Factory",
       "url": "https://open.spotify.com/track/0YIGnoaNjwTif56JGCKZEE"
+    },
+    {
+      "album": {
+        "name": "Watch them scream and Shout (No doubt)",
+        "url": "https://open.spotify.com/album/33u1q8O13x5CQFcQTW9oei"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Marshall Effect",
+          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Watch them scream and Shout (No doubt)",
+      "url": "https://open.spotify.com/track/62DAHNTKYHXwhYOC4dssVa"
     },
     {
       "album": {
@@ -18314,7 +18386,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

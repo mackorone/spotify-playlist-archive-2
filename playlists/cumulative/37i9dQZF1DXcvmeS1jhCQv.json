@@ -918,7 +918,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196425,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf"
@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "days end",
+        "url": "https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181381,
+      "name": "days end",
+      "url": "https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT"
+    },
+    {
+      "album": {
         "name": "Dead Ends",
         "url": "https://open.spotify.com/album/4CXUYoywuie0J8b8Iw4bW2"
       },
@@ -2443,6 +2461,28 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/27FEIdgPMqqfTxGrBGa3qx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Crean",
+          "url": "https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0"
+        },
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218354,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4DT4rt1BHsETJU3lfklyTz"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn"
       },
@@ -2650,6 +2690,24 @@
       "duration_ms": 162100,
       "name": "Everyone's Here",
       "url": "https://open.spotify.com/track/7uv08gWiki9vJdqlPyQtTW"
+    },
+    {
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/2aALseSQCdYDkdzYeexVu6"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168441,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/5YemRFrDzu4E7Nli1T3v3p"
     },
     {
       "album": {
@@ -3689,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "I Swear To You",
+        "url": "https://open.spotify.com/album/6HCFqKEFsrtk40y7NYfEn4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "I Swear To You",
+      "url": "https://open.spotify.com/track/3XmsMWfd2N3plqAF3vtiSS"
+    },
+    {
+      "album": {
         "name": "It's a Hell of an Age",
         "url": "https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S"
       },
@@ -3700,7 +3776,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 444196,
       "name": "I Was Just A Boy",
       "url": "https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo"
@@ -4814,7 +4890,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 224330,
       "name": "Love Is Enough",
       "url": "https://open.spotify.com/track/48tTHKvnKpFwifzHJ4VwRT"
@@ -6354,6 +6430,24 @@
       "duration_ms": 182000,
       "name": "Pretty Happy Alone",
       "url": "https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM"
+    },
+    {
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228977,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     },
     {
       "album": {
@@ -8660,7 +8754,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 108307,
       "name": "VEINS",
       "url": "https://open.spotify.com/track/1npr6DcnOo85sqQALH3AED"

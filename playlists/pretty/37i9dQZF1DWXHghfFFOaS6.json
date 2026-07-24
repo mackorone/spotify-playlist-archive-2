@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 388602,
+  "num_followers": 388683,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Best by Far",
         "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1089,26 +1089,6 @@
       "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"
     },
     {
-      "added_at": "2025-06-20 04:00:29",
-      "album": {
-        "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version)",
-        "url": "https://open.spotify.com/album/16oP4Smb59wAR5Rk9OhXdl"
-      },
-      "artists": [
-        {
-          "name": "Fatback Band",
-          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
-        },
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit)",
-      "url": "https://open.spotify.com/track/6lo3xWdEGwYDAdalNaIeiF"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Nuyorican Soul",
@@ -1127,6 +1107,26 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB"
+    },
+    {
+      "added_at": "2025-06-20 04:00:29",
+      "album": {
+        "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version)",
+        "url": "https://open.spotify.com/album/16oP4Smb59wAR5Rk9OhXdl"
+      },
+      "artists": [
+        {
+          "name": "Fatback Band",
+          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+        },
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit)",
+      "url": "https://open.spotify.com/track/6lo3xWdEGwYDAdalNaIeiF"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
-      "added_at": "2026-07-03 04:00:31",
-      "album": {
-        "name": "Acid Jazz Revenge",
-        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 271810,
-      "name": "Let the Music Find You",
-      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Woman Of The Ghetto (Reimagined)",
@@ -1271,6 +1255,22 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg"
+    },
+    {
+      "added_at": "2026-07-03 04:00:31",
+      "album": {
+        "name": "Acid Jazz Revenge",
+        "url": "https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 271810,
+      "name": "Let the Music Find You",
+      "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
+    },
+    {
       "added_at": "2024-08-12 13:49:26",
       "album": {
         "name": "In The Breaks",
@@ -1355,22 +1371,6 @@
       "duration_ms": 228933,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
-      },
-      "artists": [
-        {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
       "added_at": "2022-07-18 17:17:22",

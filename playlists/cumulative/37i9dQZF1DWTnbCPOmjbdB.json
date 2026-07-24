@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Zalia",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
+    },
+    {
+      "album": {
+        "name": "ADA",
+        "url": "https://open.spotify.com/album/6eHTt0NphxjV4cGoclBjfd"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153531,
+      "name": "ADA",
+      "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
     },
     {
       "album": {
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 167652,
       "name": "Co mi tam",
       "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176727,
       "name": "Dom",
       "url": "https://open.spotify.com/track/7GI44CEvgkTfS0lDPxnVQW"
@@ -5076,7 +5094,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 175588,
       "name": "Gwiazdy",
       "url": "https://open.spotify.com/track/46jTX4K8Et3JReVbnUtfTO"
@@ -6482,7 +6500,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 150000,
       "name": "Kim jestem?",
       "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
@@ -7966,7 +7984,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 138935,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/6hYzr0Q7PxojAZFViv62af"
@@ -9694,6 +9712,28 @@
       "duration_ms": 182339,
       "name": "Nareszcie",
       "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
+    },
+    {
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
     },
     {
       "album": {
@@ -12865,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "Primabalerina",
+        "url": "https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187712,
+      "name": "Primabalerina",
+      "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
+    },
+    {
+      "album": {
         "name": "Prince Charming",
         "url": "https://open.spotify.com/album/5yfDkEZAj11yWvFmJi6gu6"
       },
@@ -14664,7 +14722,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 282341,
       "name": "Stumilowy las",
       "url": "https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE"
@@ -16039,6 +16097,24 @@
     },
     {
       "album": {
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+    },
+    {
+      "album": {
         "name": "Troch\u0119 Za Blisko",
         "url": "https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1"
       },
@@ -17061,6 +17137,24 @@
     },
     {
       "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "album": {
         "name": "Wielka Mi\u0142o\u015b\u0107 (Radio)",
         "url": "https://open.spotify.com/album/7eXv9ZWeOzcAG4DHh6iy8E"
       },
@@ -17248,6 +17342,24 @@
       "duration_ms": 181090,
       "name": "Wi\u0119cej nas",
       "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
+    },
+    {
+      "album": {
+        "name": "WODA Z LODEM",
+        "url": "https://open.spotify.com/album/4DZQhpDNPnwN15Cs8dF623"
+      },
+      "artists": [
+        {
+          "name": "Patryk Skoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/6EvOzqemUOfdlCglrH23L8"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150272,
+      "name": "WODA Z LODEM",
+      "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"
     },
     {
       "album": {
@@ -17832,7 +17944,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 200610,
       "name": "Yeti",
       "url": "https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK"
@@ -18404,6 +18516,24 @@
       "duration_ms": 178514,
       "name": "Zapomnij Mnie",
       "url": "https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF"
+    },
+    {
+      "album": {
+        "name": "Zapomnij mnie",
+        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Zapomnij mnie",
+      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
     },
     {
       "album": {

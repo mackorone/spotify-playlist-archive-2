@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3WukgJpmcq8yXrzTF3KkQq"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 173866,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 154273,
       "name": "All You Fear Is All You Feel",
       "url": "https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 136274,
       "name": "ashes (roses and petals)",
       "url": "https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 213333,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2e1Mqe1pQWp9wRKtoRH5pN"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 143622,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 249065,
       "name": "bad boys",
       "url": "https://open.spotify.com/track/4vWxeKd0UT7BxSA45spSS6"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 232000,
       "name": "Bored",
       "url": "https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 195535,
       "name": "Bring The Light",
       "url": "https://open.spotify.com/track/3jGNfsL25ex9OXlBlz6GNR"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 203191,
       "name": "Canada",
       "url": "https://open.spotify.com/track/2pmyjfzB8zWvPxbMFAVlDm"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 238448,
       "name": "Colores",
       "url": "https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 178318,
       "name": "Coming/Going",
       "url": "https://open.spotify.com/track/5A5WmOCHyTpCaBx9cvgIKu"
@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "deceived",
+        "url": "https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "deceived",
+      "url": "https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG"
+    },
+    {
+      "album": {
         "name": "Deep in the Misery",
         "url": "https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn"
       },
@@ -1821,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "disintegrate",
+        "url": "https://open.spotify.com/album/4qJbq0adz2S7Njd2aU5L6d"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174465,
+      "name": "disintegrate",
+      "url": "https://open.spotify.com/track/4vCR8mID6JCGerquyqxjYQ"
+    },
+    {
+      "album": {
         "name": "Open up Your Mind's Eye",
         "url": "https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5"
       },
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 171040,
       "name": "Do You Care",
       "url": "https://open.spotify.com/track/7kY6QH8DKLM8yCI6nIjuNp"
@@ -2002,7 +2038,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 211575,
       "name": "Don't Play The Victim",
       "url": "https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS"
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 216037,
       "name": "Dreams Like These",
       "url": "https://open.spotify.com/track/4xx6CJSzM7BbzhwKShhQzi"
@@ -2414,7 +2450,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 151428,
       "name": "fade away",
       "url": "https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6"
@@ -2468,7 +2504,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 242054,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/7aiiCYmiNNfe0adYBxrDrA"
@@ -2612,7 +2648,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 245981,
       "name": "Folded - Cover",
       "url": "https://open.spotify.com/track/2Y4zKHMsZRoPhqq6Ud6PHx"
@@ -2666,7 +2702,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 208000,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 281313,
       "name": "Forget The Serotonin High, I Much Prefer The Void Anyways",
       "url": "https://open.spotify.com/track/0ilKqjDIpc7fmrsYImDKBa"
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 169968,
       "name": "Godstruck",
       "url": "https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD"
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 142296,
       "name": "Grackle Grackle",
       "url": "https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM"
@@ -2998,7 +3034,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204107,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/7rViJJ1UR2kk1NsHn0GIrL"
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 260959,
       "name": "Hate This World",
       "url": "https://open.spotify.com/track/63k855UMwlxaJECNfse2Jb"
@@ -3474,7 +3510,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 302927,
       "name": "I Was Scared",
       "url": "https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ"
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 211963,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/0Lqo9N2dhvQiHWXMNKmcQc"
@@ -4668,7 +4704,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 220802,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV"
@@ -4870,7 +4906,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 152153,
       "name": "National Hero",
       "url": "https://open.spotify.com/track/0UHvUvQ0YRS159O15Xpv4I"
@@ -5000,7 +5036,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 234200,
       "name": "Not The Time To Say Goodbye",
       "url": "https://open.spotify.com/track/1Dv1vXiWD0nkr7Qs4hSumg"
@@ -5126,7 +5162,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 158500,
       "name": "Online",
       "url": "https://open.spotify.com/track/6orF4Fdls3oyIIatwI4tLm"
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186786,
       "name": "Only Good Things Will Come",
       "url": "https://open.spotify.com/track/263iWFX37tqJlEdhiANAZ6"
@@ -5198,7 +5234,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 289043,
       "name": "Opening - |wa|hia|wa|",
       "url": "https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw"
@@ -5462,7 +5498,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 235199,
       "name": "PRETTY GIRL DONT CRY - Haunted Version",
       "url": "https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr"
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 146446,
       "name": "PRONE",
       "url": "https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw"
@@ -5736,7 +5772,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 289853,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U"
@@ -5862,7 +5898,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 170285,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd"
@@ -5880,7 +5916,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 211250,
       "name": "Seconds Of Neon",
       "url": "https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu"
@@ -5898,7 +5934,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 333625,
       "name": "See the Sun",
       "url": "https://open.spotify.com/track/70wXd8KHJGGeXQ3wBzNpO4"
@@ -6024,7 +6060,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 256234,
       "name": "Sick of Myself",
       "url": "https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws"
@@ -6478,7 +6514,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 248200,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0"
@@ -6648,7 +6684,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 190976,
       "name": "Take Pills",
       "url": "https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX"
@@ -6666,7 +6702,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 200000,
       "name": "Tell Me Where The Light's Gone",
       "url": "https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU"
@@ -6738,7 +6774,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 166500,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/0clMXe1bOcuX6uxlRrQ2OM"
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205909,
       "name": "The Cost of Loving",
       "url": "https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q"
@@ -7448,7 +7484,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 197345,
       "name": "Vintage Heart",
       "url": "https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs"
@@ -7834,7 +7870,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 240000,
       "name": "WILLIAM | wyws",
       "url": "https://open.spotify.com/track/4RzhWknS83AGSiMLSbTOxh"
@@ -7870,7 +7906,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196385,
       "name": "Wish It Were True",
       "url": "https://open.spotify.com/track/0ccX8b6roUZh5wdt4J4dR9"

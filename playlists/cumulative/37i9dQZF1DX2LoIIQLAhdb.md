@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : DJ Kawest x Ronisia
+> Le R&B français, nouvelle ère\. Photo : Kany
 
 757 songs - 1 day 11 hr 37 min
 
@@ -297,7 +297,7 @@
 | [Illusion](https://open.spotify.com/track/06vQqSLwVuosC5dAupBAbT) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Illusion](https://open.spotify.com/album/5B6CEnpuYmtWpgcWJ5SIRC) | 2:57 | 2026-04-02 | 2026-05-01 |
 | [Ils se demandent](https://open.spotify.com/track/1nCzYAumI9KtAmT21Ntzoo) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva) | 1:42 | 2024-12-05 | 2025-03-28 |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
-| [IMMORTEL](https://open.spotify.com/track/3uwwuXDKzE8i4q6KVJ7HEM) | [Hevans](https://open.spotify.com/artist/5kB5CFvKViwheacDPa8Ls5) | [IMMORTEL](https://open.spotify.com/album/1M366XXnrnkIZb7BuWxGxw) | 3:05 | 2026-06-25 |  |
+| [IMMORTEL](https://open.spotify.com/track/3uwwuXDKzE8i4q6KVJ7HEM) | [Hevans](https://open.spotify.com/artist/5kB5CFvKViwheacDPa8Ls5) | [IMMORTEL](https://open.spotify.com/album/1M366XXnrnkIZb7BuWxGxw) | 3:05 | 2026-06-25 | 2026-07-24 |
 | [IMPOLIE](https://open.spotify.com/track/0APVifXwHibtji2UP0Zx3u) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [IMPOLIE](https://open.spotify.com/album/0KzWsiWyCYwxirg68jBnD0) | 2:19 | 2026-06-11 | 2026-07-10 |
 | [Insomnie](https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant \(Réedition\)](https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy) | 3:04 | 2023-12-08 | 2024-04-05 |
 | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB) | [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa) | 2:59 | 2023-09-14 | 2023-12-08 |

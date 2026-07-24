@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Novel Fergus & \u5e8a\u54e5 ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: cehryl",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196800,
       "name": "IDENTITY",
       "url": "https://open.spotify.com/track/0EF9Til1E8obWvBb94vO2Z"
@@ -9330,7 +9330,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 184529,
       "name": "I\u2019m Telling You",
       "url": "https://open.spotify.com/track/3p62W5L3VVaPQ1zr2mbV5i"
@@ -13892,6 +13892,28 @@
       "duration_ms": 240025,
       "name": "outrun",
       "url": "https://open.spotify.com/track/6xYJ0n8OBSbYxJ746skLnf"
+    },
+    {
+      "album": {
+        "name": "Over The Bridge \u904e\u6a4b\u754c\u7dda",
+        "url": "https://open.spotify.com/album/2HSd1nMmDC5RVK1TS4PYCe"
+      },
+      "artists": [
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        },
+        {
+          "name": "Bernard Chan",
+          "url": "https://open.spotify.com/artist/06bjjuwhhzFUV3k96aoIeG"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242312,
+      "name": "Over The Bridge \u904e\u6a4b\u754c\u7dda (feat. Bernard Chan)",
+      "url": "https://open.spotify.com/track/38rmMuzNY2llYXMdoJryjK"
     },
     {
       "album": {
@@ -22569,6 +22591,24 @@
     },
     {
       "album": {
+        "name": "\u4ef2\u590f\u5c0f\u98a8\u6ce2",
+        "url": "https://open.spotify.com/album/660wbGpLytrAJA55FXN3vO"
+      },
+      "artists": [
+        {
+          "name": "before the night ends",
+          "url": "https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195848,
+      "name": "\u4ef2\u590f\u5c0f\u98a8\u6ce2",
+      "url": "https://open.spotify.com/track/77eNlDJ9d9h0nF9Hf0CQ9t"
+    },
+    {
+      "album": {
         "name": "\u4f3c\u4e4e\u53c8\u660e\u767d\u4e86\u4e00\u4e9b\u4e8b",
         "url": "https://open.spotify.com/album/18ujp6HqNic7iOay1gSiMQ"
       },
@@ -23320,7 +23360,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205783,
       "name": "\u51ac\u7684\u5922\u5bd0",
       "url": "https://open.spotify.com/track/1wD2Wl5F1xskWui8M0AcSt"
@@ -25010,7 +25050,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 155456,
       "name": "\u5b78\u67d4\u800c\u4fee",
       "url": "https://open.spotify.com/track/4V1BVYXpUCSXkgdXED5PCc"
@@ -26374,7 +26414,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 151395,
       "name": "\u6211\u5e0c\u671b\u4fc2\u6578\u4f70\u5343\u842c\u6b21",
       "url": "https://open.spotify.com/track/0MV5jtSUX97lF4erXoVJXG"
@@ -26960,7 +27000,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 130267,
       "name": "\u65b0\u4eba\u4e00\u6a23",
       "url": "https://open.spotify.com/track/6db0M7RIAFNt5zGwducPRD"
@@ -28534,7 +28574,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 199100,
       "name": "\u6c89\u9ed8\u7684\u6ce2\u838e\u9732\u5a03",
       "url": "https://open.spotify.com/track/2o2SLMZoTokOHkZJDGxTbp"
@@ -30214,6 +30254,24 @@
       "duration_ms": 188307,
       "name": "\u7d10\u7d04\u5230\u53f0\u5317 New York To Taipei",
       "url": "https://open.spotify.com/track/7fjtpARK9RroYk1AMb7Ybr"
+    },
+    {
+      "album": {
+        "name": "\u7d14",
+        "url": "https://open.spotify.com/album/5FUusEdFrIfoHLJ2iWiGpg"
+      },
+      "artists": [
+        {
+          "name": "Lester Lam \u85cd\u5955\u6301",
+          "url": "https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "\u7d14",
+      "url": "https://open.spotify.com/track/7p0dOTFAf1MxP0aYImwPv4"
     },
     {
       "album": {

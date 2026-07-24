@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Mae Estes
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,668 likes - 200 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,694 likes - 200 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

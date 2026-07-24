@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Karuppu
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Jana Nayagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,174 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,318 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [God Mode](https://open.spotify.com/track/5IA1BVN8OKwpCxkgeOR8YM) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Karuppu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo) | 4:00 |
-| 2 | [Raavana Mavandaa \(From "Jana Nayagan"\)](https://open.spotify.com/track/7MP6jngkoEGUXKdpVeTXAT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Raavana Mavandaa \(From "Jana Nayagan"\)](https://open.spotify.com/album/6rkRdUGexViTQYuk2XkqhC) | 1:47 |
+| 1 | [Raavana Mavandaa \(From "Jana Nayagan"\)](https://open.spotify.com/track/7MP6jngkoEGUXKdpVeTXAT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Raavana Mavandaa \(From "Jana Nayagan"\)](https://open.spotify.com/album/6rkRdUGexViTQYuk2XkqhC) | 1:47 |
+| 2 | [God Mode](https://open.spotify.com/track/5IA1BVN8OKwpCxkgeOR8YM) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Karuppu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo) | 4:00 |
 | 3 | [Mutta Kalakki \(From "Youth"\)](https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ken Karunaas](https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA) | [Mutta Kalakki \(From "Youth"\)](https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh) | 2:46 |
 | 4 | [Verappa \- Extended](https://open.spotify.com/track/3FDZKPorPuhOZYw9WileCl) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Arun Srinivasan](https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K) | [Karuppu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo) | 4:20 |
 | 5 | [Raga of Revenge \(From "DC"\)](https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Raga of Revenge \(From "DC"\)](https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 | 49 | [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 |
 | 50 | [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Yennai Izhukkuthadi \(From "Kadhalikka Neramillai"\)](https://open.spotify.com/album/3cLJAPVZYNc3dBESRtSQwc) | 3:48 |
 
-Snapshot ID: `AAAAAGiVswmVKxx+Mcd56igXtArrbA26`
+Snapshot ID: `AAAAAK1LPv3nAtdqneCWQOXBLVQ+5BwK`

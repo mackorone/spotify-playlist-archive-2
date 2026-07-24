@@ -4,7 +4,7 @@
 
 > kun det nyeste danske rap 👀 Carmon
 
-591 songs - 1 day 1 hr 19 min
+592 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [LUVSONG](https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb) | [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [LUVSONG](https://open.spotify.com/album/0661vyyGKpbinzjUat85ia) | 2:33 | 2025-05-22 | 2025-06-20 |
 | [LV Sweater](https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 6:49 | 2026-06-19 |  |
 | [LYS \(ILLUMINERET\)](https://open.spotify.com/track/74ev7qWjlvtyq1ymgECaZK) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [LYS \(ILLUMINERET\)](https://open.spotify.com/album/23DujRMUDtm5Q1DLrEA7X1) | 2:50 | 2025-03-27 | 2025-04-18 |
+| [LYSNER OP](https://open.spotify.com/track/5BwaHUvWWdZFBHy4nPye1l) | [BONFI](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [LYSNER OP](https://open.spotify.com/album/70FqSe0uYvBvPTaMQMS2vO) | 2:31 | 2026-07-23 |  |
 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 | 2026-04-16 |  |
 | [Lært Mig Selv](https://open.spotify.com/track/1QxhnGJbyjHMQ4aN66CwIC) | [Solkur](https://open.spotify.com/artist/1jYhF2HbgZpXh5Z0LLq3hX) | [Lært Mig Selv](https://open.spotify.com/album/4W4to83ZbLOnZabhnrkAYz) | 2:55 | 2025-05-22 | 2025-06-13 |
 | [Lønningsdag](https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Lønningsdag](https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu) | 2:39 | 2025-01-09 | 2025-05-17 |

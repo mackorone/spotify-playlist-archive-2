@@ -6,8 +6,28 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaw2WDA8PoUgubKv2QQkc6lF2TUUsC",
+  "snapshot_id": "AAAax3+1IpjtgbeDOX77tel0lcvY3Cva",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:00:57",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 187164,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
+    },
     {
       "added_at": "2026-07-17 04:12:27",
       "album": {
@@ -47,6 +67,22 @@
       "duration_ms": 150800,
       "name": "What You Say (feat. Imogen Heap)",
       "url": "https://open.spotify.com/track/4bzCdb8PI1hTnPj9KtWOXy"
+    },
+    {
+      "added_at": "2026-07-24 04:03:37",
+      "album": {
+        "name": "Acid Techno Y Perreo",
+        "url": "https://open.spotify.com/album/7xZm4zPJ7Sy1Kt79asj3BM"
+      },
+      "artists": [
+        {
+          "name": "Shelco",
+          "url": "https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD"
+        }
+      ],
+      "duration_ms": 170924,
+      "name": "Acid Techno Y Perreo",
+      "url": "https://open.spotify.com/track/5KPV6uL5v5On7dzJvX5q26"
     },
     {
       "added_at": "2026-07-10 04:39:12",

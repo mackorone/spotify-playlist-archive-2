@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "A journey into the unknown, dark, and experimental.",
+  "description": "a journey into the unknown, dark, and experimental \ud83c\udf11 Cover: Chelsea Wolfe.",
   "name": "Terra Incognita",
   "tracks": [
     {
@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0yvtMW364oSGkhwOWIGDzm"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271872,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4y8GmSvRn26bR7TTp4qhWW"
+    },
+    {
+      "album": {
         "name": "goddexx",
         "url": "https://open.spotify.com/album/0fqg1XSlbYFEKsyVbZhiFV"
       },
@@ -1038,6 +1056,24 @@
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
+    },
+    {
+      "album": {
+        "name": "Crisopoli",
+        "url": "https://open.spotify.com/album/7eYPOqja8dCM0QvDKWW55O"
+      },
+      "artists": [
+        {
+          "name": "Adriano Zanni",
+          "url": "https://open.spotify.com/artist/0kjAa0r1yMBKEmYq4dFE4j"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236226,
+      "name": "Crisopoli",
+      "url": "https://open.spotify.com/track/1LaEAzGgmOYrS9ZNzYHtwY"
     },
     {
       "album": {
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 264240,
       "name": "In Tea Cheba",
       "url": "https://open.spotify.com/track/3fJDQLFYHu7A5BqGkPlSC6"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 327924,
       "name": "Ittiolalia",
       "url": "https://open.spotify.com/track/5F7SS9ZJbhtH2jBKsjFGDH"
@@ -2642,6 +2678,24 @@
       "duration_ms": 270541,
       "name": "La Morte Muore - Part 3",
       "url": "https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh"
+    },
+    {
+      "album": {
+        "name": "Lauda",
+        "url": "https://open.spotify.com/album/2k8PnWL7bidqIWzi4v4ZuZ"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330480,
+      "name": "Lauda",
+      "url": "https://open.spotify.com/track/7cmI7fqL8FodgrCyvlLLrU"
     },
     {
       "album": {
@@ -5266,7 +5320,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 344685,
       "name": "Tripa",
       "url": "https://open.spotify.com/track/2ZHOJDeaKVg5pjzUkeowg0"
@@ -5476,10 +5530,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 522000,
       "name": "Vajranala",
       "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+    },
+    {
+      "album": {
+        "name": "Vali",
+        "url": "https://open.spotify.com/album/0JuuX7rvm0UjiZObK6Kjt0"
+      },
+      "artists": [
+        {
+          "name": "Tyondai Braxton",
+          "url": "https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281479,
+      "name": "Vali",
+      "url": "https://open.spotify.com/track/03ssucIHmJL9BPu9FzttRu"
     },
     {
       "album": {

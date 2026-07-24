@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani di cui siamo ossessionati 🎧 Pinguini Tattici Nucleari in cover
+> I brani italiani di cui siamo ossessionati 🎧 ANNA in cover
 
 684 songs - 1 day 11 hr 4 min
 

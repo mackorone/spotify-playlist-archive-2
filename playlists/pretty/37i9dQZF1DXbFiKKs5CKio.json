@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73012,
+  "num_followers": 73014,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 151578,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2026-07-17 17:14:54",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
-        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "Quando acordar",
         "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 200316,
       "name": "Quando acordar",
       "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
+        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
     },
     {
       "added_at": "2026-07-17 17:14:54",

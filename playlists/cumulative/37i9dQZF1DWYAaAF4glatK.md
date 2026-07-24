@@ -2,7 +2,7 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : HUGEL
+> La BO officielle de l'été 2026 🌞 Photo : Aya Nakamura x La Rvfleuze
 
 459 songs - 23 hr 3 min
 

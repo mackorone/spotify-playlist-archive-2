@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,880 likes - 84 songs - 5 hr 30 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,880 likes - 85 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 82 | [Ethereal Minds](https://open.spotify.com/track/0J8fMIRWCqRQTEJ0qGWTmL) | [Yemi Rodriguez](https://open.spotify.com/artist/3odakE6AblqZliRzZgIK4Y), [MISSESSMITH](https://open.spotify.com/artist/5gu3Iq1jnTEhndRX1DMdKv) | [Introspectiva](https://open.spotify.com/album/7iWEPLoe47QR8jGBTzkVpo) | 3:27 |
 | 83 | [Easy Sunday](https://open.spotify.com/track/0Wi6b9AcyfATURlaOGZGc8) | [Yemi Rodriguez](https://open.spotify.com/artist/3odakE6AblqZliRzZgIK4Y), [Tam Tiama](https://open.spotify.com/artist/1tFUsigQnh3iH4YaLolLTz) | [Easy Sunday](https://open.spotify.com/album/3l7DF8slPsWRULifTKlMMr) | 3:40 |
 | 84 | [She Sighs](https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When It Was beautiful EP](https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu) | 2:40 |
+| 85 | [I Know You Feel It Too](https://open.spotify.com/track/7x5GONGzH06p1jdbfM7dnM) | [Capturing Callahan](https://open.spotify.com/artist/1KfGxQ1rveLpPoj1aBHTNy) | [Tailwater Dreams](https://open.spotify.com/album/2btqHPX6FKUXIqQy69VXDS) | 4:01 |
 
-Snapshot ID: `AAAMF2QmUOy9eweZu9Aarh9khZXKWdyl`
+Snapshot ID: `AAAMGIQdnB721weHR5H++C0osIWpAxtq`

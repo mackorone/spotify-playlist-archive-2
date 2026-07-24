@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Haruomi Hosono",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Jonny Nash \u00d7 Tomo Katsurada",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -2782,6 +2782,28 @@
       "duration_ms": 440000,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/5osZKfESSfFge7hcowXqr3"
+    },
+    {
+      "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/08Q79aGIUhKspdcfrT71L6"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239499,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/1sfdOk82Z29fp5VkYgxv6h"
     },
     {
       "album": {
@@ -6412,6 +6434,36 @@
       "duration_ms": 279375,
       "name": "H2O FRM Faucet",
       "url": "https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6"
+    },
+    {
+      "album": {
+        "name": "Haar",
+        "url": "https://open.spotify.com/album/6mVMb5gDip994cNV0aoV5G"
+      },
+      "artists": [
+        {
+          "name": "Sorekara",
+          "url": "https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7"
+        },
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Aspen Heights",
+          "url": "https://open.spotify.com/artist/1ouJTsdncjzyDaBVIGdSVW"
+        },
+        {
+          "name": "Rippling",
+          "url": "https://open.spotify.com/artist/7oUzJoURLmTAnD1P84rFMO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163677,
+      "name": "Haar",
+      "url": "https://open.spotify.com/track/3n60fjBlUHWCPACMUS66MG"
     },
     {
       "album": {
@@ -14637,6 +14689,24 @@
     },
     {
       "album": {
+        "name": "Slipping",
+        "url": "https://open.spotify.com/album/26r4eqmAWDss534kB8ACn6"
+      },
+      "artists": [
+        {
+          "name": "Shuta Yasukochi",
+          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/0BfnultpDnJvxFD0bwJirF"
+    },
+    {
+      "album": {
         "name": "Slow Lines",
         "url": "https://open.spotify.com/album/738ZlgNYCJyXjY6DBmPVlA"
       },
@@ -17145,6 +17215,24 @@
     },
     {
       "album": {
+        "name": "tinySketch #81",
+        "url": "https://open.spotify.com/album/1lOgG4GenkkIWTNriI3HpS"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "tinySketch #81",
+      "url": "https://open.spotify.com/track/6FhfLfI1FvG3q4So99x870"
+    },
+    {
+      "album": {
         "name": "To Nocturnal Fellows",
         "url": "https://open.spotify.com/album/6ZlQrSxAf4FFOHvMrWq9IY"
       },
@@ -17386,6 +17474,24 @@
       "duration_ms": 282000,
       "name": "Tokyo 1",
       "url": "https://open.spotify.com/track/5nl56UAcJlkc9BNVEaXX21"
+    },
+    {
+      "album": {
+        "name": "Limehouse",
+        "url": "https://open.spotify.com/album/22QLr7co3tJtPbJriydddM"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "TOKYO MELODY",
+      "url": "https://open.spotify.com/track/2JwiPmg07aX6L9cTD31tvM"
     },
     {
       "album": {
@@ -18962,6 +19068,24 @@
       "duration_ms": 195681,
       "name": "You Are Cat",
       "url": "https://open.spotify.com/track/4xaIslOXb5HVDzCgQ4lBms"
+    },
+    {
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/5L92uWa4CObW1Rvha2Ixnl"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/4ZtZT9c1S7ISn4aMpcCyEW"
     },
     {
       "album": {

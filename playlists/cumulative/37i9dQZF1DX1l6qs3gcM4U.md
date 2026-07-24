@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Back Spygo, 3 Finer
 
-692 songs - 1 day 15 hr 46 min
+693 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Perto De Ti](https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38) | [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK), [No Wahala Sound](https://open.spotify.com/artist/4eGONYIUZBlzHRBMSSEoln) | [Perto De Ti](https://open.spotify.com/album/7b7Lk9QKFVJo5q6TugxRro) | 3:05 | 2025-12-12 | 2026-04-10 |
 | [Pesadelo](https://open.spotify.com/track/14ARu7hPD42NU1adhNPCo0) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Pesadelo](https://open.spotify.com/album/3dnAjufiPKEgkngtFr8dcR) | 3:32 | 2023-09-21 | 2023-09-29 |
 | [Pipocar](https://open.spotify.com/track/1VJUgim9zAG0Af0OPUCMCw) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [Pipocar](https://open.spotify.com/album/7wWvVunO3Rmj6VwLv2mexq) | 3:02 | 2022-01-21 | 2022-04-08 |
-| [Planos](https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Planos](https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb) | 3:39 | 2025-11-14 |  |
+| [Planos](https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Planos](https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb) | 3:39 | 2025-11-14 | 2026-07-24 |
 | [Planos](https://open.spotify.com/track/39RaXavHae4m2ltDym9lIM) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Luna](https://open.spotify.com/album/2XInamj0wqhtNHSV0uXTkK) | 3:28 | 2021-12-10 | 2022-07-21 |
 | [Plena](https://open.spotify.com/track/5DbCRhNJEROHB1VlMaVMsU) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Plena](https://open.spotify.com/album/3sm5aFmxL0Wle47WKnjeQk) | 3:37 | 2021-12-10 | 2022-07-29 |
 | [Podem Até Tentar](https://open.spotify.com/track/4kceEw4hLkTDCUZkt8Dv49) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Podem Até Tentar](https://open.spotify.com/album/5cJgnQcq4EAQRcSRWPZFZC) | 3:01 | 2023-11-10 | 2024-03-08 |
@@ -545,6 +545,7 @@
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |
 | [She's Dangerous \- Lil Maro Kizomba Remix](https://open.spotify.com/track/24mv6gkruGz3VMQlrbq2XE) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Big Nelo](https://open.spotify.com/artist/6fndolyUimclrN96l2IWdc), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [She's Dangerous \(Lil Maro Remixes\)](https://open.spotify.com/album/6Dm6VDa4OKtBYJ4SXlewTJ) | 4:16 | 2022-01-10 | 2022-01-13 |
 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |
+| [Si N’tinha Puder](https://open.spotify.com/track/6XtNwjbxPQysXB7zJ6AMAa) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Si N’tinha Puder](https://open.spotify.com/album/2ABVFafCnvtnaK0tiOK3Yj) | 3:52 | 2026-07-23 |  |
 | [Sigilo](https://open.spotify.com/track/5bYxJiNVoxRIsY1pHm0jyi) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Sigilo](https://open.spotify.com/album/32AVLMjOgtTfybsvEYErKb) | 3:39 | 2024-06-27 | 2024-09-18 |
 | [Siguim](https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Siguim](https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ) | 3:04 | 2021-12-10 | 2023-03-29 |
 | [Simbiose](https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Simbiose](https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK) | 3:38 | 2025-08-21 |  |

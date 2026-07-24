@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA, ALIE BLACKCOBRA",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 194842,
       "name": "1001 (You're Lovely)",
       "url": "https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf"
+    },
+    {
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6J636qRw7XgBSXvlCk0q6D"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "143",
+      "url": "https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v"
     },
     {
       "album": {
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 155624,
       "name": "DMMA",
       "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
@@ -1522,6 +1540,28 @@
       "duration_ms": 237000,
       "name": "Flame",
       "url": "https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/6lKElQkCjcx8YKzKPFOsAh"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/60YtQwBpzzFgsRpcYo7kIc"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187547,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3b6Z9R6qkXA56Ymen3MMjf"
     },
     {
       "album": {
@@ -2822,6 +2862,42 @@
       "duration_ms": 187016,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/4VXH51RB0JJXQkkn0sAXrr"
+    },
+    {
+      "album": {
+        "name": "MARY JANE (Marry Me)",
+        "url": "https://open.spotify.com/album/58oXvQSxGnfpbaKzbUVOf1"
+      },
+      "artists": [
+        {
+          "name": "Golf Pichaya",
+          "url": "https://open.spotify.com/artist/3SHlcJPDT3x3TINU3xjwFL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "MARY JANE (Marry Me)",
+      "url": "https://open.spotify.com/track/3gIEqFgeCe89G0r6UPRYIc"
+    },
+    {
+      "album": {
+        "name": "Mask On",
+        "url": "https://open.spotify.com/album/7oQaXMuUb5klXybeER7LKg"
+      },
+      "artists": [
+        {
+          "name": "TACE",
+          "url": "https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Mask On",
+      "url": "https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8"
     },
     {
       "album": {
@@ -7243,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e33\u0e43\u0e08 (Gone Away)",
+        "url": "https://open.spotify.com/album/6tISxzG9OMJnK2EBACyBj5"
+      },
+      "artists": [
+        {
+          "name": "Gawin Caskey",
+          "url": "https://open.spotify.com/artist/6KLzn6hqkx6hk8o9X2fTpN"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "\u0e08\u0e33\u0e43\u0e08 (Gone Away)",
+      "url": "https://open.spotify.com/track/38Arv4CQ4Gil0Z1VUAl3qb"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
         "url": "https://open.spotify.com/album/3lBrefeSY9SwTYiKn2DQjY"
       },
@@ -7948,7 +8042,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 209913,
       "name": "\u0e14\u0e31\u0e07\u0e43\u0e19\u0e43\u0e08 (Rain Fall) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
       "url": "https://open.spotify.com/track/6mP1n3YcWFq7kpvZmFLbEP"
@@ -8650,7 +8744,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 227027,
       "name": "\u0e16\u0e49\u0e32\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Before Tomorrow) (From \"\u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time\")",
       "url": "https://open.spotify.com/track/46P94Nv3gO0ieTIdDhDZOU"
@@ -11657,6 +11751,28 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
+        "url": "https://open.spotify.com/album/4j5mY7lTZYH99bY7EB1gac"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246796,
+      "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
+      "url": "https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e2d\u0e07\u0e04\u0e38\u0e22 (TRY)",
         "url": "https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ"
       },
@@ -12506,6 +12622,24 @@
       "duration_ms": 234330,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e25\u0e36\u0e01",
       "url": "https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
+        "url": "https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158901,
+      "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
+      "url": "https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx"
     },
     {
       "album": {
@@ -14284,7 +14418,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 224195,
       "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19 (My Wish List)",
       "url": "https://open.spotify.com/track/0STnyzhG4ObyyC13sHP1bS"
@@ -15596,7 +15730,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 214166,
       "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
       "url": "https://open.spotify.com/track/4GoLfWS3yj0GA4GjUqLIFQ"
@@ -15726,7 +15860,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 240923,
       "name": "\u0e41\u0e17\u0e19\u0e23\u0e31\u0e01 (Tanrak) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
       "url": "https://open.spotify.com/track/4CfKSYXHVwmNeW5mHnLjEl"
@@ -17228,7 +17362,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204566,
       "name": "\u0e44\u0e21\u0e48\u0e41\u0e1e\u0e49\u0e43\u0e04\u0e23 (Hotter than ur X)",
       "url": "https://open.spotify.com/track/02BhVARYsGU1xLzVodgf9L"

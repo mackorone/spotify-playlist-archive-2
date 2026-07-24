@@ -170033,24 +170033,6 @@
     },
     {
       "album": {
-        "name": "Swich It Up",
-        "url": "https://open.spotify.com/album/2CrTEldgMM7qUEnofxmbwf"
-      },
-      "artists": [
-        {
-          "name": "Kobo Kanaeru",
-          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
-        }
-      ],
-      "date_added": "2026-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166717,
-      "name": "Swich It Up",
-      "url": "https://open.spotify.com/track/0xWYdYqENtxf87Ym4OheZl"
-    },
-    {
-      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
@@ -170210,6 +170192,24 @@
       "duration_ms": 198666,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/4rJxdebpjLEF8jEPjsa0HJ"
+    },
+    {
+      "album": {
+        "name": "Switch It Up",
+        "url": "https://open.spotify.com/album/2CrTEldgMM7qUEnofxmbwf"
+      },
+      "artists": [
+        {
+          "name": "Kobo Kanaeru",
+          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166717,
+      "name": "Switch It Up",
+      "url": "https://open.spotify.com/track/0xWYdYqENtxf87Ym4OheZl"
     },
     {
       "album": {

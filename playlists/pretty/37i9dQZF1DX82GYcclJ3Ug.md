@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: In Color
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,942 likes - 152 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,976 likes - 152 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

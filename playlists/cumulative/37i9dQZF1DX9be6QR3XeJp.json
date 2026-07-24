@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: The Healing Power of Horses",
+  "description": "Discover your new favourite artists from UK&IE. Cover: RIP Magic",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3256,6 +3256,24 @@
       "duration_ms": 162370,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq"
+    },
+    {
+      "album": {
+        "name": "Light Over There",
+        "url": "https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246501,
+      "name": "Light Over There",
+      "url": "https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch"
     },
     {
       "album": {

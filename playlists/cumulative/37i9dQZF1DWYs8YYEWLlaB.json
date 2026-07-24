@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: Hadise",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest, Motive, Pango",
   "name": "trend 2026",
   "tracks": [
     {
@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
+    },
+    {
+      "album": {
         "name": "Diva Yorgun",
         "url": "https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ"
       },
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 240000,
       "name": "En K\u00f6t\u00fc \u0130htimalle - Mustafa Sandal Sayg\u0131 1",
       "url": "https://open.spotify.com/track/4ipr8QzOh2H0YR51XgQDeh"
@@ -3876,10 +3894,36 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 243779,
       "name": "pVg",
       "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+    },
+    {
+      "album": {
+        "name": "pVg (Manifest Live Remix)",
+        "url": "https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "pVg - Manifest Live Remix",
+      "url": "https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP"
     },
     {
       "album": {

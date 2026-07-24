@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Cloud Gazing",
+        "url": "https://open.spotify.com/album/6Lw2ib8CyVY2E3ScDXeFMA"
+      },
+      "artists": [
+        {
+          "name": "Julien Margaretti",
+          "url": "https://open.spotify.com/artist/20etBxhKZJiCgcaiTJGcjo"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Cloud Gazing",
+      "url": "https://open.spotify.com/track/3C2pm0VgF1mutWVuGr7cVW"
+    },
+    {
+      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd"
       },
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176274,
       "name": "Portobelloh",
       "url": "https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1"

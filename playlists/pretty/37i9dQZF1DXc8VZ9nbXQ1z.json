@@ -1,15 +1,119 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 227675,
+  "num_followers": 227787,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAV0rvXpVjnXZkc/8F6dyNNyo/mw",
+  "snapshot_id": "AAAAAOKxhjpnUSv7c0fl4bmQPspolemu",
   "tracks": [
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
+      "album": {
+        "name": "Tiki Tiki 2.0",
+        "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Tiki Tiki 2.0",
+      "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
+    },
+    {
+      "added_at": "2026-07-23 15:52:35",
+      "album": {
+        "name": "Usikate Tamaa",
+        "url": "https://open.spotify.com/album/0qN4vVFpDfRXHz6TR766Ov"
+      },
+      "artists": [
+        {
+          "name": "Gil Bokobza",
+          "url": "https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW"
+        },
+        {
+          "name": "Ayah Tlhanyane",
+          "url": "https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Usikate Tamaa",
+      "url": "https://open.spotify.com/track/5Hf5rMNaJdwLxbWLcYSa5f"
+    },
+    {
+      "added_at": "2026-07-23 15:52:35",
+      "album": {
+        "name": "Goes On (In My Mind)",
+        "url": "https://open.spotify.com/album/5yiDyJm8D5Gft55HKqmjxR"
+      },
+      "artists": [
+        {
+          "name": "SOMMERS (UK)",
+          "url": "https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv"
+        },
+        {
+          "name": "Mr Joe",
+          "url": "https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG"
+        }
+      ],
+      "duration_ms": 350525,
+      "name": "Goes On (In My Mind)",
+      "url": "https://open.spotify.com/track/74JPnheyt6GfPlx02vO6Fe"
+    },
+    {
+      "added_at": "2026-07-23 15:52:35",
+      "album": {
+        "name": "Nkunku",
+        "url": "https://open.spotify.com/album/3VPvurLNMuT8cYJ6vjzw29"
+      },
+      "artists": [
+        {
+          "name": "Wesley LS",
+          "url": "https://open.spotify.com/artist/61DXpd6cfIFLhW1MzoAxjs"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Nkunku",
+      "url": "https://open.spotify.com/track/5UyVucQy4YkFwCXfQnCdQL"
+    },
+    {
+      "added_at": "2026-07-23 15:52:35",
+      "album": {
+        "name": "Less You Know",
+        "url": "https://open.spotify.com/album/5XWRX02qqdUsSkKPEripg1"
+      },
+      "artists": [
+        {
+          "name": "Mario Bazouri",
+          "url": "https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5"
+        },
+        {
+          "name": "Dane Carter",
+          "url": "https://open.spotify.com/artist/1vWvGS3BlKVaxeAgf6uKQR"
+        }
+      ],
+      "duration_ms": 179139,
+      "name": "Less You Know",
+      "url": "https://open.spotify.com/track/36PibGWSXTloqcKGdeX30R"
+    },
+    {
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "B4U & Tripidi",
         "url": "https://open.spotify.com/album/0FyEXnYBbUYXZt2FuW4ZhQ"
@@ -25,7 +129,7 @@
       "url": "https://open.spotify.com/track/0OulcccYk94SUQMbWqvbfL"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Lost (Manoo Remix)",
         "url": "https://open.spotify.com/album/7mer0QoiJOT3wGMgBlPdG2"
@@ -45,7 +149,7 @@
       "url": "https://open.spotify.com/track/5pjQtAYONUP4Mfj8x5E1CF"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/0DOh1J8gKN8HnzFuQ64KsY"
@@ -61,7 +165,7 @@
       "url": "https://open.spotify.com/track/0Ddvp044OQzscNPNaStvgU"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/5ZUlpSD6LRcLNcTha76LBH"
@@ -81,7 +185,7 @@
       "url": "https://open.spotify.com/track/6SyQukpGOxoH21MHI6tnvg"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "People of Peace",
         "url": "https://open.spotify.com/album/4MYKCWcRvwT5MHV9LP8vqH"
@@ -101,7 +205,7 @@
       "url": "https://open.spotify.com/track/202vSB5IdCUM9KWu6UGJ7Q"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/0TVnT7UIPFln8ztsb2cdwb"
@@ -117,7 +221,7 @@
       "url": "https://open.spotify.com/track/71XJZeCmG14wFL58SNcQgd"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "POTEA",
         "url": "https://open.spotify.com/album/3FgGSTypBDQ8d2J89wcs8F"
@@ -141,7 +245,7 @@
       "url": "https://open.spotify.com/track/32kTf2oOjGTUiwYrudFEHp"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Intertwined (Vertic Remix)",
         "url": "https://open.spotify.com/album/3tB4V7P23lS2AjWb6rRGGr"
@@ -169,7 +273,7 @@
       "url": "https://open.spotify.com/track/2N1O05aMJyUjHqufhJTMRm"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Luanda",
         "url": "https://open.spotify.com/album/3z6OhrLRIrkJgzuk1AqOtM"
@@ -189,7 +293,7 @@
       "url": "https://open.spotify.com/track/7iPTQMIeAT7iSem86np7ni"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "iLanga",
         "url": "https://open.spotify.com/album/0VP3ysbwTVoretQG6gC7Oh"
@@ -205,7 +309,7 @@
       "url": "https://open.spotify.com/track/5aTVlfZiCP4giXfaC9MFO7"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Yolele",
         "url": "https://open.spotify.com/album/2CPRHtazR1WcphGCKwvHJv"
@@ -225,7 +329,7 @@
       "url": "https://open.spotify.com/track/4EGZUJ8H5qJLMgwobcCPKd"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "KMZM Frequency",
         "url": "https://open.spotify.com/album/4pjzANU6HvzQlLpdGZT1fa"
@@ -241,7 +345,7 @@
       "url": "https://open.spotify.com/track/2JIJXcg1m6Bx9StEClEwJM"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "System Corrupt",
         "url": "https://open.spotify.com/album/3DwQkURHMjoyk5cbiieQcB"
@@ -257,7 +361,7 @@
       "url": "https://open.spotify.com/track/1geGa9YIgUhSYiJR2PptKv"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "So Deep",
         "url": "https://open.spotify.com/album/49waNtghnLcFBxmli08IvA"
@@ -273,7 +377,7 @@
       "url": "https://open.spotify.com/track/4Nu6BTNCo63mdWfCsD7obI"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "SAX AT NIGHT",
         "url": "https://open.spotify.com/album/4vI6mMTgeTt1bg4lJULbnA"
@@ -301,7 +405,7 @@
       "url": "https://open.spotify.com/track/1tnmBLmYQmMsxU335szYoL"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q"
@@ -321,7 +425,7 @@
       "url": "https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Moya Wa Taola",
         "url": "https://open.spotify.com/album/4OAWp8cNsUVwN6qQ7TJOl1"
@@ -345,7 +449,7 @@
       "url": "https://open.spotify.com/track/3fQaQ80aDL1pgtU99jZCS4"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "St\u0101y",
         "url": "https://open.spotify.com/album/6cxJhSlhcjHnAanGb5DaiA"
@@ -361,7 +465,7 @@
       "url": "https://open.spotify.com/track/4cZOb7WSh55yKFiu2C70oC"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Looking For Change",
         "url": "https://open.spotify.com/album/0XMs3LmBLPsOwuQAod46C5"
@@ -381,7 +485,7 @@
       "url": "https://open.spotify.com/track/0WViv2bn3fZndMTXhpfOWS"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Sunset In Pretoria",
         "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
@@ -401,7 +505,7 @@
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Tromlitz",
         "url": "https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0"
@@ -421,7 +525,7 @@
       "url": "https://open.spotify.com/track/6tIxPSDiEFsjpcvd7F1HKN"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "New Tomorrow",
         "url": "https://open.spotify.com/album/38AScDVhT1wFDASRqTkgm2"
@@ -437,7 +541,7 @@
       "url": "https://open.spotify.com/track/0vJJ18M5hpNXIkGZDbJtRR"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Revoir",
         "url": "https://open.spotify.com/album/6yPX8z4DpfTWJ6CfvqCxml"
@@ -457,7 +561,7 @@
       "url": "https://open.spotify.com/track/1gRJMYcjMmbupX3syBCv9U"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "Jabala's Dub",
         "url": "https://open.spotify.com/album/1vDEgh8qD47FnnSKx5v9Yf"
@@ -477,7 +581,7 @@
       "url": "https://open.spotify.com/track/290gJsPlMC782LjhBpPL4C"
     },
     {
-      "added_at": "2026-07-16 09:17:41",
+      "added_at": "2026-07-23 15:52:35",
       "album": {
         "name": "To Be Heard EP",
         "url": "https://open.spotify.com/album/04t2YUlfnycHOCg5Jfng0e"
@@ -491,102 +595,6 @@
       "duration_ms": 498365,
       "name": "Mungum_africa",
       "url": "https://open.spotify.com/track/2CQ1ZsXdL3z9bm2VSw2QBS"
-    },
-    {
-      "added_at": "2026-07-16 09:17:41",
-      "album": {
-        "name": "We Were Never Here",
-        "url": "https://open.spotify.com/album/4C2MQLA14d2YU4rF3tZpQH"
-      },
-      "artists": [
-        {
-          "name": "LevyM",
-          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "We Were Never Here - Afro Mix",
-      "url": "https://open.spotify.com/track/4gZn0yYoOmwaUKyxXiMTK7"
-    },
-    {
-      "added_at": "2026-07-16 09:17:41",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/3SPrihyat4NmFhCl25K0wD"
-      },
-      "artists": [
-        {
-          "name": "Breakstorm",
-          "url": "https://open.spotify.com/artist/616JxmW4Ng0tPB2r5xJRNu"
-        },
-        {
-          "name": "&SARA",
-          "url": "https://open.spotify.com/artist/7MrLbMPKh1ctyRetNARYOM"
-        },
-        {
-          "name": "David Eusse",
-          "url": "https://open.spotify.com/artist/6BrRFr2hXqCW9WmPCmkpqB"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/6nuH5zRlWzuzZr9fA4IcpY"
-    },
-    {
-      "added_at": "2026-07-16 09:17:41",
-      "album": {
-        "name": "Radical",
-        "url": "https://open.spotify.com/album/75AwEQeRAMXnJZnzoWRADu"
-      },
-      "artists": [
-        {
-          "name": "Tony Finger",
-          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
-        }
-      ],
-      "duration_ms": 297049,
-      "name": "Radical - Extended Mix",
-      "url": "https://open.spotify.com/track/1zB6i0HRfVgXzK5jT1wwP0"
-    },
-    {
-      "added_at": "2026-07-16 09:17:41",
-      "album": {
-        "name": "Heart Spin EP",
-        "url": "https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6"
-      },
-      "artists": [
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Heart Spin",
-      "url": "https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8"
-    },
-    {
-      "added_at": "2026-07-16 09:17:41",
-      "album": {
-        "name": "Sound Of The Soul",
-        "url": "https://open.spotify.com/album/1eakM0lrn0AU7xzJq9fr2m"
-      },
-      "artists": [
-        {
-          "name": "Gil Bokobza",
-          "url": "https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW"
-        }
-      ],
-      "duration_ms": 194262,
-      "name": "Sound Of The Soul",
-      "url": "https://open.spotify.com/track/4JpvbcOZPtFLllr1HkO9te"
     }
   ],
   "unique_name": "Black Coffee's track IDs",

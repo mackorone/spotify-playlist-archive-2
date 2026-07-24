@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 ### [New Rap Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Hip\-Hop Tracks by Parmish Verma, Jordan Sandhu BAD Junkie and more!
+> Fresh Punjabi Hip\-Hop Tracks by Parmish Verma, Jordan Sandhu, BAD Junkie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,717 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,744 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Sin Prisa](https://open.spotify.com/track/7JoyhHjWCPTFyGupqr7KWh) | [HARRY PB65](https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE), [Akash Choubey](https://open.spotify.com/artist/2FOq5XCofJ7Ps5c8aMRRax) | [Sin Prisa](https://open.spotify.com/album/6xVFVjTb2xMx3tuTpGFDRG) | 1:23 |
 | 75 | [Tell Me More](https://open.spotify.com/track/5dDVFEirWAq0R1bp1MfvyR) | [Gavy Mann](https://open.spotify.com/artist/19nD2JfZACoHOQo9hqxkvP) | [Tell Me More](https://open.spotify.com/album/6k7J1BSNqdhitm5hbcknsD) | 2:38 |
 
-Snapshot ID: `AAAAALNfantSrL92W5+zWGquHkNPnP0n`
+Snapshot ID: `AAAAAPWILxIrHyXriEbZFQ0lJ3fN9Xt2`

@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/6QAwHYtCdTdrgX6wh1iE9H.md) - [plain]
 | 35 | [Orange Sky](https://open.spotify.com/track/3iFICw91huq0cAMmrdl0pO) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Music From The O.C\. Mix 1](https://open.spotify.com/album/5m5Blw275J9Q0xrH8jOexW) | 6:18 |
 | 36 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 37 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6CQaVuICm1WVXyy3SZ5jEI) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black: B\-Sides](https://open.spotify.com/album/3c9D4qaxb9XNd9BJasUEdo) | 3:53 |
-| 38 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 38 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 |
 | 39 | [Dress Blues](https://open.spotify.com/track/1xrJuKS9ntH1XMLagfwnqw) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Dress Blues](https://open.spotify.com/album/4kvGF01qGg03BoF1nn6rdJ) | 5:30 |
 
 Snapshot ID: `AAAAOIFI7tKA++EIHpi9iviZvRnz+IwO`

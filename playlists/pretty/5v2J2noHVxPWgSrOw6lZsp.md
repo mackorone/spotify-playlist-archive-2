@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,329 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,327 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 77 | [Call It Off](https://open.spotify.com/track/0Bo7grcJ9Api986n2RNcA8) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 2:21 |
 | 78 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/6AVbtprNn18sQcX54K5MTo) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:36 |
 | 79 | [Confident \- Live from Spotify NYC](https://open.spotify.com/track/69DAK6Dk2aa2uk5KdaPYC3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Sessions \(Live from Spotify NYC\)](https://open.spotify.com/album/357AFOYvuAzTKAVCKfMqV4) | 3:13 |
-| 80 | [High](https://open.spotify.com/track/13yEuYLJYxPCLJR0KNOqpk) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:03 |
+| 80 | [High](https://open.spotify.com/track/13yEuYLJYxPCLJR0KNOqpk) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:04 |
 | 81 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
 | 82 | [Cups](https://open.spotify.com/track/4eiWWDbWczW2GLqg6Lyg48) | [Lulu & The Lampshades](https://open.spotify.com/artist/3JJAUqYAGTDFovH8FasVxl) | [Cups](https://open.spotify.com/album/3qwqpWxSkd8Mi2SjeWDHSh) | 2:10 |
 | 83 | [Perfect \- Stripped](https://open.spotify.com/track/5hA2ZHjvt1tgp55OzaqYKL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Perfect \- EP](https://open.spotify.com/album/2AZsm9cX8g9P3sSoZlQiOR) | 3:51 |

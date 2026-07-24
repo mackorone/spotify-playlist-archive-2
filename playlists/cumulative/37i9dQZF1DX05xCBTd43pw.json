@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 190593,
       "name": "Caught",
       "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186764,
       "name": "Emotional Wreck",
       "url": "https://open.spotify.com/track/56Mcbgej6mt3hOzTzLQRBz"
@@ -4082,6 +4082,24 @@
       "duration_ms": 201255,
       "name": "Home - The Voice Of Switzerland",
       "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
+    },
+    {
+      "album": {
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
       "album": {
@@ -5650,7 +5668,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 157520,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/7BfhIhd03RKpbsXFiSjaVE"
@@ -7290,7 +7308,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
       "url": "https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71"
@@ -7850,7 +7868,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
@@ -9972,6 +9990,24 @@
       "duration_ms": 148965,
       "name": "we should get married",
       "url": "https://open.spotify.com/track/2a8VJhlIkaqZqhW0JGKxcL"
+    },
+    {
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210842,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
     },
     {
       "album": {

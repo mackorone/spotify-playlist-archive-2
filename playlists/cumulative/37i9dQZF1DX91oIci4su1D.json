@@ -134,7 +134,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 231044,
       "name": "40",
       "url": "https://open.spotify.com/track/1HuepUhvOtnDnp6mnioLhW"
@@ -2428,6 +2428,24 @@
       "duration_ms": 245142,
       "name": "Back When We Believed",
       "url": "https://open.spotify.com/track/2QSXxvvzZs72kxMAXgmStS"
+    },
+    {
+      "album": {
+        "name": "Back2u",
+        "url": "https://open.spotify.com/album/76Cm6EXkr9OwsmnZ7U7RNR"
+      },
+      "artists": [
+        {
+          "name": "Jade Sierra",
+          "url": "https://open.spotify.com/artist/0cUEruNbTHgqVg22oi0bFW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "back2u",
+      "url": "https://open.spotify.com/track/219qathjWh75qLrsqk2Wmo"
     },
     {
       "album": {
@@ -5639,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6M2tMvUL7JagQOKAk3UIJJ"
+      },
+      "artists": [
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/1qIG0COjeSE8XwjN8GmJvX"
+    },
+    {
+      "album": {
         "name": "Dark Space",
         "url": "https://open.spotify.com/album/0bDnGw5zMrfCED5vtPGcWB"
       },
@@ -6872,7 +6908,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 228000,
       "name": "Echoes of Light",
       "url": "https://open.spotify.com/track/6E0Hs3MqwdTg3ffd61mNCg"
@@ -8862,7 +8898,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 239239,
       "name": "Finding My Way To You",
       "url": "https://open.spotify.com/track/2QsMWa3DcVrsBYenj0ZI87"
@@ -12472,7 +12508,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 312311,
       "name": "In Unison",
       "url": "https://open.spotify.com/track/0fYrUra3kcxvETQiVrxssG"
@@ -13256,7 +13292,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 145306,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS"
@@ -16090,7 +16126,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 190308,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY"
@@ -16696,7 +16732,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 202437,
       "name": "NEON DUSK PROTOCOL",
       "url": "https://open.spotify.com/track/3vLLB4uWZC1xOOcyx4NlYj"
@@ -21622,7 +21658,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186964,
       "name": "Shining Bright",
       "url": "https://open.spotify.com/track/2SeaR8f831lEl1lSFwQvZd"
@@ -21956,6 +21992,28 @@
       "duration_ms": 237000,
       "name": "Solar Express",
       "url": "https://open.spotify.com/track/6ttxvrDLx2B9v38AFZt9aE"
+    },
+    {
+      "album": {
+        "name": "Solarcoaster (SUPERSTRINGS Emotional Rollercoaster Remix)",
+        "url": "https://open.spotify.com/album/5GoGsAfSr2SwzL4bddRJzQ"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Solarcoaster - SUPERSTRINGS Emotional Rollercoaster Remix",
+      "url": "https://open.spotify.com/track/6WJbxDswVnU6S8efA3lfmp"
     },
     {
       "album": {
@@ -24410,7 +24468,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 226340,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/5B8nT3UfCkkeDVFsfAGWXp"
@@ -27718,7 +27776,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 233191,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3asVxIgShLAyWHTlH2qWb6"

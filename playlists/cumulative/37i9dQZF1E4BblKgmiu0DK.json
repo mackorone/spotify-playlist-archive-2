@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Tonight And The Rest Of My Life",
+        "url": "https://open.spotify.com/album/5e3dHNK5bb3sg95F5VF7CZ"
+      },
+      "artists": [
+        {
+          "name": "Nina Gordon",
+          "url": "https://open.spotify.com/artist/38Tbx2UU0VVtVfftWIdGZh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188626,
+      "name": "Badway",
+      "url": "https://open.spotify.com/track/2xnolu3GnPG0Ohxa93yZVY"
+    },
+    {
+      "album": {
         "name": "Higher Than I Can Stand",
         "url": "https://open.spotify.com/album/1riNB9T1EODiimvfA9DiTt"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 138360,
       "name": "billing by the hour",
       "url": "https://open.spotify.com/track/57BtoGh36HgiRtv3nOf8QK"
@@ -1439,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Hellcats (Music from the CW Television Series)",
+        "url": "https://open.spotify.com/album/0tfVkHtDMIYCYpZBjV27x7"
+      },
+      "artists": [
+        {
+          "name": "Aly Michalka",
+          "url": "https://open.spotify.com/artist/0E3Olw7o5mCVEfng7hVvCn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231179,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/49U2o6XyolQDEry3dYfCnG"
+    },
+    {
+      "album": {
         "name": "No Retreat",
         "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
       },
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 103359,
       "name": "Bruv, Skyline Ruckus",
       "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -1882,7 +1918,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 158720,
       "name": "CEO OF MY FACE",
       "url": "https://open.spotify.com/track/4lx9KQP9qnHYarlnFp6Rqo"
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 172973,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/35aCtgxXl9naFeiaWcgCDS"
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -2350,7 +2386,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2462,6 +2498,24 @@
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
+    },
+    {
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/4WiakFNghbjHTNDTQMuVe1"
+      },
+      "artists": [
+        {
+          "name": "Evol Walks",
+          "url": "https://open.spotify.com/artist/5s9CuMyAFTD43AiRtBOzm0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
     },
     {
       "album": {
@@ -3063,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Get Over It!",
+        "url": "https://open.spotify.com/album/0eqas03690nSPknuF5hg9P"
+      },
+      "artists": [
+        {
+          "name": "Care Bears On Fire",
+          "url": "https://open.spotify.com/artist/05Ht5ZXmxzYWbHrdMbVocQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120760,
+      "name": "Everybody Else",
+      "url": "https://open.spotify.com/track/6PXxXvo6C9BYazgiIhYCbW"
+    },
+    {
+      "album": {
         "name": "Fake It Till You Make It",
         "url": "https://open.spotify.com/album/1BIVqpxopoRjgqY2prOiy6"
       },
@@ -3110,7 +3182,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3964,7 +4036,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -4198,7 +4270,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -5114,7 +5186,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -6236,7 +6308,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 107359,
       "name": "Maple Static, Eh",
       "url": "https://open.spotify.com/track/3n9oQozZPrGmRAvCX96Tmb"
@@ -6686,7 +6758,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -7212,7 +7284,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 209806,
       "name": "NOVA KANE",
       "url": "https://open.spotify.com/track/1Phkau8vCW6HUUfRWrqOy7"
@@ -7230,7 +7302,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 201434,
       "name": "Now & Always",
       "url": "https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp"
@@ -7684,7 +7756,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 227453,
       "name": "Outta Nowhere",
       "url": "https://open.spotify.com/track/6BKh4T3IFUq139xk3dWbCL"
@@ -8012,7 +8084,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -9306,7 +9378,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -9396,7 +9468,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 215667,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/2DVaNxzFk3hF9eG8sJM9wK"
@@ -9414,7 +9486,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -9818,7 +9890,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/2nLcGjxoSbVrgdUwtMcJxs"
@@ -10164,7 +10236,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -10398,7 +10470,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -10578,7 +10650,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -10902,7 +10974,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 154386,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/5rmvHsh0W46tZWioPDNlwa"

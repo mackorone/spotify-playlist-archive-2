@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Acid Techno Y Perreo",
+        "url": "https://open.spotify.com/album/7xZm4zPJ7Sy1Kt79asj3BM"
+      },
+      "artists": [
+        {
+          "name": "Shelco",
+          "url": "https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170924,
+      "name": "Acid Techno Y Perreo",
+      "url": "https://open.spotify.com/track/5KPV6uL5v5On7dzJvX5q26"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
       },
@@ -8586,6 +8604,28 @@
       "duration_ms": 179673,
       "name": "Phat Brahms - Coone Remix 2.0",
       "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
     },
     {
       "album": {

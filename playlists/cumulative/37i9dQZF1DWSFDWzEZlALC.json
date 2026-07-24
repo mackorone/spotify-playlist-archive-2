@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Apsilon, Berq",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kayla Shyx",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172000,
       "name": "Alles Wird Gut",
       "url": "https://open.spotify.com/track/5rPhHTLPYfD7PLhI3Q2o85"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 139700,
       "name": "Arm aber Sexy",
       "url": "https://open.spotify.com/track/3bUosxzfxEXmolRLDkOyU1"
@@ -5261,6 +5261,24 @@
     },
     {
       "album": {
+        "name": "c.260611",
+        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105234,
+      "name": "c.260611",
+      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
+    },
+    {
+      "album": {
         "name": "Cabrio",
         "url": "https://open.spotify.com/album/6iR835M2sCOVJWOsIHhGoE"
       },
@@ -6210,6 +6228,24 @@
       "duration_ms": 159293,
       "name": "Das muss Liebe sein",
       "url": "https://open.spotify.com/track/3hLU79BvIP0uJAQBj8TO7n"
+    },
+    {
+      "album": {
+        "name": "Das perfekte Problem",
+        "url": "https://open.spotify.com/album/47PHeJe9JiWJoyfAz70b9F"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166571,
+      "name": "Das perfekte Problem",
+      "url": "https://open.spotify.com/track/4n7e6okY5RND1tqDCivn9E"
     },
     {
       "album": {
@@ -8504,7 +8540,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204513,
       "name": "einzelteile",
       "url": "https://open.spotify.com/track/6M7Nc8vK5T6Hmlgz2IkghD"
@@ -11851,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "german language",
+        "url": "https://open.spotify.com/album/0AyknuMVyJyR54473Ey9y4"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175717,
+      "name": "german language",
+      "url": "https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ"
+    },
+    {
+      "album": {
         "name": "Geruch von Koks (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3"
       },
@@ -12292,7 +12346,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 173218,
       "name": "Golden Retriever Mindset",
       "url": "https://open.spotify.com/track/0r6udkRvwSYlLyUWjz6202"
@@ -14635,6 +14689,24 @@
     },
     {
       "album": {
+        "name": "Ich hasse die Sonne",
+        "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
+      },
+      "artists": [
+        {
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Ich hasse die Sonne",
+      "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
+    },
+    {
+      "album": {
         "name": "ich jogge",
         "url": "https://open.spotify.com/album/07Fw5pmCdn8wEac93X9Mhm"
       },
@@ -14944,6 +15016,24 @@
       "duration_ms": 224959,
       "name": "Ich Widerstehe",
       "url": "https://open.spotify.com/track/0VOiZi8XnerwmVY3McF97s"
+    },
+    {
+      "album": {
+        "name": "ich will nicht dass du mich wieder losl\u00e4sst",
+        "url": "https://open.spotify.com/album/3jHziwYnTyIhRvbgTQ1DY2"
+      },
+      "artists": [
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207029,
+      "name": "ich will nicht dass du mich wieder losl\u00e4sst",
+      "url": "https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz"
     },
     {
       "album": {
@@ -20024,7 +20114,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 140985,
       "name": "Malediven",
       "url": "https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR"
@@ -20360,7 +20450,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196909,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/6mf4W08c67kOASyrTOhY4j"
@@ -20624,6 +20714,24 @@
       "duration_ms": 207055,
       "name": "meer",
       "url": "https://open.spotify.com/track/2mAYwrPVtapUpFbr8sRRAL"
+    },
+    {
+      "album": {
+        "name": "Mein Babe",
+        "url": "https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb"
+      },
+      "artists": [
+        {
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Mein Babe",
+      "url": "https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9"
     },
     {
       "album": {
@@ -21344,6 +21452,24 @@
       "duration_ms": 123820,
       "name": "Monobloc",
       "url": "https://open.spotify.com/track/2IhPaNuIuFIFE7r4eOgOhh"
+    },
+    {
+      "album": {
+        "name": "Monochroma",
+        "url": "https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Monochroma",
+      "url": "https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ"
     },
     {
       "album": {
@@ -24181,6 +24307,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boys",
+        "url": "https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140960,
+      "name": "Pretty Boys",
+      "url": "https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf"
+    },
+    {
+      "album": {
         "name": "PRIMETIME",
         "url": "https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr"
       },
@@ -25616,7 +25760,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 223879,
       "name": "Sanft",
       "url": "https://open.spotify.com/track/1tLxFRRDxtDHnbmoW6Sq5p"
@@ -26318,7 +26462,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 145641,
       "name": "Sch\u00f6n sein (ist fun)",
       "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
@@ -28637,6 +28781,24 @@
     },
     {
       "album": {
+        "name": "sterne",
+        "url": "https://open.spotify.com/album/32Tob9NZPAvExxg66FY53y"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207424,
+      "name": "sterne",
+      "url": "https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT"
+    },
+    {
+      "album": {
         "name": "Sterne",
         "url": "https://open.spotify.com/album/1zBezRSzJd3ksq1sw5OcQf"
       },
@@ -29943,6 +30105,24 @@
     },
     {
       "album": {
+        "name": "wenn ich gro\u00df bin",
+        "url": "https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -31018,7 +31198,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 145960,
       "name": "verdammte Vergangenheit",
       "url": "https://open.spotify.com/track/5CCtFOrfaFnYkqC4J0e3GW"

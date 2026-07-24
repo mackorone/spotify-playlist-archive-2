@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 203000,
       "name": "Alba",
       "url": "https://open.spotify.com/track/3oQRDpahT9bNYbYtFlGZ1P"
@@ -12417,6 +12417,28 @@
     },
     {
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/51woFdylGmi3suhTmuMxNf"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146868,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/2tldaEg5dObbWuYn1J4wKs"
+    },
+    {
+      "album": {
         "name": "Nen\u00e8",
         "url": "https://open.spotify.com/album/4y9dapheFFFFpwKcYH1rce"
       },
@@ -17178,7 +17200,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 146229,
       "name": "SEI TU",
       "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
@@ -20800,6 +20822,24 @@
       "duration_ms": 159818,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb"
+    },
+    {
+      "album": {
+        "name": "Venere e Marte",
+        "url": "https://open.spotify.com/album/4Vo0p0NEpvPhhEgKOwWSFK"
+      },
+      "artists": [
+        {
+          "name": "MEZZANERA",
+          "url": "https://open.spotify.com/artist/5mzvaN29YKtfK4wmctgEqv"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167392,
+      "name": "Venere e Marte",
+      "url": "https://open.spotify.com/track/4YCZ5YGfcmVoUvii20xPRw"
     },
     {
       "album": {

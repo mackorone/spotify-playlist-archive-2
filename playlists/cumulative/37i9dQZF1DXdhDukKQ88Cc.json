@@ -7123,6 +7123,24 @@
     },
     {
       "album": {
+        "name": "LYSNER OP",
+        "url": "https://open.spotify.com/album/70FqSe0uYvBvPTaMQMS2vO"
+      },
+      "artists": [
+        {
+          "name": "BONFI",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "LYSNER OP",
+      "url": "https://open.spotify.com/track/5BwaHUvWWdZFBHy4nPye1l"
+    },
+    {
+      "album": {
         "name": "L\u00e5st Inde",
         "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
       },

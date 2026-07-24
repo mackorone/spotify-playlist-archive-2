@@ -607,6 +607,32 @@
     },
     {
       "album": {
+        "name": "POP GIRLS CLUB",
+        "url": "https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173016,
+      "name": "POP GIRL (with BAYLI & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/1Gc4HLasqihMmsAJQacNuO"
+    },
+    {
+      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },

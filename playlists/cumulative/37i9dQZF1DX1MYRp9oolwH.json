@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 298080,
       "name": "Idi Prema (From \"Deewana\")",
       "url": "https://open.spotify.com/track/3CSbVl6ofiuIUk6LtlB8su"
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 232000,
       "name": "Na Kallaloni Taraka (From \"Kotha Malupu\")",
       "url": "https://open.spotify.com/track/6XR6TbMar6TxHl7i8ZyVdQ"
@@ -7916,6 +7916,36 @@
       "duration_ms": 250844,
       "name": "Oo Nadhi (From \"Vrushabha\")",
       "url": "https://open.spotify.com/track/4Y7HrZc3nnfzWYt26eJBgJ"
+    },
+    {
+      "album": {
+        "name": "Raja The Raja",
+        "url": "https://open.spotify.com/album/4zuZpk6bnrKBfHPNWenjWQ"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Oohale",
+      "url": "https://open.spotify.com/track/3qlPlCxb9zJcrEHYEsTgn7"
     },
     {
       "album": {
@@ -10212,6 +10242,36 @@
       "duration_ms": 237313,
       "name": "Tu Mera Lover (From \"Mass Jathara\")",
       "url": "https://open.spotify.com/track/0bIeXXP7MM3Z2Yy7Z13QO7"
+    },
+    {
+      "album": {
+        "name": "Raja The Raja",
+        "url": "https://open.spotify.com/album/4zuZpk6bnrKBfHPNWenjWQ"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shaktisree Gopalan",
+          "url": "https://open.spotify.com/artist/0t4eFzytRmqMTKts5o479S"
+        },
+        {
+          "name": "Manoj Juloori",
+          "url": "https://open.spotify.com/artist/4RHf5dGYBz9vxjObYVsVJv"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208148,
+      "name": "Tujhpe Fida",
+      "url": "https://open.spotify.com/track/154T50YR6AKsyjQn1peVMC"
     },
     {
       "album": {

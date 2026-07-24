@@ -76,7 +76,7 @@
 | [Wherever You Will Go](https://open.spotify.com/track/2mI7XadiW2VoC3ptipPeo7) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Love Actually Soundtrack](https://open.spotify.com/album/19RPbTaPIFbnAgjsjrmd6L) | 3:27 | 2014-01-09 |  |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/5WcLXGuQQUKKI9npph9W8L) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/album/49omu4tTuwV5ZxuJGJo9iM) | 4:09 | 2014-01-09 |  |
 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2014-01-09 |  |
-| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2014-01-09 |  |
+| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 | 2014-01-09 |  |
 | [You've Got Time](https://open.spotify.com/track/1vDMGBzqLJWZC5UzePDURw) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [You've Got Time](https://open.spotify.com/album/5QOP3w3rOF5TBYgzjGep5Y) | 3:09 | 2014-03-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 234482,
       "name": "bringmedown",
       "url": "https://open.spotify.com/track/27LFrdxn1fXHQaYlqDUqVK"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 160000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6pUPgFJ0Acgb30JlVL7g4k"
@@ -1594,6 +1594,24 @@
       "duration_ms": 209655,
       "name": "Could This Be - Malux Remix",
       "url": "https://open.spotify.com/track/0Zk1BjKYDNOhOxCzLvHKDm"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
     },
     {
       "album": {
@@ -2305,6 +2323,28 @@
     },
     {
       "album": {
+        "name": "Fast or Slow",
+        "url": "https://open.spotify.com/album/66VKqMidtyFhlAOtKZbkhr"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/6NsFnSjcjZagrZF353zKfU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Fast or Slow",
+      "url": "https://open.spotify.com/track/7BnW6yzuesQyuBAOXKh1ty"
+    },
+    {
+      "album": {
         "name": "FEEL",
         "url": "https://open.spotify.com/album/4QqXOjIk7euMzkKFRPreqJ"
       },
@@ -2510,6 +2550,28 @@
       "duration_ms": 197489,
       "name": "FLUTE",
       "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
+    },
+    {
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/1SBJWivs4OHUIcIKbUSWDE"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/3fJH4BNXHp9052ookv4SYl"
     },
     {
       "album": {
@@ -3406,7 +3468,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 212413,
       "name": "Hole",
       "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
@@ -3472,7 +3534,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 207525,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6x6kuDhr2y4Ly3weZFje2C"
@@ -3538,7 +3600,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 166727,
       "name": "I Knew That This Was Love",
       "url": "https://open.spotify.com/track/2eGZxtHRkncnNmcFpgAkKR"
@@ -3922,6 +3984,28 @@
       "duration_ms": 215172,
       "name": "It's That Time - Dimension Remix",
       "url": "https://open.spotify.com/track/76x1mIsCz46excW50sehDt"
+    },
+    {
+      "album": {
+        "name": "Jack (Hoax Rework)",
+        "url": "https://open.spotify.com/album/1DORqdh0Z5UxSrLbGGFkZH"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        },
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218034,
+      "name": "Jack - Hoax Rework",
+      "url": "https://open.spotify.com/track/0Uekv0MjYK8cnsWDvQ3fld"
     },
     {
       "album": {
@@ -4880,6 +4964,24 @@
       "duration_ms": 204577,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5CNH1fectMnNkRmq6hMmIN"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3tOA7f1g8dGZhxGFirxdUr"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0I3taeANTcNz6pIanXgdWh"
     },
     {
       "album": {
@@ -6566,7 +6668,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
@@ -8134,6 +8236,32 @@
       "duration_ms": 204137,
       "name": "Want It",
       "url": "https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ"
+    },
+    {
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/17WI9aMbKTPCfoyzK5qb7L"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        },
+        {
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216976,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/5QGbeS1xV5JGXv8VPAy0rL"
     },
     {
       "album": {

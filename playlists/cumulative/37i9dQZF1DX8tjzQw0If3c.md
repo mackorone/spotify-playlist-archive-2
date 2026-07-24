@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Estelle Fly
 
-325 songs - 17 hr 43 min
+327 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2025-04-15 | 2026-04-07 |
 | [bulletproof](https://open.spotify.com/track/70cDc1svNtvagHkzNtWj97) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [bulletproof](https://open.spotify.com/album/3WmUjPOiCEdQTdSHorxncI) | 2:34 | 2025-08-15 | 2026-04-07 |
 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 | 2024-06-27 | 2025-04-16 |
+| [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 | 2026-07-23 |  |
 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 | 2024-06-27 | 2024-12-05 |
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-22 | 2024-12-05 |
 | [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 | 2024-06-27 | 2025-04-16 |
@@ -177,6 +178,7 @@
 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 | 2025-07-31 | 2026-04-07 |
 | [Limerence](https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Limerence](https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt) | 2:08 | 2026-04-06 |  |
 | [lips on mine](https://open.spotify.com/track/4UYnj2Y9iwE08A12FDedMj) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [lips on mine](https://open.spotify.com/album/4LNorO57lfjRrBae20cEPU) | 3:05 | 2026-04-06 |  |
+| [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 | 2026-07-23 |  |
 | [Look And See](https://open.spotify.com/track/3a85dBzdohMVZkrTdTOJOU) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Look And See](https://open.spotify.com/album/6xqK3tb3XHls2dnEbuuJzf) | 2:49 | 2026-04-06 |  |
 | [LOSING FEELINGS](https://open.spotify.com/track/7bKeqLu2NQOME2TnwkoKmS) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT) | [LOSING FEELINGS](https://open.spotify.com/album/1oo63K1kPBISER5tXwlBr1) | 2:05 | 2025-04-15 | 2026-04-07 |
 | [LOTUS](https://open.spotify.com/track/0DehftFhTPvEhvf3iGIhJZ) | [FORCEPARKBOIS](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [LOTUS](https://open.spotify.com/album/5RyY3jOnzzWuOhBbJEdM1o) | 4:55 | 2025-09-08 | 2025-10-17 |

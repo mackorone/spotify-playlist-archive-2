@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,324 songs - 3 day 5 hr 4 min
+1,327 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Blues for Tony Scott](https://open.spotify.com/track/6Icf938CGsjCiwItxauFnN) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Blues for Tony Scott](https://open.spotify.com/album/2F9C6ndwa0IpLDDMflVQiN) | 5:02 | 2024-04-05 | 2025-12-28 |
 | [Body 2 Body](https://open.spotify.com/track/6CtYSbKpNMIMuoGKRW5Al6) | [Elijah Hues](https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70) | [Body 2 Body](https://open.spotify.com/album/2ak3EIRlVn82ajlEpeZJ4n) | 1:40 | 2026-06-12 | 2026-07-19 |
 | [Body of Bruises](https://open.spotify.com/track/5NT8ptt0jy49RqX554U7ty) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 4:28 | 2023-04-20 | 2025-11-29 |
+| [Body Party](https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Body Party](https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye) | 2:47 | 2026-07-23 |  |
 | [Boiling Hot](https://open.spotify.com/track/5iNqv4rUHi27ud7mxsuOJi) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Boiling Hot](https://open.spotify.com/album/3MruevULXHS23YScLZkUHE) | 3:13 | 2026-07-13 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
 | [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 | 2026-07-22 |  |
@@ -180,6 +181,7 @@
 | [Caught In The Middle Of Thee](https://open.spotify.com/track/3GQVaaFscQdfk6WvbKI8Si) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Caught In The Middle Of Thee](https://open.spotify.com/album/1f4qxnQ0oHfH6kMLIz8Wlg) | 3:00 | 2026-04-13 | 2026-05-14 |
 | [Celina](https://open.spotify.com/track/2T9R2VTHmJsP5T9LQy8XVz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 3:27 | 2026-03-23 | 2026-04-22 |
 | [Centrale nucleare di Hanul](https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM) | [Depa](https://open.spotify.com/artist/4x43pEZCm3mKW7gBBScLs3) | [Centrale nucleare di Hanul](https://open.spotify.com/album/4izN0xiPRgVbjtoetRy1Yu) | 5:52 | 2026-04-27 | 2026-06-05 |
+| [Cereus](https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Cereus](https://open.spotify.com/album/5QDGWGHGKp7RNZ4XHWP8tL) | 2:57 | 2026-07-23 |  |
 | [Cerimony for "The Chinese"](https://open.spotify.com/track/1k63sjTtq3pkzrd9fUHD9I) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [Cerimony for "The Chinese"](https://open.spotify.com/album/1RyqSDdWLWG1WWpoj6lDQs) | 6:02 | 2023-04-27 | 2025-11-29 |
 | [Chainsaws And Machetes \- CRISISBEATZZ & PROD\. MYKEY Remix Version](https://open.spotify.com/track/3Nq7RhYY4RtdQ627ijEpg4) | [M\-Cray](https://open.spotify.com/artist/0Pjtw8hYTa1OlObMo8sMcD), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Chainsaws And Machetes \(CRISISBEATZZ & PROD\. MYKEY Remix Version\)](https://open.spotify.com/album/6sCVnNzWzE0Ig3HM4JomcV) | 1:27 | 2025-09-11 | 2025-12-21 |
 | [Chamberlain](https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Chamberlain](https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV) | 3:01 | 2026-05-24 | 2026-07-03 |
@@ -571,6 +573,7 @@
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 | 2026-07-03 |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-04 | 2026-05-14 |
+| [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 | 2026-07-23 |  |
 | [Know U Fine](https://open.spotify.com/track/4rRSpH0e1QEJjluHPybBiZ) | [Skye Cotter](https://open.spotify.com/artist/2Zd6MDFlvS0GG7Ncyb9q67) | [Know U Fine](https://open.spotify.com/album/3gFzVNmbdPvfjrNs5FNh73) | 2:58 | 2026-06-01 | 2026-07-03 |
 | [Konnichiwa \(Love\)](https://open.spotify.com/track/2Ffgq6OfCVlwimWtDmf4Hm) | [Azeul Beats](https://open.spotify.com/artist/38NVSbyC4Zw57vgXhImYAC) | [Konnichiwa \(Love\)](https://open.spotify.com/album/0nNAz4kDdJXgHAd3cf6rct) | 2:54 | 2026-03-20 | 2026-04-22 |
 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 | 2025-12-26 | 2026-01-24 |

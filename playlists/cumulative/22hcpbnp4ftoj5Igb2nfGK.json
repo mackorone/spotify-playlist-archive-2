@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Wlfgrl",
+        "url": "https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT"
+    },
+    {
+      "album": {
         "name": "In the Aeroplane Over the Sea",
         "url": "https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7"
       },

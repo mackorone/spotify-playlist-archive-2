@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E ",
+  "description": "The best dance hits in Africa. Cover: Jnr SA",
   "name": "mint Africa",
   "tracks": [
     {
@@ -5546,6 +5546,28 @@
       "duration_ms": 201391,
       "name": "By My Side - Radio Edit",
       "url": "https://open.spotify.com/track/4GGIEBTzQ8xghcVrBiHPVm"
+    },
+    {
+      "album": {
+        "name": "Dance To My Afro",
+        "url": "https://open.spotify.com/album/67mQkNdJncLLIdUMLcHubz"
+      },
+      "artists": [
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        },
+        {
+          "name": "Jinger Stone",
+          "url": "https://open.spotify.com/artist/0zuvB6HALKZ3cUfyzfq6Y2"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364083,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2NrhRNWZhh6cN9PB7jEwmz"
     },
     {
       "album": {
@@ -20433,6 +20455,36 @@
     },
     {
       "album": {
+        "name": "Nampenda",
+        "url": "https://open.spotify.com/album/0BAHo2vnr2H04F2VSwX7xd"
+      },
+      "artists": [
+        {
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+        },
+        {
+          "name": "Budazoni(Mlambeshi)",
+          "url": "https://open.spotify.com/artist/0JWzJNNA9KiwQyHcwyG4cn"
+        },
+        {
+          "name": "Kusslove",
+          "url": "https://open.spotify.com/artist/2TLEUktuuUN5KwujvtdT87"
+        },
+        {
+          "name": "10k Degreez",
+          "url": "https://open.spotify.com/artist/0hL9NKxYiZX01EWaLTWvDN"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268336,
+      "name": "Nampenda",
+      "url": "https://open.spotify.com/track/4g2iSiexVcntHjSTrVCYMz"
+    },
+    {
+      "album": {
         "name": "Nanini Na (feat. Nkosazana Daughter, Azana & Musa Keys)",
         "url": "https://open.spotify.com/album/0jO5PN8JvK9GpdxssC64sA"
       },
@@ -33870,6 +33922,28 @@
       "duration_ms": 170861,
       "name": "Yamba Jump",
       "url": "https://open.spotify.com/track/52TAucBl21tbNx6cV3m6T5"
+    },
+    {
+      "album": {
+        "name": "Yang'Bhampela (feat. Zee Nxumalo)",
+        "url": "https://open.spotify.com/album/5oP4AAJPcuXKyrrOdwvKof"
+      },
+      "artists": [
+        {
+          "name": "Rebiirth",
+          "url": "https://open.spotify.com/artist/1Tx7L6W346dIQcAwDGdF1o"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299277,
+      "name": "Yang'Bhampela (feat. Zee Nxumalo)",
+      "url": "https://open.spotify.com/track/6kXy6Uij3LJO7QnNhOdy9I"
     },
     {
       "album": {

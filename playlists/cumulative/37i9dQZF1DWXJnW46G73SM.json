@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0627\u0644\u062c\u062f\u064a\u062f \u0645\u0646 \u0623\u0635\u0648\u0627\u062a \u0648\u0641\u0646\u0627\u0646\u064a\u0646. \u0627\u0644\u063a\u0644\u0627\u0641: \u0644\u0644\u0651\u0627 \u0641\u0636\u0629",
+  "description": "\u0623\u062c\u062f\u062f \u0627\u0644\u0641\u0646\u0627\u0646\u064a\u0646 \u0641\u064a \u0645\u0635\u0631 \u0648\u0623\u0635\u0648\u0627\u062a \u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0641\u0646\u0627\u0646\u064a\u0646 \u0627\u0644\u0644\u064a \u0628\u062a\u062d\u0628\u0647\u0645. \u0627\u0644\u063a\u0644\u0627\u0641: \u062e\u0641\u0627\u0634",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -186,6 +186,28 @@
       "duration_ms": 172000,
       "name": "3ada Kol El Kalam",
       "url": "https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7"
+    },
+    {
+      "album": {
+        "name": "3ady Sahla (By Remix)",
+        "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207491,
+      "name": "3ady Sahla - By Remix",
+      "url": "https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H"
     },
     {
       "album": {
@@ -2204,7 +2226,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 136000,
       "name": "Alo!? / \u0627\u0644\u0648!\u061f",
       "url": "https://open.spotify.com/track/1WJw5YRGtou6R9XZCko4PQ"
@@ -7596,7 +7618,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 203965,
       "name": "Fe Ghayet El Sa3ada (Feat. Dee)",
       "url": "https://open.spotify.com/track/08fciYVQySEkGxUKJCNaH0"
@@ -8026,6 +8048,24 @@
       "duration_ms": 192926,
       "name": "Fouq",
       "url": "https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz"
+    },
+    {
+      "album": {
+        "name": "FRATELLO",
+        "url": "https://open.spotify.com/album/1VfijmI9OZxRKix0vTRjwG"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "FRATELLO",
+      "url": "https://open.spotify.com/track/6plmA7qCOgdxzUxisaVzuO"
     },
     {
       "album": {
@@ -10193,6 +10233,28 @@
     },
     {
       "album": {
+        "name": "Kalt, Dafaat El Rent. BEGAD! (Remix)",
+        "url": "https://open.spotify.com/album/45n7nq9l9pb5O1RjFZgGnh"
+      },
+      "artists": [
+        {
+          "name": "Alexis Reel",
+          "url": "https://open.spotify.com/artist/0mpeIPP4thGi1a3HfCPTQE"
+        },
+        {
+          "name": "AphroBarbie",
+          "url": "https://open.spotify.com/artist/3dvGfwNOZ1RTwkxcR0764e"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213254,
+      "name": "Kalt, Dafaat El Rent. BEGAD! - Remix",
+      "url": "https://open.spotify.com/track/0L7Q1XgengourSIqYLPzJx"
+    },
+    {
+      "album": {
         "name": "Kam Sana",
         "url": "https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35"
       },
@@ -10936,6 +10998,28 @@
       "duration_ms": 212000,
       "name": "Khesert Nafsy",
       "url": "https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn"
+    },
+    {
+      "album": {
+        "name": "KHLSANASLN",
+        "url": "https://open.spotify.com/album/5U7cSXzxK0DYVWY5P97WqV"
+      },
+      "artists": [
+        {
+          "name": "Nada Nader",
+          "url": "https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz"
+        },
+        {
+          "name": "Omar Gangster",
+          "url": "https://open.spotify.com/artist/5T50n4CJ00M0hleMaUVCcQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "KHLSANASLN",
+      "url": "https://open.spotify.com/track/57Hlh1ajwrbOHQfoR8QQGq"
     },
     {
       "album": {
@@ -12556,7 +12640,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 196000,
       "name": "Love TKO",
       "url": "https://open.spotify.com/track/3HMfqbXxvOXdYpjXaZChNH"
@@ -13921,6 +14005,24 @@
     },
     {
       "album": {
+        "name": "nour / \u0646\u0648\u0631",
+        "url": "https://open.spotify.com/album/2o53I5LGnTfSYWXFyiheBp"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Mawasem / \u0645\u0648\u0627\u0633\u0645",
+      "url": "https://open.spotify.com/track/1RrzWr8RazL3j1cgAanCNF"
+    },
+    {
+      "album": {
         "name": "Mawaweel",
         "url": "https://open.spotify.com/album/4MIJcDmvWokcs9FZGPZCOK"
       },
@@ -14664,6 +14766,24 @@
       "duration_ms": 207411,
       "name": "Metkatef",
       "url": "https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD"
+    },
+    {
+      "album": {
+        "name": "Merayt El Hob",
+        "url": "https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Metlakhbata Ahwaly",
+      "url": "https://open.spotify.com/track/5vWcAMQKuk2aR2qB9fSyyT"
     },
     {
       "album": {
@@ -15518,7 +15638,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 218507,
       "name": "Negm Lame3",
       "url": "https://open.spotify.com/track/1VPvGTLbmxnZ4kmo7cHY04"
@@ -15536,7 +15656,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 160000,
       "name": "Negry W Bas",
       "url": "https://open.spotify.com/track/0byqcsmo00Ds8Nr3kzQmXZ"
@@ -15796,6 +15916,24 @@
       "duration_ms": 218000,
       "name": "Oddam Eineh",
       "url": "https://open.spotify.com/track/6icvmDKYJoYdpZcbVwZSBy"
+    },
+    {
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/3d7lUD7dCS3IvUWKnh5E3O"
+      },
+      "artists": [
+        {
+          "name": "Fares Sokar - \u0641\u0627\u0631\u0633 \u0633\u0643\u0631",
+          "url": "https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163683,
+      "name": "OFF",
+      "url": "https://open.spotify.com/track/2xPewsBXjoZMqk63u6fvd3"
     },
     {
       "album": {
@@ -16960,6 +17098,24 @@
       "duration_ms": 156770,
       "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5"
+    },
+    {
+      "album": {
+        "name": "SAM3ANI",
+        "url": "https://open.spotify.com/album/1bVTJ42eYZ4PDHGdHzCFry"
+      },
+      "artists": [
+        {
+          "name": "Deka",
+          "url": "https://open.spotify.com/artist/6etVcOJ1k8TWZ1ZcZ7jdtW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152432,
+      "name": "SAM3ANI",
+      "url": "https://open.spotify.com/track/2R3xXW9zduiDfDVcLKtwxp"
     },
     {
       "album": {
@@ -20745,6 +20901,28 @@
     },
     {
       "album": {
+        "name": "KHAZAN A7ZAN",
+        "url": "https://open.spotify.com/album/3cVNY8wXTFvCvyD2DVQ26A"
+      },
+      "artists": [
+        {
+          "name": "Jana",
+          "url": "https://open.spotify.com/artist/5VMa28Yqtw5xld5O8HqNON"
+        },
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/5ECY1H5jJxfx7gEukvOAsU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160109,
+      "name": "ZAHAB LA ROGOO3",
+      "url": "https://open.spotify.com/track/5vpvSY1SrGougwEsdg3ayz"
+    },
+    {
+      "album": {
         "name": "Zai Zaman",
         "url": "https://open.spotify.com/album/3BbXgMRaWexSuMISirjp6L"
       },
@@ -23906,7 +24084,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 249607,
       "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/2dBFC3WLCCdRXnFzVByEsE"
@@ -24512,7 +24690,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244394,
       "name": "\u0628\u0646\u0633\u064a \u0627\u0644\u0627\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/3Mmgye9X33oKXBeJqTpdyD"
@@ -27144,7 +27322,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 334875,
       "name": "\u0633\u064a\u062f\u0629 \u0627\u0644\u0646\u0633\u0627\u0621 (\u0627\u063a\u0627\u0631)",
       "url": "https://open.spotify.com/track/7eJaDu09ajeIXYBo0KUVHY"
@@ -27592,7 +27770,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 258000,
       "name": "\u0639\u0627\u062c\u0628\u0643 \u063a\u064a\u0627\u0628\u0643\u061f",
       "url": "https://open.spotify.com/track/2b6qcbALcYfBeOz67AqIuf"
@@ -27794,7 +27972,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172941,
       "name": "\u0639\u0630\u0631 \u062e\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/1xSOy4M2JWb2SFtFhPbQ79"
@@ -28174,6 +28352,24 @@
       "duration_ms": 256052,
       "name": "\u063a\u0648\u0644 \u0627\u0644\u0627\u0635\u0648\u0644",
       "url": "https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY"
+    },
+    {
+      "album": {
+        "name": "\u063a\u064a\u0627\u0628\u0643 \u0637\u0627\u0644",
+        "url": "https://open.spotify.com/album/0fqejK4XsS0XMQKdEwaJTw"
+      },
+      "artists": [
+        {
+          "name": "Wael El Fashny",
+          "url": "https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335400,
+      "name": "\u063a\u064a\u0627\u0628\u0643 \u0637\u0627\u0644",
+      "url": "https://open.spotify.com/track/2GQIvnXFuJJ7sC5fBTulLk"
     },
     {
       "album": {
@@ -32020,6 +32216,24 @@
       "duration_ms": 191680,
       "name": "\u0648\u0627\u062f\u064a\u0646\u064a \u0627\u0647\u0648 \u0639\u0627\u064a\u0634 \u0641\u064a \u062d\u0627\u0644\u064a - \u0628\u0633 \u0628\u0642\u064a\u062a \u0639\u0627\u064a\u0634 \u0641\u064a \u062d\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/79mIGuAMuhDsH0sXS7zIPo"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0627\u0643\u0644 \u0627\u0644\u062c\u0648",
+        "url": "https://open.spotify.com/album/2vPYGktKbRuwwNIkZYtBK1"
+      },
+      "artists": [
+        {
+          "name": "Khofash",
+          "url": "https://open.spotify.com/artist/2H1jbRZ2JJP0WgkIfSjn7o"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226506,
+      "name": "\u0648\u0627\u0643\u0644 \u0627\u0644\u062c\u0648",
+      "url": "https://open.spotify.com/track/6PU3hw45DsnzrSNsDkvVlD"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 
-> There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red, streaming on Disney+.
+> Descendants: Wicked Wonderland is available now! Listen to music from the movie alongside all your Descendants favorites on the official playlist!
 
 93 songs - 4 hr 31 min
 

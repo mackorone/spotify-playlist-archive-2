@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring daisy\. Curated with love by human Spotify editors.
 
-9,912 songs - 22 day 7 hr 28 min
+9,913 songs - 22 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Angel Baby](https://open.spotify.com/track/2rQ21Ja2Pg3O88NGFEC9v3) | [Suzie True](https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR) | [Angel Baby](https://open.spotify.com/album/7kLZSaOb6EwfZ3gj7ynwQR) | 3:33 | 2024-02-21 | 2024-03-07 |
 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-17 | 2024-05-02 |
 | [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 | 2023-07-19 | 2023-07-27 |
-| [Angel So Bad](https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH) | 2:52 | 2026-06-25 |  |
+| [Angel So Bad](https://open.spotify.com/track/4mlGoUXzd1xZs3f89ZXvL4) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/60s33QYtxHcdogg8JJjIFH) | 2:52 | 2026-06-25 | 2026-07-24 |
 | [Angelica](https://open.spotify.com/track/61wiLy4LB7rFZUYvETBv6u) | [Bella Litsa](https://open.spotify.com/artist/7JtXhBJMyYER8yXatsX7Xd) | [Drasticism](https://open.spotify.com/album/4fLp3PmXlkqbdFHen2ENDd) | 2:54 | 2026-03-12 | 2026-04-02 |
 | [Angelina](https://open.spotify.com/track/5YTztYEB44rImOMnukFNqI) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Angelina](https://open.spotify.com/album/3sY4fpHYZecvIo3hfuS6GS) | 2:30 | 2024-05-15 | 2024-06-06 |
 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 | 2026-04-08 | 2026-05-14 |
@@ -3141,6 +3141,7 @@
 | [Forever Sanne](https://open.spotify.com/track/3e4PI5dcm6gLu2D8DsWYIw) | [Nokta Servo](https://open.spotify.com/artist/1zWDkHiV3HltFihfSClOVq) | [Forever Sanne](https://open.spotify.com/album/0QOrXkYg8v4NFMNbz7AIkQ) | 3:41 | 2025-04-23 | 2025-05-29 |
 | [forever, with you](https://open.spotify.com/track/593EdsNavqugMt7jSoptxC) | [Paradise Blossom](https://open.spotify.com/artist/69CROBu60QZWX8uig8XpDb) | [forever, with you](https://open.spotify.com/album/1gxjY87dJpAGGSXLGimXVS) | 2:56 | 2023-04-19 | 2023-05-04 |
 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 | 2024-10-16 | 2025-01-16 |
+| [FOREVERMINE](https://open.spotify.com/track/5xUeOYdtvbZRMRXms6StEu) | [Harrison Borts](https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv) | [love, bird](https://open.spotify.com/album/74xjyzy3G0d6UZueBv6frP) | 3:10 | 2026-07-23 |  |
 | [foreversoon](https://open.spotify.com/track/1A2qoClL5RvAVP8tpMoojq) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [foreversoon](https://open.spotify.com/album/0DfOwAstY8aE4kWXgXa6o6) | 3:43 | 2024-02-14 | 2024-02-29 |
 | [forget](https://open.spotify.com/track/0Rn9pkfhWmwtgvCvI3HChj) | [Torzi](https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c) | [forget](https://open.spotify.com/album/20Z93Bm69nZvJMy5rxcLym) | 2:40 | 2025-08-20 | 2025-10-02 |
 | [Forget Her](https://open.spotify.com/track/0CkDb8kyAhzYvICZL8MX8S) | [Amanda Alexander](https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2) | [Forget Her](https://open.spotify.com/album/6IJT8LCH9hZC7L3CTlYj7q) | 2:37 | 2024-06-12 | 2024-07-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Friction",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, J Hus, IRAH",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 115813,
       "name": "10FOOT",
       "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
@@ -1326,6 +1326,28 @@
       "duration_ms": 173793,
       "name": "Argument Done",
       "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+    },
+    {
+      "album": {
+        "name": "Around Me (feat. Dawn Joseph)",
+        "url": "https://open.spotify.com/album/0OaeyFOlXee1TOSBVOflKY"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "name": "Dawn Joseph",
+          "url": "https://open.spotify.com/artist/59edEDdjqOJMx2QkCOam61"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240500,
+      "name": "Around Me (feat. Dawn Joseph)",
+      "url": "https://open.spotify.com/track/7fxMHIqfjwrmlbRZFe4jYC"
     },
     {
       "album": {
@@ -3473,6 +3495,28 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1AYNPpjjOvW2mrylwRTSHS"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Gia Santho",
+          "url": "https://open.spotify.com/artist/5OjPeEJJlL9uF6A5UD6wHb"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/146rFzayzSF4fUioKZ4XOz"
+    },
+    {
+      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -4708,7 +4752,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 171227,
       "name": "Close Enough",
       "url": "https://open.spotify.com/track/0pvvNrH1dLmrUfw1Wpt4Q7"
@@ -5576,7 +5620,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 139867,
       "name": "Danger",
       "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
@@ -6278,6 +6322,32 @@
       "duration_ms": 269298,
       "name": "Discotheque",
       "url": "https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82"
+    },
+    {
+      "album": {
+        "name": "Disgruntled (feat. J Hus & IRAH)",
+        "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192685,
+      "name": "Disgruntled (feat. J Hus & IRAH)",
+      "url": "https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l"
     },
     {
       "album": {
@@ -7918,7 +7988,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 153600,
       "name": "Fast or Slow",
       "url": "https://open.spotify.com/track/7BnW6yzuesQyuBAOXKh1ty"
@@ -8894,7 +8964,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 216551,
       "name": "Found You",
       "url": "https://open.spotify.com/track/3fJH4BNXHp9052ookv4SYl"
@@ -10298,6 +10368,24 @@
       "duration_ms": 233083,
       "name": "Grindhouse",
       "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
+    },
+    {
+      "album": {
+        "name": "GTP!",
+        "url": "https://open.spotify.com/album/7uv8pYjk9w73VQ6BaJQ4nN"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "GTP!",
+      "url": "https://open.spotify.com/track/68MUS59if9KQAzGdQKGe5j"
     },
     {
       "album": {
@@ -12745,6 +12833,28 @@
     },
     {
       "album": {
+        "name": "Jungle Daze",
+        "url": "https://open.spotify.com/album/1wONgIw7rYH4JprtYLVYNg"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Natalie Williams",
+          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "Jungle Daze",
+      "url": "https://open.spotify.com/track/2riLIj6lcSx6mqm4kLXn8o"
+    },
+    {
+      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -13163,6 +13273,28 @@
     },
     {
       "album": {
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/5230mkvEzWhiy0tlzWz5v9"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX"
+    },
+    {
+      "album": {
         "name": "LAST NIGHT",
         "url": "https://open.spotify.com/album/6Cy546hnBbHFPNAxQZ2jse"
       },
@@ -13296,7 +13428,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 159085,
       "name": "LEGENDARY STATUS",
       "url": "https://open.spotify.com/track/7atzfWlDlU5IfriEe75tIR"
@@ -13322,7 +13454,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 181028,
       "name": "Legit",
       "url": "https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos"
@@ -18506,7 +18638,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 277447,
       "name": "Phase",
       "url": "https://open.spotify.com/track/6aPLGsiSB9lWqPNPZUZZXE"
@@ -18550,6 +18682,28 @@
       "duration_ms": 226206,
       "name": "Phoneline",
       "url": "https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc"
+    },
+    {
+      "album": {
+        "name": "Photo Finish",
+        "url": "https://open.spotify.com/album/4H1japKiWX5drH3XbskulB"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178385,
+      "name": "Photo Finish",
+      "url": "https://open.spotify.com/track/2dhu7mTfkINU7djeJVZbfa"
     },
     {
       "album": {
@@ -19650,6 +19804,32 @@
       "duration_ms": 191465,
       "name": "ReBirth",
       "url": "https://open.spotify.com/track/00hnBmq8Wj0Pv1c8UD4PtI"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4Jn3rHvRtF0wmbVn7VIo8o"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285257,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/3RN6eCnL13Z8tlMnhDYAN0"
     },
     {
       "album": {
@@ -21956,7 +22136,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 177200,
       "name": "Slipping",
       "url": "https://open.spotify.com/track/4qdc6nkTS4uzT9W7ml1GZr"
@@ -24067,6 +24247,36 @@
     },
     {
       "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/1HbxyMY0nIc5irTOpPXYU2"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/2XvCUARbXSwjGRcnZcae8n"
+    },
+    {
+      "album": {
         "name": "Fabio & Grooverider: 25 Years of Drum & Bass",
         "url": "https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS"
       },
@@ -24302,6 +24512,24 @@
       "duration_ms": 149657,
       "name": "THE RECAP",
       "url": "https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz"
+    },
+    {
+      "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/2yoOGh1V1KSZuRw3AUqZNL"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/78jhWm8GMFK5lxqWdXz0u5"
     },
     {
       "album": {
@@ -25188,7 +25416,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 217931,
       "name": "Ultraviolet (feat. Katy Alex)",
       "url": "https://open.spotify.com/track/7G7wJskGrNr6R2zXDopkre"
@@ -25518,6 +25746,24 @@
       "duration_ms": 348266,
       "name": "Verit\u00e9 - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/4NhtkGmWcfjLUVJAWPuaRs"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/21ApqESJKyvzGX4BnPu6Y4"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/37iSB0vksxFcgwG4W3CPxm"
     },
     {
       "album": {
@@ -26008,7 +26254,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 216976,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5QGbeS1xV5JGXv8VPAy0rL"

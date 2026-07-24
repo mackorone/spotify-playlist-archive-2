@@ -57,6 +57,6 @@
 | [What You Know](https://open.spotify.com/track/6A71EmfdTryZxflaVpuXy6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/6g015VCIuTF7FAAGvC98HO) | 4:33 | 2013-06-27 |  |
 | [Where'd You Go \(feat\. Holly Brook & Jonah Matranga\)](https://open.spotify.com/track/27jV5NRauLKolguzqXHcnH) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Holly Brook](https://open.spotify.com/artist/62gL3RAdJAPUmjrYudnVjy), [Jonah Matranga](https://open.spotify.com/artist/3Ztgr9y1L9ZfoIOEsCrZEb) | [The Rising Tied](https://open.spotify.com/album/2DmlbsoOPYKIDZeXuv7Rb2) | 3:51 | 2013-06-27 |  |
 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/60elrmyXf6vtMqxHKSTjdn) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/4NOKad9mry5ZnAYQIOFhrv) | 3:49 | 2013-06-27 |  |
-| [You're Beautiful](https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb) | 3:29 | 2013-06-27 |  |
+| [You're Beautiful](https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb) | 3:32 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

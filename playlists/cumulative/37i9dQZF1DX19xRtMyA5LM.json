@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: KM",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: Highguest",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 174857,
       "name": "Den Love",
       "url": "https://open.spotify.com/track/3T5hBC6bJ5eGnThRAuQweu"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 203265,
       "name": "Discussies en Gezeik",
       "url": "https://open.spotify.com/track/7zSmRAYfMpmXBvhWhCtOVd"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 136802,
       "name": "Dure Geintje",
       "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
@@ -2888,6 +2888,32 @@
       "duration_ms": 145144,
       "name": "Eventjes zien",
       "url": "https://open.spotify.com/track/7tEapg35jKq96yM8nJa28W"
+    },
+    {
+      "album": {
+        "name": "Exotisch (Sangria)",
+        "url": "https://open.spotify.com/album/168cUsH1xYOtXelbsh7U00"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Exotisch (Sangria)",
+      "url": "https://open.spotify.com/track/0wETChJmZMcTIaFpi685x9"
     },
     {
       "album": {
@@ -3310,6 +3336,32 @@
       "duration_ms": 118403,
       "name": "Fysio",
       "url": "https://open.spotify.com/track/5kSdTWUvY0Pqx2svJ6Q3ss"
+    },
+    {
+      "album": {
+        "name": "G-Klasse",
+        "url": "https://open.spotify.com/album/6yvBRQmB8CWWggVfOufs1b"
+      },
+      "artists": [
+        {
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176924,
+      "name": "G-Klasse",
+      "url": "https://open.spotify.com/track/7g3iQ1xnXiEWuDVA2bILpV"
     },
     {
       "album": {
@@ -6612,7 +6664,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 173513,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5h6eCdszmkbsmF6toHPoU0"
@@ -7806,7 +7858,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 156083,
       "name": "Pia Hier",
       "url": "https://open.spotify.com/track/6ZYfmNsKLngCsZXayYhaiL"
@@ -9335,6 +9387,28 @@
     },
     {
       "album": {
+        "name": "Stupid (Move It)",
+        "url": "https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123573,
+      "name": "Stupid (Move It)",
+      "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
+    },
+    {
+      "album": {
         "name": "Suffe Goon",
         "url": "https://open.spotify.com/album/3TcdEsLyQGGDeeC8eZ4t8F"
       },
@@ -9836,6 +9910,42 @@
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
+    },
+    {
+      "album": {
+        "name": "M.A.L.I.K",
+        "url": "https://open.spotify.com/album/6wmDT6kGauhH5vVL3C2Wki"
+      },
+      "artists": [
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/6giNqJg5xCRHcRE8Oqulb7"
+    },
+    {
+      "album": {
+        "name": "M.A.L.I.K",
+        "url": "https://open.spotify.com/album/6wmDT6kGauhH5vVL3C2Wki"
+      },
+      "artists": [
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/5ctBgBPfLY3SiwMBQorwHm"
     },
     {
       "album": {

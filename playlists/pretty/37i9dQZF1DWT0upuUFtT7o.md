@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Oscar Lindsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,961 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,979 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 14 | [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 |
 | 15 | [mickey don’t pose](https://open.spotify.com/track/5hem4rDuW2QYEplpDFc9ly) | [god of war](https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [mickey don’t pose / new deal](https://open.spotify.com/album/5iVjaWnCrKrA6MuxdxcjPd) | 2:21 |
 | 16 | [whereyougoing?](https://open.spotify.com/track/3FDjHkHUaHxshXvF9bBnBQ) | [Marc.net](https://open.spotify.com/artist/4z0gLrvnr59tgbaluEOtZH) | [whereyougoing?](https://open.spotify.com/album/0gQhQb8mtotanUSjRbvQy8) | 3:00 |
-| 17 | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/27NMMrWjXmfxTtNjdH8PcB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/4tSRBO4d092lpDSr7ir5gR) | 3:34 |
+| 17 | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/4sX1QVHVcYr8dlnLqOLpvZ) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/1vR7iuEnukcCPHE4ZEqK0y) | 3:33 |
 | 18 | [Lasagna](https://open.spotify.com/track/0ckVKicgNyv074p0lG4lRX) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Lasagna](https://open.spotify.com/album/1TxT0qBD6miEAHc6nBDSFj) | 3:32 |
 | 19 | [Turquoise](https://open.spotify.com/track/2Tl5KK7EUUKdqK5RVCOImb) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [SUNDAYCLUB](https://open.spotify.com/album/6aKxN6uLEMSo4YJdnDoinp) | 5:30 |
 | 20 | [Tmt](https://open.spotify.com/track/6E5pNxIgctyLA3R6dm3XnH) | [bld rltv](https://open.spotify.com/artist/391xMwqB4f7t33b1eiNe2M) | [Tmt](https://open.spotify.com/album/22gVt7RSj9GIwi73Ze4GDZ) | 2:48 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 72 | [Sofia](https://open.spotify.com/track/4FvPEmDNN1oZDj7sqUNTWv) | [Asal Hazel](https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt) | [Sofia](https://open.spotify.com/album/68xP2NPfSLLmVjJ6SYMT8W) | 2:40 |
 | 73 | [HOLD ME \(SLOWLY\)](https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [HOLD ME \(SLOWLY\)](https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja) | 4:11 |
 
-Snapshot ID: `AAAAAFvlZXI6YjysVaNiR2tYp0pOpJ/1`
+Snapshot ID: `AAAAAAFtVfok1gC9c7FVbj+C8XvAJCY7`

@@ -9635,6 +9635,24 @@
     },
     {
       "album": {
+        "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+        "url": "https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz"
+      },
+      "artists": [
+        {
+          "name": "FaveRiot",
+          "url": "https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146227,
+      "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+      "url": "https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH"
+    },
+    {
+      "album": {
         "name": "Five Fingers of Life",
         "url": "https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B"
       },
@@ -17960,6 +17978,24 @@
       "duration_ms": 82048,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4ldz2D3Q49bk9ASmANImDZ"
+    },
+    {
+      "album": {
+        "name": "Desolate",
+        "url": "https://open.spotify.com/album/3u3Qf5KG0AFwSLAl7BdKyM"
+      },
+      "artists": [
+        {
+          "name": "Asylum Road",
+          "url": "https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212414,
+      "name": "Desolate",
+      "url": "https://open.spotify.com/track/303YZOIjFPc92eth5JaBxg"
     },
     {
       "album": {

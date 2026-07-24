@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1236409,
+  "num_followers": 1236461,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAABexjqwX6qpLeILH8odTCPN",
+  "snapshot_id": "amAIAAAAAACPt7uorWR9n5wlirNZZjZJ",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Dramacydal",
-          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Me Against The World",
-      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resurrection (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 230786,
       "name": "Runnin' (Dying To Live)",
       "url": "https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of War: World War 2",
-        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
       "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Thug Luv (feat. 2pac)",
-      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
+      "duration_ms": 174266,
+      "name": "When We Ride On Our Enemies - Briss Remix",
+      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+        "name": "The Art of War: World War 2",
+        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
       },
       "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 174266,
-      "name": "When We Ride On Our Enemies - Briss Remix",
-      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
+      "duration_ms": 307986,
+      "name": "Thug Luv (feat. 2pac)",
+      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262493,
-      "name": "When Thugz Cry",
-      "url": "https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 322573,
       "name": "My Block - Nitty Remix",
       "url": "https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262493,
+      "name": "When Thugz Cry",
+      "url": "https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Ballad Of A Dead Soulja",
-      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 306200,
       "name": "They Don't Give A F**** About Us",
       "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Ballad Of A Dead Soulja",
+      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Still Ballin' - Nitty Remix",
+      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pac's Life",
         "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 217440,
       "name": "Pac's Life",
       "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Still Ballin' - Nitty Remix",
-      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
     },
     {
       "added_at": null,

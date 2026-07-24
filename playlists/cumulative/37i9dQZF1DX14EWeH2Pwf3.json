@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Geolier sulla cover della playlist urban pi\u00f9 grande italiana \ud83e\udd75",
+  "description": "it's an Artie summer \ud83e\ude78",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -5764,6 +5764,24 @@
       "duration_ms": 203076,
       "name": "Come mi guardi",
       "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
+    },
+    {
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144911,
+      "name": "come no . . .",
+      "url": "https://open.spotify.com/track/0IgGFVvbuzzghavTQI8ii0"
     },
     {
       "album": {
@@ -13002,7 +13020,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 152598,
       "name": "M'AMA NON M'AMA",
       "url": "https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg"

@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18425,
+  "num_followers": 18428,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAADjBc22zz3m0mwi9gTEQwFl",
+  "snapshot_id": "amAIAAAAAACrcn8pfrkQPbpVYZV7YWPM",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost: The Final Season (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 474506,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 119280,
       "name": "Off to Work",
       "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost: The Final Season (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 474506,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
-      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
         "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 202560,
       "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
       "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
+      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+        "name": "Incredibles 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO"
       },
       "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 200093,
-      "name": "Journey to the Journal",
-      "url": "https://open.spotify.com/track/7JuNAiek69RpHtYW9Wsuwv"
+      "duration_ms": 50706,
+      "name": "Episode 2",
+      "url": "https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

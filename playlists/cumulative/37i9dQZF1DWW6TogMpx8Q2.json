@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-31",
-  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: \u6d2a\u5609\u8c6a Kaho Hung",
+  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Zpecial",
   "name": "CantoVision",
   "tracks": [
     {
@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "TIPSY",
+        "url": "https://open.spotify.com/album/4pP0txE2OFEmvTqQqCPGPf"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "TIPSY",
+      "url": "https://open.spotify.com/track/1XqPmqZsafIGGxaxaerLo2"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1"
       },
@@ -732,6 +750,24 @@
       "duration_ms": 163281,
       "name": "You know I love you?",
       "url": "https://open.spotify.com/track/0l5Wzr73fj3hz2eS6CRtUw"
+    },
+    {
+      "album": {
+        "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+        "url": "https://open.spotify.com/album/2aRAPyR9Dij9r9bOKuwFC3"
+      },
+      "artists": [
+        {
+          "name": "Zpecial",
+          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236574,
+      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+      "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
     },
     {
       "album": {
@@ -1687,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u72fc",
+        "url": "https://open.spotify.com/album/4Gy4ep8S3m3JFvExxWpJtK"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203710,
+      "name": "\u5c0f\u72fc",
+      "url": "https://open.spotify.com/track/29YNoXDLtJunICilv0gxWz"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u8ae7\u661f",
         "url": "https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj"
       },
@@ -2200,6 +2254,24 @@
       "duration_ms": 246840,
       "name": "\u6a39\u6728\u771f\u7f8e",
       "url": "https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP"
+    },
+    {
+      "album": {
+        "name": "\u6b98\u5fcd\u544a\u5225\u5f0f",
+        "url": "https://open.spotify.com/album/7750F8pM09EdCN7RhIAtKB"
+      },
+      "artists": [
+        {
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271845,
+      "name": "\u6b98\u5fcd\u544a\u5225\u5f0f",
+      "url": "https://open.spotify.com/track/3x1gSm3QazCqP0iLG8jsKa"
     },
     {
       "album": {
@@ -2936,6 +3008,24 @@
       "duration_ms": 217474,
       "name": "\u901a\u5f80\u53e6\u4e00\u500b\u4e16\u754c\u7684\u51fa\u53e3",
       "url": "https://open.spotify.com/track/73KsHw8MedtSpcURdmsjKw"
+    },
+    {
+      "album": {
+        "name": "\u9084\u5728\u62c9\u626f\u7684\u4f0f\u7dda",
+        "url": "https://open.spotify.com/album/7c5yeU2p4lxl0JpBrA4rag"
+      },
+      "artists": [
+        {
+          "name": "PER SE",
+          "url": "https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230382,
+      "name": "\u9084\u5728\u62c9\u626f\u7684\u4f0f\u7dda",
+      "url": "https://open.spotify.com/track/2kkhSAFxnYT2daTYwm5MUz"
     },
     {
       "album": {

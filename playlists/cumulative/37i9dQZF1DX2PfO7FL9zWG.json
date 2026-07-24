@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
@@ -2262,6 +2262,24 @@
       "duration_ms": 190208,
       "name": "Gonna Be Leaving",
       "url": "https://open.spotify.com/track/3xUX0vRkQDW6Lqj3Sk30D5"
+    },
+    {
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "album": {
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 214133,
       "name": "miss construed",
       "url": "https://open.spotify.com/track/48s7VPuMEhxQPlexlJ0PMZ"
@@ -4692,6 +4710,28 @@
       "duration_ms": 302880,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ"
+    },
+    {
+      "album": {
+        "name": "Party Of One",
+        "url": "https://open.spotify.com/album/1B1Z5w1Uv0KSoOV5KhyO3R"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        },
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205623,
+      "name": "Party Of One",
+      "url": "https://open.spotify.com/track/0J4sJnVyD1V7dIYERAnlQG"
     },
     {
       "album": {

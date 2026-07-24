@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Hadise",
+  "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: G\u00fcl\u015fen",
   "name": "Yaz Hitleri 2026",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 201231,
       "name": "Aldan\u0131r\u0131m",
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
@@ -492,6 +492,24 @@
       "duration_ms": 123287,
       "name": "BALMAIN",
       "url": "https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b"
+    },
+    {
+      "album": {
+        "name": "Bana Ne Bu Sevdalardan",
+        "url": "https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137512,
+      "name": "Bana Ne Bu Sevdalardan",
+      "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
     },
     {
       "album": {
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 153906,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
@@ -1552,10 +1570,28 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 207428,
       "name": "Ge\u00e7sin Y\u0131llar",
       "url": "https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS"
+    },
+    {
+      "album": {
+        "name": "Gidi\u015fat",
+        "url": "https://open.spotify.com/album/67EvM60fproAJUULEJFEbR"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225570,
+      "name": "Gidi\u015fat",
+      "url": "https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6"
     },
     {
       "album": {
@@ -1859,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
+      },
+      "artists": [
+        {
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146470,
+      "name": "\u0130htimal",
+      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
+    },
+    {
+      "album": {
         "name": "7EDI",
         "url": "https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7"
       },
@@ -1900,6 +1954,24 @@
       "duration_ms": 144986,
       "name": "\u0130STANBOO",
       "url": "https://open.spotify.com/track/4Fg1yutthlIqyIW7p9f5Rc"
+    },
+    {
+      "album": {
+        "name": "\u0130taat Yok",
+        "url": "https://open.spotify.com/album/4Q79xH8eHjHzg4TIfT62Th"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcl\u015fen",
+          "url": "https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143654,
+      "name": "\u0130taat Yok",
+      "url": "https://open.spotify.com/track/0RZwoJKQGZ2Fox5bodEX24"
     },
     {
       "album": {
@@ -2063,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "KIYAMAM",
+        "url": "https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN"
+      },
+      "artists": [
+        {
+          "name": "Sibel Can",
+          "url": "https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146262,
+      "name": "KIYAMAM",
+      "url": "https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz"
+    },
+    {
+      "album": {
         "name": "Konsun Bir Ku\u015f Gibi",
         "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
       },
@@ -2172,7 +2266,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 191142,
       "name": "K\u00f6r Sevdam",
       "url": "https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw"
@@ -2406,7 +2500,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 157191,
       "name": "Mucize",
       "url": "https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to"
@@ -2548,6 +2642,32 @@
       "duration_ms": 104072,
       "name": "pUTA",
       "url": "https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp"
+    },
+    {
+      "album": {
+        "name": "pVg (Manifest Live Remix)",
+        "url": "https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "pVg - Manifest Live Remix",
+      "url": "https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP"
     },
     {
       "album": {
@@ -3150,7 +3270,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 90576,
       "name": "TAK TAK TAK",
       "url": "https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX"
@@ -3168,7 +3288,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 203500,
       "name": "Tam A\u015fk Mevsimi",
       "url": "https://open.spotify.com/track/0MlPZ7AdeposWg3c46j1im"
@@ -3480,7 +3600,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 157948,
       "name": "YAPAR MISIN?",
       "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
@@ -3498,7 +3618,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186666,
       "name": "Yara Band\u0131",
       "url": "https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn"
@@ -3582,7 +3702,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 112250,
       "name": "Yaz - Club",
       "url": "https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o"
@@ -3886,7 +4006,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"

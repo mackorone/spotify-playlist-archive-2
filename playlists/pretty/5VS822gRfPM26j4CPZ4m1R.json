@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 18085,
+  "num_followers": 18086,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMjGD4uBdlLV/BS7cro2eAM4GyFxvS",
+  "snapshot_id": "AAAMjYJK32FXh3t4I5SM9qPmU9ZjO74w",
   "tracks": [
     {
       "added_at": "2026-07-22 08:43:13",
@@ -23,6 +23,26 @@
       "duration_ms": 211893,
       "name": "This is a Poem",
       "url": "https://open.spotify.com/track/5JLlk8QoH8jlzdUXRvYFPZ"
+    },
+    {
+      "added_at": "2026-07-23 07:55:34",
+      "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/75iroRSlNPmLhCvvtQjpip"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        },
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "duration_ms": 202174,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/3CTMz34eXafsYmOngdLNcu"
     },
     {
       "added_at": "2026-07-07 07:02:20",

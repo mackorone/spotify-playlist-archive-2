@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,327 likes - 107 songs - 6 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,327 likes - 110 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 105 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
 | 106 | [Somme di momenti](https://open.spotify.com/track/6VxQ3W7ewnrYPHQqvDzRJ5) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Complicazioni inutili](https://open.spotify.com/album/4gCXHzSnwhXLyI9vLZegrI) | 3:13 |
 | 107 | [Nowhere](https://open.spotify.com/track/051yjsV0DXVGtKsTqmRgl0) | [GIUCA](https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh), [Annalena](https://open.spotify.com/artist/1fDbDvS7xBPktEEt078Oww) | [Fragments Of A Broken Wing](https://open.spotify.com/album/1vsRiM9vIaylQNtgKurzLP) | 4:23 |
+| 108 | [Body Party](https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Body Party](https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye) | 2:47 |
+| 109 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 |
+| 110 | [Cereus](https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Cereus](https://open.spotify.com/album/5QDGWGHGKp7RNZ4XHWP8tL) | 2:57 |
 
-Snapshot ID: `AAAWgNnEMaqBK5IVnbUaOeGuJNsg+oIR`
+Snapshot ID: `AAAWg94xdsKFFuCczNvyUPV/UoFGlCeW`

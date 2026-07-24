@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -5268,10 +5268,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 276280,
       "name": "I Don't Believe You",
       "url": "https://open.spotify.com/track/5Qevo5QToL2p7q1umdLtTC"
+    },
+    {
+      "album": {
+        "name": "Funhouse Deluxe Version",
+        "url": "https://open.spotify.com/album/6WXOYwtExOVEmeq3sI3glM"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276360,
+      "name": "I Don't Believe You",
+      "url": "https://open.spotify.com/track/2cMK3iTVQYjS6x3mZItdww"
     },
     {
       "album": {
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 219946,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/6hvRoJ0BTZywxu8UCPBkzx"
@@ -6503,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Funhouse Deluxe Version",
+        "url": "https://open.spotify.com/album/6WXOYwtExOVEmeq3sI3glM"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232013,
+      "name": "It's All Your Fault",
+      "url": "https://open.spotify.com/track/3VkNpdrbDJbfM30DuGlW3I"
+    },
+    {
+      "album": {
         "name": "Funhouse",
         "url": "https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR"
       },
@@ -6514,7 +6550,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 232013,
       "name": "It's All Your Fault",
       "url": "https://open.spotify.com/track/5ciiAMuyWB4r17mnYsev31"
@@ -9065,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "Funhouse Deluxe Version",
+        "url": "https://open.spotify.com/album/6WXOYwtExOVEmeq3sI3glM"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230388,
+      "name": "Please Don't Leave Me",
+      "url": "https://open.spotify.com/track/3yv801RL0LOBTime394Fvu"
+    },
+    {
+      "album": {
         "name": "Funhouse (Expanded Edition)",
         "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
       },
@@ -9076,7 +9130,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 231560,
       "name": "Please Don't Leave Me",
       "url": "https://open.spotify.com/track/2gnZad0pb6QtUqMLTj2AjI"

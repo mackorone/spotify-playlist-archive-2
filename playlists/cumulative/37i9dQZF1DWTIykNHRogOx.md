@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec ESTL.
+> Les  meilleures nouveautés de la chanson française avec Grand Corps Malade et Styleto.
 
 362 songs - 19 hr 43 min
 

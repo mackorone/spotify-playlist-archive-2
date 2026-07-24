@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,531 songs - 21 day 16 hr 57 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,535 songs - 21 day 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2318,7 +2318,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 2308 | [Woo](https://open.spotify.com/track/5wktQ3fg1lRjzUYyy7nu36) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 2:49 |
 | 2309 | [Funeral \(with slowthai\)](https://open.spotify.com/track/1gf4Ez9r1h74QZiTFcb3wy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Friends That Break Your Heart \(Bonus\)](https://open.spotify.com/album/33GolaWGqgLY4fB5IPwxjq) | 2:35 |
 | 2310 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 |
-| 2311 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 2311 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 |
 | 2312 | [Canned Heat](https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 5:31 |
 | 2313 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 |
 | 2314 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
@@ -8539,5 +8539,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8529 | [Bossa Mood](https://open.spotify.com/track/35CZrq6hscurQbVMmCdKEa) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bossa Mood](https://open.spotify.com/album/6sRmWIDABxO7lf4W29VHN8) | 2:26 |
 | 8530 | [lean back](https://open.spotify.com/track/5wicTCItEe8xd9KhZqYfZJ) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:09 |
 | 8531 | [Empty Words](https://open.spotify.com/track/4ky0UguF2TtDUPvcr9ur0r) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Empty Words](https://open.spotify.com/album/15GZvHoaG8oM6ja8LZQxBl) | 3:10 |
+| 8532 | [take me there](https://open.spotify.com/track/7t66Nws0Ib5fDptCU1Guqg) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [Chance Thrash](https://open.spotify.com/artist/3z82km7NvHtfV4LHwRk072) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 3:10 |
+| 8533 | [breakfast](https://open.spotify.com/track/5inPJdObXRtrY0cNrUDv3b) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [lando!](https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p) | [breakfast](https://open.spotify.com/album/3Dc1sLt0yOt0IIIGO9Yzvf) | 2:11 |
+| 8534 | [It's Raining](https://open.spotify.com/track/2H0QuISiUsNgSHSnGIZIc9) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [It's Raining](https://open.spotify.com/album/2zVBYnuUN52s5mA8hDHhqm) | 2:28 |
+| 8535 | [moonglow](https://open.spotify.com/track/0g9TAdriKculilWojd8829) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:17 |
 
-Snapshot ID: `AAAMaG/o2BV3MatYGnri46aUHslhojwq`
+Snapshot ID: `AAAMbELTaSQI7ByUplJrkJHI9VGkAgtJ`

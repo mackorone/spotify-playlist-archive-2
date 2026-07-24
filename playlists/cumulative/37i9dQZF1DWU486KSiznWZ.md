@@ -2,7 +2,7 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> نخبة الأغاني الخليجية\. الغلاف: عايض
+> نخبة الأغاني الخليجية\. الغلاف: ماجد المهندس
 
 238 songs - 17 hr 12 min
 

@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Body Party",
+        "url": "https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167595,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs"
+    },
+    {
+      "album": {
         "name": "Boiling Hot",
         "url": "https://open.spotify.com/album/3MruevULXHS23YScLZkUHE"
       },
@@ -3354,6 +3372,24 @@
       "duration_ms": 352026,
       "name": "Centrale nucleare di Hanul",
       "url": "https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM"
+    },
+    {
+      "album": {
+        "name": "Cereus",
+        "url": "https://open.spotify.com/album/5QDGWGHGKp7RNZ4XHWP8tL"
+      },
+      "artists": [
+        {
+          "name": "4est Fleur",
+          "url": "https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177054,
+      "name": "Cereus",
+      "url": "https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ"
     },
     {
       "album": {
@@ -10680,6 +10716,24 @@
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
+    },
+    {
+      "album": {
+        "name": "know u",
+        "url": "https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK"
+      },
+      "artists": [
+        {
+          "name": "only tears",
+          "url": "https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254463,
+      "name": "know u",
+      "url": "https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP"
     },
     {
       "album": {

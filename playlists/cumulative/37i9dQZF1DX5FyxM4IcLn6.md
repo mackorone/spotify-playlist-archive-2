@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-890 songs - 2 day 11 hr 40 min
+891 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Damsel In Distress](https://open.spotify.com/track/3q4fsfIjZMX2TwG21xBQRC) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Unfollow The Rules](https://open.spotify.com/album/07XUVGf2M6rXVsbdNqogTk) | 4:42 | 2021-03-10 | 2022-03-30 |
 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 | 2023-11-10 | 2024-11-09 |
 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 | 2024-11-08 | 2025-11-08 |
+| [Daybreak](https://open.spotify.com/track/5yTsposXxnk1rJVETaXS4N) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk) | [Chapter III: We Return to Light](https://open.spotify.com/album/10y2phPg1DNcq2YALjzABR) | 4:38 | 2025-11-12 |  |
 | [Daylight](https://open.spotify.com/track/1ghWv2xyq0I3Zt06gTCkat) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Daylight](https://open.spotify.com/album/1ZUZuW2fR7J5JscL8FHpSC) | 4:21 | 2021-03-10 | 2022-03-30 |
 | [De Lejitos](https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw) | 2:39 | 2024-11-08 | 2025-04-01 |
 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/album/5vLQakn5RIIinS715tqgjI) | 4:36 | 2023-11-10 | 2024-11-09 |
@@ -462,7 +463,7 @@
 | [Let Me Go](https://open.spotify.com/track/2tTyOqKFskYSQHxBGXNdhe) | [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [A Man Born Black](https://open.spotify.com/album/4ZuzPJ4oWqQ5lmXVp1Q4W1) | 3:45 | 2021-03-10 | 2022-03-30 |
 | [Let Me Stay in Your Arms](https://open.spotify.com/track/6OQ4HnTJkf2n4nyQvtm2tY) | [Cameron Dupuy & the Cajun Troubadours](https://open.spotify.com/artist/1sI2HC9gnmceN3ju1MSRzv) | [Cameron Dupuy and the Cajun Troubadours](https://open.spotify.com/album/3UBRkGnzBNJff03hnAghkp) | 3:39 | 2021-03-10 | 2022-03-30 |
 | [Let The Church Sing](https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Let The Church Sing](https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx) | 2:56 | 2025-11-07 |  |
-| [Letter To My 13 Year Old Self](https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 4:56 | 2025-11-12 |  |
+| [Letter To My 13 Year Old Self](https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 4:56 | 2025-11-12 | 2026-07-24 |
 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 | 2024-11-08 | 2025-11-08 |
 | [Liar](https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:24 | 2025-11-07 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2021-03-10 | 2022-03-30 |

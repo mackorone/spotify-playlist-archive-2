@@ -27157,6 +27157,36 @@
     },
     {
       "album": {
+        "name": "Mandaadi Mandaadi (From \"Mandaadi - Kannada\")",
+        "url": "https://open.spotify.com/album/6BHKV4SoVExZJ5t8yCbljU"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Mandaadi Mandaadi (From \"Mandaadi - Kannada\")",
+      "url": "https://open.spotify.com/track/1nMcD4d0hsMTMX6r74dUFS"
+    },
+    {
+      "album": {
         "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1yAoray8hI5GA1JHANM2X6"
       },
@@ -30084,7 +30114,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 312521,
       "name": "Naanu Kanda - Female (From \"Bengaluru Inn\")",
       "url": "https://open.spotify.com/track/7G9opj7es0jzVRsnrPTZrC"

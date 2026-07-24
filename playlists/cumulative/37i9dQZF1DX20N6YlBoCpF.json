@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Zaan Sonnekus, Karlien Van Jaarsveld, Bok Van Blerk, Adam Tas, Liezel Pieters en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Lisie Basson, Riaan Benad\u00e9, Tamlyn Wessels en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 180115,
       "name": "Agter Elke Man - SENSASIE Remix",
       "url": "https://open.spotify.com/track/0jpIYwog9V5Pxpcj6AA7mF"
@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Annekantoe",
+        "url": "https://open.spotify.com/album/3UlKzYOTU31bB158WJrKmR"
+      },
+      "artists": [
+        {
+          "name": "Leon Ferreira",
+          "url": "https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228304,
+      "name": "Annekantoe",
+      "url": "https://open.spotify.com/track/2n1wOm0DkrnEopsfwC3wCe"
+    },
+    {
+      "album": {
         "name": "ANNEMAN",
         "url": "https://open.spotify.com/album/0YRMUCsIfRviyK5I9KdcZ8"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 213571,
       "name": "As Ek Lief Is",
       "url": "https://open.spotify.com/track/1KauG0Te1yYkcxIWCgNCfX"
@@ -4998,6 +5016,24 @@
       "duration_ms": 181728,
       "name": "Bittersomerson",
       "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+    },
+    {
+      "album": {
+        "name": "Bleek",
+        "url": "https://open.spotify.com/album/4AqKWE9Dv3wzihtg9d7fN4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Steele",
+          "url": "https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237456,
+      "name": "Bleek",
+      "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
     },
     {
       "album": {
@@ -11702,10 +11738,28 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205191,
       "name": "DOOD",
       "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
+    },
+    {
+      "album": {
+        "name": "Doodgewone Ou",
+        "url": "https://open.spotify.com/album/10PwoWlJusj3SAPjkakXdg"
+      },
+      "artists": [
+        {
+          "name": "Arno De Wet",
+          "url": "https://open.spotify.com/artist/6HYesUfQ19AsXt63z4PNs5"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Doodgewone Ou",
+      "url": "https://open.spotify.com/track/4h6uPiqUb8X19OCoNZmXZp"
     },
     {
       "album": {
@@ -12580,6 +12634,24 @@
       "duration_ms": 227825,
       "name": "Eerste Liefde (Van Voor Af)",
       "url": "https://open.spotify.com/track/29FFMlc9pC3o3oMMH827MP"
+    },
+    {
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/285GFcDAZ2UF8CqxlRCck3"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153536,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/1hNLCN9Nk7KjXLc5t9sLnV"
     },
     {
       "album": {
@@ -13700,7 +13772,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 275038,
       "name": "Ek skryf met Bloed",
       "url": "https://open.spotify.com/track/6gUUTKwOEyiLhzbHJsZVlf"
@@ -14104,7 +14176,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 232258,
       "name": "Ek Wens",
       "url": "https://open.spotify.com/track/5GaPmGS7zlLFV7uGs1ooBR"
@@ -14552,6 +14624,24 @@
       "duration_ms": 167812,
       "name": "Energie",
       "url": "https://open.spotify.com/track/5HmXnJcxVO2V5gkJn7DY47"
+    },
+    {
+      "album": {
+        "name": "Engel",
+        "url": "https://open.spotify.com/album/2pXmwaj4B4uk2HtBGxABGG"
+      },
+      "artists": [
+        {
+          "name": "Carla-Lee",
+          "url": "https://open.spotify.com/artist/15CXQHqzGrmyzxTjSnaY4X"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "Engel",
+      "url": "https://open.spotify.com/track/2Glsyf4z2vfQzYde172HtN"
     },
     {
       "album": {
@@ -17844,7 +17934,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 224305,
       "name": "Hemel Op Tafelberg",
       "url": "https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P"
@@ -20237,6 +20327,24 @@
     },
     {
       "album": {
+        "name": "In Ons Bloed",
+        "url": "https://open.spotify.com/album/47LgJkN4wEIuVH1nv1s594"
+      },
+      "artists": [
+        {
+          "name": "Rouchelle",
+          "url": "https://open.spotify.com/artist/14pLDomx6u9HfYYeE6QFFw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "In Ons Bloed",
+      "url": "https://open.spotify.com/track/10gx9M31EPY7CngECbB9AL"
+    },
+    {
+      "album": {
         "name": "Here spaar Suid Afrika",
         "url": "https://open.spotify.com/album/2MZLzNs3kBGmJTIPve7vmN"
       },
@@ -22054,7 +22162,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 221162,
       "name": "Kaal Sigarette",
       "url": "https://open.spotify.com/track/1M4Lvjm4uxKwChEota82mg"
@@ -23572,7 +23680,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 178860,
       "name": "klein molekule",
       "url": "https://open.spotify.com/track/3zj1px0SXDIQxVmJVtQxMF"
@@ -27380,7 +27488,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 279293,
       "name": "Ligstraal",
       "url": "https://open.spotify.com/track/6vmfYFdK8NbNPWJvd91iNb"
@@ -27568,6 +27676,24 @@
       "duration_ms": 216173,
       "name": "Loco",
       "url": "https://open.spotify.com/track/7s1DLn8TWQlOPuqgoRRJq3"
+    },
+    {
+      "album": {
+        "name": "Lof",
+        "url": "https://open.spotify.com/album/6oXUIoi2QoBnIN0xsE7zK7"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Lof",
+      "url": "https://open.spotify.com/track/7iZjgjjgGzvtLneThjDLto"
     },
     {
       "album": {
@@ -31048,7 +31174,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172985,
       "name": "Nagmerries (Bye Bye Baby)",
       "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
@@ -36448,7 +36574,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 210389,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/1xqkwdlR9Qvzy2Bw8vlMEr"
@@ -36738,6 +36864,24 @@
       "duration_ms": 202914,
       "name": "Reis van 'n Musikant",
       "url": "https://open.spotify.com/track/1QpSugTEtYXiUuQGSgQ6wm"
+    },
+    {
+      "album": {
+        "name": "Reisiger Na M\u00f4re",
+        "url": "https://open.spotify.com/album/1v6t98XSD2lNPgPZ3Bt82F"
+      },
+      "artists": [
+        {
+          "name": "Stephan Visagie",
+          "url": "https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237634,
+      "name": "Reisiger Na M\u00f4re",
+      "url": "https://open.spotify.com/track/2yDZvbmFnjZ378wFAlJXlI"
     },
     {
       "album": {
@@ -42360,6 +42504,24 @@
     {
       "album": {
         "name": "Sterreval",
+        "url": "https://open.spotify.com/album/7c0meER1ikPBvOwsRHmXOe"
+      },
+      "artists": [
+        {
+          "name": "HKJK",
+          "url": "https://open.spotify.com/artist/2BPNIvdjCfa4kWT1PjDfW2"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Sterreval",
+      "url": "https://open.spotify.com/track/5IZGH7s6nLswLakJ1QTPz5"
+    },
+    {
+      "album": {
+        "name": "Sterreval",
         "url": "https://open.spotify.com/album/1yGzH2bIEChjXMqZnBUuvI"
       },
       "artists": [
@@ -43232,7 +43394,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 131935,
       "name": "Swaar",
       "url": "https://open.spotify.com/track/2S2WUQg0Mp3kRwToM57JLM"
@@ -48861,6 +49023,24 @@
     },
     {
       "album": {
+        "name": "V\u00ear Vry",
+        "url": "https://open.spotify.com/album/6ZrczvEkjbEiMnqsaN6mN0"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178917,
+      "name": "V\u00ear Vry",
+      "url": "https://open.spotify.com/track/5KlNsoimisEqoxlOMLZ7jb"
+    },
+    {
+      "album": {
         "name": "V\u00ear Weg",
         "url": "https://open.spotify.com/album/2ViyWe6vj0FnDkNzP8gX2d"
       },
@@ -48952,6 +49132,28 @@
       "duration_ms": 223546,
       "name": "Waar Gaan Ons Dans Vanaand?",
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
+    },
+    {
+      "album": {
+        "name": "Waar Hy Regeer",
+        "url": "https://open.spotify.com/album/13Zgq6CpMUXpMGJhUH5QGz"
+      },
+      "artists": [
+        {
+          "name": "Nuwe Lof",
+          "url": "https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET"
+        },
+        {
+          "name": "Louis Brittz",
+          "url": "https://open.spotify.com/artist/6gdCTUwpSkeQ7xBvOHEnTF"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Waar Hy Regeer",
+      "url": "https://open.spotify.com/track/77ZhNpDMwHRq3CgHE3GghE"
     },
     {
       "album": {
@@ -49712,6 +49914,24 @@
       "duration_ms": 183640,
       "name": "Water",
       "url": "https://open.spotify.com/track/4oqpUT136KXHKtGeyL7UWz"
+    },
+    {
+      "album": {
+        "name": "Water In My Hande",
+        "url": "https://open.spotify.com/album/1DOyrkXdf3dGCcnNxF8M5K"
+      },
+      "artists": [
+        {
+          "name": "Louis van Lill",
+          "url": "https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Water In My Hande",
+      "url": "https://open.spotify.com/track/3ndUJycYjekYZOP3klM4WH"
     },
     {
       "album": {

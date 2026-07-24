@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> LEO2745 entra na zona.
+> Waze entra na zona.
 
-1,047 songs - 2 day 7 hr 11 min
+1,049 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 | 2023-07-17 |
 | [Drill Clássico](https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:24 | 2023-07-06 | 2023-07-14 |
 | [Drunk in Love](https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Drunk in Love](https://open.spotify.com/album/69P2QzizEduJz9I5GQhmvB) | 2:44 | 2023-06-01 | 2023-07-07 |
-| [Dá Ou Não Dá](https://open.spotify.com/track/1raTDevZ0qoQddaSVphDUX) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5), [Dekor](https://open.spotify.com/artist/5rT0GUFrcQnqyosutpnfa4), [SAMSACION](https://open.spotify.com/artist/2O0bb83YNpR6g3CUk694pf) | [Dá Ou Não Dá](https://open.spotify.com/album/1T8GLl5khAnmcqFN1zX1R4) | 3:13 | 2026-07-02 |  |
+| [Dá Ou Não Dá](https://open.spotify.com/track/1raTDevZ0qoQddaSVphDUX) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5), [Dekor](https://open.spotify.com/artist/5rT0GUFrcQnqyosutpnfa4), [SAMSACION](https://open.spotify.com/artist/2O0bb83YNpR6g3CUk694pf) | [Dá Ou Não Dá](https://open.spotify.com/album/1T8GLl5khAnmcqFN1zX1R4) | 3:13 | 2026-07-02 | 2026-07-24 |
 | [Dá\-Me Vida](https://open.spotify.com/track/4CA2Ly0P9c7WcmMZgZEY05) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Dá\-Me Vida](https://open.spotify.com/album/0oDZJi1VHzJKXugWQKJ2Vg) | 2:50 | 2025-03-21 | 2025-10-17 |
 | [Dádiva](https://open.spotify.com/track/2SXJrnha0vFakr4eNlDM85) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Midas](https://open.spotify.com/artist/1so0cEsQMRr2pdTMdrLfRh) | [Dádiva](https://open.spotify.com/album/75ybVxYcuBAlsWkUXwHpuE) | 5:52 | 2024-06-20 | 2024-10-04 |
 | [E\-mo](https://open.spotify.com/track/29z7EQ6AKHcWFm2UTZQ27j) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [E\-mo](https://open.spotify.com/album/6u2I1k4ZP6WoE2vc8pV8XK) | 2:19 | 2024-03-15 | 2024-04-05 |
@@ -473,6 +473,7 @@
 | [Inveja](https://open.spotify.com/track/0IQii4lHVHPkFwh9UbR6Jv) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Inveja](https://open.spotify.com/album/35eFQ1whgIJXC4NsBwYrem) | 2:32 | 2024-06-20 | 2024-07-19 |
 | [Inércia](https://open.spotify.com/track/3mXJ9Nkm6IrCXQcZbniVsA) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Hubris](https://open.spotify.com/album/4pr4vezbi9qKK6qPYTtMQY) | 2:33 | 2024-05-09 | 2024-06-01 |
 | [Início e Final \(feat\. Julinho Ksd\)](https://open.spotify.com/track/4tAJ2hAOKnxTwE8dMS6YMG) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Saudade](https://open.spotify.com/album/6kFSyIhrIMYBOCPV2jy0ij) | 3:08 | 2026-02-20 |  |
+| [Ipanema](https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ipanema](https://open.spotify.com/album/2IqWfktBGpArfSn2uKSmbo) | 2:27 | 2026-07-23 |  |
 | [Ipanema](https://open.spotify.com/track/3Kzdn3Y5HcnYDRdgChsqKz) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Lista dos Não Convocados \(Mixtape\)](https://open.spotify.com/album/0WxDcCImbaX1qups97EjxW) | 2:11 | 2025-05-08 | 2025-05-16 |
 | [Jackpot](https://open.spotify.com/track/2ATBdjH7OgwAryeowwlIXD) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Jackpot](https://open.spotify.com/album/2gmSUUVVnnsaZE6fK3Cmdq) | 2:38 | 2026-01-23 | 2026-04-03 |
 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 | 2023-05-08 | 2023-09-15 |
@@ -549,7 +550,7 @@
 | [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 | 2024-10-24 | 2025-03-07 |
 | [Mais Uma Vez](https://open.spotify.com/track/3Oql2mB8DEtzzuAVFFPpHG) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Mais Uma Vez](https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S) | 2:39 | 2023-04-20 | 2023-05-12 |
 | [Making Teenage Ana Proud](https://open.spotify.com/track/6APamWCI17P6DCvRbsdsNp) | [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Making Teenage Ana Proud](https://open.spotify.com/album/3tSuV8iy7X0DgZqDKvhUCp) | 3:39 | 2025-01-31 | 2025-03-21 |
-| [MAL ME QUERES](https://open.spotify.com/track/6C0sd3cdzCkKv8nYEeT1M1) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Linne Manuel](https://open.spotify.com/artist/16KjpnTgw4z552Y5BPk13t) | [MAL ME QUERES](https://open.spotify.com/album/7modVapi5c7PCiwHJ5btMV) | 2:50 | 2026-06-25 |  |
+| [MAL ME QUERES](https://open.spotify.com/track/6C0sd3cdzCkKv8nYEeT1M1) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Linne Manuel](https://open.spotify.com/artist/16KjpnTgw4z552Y5BPk13t) | [MAL ME QUERES](https://open.spotify.com/album/7modVapi5c7PCiwHJ5btMV) | 2:50 | 2026-06-25 | 2026-07-24 |
 | [Malandrim](https://open.spotify.com/track/4Pc8Fpa27F6vnsNYzB66JV) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Malandrim](https://open.spotify.com/album/229HssbYq8BVOjaY4Q0zbQ) | 2:05 | 2026-04-02 | 2026-05-15 |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-07-16 | 2022-12-09 |
 | [Malas à Porta](https://open.spotify.com/track/66uX05DX59Pd42iErfbWi8) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Menino da Mamã](https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN) | 3:15 | 2025-05-08 | 2025-05-16 |
@@ -891,6 +892,7 @@
 | [Socorro](https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x) | [SPLIFF](https://open.spotify.com/artist/2QPRzhivMb2TfzvZKpQYxL) | [Socorro](https://open.spotify.com/album/2ocGkF8NiDKjMfywGOqtzH) | 3:00 | 2023-01-06 | 2023-03-18 |
 | [Soldado](https://open.spotify.com/track/0kWKNkmze0jZkoQP7aJzBq) | [TILT](https://open.spotify.com/artist/0hwVPv88JiUJKVZFr494rF), [Rivolean](https://open.spotify.com/artist/2s4oCdNJLWQAa2ms6jPmFE), [Catalão](https://open.spotify.com/artist/1J9EfDZbZ0yX2OXwod1qAb) | [Soldado](https://open.spotify.com/album/2t7oZYYYjGFzndVujFuqFy) | 2:50 | 2025-07-03 | 2025-08-08 |
 | [SOLDIER](https://open.spotify.com/track/3oosIm7TgiF3eAIcLu577u) | [Djonivelli](https://open.spotify.com/artist/0Dk2l3Xd28NBRw5pzsFBwo), [Thugg Black Panther's](https://open.spotify.com/artist/5ZpCm0yyuznxb5gNpjqlaq) | [PROMESSA](https://open.spotify.com/album/7DfYP4OUFkSD5KQ27px34Q) | 5:16 | 2024-11-15 | 2024-11-22 |
+| [Solo](https://open.spotify.com/track/3oSFBYprT99o3jznOLEaea) | [Gohu G](https://open.spotify.com/artist/4UV8zcyA6TvL6dJOWbqSjW) | [Solo](https://open.spotify.com/album/1T0JyeBnv2ZlSZz13plNm0) | 3:20 | 2026-07-23 |  |
 | [Solo](https://open.spotify.com/track/5JXo6j3iwoU7O7LzYNkXl5) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Solo](https://open.spotify.com/album/4AIbDc2dSwBuS2FWefT7CK) | 3:39 | 2023-08-03 | 2023-08-25 |
 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-12 | 2025-10-10 |
 | [Somos de Viseu](https://open.spotify.com/track/6q9CXfRlW4rLIwTUXMzpid) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Somos de Viseu](https://open.spotify.com/album/0gbLknufrvGMXy6PfRzG5o) | 4:56 | 2025-09-04 | 2025-09-26 |

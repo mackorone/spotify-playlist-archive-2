@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3637,
+  "num_followers": 3641,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAADeY6asPbg7gSariAyBFaf+",
+  "snapshot_id": "amAIAAAAAAAQdidZeBIhfmyYNXQmF7/b",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Brother Bleed Brother",
-      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
+      "duration_ms": 208933,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt"
+      "duration_ms": 221493,
+      "name": "Brother Bleed Brother",
+      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
     },
     {
       "added_at": null,

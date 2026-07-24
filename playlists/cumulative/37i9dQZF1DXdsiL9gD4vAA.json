@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Apni Uljhan (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/4Ef6x5BoSQaCJEr5AHMMNt"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244900,
+      "name": "Apni Uljhan (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/0SLWCkL2Fh4DPi8C16Unuk"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 332413,
       "name": "Bekhauf Mohabbat (Irshad - Mehfilz with Papon) (From The Living Room)",
       "url": "https://open.spotify.com/track/1Hnj9t9qDKOom0HgI6KyTw"

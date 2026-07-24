@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -4433,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "LLAMASTE",
+        "url": "https://open.spotify.com/album/0G0sWK6wvDkh58vxVabWpR"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156993,
+      "name": "LLAMASTE",
+      "url": "https://open.spotify.com/track/5Hhh7wr6wQciSCE7JTYqZZ"
+    },
+    {
+      "album": {
         "name": "Llueve",
         "url": "https://open.spotify.com/album/7uAJp7HsNUxPGMcGATannU"
       },
@@ -6402,7 +6424,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -6818,6 +6840,24 @@
       "duration_ms": 192241,
       "name": "Rock and Roll y Fiebre",
       "url": "https://open.spotify.com/track/2zAIDVCOhSeiCczhKdsMRq"
+    },
+    {
+      "album": {
+        "name": "La larga risa de todos estos a\u00f1os",
+        "url": "https://open.spotify.com/album/3HLmq1A0Q8tTJDnWVt0Z76"
+      },
+      "artists": [
+        {
+          "name": "Ciruelo",
+          "url": "https://open.spotify.com/artist/5CO9M2qdkLeY8cBAgS1xMf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160505,
+      "name": "Rodeado",
+      "url": "https://open.spotify.com/track/01CsnGzKlqPCLJ7ts8fJa4"
     },
     {
       "album": {
@@ -8042,7 +8082,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -8610,6 +8650,24 @@
       "duration_ms": 162730,
       "name": "virgencitas y malvones",
       "url": "https://open.spotify.com/track/5V5dqTQtapomD5099t59DB"
+    },
+    {
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/3Ww8NI1z2UMIRlKZYfKaWi"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Bossa",
+          "url": "https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213955,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/2ZbSkyQjJZ7QfsIF5GmjUp"
     },
     {
       "album": {

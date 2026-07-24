@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,432 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,431 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 59 | [Break Free](https://open.spotify.com/track/2m6o0hs9LBk20Ovk9cXr7O) | [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [AnnicK](https://open.spotify.com/artist/2J8TklMXojpcXK0PsN9sU6), [Makenzie Reilly](https://open.spotify.com/artist/5rQtVRhOSnWFV4DeCL9wTt) | [Break Free](https://open.spotify.com/album/5CREgTUviYjs54H73Z7kBW) | 3:09 |
 | 60 | [Supermodel](https://open.spotify.com/track/6zGKl7phaGPsLPBFx0XpFr) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Jay Rhydon](https://open.spotify.com/artist/6rnzVLf7xpyCsp7saQoZfl) | [Supermodel](https://open.spotify.com/album/2Ocfhe9OeOHmKnKz8Csrj8) | 2:25 |
 | 61 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
-| 62 | [Mad World](https://open.spotify.com/track/6Jv74dhllfp9UstM1tIvsG) | [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Matt Wolff](https://open.spotify.com/artist/0XjZxkCYH0OwbcqA5q8jrb) | [Mad World](https://open.spotify.com/album/1tR1ZP7GSXGHRSzd4Gisjv) | 2:37 |
+| 62 | [Mad World](https://open.spotify.com/track/6Jv74dhllfp9UstM1tIvsG) | [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA) | [Mad World](https://open.spotify.com/album/1tR1ZP7GSXGHRSzd4Gisjv) | 2:37 |
 | 63 | [Where Are You Now](https://open.spotify.com/track/0bYt5aaZaYNkMfFY9Snuvh) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [ATHYN](https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Where Are You Now](https://open.spotify.com/album/2vjInkXjr0RfsIvmkc1wXZ) | 2:05 |
 | 64 | [Say It Right](https://open.spotify.com/track/2bPtOhVdI2FHM6yQXjqZBR) | [MØRFI](https://open.spotify.com/artist/2HVE2wrkIHJF8af1iWqEV1), [Lost Culturé](https://open.spotify.com/artist/6MIOdw9jcsp7hFj0c4tr2z), [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi) | [Say It Right](https://open.spotify.com/album/5iGg9duURGziHOF0EfhMy0) | 2:09 |
 | 65 | [Can't Get You Out of My Head](https://open.spotify.com/track/0SNWtEK9hCz0XvzNBO7OM1) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Can't Get You Out of My Head](https://open.spotify.com/album/71b5hr6vqAR2L0bumE7kqx) | 2:48 |

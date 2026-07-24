@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,746 likes - 274 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,783 likes - 274 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 20 | [Champagne & Lace](https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Champagne & Lace](https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd) | 2:38 |
 | 21 | [Summer Haze](https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Summer Haze](https://open.spotify.com/album/6xAWyKJaOEVBOSvwdxbrR4) | 2:53 |
 | 22 | [Body](https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [DUMBCRAZYSTUPID \(Deluxe\)](https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N) | 2:42 |
-| 23 | [the truth at a distance FEAT NALI & HAWA](https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Nali](https://open.spotify.com/artist/6u24LC3ZC40gAEPS2IwURV), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY \(DELUXE\)](https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7) | 3:26 |
+| 23 | [the truth at a distance FEAT NALI & HAWA](https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY \(DELUXE\)](https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7) | 3:26 |
 | 24 | [confession](https://open.spotify.com/track/6O0KhfDZmrkePwVaBQUJWJ) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [why do women jump in the fire?](https://open.spotify.com/album/0HfDoLjRzuOQIRboQn2FWA) | 3:16 |
 | 25 | [One and Only](https://open.spotify.com/track/45IRYEZMFqtVd0is46rt4I) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [One and Only](https://open.spotify.com/album/5malitOgcvKXJWcPYWQCSU) | 3:22 |
 | 26 | [How Lonely Is Lonely](https://open.spotify.com/track/0ipPxQli8g2b74QzP9xmWf) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [How Lonely Is Lonely](https://open.spotify.com/album/1JYVvcW8sdGBzgEOpyGUnr) | 3:30 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 73 | [DOOM](https://open.spotify.com/track/6LDQJ8UkVZ0yFLTlKx97nO) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [DOOM](https://open.spotify.com/album/15nhKIauvPO7H84gOgL4WP) | 1:37 |
 | 74 | [borderline](https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [borderline](https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U) | 4:24 |
 | 75 | [Date Night](https://open.spotify.com/track/79DMm9LTaaPvBh5p3sIjWx) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Lucky Me](https://open.spotify.com/album/7iWh8pkPqZknJm7F7uAQdo) | 2:23 |
-| 76 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
+| 76 | [Don't Cry](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 | 77 | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/track/4ZNfNWylpQtGsq3ALDUlnm) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [On Your Time \(Hold You Like It's Ice Cold\)](https://open.spotify.com/album/3xD5u6AttDKey4PXrfKm9i) | 4:30 |
 | 78 | [Second Second Chances](https://open.spotify.com/track/6trXX4JeO8tQh0dFO3Hg7t) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [Second Second Chances](https://open.spotify.com/album/1cgNMFzvnQ8FQZPYe4FIE8) | 3:06 |
 | 79 | [Feedback](https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Little Us](https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4) | 3:04 |

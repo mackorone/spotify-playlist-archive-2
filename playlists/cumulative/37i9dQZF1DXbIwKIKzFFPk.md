@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-122 songs - 7 hr 23 min
+123 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [HARUKAZE](https://open.spotify.com/track/3JmGjD1CvAlGHCRNaIvxzu) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [HARUKAZE\[初回盤B\]](https://open.spotify.com/album/7IBREg7fthhMXXgN1H5x9e) | 4:38 | 2022-10-06 |  |
 | [here to stay](https://open.spotify.com/track/1wlXoXzUuwQP67zATlqt4E) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 3:00 | 2022-10-06 |  |
 | [He’ll die for our sins](https://open.spotify.com/track/6sC6SU3uD3kHgfzQLN5pte) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅱ](https://open.spotify.com/album/0eMaCDvnsIpDKiEQ9KK2wv) | 4:04 | 2025-04-08 | 2025-07-23 |
+| [I\-BULL \- iburu](https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL \- iburu \- BLEACH: Thousand\-Year Blood War \- The Calamity](https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM) | 4:00 | 2026-07-24 |  |
 | [Into The Fire](https://open.spotify.com/track/10xPIeghCJh727kuIF9r0L) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:38 | 2022-10-06 | 2022-12-14 |
 | [invasion](https://open.spotify.com/track/5oI2M93Zr2TcFGqIyFuLJ1) | [ostbaby](https://open.spotify.com/artist/0OVFU89aj88ofzPqOeBwm2) | [ost vol 1](https://open.spotify.com/album/2Z4MhctNcFHwacDmWTzj9V) | 2:51 | 2022-10-06 | 2022-10-08 |
 | [Invasion](https://open.spotify.com/track/2tnd8PSXUGwoVX5WY2SU1B) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 2:50 | 2022-10-07 |  |

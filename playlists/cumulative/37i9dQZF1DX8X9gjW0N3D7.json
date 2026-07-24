@@ -7973,6 +7973,24 @@
     },
     {
       "album": {
+        "name": "Revenir",
+        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156079,
+      "name": "Revenir",
+      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
+    },
+    {
+      "album": {
         "name": "Rien ne m'\u00e9tonne",
         "url": "https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv"
       },
@@ -8186,7 +8204,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 217879,
       "name": "R\u00eave am\u00e9ricain",
       "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"

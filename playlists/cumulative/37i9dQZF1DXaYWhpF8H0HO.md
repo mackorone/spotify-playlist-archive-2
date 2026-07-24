@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Jordan Susanto
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  RACH?, idom
 
-674 songs - 1 day 15 hr 31 min
+679 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Butterfly](https://open.spotify.com/track/7tXWqfgpbnPBAaR58shTn6) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Butterfly](https://open.spotify.com/album/7fUaYVubaNeP8Vxis6yBBy) | 3:05 | 2025-04-24 | 2025-06-13 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2025-01-24 |
 | [Buzzin](https://open.spotify.com/track/2zbNNWI53q6yRi6jdYfwX1) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Caramelting](https://open.spotify.com/album/3UmgYlwjVpYAHTWL7pHUCj) | 3:14 | 2026-04-09 | 2026-05-31 |
+| [Call It Love](https://open.spotify.com/track/6JYvZvvdq8SbZUdtZyBur2) | [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [Call It Love](https://open.spotify.com/album/7HzZ1plRLt2ZE5w1sYdteR) | 3:40 | 2026-07-23 |  |
 | [Call Me](https://open.spotify.com/track/3TGZXTdMvVmZcKBEOwz6mh) | [Owwie](https://open.spotify.com/artist/2wKVIIT00EhTd9ncgdMPW7) | [Call Me](https://open.spotify.com/album/5g6dStSGK2J2trVNvfcBqz) | 3:00 | 2024-06-27 | 2024-09-06 |
 | [CALL ME ON DRUGS](https://open.spotify.com/track/2yCOKtAURfxaL5WuKoEYO5) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [CALL ME ON DRUGS](https://open.spotify.com/album/2AWtAZMn18hA1XvzBxTfwZ) | 2:36 | 2025-01-30 | 2025-04-25 |
 | [Camel](https://open.spotify.com/track/6JD9Pgo0GPnZIMpREWunb1) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [Camel](https://open.spotify.com/album/5U5FVJ2SjMVDEcQXG4WwfA) | 3:22 | 2026-04-16 | 2026-05-31 |
@@ -181,6 +182,7 @@
 | [Earth](https://open.spotify.com/track/5TJaOJzAaDaVIiRJerkNhu) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Souliberation](https://open.spotify.com/album/135FmGg8eHaj8DBl5DHWjc) | 4:13 | 2025-08-08 | 2025-12-06 |
 | [Eclipse](https://open.spotify.com/track/5usRVw5zljXzcSXXHiblgr) | [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [Eclipse \(Studio\)](https://open.spotify.com/album/1kuQDPMI9O8iQf5SamSM5d) | 2:50 | 2025-11-06 | 2026-02-13 |
 | [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 | 2025-09-11 | 2025-12-06 |
+| [Emotional](https://open.spotify.com/track/0iZr4VsajY8fcp1H5vCE2y) | [DANE](https://open.spotify.com/artist/5dPtZlg7D3XGCrmaGmqY63) | [Emotional](https://open.spotify.com/album/1t1cDTh8F0FGlwxPtPrgkA) | 3:23 | 2026-07-23 |  |
 | [Empty.](https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Empty.](https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn) | 3:54 | 2025-11-28 | 2026-04-24 |
 | [END GREAT WARS](https://open.spotify.com/track/2OvgEODTlx5Lo5MV3t1DLz) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [END GREAT WARS](https://open.spotify.com/album/5q6CFKP94gunMormuC1ADy) | 4:31 | 2026-04-09 |  |
 | [Ends With Holding You](https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Ends With Holding You](https://open.spotify.com/album/0vMrWcXjNwvuCpKQiTTx2O) | 3:12 | 2025-12-11 | 2026-04-10 |
@@ -191,6 +193,7 @@
 | [Everyday In Love](https://open.spotify.com/track/3rPRI5eW9ypP4Lghe9iq7Z) | [SAÈ](https://open.spotify.com/artist/1HtIXiM6wEmcQQ3K7IM2BO) | [Everyday In Love](https://open.spotify.com/album/0SWLkZ2hvi66HTbjcQ6uMo) | 3:24 | 2025-07-10 | 2025-08-29 |
 | [Everything](https://open.spotify.com/track/52Mn4DYE32LNrHnHp9dWSE) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw) | [Everything](https://open.spotify.com/album/2DG74M1TvezzaglnsunUau) | 5:15 | 2025-10-23 | 2026-04-24 |
 | [Everything You Do](https://open.spotify.com/track/27CVbET14b05MftdN4j9kG) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Everything You Do](https://open.spotify.com/album/3l4vWe5jklk2yyILb7VU17) | 4:00 | 2025-01-17 | 2025-09-30 |
+| [EVERYTHING'S ABOUT YOU \(RIGHT?\)](https://open.spotify.com/track/4ZaMY3hfAKWQcqbCxxCIg2) | [Bara Dita](https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I) | [EVERYTHING'S ABOUT YOU \(RIGHT?\)](https://open.spotify.com/album/5MP4ywJYfDVvwTRo82TeTX) | 3:34 | 2026-07-23 |  |
 | [Everywhere I Go](https://open.spotify.com/track/54pOjg9ZcVQ9P3kpfTROcX) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv) | [Everywhere I Go](https://open.spotify.com/album/1nYijA8RVjYS58U1P0mSkU) | 3:52 | 2026-06-11 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [FACE CARD](https://open.spotify.com/track/3eA5suAsHBAjwtsjcNCNmA) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FACE CARD](https://open.spotify.com/album/5MtHZ2HiS8NoqhqD1x4JMe) | 4:43 | 2026-07-16 |  |
@@ -254,6 +257,7 @@
 | [Good Enough](https://open.spotify.com/track/3IVgjVRh8yWqIa1gLJ63MB) | [Dianya](https://open.spotify.com/artist/3NGC4lgVGHmuygxsUevckF) | [Not 21 Anymore](https://open.spotify.com/album/0XXq3IzO0k73sqxjggNaeJ) | 2:28 | 2026-01-22 | 2026-04-24 |
 | [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-26 | 2025-08-08 |
 | [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 | 2025-11-13 | 2026-04-10 |
+| [Got Me Like](https://open.spotify.com/track/5atizzSIWt1JCLmduS662p) | [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [Got Me Like](https://open.spotify.com/album/5O3xEG8cPVGl4jNMa8ZbrP) | 1:56 | 2026-07-23 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 | 2024-09-27 |
 | [GP5](https://open.spotify.com/track/6NQ3prsIYwHWpp0JXvZiQH) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [GP5](https://open.spotify.com/album/7Ab5uQR4vYCqw0CpoFc4W3) | 2:28 | 2024-10-03 | 2025-01-18 |
 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 | 2024-07-25 | 2024-09-06 |
@@ -344,6 +348,7 @@
 | [Just You](https://open.spotify.com/track/4T96Q59QUuTiRrzoRdZWqE) | [El merry](https://open.spotify.com/artist/3KbgXfkhIm2fGHjpE0HZCh) | [Just You](https://open.spotify.com/album/6bKQ9baanwliyMi9K2xG5H) | 3:06 | 2025-07-18 | 2025-10-17 |
 | [KIDDIN'](https://open.spotify.com/track/0BQEXEBuN6i872rhcnDQXX) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [KIDDIN'](https://open.spotify.com/album/3ErAhv46wywsXuQvQzN8cH) | 3:00 | 2024-12-12 | 2025-04-25 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-10 | 2025-10-04 |
+| [Knotted](https://open.spotify.com/track/2DGZULs74rBW0e2XFvtNvt) | [MADMAX](https://open.spotify.com/artist/2dJkvsD6SzhCitP5IEwP9s) | [Neither The Same](https://open.spotify.com/album/2lJ0sggMvU1y9J2BTJTYRW) | 4:11 | 2026-07-23 |  |
 | [Knowing I Can Kill Myself Tonight](https://open.spotify.com/track/1W3YgUBLAmijNnmGfEgh3U) | [The Saudade Tapes](https://open.spotify.com/artist/45aRCSjyC9GFeBcXqSd518) | [This Is My Suicide Note](https://open.spotify.com/album/0U52OugzpIQdgSbS159X1Y) | 2:13 | 2026-04-02 | 2026-04-08 |
 | [kYuUt](https://open.spotify.com/track/4FoUJVHvGqapfo1Tl7DUHQ) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [kYuUt](https://open.spotify.com/album/2a7QJ46tBN20XEaRqpd7NU) | 2:30 | 2026-02-26 | 2026-05-31 |
 | [L.A.T.E](https://open.spotify.com/track/7khGfl0yp52y7RMlFmp1OA) | [Tamima](https://open.spotify.com/artist/5tOzsSVDNJLfTOCKz1rptf), [Ari Pramundito](https://open.spotify.com/artist/5yOnMxwH74WVk8dP5dlQjz) | [L.A.T.E](https://open.spotify.com/album/6dJQbouCzW1lw3tY2CWb1D) | 3:53 | 2025-02-28 | 2025-04-25 |

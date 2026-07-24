@@ -1,13 +1,61 @@
 {
   "description": "The official music from the Battlefield franchise",
-  "num_followers": 22463,
+  "num_followers": 22518,
   "original_name": "Battlefield Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJio/9bXWZAI9BG8fo+Zg+jlHiU",
+  "snapshot_id": "AAAAANXIfuca68tg8nbXgwVUMnJZ7lRa",
   "tracks": [
+    {
+      "added_at": "2026-07-23 20:30:44",
+      "album": {
+        "name": "Himalayan (Remastered 2024)",
+        "url": "https://open.spotify.com/album/5CvcBUPiu16gDqrY1rnvvr"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Asleep at the Wheel - Remastered 2024",
+      "url": "https://open.spotify.com/track/11GNdEEuDtGyXYMKtZVt8h"
+    },
+    {
+      "added_at": "2026-07-23 20:30:44",
+      "album": {
+        "name": "Phosphene Dream",
+        "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
+      },
+      "artists": [
+        {
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Entrance Song",
+      "url": "https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt"
+    },
+    {
+      "added_at": "2026-07-23 20:30:44",
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
+    },
     {
       "added_at": "2026-02-18 19:48:39",
       "album": {

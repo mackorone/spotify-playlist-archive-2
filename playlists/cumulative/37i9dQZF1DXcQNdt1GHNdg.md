@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Cheema Y & more!
 
-353 songs - 16 hr 53 min
+354 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [201](https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Kamm](https://open.spotify.com/artist/2Hwm56KbsXBLJWZF88kqBg), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [201](https://open.spotify.com/album/0k6DgqXoQCEdsjKE7oAwsU) | 2:28 | 2026-06-19 | 2026-07-11 |
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2025-08-04 | 2025-09-27 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-07-18 | 2024-11-29 |
-| [2NAALI](https://open.spotify.com/track/372uAux81ur68W4hV1YFIO) | [LXMBERH](https://open.spotify.com/artist/2l5MD2vRSu1O5UfEHWs9AX), [Zealo](https://open.spotify.com/artist/6ExvbG6BYbkFG4dp57ea6k) | [2NAALI](https://open.spotify.com/album/1qmCEQP9So6urohVLBehkL) | 2:50 | 2026-07-10 |  |
+| [2NAALI](https://open.spotify.com/track/372uAux81ur68W4hV1YFIO) | [LXMBERH](https://open.spotify.com/artist/2l5MD2vRSu1O5UfEHWs9AX), [Zealo](https://open.spotify.com/artist/6ExvbG6BYbkFG4dp57ea6k) | [2NAALI](https://open.spotify.com/album/1qmCEQP9So6urohVLBehkL) | 2:50 | 2026-07-10 | 2026-07-24 |
 | [3 THINGS](https://open.spotify.com/track/2uQZlieZO9UBpveWZJxHsC) | [Naveed Akhtar](https://open.spotify.com/artist/6WHSjjU2PxEizqDfyAsq6R) | [3 THINGS](https://open.spotify.com/album/0IsezcOoN1KzzIroVajxil) | 2:26 | 2025-01-09 | 2025-01-21 |
 | [3,13](https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [3,13](https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12) | 2:57 | 2025-04-04 |  |
 | [315](https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Deep Harry](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK) | [315](https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG) | 3:15 | 2024-09-16 | 2024-11-05 |
@@ -204,6 +204,7 @@
 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 | 2025-11-05 | 2025-11-20 |
 | [Kdo'n Nachana](https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:08 | 2024-12-03 | 2025-01-17 |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |
+| [Kehnde Kahaunde](https://open.spotify.com/track/5IJxi90YOM3suyzVXH2ywL) | [Surjit Khan](https://open.spotify.com/artist/2NCZYytsjPe7RsYwCblxyl) | [Kehnde Kahaunde](https://open.spotify.com/album/0hRhdn8zZNk9VtwBFeIQFi) | 2:30 | 2026-07-23 |  |
 | [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 | 2024-06-03 | 2025-06-17 |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-06 | 2024-12-04 |
 | [KI HAAL AA](https://open.spotify.com/track/6pO0mc6cJ4WucFd84PoJ5z) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [KI HAAL AA](https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J) | 2:35 | 2025-10-24 | 2025-11-07 |

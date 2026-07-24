@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/6PBXOmqNkHbteufaKRT3eC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196699,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1tb2V6FcpHV8CmP9lu7Tij"
+    },
+    {
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176506,
       "name": "Fire\u2019t Up",
       "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"

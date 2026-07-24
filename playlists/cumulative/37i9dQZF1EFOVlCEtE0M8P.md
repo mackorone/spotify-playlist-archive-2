@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-349 songs - 20 hr 13 min
+350 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Ciao Adios](https://open.spotify.com/track/3EfugazgSddQvzZpkof5I4) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Ciao Adios](https://open.spotify.com/album/7BaS787qIlgKTMOFR2e91E) | 3:20 | 2025-08-18 | 2025-08-21 |
 | [Clouds \(Song for John\)](https://open.spotify.com/track/7l08XZdspWcHUxwnf4MfMC) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 2:31 | 2024-03-07 |  |
 | [Coasting](https://open.spotify.com/track/6sRQV4jXtujLq4Sh3KnnzA) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:24 | 2026-01-18 |  |
+| [Cold](https://open.spotify.com/track/4y8GmSvRn26bR7TTp4qhWW) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Cold](https://open.spotify.com/album/0yvtMW364oSGkhwOWIGDzm) | 4:31 | 2026-07-23 |  |
 | [Comedown](https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:38 | 2024-12-20 |  |
 | [Common Decency](https://open.spotify.com/track/18G247pWqTuxmHbeSImB6T) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 4:03 | 2025-11-28 |  |
 | [Congratulations!](https://open.spotify.com/track/4sh8nLEnd6aYpPiNTOWqFH) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:09 | 2025-08-05 |  |

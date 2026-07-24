@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 136000,
       "name": "100 MILLION (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0"
+      },
+      "artists": [
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139856,
+      "name": "CHASE",
+      "url": "https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv"
+    },
+    {
+      "album": {
         "name": "Cold Wallet (feat. Reminisce) [Remix]",
         "url": "https://open.spotify.com/album/3LZbBfwvQz6UK8h1Dnu0vG"
       },
@@ -704,6 +726,28 @@
       "duration_ms": 139574,
       "name": "Drip Check",
       "url": "https://open.spotify.com/track/2ienTom7OQzZ4Ejfur3QJb"
+    },
+    {
+      "album": {
+        "name": "ECHI",
+        "url": "https://open.spotify.com/album/1iXK5SYXGvCmG3vMVtzhyY"
+      },
+      "artists": [
+        {
+          "name": "Linkup",
+          "url": "https://open.spotify.com/artist/6Zu01J5uK0ZCkIQA3m5neO"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "ECHI",
+      "url": "https://open.spotify.com/track/2kr3ZGQdhiwVRi925dzB1K"
     },
     {
       "album": {
@@ -2720,7 +2764,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 163034,
       "name": "Refund (Part 2)",
       "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"

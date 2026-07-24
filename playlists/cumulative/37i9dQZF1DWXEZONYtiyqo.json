@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Theo Rose",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Alex Velea",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1692,6 +1692,24 @@
       "duration_ms": 128889,
       "name": "Caramela",
       "url": "https://open.spotify.com/track/2rmHmsSXi34pgVJ7YLNblm"
+    },
+    {
+      "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/6gJPRh9u9BeqNIX4XK0X7g"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138709,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/6hEnBl36TIfOCGLSktigTX"
     },
     {
       "album": {
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 180845,
       "name": "Extraterestru",
       "url": "https://open.spotify.com/track/3Um0UasmgNCa0oLlCNqLrS"
@@ -4762,7 +4780,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 201230,
       "name": "In Eternitate",
       "url": "https://open.spotify.com/track/5h6YZAbuEHULZUiuw5TPv5"
@@ -5704,6 +5722,24 @@
       "duration_ms": 166799,
       "name": "L\u00c2NG\u0102 TINE E FAIN",
       "url": "https://open.spotify.com/track/4mNnUpzpOMqBdnew4wbB9x"
+    },
+    {
+      "album": {
+        "name": "L\u00e2ng\u0103 tine vreau s\u0103 stau",
+        "url": "https://open.spotify.com/album/4YkMf714T0ompNF58C13y5"
+      },
+      "artists": [
+        {
+          "name": "ADI Istrate",
+          "url": "https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "L\u00e2ng\u0103 tine vreau s\u0103 stau",
+      "url": "https://open.spotify.com/track/0mTtA7b8Ao2Zksq5NTlTNP"
     },
     {
       "album": {
@@ -6696,6 +6732,24 @@
       "duration_ms": 241702,
       "name": "Nu ma ierta",
       "url": "https://open.spotify.com/track/6XjoykViTGWmZq85yPWOkm"
+    },
+    {
+      "album": {
+        "name": "Nu mai am nume",
+        "url": "https://open.spotify.com/album/0BqFSc46sn4b7UbKyCPijY"
+      },
+      "artists": [
+        {
+          "name": "Alexia",
+          "url": "https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141193,
+      "name": "Nu mai am nume",
+      "url": "https://open.spotify.com/track/7Edj8L7qgwXfaKOPCNnFnn"
     },
     {
       "album": {
@@ -9750,7 +9804,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 144888,
       "name": "Ultima pies\u0103",
       "url": "https://open.spotify.com/track/4dEjwBLsqSSCFiOFULYceF"

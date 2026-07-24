@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm?si=qDrrgDxzRmaX8kBOPHa7MQ">tg.blk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,133 likes - 98 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,156 likes - 98 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 27 | [growing up](https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp) | [seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [growing up](https://open.spotify.com/album/7ysHLnYuy40kbl5j7jCZ4M) | 3:12 |
 | 28 | [Something About Your Love \(Ganja\)](https://open.spotify.com/track/3joOpLP4AYXu3JZNqn3lVy) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Something About Your Love \(Ganja\)](https://open.spotify.com/album/2MHPXShc0577dwkGVefsP1) | 2:58 |
 | 29 | [Para Para](https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Para Para](https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q) | 2:27 |
-| 30 | [Jetski \(FRIKI\)](https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Jetski \(FRIKI\)](https://open.spotify.com/album/1dXZwVsaw9SAYBrCs3QAax) | 2:50 |
+| 30 | [JETSKI \(FRIKI\)](https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [JETSKI \(FRIKI\)](https://open.spotify.com/album/1dXZwVsaw9SAYBrCs3QAax) | 2:50 |
 | 31 | [Consistency](https://open.spotify.com/track/1Dhy1cYiYuKvgLsOgq2zME) | [cosamote](https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY), [Caleb Clay](https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Files '26](https://open.spotify.com/album/209d4zV2zFXAL4206la0VR) | 1:56 |
 | 32 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 33 | [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 |

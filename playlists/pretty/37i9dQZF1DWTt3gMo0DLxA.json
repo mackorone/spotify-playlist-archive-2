@@ -1,18 +1,18 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Lenin",
-  "num_followers": 631061,
+  "num_followers": 631375,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADM//df0Awli84bb5heP8ziRYC0L",
+  "snapshot_id": "AAAAABn+v3tvSjA1xRGOvlsRPvBS5Zzp",
   "tracks": [
     {
-      "added_at": "2026-07-01 07:43:32",
+      "added_at": "2026-07-13 08:27:39",
       "album": {
-        "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
-        "url": "https://open.spotify.com/album/4mdgSaULbXSdgvZ8JTQmuH"
+        "name": "Yetta Yetta (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw"
       },
       "artists": [
         {
@@ -20,21 +20,17 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
         },
         {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
         }
       ],
-      "duration_ms": 190083,
-      "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
-      "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+      "duration_ms": 203138,
+      "name": "Yetta Yetta (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
     },
     {
       "added_at": "2026-07-21 07:20:54",
@@ -179,6 +175,34 @@
       "duration_ms": 222122,
       "name": "Massa Massa (TELUGU)",
       "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
+    },
+    {
+      "added_at": "2026-07-01 07:43:32",
+      "album": {
+        "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/4mdgSaULbXSdgvZ8JTQmuH"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
     },
     {
       "added_at": "2026-07-21 07:20:54",
@@ -347,30 +371,6 @@
       "duration_ms": 243333,
       "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
       "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
-    },
-    {
-      "added_at": "2026-07-13 08:27:39",
-      "album": {
-        "name": "Yetta Yetta (From \"Lenin\")",
-        "url": "https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 203138,
-      "name": "Yetta Yetta (From \"Lenin\")",
-      "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
     },
     {
       "added_at": "2026-07-21 07:20:54",

@@ -2114,6 +2114,10 @@
       },
       "artists": [
         {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
           "name": "Chineke! Orchestra",
           "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
         },
@@ -2124,10 +2128,6 @@
         {
           "name": "Martin Gellner",
           "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
       "date_added": "2026-06-19",

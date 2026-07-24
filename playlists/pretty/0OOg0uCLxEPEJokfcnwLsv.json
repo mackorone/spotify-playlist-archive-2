@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1179,
+  "num_followers": 1181,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGruv5t9Wlz1lvlVs3bmE15HDxbWoJ",
+  "snapshot_id": "AAAGsnNA4hvDCZbXtpPAedjQ+70L84l1",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2211,6 +2211,70 @@
       "duration_ms": 147400,
       "name": "In Between",
       "url": "https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL"
+    },
+    {
+      "added_at": "2026-07-23 22:21:08",
+      "album": {
+        "name": "Balla da solo",
+        "url": "https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Balla da solo",
+      "url": "https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM"
+    },
+    {
+      "added_at": "2026-07-23 22:23:55",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/7walbgh9oEj9ZEzp6BY48s"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "United",
+      "url": "https://open.spotify.com/track/5jatJhTrrKfJRZZCHMM6tT"
+    },
+    {
+      "added_at": "2026-07-23 22:31:27",
+      "album": {
+        "name": "Lights Down",
+        "url": "https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s"
+      },
+      "artists": [
+        {
+          "name": "Baby Richman",
+          "url": "https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Lights Down",
+      "url": "https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg"
+    },
+    {
+      "added_at": "2026-07-23 22:34:11",
+      "album": {
+        "name": "c'mon automaton",
+        "url": "https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g"
+      },
+      "artists": [
+        {
+          "name": "paradiso PDE",
+          "url": "https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "c'mon automaton",
+      "url": "https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf"
     }
   ],
   "unique_name": "Unsigned Rock",

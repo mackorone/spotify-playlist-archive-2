@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 160342,
       "name": "Ciao vicini, mi trasferisco da voi",
       "url": "https://open.spotify.com/track/7ijjc9q1t1UUsBPOTxnZBj"
@@ -2766,6 +2766,28 @@
       "duration_ms": 138475,
       "name": "Estate 2007",
       "url": "https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1"
+    },
+    {
+      "album": {
+        "name": "Messe Sporche",
+        "url": "https://open.spotify.com/album/0T5rlXEcGOiAFZbJeqKAKV"
+      },
+      "artists": [
+        {
+          "name": "Edda",
+          "url": "https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL"
+        },
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162736,
+      "name": "Ezechiele (feat. Lamante)",
+      "url": "https://open.spotify.com/track/1iHDrxi8144dQhHUeyQ76Q"
     },
     {
       "album": {

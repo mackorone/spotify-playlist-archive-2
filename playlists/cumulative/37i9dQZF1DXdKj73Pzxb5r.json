@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Kathleen Ivanka",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Endah N Rhesa",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "A Letter Under the Bed",
+        "url": "https://open.spotify.com/album/0fYhEmu0bClqan7uNZWxS7"
+      },
+      "artists": [
+        {
+          "name": "vanilla party",
+          "url": "https://open.spotify.com/artist/1470A0L5LmvZg4AHnS3xrc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222842,
+      "name": "Don't Look at Me Like That",
+      "url": "https://open.spotify.com/track/0HV4XgpAC7n3xjYkNRZrPh"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
       },
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 208855,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/6hWP8Bt2AaJG6SZgyZ9Vve"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 246086,
       "name": "love lesson no. 1",
       "url": "https://open.spotify.com/track/4g9lDcyGk7dw3y0QtaM6ao"
@@ -6032,6 +6050,24 @@
       "duration_ms": 245176,
       "name": "Menit Tambahan",
       "url": "https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa"
+    },
+    {
+      "album": {
+        "name": "Punar",
+        "url": "https://open.spotify.com/album/56y8mOV8qm0KDDcow0CyOX"
+      },
+      "artists": [
+        {
+          "name": "Parade Hujan",
+          "url": "https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247846,
+      "name": "Menjelajahi Kerinduan",
+      "url": "https://open.spotify.com/track/3tYls6fQpu7i4XoKfPbbyR"
     },
     {
       "album": {
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 192527,
       "name": "Ok Not To Be Ok",
       "url": "https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn"
@@ -8217,6 +8253,32 @@
     },
     {
       "album": {
+        "name": "Selaras (feat. Anak-anak)",
+        "url": "https://open.spotify.com/album/2me9L3mF9C6T2SXabNgLNH"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        },
+        {
+          "name": "Made Mawut",
+          "url": "https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe"
+        },
+        {
+          "name": "Anak-anak",
+          "url": "https://open.spotify.com/artist/4PA9rrzLGrHIAzgdd8lkTw"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152820,
+      "name": "Selaras (feat. Anak-anak)",
+      "url": "https://open.spotify.com/track/1zNppYGgMBlJD8a9R4F9s1"
+    },
+    {
+      "album": {
         "name": "Selayang Serindu",
         "url": "https://open.spotify.com/album/0VVpcMHPvPp5OViZLJGTj0"
       },
@@ -9462,6 +9524,24 @@
       "duration_ms": 261492,
       "name": "Tentang Mimpi Berupa Pelangi",
       "url": "https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN"
+    },
+    {
+      "album": {
+        "name": "Terang Bulan",
+        "url": "https://open.spotify.com/album/0cRrQUuCmCJ4rgfrAHW7Xc"
+      },
+      "artists": [
+        {
+          "name": "Endah N Rhesa",
+          "url": "https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "Terang Bulan",
+      "url": "https://open.spotify.com/track/1V1cJhyveqBGlssgLDcEod"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 46947,
+  "num_followers": 46957,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8LdjH037ZpQ37W3OAnRFGhm55f",
+  "snapshot_id": "AAAAAPYIs76bY4DZxnEkNIEn4Izc8Gl1",
   "tracks": [
+    {
+      "added_at": "2026-07-23 13:15:21",
+      "album": {
+        "name": "Ma Kefak",
+        "url": "https://open.spotify.com/album/0NkZsSbKUydJnap09bmnmj"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 286588,
+      "name": "Ma Kefak",
+      "url": "https://open.spotify.com/track/0KmjnbVZqvUvYoZogXuRge"
+    },
+    {
+      "added_at": "2026-07-23 13:15:21",
+      "album": {
+        "name": "Ezz Nafsak",
+        "url": "https://open.spotify.com/album/7m6TN7eIS8lKa2lddPyrSg"
+      },
+      "artists": [
+        {
+          "name": "Ibraheem Alsultan",
+          "url": "https://open.spotify.com/artist/0wNnbvqku4hrJA8pOufrwA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ezz Nafsak",
+      "url": "https://open.spotify.com/track/1cCgSA48fIllLzhTIxNttm"
+    },
     {
       "added_at": "2026-07-16 12:47:42",
       "album": {

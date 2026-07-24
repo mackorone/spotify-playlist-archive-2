@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat, Arab",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Hawk",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -108,6 +108,32 @@
       "duration_ms": 128571,
       "name": "1111",
       "url": "https://open.spotify.com/track/32IRJRxqNoIN7jN6jl7FgO"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/1tYBcgettNOMqx658UdDyV"
+      },
+      "artists": [
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "DPC",
+          "url": "https://open.spotify.com/artist/2xfRh1ugELbF7WtA6MkSu1"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc"
     },
     {
       "album": {
@@ -1319,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "ANXHELA",
+        "url": "https://open.spotify.com/album/665GKJ3jyGgVlUJyTQcmJr"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "ANXHELA",
+      "url": "https://open.spotify.com/track/5maZ6Ju74CemFZe1hFeu2v"
+    },
+    {
+      "album": {
         "name": "STATUS 2",
         "url": "https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc"
       },
@@ -1558,7 +1602,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 151870,
       "name": "ASSOTOS MANH",
       "url": "https://open.spotify.com/track/63BjRZBr7D1vL0vZq4pcgZ"
@@ -1965,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/6Ncs4SvmRDLrvRnubvVcac"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "BADMAN",
+      "url": "https://open.spotify.com/track/0JolqNNV3ZfbBuSBbPggQe"
+    },
+    {
+      "album": {
         "name": "Baghdad",
         "url": "https://open.spotify.com/album/7khfm8Xx9X3tR91oguiMoq"
       },
@@ -2238,6 +2300,28 @@
       "duration_ms": 180000,
       "name": "BARS ARE BACK",
       "url": "https://open.spotify.com/track/2S4GtshD15cdkk8I1ATdvr"
+    },
+    {
+      "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/04yz3K1vzsvMP05VN7WjoF"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128611,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/4ff2Xlgyc33wNP5a8dITfj"
     },
     {
       "album": {
@@ -3092,7 +3176,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 147000,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/7HEbypIv6QQ0F85r2pAxYs"
@@ -3272,7 +3356,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 130384,
       "name": "CHECKS",
       "url": "https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX"
@@ -3302,6 +3386,28 @@
       "duration_ms": 221134,
       "name": "CHOCO FRESH",
       "url": "https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT"
+    },
+    {
+      "album": {
+        "name": "P.S",
+        "url": "https://open.spotify.com/album/7GXHGIEVtBjAlGVvRZJzCX"
+      },
+      "artists": [
+        {
+          "name": "SOLO",
+          "url": "https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168384,
+      "name": "CHRISTIAN DIOR",
+      "url": "https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB"
     },
     {
       "album": {
@@ -3932,7 +4038,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 161379,
       "name": "DEN GYRNAS",
       "url": "https://open.spotify.com/track/2tOclAPakNTvjFU0cTm0pj"
@@ -4380,7 +4486,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 121846,
       "name": "DOLCE CABBANA",
       "url": "https://open.spotify.com/track/15rlWA5UmAyLKAKvIoXyJi"
@@ -8254,7 +8360,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 124117,
       "name": "KARXARIAS",
       "url": "https://open.spotify.com/track/3bDibXmZnowD6cIpqYUi79"
@@ -8729,6 +8835,28 @@
     },
     {
       "album": {
+        "name": "KSAFNIKA",
+        "url": "https://open.spotify.com/album/4egcDOq33b1URUXIY9w1gd"
+      },
+      "artists": [
+        {
+          "name": "BORAC",
+          "url": "https://open.spotify.com/artist/0GWmVguOlm1wG9ewMP4iBO"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "KSAFNIKA",
+      "url": "https://open.spotify.com/track/4dDkbS4oHEAGPm8xKDErCg"
+    },
+    {
+      "album": {
         "name": "KSANA",
         "url": "https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM"
       },
@@ -8862,6 +8990,24 @@
       "duration_ms": 197317,
       "name": "Kyma",
       "url": "https://open.spotify.com/track/1UMkKliLknRKsLyxdsxnSV"
+    },
+    {
+      "album": {
+        "name": "KYRIAKI FREESTYLE",
+        "url": "https://open.spotify.com/album/0IoY1nlkNWfkao2nJaeIFe"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145019,
+      "name": "KYRIAKI FREESTYLE",
+      "url": "https://open.spotify.com/track/5w17UwOZCdsGMSpyIkqK4W"
     },
     {
       "album": {
@@ -10710,7 +10856,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 115174,
       "name": "MONO GIA MENA",
       "url": "https://open.spotify.com/track/2BZ6019iPEuViSIrjVn4Pt"
@@ -12423,6 +12569,32 @@
     },
     {
       "album": {
+        "name": "Pano Ap' Ti Gi",
+        "url": "https://open.spotify.com/album/0Zkj0Ctvyi5kyAsAXVCbnu"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Desbow",
+          "url": "https://open.spotify.com/artist/2IaqO9UIPrfzj6jO9uZd0C"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "Pano Ap' Ti Gi",
+      "url": "https://open.spotify.com/track/2W3LV1pbvaLxre1TwOrhUN"
+    },
+    {
+      "album": {
         "name": "PANTA IDIOS",
         "url": "https://open.spotify.com/album/6aoLISeMNEGowfYTKvfJFA"
       },
@@ -12746,7 +12918,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 153230,
       "name": "PAYBACK",
       "url": "https://open.spotify.com/track/72HlnO1Do21a4BUK3AAWd8"
@@ -13340,7 +13512,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 135000,
       "name": "POIOS EINAI?",
       "url": "https://open.spotify.com/track/3nbldvhSJd3bNdkhusT4I0"
@@ -13666,7 +13838,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 125217,
       "name": "PROFANWS",
       "url": "https://open.spotify.com/track/2eTl8TsZgqCK4ljG5Yw9gx"
@@ -16227,6 +16399,36 @@
     },
     {
       "album": {
+        "name": "RICH BEFORE DEATH",
+        "url": "https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "TETTEH",
+      "url": "https://open.spotify.com/track/0yOqiWYx9xb1DY4cRrzPX9"
+    },
+    {
+      "album": {
         "name": "Tenacity",
         "url": "https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW"
       },
@@ -16276,6 +16478,36 @@
       "duration_ms": 282115,
       "name": "Tha Ta Katafero",
       "url": "https://open.spotify.com/track/19WDU6ZfYeVNYtm9tL4RkL"
+    },
+    {
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169485,
+      "name": "THALASSA AKRIVI",
+      "url": "https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6"
     },
     {
       "album": {

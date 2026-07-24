@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,551 songs - 10 day 4 hr 9 min
+4,553 songs - 10 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [BYTEs Lazy Girl](https://open.spotify.com/track/22RvycwgQzwIycjln36GkS) | [MrByte.ai](https://open.spotify.com/artist/3UVkDYQAfaK6EeKt6IdG8I) | [BYTE 3 Type](https://open.spotify.com/album/6J8JOGD9w4ZYfGaL73MHDQ) | 2:11 | 2025-07-25 |  |
 | [C'è](https://open.spotify.com/track/04POeIMBaxRtCOMZNhabrD) | [Edoardo Tincani](https://open.spotify.com/artist/76cMAkIwyKyBUx8GbW3qXF) | [C'è](https://open.spotify.com/album/6YdcoNIGNoynDBcLP42Ca1) | 3:08 | 2025-09-24 |  |
 | [C'è vita oltre rockit](https://open.spotify.com/track/2JUuqA7W4FtBPTaPXY0Am2) | [Luminal](https://open.spotify.com/artist/6Lry03gfYi81VJOZu58Dq8) | [Amatoriale Italia](https://open.spotify.com/album/56CWFs6zIO2DJ3xyfjK4J8) | 4:16 | 2025-11-12 |  |
+| [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2026-07-23 |  |
 | [C.Y.R \(Celebrate Your Riches\)](https://open.spotify.com/track/4Xo4AdGrrzrvm0M8iFCcLq) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od), [Nolly B](https://open.spotify.com/artist/4v2EMJGrQA0dMOFBcF6FA6) | [Five Fingers of Life](https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B) | 3:02 | 2025-07-02 |  |
 | [Cadillac](https://open.spotify.com/track/2Bx2y9BOOJsOQl6HMm2DHP) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Cadillac](https://open.spotify.com/album/1rqRib7znfrGefXUJKXf2m) | 3:05 | 2025-07-14 |  |
 | [Cadillac](https://open.spotify.com/track/6ubuiurKi3D1pSnI7EDMtq) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:05 | 2025-10-23 |  |
@@ -987,6 +988,7 @@
 | [Desert Roses \(another\)](https://open.spotify.com/track/7sjRztEYpa53BU8pcSn1Ig) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Flamenco](https://open.spotify.com/album/40K1xsNXWY9D6ojMs744Qf) | 2:55 | 2025-08-29 |  |
 | [Deserto](https://open.spotify.com/track/40BHYO0zbIXbdKyI5WQVWk) | [Anfysia](https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll), [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [Deserto](https://open.spotify.com/album/56uhRS0bQtEncnto4a2URo) | 2:18 | 2025-06-29 |  |
 | [Designer](https://open.spotify.com/track/4ldz2D3Q49bk9ASmANImDZ) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Designer](https://open.spotify.com/album/5MZq4gUcsV0UEgcMqDNUwb) | 1:22 | 2025-07-28 |  |
+| [Desolate](https://open.spotify.com/track/303YZOIjFPc92eth5JaBxg) | [Asylum Road](https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2) | [Desolate](https://open.spotify.com/album/3u3Qf5KG0AFwSLAl7BdKyM) | 3:32 | 2026-07-23 |  |
 | [Destini Incrociati](https://open.spotify.com/track/4t8UxcDhj9Dv2mHKIlKpk9) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Destini Incrociati](https://open.spotify.com/album/1k1k9k4oU0w4HWfl5YsS3d) | 3:43 | 2025-06-24 |  |
 | [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-08-06 |  |
 | [Destiny](https://open.spotify.com/track/7bqf23zxyQJRX9knHQz6pI) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [Destiny](https://open.spotify.com/album/6BsLw9mXsYgdQihpOF4MLs) | 4:06 | 2025-06-06 |  |

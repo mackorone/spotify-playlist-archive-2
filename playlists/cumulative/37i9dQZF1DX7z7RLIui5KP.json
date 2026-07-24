@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes. Cover: Xenia Manasseh",
+  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes. Cover: Shad Mziki",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -166,6 +166,24 @@
       "duration_ms": 145882,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw"
+    },
+    {
+      "album": {
+        "name": "Always and Forever",
+        "url": "https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251900,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC"
     },
     {
       "album": {
@@ -2254,6 +2272,24 @@
       "duration_ms": 250855,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/5wulhKu9hzHq8HTLU2Xccw"
+    },
+    {
+      "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
     },
     {
       "album": {

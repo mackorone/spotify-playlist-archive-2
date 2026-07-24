@@ -5673,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/75iroRSlNPmLhCvvtQjpip"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        },
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202174,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/3CTMz34eXafsYmOngdLNcu"
+    },
+    {
+      "album": {
         "name": "La Luna",
         "url": "https://open.spotify.com/album/06TAgt1W7JwMagyzlp5t8U"
       },

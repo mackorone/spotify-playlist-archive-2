@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Mambolosco, Artie 5ive, PRACI con Ernia, 10k watt, con rooc lee e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,893 likes - 125 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,897 likes - 125 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 4 | [scarabocchi \(feat\. Frah Quintale\)](https://open.spotify.com/track/0a4xzCqPMGAJwP9Z6W0GV4) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [scarabocchi \(feat\. Frah Quintale\)](https://open.spotify.com/album/1id30wqSAEon0hN5088lAr) | 2:18 |
 | 5 | [bontà \(feat\. rooc lee\)](https://open.spotify.com/track/3x2PvayEPkgCdXdczvzwis) | [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [bontà \(feat\. rooc lee\)](https://open.spotify.com/album/4pmu6gjSSmn3zovFcb36eB) | 2:09 |
 | 6 | [PAO PAO \(feat\. Lubi\)](https://open.spotify.com/track/36GrJGQRZpCi1Imsnz2NkN) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [THE GOLDFATHER](https://open.spotify.com/album/1kjxKHn2DY0X7NACBGHsJo) | 2:59 |
-| 7 | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj) | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9) | 3:10 |
+| 7 | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [STERZA](https://open.spotify.com/artist/1rpfzldcGt2S3WMfG60r8j) | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9) | 3:10 |
 | 8 | [EMRATA](https://open.spotify.com/track/1atkhxjJoI44BGpWDoFeHV) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [EMRATA](https://open.spotify.com/album/6y3BeCAnWYSN9eoMBytYrW) | 2:53 |
 | 9 | [Shooter](https://open.spotify.com/track/4lzhh6z36U67Q99mdC5oUY) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLIO DEL DESERTO](https://open.spotify.com/album/69fbQM057F8RYrXlFjzGei) | 2:13 |
 | 10 | [Oh Girl](https://open.spotify.com/track/6YDvapXRhfJUAGe1hGMU2X) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [PeakLifeNostalgia](https://open.spotify.com/album/45wqreGwwSyYf42gvc8rJH) | 2:20 |

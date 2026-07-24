@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,914 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,912 likes - 98 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 15 | [Los Ojos Del Cóndor](https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ) | 3:32 |
 | 16 | [Enemies](https://open.spotify.com/track/0X9GwAax0c0HPe3iIoDVW6) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Enemies](https://open.spotify.com/album/32mATjC51wowHBVY5rNlwC) | 2:46 |
 | 17 | [Photos Of The Reenactment](https://open.spotify.com/track/07PDGEQVBzUjZpmFEsff5G) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Photos of the Reenactment](https://open.spotify.com/album/2BrZ8S8v0fXxnpUW0XRDcH) | 3:03 |
-| 18 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [No Other \- Loukeman Mix](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
+| 18 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [No Other \- Loukeman Mix](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
 | 19 | [Castles](https://open.spotify.com/track/4piUIPLzabTcVMcBYmd68Z) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [MULTISTATE](https://open.spotify.com/album/3CxcbLqwcFE8nvfupsRPnn) | 3:11 |
 | 20 | [Warzone](https://open.spotify.com/track/0vouTaPvG46z6Zq24v770l) | [The Shindigs](https://open.spotify.com/artist/0RlgKtcs9jaOJMnR0WR495) | [Warzone](https://open.spotify.com/album/7833J2f7PagCQvHoEEZfKV) | 2:08 |
 | 21 | [Indigo Pablo](https://open.spotify.com/track/1kC3Fc1ZwUgUw5Fv7YcG15) | [Nate Daviau](https://open.spotify.com/artist/01DTIYwgHCJnApYjXJUSFU) | [The Apology](https://open.spotify.com/album/1P5u6f1bdkU8xbM6cKtuY7) | 3:25 |

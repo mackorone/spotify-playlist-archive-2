@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 市川空
 
-599 songs - 1 day 19 hr 3 min
+600 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [TAXI](https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Tyler Gauldin](https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU) | [TAXI](https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W) | 6:21 | 2025-01-24 | 2025-04-14 |
 | [Tear It Off](https://open.spotify.com/track/2cF9Pd6p2jcrQN0bv3P3oC) | [Kumail](https://open.spotify.com/artist/2JYgvhoagKBhBYkpD0gIKj), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF) | [Tear It Off](https://open.spotify.com/album/2MMnVLpfHXrWetYjdloYHr) | 3:12 | 2026-02-05 | 2026-04-24 |
 | [Terra Ignota](https://open.spotify.com/track/5B24SUBDr4dL8gDEkSZWPO) | [Krakatau](https://open.spotify.com/artist/7H9cgiR2zQWXNxZjPd3Vyk) | [Terra Ignota](https://open.spotify.com/album/1brEAg2M3TIkZCTxqm8xrR) | 8:28 | 2026-04-02 |  |
+| [The Damndest](https://open.spotify.com/track/0bQnibueVGGxE7FBbzdMtI) | [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [Change the Wind](https://open.spotify.com/album/37PpBWOzbUnqfgLjUGA12y) | 3:49 | 2026-07-21 |  |
 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 | 2025-10-02 |  |
 | [The Fool](https://open.spotify.com/track/4ilE6MkpkFz1rKXHDfGFPA) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [The Fool](https://open.spotify.com/album/4I6RCXzrd9M1cI9anoJu1c) | 4:03 | 2025-04-04 | 2025-07-25 |
 | [The Fork](https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2) | 4:40 | 2025-01-24 | 2025-04-05 |

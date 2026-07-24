@@ -3817,6 +3817,32 @@
     },
     {
       "album": {
+        "name": "Chapter III: We Return to Light",
+        "url": "https://open.spotify.com/album/10y2phPg1DNcq2YALjzABR"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        },
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278130,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5yTsposXxnk1rJVETaXS4N"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1ZUZuW2fR7J5JscL8FHpSC"
       },
@@ -9200,7 +9226,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 296071,
       "name": "Letter To My 13 Year Old Self",
       "url": "https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF"

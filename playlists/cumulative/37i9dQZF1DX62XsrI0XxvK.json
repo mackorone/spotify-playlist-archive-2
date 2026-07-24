@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Mikha Tambayong, Rayi Putra",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Ave, Farrel Hilal",
   "name": "JIVVA",
   "tracks": [
     {
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Emotional",
+        "url": "https://open.spotify.com/album/1t1cDTh8F0FGlwxPtPrgkA"
+      },
+      "artists": [
+        {
+          "name": "DANE",
+          "url": "https://open.spotify.com/artist/5dPtZlg7D3XGCrmaGmqY63"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203062,
+      "name": "Emotional",
+      "url": "https://open.spotify.com/track/0iZr4VsajY8fcp1H5vCE2y"
+    },
+    {
+      "album": {
         "name": "Empty.",
         "url": "https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn"
       },
@@ -1454,6 +1472,28 @@
       "duration_ms": 232173,
       "name": "Esok kan Masih Ada",
       "url": "https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD"
+    },
+    {
+      "album": {
+        "name": "EVOKATIF",
+        "url": "https://open.spotify.com/album/4MkICmpMKDe02tkt9hZIrI"
+      },
+      "artists": [
+        {
+          "name": "Kafin Sulthan",
+          "url": "https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq"
+        },
+        {
+          "name": "Liam Amadeo",
+          "url": "https://open.spotify.com/artist/4OqmQrQ2HxPbyLsefGKIHq"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235151,
+      "name": "EVOCATIVE",
+      "url": "https://open.spotify.com/track/7bHqxLsJE5BJk2iV4bsdQS"
     },
     {
       "album": {
@@ -1824,6 +1864,24 @@
       "duration_ms": 278270,
       "name": "Good Fellas",
       "url": "https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq"
+    },
+    {
+      "album": {
+        "name": "Got Me Like",
+        "url": "https://open.spotify.com/album/5O3xEG8cPVGl4jNMa8ZbrP"
+      },
+      "artists": [
+        {
+          "name": "N0en",
+          "url": "https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116619,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/5atizzSIWt1JCLmduS662p"
     },
     {
       "album": {
@@ -3192,6 +3250,28 @@
       "duration_ms": 153612,
       "name": "Man for Me",
       "url": "https://open.spotify.com/track/7zq0xgNwLdwFacF2gFLPGy"
+    },
+    {
+      "album": {
+        "name": "MANISE",
+        "url": "https://open.spotify.com/album/2Wndvm5x0sYXINZNLbhFfW"
+      },
+      "artists": [
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "MANISE",
+      "url": "https://open.spotify.com/track/0AN5NlR0bdsdA2aOLVCmDi"
     },
     {
       "album": {

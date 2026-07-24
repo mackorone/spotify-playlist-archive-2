@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Leon Blane",
+  "description": "New music off the beaten track. Cover: Barry Can't Swim",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2185,6 +2185,32 @@
     },
     {
       "album": {
+        "name": "Barely (KANTEREIT Remix)",
+        "url": "https://open.spotify.com/album/5kAP7YT8Z8EqSJJ69KzEvq"
+      },
+      "artists": [
+        {
+          "name": "KANTEREIT",
+          "url": "https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms"
+        },
+        {
+          "name": "Aaron Ahrends",
+          "url": "https://open.spotify.com/artist/5LYOADaXOeHCQIbjJAYEFn"
+        },
+        {
+          "name": "Severin Kantereit",
+          "url": "https://open.spotify.com/artist/1mLRHb8iE7rNpgQbV1dNcg"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Barely - KANTEREIT Remix",
+      "url": "https://open.spotify.com/track/0g6TY6TbXdTSQNguXVyto9"
+    },
+    {
+      "album": {
         "name": "bastard",
         "url": "https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0"
       },
@@ -2408,7 +2434,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 216147,
       "name": "belly of the beast",
       "url": "https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF"
@@ -5203,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "Dance Dance Dance",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
@@ -5258,6 +5302,24 @@
       "duration_ms": 263065,
       "name": "Dance Through The Night",
       "url": "https://open.spotify.com/track/3WXM4RTGY09Lyt8h8SUSL2"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/4vXwpz82nAfH45EFhT7UIq"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263065,
+      "name": "Dance Through The Night",
+      "url": "https://open.spotify.com/track/5XwAMETdShq8LGnhYH6J6F"
     },
     {
       "album": {
@@ -6236,6 +6298,28 @@
       "duration_ms": 158906,
       "name": "Do you remember",
       "url": "https://open.spotify.com/track/7eJFQbRRceQpsvwSmDGqSI"
+    },
+    {
+      "album": {
+        "name": "Do You Want This",
+        "url": "https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211781,
+      "name": "Do You Want This",
+      "url": "https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg"
     },
     {
       "album": {
@@ -9514,7 +9598,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 169043,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/0fdnLCIu4Y3AbHzYtm3bRj"
@@ -10122,7 +10206,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 165935,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs"
@@ -22520,7 +22604,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"

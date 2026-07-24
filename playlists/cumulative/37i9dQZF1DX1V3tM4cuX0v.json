@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Alena Omargalieva",
+  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kristonko",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -448,6 +448,28 @@
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -560,7 +582,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -1192,7 +1214,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 209000,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/0D7q3I9Hpi7bBuFd2OFp1s"
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 156040,
       "name": "\u0434\u043e\u043d\u0442 \u0442\u0430\u0447",
       "url": "https://open.spotify.com/track/7wvCfhqPHYAVONQALsOrOM"
@@ -2549,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0420\u0418\u041b\u0410 \u041b\u0415\u041b\u0415\u041a\u0418",
+        "url": "https://open.spotify.com/album/71teZep0gqgDwEVSKqesvf"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0456\u043a\u0456\u0442\u0430 \u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432",
+          "url": "https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u041a\u0420\u0418\u041b\u0410 \u041b\u0415\u041b\u0415\u041a\u0418",
+      "url": "https://open.spotify.com/track/5KoAIiBQdZJYhbtxwQ1Nvb"
+    },
+    {
+      "album": {
         "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
         "url": "https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2"
       },
@@ -2564,6 +2604,24 @@
       "duration_ms": 163224,
       "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
       "url": "https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+        "url": "https://open.spotify.com/album/2hgkQQkTFgZLOiv9KrV2Zr"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0422\u0440\u0456\u043d\u0447\u0435\u0440",
+          "url": "https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+      "url": "https://open.spotify.com/track/4TlI6xqjE9pogjuJ2JlbZX"
     },
     {
       "album": {
@@ -2698,6 +2756,24 @@
       "duration_ms": 150950,
       "name": "\u041d\u0430 \u0434\u0432\u043e\u0445",
       "url": "https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u043d\u0430\u0448\u0456\u0439 \u0432\u0443\u043b\u0438\u0446\u0456",
+        "url": "https://open.spotify.com/album/01MIRzy0nQbc9VwZ1dl8zW"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171488,
+      "name": "\u041d\u0430 \u043d\u0430\u0448\u0456\u0439 \u0432\u0443\u043b\u0438\u0446\u0456",
+      "url": "https://open.spotify.com/track/2p24QXCT3LdHAmHYWI09p2"
     },
     {
       "album": {
@@ -3266,7 +3342,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "\u041f\u0440\u0438\u043a\u0443\u0442\u0456",
       "url": "https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx"
@@ -3432,7 +3508,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 201391,
       "name": "\u0441\u043b\u044c\u043e\u0437\u043a\u0430",
       "url": "https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv"

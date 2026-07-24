@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Autoimmune, MIK's Reaction and more",
+  "description": "With Jon Drake, Motor Ballet, Facula and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 235589,
       "name": "Elden",
       "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -4264,6 +4264,24 @@
       "duration_ms": 330120,
       "name": "Fellow Travelers",
       "url": "https://open.spotify.com/track/7Akl6rOkfDM8FpWs19GTJI"
+    },
+    {
+      "album": {
+        "name": "17 Re (2026 Remaster)",
+        "url": "https://open.spotify.com/album/5J6J8VY7eaqsKTUNBvKbJ1"
+      },
+      "artists": [
+        {
+          "name": "Litfiba",
+          "url": "https://open.spotify.com/artist/1HmcAWATwElCmQheMCKGI7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265213,
+      "name": "Ferito - 2026 Remaster",
+      "url": "https://open.spotify.com/track/0xhfWSzHHmUlmaRZPss4Uc"
     },
     {
       "album": {
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -5166,7 +5184,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 190080,
       "name": "Henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/3ZkTnTIwiOP5PZ9SQLgUdH"
@@ -5552,6 +5570,24 @@
       "duration_ms": 221520,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6iSdRktqGGhSjjH8zS3phY"
+    },
+    {
+      "album": {
+        "name": "Truthsayer",
+        "url": "https://open.spotify.com/album/7DrVKnVSTrwa3ONwuh9YVn"
+      },
+      "artists": [
+        {
+          "name": "Outshine",
+          "url": "https://open.spotify.com/artist/0UKWgEl3R0zs0CVOgQBVgI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265070,
+      "name": "I Am Darkness",
+      "url": "https://open.spotify.com/track/5fDE5WBATo9ZbyxG23ZG7i"
     },
     {
       "album": {
@@ -6092,7 +6128,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -6388,7 +6424,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "Kazablancas",
       "url": "https://open.spotify.com/track/4Nn9YnkWCaT2FVyaxwg1MY"
@@ -6464,7 +6500,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -8579,6 +8615,28 @@
     },
     {
       "album": {
+        "name": "Macrodose",
+        "url": "https://open.spotify.com/album/26q744C2hira5VTAP2BEaG"
+      },
+      "artists": [
+        {
+          "name": "Water Rats",
+          "url": "https://open.spotify.com/artist/5codaAuj2EoR8fZOe7JCSH"
+        },
+        {
+          "name": "Jo\u00e3o Manoel de Oliveira Vieira",
+          "url": "https://open.spotify.com/artist/3NnGzUhiP6RXQEnYE3IAKS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160076,
+      "name": "No Fun (In the World)",
+      "url": "https://open.spotify.com/track/03Ov5dy5byg3PzkT0kEzXd"
+    },
+    {
+      "album": {
         "name": "No One's Embrace",
         "url": "https://open.spotify.com/album/7EW3MKKRJ9MZEhI0p6DjOp"
       },
@@ -8724,7 +8782,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8890,7 +8948,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "O Vento",
       "url": "https://open.spotify.com/track/2YvZmZh4b4haPGU3G3404J"
@@ -9554,7 +9612,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 130000,
       "name": "Penger",
       "url": "https://open.spotify.com/track/3nW6IQCKryhAYgTnsk0zVr"
@@ -9742,6 +9800,24 @@
       "duration_ms": 211461,
       "name": "Pimeyden sulhanen",
       "url": "https://open.spotify.com/track/0SBfnN69Mx4jes3um9HVl1"
+    },
+    {
+      "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Plastic Time",
+      "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
     },
     {
       "album": {
@@ -11026,7 +11102,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -11116,7 +11192,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 242067,
       "name": "Solar Plexus",
       "url": "https://open.spotify.com/track/4MOuNW1ZLeGJGk66dW1j6U"
@@ -11440,7 +11516,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -11686,6 +11762,24 @@
       "duration_ms": 233600,
       "name": "Sunswept",
       "url": "https://open.spotify.com/track/3ycubEbm00kreSdRc14BCi"
+    },
+    {
+      "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243142,
+      "name": "Superphotonics",
+      "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
     },
     {
       "album": {
@@ -12306,7 +12400,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -12960,7 +13054,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -15206,7 +15300,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 368713,
       "name": "\u00cd Huldusal",
       "url": "https://open.spotify.com/track/6vSOZthE9SZvjJiiJPgIbQ"

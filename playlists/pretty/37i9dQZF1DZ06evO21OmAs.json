@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 255556,
+  "num_followers": 255558,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAADVANX3tiASRvaZRrh6Z9or",
+  "snapshot_id": "amAIAAAAAABTdKRaeV8wy3vN8NaJBPWv",
   "tracks": [
     {
       "added_at": null,
@@ -532,13 +532,9 @@
       "added_at": null,
       "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
-        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
+        "url": "https://open.spotify.com/album/26RQFyaGdugNbL7aBzF7Ik"
       },
       "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
         {
           "name": "Lawrence Rothman",
           "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
@@ -546,11 +542,15 @@
         {
           "name": "girl in red",
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
         }
       ],
-      "duration_ms": 187364,
-      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
-      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+      "duration_ms": 189335,
+      "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
+      "url": "https://open.spotify.com/track/6P2Fi6JfkqAw1h7ga6jNwB"
     },
     {
       "added_at": null,

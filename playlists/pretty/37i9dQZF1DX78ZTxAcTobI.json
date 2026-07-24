@@ -1,13 +1,833 @@
 {
   "description": "Love and adventure under the Texas sun. Listen to the music from, and inspired by, Ransom Canyon, now streaming on Netflix.",
-  "num_followers": 10183,
+  "num_followers": 10268,
   "original_name": "Ransom Canyon Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0vvsLCo9UVxhky7f2T4fwExWO8",
+  "snapshot_id": "AAAAAFuQX7b+N/YzTQgryHKP2ZYcTV2U",
   "tracks": [
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Charlie Marie",
+        "url": "https://open.spotify.com/album/54LWjQMKJ0PFvGkMceZw8r"
+      },
+      "artists": [
+        {
+          "name": "Charlie Marie",
+          "url": "https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/6ppG1IFrMM6B7AIOQcs9UO"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Here We Are",
+        "url": "https://open.spotify.com/album/1yZBUQR1dgWgKB6C4LVYTm"
+      },
+      "artists": [
+        {
+          "name": "Sweet Tangerines",
+          "url": "https://open.spotify.com/artist/4WJ1vHLlG6GFlT3YtVJyoP"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/6rU8HDi7h4HRfRRsYgHSav"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Simple",
+          "url": "https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/0gQN6up0rk6q8vKipO9GOm"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "How Much Crazy Can You Take",
+        "url": "https://open.spotify.com/album/5sYcfQwWYxLh3EVgZWYDms"
+      },
+      "artists": [
+        {
+          "name": "Dr. Duke Tumatoe",
+          "url": "https://open.spotify.com/artist/6gQCf8ylGTn9TyuQGbfpw8"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "Muddy Waters",
+      "url": "https://open.spotify.com/track/0AOA9MdYOZOxgbs5UNz8yH"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Red Dirt Diaries",
+        "url": "https://open.spotify.com/album/7Et4kBnW5c5wVIIVvyQsHG"
+      },
+      "artists": [
+        {
+          "name": "Pynk Beard",
+          "url": "https://open.spotify.com/artist/7arsY1oYkvANg3CNAxdp9Y"
+        }
+      ],
+      "duration_ms": 139922,
+      "name": "Mine, Lord Willing",
+      "url": "https://open.spotify.com/track/5gmFuDMIVoCSGk3GcyQMAM"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3jfKxjTza8Wq0CGBdc80Gr"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "duration_ms": 228991,
+      "name": "Gone Baby Gone",
+      "url": "https://open.spotify.com/track/41KVQ5nWjbAmvkXYwDhjO2"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Arrows (Die For That Man)",
+      "url": "https://open.spotify.com/track/2uLn4xSIDBsv0No9plVAFZ"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Act II: COUNTRYSTAR",
+        "url": "https://open.spotify.com/album/7cuMWFxEYkP7NLm7sRR62W"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 157637,
+      "name": "HONKYTONKIN",
+      "url": "https://open.spotify.com/track/0qIR8HQGBLvWPPIyWisVQB"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "The Heart & The Hope",
+        "url": "https://open.spotify.com/album/3UJsf2JVmO2PvAlOALSYbt"
+      },
+      "artists": [
+        {
+          "name": "Peacemode",
+          "url": "https://open.spotify.com/artist/5D6xERKDE4AjAJ2WKGw85Q"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "The Heart & The Hope",
+      "url": "https://open.spotify.com/track/2OZKkJ7j2g7ofzsdSksfbq"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Falling in Love, Falling Apart",
+        "url": "https://open.spotify.com/album/1NBliJqNqBjJXM3AgHccex"
+      },
+      "artists": [
+        {
+          "name": "Peter Groenwald",
+          "url": "https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Falling in Love, Falling Apart",
+      "url": "https://open.spotify.com/track/3t6dQKGg7nZHx9v41giePj"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Feel These Blues",
+        "url": "https://open.spotify.com/album/16cnPc4PhEuErdxL9pVBh4"
+      },
+      "artists": [
+        {
+          "name": "Slam Allen",
+          "url": "https://open.spotify.com/artist/56QQvEfXdeOpi3ZsEmJGvW"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "In September",
+      "url": "https://open.spotify.com/track/3lF4X3NviGdBLfZ7ys9iXC"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Solstices EP",
+        "url": "https://open.spotify.com/album/6AsV9I6SchpPWD0iG0uvUl"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "There Are No Words",
+      "url": "https://open.spotify.com/track/4bYnxMZwEvLwgGmyShoCY9"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "I Fear You",
+        "url": "https://open.spotify.com/album/6CCTSRlllecizZtIIcpOyB"
+      },
+      "artists": [
+        {
+          "name": "Tom Rhodes",
+          "url": "https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc"
+        }
+      ],
+      "duration_ms": 255990,
+      "name": "I Fear You",
+      "url": "https://open.spotify.com/track/62G3XoCbuPuZeG3lGYJnhh"
+    },
+    {
+      "added_at": "2026-07-23 17:09:44",
+      "album": {
+        "name": "Halls of My Heart",
+        "url": "https://open.spotify.com/album/2oj7EmUtxx3XDEveEEUYZm"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 258384,
+      "name": "Halls of My Heart",
+      "url": "https://open.spotify.com/track/2JtJic7BcKvzuICdNYBnRr"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "THERE\u2019S A GHOST IN MY HOUSE.",
+        "url": "https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 130505,
+      "name": "GHOST. (feat. Samara Cyn)",
+      "url": "https://open.spotify.com/track/5QgUwbV83zixo7pkJpB4iV"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2oEYiT6hWTnPHWZDhicAkG"
+      },
+      "artists": [
+        {
+          "name": "Livingmore",
+          "url": "https://open.spotify.com/artist/4b9RSRAYiQR7Ok3PQoBJf8"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/1Tr1aFBfV5lyFYRy3bEJ4A"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Sounds of an Old Soul",
+        "url": "https://open.spotify.com/album/13od5RlC3r6iB4HFDbBLQO"
+      },
+      "artists": [
+        {
+          "name": "Chase Walker Band",
+          "url": "https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB"
+        }
+      ],
+      "duration_ms": 150532,
+      "name": "Don't Cry (My Darling)",
+      "url": "https://open.spotify.com/track/02Y4m2il22hCZrTueGd04U"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Meet Me at the River",
+        "url": "https://open.spotify.com/album/43QjMQea9tdF25oYyr9vAY"
+      },
+      "artists": [
+        {
+          "name": "Soultown Revivalists",
+          "url": "https://open.spotify.com/artist/4m3XScZchwZiZeiw6CcoQm"
+        },
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 307497,
+      "name": "Meet Me at the River",
+      "url": "https://open.spotify.com/track/0R2RnnZRwCH46dFDOZACKL"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Escobar",
+        "url": "https://open.spotify.com/album/7ne7GXsTbk1ML1eR3UqERy"
+      },
+      "artists": [
+        {
+          "name": "The Vultures",
+          "url": "https://open.spotify.com/artist/6jjQA1KxKKssDfcEyTcZkB"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/2Kfo5CboMRyChlGK9NzwoV"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Emily Wolfe",
+        "url": "https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/7A7fOyNse690VUFDSaATI5"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 257185,
+      "name": "Headstone Blues",
+      "url": "https://open.spotify.com/track/4bryZq95Wllz4x1VrFKaf6"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Slow Life",
+        "url": "https://open.spotify.com/album/4z3wz8e3MswMcQgxUKVms0"
+      },
+      "artists": [
+        {
+          "name": "Will Stewart",
+          "url": "https://open.spotify.com/artist/243xFvjyls79NvZx2efP5m"
+        }
+      ],
+      "duration_ms": 157786,
+      "name": "Just Be Sweet",
+      "url": "https://open.spotify.com/track/61f9G0vfiKocSuZIzNJFsn"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "BIG BUSKIN\u2019",
+        "url": "https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 176013,
+      "name": "Hoedown",
+      "url": "https://open.spotify.com/track/4qPdEFwFiUaOVi6sZzQadZ"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Blues Et Cetera",
+        "url": "https://open.spotify.com/album/5u7H6wl89BTYMFavdADMmW"
+      },
+      "artists": [
+        {
+          "name": "Mike Goudreau",
+          "url": "https://open.spotify.com/artist/7frI06yrq8JdMudQyA5ytr"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "I'm Still Cryin'",
+      "url": "https://open.spotify.com/track/2nZtvajgxFVhZhnItKjFX0"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Sounds of an Old Soul",
+        "url": "https://open.spotify.com/album/13od5RlC3r6iB4HFDbBLQO"
+      },
+      "artists": [
+        {
+          "name": "Chase Walker Band",
+          "url": "https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB"
+        }
+      ],
+      "duration_ms": 201162,
+      "name": "GTR",
+      "url": "https://open.spotify.com/track/29y2hK3b6auckuPQlvNzfC"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 226232,
+      "name": "enough to leave",
+      "url": "https://open.spotify.com/track/1ZJ8bnKuSgiUZIHwqzfyfG"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "The Test",
+        "url": "https://open.spotify.com/album/3qxcaz7rWGwFVkfDCGvnds"
+      },
+      "artists": [
+        {
+          "name": "Chnnll",
+          "url": "https://open.spotify.com/artist/15wVWnkPdpTgOKYrMc5tKT"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Golden Days",
+      "url": "https://open.spotify.com/track/0GvkkiTz5a9HT7Iejcy3zd"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Me and My Religion",
+        "url": "https://open.spotify.com/album/4o1kY62nKQdB8kA1hyz8Gr"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Cows Come Home",
+      "url": "https://open.spotify.com/track/7jt2l2uTC2OYWugfqudR7O"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Sings",
+        "url": "https://open.spotify.com/album/1WwzK51uHvKUKyhdMJqhVt"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/0jo2E9nTTflJzAadadRaek"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "There Are Lines",
+        "url": "https://open.spotify.com/album/3R2QhJ69ohxgbDXIIZTXjP"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "There Are Lines",
+      "url": "https://open.spotify.com/track/1f3KtSWSdmoUw7E80MeRXb"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "In the End We Fall",
+        "url": "https://open.spotify.com/album/1UxqvSVA7ELq7FnZHXbQcV"
+      },
+      "artists": [
+        {
+          "name": "Gus Zimbalist",
+          "url": "https://open.spotify.com/artist/7khvvGNq7fLWzV8trzfOUW"
+        }
+      ],
+      "duration_ms": 250113,
+      "name": "In the End We Fall",
+      "url": "https://open.spotify.com/track/0cJtTleeduhdV4ShBUtf3G"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "The Mysteries",
+        "url": "https://open.spotify.com/album/4laU4dQh1qhBbuij9JFXB7"
+      },
+      "artists": [
+        {
+          "name": "Les Biches",
+          "url": "https://open.spotify.com/artist/0wHim9KJRjZyzdRBvI1Fiv"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Destination Oblivion",
+      "url": "https://open.spotify.com/track/4xeuDfijXykSTlO9f8daDe"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Between a Steeple and a Satellite",
+        "url": "https://open.spotify.com/album/34v8RgvCda0AJvZEFlvi7H"
+      },
+      "artists": [
+        {
+          "name": "Glenn Thomas",
+          "url": "https://open.spotify.com/artist/5PDr566OoM3EayDT1HfL1U"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "Between a Steeple and a Satellite",
+      "url": "https://open.spotify.com/track/3XTetQEu0JcW7hkSdCxj18"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "MIRADOR",
+        "url": "https://open.spotify.com/album/2Xkb22PHyeBwe6Rv42yysq"
+      },
+      "artists": [
+        {
+          "name": "MIRADOR",
+          "url": "https://open.spotify.com/artist/3PWTasKZcsDr9mMGeEPMeo"
+        }
+      ],
+      "duration_ms": 223863,
+      "name": "Blood and Custard",
+      "url": "https://open.spotify.com/track/1tFZkkJ6xCjGL2TuVWpiFx"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Like A Bull",
+        "url": "https://open.spotify.com/album/6FyoqYmYFkrcTinmnuP8Ea"
+      },
+      "artists": [
+        {
+          "name": "Bavoh",
+          "url": "https://open.spotify.com/artist/3V5j3Jv69A9FxH9XfTxjOD"
+        },
+        {
+          "name": "Pynk Beard",
+          "url": "https://open.spotify.com/artist/7arsY1oYkvANg3CNAxdp9Y"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Like A Bull",
+      "url": "https://open.spotify.com/track/42NVxtBau7bqYgRAtlZfui"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/6HX6IOpNWjIVoctAFCe1CW"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Kissing Cowboys",
+      "url": "https://open.spotify.com/track/1OMKyVwpJLBKhi7ySwqP5d"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 145389,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/12ic6nhKqNSnK5ApmmX4Rs"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/59Wet0esLvTyJBhCjpXuUe"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Again (with The Mellomen)",
+      "url": "https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Power In Us",
+        "url": "https://open.spotify.com/album/1SlXfaCDOmYwsbIFr3dlP2"
+      },
+      "artists": [
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+        }
+      ],
+      "duration_ms": 201719,
+      "name": "Power In Us",
+      "url": "https://open.spotify.com/track/5AMjoL36HPzwx9E0JUg05J"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Turn N Burn",
+        "url": "https://open.spotify.com/album/1ao6CJUhvLIiYO3LSGVYG3"
+      },
+      "artists": [
+        {
+          "name": "IVORY COAL",
+          "url": "https://open.spotify.com/artist/7azy3SxVOnka2BjrkhbkOa"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Turn N Burn",
+      "url": "https://open.spotify.com/track/4PXcrQXyYSgW7rnygr5SeR"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Ransom Canyon: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cardoni",
+          "url": "https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "When I Was In New York",
+      "url": "https://open.spotify.com/track/73FQTnW0NYtdOsFp6YH0nG"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Ransom Canyon: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cardoni",
+          "url": "https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0"
+        }
+      ],
+      "duration_ms": 130106,
+      "name": "Falling Snow",
+      "url": "https://open.spotify.com/track/6ilwx4S7AregyZO2TGX1ql"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Ransom Canyon: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cardoni",
+          "url": "https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0"
+        }
+      ],
+      "duration_ms": 101153,
+      "name": "That Ship Has Sailed",
+      "url": "https://open.spotify.com/track/2GrQLjZvaGI3VcqZVo8HPG"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Ransom Canyon: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cardoni",
+          "url": "https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0"
+        }
+      ],
+      "duration_ms": 83488,
+      "name": "Gantry Inspection",
+      "url": "https://open.spotify.com/track/4rMnzfTjtC2y5q8fMnc0Vz"
+    },
+    {
+      "added_at": "2026-07-23 13:00:11",
+      "album": {
+        "name": "Ransom Canyon: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cardoni",
+          "url": "https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Ransom Canyon Season 2 Credits",
+      "url": "https://open.spotify.com/track/4Z4BM6OwVOK4LogMRAWNKm"
+    },
     {
       "added_at": "2025-04-28 16:56:51",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 598032,
+  "num_followers": 598046,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAACxHdE0jX8DPA0IZXjEkjQ2",
+  "snapshot_id": "amAIAAAAAAAZMN/ZqvSkvJs/RALjUfpk",
   "tracks": [
     {
       "added_at": null,
@@ -432,21 +432,21 @@
       "added_at": null,
       "album": {
         "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+        "url": "https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
       "duration_ms": 307360,
       "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
+      "url": "https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz"
     },
     {
       "added_at": null,

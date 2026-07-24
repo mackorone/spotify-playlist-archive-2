@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,272 songs - 2 day 22 hr 35 min
+1,273 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [MEGALOVANIA \- Pegboard Nerds Remix](https://open.spotify.com/track/5DuvEUkgu16gnEC08xfKSW) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [UNDERTALE \(10\-Year Anniversary Remixes\)](https://open.spotify.com/album/6wfuhGODjpM5ru47Z7ks60) | 2:50 | 2025-10-06 | 2026-01-15 |
 | [Midnight](https://open.spotify.com/track/4ZClsW1pvRVsFtzikoBnGy) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Midnight](https://open.spotify.com/album/1OuKovdj28l4GMHf7cM0qX) | 2:56 | 2026-01-09 | 2026-05-13 |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
+| [Midnight Drift](https://open.spotify.com/track/7C1UDppYPW3PiVHKbhHiRu) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Midnight Drift](https://open.spotify.com/album/7peNgjxpnh0ePTmBmUhufB) | 3:10 | 2026-07-23 |  |
 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 | 2026-04-30 |  |
 | [Midnight Sound](https://open.spotify.com/track/3SdVixMWNacYlpBIVXCgYD) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Midnight Sound](https://open.spotify.com/album/3l4iJcofJUCDJkfXTaTjgV) | 3:21 | 2026-05-19 |  |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |

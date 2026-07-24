@@ -1,6 +1,6 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 156150,
+  "num_followers": 156221,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
@@ -140,6 +140,10 @@
       },
       "artists": [
         {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
           "name": "Chineke! Orchestra",
           "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
         },
@@ -150,10 +154,6 @@
         {
           "name": "Martin Gellner",
           "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
       "duration_ms": 240149,

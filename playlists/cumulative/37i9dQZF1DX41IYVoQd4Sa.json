@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 235011,
       "name": "Bridge",
       "url": "https://open.spotify.com/track/74NFC3fU86cULjI9lkMN6A"
@@ -752,6 +752,24 @@
       "duration_ms": 168014,
       "name": "Elle M'a Dit - \u05d4\u05d5\u05e4\u05e2\u05d5\u05ea \u05d1\u05de\u05e4\u05e2\u05dc \u05d4\u05e4\u05d9\u05e1",
       "url": "https://open.spotify.com/track/66Kl8wtDzXleeD5SJFAqXy"
+    },
+    {
+      "album": {
+        "name": "Every Day Counts",
+        "url": "https://open.spotify.com/album/7mAXmdqmUZY1RFBhwLSluU"
+      },
+      "artists": [
+        {
+          "name": "Folly Tree",
+          "url": "https://open.spotify.com/artist/1hT145icDtkvzjToOQkvkz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Every Day Counts",
+      "url": "https://open.spotify.com/track/2MJ4j2RL8jXZpX2rinMBut"
     },
     {
       "album": {
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 164235,
       "name": "Let Your Love",
       "url": "https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7"
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 200291,
       "name": "\u05d4\u05dc\u05dc\u05d5\u05d9\u05d4",
       "url": "https://open.spotify.com/track/7yUrg9S0SFd5QHAp9v4tuY"
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 188613,
       "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d4\u05e2\u05d9\u05e8",
       "url": "https://open.spotify.com/track/6sBH7Vy6LkWe1mz5zUQxQC"
@@ -6825,6 +6843,24 @@
     },
     {
       "album": {
+        "name": "\u05ea\u05d7\u05d6\u05e8\u05d9 \u05d4\u05d1\u05d9\u05ea\u05d4",
+        "url": "https://open.spotify.com/album/2nZnxhCL7KgymMVQQIokiZ"
+      },
+      "artists": [
+        {
+          "name": "\u05d8\u05dc\u05d9\u05d4 \u05d3\u05e0\u05e6\u05d9\u05d2",
+          "url": "https://open.spotify.com/artist/7CYZQYg51DF4XkYzC66VBP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168900,
+      "name": "\u05de\u05e8\u05d7\u05e7 \u05d6\u05e8",
+      "url": "https://open.spotify.com/track/7nyl7x9x6agkwwJKF5ucow"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
         "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
@@ -7124,6 +7160,24 @@
       "duration_ms": 265226,
       "name": "\u05e0\u05db\u05e0\u05e2 \u05dc\u05da",
       "url": "https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH"
+    },
+    {
+      "album": {
+        "name": "\u05e0\u05e6\u05d7",
+        "url": "https://open.spotify.com/album/5Ud33B5CrOUPPGqXDUArrW"
+      },
+      "artists": [
+        {
+          "name": "Daniella Tourgeman",
+          "url": "https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260350,
+      "name": "\u05e0\u05e6\u05d7",
+      "url": "https://open.spotify.com/track/6YwkfiupTClKbLt3s86LBs"
     },
     {
       "album": {
@@ -7900,7 +7954,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 141000,
       "name": "\u05e8\u05e2\u05d1\u05d4 \u05db\u05dc \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/6pO2AfrI20RY1JrBtlE1WS"

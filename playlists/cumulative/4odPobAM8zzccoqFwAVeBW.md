@@ -4,7 +4,7 @@
 
 > Check out our latest Cargo digital distributed tracks! Updated weekly
 
-928 songs - 2 day 20 hr 10 min
+931 songs - 2 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Put A Record On](https://open.spotify.com/track/3RE3qJIWwW3MIUwPxTvZz3) | [Neev](https://open.spotify.com/artist/0aIrvOYvADRNpEjLsODIYX) | [Put A Record On](https://open.spotify.com/album/1psL5gBRdO5rmM5Cq4Pl2Z) | 2:32 | 2025-11-07 | 2025-12-05 |
 | [Putrescence](https://open.spotify.com/track/17tRyWetm0laS1P8bNYzfq) | [Coprolith](https://open.spotify.com/artist/2OHT7PCvxwZirHGA8hNPOz) | [Putrescence](https://open.spotify.com/album/4HWkOHv1K9OR6yjgv1G52Z) | 5:26 | 2026-07-03 |  |
 | [Rabia’s Dream](https://open.spotify.com/track/5j1aEhS6ZSEMrAEhm5CXMH) | [Peter Culshaw](https://open.spotify.com/artist/2ueLmrdhEzOYn0aA7u1z1s) | [Rabia's Dream](https://open.spotify.com/album/47soFDZzjiILDQVNDegyfJ) | 2:28 | 2025-11-24 | 2026-01-24 |
+| [Rags to Riches](https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Rags to Riches](https://open.spotify.com/album/4HM7GVj4fbpqCX3mUk0c1X) | 2:18 | 2026-07-23 |  |
 | [Railcard](https://open.spotify.com/track/5dkE1hDM7trNGMoBab1K62) | [Railcard](https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr) | [Railcard](https://open.spotify.com/album/0EdktCUpNHbGEeteJlNbSU) | 4:45 | 2026-02-06 | 2026-04-11 |
 | [Rain \- Live](https://open.spotify.com/track/0rle4Um9hwAszLOmohU5K1) | [Maxine](https://open.spotify.com/artist/1WpdH8GantLWjuzhm1kWQT) | [Rain \(Live at Offramp 1991\)](https://open.spotify.com/album/1Vz6S39JTmhtJfXlBq7Psa) | 4:08 | 2025-09-12 | 2025-10-04 |
 | [Ravespasm](https://open.spotify.com/track/5PqtrpYCiDX1H3IfAV6C7U) | [Drumm Chimp](https://open.spotify.com/artist/4YJ1HgKznzTQjpuEzvRirP) | [January 4/5](https://open.spotify.com/album/7mQKjp0b48RElWya9Bt20h) | 6:40 | 2026-05-01 | 2026-05-29 |
@@ -638,6 +639,7 @@
 | [Rhetoric of Trash](https://open.spotify.com/track/0eMozhXTWWA4g0trcTe8iR) | [JJ and the A’s](https://open.spotify.com/artist/2HYyrMd9ARDu3LjcnoVMlf) | [Rhetoric of Trash](https://open.spotify.com/album/1JE9jezg4sjMvtA4DvDYqY) | 2:09 | 2025-09-11 | 2025-10-04 |
 | [Ridin' Out](https://open.spotify.com/track/3q6iaRc4IHmPNriaEEt8D1) | [Bear Bones](https://open.spotify.com/artist/4KHEMUBmXBGuozLUzDCWVs) | [Ridin' Out](https://open.spotify.com/album/6eVEW3q7ciSRk5g3AYAlFN) | 5:55 | 2026-03-20 | 2026-04-25 |
 | [Right Behind You](https://open.spotify.com/track/1oeXrGpB12m39jauZdFB9K) | [EZ8](https://open.spotify.com/artist/0aM9hbh7m2LCSfhpQrXuNu) | [EZ8](https://open.spotify.com/album/1beef1OkFfbZyh3TLcKJPl) | 1:55 | 2025-10-16 | 2025-11-08 |
+| [Riki Rachtman](https://open.spotify.com/track/3jlHIVesYOymZzSmbT9S24) | [Nick Mitchell Maiato](https://open.spotify.com/artist/5xVDCUwaCgq92kjaXoypqS) | [Riki Rachtman](https://open.spotify.com/album/5IUTLwqv7spqvqWn7TqETP) | 6:51 | 2026-07-23 |  |
 | [Rio Arriba Quema El Sol](https://open.spotify.com/track/5hUmwVjpNPlw4wGwhNE5N0) | [Traidora](https://open.spotify.com/artist/4tmWMf76QPTScld2SIDs5E) | [Rio Arriba Quema El Sol](https://open.spotify.com/album/1U5ZFZREj597K2GqGALO9Y) | 2:28 | 2025-09-11 | 2025-10-04 |
 | [Roadkill](https://open.spotify.com/track/09cxeGIdvwmBkDb25oEuKH) | [JJ and the A’s](https://open.spotify.com/artist/2HYyrMd9ARDu3LjcnoVMlf) | [Roadkill](https://open.spotify.com/album/13Q7GoTJ9rmiDHPiXdRSpm) | 1:32 | 2025-09-19 | 2025-10-11 |
 | [Roadkill](https://open.spotify.com/track/2NqyYr5oCXYi0ccAGOw0eS) | [JJ and the A’s](https://open.spotify.com/artist/2HYyrMd9ARDu3LjcnoVMlf) | [Rhetoric of Trash](https://open.spotify.com/album/0hDTkEN5SHWE59SjQdcvY7) | 1:32 | 2025-09-26 | 2025-10-17 |
@@ -816,6 +818,7 @@
 | [The Power of Positive Thinking](https://open.spotify.com/track/3repWxrJyQf689UIsLJgg0) | [Peter Cat](https://open.spotify.com/artist/3SntVNfRaavqckb9zr75ui) | [The Power Of Positive Thinking](https://open.spotify.com/album/66iIwOI2XQ0PRrQvmj304M) | 4:08 | 2025-11-14 | 2025-12-05 |
 | [The Pressure](https://open.spotify.com/track/4bTfG0qfsGqcVA1UyiXa8w) | [Bruise Blood](https://open.spotify.com/artist/0wsghJn9F27Qg9cWAU7pfH) | [The Pressure](https://open.spotify.com/album/24xMUNhfZMZzmWhCcr4G3r) | 4:47 | 2025-09-11 | 2025-10-04 |
 | [The Primitivist](https://open.spotify.com/track/0ECK21Gw1FCt60NirItl5V) | [ABADIR](https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51) | [The Primitivist](https://open.spotify.com/album/7vOiaPwepmwUqWzsNgc6qv) | 5:03 | 2026-06-05 |  |
+| [The Rain Felt Kind](https://open.spotify.com/track/69cryfI5IdTbgsuAheMTVK) | [Foglights](https://open.spotify.com/artist/19dlMux0gJEgigFw9YTyMy) | [The Rain Felt Kind](https://open.spotify.com/album/2EEupfBnN241gaj650LYQt) | 2:41 | 2026-07-23 |  |
 | [The Resurrection Of Whiskey Foote](https://open.spotify.com/track/3pKq6S3L9ZBqLFe4UlZoPU) | [The Hidden Hand](https://open.spotify.com/artist/0tLsmd6Rv3GN3wyv4Z6VkF) | [The Resurrection Of Whiskey Foote](https://open.spotify.com/album/2tdlU92VGLxZLT9dmOqEXK) | 3:49 | 2025-09-11 | 2025-09-27 |
 | [THE RETURN](https://open.spotify.com/track/6NrB8BPT8ukMl92SBXKNEx) | [DJ LUCKY TEKLIFE](https://open.spotify.com/artist/50j6WLqlEq4CDoMFhyLCiK), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg) | [THE RETURN](https://open.spotify.com/album/5FTMFZgkhLQb7aC3Lm60fR) | 3:39 | 2026-04-10 | 2026-05-02 |
 | [The River](https://open.spotify.com/track/174JAapueBXWe53KMnO9j6) | [The Early Years](https://open.spotify.com/artist/6Jl9BZSiRsnKZUqnvvbVdo) | [The River](https://open.spotify.com/album/0kIUydkgXm00pia4wGYZ8R) | 4:46 | 2025-10-03 | 2025-11-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,370 likes - 35 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,371 likes - 35 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 34 | [Start the Day Again](https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:11 |
 | 35 | [Happier](https://open.spotify.com/track/4Ixa8ZsjCWY6jDTejMUIOM) | [Paul Rust](https://open.spotify.com/artist/0vrIAUL2cMlP42YihJkBYY), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 3:04 |
 
-Snapshot ID: `al62gAAAAAAYWINSCH9lUEKD3ESTxfcX`
+Snapshot ID: `amAIAAAAAACUp+7L39JFNOe5nXEmOxpU`

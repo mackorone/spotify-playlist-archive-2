@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Carly Rae Jepsen
 
-11,711 songs - 24 day 12 hr 30 min
+11,712 songs - 24 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8726,6 +8726,7 @@
 | [Satin Sheets](https://open.spotify.com/track/05x789EgUH1dYiqdHVfmNT) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Satin Sheets](https://open.spotify.com/album/451XOiiAR9nHSIH62ltX4C) | 2:11 | 2023-04-21 | 2023-04-29 |
 | [Satisfied](https://open.spotify.com/track/2YtXPONpavAWx01I0yBi7b) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Satisfied](https://open.spotify.com/album/5HiqiETarb4HNvVzFQgFg7) | 3:25 | 2025-05-02 | 2025-05-17 |
 | [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 | 2023-06-10 |
+| [Saturday](https://open.spotify.com/track/15TaBpXonkkLMRBw6Nxy55) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Brace Yourself](https://open.spotify.com/album/6K6TUKKDuyi5JtRn3qpK0q) | 4:28 | 2026-07-10 |  |
 | [Saturday](https://open.spotify.com/track/4RTM4wFDwqKUMMSHbjC5eA) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Saturday](https://open.spotify.com/album/0XgNimRWk6iKq1c9qsHXIU) | 2:40 | 2025-08-29 | 2025-09-06 |
 | [SATURDAY NIGHT](https://open.spotify.com/track/4r2K4hNxpIc21xw2e7PhdF) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [SATURDAY NIGHT](https://open.spotify.com/album/4EDOoHVfkI7JNsQMfol6sc) | 2:32 | 2024-02-23 | 2024-03-09 |
 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 | 2026-06-26 | 2026-07-18 |

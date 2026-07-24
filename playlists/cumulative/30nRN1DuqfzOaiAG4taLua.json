@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Back To You (feat. Emi Grace)",
+        "url": "https://open.spotify.com/album/5KXVkVxvJB5G6BM75yrhUY"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194488,
+      "name": "Back To You (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/2XDmP2r2wd3qSuZ2vu3z7k"
+    },
+    {
+      "album": {
         "name": "Beats On My Mind",
         "url": "https://open.spotify.com/album/0MoTsP2K9wfwlSStE4lMAB"
       },

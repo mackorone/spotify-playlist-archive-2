@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62061,
+  "num_followers": 62072,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
     },
     {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Bhavyalakshmi",
+          "url": "https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq"
+        }
+      ],
+      "duration_ms": 612000,
+      "name": "Kandhasashti Kavacham - Instrumental",
+      "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
+    },
+    {
       "added_at": "2025-09-05 03:40:50",
       "album": {
         "name": "Only Love is Real",
@@ -251,22 +267,6 @@
       "duration_ms": 448000,
       "name": "White",
       "url": "https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
-      },
-      "artists": [
-        {
-          "name": "Bhavyalakshmi",
-          "url": "https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq"
-        }
-      ],
-      "duration_ms": 612000,
-      "name": "Kandhasashti Kavacham - Instrumental",
-      "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Who's To Know - Indian Classical Music",
-        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
-      },
-      "artists": [
-        {
-          "name": "L. Shankar",
-          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
-        }
-      ],
-      "duration_ms": 1433426,
-      "name": "Ananda Nadamadum Tillai Sankara",
-      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Bharatiyaar Songs - Veena",
         "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 233351,
       "name": "Kaakkai Siraginile",
       "url": "https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Who's To Know - Indian Classical Music",
+        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
+      },
+      "artists": [
+        {
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
+        }
+      ],
+      "duration_ms": 1433426,
+      "name": "Ananda Nadamadum Tillai Sankara",
+      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Classical Flute Collections",
-        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
       },
       "artists": [
         {
-          "name": "Trichy L. Saravanan",
-          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 562912,
-      "name": "Vathapi - Hamsadwani - Adi",
-      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
+      "duration_ms": 278831,
+      "name": "Ayarpadi - Kurunji - Tisra Nadai",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+        "name": "Classical Flute Collections",
+        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
       },
       "artists": [
         {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+          "name": "Trichy L. Saravanan",
+          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
         }
       ],
-      "duration_ms": 278831,
-      "name": "Ayarpadi - Kurunji - Tisra Nadai",
-      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+      "duration_ms": 562912,
+      "name": "Vathapi - Hamsadwani - Adi",
+      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "South Indian Classical Music",
-        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
-      },
-      "artists": [
-        {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
-        }
-      ],
-      "duration_ms": 589200,
-      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
-      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
         "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 341080,
       "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
       "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "duration_ms": 589200,
+      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
+      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -967,26 +967,6 @@
       "duration_ms": 318667,
       "name": "Thevaram Mangayarkarasi Bowli Adi",
       "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
-        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
-      },
-      "artists": [
-        {
-          "name": "Tyagaraja",
-          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
-        },
-        {
-          "name": "K. S. G. Somanathan",
-          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
-        }
-      ],
-      "duration_ms": 818860,
-      "name": "Nagumomu - Abheri",
-      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1019,22 +999,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Jugalbandi",
-        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
       },
       "artists": [
         {
-          "name": "Kadri Gopalnath",
-          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
         },
         {
-          "name": "V Narasinhalu Wadvati",
-          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
         }
       ],
-      "duration_ms": 3604133,
-      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
-      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
+      "duration_ms": 818860,
+      "name": "Nagumomu - Abheri",
+      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Jugalbandi",
+        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "V Narasinhalu Wadvati",
+          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
+        }
+      ],
+      "duration_ms": 3604133,
+      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
+      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Stalwarts (Live)",
         "url": "https://open.spotify.com/album/7tth1hR5kb6DxSKh4gDZyg"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 682266,
       "name": "Samininne - Sankarabharanam - Adi (Live)",
       "url": "https://open.spotify.com/track/0zZ0NYg5T7GBxLNFF49TQn"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Entharo Mahanu Bhavulu",
+        "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
+      },
+      "artists": [
+        {
+          "name": "Anayampatti Ganesan",
+          "url": "https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Jagadhodharana",
+      "url": "https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1119,22 +1135,6 @@
       "duration_ms": 344586,
       "name": "Tanam - Bhairavi - Misra Triputa",
       "url": "https://open.spotify.com/track/5sUcp6R2bgcVFMHn20VicM"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Entharo Mahanu Bhavulu",
-        "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
-      },
-      "artists": [
-        {
-          "name": "Anayampatti Ganesan",
-          "url": "https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Jagadhodharana",
-      "url": "https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ"
     },
     {
       "added_at": "2025-07-09 11:29:57",

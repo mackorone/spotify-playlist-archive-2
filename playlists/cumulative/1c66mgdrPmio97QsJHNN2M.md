@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,513 songs - 5 day 13 hr 6 min
+2,517 songs - 5 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [Fellas](https://open.spotify.com/track/5thLSGVOlklgGlPf8l5i8d) | [Mr\. Frey](https://open.spotify.com/artist/24FXPv9FNWKUE0JKex6P5S) | [Fellas](https://open.spotify.com/album/5vGLobGI1ROSwQmRInsmbH) | 3:03 | 2026-04-08 | 2026-05-10 |
 | [FELT ALIVE](https://open.spotify.com/track/2Uq2DiFK7RveAosUjRqfqd) | [MANY ROADS MUSIC](https://open.spotify.com/artist/197f7fH79xOZej4qwPBYhk) | [FELT ALIVE](https://open.spotify.com/album/1vax6PYORqRIFtri9t3EPo) | 2:42 | 2026-02-10 | 2026-03-14 |
 | [Fermion](https://open.spotify.com/track/5FeDG9kHAmqS6gbSRXECr2) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 4:37 | 2026-01-23 | 2026-06-07 |
+| [ferric dust](https://open.spotify.com/track/7xyolnzBVFKF1InuJZFCJX) | [ferric dust](https://open.spotify.com/artist/3cXeLNuw7EvxZsgvVrmpHh) | [ferric dust](https://open.spotify.com/album/2HQ2ZdCN1SbJf5uMBS7B87) | 4:26 | 2026-07-23 |  |
 | [Fetter of Your Love](https://open.spotify.com/track/0CjwhqMpFVv30bhoKk5VEh) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [Fetter of Your Love](https://open.spotify.com/album/4AX5r34cEPCyWNGFSM3e94) | 3:19 | 2026-01-01 | 2026-02-03 |
 | [Fighting Hard](https://open.spotify.com/track/2kQVEXi0ElGXb3t0kgfeks) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd), [JC Lowko](https://open.spotify.com/artist/2t1ivpXFQ0uODF12SLUHIi), [Fabio Rubato](https://open.spotify.com/artist/67aPZuRn0HMlgLwcsokP50) | [Once in a Blue Moon](https://open.spotify.com/album/7u1fHSpSzM1emTpd2xgZ7E) | 3:30 | 2026-04-06 | 2026-05-08 |
 | [Fill My Heart](https://open.spotify.com/track/3Jdk6l7TF3vhcWmNIak7OA) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Fill My Heart](https://open.spotify.com/album/1IwUlJ7cnTfce1iVNgCPaQ) | 3:37 | 2026-06-26 |  |
@@ -808,6 +809,7 @@
 | [Ghostings](https://open.spotify.com/track/34GKCFgC48l2qHqwYst8My) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Shenanigansia Vol.2](https://open.spotify.com/album/0JrGNjTeA3ObLmAnvhcqWR) | 4:51 | 2026-05-28 | 2026-07-01 |
 | [Giants](https://open.spotify.com/track/2o85KJc7O2CrQWyW70yzt6) | [NURE](https://open.spotify.com/artist/75rs5jsRztU6TrsvsbB2Ee) | [Day By Day](https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv) | 2:57 | 2026-03-02 | 2026-04-03 |
 | [GiftsFromNewGods](https://open.spotify.com/track/2dA8USYU0VETtCIyOaTE7N) | [Sundrast](https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ) | [GiftsFromNewGods](https://open.spotify.com/album/1AKD5GnO3BJykF051dZvG9) | 3:58 | 2026-06-17 | 2026-07-19 |
+| [Gioco a Papmusic Game](https://open.spotify.com/track/6zI79WCcjePKCyWBI26lih) | [PAPmusic Official](https://open.spotify.com/artist/3cH7Zis27i2yeGUaKtJICz), [LeiKiè](https://open.spotify.com/artist/1qZN7FeNmTwY75cnrPyUh7) | [Gioco a Papmusic Game](https://open.spotify.com/album/5XGY2PgQGu3fHWyL3gBTKg) | 2:01 | 2026-07-23 |  |
 | [Girl from Sweden](https://open.spotify.com/track/4CbzL56AMxRc0njzvvWl12) | [T 'n M](https://open.spotify.com/artist/67OvSENJiBL4ni4zgNBypq) | [T 'n M \(The start\)](https://open.spotify.com/album/02O4vGYQMDfyNwfDHJm1IT) | 3:17 | 2025-11-10 | 2025-12-11 |
 | [Girl Like You](https://open.spotify.com/track/5IbE8DrxRrAXqqUD6izA9I) | [Knixxen Out](https://open.spotify.com/artist/6HZX9q925tlM4XUXZDxlIr) | [Girl Like You](https://open.spotify.com/album/5WVQxQdccXjIFIyGg8M5Ug) | 3:24 | 2026-05-20 | 2026-06-23 |
 | [Girllll.\_1](https://open.spotify.com/track/5xypPVQYGSuyRh2gj8kxt1) | [Joe Lovett](https://open.spotify.com/artist/75dEu8iOCN8lIQ0pzaeH0u) | [Girllll.\_1](https://open.spotify.com/album/7Hl4Dnfd9viTZfcOXqwKF0) | 2:35 | 2026-07-18 |  |
@@ -1331,6 +1333,7 @@
 | [Make Me Wanna Stay](https://open.spotify.com/track/5e2HMtnYlpvQoBShgSplqB) | [Lyndrum](https://open.spotify.com/artist/6rACqxdGCyY3BwqE1K3Zme), [Chloe Mac](https://open.spotify.com/artist/6h8t4LGcJNIxyuUof70HRo) | [Make Me Wanna Stay](https://open.spotify.com/album/5JUkrGDosQ48sJ3q5yxa1V) | 2:46 | 2025-11-11 | 2025-12-13 |
 | [make me your centrepiece](https://open.spotify.com/track/1sqF1AJTszbCVfQb12mK5T) | [Fresh Morning](https://open.spotify.com/artist/0J9EWj8IZg4DkMwrJ3i1IM) | [masterpiece](https://open.spotify.com/album/7EFfisyF4bMcTptjudwmzS) | 3:29 | 2025-11-07 | 2025-12-11 |
 | [Make Room](https://open.spotify.com/track/0R753Punw5tY6PRby50HnL) | [MrPr3zz](https://open.spotify.com/artist/41ofXwgoHtq0mLE2va92kv) | [Make Peace](https://open.spotify.com/album/2MEOBTpzRN8Ct3QuAtwM1Q) | 2:34 | 2026-07-12 |  |
+| [Makeshift](https://open.spotify.com/track/0Z5PFrCgToAGQlyhGMrOXl) | [Tiebreak](https://open.spotify.com/artist/38pIPIk1VQJhC5sYkIqJB1) | [Makeshift](https://open.spotify.com/album/615fsNmtMYwGZRzcHeGxLi) | 3:27 | 2026-07-23 |  |
 | [Making It Up](https://open.spotify.com/track/4DnJJZ5ApE5GOYOWltRe7w) | [Nolan Hubbard](https://open.spotify.com/artist/3k5IfkZOGSBgfyq8ITDjos) | [Making It Up](https://open.spotify.com/album/7hlokbwA2EwcH9jSIRId5l) | 3:04 | 2026-01-23 | 2026-02-25 |
 | [Mama's Medicine](https://open.spotify.com/track/4QqMnamtVfB0oCzVxWEaTr) | [JESSYAH](https://open.spotify.com/artist/0BJZhtGDsP2H8SrYMGq3Zq) | [Mama's Medicine](https://open.spotify.com/album/0J5Wqawz7wHXgVxbAFjzTX) | 2:51 | 2026-01-06 | 2026-02-07 |
 | [Manantial de la prudencia](https://open.spotify.com/track/5zc2tZmxerbtPow3t9EkJs) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Manantial de la prudencia](https://open.spotify.com/album/3BC1uy9UgVhp0NULaZ8xKh) | 3:08 | 2026-06-16 | 2026-07-18 |
@@ -2269,6 +2272,7 @@
 | [Under the Same Sky](https://open.spotify.com/track/4pG5FmwfWQ6mahm00U3oDr) | [Luna M](https://open.spotify.com/artist/6Ct0jgOTwEPickcfSqGeDe), [Street Soul](https://open.spotify.com/artist/7iTjHrehKZqos7LU5FiN2k) | [Under the Same Sky](https://open.spotify.com/album/1nKbFV935ekb3ZUGkChnQe) | 2:37 | 2026-01-09 | 2026-02-11 |
 | [Undercut](https://open.spotify.com/track/2w3ftFPAhaqqMa6CMen9rT) | [Santa Fe](https://open.spotify.com/artist/6MJdyO3Y0IEeTDznotielA), [Caitie Jayde](https://open.spotify.com/artist/5UgBUf9xXlrRvkyZayC0xn) | [Undercut](https://open.spotify.com/album/6MxaINUmrqZQK1TLPqj7v1) | 3:51 | 2026-02-02 | 2026-03-06 |
 | [Underwater Grievances \- Monochrome Media Remix](https://open.spotify.com/track/0y01PI568QTtgHiTuLDJIV) | [Avioraa](https://open.spotify.com/artist/7yBVDk1vDNQIqAh8aB0Ncs), [Monochrome Media](https://open.spotify.com/artist/3X0oRJbUPUaB9cmB8mDQTA) | [Songbird \(Remixes\)](https://open.spotify.com/album/1HzzElxuMjQfPlxvpxoLmM) | 2:32 | 2026-07-21 |  |
+| [Underwater Stars](https://open.spotify.com/track/6fMS3c3NMXoPlJ5fr12r7y) | [Lauren D'Abate](https://open.spotify.com/artist/2MYTtsE7VnifHjTdQn0HC7) | [Underwater Stars](https://open.spotify.com/album/7mNcdkMhGDrjLFvQvU8Jyu) | 2:45 | 2026-07-23 |  |
 | [Unflexible Girl](https://open.spotify.com/track/0ukoyzcHI2YnamOsC3PhZb) | [Elecprote1n](https://open.spotify.com/artist/2xjeyiw2CsGHyVhT7SUapN) | [Unflexible Girl](https://open.spotify.com/album/0RdJwpFzpmNE4yJsGvhWMI) | 6:49 | 2025-11-14 | 2025-12-15 |
 | [Unique](https://open.spotify.com/track/0XpAW2Oh7Kn2pvz00S60gX) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Unique](https://open.spotify.com/album/1A5F32H6jV5I9fsP0loXkt) | 2:50 | 2026-05-17 | 2026-06-18 |
 | [Unmasked](https://open.spotify.com/track/63r1LT5c2KS75gkkLEmqzK) | [Ale Noa](https://open.spotify.com/artist/0m3HzckJXPH0OfGbqmmgxl) | [Unmasked](https://open.spotify.com/album/3aZMnCwpp9D7PQPjCRg47z) | 3:57 | 2025-11-01 | 2025-12-03 |

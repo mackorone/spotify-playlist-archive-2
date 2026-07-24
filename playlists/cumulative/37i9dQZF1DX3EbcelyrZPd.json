@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Barnaba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Stans & Marioo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 206346,
       "name": "Asante",
       "url": "https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 197207,
       "name": "Gagaziko",
       "url": "https://open.spotify.com/track/5BGLsy5JSGU2eNYglOzaOY"
@@ -3452,6 +3452,24 @@
       "duration_ms": 201809,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt"
+    },
+    {
+      "album": {
+        "name": "Hisia",
+        "url": "https://open.spotify.com/album/7L3CiF06GtdiSwV5ZnLVfN"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159495,
+      "name": "Hisia",
+      "url": "https://open.spotify.com/track/1IwBKm1vZOYjHR39Uc42Ee"
     },
     {
       "album": {
@@ -5034,7 +5052,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 182038,
       "name": "Kitu",
       "url": "https://open.spotify.com/track/4o8SKmPN19X5YPYAb5C6Yb"
@@ -5894,6 +5912,28 @@
       "duration_ms": 188181,
       "name": "Love (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
+    },
+    {
+      "album": {
+        "name": "Love Design",
+        "url": "https://open.spotify.com/album/4ZFec2ttYPEPubrGB2J3Sw"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223242,
+      "name": "Love Design",
+      "url": "https://open.spotify.com/track/7zkZ8iKtTAt97oEosdKMpK"
     },
     {
       "album": {
@@ -6990,7 +7030,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 213600,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5"
@@ -7226,7 +7266,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 179118,
       "name": "MUSIC",
       "url": "https://open.spotify.com/track/4wuvcnQXUynkIhJFKfFJVs"
@@ -7662,7 +7702,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 251519,
       "name": "Najivunia",
       "url": "https://open.spotify.com/track/1u37FR1Oo0LLpjwXdGfMB9"
@@ -7812,6 +7852,36 @@
       "duration_ms": 198431,
       "name": "Nampenda",
       "url": "https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP"
+    },
+    {
+      "album": {
+        "name": "Nampenda",
+        "url": "https://open.spotify.com/album/0BAHo2vnr2H04F2VSwX7xd"
+      },
+      "artists": [
+        {
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+        },
+        {
+          "name": "Budazoni(Mlambeshi)",
+          "url": "https://open.spotify.com/artist/0JWzJNNA9KiwQyHcwyG4cn"
+        },
+        {
+          "name": "Kusslove",
+          "url": "https://open.spotify.com/artist/2TLEUktuuUN5KwujvtdT87"
+        },
+        {
+          "name": "10k Degreez",
+          "url": "https://open.spotify.com/artist/0hL9NKxYiZX01EWaLTWvDN"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268336,
+      "name": "Nampenda",
+      "url": "https://open.spotify.com/track/4g2iSiexVcntHjSTrVCYMz"
     },
     {
       "album": {
@@ -9692,7 +9762,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 146753,
       "name": "Pakata",
       "url": "https://open.spotify.com/track/2WMEgo8zKWoZ4XpfVSWxnf"
@@ -10868,6 +10938,24 @@
       "duration_ms": 209254,
       "name": "Shem",
       "url": "https://open.spotify.com/track/3h79qNlIy82yBRBsNZzz0X"
+    },
+    {
+      "album": {
+        "name": "Sherehe",
+        "url": "https://open.spotify.com/album/1PWw7r4Ymv8icT0OwivODB"
+      },
+      "artists": [
+        {
+          "name": "Click Master",
+          "url": "https://open.spotify.com/artist/4EaiSECLNfGjS7aASm7un2"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168940,
+      "name": "Sherehe",
+      "url": "https://open.spotify.com/track/49GP5YDvcE0nrY1tfGSAls"
     },
     {
       "album": {
@@ -14316,7 +14404,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 153600,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o"

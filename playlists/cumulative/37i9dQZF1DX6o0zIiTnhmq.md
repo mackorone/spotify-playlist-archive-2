@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-200 songs - 2 day 0 hr 59 min
+201 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Krishnaya Vasudevaya \- Meditative Chants](https://open.spotify.com/track/4cZhdhG5u5V5UOEK5NQqFj) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl), [Vickky Agarwal](https://open.spotify.com/artist/0muWHzF4z1mfUtJRYMIfBH) | [Krishnaya Vasudevaya \- Meditative Chants](https://open.spotify.com/album/2nCUrvFSfANmGTAzNdckTI) | 4:40 | 2026-02-19 |  |
 | [Lakshmi Kuber Mantra for Wealth](https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH) | [Adarsh Kumar](https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe) | [Lakshmi Kuber Mantra for Wealth \(Original\)](https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5) | 36:33 | 2022-01-24 | 2022-07-29 |
 | [Lam Chakra Mantra To Let Go Of Fears](https://open.spotify.com/track/6dxz5b7hSl4SG3Xyynrqtc) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:01 | 2025-04-07 | 2025-06-12 |
-| [Laxmi Gayatri Mantra](https://open.spotify.com/track/4Vxo5mQxdcP47UeZixn7CF) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Laxmi Gayatri Mantra](https://open.spotify.com/album/4yhes5SPCtpMOuBba2ZyQA) | 3:21 | 2025-11-03 |  |
+| [Laxmi Gayatri Mantra](https://open.spotify.com/track/4Vxo5mQxdcP47UeZixn7CF) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Laxmi Gayatri Mantra](https://open.spotify.com/album/4yhes5SPCtpMOuBba2ZyQA) | 3:21 | 2025-11-03 | 2026-07-24 |
 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 | 2023-05-23 |  |
 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 | 2025-02-07 | 2025-09-15 |
 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 | 2024-12-30 | 2026-05-27 |
@@ -112,6 +112,7 @@
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 | 2024-04-19 |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 | 2024-12-31 |
 | [Om Bhur Bhuvah Swaha\- Gayatri Mantra \- Meditative Chants](https://open.spotify.com/track/5RUSSmZ7vbtRc3ZPDoENoP) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl) | [Om Bhur Bhuvah Swaha\- Gayatri Mantra \- Meditative Chants](https://open.spotify.com/album/3oxxfzWdXsWc7XuZn7sU5l) | 6:34 | 2025-10-22 |  |
+| [Om Chakra Mantra To Find Your True Purpose](https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:42 | 2026-07-03 |  |
 | [Om Chanting](https://open.spotify.com/track/5klNR4AlnRhWqP7vgqmWkB) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Om Chanting](https://open.spotify.com/album/5LAEodG3B8AITPjaSAY42X) | 5:44 | 2025-02-07 |  |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 | 2024-09-30 |  |

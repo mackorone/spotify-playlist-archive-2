@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJUfGnSKG/pWf1PMRd/ffP/SLhbPIb",
+  "snapshot_id": "AAAJU5mhk73MT2Joz1P5UpNG+Qs4eYlg",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -75459,6 +75459,38 @@
       "duration_ms": 218451,
       "name": "Unforgiving Nights",
       "url": "https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE"
+    },
+    {
+      "added_at": "2026-07-23 10:31:37",
+      "album": {
+        "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+        "url": "https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz"
+      },
+      "artists": [
+        {
+          "name": "FaveRiot",
+          "url": "https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN"
+        }
+      ],
+      "duration_ms": 146227,
+      "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+      "url": "https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH"
+    },
+    {
+      "added_at": "2026-07-23 15:34:06",
+      "album": {
+        "name": "Desolate",
+        "url": "https://open.spotify.com/album/3u3Qf5KG0AFwSLAl7BdKyM"
+      },
+      "artists": [
+        {
+          "name": "Asylum Road",
+          "url": "https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Desolate",
+      "url": "https://open.spotify.com/track/303YZOIjFPc92eth5JaBxg"
     }
   ],
   "unique_name": "playlist spotify free",

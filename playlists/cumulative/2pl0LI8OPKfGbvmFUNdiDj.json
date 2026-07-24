@@ -4685,6 +4685,24 @@
     },
     {
       "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/3QbUw26LoBGgTZJkFfGOrw"
+      },
+      "artists": [
+        {
+          "name": "CHOCA BLUES",
+          "url": "https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Kabuki Dance",
+      "url": "https://open.spotify.com/track/1OpiGHa8y1yb4zxvY8bxuq"
+    },
+    {
+      "album": {
         "name": "Kick It Up!",
         "url": "https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR"
       },

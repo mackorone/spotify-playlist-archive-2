@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kwon Jin Ah\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: LIM KIM\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,378 songs - 3 day 11 hr 26 min
+1,379 songs - 3 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 | 2026-04-23 |
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 | 2026-03-30 | 2026-05-20 |
-| [A Song For My Cat](https://open.spotify.com/track/3UbERtoQkWDDe0LmTMy4Dp) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [A Song For My Cat](https://open.spotify.com/album/6w94sC2P9fIZ2fKbsz2BNb) | 2:48 | 2026-04-27 |  |
+| [A Song For My Cat](https://open.spotify.com/track/3UbERtoQkWDDe0LmTMy4Dp) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [A Song For My Cat](https://open.spotify.com/album/6w94sC2P9fIZ2fKbsz2BNb) | 2:48 | 2026-04-27 | 2026-07-24 |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2021-12-21 | 2022-04-20 |
 | [A Trail Of Seasons](https://open.spotify.com/track/6g2xMxNkfTZ1kkyccaHyaD) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [A Trail Of Seasons](https://open.spotify.com/album/6tBEtld4QZaiOkh1V8497y) | 4:08 | 2022-03-31 | 2022-04-05 |
 | [About Loving Someone](https://open.spotify.com/track/4egcdhIJIx8KulcPT1Wi5o) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [About Loving Someone](https://open.spotify.com/album/6uOACaKB5uG9o3mV41FJgJ) | 4:43 | 2024-08-13 | 2024-08-30 |
@@ -805,6 +805,7 @@
 | [Night at Noon](https://open.spotify.com/track/4nwuUufS368A1BHhINsRxX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Le Alien Petit Prince : WE ARE THE NIGHT](https://open.spotify.com/album/1wbFdHCvkYjyVT5Z6Zyj3F) | 3:29 | 2025-09-30 | 2025-10-15 |
 | [night drive](https://open.spotify.com/track/0IlkvSocmPVnaVXxQsLs56) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [night drive](https://open.spotify.com/album/7lGoiZo6fEBatrwlNNexTP) | 3:12 | 2021-12-12 | 2022-04-07 |
 | [Night Keeper](https://open.spotify.com/track/6hOEtej8q58BgHjvFeYohj) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Night Keeper](https://open.spotify.com/album/1Y6jdkFgLwyGt1CBuEdbgN) | 3:51 | 2023-01-25 | 2023-02-09 |
+| [night night](https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SKIN](https://open.spotify.com/album/2VwACWY14BDAQ6so8zIL07) | 3:59 | 2026-07-23 |  |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-04 | 2022-08-05 |
 | [Night Walk](https://open.spotify.com/track/0AL9ujUjDLk219ukEZ15xc) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Night Walk](https://open.spotify.com/album/1Qyx5qvWDPToF4h5pJjory) | 4:04 | 2025-07-31 | 2025-09-23 |
 | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/track/0XytXTd3EGup2Fqng4nxau) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/album/2RRB01nIint1XGgYhFVulM) | 4:14 | 2022-03-31 | 2022-04-18 |

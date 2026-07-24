@@ -1,15 +1,59 @@
 {
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
-  "num_followers": 574134,
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
+  "num_followers": 574110,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB57zdcxiy/IDfgK/YejsGN1rPhU",
+  "snapshot_id": "AAAAADUBkcc17Mg2hMAJEo4fxXwwoV/w",
   "tracks": [
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/7dLWICz3sBGjydCRWhzJZq"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "PMBTZ",
+          "url": "https://open.spotify.com/artist/4fcXi70KndQt7IIKn9327O"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/3xJEnh3Cor6OxkUiRY3BoT"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "Sopot",
+        "url": "https://open.spotify.com/album/7Fbz7ophVJlDqzORlzwCYo"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "duration_ms": 214101,
+      "name": "Sopot",
+      "url": "https://open.spotify.com/track/7oz7dVuCTxppywszxv9gol"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "WARTO K\u0141AMA\u0106",
         "url": "https://open.spotify.com/album/3hFAYv5PEAQzxEzphGkfjb"
@@ -25,47 +69,27 @@
       "url": "https://open.spotify.com/track/1RGVsQuc33hkiE7BqLoGjt"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
-        "name": "NIC NIE MIJA / za tten rap",
-        "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9"
+        "name": "Trash talk vol. 1",
+        "url": "https://open.spotify.com/album/4isxzK6fgSwD83N4JH63uO"
       },
       "artists": [
         {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
         },
         {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
         }
       ],
-      "duration_ms": 220000,
-      "name": "NIC NIE MIJA",
-      "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
+      "duration_ms": 166736,
+      "name": "Trash talk vol. 1",
+      "url": "https://open.spotify.com/track/5d9R3bVOERBlXv1ePTo6is"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
-      "album": {
-        "name": "RED BULL 64 BARS",
-        "url": "https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1"
-      },
-      "artists": [
-        {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "RED BULL 64 BARS",
-      "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
-    },
-    {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "CZEMPION 2",
         "url": "https://open.spotify.com/album/23H2U3BatvcuciQaUF8hMX"
@@ -85,7 +109,47 @@
       "url": "https://open.spotify.com/track/1Ymguhxs4YAwklSsDUnUin"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "NIC NIE MIJA / za tten rap",
+        "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "NIC NIE MIJA",
+      "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "RED BULL 64 BARS",
+        "url": "https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "RED BULL 64 BARS",
+      "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "START",
         "url": "https://open.spotify.com/album/5sXdKxx38ARZ38u3sOwWAA"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/4AuTRYcDhgwmuCJ472Wtgy"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "#MATA2040",
         "url": "https://open.spotify.com/album/3qbTjrny6JVyR9Q8hZoJYT"
@@ -125,7 +189,23 @@
       "url": "https://open.spotify.com/track/6IbQeh3J825ekqHo1ghgwj"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "Grand Soir",
+        "url": "https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "duration_ms": 133135,
+      "name": "Grand Soir",
+      "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "CALIFORNIA LOVE EP",
         "url": "https://open.spotify.com/album/2Mk6yP0Xpv0R4Ej9Pi89zd"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Latamy",
         "url": "https://open.spotify.com/album/69ieCyDQa2GGWgASkdDmCu"
@@ -185,7 +265,7 @@
       "url": "https://open.spotify.com/track/0tC7avt8CixFIGIpR2uJaV"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "GDZIE BY\u0141A\u015a?",
         "url": "https://open.spotify.com/album/7sJmc0BtJbI60RVzBHaFzO"
@@ -201,7 +281,7 @@
       "url": "https://open.spotify.com/track/7abcELihvxiCAMjRAZj4IW"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "PCC 3.0",
         "url": "https://open.spotify.com/album/6gLwySNsAnEM8NisJ6JP7I"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/7uS5OvsiezL2MMoPgOV2Qk"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Don Alvarez",
         "url": "https://open.spotify.com/album/3zS53BAFQKFwg2PGS7HJgQ"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/25gw4lE397Ex7Dnuba1U6A"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "K <3",
         "url": "https://open.spotify.com/album/5B9XVqCtc3JPW84Z5xQOUR"
@@ -273,7 +353,7 @@
       "url": "https://open.spotify.com/track/0SZrwDi5x1CNnVGe66NaGj"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Ty masz",
         "url": "https://open.spotify.com/album/1Js6zQtqdvpmoDEpvfuxiN"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/4fQAVxaVQhkK8nyNZoPpeY"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "REKLAMACJA'47: CD2",
         "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/5X1f1HSzJlUjQ7HUMw8PDD"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "NIC NIE MIJA / za tten rap",
         "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9"
@@ -357,7 +437,7 @@
       "url": "https://open.spotify.com/track/1HkRE4S93njQx6VeL0Q0YW"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "OSH TY",
         "url": "https://open.spotify.com/album/0Yum1WWkWtGUSOyInIbhrV"
@@ -373,7 +453,7 @@
       "url": "https://open.spotify.com/track/1n9PPqmn5rmkoUPkOAmGzy"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "DOOKO\u0141A \u015aWIATA",
         "url": "https://open.spotify.com/album/4QxStvjylQxXA4GRpid1oy"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/4MKqibeqzkEkNpnSV59zAa"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Za p\u00f3\u017ano",
         "url": "https://open.spotify.com/album/7gwtU9E0I5y6QEONnut6ua"
@@ -437,7 +517,7 @@
       "url": "https://open.spotify.com/track/1oDUzeOrSFiBq2dzsIA78S"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "MARBELLA",
         "url": "https://open.spotify.com/album/1mKhrcjJu1VUdiIgT76w6M"
@@ -469,7 +549,7 @@
       "url": "https://open.spotify.com/track/4GWnHZqrHozrGBBFItK5Oj"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "WALDEK KIEPSKI",
         "url": "https://open.spotify.com/album/0cu0hYUipOmG1h8TCZ0IDE"
@@ -485,7 +565,7 @@
       "url": "https://open.spotify.com/track/1AWHemRVAmzAqaQfQcyqfM"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "A TY CO",
         "url": "https://open.spotify.com/album/1yhOLSN3ySHn2wvPLG9Rhw"
@@ -501,7 +581,7 @@
       "url": "https://open.spotify.com/track/4imAERwtTsu2G294balxT3"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "CALIFORNIA LOVE",
         "url": "https://open.spotify.com/album/7cRgIKL2aqCPY43xHP6nuT"
@@ -529,7 +609,7 @@
       "url": "https://open.spotify.com/track/4PNf3DmIcyblyYK4hfklGu"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "TO MY",
         "url": "https://open.spotify.com/album/1MO3Kx3uacH2ijqo9Wp9bG"
@@ -549,7 +629,7 @@
       "url": "https://open.spotify.com/track/4Zt8PvTXLw3S79g3QiSFob"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "REKLAMACJA'47: CD2",
         "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/0L4yQZeTWdsodtHWWNgLvN"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "SERIO",
         "url": "https://open.spotify.com/album/6Xgtuy59R6aLCcF4JpxVBV"
@@ -593,35 +673,7 @@
       "url": "https://open.spotify.com/track/78bAUUxyLxhBQDCVfXb8Ov"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
-      "album": {
-        "name": "Ch\u0142opy Don't Cry",
-        "url": "https://open.spotify.com/album/3I8QrVEiVBirvd36mE0NPY"
-      },
-      "artists": [
-        {
-          "name": "Szwed Swd",
-          "url": "https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9"
-        },
-        {
-          "name": "Polskii",
-          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
-        },
-        {
-          "name": "Ketz 03k",
-          "url": "https://open.spotify.com/artist/3qWoO79m8VMp60GWsYU3Ln"
-        },
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Ch\u0142opy Don't Cry",
-      "url": "https://open.spotify.com/track/5gYnqRcV7Q08D7dKJ210MB"
-    },
-    {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Saudi",
         "url": "https://open.spotify.com/album/2Cp1zw7lpPjLTjVThDGyj6"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/2Fwd5lTA2HqUg4xqzX5EOM"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Zimowy Gda\u0144sk",
         "url": "https://open.spotify.com/album/14RrXgwKcnGlQM1g5FKWHw"
@@ -669,27 +721,7 @@
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
-      "album": {
-        "name": "Hania",
-        "url": "https://open.spotify.com/album/05WueF3p4x1A3aeNAD6AQ4"
-      },
-      "artists": [
-        {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
-        },
-        {
-          "name": "Pawella",
-          "url": "https://open.spotify.com/artist/6TVzi49bBN1JAwcHDiN5AH"
-        }
-      ],
-      "duration_ms": 91812,
-      "name": "By\u0107 Tam",
-      "url": "https://open.spotify.com/track/7k8XG9BnCITMDb1fe0VU82"
-    },
-    {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Czy Ty to widzisz?",
         "url": "https://open.spotify.com/album/5aYmDXwbYjF4oYJMQmWu99"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/5U6UeZPPiCNqr4c50GNbE0"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "\u00dc UP? mixtape",
         "url": "https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "NOWE CIOCIE",
         "url": "https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "NIE MA NAS TAM",
         "url": "https://open.spotify.com/album/5iKkgT7duPjYqlY3KdfYCq"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/0QeaCgjAByJ9Z5cxwHqIq7"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "REKLAMACJA'47: CD2",
         "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/3SAxzUBcOd4KykAarxwCAs"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Kamie\u0144 z serca",
         "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
@@ -857,27 +889,35 @@
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
-        "name": "Dzieciaki to robi\u0105",
-        "url": "https://open.spotify.com/album/76iVcirQoZunSkCKgcr14q"
+        "name": "Ch\u0142opy Don't Cry",
+        "url": "https://open.spotify.com/album/3I8QrVEiVBirvd36mE0NPY"
       },
       "artists": [
         {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+          "name": "Szwed Swd",
+          "url": "https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9"
         },
         {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+          "name": "Polskii",
+          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
+        },
+        {
+          "name": "Ketz 03k",
+          "url": "https://open.spotify.com/artist/3qWoO79m8VMp60GWsYU3Ln"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
         }
       ],
-      "duration_ms": 194895,
-      "name": "Z\u0142e dziewczyny",
-      "url": "https://open.spotify.com/track/7LPdazalDCXskxsnCbicQv"
+      "duration_ms": 186666,
+      "name": "Ch\u0142opy Don't Cry",
+      "url": "https://open.spotify.com/track/5gYnqRcV7Q08D7dKJ210MB"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "ZA KOGO MNIE MASZ?",
         "url": "https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY"
@@ -901,23 +941,7 @@
       "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
-      "album": {
-        "name": "WIECZ\u00d3R KAWALERSKI",
-        "url": "https://open.spotify.com/album/4W8FIabwOwiSMYtNr9d8qC"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "WIECZ\u00d3R KAWALERSKI",
-      "url": "https://open.spotify.com/track/0AylbaS3jQ4BgT0NEVVa7S"
-    },
-    {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "wszystko na bursztynowo",
         "url": "https://open.spotify.com/album/3p60S20bPwQwDxjHOgyXHT"
@@ -933,7 +957,7 @@
       "url": "https://open.spotify.com/track/36BxwhqydaC791m9yvsb9H"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "NIE NA PR\u00d3\u017bNO",
         "url": "https://open.spotify.com/album/3MfS1V1L5JfUvA07AY83av"
@@ -949,7 +973,7 @@
       "url": "https://open.spotify.com/track/7Be8ZfmNcN3gcaIYjkDdvG"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "HOT HITS",
         "url": "https://open.spotify.com/album/29XmmR3Btcx4aJCF7WZqWH"
@@ -977,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5p7wzpasI6uYdGJP7CUYQf"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "FRISBEE",
         "url": "https://open.spotify.com/album/50VqoEoeDaD1mBmDB531kB"
@@ -997,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0SBlmCpy5NYCg2NcXSG2Mp"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -1021,7 +1045,7 @@
       "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "ECHO",
         "url": "https://open.spotify.com/album/6JkirjpVFMizDMoOqAGCOg"
@@ -1037,31 +1061,27 @@
       "url": "https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
-        "name": "REKLAMACJA'47",
-        "url": "https://open.spotify.com/album/5EA3ZymI8Vh9bv8DwUogNL"
+        "name": "Dzieciaki to robi\u0105",
+        "url": "https://open.spotify.com/album/76iVcirQoZunSkCKgcr14q"
       },
       "artists": [
         {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
         },
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "bvdy47",
-          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
         }
       ],
-      "duration_ms": 187199,
-      "name": "bluza taty",
-      "url": "https://open.spotify.com/track/1Lcyj6MiHG3oDttzwrFH9g"
+      "duration_ms": 194895,
+      "name": "Z\u0142e dziewczyny",
+      "url": "https://open.spotify.com/track/7LPdazalDCXskxsnCbicQv"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "Zab\u00f3jstwo Liryczne 5",
         "url": "https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq"
@@ -1089,7 +1109,7 @@
       "url": "https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "FACECARD",
         "url": "https://open.spotify.com/album/0N0UfBosLlvVl3ZFYIKaxZ"
@@ -1109,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp"
     },
     {
-      "added_at": "2026-07-16 22:00:58",
+      "added_at": "2026-07-23 22:01:11",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -1131,38 +1151,6 @@
       "duration_ms": 266840,
       "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
-    },
-    {
-      "added_at": "2026-07-16 22:00:58",
-      "album": {
-        "name": "UUU AAA",
-        "url": "https://open.spotify.com/album/7BOodNz3JdDUkILsYPcF3M"
-      },
-      "artists": [
-        {
-          "name": "Tax Free",
-          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Kazior",
-          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
-        },
-        {
-          "name": "CUZCO$",
-          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
-        },
-        {
-          "name": "Lot808",
-          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "UUU AAA",
-      "url": "https://open.spotify.com/track/1T4doR3wMh5bSCDpn9ai25"
     }
   ],
   "unique_name": "RAP GENERACJA",

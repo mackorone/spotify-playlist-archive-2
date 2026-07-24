@@ -8183,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Baby, You're a Star",
+        "url": "https://open.spotify.com/album/25MVAhURbTio1cp0NNi8rq"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Baby, You're a Star",
+      "url": "https://open.spotify.com/track/3C2tcQtlIutUYDsKkL2W6F"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -20910,7 +20928,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 240994,
       "name": "Como una Avalancha",
       "url": "https://open.spotify.com/track/2bPkQPUqWZjoZS9PZFBitN"
@@ -30876,6 +30894,28 @@
       "duration_ms": 194285,
       "name": "Elliott",
       "url": "https://open.spotify.com/track/6ile0SbL3rGqAqE7f0YiDe"
+    },
+    {
+      "album": {
+        "name": "Say less\ud83e\udde1Ember love",
+        "url": "https://open.spotify.com/album/4j78XziCedk1J8dsYJ2mEY"
+      },
+      "artists": [
+        {
+          "name": "Ann Weberg",
+          "url": "https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO"
+        },
+        {
+          "name": "Sondre",
+          "url": "https://open.spotify.com/artist/28JjZ8ruH4FlAlFhjY8A7l"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ember love",
+      "url": "https://open.spotify.com/track/2n7MAkzktZ6rB2K99bFyy4"
     },
     {
       "album": {
@@ -45700,7 +45740,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 189428,
       "name": "Hold Your Hand",
       "url": "https://open.spotify.com/track/4o6KYfWpdb3Sgm1YCGL0HV"
@@ -67520,7 +67560,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 224138,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/1CfJKW0JwwlJ5QVIunDbJ9"
@@ -88268,6 +88308,24 @@
       "duration_ms": 175800,
       "name": "Say It Back",
       "url": "https://open.spotify.com/track/16yAVUBbra4m6KdRQGi5AN"
+    },
+    {
+      "album": {
+        "name": "Say less\ud83e\udde1Ember love",
+        "url": "https://open.spotify.com/album/4j78XziCedk1J8dsYJ2mEY"
+      },
+      "artists": [
+        {
+          "name": "Ann Weberg",
+          "url": "https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Say less",
+      "url": "https://open.spotify.com/track/5unv6b9hrDKe3QJga1YX78"
     },
     {
       "album": {

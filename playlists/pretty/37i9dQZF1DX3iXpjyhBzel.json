@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1219102,
+  "num_followers": 1219147,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Se eu Somente Te Tocar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
+      },
+      "artists": [
+        {
+          "name": "Nilson Junior",
+          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
+        }
+      ],
+      "duration_ms": 295882,
+      "name": "Se eu Somente Te Tocar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Eu Vou Fazer (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 276551,
       "name": "Eu Vou Fazer - Ao Vivo",
       "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Se eu Somente Te Tocar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
-      },
-      "artists": [
-        {
-          "name": "Nilson Junior",
-          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
-        }
-      ],
-      "duration_ms": 295882,
-      "name": "Se eu Somente Te Tocar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
       },
@@ -555,38 +571,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 519000,
-      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -631,6 +615,22 @@
       "duration_ms": 364104,
       "name": "Meu Mestre",
       "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 519000,
+      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 304391,
       "name": "Tu \u00c9s Deus (A Ele) - Ao Vivo",
       "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-06-12 03:01:53",

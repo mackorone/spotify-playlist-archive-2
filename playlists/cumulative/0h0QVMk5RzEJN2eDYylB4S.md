@@ -4,7 +4,7 @@
 
 > 
 
-541 songs - 2 day 12 hr 46 min
+542 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2020-03-01 |  |
 | [Go \- Victor Ruiz Remix](https://open.spotify.com/track/1hU6oWBzX2SDEnmQSy5c9G) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Suara Remixes](https://open.spotify.com/album/4JeJQXRksm7DDPKDt7bmEx) | 9:19 | 2021-01-06 |  |
 | [Go Slow \(with Kaskade\)](https://open.spotify.com/track/4V7phnA6Q5Z2w3Vj9cZwe4) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [Go Slow \(with Kaskade\)](https://open.spotify.com/album/0z81JQOmqHKyz9T0tIue7n) | 3:38 | 2019-07-19 |  |
+| [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 | 2026-07-23 |  |
 | [Grove](https://open.spotify.com/track/1E1o3TQPT7MgvC3majuEn0) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Here Today Gone Tomorrow](https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo) | 7:07 | 2018-11-08 |  |
 | [Gwendoline \- Original Mix](https://open.spotify.com/track/6heLeWInDSLU9wdrKhx2l5) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb) | [Gwendoline](https://open.spotify.com/album/5keDEGQolm4EtI3O39n7MR) | 7:32 | 2020-10-03 |  |
 | [Happiness Lies](https://open.spotify.com/track/3CPEi77tTjJDlUgZKXpoOl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [FEAR](https://open.spotify.com/album/52F2jIjoNIpOn7XUZdqpD7) | 8:44 | 2019-05-14 |  |

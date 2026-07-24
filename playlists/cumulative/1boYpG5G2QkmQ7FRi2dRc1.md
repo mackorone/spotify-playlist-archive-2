@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-3,088 songs - 7 day 19 hr 4 min
+3,089 songs - 7 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2023-07-15 | 2023-07-29 |
 | [finish line](https://open.spotify.com/track/0kRFW9RsJa47yjr9ZNLpwT) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [finish line](https://open.spotify.com/album/5eBI8MKTlqeHGmHLevQ0ZP) | 2:21 | 2023-03-11 | 2023-04-01 |
 | [Fired Up](https://open.spotify.com/track/2kSl1V6RTeo1cPTCoHGUp9) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq) | [Fired Up EP](https://open.spotify.com/album/34SA5C8Glp1JcvvVZbUHne) | 3:41 | 2025-05-17 | 2025-05-25 |
+| [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-23 |  |
 | [Flashback](https://open.spotify.com/track/11sEx9P5CnqsEgbrr5a7pn) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Flashback](https://open.spotify.com/album/1Ma6mp5H3enzkLNkJjBOsf) | 2:18 | 2025-05-31 | 2025-06-29 |
 | [Flashdance \(feat\. Man Parrish\)](https://open.spotify.com/track/4o7tPk11jkPTwWiOwfaXbf) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Flashdance \(feat\. Man Parrish\)](https://open.spotify.com/album/2yn9CpgGe6NJGKTkPrVQR8) | 2:45 | 2023-06-01 | 2023-06-25 |
 | [Flashlight](https://open.spotify.com/track/5zF0TbsMKjIUQDrOhBfrvp) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [RESPONS](https://open.spotify.com/artist/3fnRJriX0WKnGVaNoPL7bI) | [Flashlight](https://open.spotify.com/album/2k5PQdkNT1HHTuHsPwWwug) | 3:11 | 2025-08-15 | 2025-09-06 |

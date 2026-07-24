@@ -328,10 +328,28 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 176000,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/2Zq282fLES8t82cDBjxyi6"
+    },
+    {
+      "album": {
+        "name": "Trench To Triumph",
+        "url": "https://open.spotify.com/album/1SbPrtfItpNGsV80UMHJ6U"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/5OGVd4oI6t9N3kBDgKAAUy"
     },
     {
       "album": {
@@ -346,10 +364,28 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/59OGomfNJnA70zq7pQxkff"
+    },
+    {
+      "album": {
+        "name": "Trench To Triumph",
+        "url": "https://open.spotify.com/album/1SbPrtfItpNGsV80UMHJ6U"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/5dzkBexQ9ZLueAAipEUYym"
     },
     {
       "album": {

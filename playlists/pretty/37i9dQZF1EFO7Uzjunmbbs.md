@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 103 | [Mixed Emotions](https://open.spotify.com/track/0JeyuSyhArti8bf31ZvTyJ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 2:40 |
 | 104 | [This Too Shall Pass](https://open.spotify.com/track/2dH6WEGWUvieo01KThGYzh) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:28 |
 | 105 | [Hail Mary](https://open.spotify.com/track/73dOyLxQtiPF7ZpE4kt4nY) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Low](https://open.spotify.com/album/6Iy0YmPlXUc30fv2Pi6J2v) | 3:32 |
-| 106 | [Girl From Spring Break](https://open.spotify.com/track/3w9JsvpiblsTyikAN9mvar) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Amos](https://open.spotify.com/album/4xb3GQ3k8DQRnfqvAar0pu) | 3:20 |
-| 107 | [Better](https://open.spotify.com/track/5bJlZNPNL6BeA3h1lDYJLq) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 3:13 |
+| 106 | [Better](https://open.spotify.com/track/5bJlZNPNL6BeA3h1lDYJLq) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 3:13 |
+| 107 | [Girl From Spring Break](https://open.spotify.com/track/3w9JsvpiblsTyikAN9mvar) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Amos](https://open.spotify.com/album/4xb3GQ3k8DQRnfqvAar0pu) | 3:20 |
 | 108 | [Crashin' The Boys' Club](https://open.spotify.com/track/78xoooOL6D3LGLoakJZJVp) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 2:56 |
 | 109 | [Hoodie](https://open.spotify.com/track/51rmbZbSxwrLGhFEsC61cT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:01 |
 | 110 | [Halfway](https://open.spotify.com/track/2rvifQhudlzVMW8ThiaAzV) | [3FOR3](https://open.spotify.com/artist/31wYkGM3nm2rOm2wTt2Pgi) | [The EP](https://open.spotify.com/album/5x8XP5DQsf3s4sqX0e6V41) | 3:32 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 217 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 218 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcXkcgAAAADEg/Ihmungoh5ebcJmI7/b`
+Snapshot ID: `AcXqCAAAAADEcrJO+GR0DPShazR3F3xL`

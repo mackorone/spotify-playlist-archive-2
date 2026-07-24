@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,140 songs - 4 day 21 hr 12 min
+2,141 songs - 4 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-18 | 2023-03-29 |
 | [Boys Like Girls \(Feat\. Gist, Jayci yucca\)](https://open.spotify.com/track/0zqGsExr8GxWqoaYaa78xU) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Life is Once](https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6) | 2:26 | 2023-10-27 | 2023-11-02 |
 | [Braindead](https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV) | 2:43 | 2022-09-15 | 2022-10-09 |
-| [Brainwash](https://open.spotify.com/track/6g02YqJTLBjqJ7sGvW1wDB) | [HEEDAE](https://open.spotify.com/artist/6J4oB6UcxVwsI6jmjmeMGA), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ) | [DOMO](https://open.spotify.com/album/1BtFOc54jRJ5WLOfZmn6JC) | 2:34 | 2026-07-19 |  |
+| [Brainwash](https://open.spotify.com/track/6g02YqJTLBjqJ7sGvW1wDB) | [HEEDAE](https://open.spotify.com/artist/6J4oB6UcxVwsI6jmjmeMGA), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ) | [DOMO](https://open.spotify.com/album/1BtFOc54jRJ5WLOfZmn6JC) | 2:34 | 2026-07-19 | 2026-07-24 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-06-27 |
 | [Breakfast](https://open.spotify.com/track/5gVCEqLQrHkZPQzLw8pTXC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:32 | 2021-09-19 | 2021-09-22 |
 | [Breakup Serenade](https://open.spotify.com/track/4FEbCIhWHombwQq1sM4ZzT) | [SLAY](https://open.spotify.com/artist/0mKLeAOe2gIPTqqOdSC0UJ) | [Jenny](https://open.spotify.com/album/35q9Eth2ikm0zRNTgtvkKN) | 3:48 | 2026-01-05 | 2026-01-15 |
@@ -1953,6 +1953,7 @@
 | [VILLAIN DIES](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:04 | 2022-03-15 | 2022-03-21 |
 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 | 2026-06-09 | 2026-07-08 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
+| [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 | 2026-07-23 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2025-04-17 | 2025-04-30 |
 | [VVS](https://open.spotify.com/track/7Igh1mqghlHz5dimfQV85G) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/6kMyOivhnaVCAfTw3ikjpB) | 5:35 | 2021-03-29 | 2021-04-01 |
 | [W.I.N\. \(Feat\. BewhY\) \(Prod\. by GRAY\)](https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 5:06 | 2026-03-29 | 2026-04-04 |

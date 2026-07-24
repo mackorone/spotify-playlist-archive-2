@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-662 songs - 1 day 12 hr 53 min
+663 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 | 2022-08-18 | 2022-09-23 |
 | [Chase The Devil](https://open.spotify.com/track/1QS0KyyTpb4DeP1Akh91lC) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Reggae Is Love](https://open.spotify.com/album/7tvBoWEMNpVDv00U8yh74W) | 3:26 | 2022-09-22 | 2022-11-13 |
 | [Chase The Devil](https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 3:26 | 2021-03-02 | 2026-06-13 |
-| [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 | 2021-03-02 |  |
+| [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 | 2021-03-02 | 2026-07-24 |
 | [Cock Mouth Kill Cock](https://open.spotify.com/track/2pkdn2EnKnjzpoK5YPvlbt) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v) | [Carry Go Bring Come: Anthology '64\-'74](https://open.spotify.com/album/4KuPYLGk6zACKi6QQIyprp) | 2:54 | 2021-03-02 | 2024-06-27 |
 | [Come on Home](https://open.spotify.com/track/2M1ixmKMIyYQmt0w8B3BdX) | [Joe Higgs](https://open.spotify.com/artist/5XgHWn04awuFqBm0R5lLFX) | [Life of Contradiction](https://open.spotify.com/album/220whHL1BKA7zpV2XTy8jo) | 3:02 | 2021-03-02 |  |
 | [Come We Go Moonwalk](https://open.spotify.com/track/7KGxXt2w2MPLZmcfAQrGKq) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Sufferer \(Expanded Edition\)](https://open.spotify.com/album/0MfTzGSkU8lLNotQZ2Z4IA) | 2:52 | 2022-09-22 | 2023-11-11 |
@@ -396,6 +396,7 @@
 | [Night Nurse](https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 4:08 | 2024-01-29 | 2026-07-15 |
 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 | 2021-03-02 | 2026-06-13 |
 | [No Love Allowed](https://open.spotify.com/track/0aJNqdKdmaRnegDDzOUelc) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [LMK](https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ) | [Singasong](https://open.spotify.com/album/6ME2dfYLPusdWevj5vsula) | 4:01 | 2022-09-22 | 2024-01-30 |
+| [No Love Allowed \(feat\. LMK\)](https://open.spotify.com/track/17VuKYmgB5hVsEDDY5TxfJ) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [LMK](https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ) | [Singasong](https://open.spotify.com/album/676PzGO6FiWPcYpmd3e0Un) | 4:01 | 2024-01-29 |  |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 | 2022-09-22 | 2024-01-30 |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/3BohTmW79fRTvVsn0rHjqR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend](https://open.spotify.com/album/7LTIGaDd37K9itS2I4FxKq) | 7:08 | 2024-01-29 | 2025-10-18 |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/5Mrtmdn5kBll4B2AOYL6RE) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ) | 7:11 | 2022-09-22 | 2022-11-13 |

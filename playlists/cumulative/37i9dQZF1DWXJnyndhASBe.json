@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 187199,
       "name": "bluza taty",
       "url": "https://open.spotify.com/track/1Lcyj6MiHG3oDttzwrFH9g"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 91812,
       "name": "By\u0107 Tam",
       "url": "https://open.spotify.com/track/7k8XG9BnCITMDb1fe0VU82"
@@ -8050,6 +8050,24 @@
       "duration_ms": 139424,
       "name": "Grand Prix",
       "url": "https://open.spotify.com/track/3xnJpiD7nR1xonj3QxQvgE"
+    },
+    {
+      "album": {
+        "name": "Grand Soir",
+        "url": "https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133135,
+      "name": "Grand Soir",
+      "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
     },
     {
       "album": {
@@ -19293,6 +19311,28 @@
     },
     {
       "album": {
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/7dLWICz3sBGjydCRWhzJZq"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "PMBTZ",
+          "url": "https://open.spotify.com/artist/4fcXi70KndQt7IIKn9327O"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/3xJEnh3Cor6OxkUiRY3BoT"
+    },
+    {
+      "album": {
         "name": "Rejon nie zamula",
         "url": "https://open.spotify.com/album/3kVMiSTS0VII9a6t9XkeS8"
       },
@@ -20720,6 +20760,32 @@
       "duration_ms": 169939,
       "name": "Sophia Loren",
       "url": "https://open.spotify.com/track/493ORSeExHylEYu7tolox9"
+    },
+    {
+      "album": {
+        "name": "Sopot",
+        "url": "https://open.spotify.com/album/7Fbz7ophVJlDqzORlzwCYo"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214101,
+      "name": "Sopot",
+      "url": "https://open.spotify.com/track/7oz7dVuCTxppywszxv9gol"
     },
     {
       "album": {
@@ -22271,6 +22337,28 @@
     },
     {
       "album": {
+        "name": "Trash talk vol. 1",
+        "url": "https://open.spotify.com/album/4isxzK6fgSwD83N4JH63uO"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Trash talk vol. 1",
+      "url": "https://open.spotify.com/track/5d9R3bVOERBlXv1ePTo6is"
+    },
+    {
+      "album": {
         "name": "TRENINGOWY DRES",
         "url": "https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY"
       },
@@ -22906,7 +22994,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 116571,
       "name": "UUU AAA",
       "url": "https://open.spotify.com/track/1T4doR3wMh5bSCDpn9ai25"
@@ -23706,7 +23794,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205714,
       "name": "WIECZ\u00d3R KAWALERSKI",
       "url": "https://open.spotify.com/track/0AylbaS3jQ4BgT0NEVVa7S"

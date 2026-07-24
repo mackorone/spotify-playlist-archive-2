@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,437 songs - 3 day 15 hr 36 min
+1,438 songs - 3 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [ROOTS](https://open.spotify.com/track/6Ai9KWb8U9yB4mtIVTUtDG) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg), [John Hubbard](https://open.spotify.com/artist/0utaDGz7Sg7xOaOruug3SD) | [ROOTS](https://open.spotify.com/album/5K2Zd0qnDK4YG9QgQUe3fZ) | 3:03 | 2026-03-21 | 2026-04-05 |
 | [Roses](https://open.spotify.com/track/13j56vvhMv42EYRlG3EJ7x) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Roses](https://open.spotify.com/album/5UKAigF7RxWyjxARkwTAiA) | 3:28 | 2025-02-07 | 2025-03-15 |
 | [Run](https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Run](https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ) | 2:59 | 2022-10-29 | 2024-06-08 |
+| [Run River Run](https://open.spotify.com/track/3mYtm7LJ5rydiMulJLb39K) | [Church Friends](https://open.spotify.com/artist/0aaJUbV0CN8059WCbuxzOb) | [Run River Run](https://open.spotify.com/album/2xmxFnb0Bn10PjAo9YrVXW) | 3:11 | 2026-07-17 |  |
 | [Run To You](https://open.spotify.com/track/7EQ8bTfVaJ4XwKqe5tr2Sp) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Run To You](https://open.spotify.com/album/7mgQk5YqEsmTIQc8qms8sq) | 3:45 | 2025-11-15 | 2026-01-18 |
 | [RUNNIN](https://open.spotify.com/track/65QTe4wYnjHVePLxRPIqEL) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [RUNNIN](https://open.spotify.com/album/5msOW3mivJnHo7FE78UYs8) | 2:40 | 2026-03-21 | 2026-04-18 |
 | [Running Back To You](https://open.spotify.com/track/6Kfd3XrgqJ0M50O3Z5KN9c) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:20 | 2024-06-07 | 2024-08-10 |
@@ -1222,7 +1223,7 @@
 | [The Loudest Voice \- Acoustic](https://open.spotify.com/track/0KTX7uyKuJ02nTOd2rxGMT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [The Loudest Voice \(Acoustic\)](https://open.spotify.com/album/5k8it6XPjHD6hL5k6YQRMz) | 3:10 | 2024-10-11 | 2025-03-22 |
 | [The Love I Have For You](https://open.spotify.com/track/5XRESCP8rPDzokB2rQ8qbw) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [The Love I Have For You](https://open.spotify.com/album/2cVzFwierqpbnN0qSAOTCW) | 2:42 | 2025-08-04 | 2025-09-15 |
 | [The Love I Have For You](https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [The Love I Have For You](https://open.spotify.com/album/6IAZRtDcKhLmoK8KFziqrE) | 2:42 | 2026-02-07 | 2026-03-22 |
-| [The Love of God](https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Jimmy Abegg](https://open.spotify.com/artist/11goR4DjvYo7e6cco6bII1) | [The Love of God](https://open.spotify.com/album/7aFKBsVHwgTbT280YDGrw1) | 2:48 | 2026-07-17 |  |
+| [The Love of God](https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Jimmy Abegg](https://open.spotify.com/artist/11goR4DjvYo7e6cco6bII1) | [The Love of God](https://open.spotify.com/album/7aFKBsVHwgTbT280YDGrw1) | 2:48 | 2026-07-17 | 2026-07-24 |
 | [The Man I Could Be](https://open.spotify.com/track/1qV7E6ySEKvA07R3gtREZZ) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [The Man I Could Be](https://open.spotify.com/album/6iJEVynFX3iB3z2zohedvN) | 3:07 | 2025-11-15 | 2026-02-21 |
 | [The Man Jesus Christ](https://open.spotify.com/track/2rT1qtVWKI5zFt1rJ9U6B6) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Crucified in Christ \(Deluxe Edition\)](https://open.spotify.com/album/1YkxXZFGTmxdTSQcwUbEoH) | 6:49 | 2025-06-21 | 2025-08-05 |
 | [The Mercy Room](https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Mercy Room](https://open.spotify.com/album/1Beku06tr0tlr8ScsF8CsG) | 3:42 | 2025-10-06 | 2025-11-16 |

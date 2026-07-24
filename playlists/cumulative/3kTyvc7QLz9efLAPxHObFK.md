@@ -4,7 +4,7 @@
 
 > 
 
-3,159 songs - 6 day 18 hr 37 min
+3,160 songs - 6 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1175,7 +1175,7 @@
 | [Golden](https://open.spotify.com/track/313RAQO9TytUTmRa4zEGTc) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Golden](https://open.spotify.com/album/09YKtb2rNCJfQdXJuS6Po1) | 3:09 | 2025-11-22 |  |
 | [Golden \(Hardstyle Mix\)](https://open.spotify.com/track/6QqqhryxOi2Aslf8M6ZnDH) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw) | [Golden \(Hardstyle Mix\)](https://open.spotify.com/album/5QkDfET2QIpQnJiFIuTdAL) | 2:51 | 2025-09-15 |  |
 | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/track/6DYjctNg1pAaWa1pSE4Zxw) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/album/0EyijD0O40lKnTXuxMuDbw) | 2:16 | 2024-09-12 |  |
-| [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 | 2024-08-25 |  |
+| [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4FEq36VtFbAMDx8TMBTLlH) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 | 2024-08-25 |  |
 | [Gone In The Morning](https://open.spotify.com/track/3lWv3BJFyPeYfm6JRRUGEN) | [Heavy Damage](https://open.spotify.com/artist/3Jj06vceLZ9dBSvBdAEf1D), [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [Gone In The Morning](https://open.spotify.com/album/680YVw8O9Y5PV0R7qngy1C) | 2:27 | 2025-01-13 |  |
 | [GONNA GO INSANE](https://open.spotify.com/track/3h9oX6vlIJZc7nW0BcJJ7Q) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [GONNA GO INSANE](https://open.spotify.com/album/37XKFLN2pTxHVllNG8G0CV) | 2:15 | 2024-04-26 |  |
 | [Good Feeling \- Radio Edit](https://open.spotify.com/track/7vSPkqSVZf1e2WKNuwUFYK) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Seduction](https://open.spotify.com/artist/7xqY7chCXSNnqB6YEm0bh9) | [Good Feeling](https://open.spotify.com/album/76tFkjUTA0Cnp8sz4MdCzj) | 3:33 | 2022-02-22 |  |
@@ -1420,6 +1420,7 @@
 | [IMPACT \(feat\. Takenobu Mitsuyoshi\)](https://open.spotify.com/track/1HYrTQ2O9Wv4hYgAeokNDb) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [SUPERNOVA](https://open.spotify.com/album/67d4c4cTZYKKUkqEOkkHYD) | 2:29 | 2026-05-11 |  |
 | [IMPULSION](https://open.spotify.com/track/0SNlOnL8zm8Td0IQEhl53d) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [IMPULSION](https://open.spotify.com/album/2bQ0OG9uc7sJdff8V56ZR3) | 2:50 | 2022-08-01 |  |
 | [IN AND OUT OF LOVE](https://open.spotify.com/track/64sUsFg2yBW3m7r9AOoeqv) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [IN AND OUT OF LOVE](https://open.spotify.com/album/6cpGKRmNdlrhXNk6z43U4F) | 2:19 | 2024-04-18 |  |
+| [IN ANOTHER LIFE](https://open.spotify.com/track/0Omf3r50bnZYeoa9dUKNQD) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [IN ANOTHER LIFE](https://open.spotify.com/album/6oNA0gEEEwbQegqRn1YpxN) | 2:53 | 2026-07-23 |  |
 | [In Blood We Trust](https://open.spotify.com/track/4vXqqbCX2GzQSU3JawvFrQ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [In Blood We Trust](https://open.spotify.com/album/0jRDlJaCGWa8iKwF7LrKOW) | 3:32 | 2022-10-30 |  |
 | [In Control](https://open.spotify.com/track/6UGTc2z2xFhKkGLVFERnJ1) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Exproz](https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU) | [In Control](https://open.spotify.com/album/70PdtWsk7UyLpViq8mRNch) | 3:40 | 2024-06-24 |  |
 | [In Der Hopfenbrauerei](https://open.spotify.com/track/59TI4A8kNAkbpUIGI87a9y) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw) | [In Der Hopfenbrauerei](https://open.spotify.com/album/7j0qLjXg98CYIbngSqw4Ry) | 1:52 | 2025-12-16 |  |

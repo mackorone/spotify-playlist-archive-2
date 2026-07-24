@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 132691,
+  "num_followers": 132708,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,18 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
+        "name": "SAW",
+        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
-        },
-        {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 215068,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
+      "duration_ms": 246000,
+      "name": "SAW",
+      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -459,18 +455,22 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "SAW",
-        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        },
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 246000,
-      "name": "SAW",
-      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
+      "duration_ms": 215068,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -623,38 +623,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Do Anything",
-        "url": "https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a"
-      },
-      "artists": [
-        {
-          "name": "Lion Rezz",
-          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Do Anything",
-      "url": "https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
-        "name": "Keep Rising",
-        "url": "https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD"
-      },
-      "artists": [
-        {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Keep Rising",
+        "url": "https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD"
+      },
+      "artists": [
+        {
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Do Anything",
+        "url": "https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a"
+      },
+      "artists": [
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Do Anything",
+      "url": "https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 213077,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
         "name": "One Night Dance",
         "url": "https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 194000,
       "name": "One Night Dance",
       "url": "https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 213077,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"
     }
   ],
   "unique_name": "Island Time",

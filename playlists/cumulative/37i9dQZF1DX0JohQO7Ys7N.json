@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Devil's Daughter",
+        "url": "https://open.spotify.com/album/6RyH7bJpZVS8BkVJfBQGto"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Devil's Daughter",
+      "url": "https://open.spotify.com/track/2ENMkHQa5YZyYqpc9zUPfh"
+    },
+    {
+      "album": {
         "name": "Diani",
         "url": "https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu"
       },
@@ -3127,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
+    },
+    {
+      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo"
       },
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 175000,
       "name": "Nimetii",
       "url": "https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10"
@@ -6238,7 +6274,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 205714,
       "name": "The Girl Who Once Lived",
       "url": "https://open.spotify.com/track/1FBLLXgweKg4qxkpVGgQeP"

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60376,
+  "num_followers": 60384,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABMbo9b3EjWnVTXW1/WiFMbif238maC",
+  "snapshot_id": "AABMb0ol18h24pU3Bcaz10S+Udl2Dq5q",
   "tracks": [
     {
       "added_at": "2026-07-22 13:02:49",
@@ -23,22 +23,6 @@
       "duration_ms": 229433,
       "name": "Shireen",
       "url": "https://open.spotify.com/track/1H7DO4k3pvGAowYgJnJ8qD"
-    },
-    {
-      "added_at": "2026-07-22 13:02:49",
-      "album": {
-        "name": "Save for the Horses",
-        "url": "https://open.spotify.com/album/7bSvkFJr6DSRcXixboFB9k"
-      },
-      "artists": [
-        {
-          "name": "Petey USA",
-          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Save for the Horses",
-      "url": "https://open.spotify.com/track/6x6g5VwjPg7p4iEpOBoYzk"
     },
     {
       "added_at": "2026-07-22 13:02:49",
@@ -71,6 +55,22 @@
       "duration_ms": 203746,
       "name": "Cruise The Town",
       "url": "https://open.spotify.com/track/0SbkhX0zVR4b1Ju84tiKmu"
+    },
+    {
+      "added_at": "2026-07-22 13:02:49",
+      "album": {
+        "name": "Save for the Horses",
+        "url": "https://open.spotify.com/album/7bSvkFJr6DSRcXixboFB9k"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Save for the Horses",
+      "url": "https://open.spotify.com/track/6x6g5VwjPg7p4iEpOBoYzk"
     },
     {
       "added_at": "2026-07-22 13:02:49",
@@ -778,10 +778,6 @@
         {
           "name": "LST",
           "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
-        },
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
         }
       ],
       "duration_ms": 225198,

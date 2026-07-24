@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Bloody Civilian",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Teni",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "4 by 4!",
+        "url": "https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167882,
+      "name": "4 by 4!",
+      "url": "https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
@@ -52,10 +74,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 175842,
       "name": "42",
       "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
+    },
+    {
+      "album": {
+        "name": "UP TIL 5",
+        "url": "https://open.spotify.com/album/1xCSwnmyoWjkDGaPhSS2Jd"
+      },
+      "artists": [
+        {
+          "name": "kosi.",
+          "url": "https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/6iyQtOBm7vk72oLleHiF2s"
     },
     {
       "album": {
@@ -140,6 +180,28 @@
       "duration_ms": 143157,
       "name": "African King",
       "url": "https://open.spotify.com/track/6ggYw77QdcBDBj0thdtMAl"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "After",
+      "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
     },
     {
       "album": {
@@ -423,6 +485,24 @@
     },
     {
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
+    },
+    {
+      "album": {
         "name": "Be Sure",
         "url": "https://open.spotify.com/album/0LSBY6qEJOOdmUwOTrNimQ"
       },
@@ -517,6 +597,28 @@
     },
     {
       "album": {
+        "name": "Big Girls",
+        "url": "https://open.spotify.com/album/7BhBxnsZiC5Js5FAJZJF8e"
+      },
+      "artists": [
+        {
+          "name": "Eno Barony",
+          "url": "https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN"
+        },
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "Big Girls",
+      "url": "https://open.spotify.com/track/6DyGTYJUQXoXzmyj5fzm1l"
+    },
+    {
+      "album": {
         "name": "Mood 4 Life",
         "url": "https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej"
       },
@@ -589,7 +691,7 @@
     },
     {
       "album": {
-        "name": "Body Go (with Tyla)",
+        "name": "BODY GO (with Tyla)",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
@@ -606,7 +708,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165000,
-      "name": "Body Go (with Tyla)",
+      "name": "BODY GO (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {
@@ -794,6 +896,24 @@
       "duration_ms": 197647,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
+    },
+    {
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
       "album": {
@@ -1023,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252723,
+      "name": "CRAZY OF ME (feat. MaWhoo)",
+      "url": "https://open.spotify.com/track/6gkJmjZtPgbCyYKEHWagz3"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
       },
@@ -1136,7 +1278,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 172265,
       "name": "Different Sides (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
@@ -1245,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t You Forget",
+        "url": "https://open.spotify.com/album/01Elb7M7eEhIQprV6JdJe5"
+      },
+      "artists": [
+        {
+          "name": "Kkeda",
+          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161236,
+      "name": "Don\u2019t You Forget",
+      "url": "https://open.spotify.com/track/0IZ5b7T4D3GcoMMAZZO9EQ"
+    },
+    {
+      "album": {
         "name": "Downgrade",
         "url": "https://open.spotify.com/album/6PqAZvVUuCQm5qcWByK5IC"
       },
@@ -1308,6 +1468,28 @@
       "duration_ms": 138486,
       "name": "Emoji P\u00eache",
       "url": "https://open.spotify.com/track/258OblSwifjdaXY6Br7vak"
+    },
+    {
+      "album": {
+        "name": "Enemies Cry",
+        "url": "https://open.spotify.com/album/3C83IGMIxHuI0p2LADPncs"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167031,
+      "name": "Enemies Cry",
+      "url": "https://open.spotify.com/track/0KBNrZg9LLaE92YpuTDMXV"
     },
     {
       "album": {
@@ -1810,7 +1992,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
@@ -2086,6 +2268,28 @@
       "duration_ms": 153573,
       "name": "I Believe In Better",
       "url": "https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY"
+    },
+    {
+      "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192764,
+      "name": "I DON'T CARE (feat. Babalwa M)",
+      "url": "https://open.spotify.com/track/13ia3DtaRolSiYpjrMbvCO"
     },
     {
       "album": {
@@ -4581,6 +4785,28 @@
     },
     {
       "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/3B2BBnGNEUoYYKRVhMlnUZ"
+      },
+      "artists": [
+        {
+          "name": "Chayuta",
+          "url": "https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r"
+        },
+        {
+          "name": "Rocktea",
+          "url": "https://open.spotify.com/artist/3TXYuBpgJljzDvczg9nywf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249218,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/1JZ71gYPTb22R0h1H85NNG"
+    },
+    {
+      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -4662,6 +4888,24 @@
       "duration_ms": 196420,
       "name": "SAD GIRLZ LUV MONEY",
       "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
+    },
+    {
+      "album": {
+        "name": "Salvation Come",
+        "url": "https://open.spotify.com/album/5nVykypDevpj66CX1NniXs"
+      },
+      "artists": [
+        {
+          "name": "Oll\u00e0",
+          "url": "https://open.spotify.com/artist/7cifbZqhJC93p0pQC4Xmdx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215503,
+      "name": "Salvation Come",
+      "url": "https://open.spotify.com/track/1A23vBC7WAHEeZS5JFhc4X"
     },
     {
       "album": {
@@ -5756,6 +6000,28 @@
       "duration_ms": 169565,
       "name": "Worry",
       "url": "https://open.spotify.com/track/58NnjSYSMcKogUfZZFFlZK"
+    },
+    {
+      "album": {
+        "name": "The Wellness Package",
+        "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197522,
+      "name": "Wurumanya",
+      "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {
       "album": {

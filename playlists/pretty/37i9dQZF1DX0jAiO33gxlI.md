@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Cassol
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,849 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,836 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
 | 9 | [memórias de um sonho louco](https://open.spotify.com/track/1kHgroLmQl7CQ3oAGtPE0j) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [VIETNÃ](https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo) | [COMPLEXO DE VIRA LATA](https://open.spotify.com/album/4k8AznnZ3bFyy4jAu5o43f) | 2:33 |
 | 10 | [Nosso Brilho](https://open.spotify.com/track/0eKKHpdAGTaKYy2150ihb4) | [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [Subverse Club](https://open.spotify.com/artist/58y8qlSnLzaW8bkKyrFNYQ) | [BR Wave \- Vol\. 2](https://open.spotify.com/album/2Hpt6nIZ9apGwhSJq7sMVU) | 1:38 |
-| 11 | [COMUTÁ](https://open.spotify.com/track/6NTBgipUaYIpNJpiCmkWPq) | [Luccas Folha](https://open.spotify.com/artist/05o0a0JoBQXx7wXOnvin01), [Nyatta](https://open.spotify.com/artist/0GDNdKt0ZHjwbG5UsxUHqv) | [COMUTÁ](https://open.spotify.com/album/005nCldXgNGPpQKYGWeHSY) | 2:41 |
+| 11 | [COMUTÁ](https://open.spotify.com/track/6NTBgipUaYIpNJpiCmkWPq) | [Luccas Folha](https://open.spotify.com/artist/05o0a0JoBQXx7wXOnvin01), [Nyatta](https://open.spotify.com/artist/0GDNdKt0ZHjwbG5UsxUHqv) | [COMUTÁ](https://open.spotify.com/album/005nCldXgNGPpQKYGWeHSY) | 2:39 |
 | 12 | [ALPHA](https://open.spotify.com/track/3FEFoD95hvRqtXzACABki0) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr), [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [ALPHA](https://open.spotify.com/album/4ACtY34Pl1FI17U7z3nskX) | 2:35 |
 | 13 | [Papagaios e Canhões / Total 12](https://open.spotify.com/track/0hUlT5ZkMq3ypEan5Ai1yr) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q), [OuvidoPai](https://open.spotify.com/artist/7vyLneQV1sSHosxOpl4Nq8) | [Nova Nação](https://open.spotify.com/album/1u44r0yeeS3XbouXted2Y2) | 4:08 |
 | 14 | [Putaria no Boombap](https://open.spotify.com/track/7vddjt22PeLxiU54BGXOQJ) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [MC Lobão](https://open.spotify.com/artist/4UsXonEelicgeKAD7MTN7F) | [BASE: Mandelão Futurista](https://open.spotify.com/album/6U1cBGt0r6IPJKbL9DSH3j) | 4:00 |

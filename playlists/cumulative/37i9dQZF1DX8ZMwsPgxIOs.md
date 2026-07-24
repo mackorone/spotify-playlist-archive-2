@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Space 92
 
-662 songs - 1 day 23 hr 31 min
+666 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,9 @@
 | [Craving](https://open.spotify.com/track/77qHXGqHbJFh0dWLRHkWTq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Craving](https://open.spotify.com/album/48cvKSyiJ8Ev1xon0FXUKJ) | 4:01 | 2024-04-12 | 2025-03-19 |
 | [CreM](https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [CreM](https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE) | 5:02 | 2022-10-13 | 2023-11-05 |
 | [CreM](https://open.spotify.com/track/7u7Oyr3ohXTy4ccnV4Yca1) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Crem](https://open.spotify.com/album/5Aqpxzn5dcEqmoL50exJfi) | 5:02 | 2023-10-27 | 2023-11-28 |
+| [Criminal](https://open.spotify.com/track/5fAG6wLrRvjOZDZiIT4zhx) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Duss](https://open.spotify.com/artist/4259mUnQ63GVXaFm4VQ7n8) | [Criminal EP](https://open.spotify.com/album/0jE731kxLe0Ih4xIwST3ir) | 3:30 | 2026-07-23 |  |
 | [Crimson Arch](https://open.spotify.com/track/6kqLDMdqgbgCsLbsSlWRjo) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Crimson Arch](https://open.spotify.com/album/0BPMNld8mBFvWzuyj48v9y) | 4:48 | 2022-04-15 | 2023-04-05 |
+| [Critical](https://open.spotify.com/track/1HgYdayKVXDF90I8ZUD3yF) | [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Critical](https://open.spotify.com/album/0yAEdfjXFgVqUmGHu7VRYn) | 5:19 | 2026-07-23 |  |
 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 | 2022-09-23 | 2023-10-29 |
 | [Daddy](https://open.spotify.com/track/4a7A0BmJVVk7dFNj9Qkelk) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Daddy](https://open.spotify.com/album/2BXDW1T6kuNHNCpCb0Q2tg) | 2:45 | 2025-06-20 |  |
 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 | 2024-07-03 | 2025-06-21 |
@@ -216,6 +218,7 @@
 | [Feel The Rhythm](https://open.spotify.com/track/5aZvrkexQVRGubS0rPnPYv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Phantom EP](https://open.spotify.com/album/5Ha2ODCl3nDhwOi5oKvp0p) | 5:16 | 2022-05-26 | 2023-04-05 |
 | [FILTHY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 | 2023-10-27 | 2024-05-17 |
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2023-08-10 | 2024-04-05 |
+| [Fk This Track](https://open.spotify.com/track/4uYFWp8dK2ZVBn022oMIU1) | [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Fk This Track](https://open.spotify.com/album/10ZOEUyP3KSumJSdfI7bAc) | 4:47 | 2026-07-23 |  |
 | [Flash](https://open.spotify.com/track/0l5Xszbwm0vsNOWAiGwg8N) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Flash](https://open.spotify.com/album/1dhyqzHzKfzY0aCgRuwgK3) | 2:52 | 2023-11-27 | 2024-07-20 |
 | [Flashback](https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Flashback](https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5) | 3:20 | 2025-03-28 |  |
 | [Flashing Lights](https://open.spotify.com/track/7B5NyuAKnhLj0aasbRpaIp) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Flashing Lights](https://open.spotify.com/album/5VMfbHAkriJiu64SrXy3L2) | 3:45 | 2022-04-15 | 2022-05-27 |
@@ -625,6 +628,7 @@
 | [Universal Nation \- Charlotte de Witte Rework \- Edit](https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 4:00 | 2024-02-02 | 2024-09-07 |
 | [Vibe Catcher](https://open.spotify.com/track/0JhWSndXoTT6SOVhHkMOj3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Vibe Catcher](https://open.spotify.com/album/1eyP4K1Oj4rT0wyBMXZjGI) | 6:07 | 2022-04-15 | 2023-04-05 |
 | [VISIONS](https://open.spotify.com/track/0CWAkAdRTfAZQPsgGBJWnc) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [Jeanne Friot](https://open.spotify.com/artist/52IBl02d9cfcrwj5XWykEw) | [VISIONS](https://open.spotify.com/album/7KVcSz7lYqpwItEidKnDAm) | 9:02 | 2025-01-24 |  |
+| [Vixen](https://open.spotify.com/track/0spnMEFDuWTQRTsI941Q5n) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vixen](https://open.spotify.com/album/7Lin2GhHvsA8hgbspJCvAC) | 3:00 | 2026-07-23 |  |
 | [Voicebox](https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Voicebox EP](https://open.spotify.com/album/5BfzNOh8U6VH2hXpasVw9t) | 6:00 | 2022-04-15 | 2023-05-13 |
 | [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-14 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-22 | 2024-04-05 |

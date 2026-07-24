@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Bloodstein.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Viva Belgrado.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -4008,6 +4008,24 @@
       "duration_ms": 138900,
       "name": "Ella quiere tocarme el pelo",
       "url": "https://open.spotify.com/track/492XllyzXEuDxlgsjHsGx5"
+    },
+    {
+      "album": {
+        "name": "EMBUSTERO",
+        "url": "https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe"
+      },
+      "artists": [
+        {
+          "name": "Chicle",
+          "url": "https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146559,
+      "name": "EMBUSTERO",
+      "url": "https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe"
     },
     {
       "album": {
@@ -8554,7 +8572,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 188402,
       "name": "Ni\u00f1o de 30 a\u00f1os",
       "url": "https://open.spotify.com/track/4CpgEPgm49U7pCekSg08xF"
@@ -10991,6 +11009,24 @@
     },
     {
       "album": {
+        "name": "San Ant\u00f3n 21",
+        "url": "https://open.spotify.com/album/7mCr53lNt2RCAUBoBqw6Vg"
+      },
+      "artists": [
+        {
+          "name": "MADBEL",
+          "url": "https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "San Ant\u00f3n 21",
+      "url": "https://open.spotify.com/track/6PuO0OWCAwBOtAuDbF9aqe"
+    },
+    {
+      "album": {
         "name": "San Petersburgo",
         "url": "https://open.spotify.com/album/4k5TKLYvuFbJBdBr9bykPe"
       },
@@ -11096,7 +11132,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 223857,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/2CiIzUY0Jm3lYBGK6x7mj0"
@@ -11787,6 +11823,24 @@
     },
     {
       "album": {
+        "name": "S\u00faper futuro",
+        "url": "https://open.spotify.com/album/48mUtZXZlr52j6LfjCCeaq"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248742,
+      "name": "S\u00faper futuro",
+      "url": "https://open.spotify.com/track/5Qnf3VzZuGRbCDiN5cgkGB"
+    },
+    {
+      "album": {
         "name": "T E R A P I A",
         "url": "https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1"
       },
@@ -12138,7 +12192,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 162671,
       "name": "Todo mi potencial",
       "url": "https://open.spotify.com/track/7smWODDoooX1JYESLR8Hnx"

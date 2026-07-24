@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Joseph Kamel.
+> Les meilleures nouveautés de la variété française avec Disiz.
 
-528 songs - 1 day 1 hr 52 min
+530 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Courage](https://open.spotify.com/track/00lPmwgjp2MnqVhZaxyLDv) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [Courage](https://open.spotify.com/album/29r7xSMi482M5GsggEk5J8) | 2:41 | 2025-04-17 | 2025-07-04 |
 | [Courage \- Edit](https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Courage \(Edit\)](https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n) | 3:00 | 2025-03-06 | 2025-04-18 |
 | [COURTE PAILLE](https://open.spotify.com/track/7dvRcvy17soNaOVy8jWbbt) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [COURTE PAILLE](https://open.spotify.com/album/1AE6Cu2gcZDNoe6TTBqeGW) | 3:15 | 2026-02-26 | 2026-05-15 |
-| [Cow\-girl moderne](https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Les Grands Espaces](https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh) | 2:49 | 2026-05-14 |  |
+| [Cow\-girl moderne](https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Les Grands Espaces](https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh) | 2:49 | 2026-05-14 | 2026-07-24 |
 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 | 2026-03-12 | 2026-06-19 |
 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 | 2026-02-12 | 2026-05-08 |
 | [Crash Dans Tes Bras](https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr) | [Elissa Lauper](https://open.spotify.com/artist/7mtFeidhCmzKSONpngSXoa) | [Crash Dans Tes Bras](https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c) | 2:49 | 2024-07-25 | 2024-08-02 |
@@ -142,6 +142,7 @@
 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 | 2026-07-02 |  |
 | [Escroc](https://open.spotify.com/track/01PwAE2RXGcVbYLLqs8HEA) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/0b3I8sj5GBMx1ZxMxInnyv) | 2:56 | 2025-12-04 | 2026-03-20 |
 | [Et moi](https://open.spotify.com/track/173fbv2LkD0gNW5PW7ggcL) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Vers les jours heureux](https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt) | 3:15 | 2024-11-28 | 2025-01-10 |
+| [et si je pars](https://open.spotify.com/track/0EqJLRMLhmJkPCr3D5o46w) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/2nGlgDpNePZ3YoCNquQtgw) | 2:50 | 2026-07-23 |  |
 | [Et si tu sens \- écrit par Grégory Lemarchal](https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Et si tu sens \(écrit par Grégory Lemarchal\)](https://open.spotify.com/album/2whXeqwissI9TOYiw7RFoP) | 3:26 | 2024-11-28 | 2025-01-31 |
 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 | 2025-03-06 | 2025-06-06 |
 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 | 2025-10-16 | 2026-02-06 |
@@ -294,6 +295,7 @@
 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-04-09 |  |
 | [LÀ\-BAS](https://open.spotify.com/track/6nlb4zxOQGytBC7RrPADK9) | [NOVA](https://open.spotify.com/artist/1GSrC8rlBRJlE44AnF0DiX), [Ilyana](https://open.spotify.com/artist/20hkYBK2KSk0PoyFlZkJ1D) | [LÀ\-BAS](https://open.spotify.com/album/7A24KYpWf2LCNO6jJdIU0W) | 3:31 | 2025-05-29 | 2025-08-29 |
 | [Léa](https://open.spotify.com/track/5y4SGiUMB4cTr14h6kwFyZ) | [Floran](https://open.spotify.com/artist/22UEQ1zDB3JGeEx9jtye4V) | [Léa](https://open.spotify.com/album/2xewKyVhEUNYWYsz9CGQZs) | 2:58 | 2024-06-27 | 2024-09-06 |
+| [M'en veux pas](https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz), [Bosco](https://open.spotify.com/artist/5e0dt4ubHmVg4Ds1EhYTy8) | [M'en veux pas](https://open.spotify.com/album/20pqrl78xUu2rxIEsY40Vb) | 2:46 | 2026-07-23 |  |
 | [M'envoler](https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [M'envoler](https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8) | 3:09 | 2025-01-09 | 2025-03-01 |
 | [Ma faute](https://open.spotify.com/track/01gr5cUIMHKrblkKRkjYlU) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/5lN2M1kvAY1PpzuK1PpCmR) | 2:40 | 2025-01-09 | 2025-01-23 |
 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-01-22 | 2025-03-01 |
@@ -409,7 +411,7 @@
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 | 2024-10-18 |
 | [Quelle époque](https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [MINUIT UNE](https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t) | 2:35 | 2026-04-23 |  |
 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-09-12 | 2024-10-04 |
-| [Qui tu es](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 3:27 | 2026-06-11 |  |
+| [Qui tu es](https://open.spotify.com/track/0kTT5VNqlJhx1Fx9M7bbQL) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Ne m'oublie pas](https://open.spotify.com/album/7zUr0UTcXLNTSbNvRfZfKb) | 3:27 | 2026-06-11 | 2026-07-24 |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-10-03 | 2024-11-29 |
 | [quoi faire de moi](https://open.spotify.com/track/4R6aDdHLgXRX2pwTxTSTzH) | [melissa](https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba) | [quoi faire de moi](https://open.spotify.com/album/698FipgX2lw3Av6yO7yNX6) | 2:30 | 2026-05-21 | 2026-07-10 |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/7hNaD6OzZ8rYhTcigE5Poc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Quoi qu'il arrive ça va aller](https://open.spotify.com/album/1fOrrU8r2xfIVAdItjpKwr) | 3:17 | 2024-11-28 | 2025-01-10 |

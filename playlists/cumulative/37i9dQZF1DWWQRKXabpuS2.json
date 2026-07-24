@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Ezz Nafsak",
+        "url": "https://open.spotify.com/album/7m6TN7eIS8lKa2lddPyrSg"
+      },
+      "artists": [
+        {
+          "name": "Ibraheem Alsultan",
+          "url": "https://open.spotify.com/artist/0wNnbvqku4hrJA8pOufrwA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ezz Nafsak",
+      "url": "https://open.spotify.com/track/1cCgSA48fIllLzhTIxNttm"
+    },
+    {
+      "album": {
         "name": "Fadeha Denyay",
         "url": "https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy"
       },
@@ -3860,6 +3878,24 @@
       "duration_ms": 302265,
       "name": "Ma Hada Bali",
       "url": "https://open.spotify.com/track/644MDyPPMgMakcnzlccWNM"
+    },
+    {
+      "album": {
+        "name": "Ma Kefak",
+        "url": "https://open.spotify.com/album/0NkZsSbKUydJnap09bmnmj"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286588,
+      "name": "Ma Kefak",
+      "url": "https://open.spotify.com/track/0KmjnbVZqvUvYoZogXuRge"
     },
     {
       "album": {

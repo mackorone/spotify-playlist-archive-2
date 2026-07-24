@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:Masdddho
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,531 likes - 114 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,600 likes - 114 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 58 | [Lalekno \- New Version](https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [GMLT](https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6) | [Lalekno \(New Version\)](https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR) | 4:00 |
 | 59 | [Gulu Pedot](https://open.spotify.com/track/06ZeVWAb9aM6ni9SAWvMYL) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Gulu Pedot](https://open.spotify.com/album/5c3wJWoPOpFtJ8ZkgeDyDB) | 5:10 |
 | 60 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/6i6r1Z2Bl7vdZbIfYtHnIu) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/2N7YLZFogJhbsnpHfyLahq) | 4:35 |
-| 61 | [Sabar \(Sinau Bareng\)](https://open.spotify.com/track/1jOASJ1rcIzVvX4QB1z7ze) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Sabar \(Sinau Bareng\)](https://open.spotify.com/album/7h9IP156OsoCug4bZnInLN) | 4:14 |
+| 61 | [Sabar \- Sinau Bareng](https://open.spotify.com/track/1jOASJ1rcIzVvX4QB1z7ze) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Sabar \(Sinau Bareng\)](https://open.spotify.com/album/7h9IP156OsoCug4bZnInLN) | 4:14 |
 | 62 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/5vIc8msfVqULYtl2D0x7AP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/6GraNh74uCPWz2uCALkLmr) | 4:22 |
 | 63 | [Trimo \(Tukule Roso Ilang Mergo Bondo\)](https://open.spotify.com/track/2PQtzDhnH5lxvLSZZnbL97) | [Delva Irawan](https://open.spotify.com/artist/1dnGoNYD9XEk3kwZ6DBkl7) | [Trimo \(Tukule Roso Ilang Mergo Bondo\)](https://open.spotify.com/album/3tMacl9dW3AM34HrcTnkeg) | 6:25 |
 | 64 | [Lanang Tenan \- Akustik](https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanange Jagat](https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1) | 5:26 |

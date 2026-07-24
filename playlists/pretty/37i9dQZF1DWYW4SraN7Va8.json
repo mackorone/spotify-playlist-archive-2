@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 211245,
+  "num_followers": 211342,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-03 06:00:09",
       "album": {
-        "name": "Silent Divide",
-        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 303832,
-      "name": "Silent Divide",
-      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
-    },
-    {
-      "added_at": "2026-07-03 06:00:09",
-      "album": {
         "name": "I Should Have Known It",
         "url": "https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 236381,
       "name": "I Should Have Known It",
       "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
+    },
+    {
+      "added_at": "2026-07-03 06:00:09",
+      "album": {
+        "name": "Silent Divide",
+        "url": "https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 303832,
+      "name": "Silent Divide",
+      "url": "https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC"
     },
     {
       "added_at": "2026-07-03 06:00:09",

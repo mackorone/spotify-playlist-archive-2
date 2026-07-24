@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 59961,
+  "num_followers": 60003,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,18 @@
     {
       "added_at": "2026-07-10 11:21:44",
       "album": {
-        "name": "Lala Lori",
-        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
+        "name": "Gym De Shokeen",
+        "url": "https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b"
       },
       "artists": [
         {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+          "name": "Bhallwaan",
+          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Lala Lori",
-      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
+      "duration_ms": 225158,
+      "name": "Gym De Shokeen",
+      "url": "https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O"
     },
     {
       "added_at": "2026-07-10 11:21:44",
@@ -655,18 +647,26 @@
     {
       "added_at": "2026-07-10 11:21:44",
       "album": {
-        "name": "Gym De Shokeen",
-        "url": "https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b"
+        "name": "Lala Lori",
+        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
       },
       "artists": [
         {
-          "name": "Bhallwaan",
-          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
+          "name": "Fazilpuria",
+          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
         }
       ],
-      "duration_ms": 225158,
-      "name": "Gym De Shokeen",
-      "url": "https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O"
+      "duration_ms": 160000,
+      "name": "Lala Lori",
+      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
     },
     {
       "added_at": "2026-07-10 11:21:44",

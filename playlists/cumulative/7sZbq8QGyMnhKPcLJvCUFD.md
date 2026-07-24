@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-874 songs - 1 day 19 hr 20 min
+875 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Falling](https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Falling](https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb) | 4:27 | 2023-05-24 | 2023-08-10 |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 | 2023-04-28 |
 | [Falling \- Ayjin Remix](https://open.spotify.com/track/2IBiooC1rzmLqLfIsuea62) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28), [Ayjin](https://open.spotify.com/artist/2wNaQ7efIE7Q5ltzWXFjam) | [Falling \(Ayjin Remix\)](https://open.spotify.com/album/3UVR8MgUhiFM66SwyU7zJC) | 2:45 | 2023-05-18 | 2023-08-10 |
+| [Falling 4 U](https://open.spotify.com/track/1tWK8eiRURk9YTMOHnTDsK) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Falling 4 U](https://open.spotify.com/album/5dzZPmYf9lC4QZuMkaGnGv) | 3:45 | 2026-07-23 |  |
 | [Falling Down](https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P) | [Falling Down](https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c) | 3:06 | 2023-04-13 | 2023-08-10 |
 | [Falling For You](https://open.spotify.com/track/4F4c8WTkidlCN0k0bL52I7) | [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Falling For You](https://open.spotify.com/album/6Q4MlcHZEGEHOcZgi1keKe) | 2:37 | 2023-06-09 | 2023-08-10 |
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 | 2023-04-28 |

@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-353 songs - 1 day 8 hr 36 min
+354 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/track/6zd3ll2iOHP3mZ6bV30yfU) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Shaun Kwela](https://open.spotify.com/artist/0QviQJJya2B5q4cF8RNJMg) | [All Our Days \(Live at Zeal '23\)](https://open.spotify.com/album/4l368XXQgrIIoG0ltP3VeW) | 5:31 | 2023-10-06 | 2023-11-10 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2024-08-08 | 2024-08-16 |
 | [Alpha And Omega \- Live](https://open.spotify.com/track/61DPLakz3GX3KTliq6Xwek) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Alive In South Africa](https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn) | 8:00 | 2024-08-08 | 2024-08-16 |
+| [Always Faithful](https://open.spotify.com/track/76GmCE079sgFccqK6G1bIs) | [Asher Japhta](https://open.spotify.com/artist/6tvRVqS0bzBaSxrCkiKrf6), [Ashley Berri](https://open.spotify.com/artist/2PFUvNtb04VzEws8FlPAuK) | [Always Faithful](https://open.spotify.com/album/5OiDGSK9TQQ3nH3M1PpEf4) | 3:15 | 2026-07-24 |  |
 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-05-23 | 2025-09-12 |
 | [Angels Camped](https://open.spotify.com/track/6gq7WEznvSLDDVtmHNaYJQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI), [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc), [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL) | [Angels Camped](https://open.spotify.com/album/6mIsNU9mUBnx6WVZQdz7r3) | 2:32 | 2023-10-27 | 2023-11-10 |
 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 | 2023-10-20 | 2023-11-03 |
@@ -168,7 +169,7 @@
 | [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 | 2023-07-28 | 2023-11-03 |
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2019-08-18 | 2023-04-21 |
 | [Kingdom](https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 9:25 | 2024-08-08 | 2024-08-16 |
-| [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 | 2023-11-03 |  |
+| [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 | 2023-11-03 | 2026-07-24 |
 | [Lawula Nkosi](https://open.spotify.com/track/0FkDqMmZiJA9OMTAhFceNY) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Echoes Of Kofifi](https://open.spotify.com/album/6g9HnnrrKgxSM0McHEaPF5) | 5:01 | 2023-11-03 | 2023-11-10 |
 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 | 2023-09-15 | 2023-11-03 |
 | [Living Waters](https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Jesu Uyalalela](https://open.spotify.com/album/5TIRsel2yF68JyKn8kTzHP) | 4:52 | 2023-04-21 | 2023-11-03 |

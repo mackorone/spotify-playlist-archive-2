@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 194975,
       "name": "Dancing My Way (Live)",
       "url": "https://open.spotify.com/track/5HCpXxhMrhCyENtXEfjAi8"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 586140,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
@@ -7432,7 +7432,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -7508,6 +7508,24 @@
       "duration_ms": 387774,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/3D6LWysCetPkl9Po6WBybh"
+    },
+    {
+      "album": {
+        "name": "I Know A God",
+        "url": "https://open.spotify.com/album/61fQxNA5nP4PPxjzBWGzdA"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177551,
+      "name": "I Know A God",
+      "url": "https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk"
     },
     {
       "album": {
@@ -9124,6 +9142,36 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
+    },
+    {
+      "album": {
+        "name": "Jesus, My Everything",
+        "url": "https://open.spotify.com/album/0fVuXmBGht40zpNGgey3eZ"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391321,
+      "name": "Jesus, My Everything",
+      "url": "https://open.spotify.com/track/177WHrAvff47hqsrvB1kRc"
     },
     {
       "album": {
@@ -10831,6 +10879,28 @@
     },
     {
       "album": {
+        "name": "Muri Ishe",
+        "url": "https://open.spotify.com/album/53HgQC74VkRcnfYUg5wjjL"
+      },
+      "artists": [
+        {
+          "name": "Urban revival music",
+          "url": "https://open.spotify.com/artist/6fS6vMiypBC6XgowSckLtD"
+        },
+        {
+          "name": "Fatso",
+          "url": "https://open.spotify.com/artist/0Scl1mm0Je2Bq8xrdepQWr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770680,
+      "name": "Muri Ishe",
+      "url": "https://open.spotify.com/track/2FfiKqmuAjLOKWRlQMSmut"
+    },
+    {
+      "album": {
         "name": "My Altar (Cover)",
         "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
       },
@@ -11010,6 +11080,24 @@
       "duration_ms": 293120,
       "name": "My Helper Lives",
       "url": "https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp"
+    },
+    {
+      "album": {
+        "name": "My Hope (Live)",
+        "url": "https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "My Hope - Live",
+      "url": "https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop"
     },
     {
       "album": {
@@ -13228,7 +13316,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 209858,
       "name": "Powerful Merciful God",
       "url": "https://open.spotify.com/track/211EBkGDc7rJbSQyygP8Bz"
@@ -15676,7 +15764,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 375893,
       "name": "The Maranatha Song",
       "url": "https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1"
@@ -16180,6 +16268,24 @@
       "duration_ms": 204600,
       "name": "TOTORI (The Name of Jesus)",
       "url": "https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac"
+    },
+    {
+      "album": {
+        "name": "No Name Like Jesus (Album)",
+        "url": "https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: 10CM) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 298441,
+  "num_followers": 298457,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "with you",
-      "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "Uncontrollably Fond OST Part.1",
         "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 205683,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "Mutualism",
         "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 201000,
       "name": "seesaw",
       "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Yours Sincerely",
-      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 226986,
       "name": "In You",
       "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Yours Sincerely",
+      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
     },
     {
       "added_at": "2026-07-08 04:10:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-07-08 04:10:08",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
-      },
-      "artists": [
-        {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "42",
-      "url": "https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b"
-    },
-    {
-      "added_at": "2026-07-08 04:10:08",
-      "album": {
         "name": "Hello, goodbye.",
         "url": "https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186000,
       "name": "Hello, goodbye.",
       "url": "https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX"
+    },
+    {
+      "added_at": "2026-07-08 04:10:08",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b"
     },
     {
       "added_at": "2026-07-08 04:10:08",

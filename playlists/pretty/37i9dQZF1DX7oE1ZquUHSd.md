@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,531 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,585 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 66 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
 | 67 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 |
 | 68 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
-| 69 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
-| 70 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
+| 69 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |
+| 70 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
 | 71 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
 | 72 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 73 | [El Mito de la Caverna](https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:15 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 84 | [Mi Mejor Inspiración](https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 5:07 |
 | 85 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
 | 86 | [Hasta las 3 de la Mañana](https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8) | [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ocho Lunas](https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw) | 5:26 |
-| 87 | [Maquiavélico](https://open.spotify.com/track/447r2keRxpkINmWYp83MlH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 4:44 |
-| 88 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
-| 89 | [Balas](https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Mexicano 777](https://open.spotify.com/artist/3FgR6lfwIY7VD2lDryeh1e) | [Tempo Éxitos](https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb) | 2:49 |
-| 90 | [Real](https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:12 |
+| 87 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
+| 88 | [Balas](https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Mexicano 777](https://open.spotify.com/artist/3FgR6lfwIY7VD2lDryeh1e) | [Tempo Éxitos](https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb) | 2:49 |
+| 89 | [Real](https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:12 |
+| 90 | [Maquiavélico](https://open.spotify.com/track/447r2keRxpkINmWYp83MlH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 4:44 |
 | 91 | [La Vida Es](https://open.spotify.com/track/4YymmqRZz37xUB42rLsb1P) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Réquiem](https://open.spotify.com/album/4nyQxMhfZR041xn8R16L1R) | 3:58 |
 | 92 | [Arenita Playita \(feat\. Eska\)](https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0) | [Cuarto Poder](https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI) | [In Tha House](https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N) | 4:59 |
 | 93 | [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 96 | [Y Boquete Pa Tu Techo](https://open.spotify.com/track/6VvDIjJSwswOhdbamnbP5z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Y Boquete Pa Tu Techo](https://open.spotify.com/album/5UzpBAZUPKyO0dIe6EFfLN) | 4:37 |
 | 97 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 |
 | 98 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
-| 99 | [Pensando en Ti](https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P) | 4:04 |
+| 99 | [1 2 3](https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [1 2 3](https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe) | 2:04 |
 | 100 | [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 |
 
 Snapshot ID: `AAAAAAbs8JYerE9Jh35YB04viBfXyDi9`

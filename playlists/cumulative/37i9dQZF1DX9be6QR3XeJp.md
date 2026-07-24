@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: The Healing Power of Horses
+> Discover your new favourite artists from UK&IE\. Cover: RIP Magic
 
-365 songs - 19 hr 32 min
+366 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Leave](https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL) | 3:22 | 2024-01-19 | 2024-04-19 |
 | [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 |  |
 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 | 2025-08-21 |  |
+| [Light Over There](https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Light Over There](https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n) | 4:06 | 2026-07-23 |  |
 | [Like You Are For Me](https://open.spotify.com/track/46kq5YIZR735eci0ZerNly) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Like You Are For Me](https://open.spotify.com/album/4KD1vLTfYjEEa6QbI1pnsd) | 3:28 | 2025-03-14 |  |
 | [Liquid Gold 25](https://open.spotify.com/track/1rYbXnLbSM6jL1LXzNtkqA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Liquid Gold 25](https://open.spotify.com/album/3OvjycFnKUyECyZyxnCe3x) | 4:27 | 2025-01-31 |  |
 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 | 2022-10-06 |  |

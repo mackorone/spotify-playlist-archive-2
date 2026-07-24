@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,795 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,855 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 28 | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [worldofaugust](https://open.spotify.com/artist/6UFFM6ADuQQcNW8oWhijmO), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Don't Know Why \(From "Magic"\)](https://open.spotify.com/album/6hIddP0EOCBuJrsoU4GNpV) | 3:44 |
 | 29 | [Aapena Aagena](https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs) | [Prashanth R Vihari](https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq) | [SKYLAB](https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO) | 4:27 |
 | 30 | [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 |
-| 31 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 |
-| 32 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
+| 31 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
+| 32 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 |
 | 33 | [Tai Tai Tai](https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg) | [Jose Jimmy](https://open.spotify.com/artist/6BbKxnV91HAWFG7So7lOGg), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Sreemani](https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza) | [Patang](https://open.spotify.com/album/3RAxxVzs8cdKxuhqJnriEn) | 4:28 |
 | 34 | [Naalo Neene](https://open.spotify.com/track/5AHEkJZ2RmgSLx3w7bRttv) | [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A), [Ranjith](https://open.spotify.com/artist/7kzQY1HruUiBsVJxDPcgiy) | [It's Ok Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0b6Z3XgIc3mhFPo7bmmhtC) | 4:12 |
 | 35 | [Sandurude Solipayee](https://open.spotify.com/track/7bdzsT5MWe4GjML96k9vYZ) | [Karthik Rodriguez](https://open.spotify.com/artist/4PLyVI90CHa2qUqVVTUc7q), [Shivakrishna Chary Erroju](https://open.spotify.com/artist/5PIwZhgdLi88mB5B5GDyTG) | [Muthayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ceN67y9qluupQnoGRjRhk) | 4:09 |

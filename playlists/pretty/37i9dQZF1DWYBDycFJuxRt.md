@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: キタニタツヤ \*👉 <a href="https://spice.eplus.jp/articles/347739">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,913 likes - 82 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,936 likes - 82 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 58 | [HEY！ジョニー！](https://open.spotify.com/track/3i6hWcfTeybZoqtQokEMrY) | [JUNKY58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [HEARTBREAKER](https://open.spotify.com/album/541DXBPNQ7JVLVQNivHnVm) | 1:12 |
 | 59 | [BOoM×2 DROP](https://open.spotify.com/track/3NusltMWyvzSJKukJrfyWP) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [ハジマリCOLOR](https://open.spotify.com/album/1bB5Mmp1ek91sv1kV6hRfS) | 2:36 |
 | 60 | [GHOST HOUSE](https://open.spotify.com/track/2lydIuPAwT1itu12waABha) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [GHOST HOUSE](https://open.spotify.com/album/4dzSpnaWS82cjl4lpZ2b5g) | 3:43 |
-| 61 | [Swich It Up](https://open.spotify.com/track/0xWYdYqENtxf87Ym4OheZl) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [Swich It Up](https://open.spotify.com/album/2CrTEldgMM7qUEnofxmbwf) | 2:46 |
+| 61 | [Switch It Up](https://open.spotify.com/track/0xWYdYqENtxf87Ym4OheZl) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [Switch It Up](https://open.spotify.com/album/2CrTEldgMM7qUEnofxmbwf) | 2:46 |
 | 62 | [ロマンティックがほしいなら](https://open.spotify.com/track/6BbOzSt3qI9vVoDJpCcpI9) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j), [小坂菜緒](https://open.spotify.com/artist/7q0G6BZ4O58nMFrnZkT36M), [正源司陽子](https://open.spotify.com/artist/5On9iFvCTTmTtOFdctUwxn), [藤嶌果歩](https://open.spotify.com/artist/6wiJ0UKOd5WnCT4Ssrz3S1) | [ロマンティックがほしいなら](https://open.spotify.com/album/4WKrvO8X6gvjQN3ng8U2NX) | 3:12 |
 | 63 | [Skeleton Plankton](https://open.spotify.com/track/1nuuDQvXnwcvqIWmLuxFsD) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Skeleton Plankton](https://open.spotify.com/album/4oICrUvr84rJLlH5Ml8Ha4) | 3:05 |
 | 64 | [satellite](https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [satellite](https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh) | 2:22 |

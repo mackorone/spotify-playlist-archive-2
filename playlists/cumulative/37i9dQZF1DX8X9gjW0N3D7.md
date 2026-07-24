@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: N NAO
 
-558 songs - 1 day 7 hr 15 min
+559 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [reel talk](https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:19 | 2026-04-17 |  |
 | [Reflets](https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ) | [dear•dree](https://open.spotify.com/artist/1HAU4BADFzqOCZr6dvV1DD) | [Reflets](https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs) | 3:26 | 2025-11-21 | 2026-02-07 |
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 | 2025-10-25 |
+| [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 | 2026-07-17 |  |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
 | [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
@@ -443,7 +444,7 @@
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 | 2025-01-11 |
 | [Rétroviseur](https://open.spotify.com/track/1wSc9EIjX3JMvQLcxEdPI0) | [Simon Harnois](https://open.spotify.com/artist/5UnrKWsKqmICZmyIv770Mf) | [Rétroviseur](https://open.spotify.com/album/7nnzgHc9ovH90uTiFbKA0R) | 3:24 | 2025-10-24 | 2025-11-15 |
 | [Révolution \(la chanson\) \- Radio Édith](https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Révolution \(la chanson\) \[Radio Édith\]](https://open.spotify.com/album/5wIp1O2uO8bDaiMRuC3SeB) | 3:20 | 2024-06-28 | 2024-07-19 |
-| [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-04-30 |  |
+| [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-04-30 | 2026-07-24 |
 | [rêves en hd](https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [rêves en hd](https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi) | 4:13 | 2026-04-22 |  |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-23 | 2026-03-07 |
 | [Saison des feux](https://open.spotify.com/track/2bNoTLPyDM5IPWjSz1tIAl) | [Soleil Secret](https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K), [Secret sun](https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y) | [Rose lueur](https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m) | 4:01 | 2026-04-17 | 2026-07-18 |

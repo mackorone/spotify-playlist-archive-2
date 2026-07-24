@@ -1,12 +1,12 @@
 {
   "description": "This is Pauline Anna Strom. The essential tracks, all in one playlist.",
-  "num_followers": 67,
+  "num_followers": 68,
   "original_name": "This Is Pauline Anna Strom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al62gAAAAAASFhSojmcH5WZFl0O4ivEz",
+  "snapshot_id": "amAIAAAAAADkwIE3pPF2t69tE0QN7J+O",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 450986,
-      "name": "Blood Celebrants",
-      "url": "https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl"
+      "duration_ms": 447493,
+      "name": "Blood Thirst",
+      "url": "https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Domestic Peace",
-      "url": "https://open.spotify.com/track/3s7YNaBBYhCHs8ACMmp6JH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 447493,
-      "name": "Blood Thirst",
-      "url": "https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW"
+      "duration_ms": 450986,
+      "name": "Blood Celebrants",
+      "url": "https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl"
     }
   ],
   "unique_name": "This Is Pauline Anna Strom",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Saint Clair
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,558 likes - 126 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,533 likes - 126 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

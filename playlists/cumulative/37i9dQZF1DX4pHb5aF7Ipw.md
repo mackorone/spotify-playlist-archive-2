@@ -2,7 +2,7 @@
 
 ### [New Rap Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Hip\-Hop Tracks by Parmish Verma, Jordan Sandhu BAD Junkie and more!
+> Fresh Punjabi Hip\-Hop Tracks by Parmish Verma, Jordan Sandhu, BAD Junkie and more!
 
 1,339 songs - 2 day 13 hr 27 min
 

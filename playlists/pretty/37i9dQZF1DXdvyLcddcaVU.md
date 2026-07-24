@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,072 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,167 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maladie](https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q) | 3:12 |
 | 2 | [Elle m'a dit \(feat\. Haristone\)](https://open.spotify.com/track/3Jmcl5PTs5IdI3zsZoGKk2) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Haristone](https://open.spotify.com/artist/4A1BIRTQQ1yNPwcg57Ubq7) | [Trapop](https://open.spotify.com/album/78oQ03M4EGrGOl5CpjH1Hv) | 3:27 |
-| 3 | [Pangor \(Swalalala\)](https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt) | 2:01 |
+| 3 | [Pangor \(Swalalala\)](https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA) | [Pangor \(Swalalala\)](https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x) | 2:01 |
 | 4 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
 | 5 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 6 | [Jalouse](https://open.spotify.com/track/5M6bU1A2VHwWoKmHiYjrdU) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 69 | [Le Maillot](https://open.spotify.com/track/0IpAgbdPtaczCktPuiNJEY) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Le Maillot](https://open.spotify.com/album/716gxbsXZdXW1jU2xvVFBk) | 2:21 |
 | 70 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
 
-Snapshot ID: `AAAAANDdP99U3rSgRv96jQpFRXS4TxgC`
+Snapshot ID: `AAAAAHalBxqBXsgmF7ipPoc/WwvvAI8m`

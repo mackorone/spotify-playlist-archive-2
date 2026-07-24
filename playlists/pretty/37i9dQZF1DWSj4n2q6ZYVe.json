@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 777014,
+  "num_followers": 777302,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Party Rock",
-        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
-      },
-      "artists": [
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Heads Will Roll (A-Trak Remix)",
         "url": "https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 383893,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Party Rock",
+        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
+      "duration_ms": 230266,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1800,9 +1800,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 230266,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV"
+      "duration_ms": 215506,
+      "name": "Weekend!",
+      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
     }
   ],
   "unique_name": "Dance Hits 2000s",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123466,
+  "num_followers": 123461,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVmlg1SQFiq7OKPYMDGbCzcclNLzvW",
+  "snapshot_id": "AAAVm5aE3k9d7GdONbGZCYbrEyLWQ5fB",
   "tracks": [
+    {
+      "added_at": "2026-07-23 15:51:58",
+      "album": {
+        "name": "Midnight Drift",
+        "url": "https://open.spotify.com/album/7peNgjxpnh0ePTmBmUhufB"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Midnight Drift",
+      "url": "https://open.spotify.com/track/7C1UDppYPW3PiVHKbhHiRu"
+    },
     {
       "added_at": "2026-07-22 14:26:37",
       "album": {

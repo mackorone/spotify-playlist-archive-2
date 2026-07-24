@@ -788,6 +788,24 @@
     {
       "album": {
         "name": "Better",
+        "url": "https://open.spotify.com/album/5Al8gco9l6Zj0DQSAE47XA"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1eGJpb17Rnq587H8tn2cxj"
+    },
+    {
+      "album": {
+        "name": "Better",
         "url": "https://open.spotify.com/album/5meNZihmOXm1txLLxJOwlc"
       },
       "artists": [
@@ -1118,6 +1136,28 @@
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
+    },
+    {
+      "album": {
+        "name": "Body (Touchin')",
+        "url": "https://open.spotify.com/album/3bUbxGVoKMHFu52Pbz0i39"
+      },
+      "artists": [
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "Simon Wiart",
+          "url": "https://open.spotify.com/artist/4w64FIWuxIGKlIEwpM3gov"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Body (Touchin')",
+      "url": "https://open.spotify.com/track/6sJzI6TMesW9C3sBObzC3H"
     },
     {
       "album": {
@@ -1910,6 +1950,28 @@
       "duration_ms": 176854,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1sxy07nZ8K16IUI3neA8WI"
+    },
+    {
+      "album": {
+        "name": "Dima",
+        "url": "https://open.spotify.com/album/6OPKLtP2TsldxBFUOIhXZ3"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Dima",
+      "url": "https://open.spotify.com/track/01Axq8dfsX11LFWK3RJT67"
     },
     {
       "album": {
@@ -4888,7 +4950,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 186000,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG"
@@ -5828,7 +5890,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 165440,
       "name": "Oro (feat. Sofiane Pamart)",
       "url": "https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc"
@@ -8216,7 +8278,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 313152,
       "name": "Threads",
       "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"

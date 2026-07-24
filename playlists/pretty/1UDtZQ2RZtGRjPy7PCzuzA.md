@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,053 songs - 2 day 12 hr 0 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,084 songs - 2 day 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1061,5 +1061,36 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1051 | [Lights Out](https://open.spotify.com/track/4XXt6CKHNFi25WNWEhCHLa) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Lights Out](https://open.spotify.com/album/6wN7QZY87G3z7JPeitU3Lz) | 4:17 |
 | 1052 | [Do You Better](https://open.spotify.com/track/7HRCg1rZeYfiGeRqIBtXUS) | [Rohan](https://open.spotify.com/artist/7cORZKOcJ3aIgeaZmfXF6C) | [Do You Better](https://open.spotify.com/album/4QNMSK4IVIoevGj9w3CAXh) | 2:40 |
 | 1053 | [Use Me](https://open.spotify.com/track/5g7jg1BDLUPbAVrrktJ7oD) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Nocturnes](https://open.spotify.com/album/3BHAhIIZ2fo3y9bJhOXEzt) | 3:58 |
+| 1054 | [Prologue](https://open.spotify.com/track/33d1nEbm5DeJuv0N0m4zFD) | [Jekyll Hyde](https://open.spotify.com/artist/2tm5E77HtK7hjzlrR2rMm7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 0:32 |
+| 1055 | [Lost in the Darkness](https://open.spotify.com/track/4obJvMCcNGiZkMmA76njg6) | [Dr\. Henry Jekyll](https://open.spotify.com/artist/1LLrkH8AjZ4CrsN8emfxET) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:56 |
+| 1056 | [Facade](https://open.spotify.com/track/2tY2ksoiz7qfmO4jKDesdl) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:54 |
+| 1057 | [Pursue the Truth](https://open.spotify.com/track/0QApuGJiAMuYRMVzLLzwEE) | [Jekyll, John Utterson](https://open.spotify.com/artist/5aSh995n3KuaEvjV8LRNW3) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:27 |
+| 1058 | [Facade \- Reprise 1](https://open.spotify.com/track/0Uj6aOXeYHjvqrZe02YWpU) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 0:51 |
+| 1059 | [Emma's Reasons](https://open.spotify.com/track/40ORhqj7H7Gxe7L7NVEHuN) | [Simon Stride, Emma Carew](https://open.spotify.com/artist/6R4fixbhPYO3ahX1NwjcWN) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:40 |
+| 1060 | [I Must Go On](https://open.spotify.com/track/44AcQv5P2lnGi2dWf4DpzJ) | [Jekyll, Emma](https://open.spotify.com/artist/1pMK5d7kQbIzRZAJr4l1H3) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:32 |
+| 1061 | [Take Me as I Am](https://open.spotify.com/track/0pZyHZAmFl7OncYfW2STfH) | [Jekyll, Emma](https://open.spotify.com/artist/1pMK5d7kQbIzRZAJr4l1H3) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:09 |
+| 1062 | [Letting Go](https://open.spotify.com/track/3F2EkJjutLUYoFAnFdzqSI) | [Sir Danvers Carew, Emma](https://open.spotify.com/artist/07LfCVWvYvBSok2YBAjiHn) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:41 |
+| 1063 | [Facade \- Reprise 2](https://open.spotify.com/track/7ySmqRlJJ4CdmDydBFvPnI) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:00 |
+| 1064 | [No One Knows Who I Am](https://open.spotify.com/track/7h8vPYar3uIPV1T0GRiAi8) | [Lucy Harris](https://open.spotify.com/artist/4257I8OqAGloN2LD3T5h4t) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 2:26 |
+| 1065 | [Good 'n' Evil](https://open.spotify.com/track/3DCFscIJWEPOCR35n8Uy4p) | [Lucy, Ensemble](https://open.spotify.com/artist/4C1fNZDO7OSWGKrvRaX0bX) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:10 |
+| 1066 | [Now There Is No Choice](https://open.spotify.com/track/4vz4478FYyIVG4dYoDDnga) | [Jekyll](https://open.spotify.com/artist/0VO40upO2mrC36RRq3JOvO) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 0:41 |
+| 1067 | [This Is the Moment](https://open.spotify.com/track/3chZzJjo7RQb2hW7eX5Ix5) | [Jekyll](https://open.spotify.com/artist/0VO40upO2mrC36RRq3JOvO) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:14 |
+| 1068 | [First Transformation](https://open.spotify.com/track/6q9FT9sm83MhkBRt1GDnXd) | [Jekyll, Edward Hyde](https://open.spotify.com/artist/4IomykX7GJ56uca1CeQynF) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:51 |
+| 1069 | [Alive](https://open.spotify.com/track/3rNLfSQP9wTadu3iOOmUOz) | [Hyde](https://open.spotify.com/artist/1BdR9pJcDNxxsbtzJSy3F4) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:18 |
+| 1070 | [Your Work\-\-And Nothing More](https://open.spotify.com/track/3wNcluVEeS01wTuDGx0SRc) | [Utterson, Jekyll, Emma, Sir Danvers](https://open.spotify.com/artist/7ttuPtS9bZTcjfRuv2HJpx) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 2:47 |
+| 1071 | [Sympathy, Tenderness](https://open.spotify.com/track/2Np1g3gZRY5tME2QlJNai6) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:34 |
+| 1072 | [Someone Like You](https://open.spotify.com/track/2WNPG9HRibvtymAp7f9jIW) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:46 |
+| 1073 | [Alive \- Reprise](https://open.spotify.com/track/6Hwtd6XwSy5UGU0RgMhEhx) | [Hyde](https://open.spotify.com/artist/1BdR9pJcDNxxsbtzJSy3F4) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:26 |
+| 1074 | [Murder, Murder](https://open.spotify.com/track/21OOPSOfNRGGYYCqc2KDpz) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 5:28 |
+| 1075 | [Once Upon a Dream](https://open.spotify.com/track/6wXbF4Do590yIE8snBfzGi) | [Emma](https://open.spotify.com/artist/1iZ5s9BHbVIx0iYQ4LXy4G) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 2:49 |
+| 1076 | [Obsession](https://open.spotify.com/track/3fONNZrVI1iCN19G8vFJlX) | [Jekyll](https://open.spotify.com/artist/0VO40upO2mrC36RRq3JOvO) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:40 |
+| 1077 | [In His Eyes](https://open.spotify.com/track/3oCh9DuwUaLDbXznD1T92Y) | [Emma, Lucy](https://open.spotify.com/artist/2kqqFUNDucZwgSbQ2Sjm4D) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 4:01 |
+| 1078 | [Dangerous Game](https://open.spotify.com/track/3KS8SsAW3oAg9eH9wdZ4v8) | [Lucy, Jekyll](https://open.spotify.com/artist/094xKTLbymdwaaLawqzoDT) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:34 |
+| 1079 | [Facade \- Reprise 3](https://open.spotify.com/track/7wJpDSuXYA5Ce5b5FkXTGc) | [The Spider, Ensemble](https://open.spotify.com/artist/09WUzJXDeaCXtLYjZQ0Gvc) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 0:55 |
+| 1080 | [The Way Back](https://open.spotify.com/track/2gG9E2BbbKGwim4pvYjPIu) | [Jekyll](https://open.spotify.com/artist/0VO40upO2mrC36RRq3JOvO) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 2:09 |
+| 1081 | [A New Life](https://open.spotify.com/track/3IRmPu1ra0V6STRU63SgMW) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 4:40 |
+| 1082 | [Confrontation](https://open.spotify.com/track/4PWOQUEfx2dzEJleMs8oDP) | [Jekyll Hyde](https://open.spotify.com/artist/2tm5E77HtK7hjzlrR2rMm7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:42 |
+| 1083 | [Facade \- Reprise 4](https://open.spotify.com/track/7AhrdaimvAyvrtIZLgF1mg) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:04 |
+| 1084 | [Finale](https://open.spotify.com/track/7meNYyUPWbGCSTDzj2LmTa) | [Emma](https://open.spotify.com/artist/1iZ5s9BHbVIx0iYQ4LXy4G) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:24 |
 
-Snapshot ID: `AAALMvKuEn6JI75iWTf+dz/ipwBOAUH4`
+Snapshot ID: `AAALM9WwX3VAcwtycB9S7xMDjDC+ouoZ`

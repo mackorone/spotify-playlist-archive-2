@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22640,
+  "num_followers": 22641,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "V.I.P",
-        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
-      },
-      "artists": [
-        {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Los del Control",
-          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "V.I.P",
-      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "Bichifokel",
         "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 131150,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "V.I.P",
+        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
+      },
+      "artists": [
+        {
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "V.I.P",
+      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
         "name": "Sant Joan",
         "url": "https://open.spotify.com/album/6W8iwoMBIFt5BxU916WDBw"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 179273,
       "name": "Sant Joan",
       "url": "https://open.spotify.com/track/1gqBsUskpv8WKtoI3958h8"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -815,22 +815,18 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
+        "name": "Hoy ya no",
+        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
       },
       "artists": [
         {
-          "name": "UMEN",
-          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
-        },
-        {
-          "name": "Cascales",
-          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 172650,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
+      "duration_ms": 160064,
+      "name": "Hoy ya no",
+      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -851,18 +847,22 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Hoy ya no",
-        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "UMEN",
+          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
+        },
+        {
+          "name": "Cascales",
+          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
         }
       ],
-      "duration_ms": 160064,
-      "name": "Hoy ya no",
-      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
+      "duration_ms": 172650,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
     },
     {
       "added_at": "2026-07-13 22:00:02",

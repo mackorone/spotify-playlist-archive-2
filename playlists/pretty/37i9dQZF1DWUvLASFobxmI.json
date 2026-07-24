@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Primer Grado en portada.",
-  "num_followers": 531013,
+  "num_followers": 531048,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Tu Culpa",
+        "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Tu Culpa",
+      "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Tu Culpa",
-        "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "Tu Culpa",
-      "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Cheyenne",
         "url": "https://open.spotify.com/album/25A9GkAVwo5T9aT6oY5f4E"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 150440,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Nomas Pa Que Sepan",
-        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        }
-      ],
-      "duration_ms": 169830,
-      "name": "Nomas Pa Que Sepan",
-      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Vida y Libertad",
         "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Nomas Pa Que Sepan",
+        "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "duration_ms": 169830,
+      "name": "Nomas Pa Que Sepan",
+      "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1063,26 +1063,6 @@
       "duration_ms": 157705,
       "name": "Por Mi Bien",
       "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "COZUMEL",
-        "url": "https://open.spotify.com/album/6DuZAzkAYXFOfgZMmFon28"
-      },
-      "artists": [
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        },
-        {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "COZUMEL",
-      "url": "https://open.spotify.com/track/5d3ahxrqTUwsmPH08KlLPR"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1123,6 +1103,26 @@
       "duration_ms": 207886,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "COZUMEL",
+        "url": "https://open.spotify.com/album/6DuZAzkAYXFOfgZMmFon28"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "COZUMEL",
+      "url": "https://open.spotify.com/track/5d3ahxrqTUwsmPH08KlLPR"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Pa' D\u00f3nde",
         "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 164000,
       "name": "Pa' D\u00f3nde",
       "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
         "name": "Fondo de Pantalla",
         "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "El Arrepentido",
-        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 183271,
-      "name": "El Arrepentido",
-      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "La Troca Del Mo\u00f1o Negro",
         "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 180617,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "El Arrepentido",
+        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 183271,
+      "name": "El Arrepentido",
+      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "A Mi Padre",
-        "url": "https://open.spotify.com/album/6wBvh9HuwWLPor1djTnshv"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "A Mi Padre",
-      "url": "https://open.spotify.com/track/0fd4dNUudca1qMINEwSHm8"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Que Tonto He Sido",
         "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 241333,
       "name": "Que Tonto He Sido",
       "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "A Mi Padre",
+        "url": "https://open.spotify.com/album/6wBvh9HuwWLPor1djTnshv"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "A Mi Padre",
+      "url": "https://open.spotify.com/track/0fd4dNUudca1qMINEwSHm8"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "El Consejo",
-        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Seras Mia",
         "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
       },
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Desde El Charco (En Vivo)",
-        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
       },
       "artists": [
         {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
         }
       ],
-      "duration_ms": 227314,
-      "name": "Como Poder Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
+      "duration_ms": 171444,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1875,6 +1859,22 @@
       "duration_ms": 153302,
       "name": "Quiero Todo Contigo",
       "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Desde El Charco (En Vivo)",
+        "url": "https://open.spotify.com/album/35yF2G3lDUoDpBoYaA8Upe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 227314,
+      "name": "Como Poder Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5Z0evnieeQdtG9SnIKw8Xn"
     },
     {
       "added_at": "2026-07-17 06:50:08",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-07-17 06:50:08",
       "album": {
-        "name": "Si No La Tengo",
-        "url": "https://open.spotify.com/album/3VyWjr4wRRmxYgSIx67nu3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Amanecer Gt",
-          "url": "https://open.spotify.com/artist/7JyUd9ALfZFjm86GE8WacC"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/6dX9AMjSe3GM8v0jtNs4j1"
-    },
-    {
-      "added_at": "2026-07-17 06:50:08",
-      "album": {
         "name": "Flor De Capomo",
         "url": "https://open.spotify.com/album/10M4VCHai7mAOcjUtgypBM"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 179433,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/2Lg3Mytou7RnwZbYrFXlAz"
+    },
+    {
+      "added_at": "2026-07-17 06:50:08",
+      "album": {
+        "name": "Si No La Tengo",
+        "url": "https://open.spotify.com/album/3VyWjr4wRRmxYgSIx67nu3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Amanecer Gt",
+          "url": "https://open.spotify.com/artist/7JyUd9ALfZFjm86GE8WacC"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/6dX9AMjSe3GM8v0jtNs4j1"
     },
     {
       "added_at": "2026-07-17 06:50:08",

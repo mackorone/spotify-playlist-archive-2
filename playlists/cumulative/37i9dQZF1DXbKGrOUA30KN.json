@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Wincent Weiss",
+  "description": "Deutschpop, der jetzt passiert. Cover: LEA",
   "name": "POPLAND",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Alles an dir",
+        "url": "https://open.spotify.com/album/2MS9vY3mAlAqz3r9EJ5Qk4"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "Alles an dir",
+      "url": "https://open.spotify.com/track/6oK1GmmQlx3HSr6dbBGgXS"
+    },
+    {
+      "album": {
         "name": "Alles geht vorbei",
         "url": "https://open.spotify.com/album/7gxjpXv6sLLIvt7ud26yUw"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 151000,
       "name": "Also lass' ich es los",
       "url": "https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 141600,
       "name": "Chemie",
       "url": "https://open.spotify.com/track/3ovCUskAR5MlxONJZ5hpjS"
@@ -1702,6 +1720,24 @@
       "duration_ms": 185019,
       "name": "Clair de Lune",
       "url": "https://open.spotify.com/track/1yR1WJ6isOn9L1fgt9gMff"
+    },
+    {
+      "album": {
+        "name": "Clean Girl",
+        "url": "https://open.spotify.com/album/688cv8LEKSMheIaHyVTnTJ"
+      },
+      "artists": [
+        {
+          "name": "Sarro",
+          "url": "https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141853,
+      "name": "Clean Girl",
+      "url": "https://open.spotify.com/track/5Q7pCxjEEdNiHNf1VewJlC"
     },
     {
       "album": {
@@ -1850,6 +1886,24 @@
       "duration_ms": 170782,
       "name": "Danke f\u00fcr die Zeit",
       "url": "https://open.spotify.com/track/7C8b8QoAe3xuv2fi0PBzW7"
+    },
+    {
+      "album": {
+        "name": "danke f\u00fcr nichts",
+        "url": "https://open.spotify.com/album/2mnwSkCAQzBjt8XudMOqZX"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137728,
+      "name": "danke f\u00fcr nichts",
+      "url": "https://open.spotify.com/track/0cOf10yUSlx3HSWYrQCYb6"
     },
     {
       "album": {
@@ -2468,7 +2522,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 138000,
       "name": "Diese Lieder",
       "url": "https://open.spotify.com/track/2yAJfnayrJmR8ERU6VgU8j"
@@ -2610,6 +2664,24 @@
       "duration_ms": 179205,
       "name": "du bist verliebt.",
       "url": "https://open.spotify.com/track/2ha8y1Y6vQSGEgR5fpJEjn"
+    },
+    {
+      "album": {
+        "name": "Du drehst dich",
+        "url": "https://open.spotify.com/album/2Kv1Ss5NwYnVpPdP3obmE8"
+      },
+      "artists": [
+        {
+          "name": "ELEO",
+          "url": "https://open.spotify.com/artist/4uVx18pmKi2qLX0vLKfhfC"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158045,
+      "name": "Du drehst dich",
+      "url": "https://open.spotify.com/track/4OnGS7x3t1Uh0Uyskg7cVJ"
     },
     {
       "album": {
@@ -4084,7 +4156,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 160130,
       "name": "Halbe Schachtel",
       "url": "https://open.spotify.com/track/1NexEC05MHCDaeKOh00kre"
@@ -4463,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Herz zur\u00fcck",
+        "url": "https://open.spotify.com/album/6HsdCtz6mDOiDfT2be7bhp"
+      },
+      "artists": [
+        {
+          "name": "Anne West",
+          "url": "https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131360,
+      "name": "Herz zur\u00fcck",
+      "url": "https://open.spotify.com/track/6kHRNYhcT9zxkqCDuz84rb"
+    },
+    {
+      "album": {
         "name": "Herz \u00fcber Kopf",
         "url": "https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew"
       },
@@ -4684,7 +4774,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 141895,
       "name": "Ich hab das nie gehabt",
       "url": "https://open.spotify.com/track/73Rzc2roeMf1fmzLr8qnEc"
@@ -4864,7 +4954,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 210196,
       "name": "Ich wei\u00df es doch auch nicht",
       "url": "https://open.spotify.com/track/1UXyd0p7uzgcPr5aN5v1iP"
@@ -5346,7 +5436,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 238241,
       "name": "Kamera Blitzlicht",
       "url": "https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es"
@@ -6041,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "La Terraza",
+        "url": "https://open.spotify.com/album/6w8LQrv6gqaD44t0F4IhKh"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150746,
+      "name": "La Terraza",
+      "url": "https://open.spotify.com/track/3LURRvQa2WUPm8IDGVEDnH"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p"
       },
@@ -6547,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "Linker Haken",
+        "url": "https://open.spotify.com/album/75T7dAXtT2wtJevvvhOkUl"
+      },
+      "artists": [
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135937,
+      "name": "Linker Haken",
+      "url": "https://open.spotify.com/track/2ExYpZvG3nJmNEhqZBYEKv"
+    },
+    {
+      "album": {
         "name": "Los",
         "url": "https://open.spotify.com/album/4Wat7N7BSjTcjd45W4ohu9"
       },
@@ -6652,6 +6778,40 @@
       "duration_ms": 139200,
       "name": "mama",
       "url": "https://open.spotify.com/track/7eLvcOXD9tGss0MTMtmrqg"
+    },
+    {
+      "album": {
+        "name": "Mama hat gesagt (JazzDP)",
+        "url": "https://open.spotify.com/album/35ZbajQ3aTVxHSjKE0STuk"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        },
+        {
+          "name": "JazzDP",
+          "url": "https://open.spotify.com/artist/2bftZEJHkriaOKsUO4Uwqy"
+        },
+        {
+          "name": "The Capital Dance Orchestra",
+          "url": "https://open.spotify.com/artist/4NfATmRSocOFbq7WEjBAEO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222934,
+      "name": "Mama hat gesagt - JazzDP",
+      "url": "https://open.spotify.com/track/6AfFIWybkMMaKbixPVD6qI"
     },
     {
       "album": {
@@ -6839,6 +6999,24 @@
     },
     {
       "album": {
+        "name": "Mein Babe",
+        "url": "https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb"
+      },
+      "artists": [
+        {
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Mein Babe",
+      "url": "https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9"
+    },
+    {
+      "album": {
         "name": "Mein Herz geht dumm",
         "url": "https://open.spotify.com/album/4LFjTIuqaEU3mrFrKiFgiL"
       },
@@ -6890,6 +7068,24 @@
       "duration_ms": 187520,
       "name": "Mein Leben",
       "url": "https://open.spotify.com/track/3D2EuI9OqSCy83WrzfY1Ul"
+    },
+    {
+      "album": {
+        "name": "Mein Life",
+        "url": "https://open.spotify.com/album/50HHRMMVOP5AwGWmqRUeAA"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "Mein Life",
+      "url": "https://open.spotify.com/track/4yiDpn08Q6itCsMZfn7vsl"
     },
     {
       "album": {
@@ -7042,6 +7238,24 @@
       "duration_ms": 211224,
       "name": "Mit besten W\u00fcnschen",
       "url": "https://open.spotify.com/track/6q4MDW9XtKc0ZgPsDnmhim"
+    },
+    {
+      "album": {
+        "name": "Mit dir alleine sein",
+        "url": "https://open.spotify.com/album/45jh2PReaKcDIKKlYgNRfM"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148006,
+      "name": "Mit dir alleine sein",
+      "url": "https://open.spotify.com/track/0SsOZMWEgk4knht8bI3QHa"
     },
     {
       "album": {
@@ -7204,7 +7418,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 152209,
       "name": "m\u00fcde tr\u00e4ume",
       "url": "https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI"
@@ -7562,7 +7776,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 147673,
       "name": "Nickelodeon",
       "url": "https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain"
@@ -7858,7 +8072,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 165066,
       "name": "Nur dir geh\u00f6r'n",
       "url": "https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX"
@@ -8638,7 +8852,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 136904,
       "name": "Richtig guter Opa",
       "url": "https://open.spotify.com/track/28AnONRNtk0wxslhk9dA3N"
@@ -9010,6 +9224,32 @@
       "duration_ms": 135790,
       "name": "seit wir 14 sind",
       "url": "https://open.spotify.com/track/671KetA7pWmDgB0LW4KcfG"
+    },
+    {
+      "album": {
+        "name": "Seite an Seite",
+        "url": "https://open.spotify.com/album/56he14BpKsirM76ZLonOa1"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "Seite an Seite",
+      "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
     },
     {
       "album": {
@@ -11590,7 +11830,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 114000,
       "name": "Zuhause",
       "url": "https://open.spotify.com/track/0PHll7iX0GYtln2HTpdw8t"

@@ -4,7 +4,7 @@
 
 > se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-596 songs - 1 day 7 hr 52 min
+597 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Ci vuole una laurea \(from the Netflix Series "Due Spicci"\)](https://open.spotify.com/track/5YgC3tOmBBW82vB9bB7Jrk) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ci vuole una laurea \(from the Netflix Series "Due Spicci"\)](https://open.spotify.com/album/0sGw2Y1TsO1d9iKtiQubbr) | 2:32 | 2026-05-07 |  |
 | [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 |  |
 | [Ciao tristezza \(con Lucia Manca\)](https://open.spotify.com/track/3IdXaqn8Ca271O4PIUr9VM) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Ciao tristezza \(con Lucia Manca\)](https://open.spotify.com/album/1ExwneIDBZ7f93PebiLc1C) | 2:44 | 2024-11-28 | 2025-01-24 |
-| [Ciao vicini, mi trasferisco da voi](https://open.spotify.com/track/7ijjc9q1t1UUsBPOTxnZBj) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Affogare in acque amiche](https://open.spotify.com/album/7m35qKKixd7o9Ru9XkHo6q) | 2:40 | 2026-05-21 |  |
+| [Ciao vicini, mi trasferisco da voi](https://open.spotify.com/track/7ijjc9q1t1UUsBPOTxnZBj) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Affogare in acque amiche](https://open.spotify.com/album/7m35qKKixd7o9Ru9XkHo6q) | 2:40 | 2026-05-21 | 2026-07-24 |
 | [Cielo](https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Teatro](https://open.spotify.com/album/7cr7rD9YJ7b53kleNSGeyk) | 4:05 | 2025-01-16 | 2025-03-21 |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2024-11-28 | 2025-02-21 |
 | [Cip Cip](https://open.spotify.com/track/765v05EkFFIAgyeeDrTyu7) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Cip Cip](https://open.spotify.com/album/51DtXMdWyTTW7QU5Go6ixD) | 3:27 | 2026-04-23 |  |
@@ -154,6 +154,7 @@
 | [Editto Dal Sottoscoglio](https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Editto Dal Sottoscoglio](https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7) | 3:26 | 2025-10-23 | 2025-11-14 |
 | [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 | 2026-06-11 |  |
 | [Estate 2007](https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Estate 2007 \| Piazza Roma](https://open.spotify.com/album/1c6viVbq9KFBNuXJEqdtrZ) | 2:18 | 2026-03-19 | 2026-05-01 |
+| [Ezechiele \(feat\. Lamante\)](https://open.spotify.com/track/1iHDrxi8144dQhHUeyQ76Q) | [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Messe Sporche](https://open.spotify.com/album/0T5rlXEcGOiAFZbJeqKAKV) | 2:42 | 2026-07-23 |  |
 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 | 2025-12-04 |  |
 | [Fallito](https://open.spotify.com/track/5SkOX9LGHGBQWn8OLmNEjO) | [AIMONE](https://open.spotify.com/artist/18hOfr11qzoQKN87YjmyxS) | [Mai più per sempre](https://open.spotify.com/album/453uiFz6tPhSFpXiXQV7p1) | 3:02 | 2025-05-01 | 2025-10-04 |
 | [Fantasia 2000 \(con Franco126\)](https://open.spotify.com/track/19uOf45JYsppo49a8jiMt6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:11 | 2026-03-12 | 2026-04-03 |

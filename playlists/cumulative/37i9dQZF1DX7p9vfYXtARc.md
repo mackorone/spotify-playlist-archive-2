@@ -4,12 +4,13 @@
 
 > The official music from the Battlefield franchise
 
-57 songs - 3 hr 26 min
+60 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 Problems](https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 3:54 | 2026-02-18 |  |
 | [A Theme For Kjell](https://open.spotify.com/track/3WZEr3mdRoAcmtnWBWQkxF) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 4 \(Original Soundtrack\)](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) | 3:36 | 2026-02-18 |  |
+| [Asleep at the Wheel \- Remastered 2024](https://open.spotify.com/track/11GNdEEuDtGyXYMKtZVt8h) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan \(Remastered 2024\)](https://open.spotify.com/album/5CvcBUPiu16gDqrY1rnvvr) | 4:06 | 2026-07-23 |  |
 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 | 2026-02-18 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/5FAx24d6xABej6fQgQLZiJ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Bang Bang Bang](https://open.spotify.com/album/3gOYgnw8um0A9xOUXLQ9ws) | 2:29 | 2026-02-18 |  |
 | [Battlefield 1943 Main Theme](https://open.spotify.com/track/2kJyhNcCJ3b5ZBsFNwiLpH) | [Ian Livingstone](https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU) | [Battlefield 1943 \(Original Soundtrack\)](https://open.spotify.com/album/0hyyXpgy4IjYbQnscX2CJg) | 4:16 | 2026-02-18 |  |
@@ -34,9 +35,11 @@
 | [Cyclone 2](https://open.spotify.com/track/1QmrRX1uZgFhv2hcZh15ys) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 4 \(Original Soundtrack\)](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) | 1:54 | 2026-02-18 |  |
 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 | 2026-02-18 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2026-02-18 |  |
+| [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 | 2026-07-23 |  |
 | [Fishing In Baku](https://open.spotify.com/track/64zwQASkMOak3ofQ8D5vkE) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 4 \(Original Soundtrack\)](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) | 4:50 | 2026-02-18 |  |
 | [Flight School](https://open.spotify.com/track/7F9IfGpSk4eFomo6X6YRXz) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Patrik Andrén](https://open.spotify.com/artist/6RgbIwWiBcHtDEk77uNjrA) | [Battlefield 1 \(Original Soundtrack\)](https://open.spotify.com/album/0vQW7tVDwoJHMSTqWmnaKC) | 3:07 | 2026-02-18 |  |
 | [Frostbite Pillars](https://open.spotify.com/track/2ftNYtNeYs08dM4BPO4Gkv) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 3 Premium Edition \(Original Soundtrack\)](https://open.spotify.com/album/5Oy8CsN2LGMOpVPOXbZuOE) | 2:06 | 2026-02-18 |  |
+| [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 | 2026-07-23 |  |
 | [Golfista \- Battlefield 6 Remix](https://open.spotify.com/track/7FzsTrs4T0MItId3NQYpf6) | [Battlefield](https://open.spotify.com/artist/2G4lUITiAQGoQmzRjtIGzi), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista \(Battlefield 6 Remix\)](https://open.spotify.com/album/2iprIwon9cVZmzJDnxYMIG) | 3:00 | 2026-02-18 |  |
 | [Got Each Other](https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 | 2026-02-18 |  |
 | [Hey Man, Nice Shot \- Remastered Version 2025](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 | 2026-02-18 |  |

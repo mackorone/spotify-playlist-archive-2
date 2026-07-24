@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Michalis Karagkounis
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο:Anna Vissi
 
-312 songs - 15 hr 55 min
+314 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Aspirini](https://open.spotify.com/track/5viznjGtO0Y61qSjAHHazi) | [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [Aspirini](https://open.spotify.com/album/7fBIvDsvYI10MJfBAeXBMU) | 3:47 | 2025-12-18 | 2026-04-03 |
 | [Astamatiti Kardia](https://open.spotify.com/track/7mBj9L5DvwU6o2UiGOANDM) | [Rena Morfi](https://open.spotify.com/artist/35QNo6nfps7vs25jpz5jl1) | [Astamatiti Kardia](https://open.spotify.com/album/5FAF5fmwsMTDdZnYW1uIkn) | 3:05 | 2024-11-21 | 2024-12-13 |
 | [Asteio](https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Asteio](https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9) | 3:19 | 2025-11-13 | 2026-06-12 |
-| [ASTEIO](https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [ASTEIO](https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp) | 3:00 | 2026-02-19 |  |
+| [ASTEIO](https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [ASTEIO](https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp) | 3:00 | 2026-02-19 | 2026-07-24 |
 | [Asteromata](https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA) | 2:55 | 2025-02-13 | 2025-07-04 |
 | [Asteromata \- Playmen & Valeron Remix](https://open.spotify.com/track/7nATmzzvbhxLeMgkXHONld) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 4:16 | 2025-05-22 | 2025-12-05 |
 | [ASTO](https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z) | [KONY](https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce) | [ASTO](https://open.spotify.com/album/6583W1cJew8azNxmRHS26l) | 2:03 | 2026-04-02 |  |
@@ -218,6 +218,7 @@
 | [ohmygod](https://open.spotify.com/track/2kur125fjl7251RlmsYdZX) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH) | [ohmygod](https://open.spotify.com/album/4VID1SSZAScXGqK6S6olpT) | 2:23 | 2026-07-02 | 2026-07-17 |
 | [Ola Gia Sena](https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Ola Gia Sena](https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb) | 3:16 | 2026-05-07 | 2026-06-12 |
 | [Ola Magika](https://open.spotify.com/track/77lMJ52oex6UM1TbafMD7y) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Ola Magika](https://open.spotify.com/album/6UZBssgKA8gO16dpcOdOU3) | 4:23 | 2026-07-02 |  |
+| [OLO PIO PANO](https://open.spotify.com/track/3WVRyh20cE6gdv7Z9A774f) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [OLO PIO PANO](https://open.spotify.com/album/4kbVqMQypAgfFme96DxL9J) | 3:17 | 2026-07-23 |  |
 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 | 2025-02-06 | 2025-04-04 |
 | [Oneiro Tha 'Nai Ksana \- Kounia](https://open.spotify.com/track/25JqyktP3AJulyV4wfthln) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Oneiro Tha 'Nai Ksana \(Kounia\)](https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB) | 4:04 | 2025-07-31 | 2026-01-16 |
 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 | 2026-05-07 |  |
@@ -278,6 +279,7 @@
 | [Taxe Mou](https://open.spotify.com/track/5JqUN0Xf0fqsAhUasXeAVU) | [Stefanos Pitsiniagkas](https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE), [Charis Savva](https://open.spotify.com/artist/2F7eb2e0gBOStCkKPDWb8o) | [Taxe Mou](https://open.spotify.com/album/3tnY2zCOw3tzWaKTGEuUe0) | 2:39 | 2025-05-08 | 2025-06-27 |
 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 | 2024-06-27 | 2024-12-20 |
 | [TELEFTEA FORA](https://open.spotify.com/track/4ik2v05QflCm8AtLZUg9z3) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [TELEFTEA FORA](https://open.spotify.com/album/12cVAXH1LzfZL10Bst5QXc) | 3:12 | 2025-10-09 | 2026-04-17 |
+| [THALASSA AKRIVI](https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Love, Rack.](https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu) | 2:49 | 2026-07-23 |  |
 | [Thelw Toso Na Se Dw](https://open.spotify.com/track/1ajWbZobyrOEcPBUb9s2HK) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Thelw Toso Na Se Dw](https://open.spotify.com/album/5xN7LjtUMYOiStB9e2n1rb) | 2:35 | 2026-07-16 |  |
 | [Thes Thelo](https://open.spotify.com/track/0JgU6taqN6BU2FpTLWzRkP) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Elysian](https://open.spotify.com/album/1w9avdSSsgMi0zFRzbiEZY) | 2:37 | 2025-02-20 | 2025-07-04 |
 | [THUMISOU](https://open.spotify.com/track/0NKMw5wj6CKfm0MmjGBwuJ) | [Lydia](https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [THUMISOU](https://open.spotify.com/album/3KTkYzUv7p51TYxJfsw5gh) | 2:37 | 2025-01-16 | 2025-06-14 |
@@ -318,7 +320,7 @@
 | [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 | 2024-06-27 | 2024-07-19 |
 | [Xrysopsara \- Display & Tony Fragment Remix](https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28), [Tony Fragment](https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj) | [Xrysopsara \(Display & Tony Fragment Remix\)](https://open.spotify.com/album/3arKOWYRyVlDbX8Z4nJBOM) | 3:34 | 2024-07-18 | 2025-03-07 |
 | [Yperfainomeno](https://open.spotify.com/track/2Yqy3VMmglyH7rn4EfXKPq) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [Yperfainomeno](https://open.spotify.com/album/3yF1BVK5VErdnm9m7Be9fD) | 2:47 | 2024-06-27 | 2024-07-05 |
-| [ÉNA NERÓ](https://open.spotify.com/track/4IIzFVHkAynnStxCIs21iy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [ÉNA NERÓ](https://open.spotify.com/album/68VsyGkfZoBFDRrOL9hagB) | 2:54 | 2026-06-11 |  |
+| [ÉNA NERÓ](https://open.spotify.com/track/4IIzFVHkAynnStxCIs21iy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [ÉNA NERÓ](https://open.spotify.com/album/68VsyGkfZoBFDRrOL9hagB) | 2:54 | 2026-06-11 | 2026-07-24 |
 | [Απόψε](https://open.spotify.com/track/4IIUn9OE6dfk078WfJigiB) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ) | [Απόψε](https://open.spotify.com/album/327l58Oz4mcaXMLNSuaFVR) | 3:14 | 2025-07-10 | 2025-08-29 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

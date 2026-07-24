@@ -5441,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Build to Burn",
+        "url": "https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW"
+      },
+      "artists": [
+        {
+          "name": "Revenant Sun",
+          "url": "https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Build to Burn",
+      "url": "https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ"
+    },
+    {
+      "album": {
         "name": "Power to Slay Giants",
         "url": "https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1"
       },
@@ -42635,7 +42653,7 @@
       "artists": [
         {
           "name": "CER",
-          "url": "https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg"
+          "url": "https://open.spotify.com/artist/1YAz8QOz7LnhonlHenZKMO"
         },
         {
           "name": "Jos\u00e9 Sechi",

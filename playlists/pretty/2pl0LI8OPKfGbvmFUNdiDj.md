@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,047 likes - 86 songs - 5 hr 1 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,052 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 84 | [Espressione d'algebra](https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Espressione d'algebra](https://open.spotify.com/album/5VdsafQTceOkatMfr6lm0G) | 2:18 |
 | 85 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 |
 | 86 | [Dream](https://open.spotify.com/track/4ecImVEuf5jm9Joc2cqycN) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Dream](https://open.spotify.com/album/4H8CIjBwxyxZtoeA6hvAJn) | 3:47 |
+| 87 | [Kabuki Dance](https://open.spotify.com/track/1OpiGHa8y1yb4zxvY8bxuq) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Wind](https://open.spotify.com/album/3QbUw26LoBGgTZJkFfGOrw) | 4:42 |
 
-Snapshot ID: `AAAELr2893nEnyOmjenvwvwqP8oa4weN`
+Snapshot ID: `AAAEL/VroDPil//j715MTWP1uf4FxIZX`

@@ -85,7 +85,7 @@
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/00QAndVDVfNqNWYdWAhEan) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 4:55 | 2014-05-09 |  |
 | [Wind Of Change](https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Deadly Sting: The Mercury Years](https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7) | 5:13 | 2014-05-09 |  |
 | [With Arms Wide Open](https://open.spotify.com/track/7q36HE7sjosbeD8AHoOjRL) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Greatest Hits](https://open.spotify.com/album/2yn8yrBA513RFE8l07RhMA) | 4:36 | 2014-05-09 |  |
-| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2014-05-10 |  |
+| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 | 2014-05-10 |  |
 | [You're the Voice](https://open.spotify.com/track/5NwkWwfRJaT55hEPtCmJHx) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Collections](https://open.spotify.com/album/2kzUFnhuzdPxp33ncA1ovM) | 5:02 | 2014-05-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

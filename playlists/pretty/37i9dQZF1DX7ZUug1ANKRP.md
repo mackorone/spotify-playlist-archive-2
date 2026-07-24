@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870,742 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871,230 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 |
 | 50 | [Rave From Outer Space](https://open.spotify.com/track/6vMyEjiBfrk4qt8kQBwbEj) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rave From Outer Space](https://open.spotify.com/album/45SIC52KNvPQZsgz3NZuxJ) | 2:11 |
 
-Snapshot ID: `AAAAAOjMLA1udmIkDTHSvgq0ZqIFz5zq`
+Snapshot ID: `AAAAAA+k2kaP1oDhFjCSsfohnzdYBCsO`

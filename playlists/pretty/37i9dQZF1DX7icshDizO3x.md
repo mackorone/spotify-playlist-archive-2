@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > \[LIVE Blu\-ray『Stray Kids World Tour ＜dominATE JAPAN＞』発売記念\] 静岡エコパスタジアム公演でのセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,405 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,404 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

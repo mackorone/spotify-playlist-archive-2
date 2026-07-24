@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-474 songs - 2 day 2 hr 16 min
+475 songs - 2 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Khanimambo/Obrigado \- Live at Covenant House / 2023](https://open.spotify.com/track/25wWAnC4SPSyMD3pqw0s6f) | [Khana Mhlongo](https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj) | [Ta Mbilu Yanga \(Live at Covenant House / 2023\)](https://open.spotify.com/album/7D3T33Vkh8G0q6m94KbPrd) | 7:18 | 2024-07-26 | 2024-11-08 |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 | 2025-02-14 |
 | [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 | 2023-08-18 |
-| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 |  |
+| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 | 2026-07-24 |
 | [King Jesus \(Live in Bryanston, 2022\) \(feat\. Siphelele Vundla & Awethu Namba\-Satsha\)](https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Siphelele Vundla](https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD), [Awethu Namba\-Satsha](https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH) | [Come to Jesus \(Live in Bryanston, 2022\)](https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499) | 5:37 | 2024-04-12 | 2024-08-23 |
 | [Kom Ons Verheerlik Sy Naam \(Live at the Durban Icc\)](https://open.spotify.com/track/7dUigjYJa7sZveOmigGO8f) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The First Set Live at the Durban Icc\)](https://open.spotify.com/album/3R2W3dCtfMfmRVBKjKFBAf) | 6:56 | 2024-06-29 | 2024-10-18 |
 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 | 2022-01-06 | 2024-02-02 |
@@ -422,6 +422,7 @@
 | [UYesu](https://open.spotify.com/track/1TH90Rg3SZ7cNU9YQICwE0) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr), [Healling](https://open.spotify.com/artist/2Gd5qK78l1BeejHMAxBOki) | [What's Coming](https://open.spotify.com/album/7btZCei8TAMJaCoiRPbSmW) | 5:58 | 2023-10-27 | 2023-11-17 |
 | [Uyingilosi](https://open.spotify.com/track/2b3XzfZiGAzH4Cg2oOZycR) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu) | [Uyingilosi](https://open.spotify.com/album/5THLWQp2Bx8wapN8PMxs3V) | 5:03 | 2026-05-29 | 2026-07-17 |
 | [Uyinkosi Yamakhosi](https://open.spotify.com/track/1YBU0oujKUhR4b50C2LJuL) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Uyinkosi Yamakhosi](https://open.spotify.com/album/59Fe56hiQPF0EU5HxTbH7J) | 4:25 | 2025-04-18 | 2025-05-23 |
+| [Uyinqaba Yami \- Live](https://open.spotify.com/track/3FbLOTs1PBGUl1MXiwqIN5) | [Papa Ndu](https://open.spotify.com/artist/33a74L52xZRLYRGAEtgVwp), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Uyinqaba Yami \(Live\)](https://open.spotify.com/album/1s0ZK7ptXSnr3SakBh2quF) | 6:01 | 2026-07-24 |  |
 | [Uyinqaba Yethu](https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Uyinqaba Yethu](https://open.spotify.com/album/3Bf7ii7OweAhwrUfCWPbiY) | 6:14 | 2024-11-15 | 2025-03-21 |
 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 | 2022-09-15 | 2023-03-18 |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2023-06-16 |  |

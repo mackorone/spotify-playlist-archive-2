@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,151 songs - 6 day 18 hr 9 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,152 songs - 6 day 18 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1640,7 +1640,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1630 | [Queen Of Hearts](https://open.spotify.com/track/55rNCthoPnzkWBKjftlLop) | [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [I Am Deviation](https://open.spotify.com/album/516zbLsRtudBAcm4hLlF3j) | 2:26 |
 | 1631 | [Ur End](https://open.spotify.com/track/2qiESu0R2AWgGs6SmaUyjM) | [Bright Visions](https://open.spotify.com/artist/0emNN1sdeedFWTl0dY9FHw), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [collab\_ep\_2.wav](https://open.spotify.com/album/2e6mdjeU18oC0GEJxKJt3m) | 2:54 |
 | 1632 | [Twist It](https://open.spotify.com/track/5AQ2RKxZlQKeDdKqBaGcdA) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Twist It](https://open.spotify.com/album/2OugqsYSJ3BG8h7ld1W3Fn) | 2:43 |
-| 1633 | [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 |
+| 1633 | [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4FEq36VtFbAMDx8TMBTLlH) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 |
 | 1634 | [Low](https://open.spotify.com/track/4y615uQd9Vpgaq7GGQAgJO) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z) | [Low](https://open.spotify.com/album/1tgNKilTlW60es9cyYx9bF) | 1:51 |
 | 1635 | [With Me](https://open.spotify.com/track/1kh1sYsJPzZ0tEovjqBGTn) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [With Me](https://open.spotify.com/album/4qsrPfO4JSXKn8msvadEsn) | 2:32 |
 | 1636 | [WHAT Ü THINK](https://open.spotify.com/track/2fYzBfnKOghI9Km3ywFKTY) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY) | [WHAT Ü THINK](https://open.spotify.com/album/32oWEV5YOYtSlKOJCpEhJy) | 2:39 |
@@ -3159,5 +3159,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3149 | [Stay With Me](https://open.spotify.com/track/1G2RvUIeR9GaM4WbGj0VQw) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Stay With Me](https://open.spotify.com/album/28K9zGz3sU8Z9RlonwgogS) | 2:24 |
 | 3150 | [PARANOIA](https://open.spotify.com/track/1BC3FNWuB6ikhM3q88LmG2) | [ONYX](https://open.spotify.com/artist/7LDgld7Fj9yqmGskMG8Pro), [Dejection](https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u) | [PARANOIA](https://open.spotify.com/album/70mg99AORW4dgkEPoj3XNQ) | 2:45 |
 | 3151 | [This Feeling](https://open.spotify.com/track/7FEek31MAYDD301G55GAeB) | [Krause](https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [This Feeling](https://open.spotify.com/album/3epM8xiJcnbU0TDC0gq12z) | 2:24 |
+| 3152 | [IN ANOTHER LIFE](https://open.spotify.com/track/0Omf3r50bnZYeoa9dUKNQD) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [IN ANOTHER LIFE](https://open.spotify.com/album/6oNA0gEEEwbQegqRn1YpxN) | 2:53 |
 
-Snapshot ID: `AAAMqmtWyp1wRnUOce03xQd7/s6TUBaC`
+Snapshot ID: `AAAMq4upOHd9kkmALfcQRXRwkmFRJdXO`

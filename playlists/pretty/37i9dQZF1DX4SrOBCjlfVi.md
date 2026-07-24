@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rick Ross, Lil Baby, Larry June and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,393 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,474 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Picture Me Giving Af Who Don't Like Me.](https://open.spotify.com/track/64GpjLF9wUfc7chb206QsD) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Picture Me Giving Af Who Don't Like Me.](https://open.spotify.com/album/7DeU4emGytPUYF3j76Ry8O) | 1:58 |
 | 46 | [KGB \(Kill Get Back\)](https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [KGB \(Kill Get Back\)](https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo) | 2:13 |
 | 47 | [YSL Fit](https://open.spotify.com/track/2OUPG0aqWShZBB93u4wits) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Late Checkout](https://open.spotify.com/album/2n8idjIOTS7EMerreZZEC4) | 2:07 |
-| 48 | [Seals Dekline](https://open.spotify.com/track/14yrYGuktJmH9llt2uyQhH) | [Fox BD](https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Finessin Distribution Deals](https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96) | 1:51 |
-| 49 | [Geeked Shit \- remix](https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH) | [Luh Nae](https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Geeked Shit \(remix\)](https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y) | 2:45 |
+| 48 | [Geeked Shit \- remix](https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH) | [Luh Nae](https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Geeked Shit \(remix\)](https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y) | 2:45 |
 
-Snapshot ID: `AAAAADuYbI+FtVVSrtW6LM06dkMh+zbk`
+Snapshot ID: `AAAAAOtRFQidSzYTCZ/uw/c3ExWL65A5`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: عمرو دياب
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: محمد شاهين وحوده
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,045 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,126 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [بتوحشيني](https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva) | [Umar Diaa](https://open.spotify.com/artist/4VBsKBm5pCJ9FYIhSk7mmR) | [بتوحشيني](https://open.spotify.com/album/3i7164QmeNFB6z6hxH1rlq) | 2:48 |
 | 50 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 |
 
-Snapshot ID: `AAAAACUdh+nuNGTzQNm6Ubzv+2tBJ2Ki`
+Snapshot ID: `AAAAAKrLAlZDl9gJVzktkxzuiEfi4+Gq`

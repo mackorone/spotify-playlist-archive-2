@@ -1501,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Blinded By Your Grace",
+        "url": "https://open.spotify.com/album/61K2rTuQyH0V52zxGZVava"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "Blinded By Your Grace",
+      "url": "https://open.spotify.com/track/1MkyF53qBdEbueA5Yae1pi"
+    },
+    {
+      "album": {
         "name": "Blood of Jesus (No Be Cho Cho Cho)",
         "url": "https://open.spotify.com/album/1utBGXfk9LmHnRqQF7nSKx"
       },
@@ -10188,7 +10214,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 155789,
       "name": "O\u2019ZA",
       "url": "https://open.spotify.com/track/2zFo8f4kW4TrLE7HzpY4yk"
@@ -11462,7 +11488,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 442423,
       "name": "Thank You for Answering Me - Live",
       "url": "https://open.spotify.com/track/5ohAamICIisi460hJ8dN29"
@@ -13494,6 +13520,28 @@
       "duration_ms": 192000,
       "name": "Your Word",
       "url": "https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "album": {

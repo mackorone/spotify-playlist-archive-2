@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. Jazmin Bean",
+  "description": "welcome to our universe ft. Peter Xan",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/2GHMzfCk48x9pOHWqKM1uz"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3XKZMl0boRzOQGtFLn3zPg"
+    },
+    {
+      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1160,6 +1178,24 @@
       "duration_ms": 129360,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/6TBTW840RWA2IWupTK6xHq"
+    },
+    {
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4dutZfz648tDtFCmObZ72Q"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133632,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4uMc8sx5M9XH5yhnpWoKwC"
     },
     {
       "album": {
@@ -1734,6 +1770,24 @@
       "duration_ms": 170316,
       "name": "Basement Superstar",
       "url": "https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK"
+    },
+    {
+      "album": {
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/3rIJ6DZUnMBYB6e6It7x6n"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196489,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1ijsDLDrQuGaeEbcM4f7FK"
     },
     {
       "album": {
@@ -3492,7 +3546,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 165996,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK"
@@ -5874,7 +5928,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 184941,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt"
@@ -7408,7 +7462,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 215517,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
@@ -10690,7 +10744,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
@@ -12990,7 +13044,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 221183,
       "name": "Lawmaker",
       "url": "https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu"
@@ -14446,7 +14500,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 199435,
       "name": "MEAN",
       "url": "https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ"
@@ -14650,6 +14704,28 @@
       "duration_ms": 149327,
       "name": "MESSY",
       "url": "https://open.spotify.com/track/6ujEaQeBN7pbSJenUQ6KaD"
+    },
+    {
+      "album": {
+        "name": "METALICIOUS (feat. Left to Suffer)",
+        "url": "https://open.spotify.com/album/1m8tMLzNe1LZobqQX3jT3g"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "METALICIOUS (feat. Left to Suffer)",
+      "url": "https://open.spotify.com/track/2IXYguJG3VV1R0Jk3v29W9"
     },
     {
       "album": {
@@ -15280,7 +15356,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 286756,
       "name": "Muse",
       "url": "https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye"
@@ -16464,7 +16540,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 233807,
       "name": "ORDINARY LOSS",
       "url": "https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7"
@@ -23264,7 +23340,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 164003,
       "name": "WASHED",
       "url": "https://open.spotify.com/track/4aC5cgC8yvmxyukDiFqVgf"
@@ -23532,7 +23608,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 161344,
       "name": "Wet Like (feat. COBRAH)",
       "url": "https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ"
@@ -24342,7 +24418,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204679,
       "name": "YOU DIED",
       "url": "https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD"
@@ -24472,7 +24548,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 175053,
       "name": "YOU'RE NOTHING",
       "url": "https://open.spotify.com/track/7CtpvWmTKId7nL7kgDV1Uv"

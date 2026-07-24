@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Stand Atlantic",
+  "description": "New and local indie noise. Cover: Radio Free Alice",
   "name": "Local Noise",
   "tracks": [
     {
@@ -510,6 +510,24 @@
       "duration_ms": 152012,
       "name": "Again",
       "url": "https://open.spotify.com/track/6P5veN2UbOY827qJZ4tPQf"
+    },
+    {
+      "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/4rEoMSRfjc5t6n8VoVkTOS"
+      },
+      "artists": [
+        {
+          "name": "Concrete Surfers",
+          "url": "https://open.spotify.com/artist/4c4yCU2MyS5qHVxMAN7Xc6"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/2Wxvi9Thvf2PUF0fEzXgcM"
     },
     {
       "album": {
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204874,
       "name": "Burn Away",
       "url": "https://open.spotify.com/track/5cAex7LEuiSakrkL0qeLSC"
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 232134,
       "name": "Coming Up From Hell",
       "url": "https://open.spotify.com/track/474gI8ikMGHJvxhqtOGhNv"
@@ -5077,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Tally",
+        "url": "https://open.spotify.com/album/5OSz9XBJrao6Rd5PvMYz6e"
+      },
+      "artists": [
+        {
+          "name": "Body Type",
+          "url": "https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Eye Is A Mouth Is A Face",
+      "url": "https://open.spotify.com/track/5X1rVEIOvQw91icO018CgV"
+    },
+    {
+      "album": {
         "name": "F U IN MORSE CODE",
         "url": "https://open.spotify.com/album/3td2aiarSu3XEuCRzoW3nS"
       },
@@ -6356,7 +6392,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 175784,
       "name": "GO WASTE MY TIME",
       "url": "https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33"
@@ -6378,6 +6414,24 @@
       "duration_ms": 233853,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/0pexddeI1EA8AhqWTBlErK"
+    },
+    {
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/6ohE3e5kHTzOJbCEbWt1hJ"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/4p6NsOuSVKnUcnv4DhAYPU"
     },
     {
       "album": {
@@ -6666,7 +6720,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 213409,
       "name": "halftime oranges",
       "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
@@ -8345,6 +8399,24 @@
     },
     {
       "album": {
+        "name": "It's getting hotti",
+        "url": "https://open.spotify.com/album/2extpIeU0aNmlJX8lpgnk2"
+      },
+      "artists": [
+        {
+          "name": "Greatsouth",
+          "url": "https://open.spotify.com/artist/39mSHxPg5MiolYsL4lUsRU"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290454,
+      "name": "It's getting hotti",
+      "url": "https://open.spotify.com/track/6WaRBMDoRqJyRsjKObbEO2"
+    },
+    {
+      "album": {
         "name": "New Age",
         "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
       },
@@ -8670,6 +8742,24 @@
       "duration_ms": 181049,
       "name": "Keychain",
       "url": "https://open.spotify.com/track/2VOhFvluZlMT2wHIuJWkR1"
+    },
+    {
+      "album": {
+        "name": "Kick in the Shins",
+        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Kick in the Shins",
+      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
     },
     {
       "album": {
@@ -10172,7 +10262,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 188687,
       "name": "Mikey Echo",
       "url": "https://open.spotify.com/track/3TNpqZYuJ13xIUCVF4Fv5K"
@@ -11130,7 +11220,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 107714,
       "name": "North West Coastal Highway",
       "url": "https://open.spotify.com/track/5aDhgpcK0OEBEDPT4HgL5l"
@@ -11897,6 +11987,24 @@
     },
     {
       "album": {
+        "name": "Pain Chamber",
+        "url": "https://open.spotify.com/album/7z4pkxImFKOC9cpG2nluR3"
+      },
+      "artists": [
+        {
+          "name": "sunbleached",
+          "url": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152995,
+      "name": "Pain Chamber",
+      "url": "https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt"
+    },
+    {
+      "album": {
         "name": "Paint The Town Green",
         "url": "https://open.spotify.com/album/2h3tKpIJeOkEeeDjxD1krS"
       },
@@ -12218,6 +12326,24 @@
       "duration_ms": 239986,
       "name": "Phoebe's Song",
       "url": "https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa"
+    },
+    {
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
     },
     {
       "album": {
@@ -13522,7 +13648,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 204202,
       "name": "Sand",
       "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
@@ -15498,7 +15624,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 202774,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/6oh9mjOKhCfDrBJ6qJnStA"
@@ -16186,7 +16312,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 131803,
       "name": "Tell Me What I Want To Hear",
       "url": "https://open.spotify.com/track/2ZFdBYiFi0RDySqTjY0qaT"
@@ -16807,6 +16933,24 @@
     },
     {
       "album": {
+        "name": "Think Bad",
+        "url": "https://open.spotify.com/album/06vzJJeAR0wks3eblV5eyG"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128440,
+      "name": "Think Bad",
+      "url": "https://open.spotify.com/track/6vjZBqmpV7qJa0qppQ7Z7v"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/6oCEAeL5fCmc7jawaM5GQm"
       },
@@ -17200,6 +17344,24 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
+    },
+    {
+      "album": {
+        "name": "This Will End",
+        "url": "https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb"
+      },
+      "artists": [
+        {
+          "name": "nightdive",
+          "url": "https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB"
     },
     {
       "album": {

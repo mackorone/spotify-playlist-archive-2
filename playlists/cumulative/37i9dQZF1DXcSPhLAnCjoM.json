@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Juste un peu\" de Jungeli et EMMA est le Grand Hit de la semaine.  ",
+  "description": "\"Soir\u00e9e mondaine\" d'Oria est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1188,6 +1188,24 @@
       "duration_ms": 180000,
       "name": "Courage - Edit",
       "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
+    },
+    {
+      "album": {
+        "name": "Les Grands Espaces",
+        "url": "https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "Cow-girl moderne",
+      "url": "https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A"
     },
     {
       "album": {
@@ -5715,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Sur la piste",
+        "url": "https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Sur la piste",
+      "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
+    },
+    {
+      "album": {
         "name": "T'en aller",
         "url": "https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN"
       },
@@ -5762,7 +5798,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-24",
       "duration_ms": 158185,
       "name": "Tant pis pour elle",
       "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"

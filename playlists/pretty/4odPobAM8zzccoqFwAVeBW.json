@@ -6,8 +6,56 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABNSdncLsQMr16Z9VjF/sgeUNB0GPwV",
+  "snapshot_id": "AABNT10ggymvabbXVSGu27b9bDenFe0h",
   "tracks": [
+    {
+      "added_at": "2026-07-23 09:32:11",
+      "album": {
+        "name": "Rags to Riches",
+        "url": "https://open.spotify.com/album/4HM7GVj4fbpqCX3mUk0c1X"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        }
+      ],
+      "duration_ms": 138344,
+      "name": "Rags to Riches",
+      "url": "https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN"
+    },
+    {
+      "added_at": "2026-07-23 09:32:57",
+      "album": {
+        "name": "The Rain Felt Kind",
+        "url": "https://open.spotify.com/album/2EEupfBnN241gaj650LYQt"
+      },
+      "artists": [
+        {
+          "name": "Foglights",
+          "url": "https://open.spotify.com/artist/19dlMux0gJEgigFw9YTyMy"
+        }
+      ],
+      "duration_ms": 161704,
+      "name": "The Rain Felt Kind",
+      "url": "https://open.spotify.com/track/69cryfI5IdTbgsuAheMTVK"
+    },
+    {
+      "added_at": "2026-07-23 09:31:43",
+      "album": {
+        "name": "Riki Rachtman",
+        "url": "https://open.spotify.com/album/5IUTLwqv7spqvqWn7TqETP"
+      },
+      "artists": [
+        {
+          "name": "Nick Mitchell Maiato",
+          "url": "https://open.spotify.com/artist/5xVDCUwaCgq92kjaXoypqS"
+        }
+      ],
+      "duration_ms": 411023,
+      "name": "Riki Rachtman",
+      "url": "https://open.spotify.com/track/3jlHIVesYOymZzSmbT9S24"
+    },
     {
       "added_at": "2026-07-16 09:29:05",
       "album": {
