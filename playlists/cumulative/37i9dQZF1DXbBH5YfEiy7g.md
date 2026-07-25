@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-253 songs - 1 day 3 hr 24 min
+253 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,9 +192,9 @@
 | [Thula Moya Wam \- Live At Krugersdorp](https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv) | [William Sejake](https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R) | [Thula Moya Wam \(Live At Krugersdorp\)](https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX) | 4:21 | 2026-02-06 |  |
 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 | 2026-06-12 | 2026-07-10 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
-| [Track 1](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 0:00 | 2026-07-24 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 | 2026-04-03 |
+| [Ufanelwe](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 2:55 | 2026-07-24 |  |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2024-10-04 |  |

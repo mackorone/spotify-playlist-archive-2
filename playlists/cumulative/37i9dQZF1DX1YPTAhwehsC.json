@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: A$AP Rocky",
+  "description": "Up and down I-95. Cover: Sheff G",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind",
+        "url": "https://open.spotify.com/album/2JvatW0onm776W4EziYFzl"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "A Different Kind",
+      "url": "https://open.spotify.com/track/51ShulG74xn444wXEUT4tP"
+    },
+    {
+      "album": {
         "name": "A Forsaken Lover's Plea",
         "url": "https://open.spotify.com/album/1Gyeg7Y0DYpD03XVEVuraW"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158883,
       "name": "All In",
       "url": "https://open.spotify.com/track/2oyzMAXkrPPHataG1unAaV"
@@ -8933,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "Weight On Me: The Album",
+        "url": "https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150888,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/3k9K4Dboi63Sc3SqlRhd56"
+    },
+    {
+      "album": {
         "name": "COUNT MY BANDZ",
         "url": "https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW"
       },
@@ -12113,6 +12149,32 @@
     },
     {
       "album": {
+        "name": "Bars Not Dead.",
+        "url": "https://open.spotify.com/album/4o0AABtj7Fsr6vuDg1Y8fT"
+      },
+      "artists": [
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Emo.",
+      "url": "https://open.spotify.com/track/6gTDIQ6t5L7AcKl4WHKwrV"
+    },
+    {
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -12450,6 +12512,32 @@
       "duration_ms": 203851,
       "name": "Everything Dead",
       "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
+    },
+    {
+      "album": {
+        "name": "Everything Is Up",
+        "url": "https://open.spotify.com/album/6qgSeHaLTT3wKwIj38kr2H"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Everything Is Up",
+      "url": "https://open.spotify.com/track/2eg5NFleiBaMO4Bcp7Vhen"
     },
     {
       "album": {
@@ -14429,6 +14517,24 @@
     },
     {
       "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138413,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/2rbEnLjjeljazxI8Mzlgae"
+    },
+    {
+      "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/3fQBWEl9ZczvIT6Zrxec3A"
       },
@@ -16164,10 +16270,32 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 170322,
       "name": "GOOSE COAT",
       "url": "https://open.spotify.com/track/6drKbPiCHknvPv3BErbgAy"
+    },
+    {
+      "album": {
+        "name": "GOOSE COAT (Remix) [feat. Meek Mill]",
+        "url": "https://open.spotify.com/album/3OkRDBwgKzS9Z7tkgq0ZKK"
+      },
+      "artists": [
+        {
+          "name": "Surf7",
+          "url": "https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134179,
+      "name": "GOOSE COAT (Remix) [feat. Meek Mill]",
+      "url": "https://open.spotify.com/track/6MxBDqToaGYNkVkL91CyN8"
     },
     {
       "album": {
@@ -16788,7 +16916,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200930,
       "name": "Harajuku",
       "url": "https://open.spotify.com/track/2GfWhDkkOP8HavXhzvRglG"
@@ -18556,7 +18684,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 130753,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/7crDZufh1Mjq6NVuxqyLVg"
@@ -20372,6 +20500,32 @@
       "duration_ms": 105264,
       "name": "Jumping",
       "url": "https://open.spotify.com/track/1eCgZFpNsBY4h1gIsAmTpV"
+    },
+    {
+      "album": {
+        "name": "Jumpupw!nya",
+        "url": "https://open.spotify.com/album/5PY9AxmoSOqjqbY0cHrhZv"
+      },
+      "artists": [
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107669,
+      "name": "Jumpupw!nya",
+      "url": "https://open.spotify.com/track/4jDjCiWDvsPhBqy9DlzKgR"
     },
     {
       "album": {
@@ -24408,7 +24562,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 174545,
       "name": "Minding My Business",
       "url": "https://open.spotify.com/track/7qPexJLZ4ZZr4Mupi2IPrZ"
@@ -29440,7 +29594,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 118726,
       "name": "Picture Me Giving Af Who Don't Like Me.",
       "url": "https://open.spotify.com/track/64GpjLF9wUfc7chb206QsD"
@@ -32574,7 +32728,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 149572,
       "name": "ROLLIN",
       "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
@@ -33640,6 +33794,28 @@
       "duration_ms": 156000,
       "name": "Seeing Red (feat. Doe Boy)",
       "url": "https://open.spotify.com/track/4pTFY4HVcFoW1QtpOjOric"
+    },
+    {
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh"
+      },
+      "artists": [
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "ksuuvi",
+          "url": "https://open.spotify.com/artist/7MYVlTfQYFOVKftHoiwO5b"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Seen A Lot Of Things (feat. ksuuvi)",
+      "url": "https://open.spotify.com/track/73pEj1WuLPUTyyy95moq7L"
     },
     {
       "album": {
@@ -35874,7 +36050,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -36628,7 +36804,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168530,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/7wxT1CkqG6JrPzEfFza5vL"
@@ -40012,6 +40188,28 @@
       "duration_ms": 97792,
       "name": "Velveeta",
       "url": "https://open.spotify.com/track/0QczrqabTXW83f9XCq3eir"
+    },
+    {
+      "album": {
+        "name": "Weight On Me: The Album",
+        "url": "https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148440,
+      "name": "Ventilator (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Carmon
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,131 likes - 56 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,116 likes - 56 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

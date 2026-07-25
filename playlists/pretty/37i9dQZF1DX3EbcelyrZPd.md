@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Stans & Marioo
+> Get your fill of vibes straight out of Tanzania\. Cover: Ibraah
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,996 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,064 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 53 | [Sale Sale](https://open.spotify.com/track/38I89rKTy93qBoAXThI4Nk) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Time Traveller](https://open.spotify.com/album/1A4qovlVQPxDt6wkk7KZtf) | 3:35 |
 | 54 | [Sio bure](https://open.spotify.com/track/52CnH3bFhkLjclDmCo1OSN) | [FreshBoys](https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Sio bure](https://open.spotify.com/album/4wgoyO2tLkpQmPwsKVSbuX) | 3:42 |
 
-Snapshot ID: `AAAAAPb4SavW5MihoBeGIIE3lNZz1ns4`
+Snapshot ID: `AAAAAOpgmDxI5o07MczGt8L2nZXHeL0F`

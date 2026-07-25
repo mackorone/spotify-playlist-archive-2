@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 114303,
       "name": "breakfast outside",
       "url": "https://open.spotify.com/track/2sLjha4uuYq8qQiLY3Svko"
@@ -10244,7 +10244,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 115715,
       "name": "galeris",
       "url": "https://open.spotify.com/track/6syjGue3PX6nFkthF6fcCA"
@@ -11654,7 +11654,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 164418,
       "name": "hjemve",
       "url": "https://open.spotify.com/track/14FInzr4N7QOrsPg9zjcW8"
@@ -12978,7 +12978,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 127792,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/54yTYPrDX7cPyIspzjR4b2"
@@ -17157,6 +17157,24 @@
     },
     {
       "album": {
+        "name": "Marble",
+        "url": "https://open.spotify.com/album/4yXRD3fl7SICwsDOWDUaW5"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Marble",
+      "url": "https://open.spotify.com/track/4Z44ERFaWuwlWNlEYE6ysv"
+    },
+    {
+      "album": {
         "name": "mare",
         "url": "https://open.spotify.com/album/1iPoQLFowzJyolbFR2xNlM"
       },
@@ -19407,6 +19425,24 @@
     },
     {
       "album": {
+        "name": "Nightwalk",
+        "url": "https://open.spotify.com/album/1i2XRp6UQR6tGCMHMNSuGW"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121519,
+      "name": "Nightwalk",
+      "url": "https://open.spotify.com/track/3vHDfrh0JSscioPnGvRavd"
+    },
+    {
+      "album": {
         "name": "no jacket",
         "url": "https://open.spotify.com/album/1EzPeq6QueZ9yZuWcTTkiE"
       },
@@ -20600,6 +20636,46 @@
       "duration_ms": 150857,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/6dusDL4aWXEMNfE63WLUFC"
+    },
+    {
+      "album": {
+        "name": "open meadows",
+        "url": "https://open.spotify.com/album/0J4Ly3TqvkiO9op9F6VmW3"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "open meadows",
+      "url": "https://open.spotify.com/track/79mkm7eUjB3qzOHaLVixB9"
+    },
+    {
+      "album": {
+        "name": "open skies",
+        "url": "https://open.spotify.com/album/3lUVodLxLCAcKoadhTE2xa"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "open skies",
+      "url": "https://open.spotify.com/track/2mRHPyOGcQu9oxUJRqFf0D"
     },
     {
       "album": {
@@ -21884,6 +21960,28 @@
       "duration_ms": 139636,
       "name": "Please babe, don't leave me",
       "url": "https://open.spotify.com/track/6NbPpYG6SKCzeCxX60uRoS"
+    },
+    {
+      "album": {
+        "name": "pocket garden",
+        "url": "https://open.spotify.com/album/0iQ17Olwjaedrz4agNTsR2"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133350,
+      "name": "pocket garden",
+      "url": "https://open.spotify.com/track/3CpfWlEyPESnAXHktBT4NU"
     },
     {
       "album": {
@@ -24565,6 +24663,28 @@
     },
     {
       "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/5EU3lTELwI7hn9ihZ7ry6O"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        },
+        {
+          "name": "Mike Nora",
+          "url": "https://open.spotify.com/artist/5HCpJ18GNaqB4nCl6MyGBI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Settle",
+      "url": "https://open.spotify.com/track/0z3RjadXj1gfIaKoS5cjf5"
+    },
+    {
+      "album": {
         "name": "Sex for Breakfast",
         "url": "https://open.spotify.com/album/11aYGJ7EZ0B5uPJihRu1hE"
       },
@@ -25042,7 +25162,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 134571,
       "name": "Simpler Times",
       "url": "https://open.spotify.com/track/7ep9bIHcTM2XJwLBp1at9d"
@@ -32612,7 +32732,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 106666,
       "name": "Where The Noise Fades",
       "url": "https://open.spotify.com/track/4kT5IwVBYXbxhAWykAksbs"

@@ -4,7 +4,7 @@
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-93 songs - 4 hr 48 min
+97 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alone in Miami](https://open.spotify.com/track/4kJji6M0tDGppcCXliF6Kf) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 2:41 | 2026-05-13 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/72zZfHPYx43shcP3eKkYi5) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born \(Deluxe Edition\)](https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs) | 3:33 | 2026-05-13 |  |
 | [Baby Now That I Found You](https://open.spotify.com/track/3pnVh7sYDBQ9D2tkKAWnhs) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 2:11 | 2026-05-13 |  |
+| [Baby Now That I Found You](https://open.spotify.com/track/6iLgtJZKLAAXXmzCenxYjl) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Baby Now That I Found You](https://open.spotify.com/album/2lfJGoGpFUhmGPRBL5f9dt) | 2:10 | 2026-07-24 |  |
 | [Baby Now That I've Found You \- Mono](https://open.spotify.com/track/6mQvaOgN76Q7qcwmwuEP2W) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 2:38 | 2026-05-13 |  |
 | [Back In My Body](https://open.spotify.com/track/0DlMSBJh9uo52DieTYVXLw) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:09 | 2026-05-13 |  |
 | [Bad Thing Rush](https://open.spotify.com/track/1yyyDdy8KflIYwCSTbs0bU) | [After Ava](https://open.spotify.com/artist/6nxc4Go6GppjwawTm0Gjp5) | [Bad Thing Rush](https://open.spotify.com/album/689oPazJQbzw8QIB3zeEJ9) | 2:13 | 2026-05-13 |  |
@@ -39,6 +40,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2026-05-13 |  |
 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 | 2026-05-13 |  |
 | [Girl That I Am](https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 4:11 | 2026-05-13 |  |
+| [Girl That I Am](https://open.spotify.com/track/4XqFnAfNRrVRdDqCPI1nCz) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Off Campus: The Mixtape \(Extra Credit\)](https://open.spotify.com/album/21ZubmyASbZKZf1qpCz6F8) | 3:57 | 2026-07-24 |  |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2026-05-13 |  |
 | [Good Girls Go Bad](https://open.spotify.com/track/0ALa26anEkNW1CGSdp0msl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [2000s Bangers](https://open.spotify.com/album/0wZ6KGFPwEy8KdPOV1CqpX) | 3:16 | 2026-05-13 |  |
 | [Holding The Line](https://open.spotify.com/track/4qrw7aWsMlbh8kw9klwkfj) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 2:45 | 2026-05-13 |  |
@@ -50,6 +52,7 @@
 | [Into You](https://open.spotify.com/track/0AAlMiGe0saeHQeuO7VWL9) | [After Hours](https://open.spotify.com/artist/4JfgKAHb2AgQkXBnMDgIPw), [Josh Heuston](https://open.spotify.com/artist/0iGhnWsvMi6WFp8Fvl4Znt) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 4:13 | 2026-05-13 |  |
 | [Jealous](https://open.spotify.com/track/6kMwpe62x72ozIAGRLRR0u) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby](https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK) | 2:25 | 2026-05-13 |  |
 | [Keep Pretending](https://open.spotify.com/track/0q4DaZlFj4aJCjwLwbcgLZ) | [After Hours](https://open.spotify.com/artist/4JfgKAHb2AgQkXBnMDgIPw), [Josh Heuston](https://open.spotify.com/artist/0iGhnWsvMi6WFp8Fvl4Znt) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 2:58 | 2026-05-13 |  |
+| [Keep Pretending](https://open.spotify.com/track/0cYmQ4KBovmVoEqwnopHWA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Off Campus: The Mixtape \(Extra Credit\)](https://open.spotify.com/album/21ZubmyASbZKZf1qpCz6F8) | 2:59 | 2026-07-24 |  |
 | [Kiss You](https://open.spotify.com/track/0Z6Rnklh9Bqv2Hah67uVCm) | [After Hours](https://open.spotify.com/artist/4JfgKAHb2AgQkXBnMDgIPw), [Josh Heuston](https://open.spotify.com/artist/0iGhnWsvMi6WFp8Fvl4Znt) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 3:17 | 2026-05-13 |  |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2026-05-13 |  |
 | [Love Me Different](https://open.spotify.com/track/5SxcXth9dGPlZ6khs3zcD9) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:32 | 2026-05-13 |  |
@@ -65,6 +68,7 @@
 | [OMG](https://open.spotify.com/track/5vYjTN8d0DZ2SosbKSx5Nj) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:58 | 2026-05-13 |  |
 | [On The Floor](https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE?](https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb) | 4:44 | 2026-05-13 |  |
 | [Over and Over Again](https://open.spotify.com/track/6DknDFKyMpsSI4Jzm8jyLD) | [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 3:38 | 2026-05-13 |  |
+| [Page One](https://open.spotify.com/track/6VHVahWXyG0PBhYnyDVftz) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Off Campus: The Mixtape \(Extra Credit\)](https://open.spotify.com/album/21ZubmyASbZKZf1qpCz6F8) | 3:38 | 2026-07-24 |  |
 | [Page One](https://open.spotify.com/track/7iEd1lwGcTJHhDDZUljyBH) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 3:11 | 2026-05-13 |  |
 | [Play Nice](https://open.spotify.com/track/2UCCTfgdmkRMvO6qyyQKjW) | [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Play Nice](https://open.spotify.com/album/7mM27Halb2I1gWW7Jd4NaN) | 2:16 | 2026-05-13 |  |
 | [Rich](https://open.spotify.com/track/6QJRAmuvUGvpyIFPLZLhEY) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Bea and her Business \(2023\-2025\)](https://open.spotify.com/album/2MDq2ZqtRBCJWyQ9hRL5l9) | 2:31 | 2026-05-13 |  |

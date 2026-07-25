@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MRCH(\uc724\ub9c8\uce58)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: tokai) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 196000,
       "name": "documentary",
       "url": "https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31"
@@ -6132,6 +6132,28 @@
       "duration_ms": 227120,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0C64OAzFqP8d3s14qf1p9Q"
+    },
+    {
+      "album": {
+        "name": "The Legacy 26",
+        "url": "https://open.spotify.com/album/1lpAjKWTLa1af5gHvOe0BC"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Kyly",
+          "url": "https://open.spotify.com/artist/66U03MVaRg1TJExKgbRdWU"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274131,
+      "name": "Friends and Lovers (Feat. KYLY)",
+      "url": "https://open.spotify.com/track/0nnI7Iy21rFhIS5ug7lSM0"
     },
     {
       "album": {
@@ -15379,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201871,
+      "name": "round",
+      "url": "https://open.spotify.com/track/1NaDBli5yq02ienC980KcK"
+    },
+    {
+      "album": {
         "name": "Red Signal",
         "url": "https://open.spotify.com/album/1lxMHSVNpocUb4ls28XvET"
       },
@@ -17566,7 +17606,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234500,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7"

@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/2kvyaK0s9WeCQCaqqmjyru"
+      },
+      "artists": [
+        {
+          "name": "SouMix",
+          "url": "https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp"
+        },
+        {
+          "name": "Patrick Aretz",
+          "url": "https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6nyCyRQikQaPgyrTDTxQlz"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/22YNnuYYZs7nPNjk6N4JYu"
       },
@@ -2732,7 +2754,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 137255,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/7juMHAnoJK7hnB1zrnFC0v"
@@ -5011,6 +5033,28 @@
     },
     {
       "album": {
+        "name": "City At Night",
+        "url": "https://open.spotify.com/album/7ADamDyHiyJ6FZgG7IyThk"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Angie Robba",
+          "url": "https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140911,
+      "name": "City At Night",
+      "url": "https://open.spotify.com/track/4E0DCejl5hZzjz40X7TjX3"
+    },
+    {
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/7cFx8J0GeFGLiaN5AwuGFb"
       },
@@ -6080,6 +6124,32 @@
       "duration_ms": 147187,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/6RuuQr0sJjVMe6FHabUxjT"
+    },
+    {
+      "album": {
+        "name": "Dance until the mornin'",
+        "url": "https://open.spotify.com/album/1JiIuQa0cRun02X7XfhE3a"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Velaur",
+          "url": "https://open.spotify.com/artist/39FlLQiyUMJsl6lB0Y30sK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164625,
+      "name": "Dance until the mornin'",
+      "url": "https://open.spotify.com/track/6zipXvd54OTGLb6NAu8KdP"
     },
     {
       "album": {
@@ -9356,7 +9426,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 129836,
       "name": "Fallin\u2019 for you",
       "url": "https://open.spotify.com/track/1HAKhplmlNcGlMfQ7ccNZM"
@@ -10242,6 +10312,28 @@
       "duration_ms": 150967,
       "name": "First Call",
       "url": "https://open.spotify.com/track/3WvNrgfrjVjhdVEhafT4BY"
+    },
+    {
+      "album": {
+        "name": "Fitting Mainstream",
+        "url": "https://open.spotify.com/album/7CwCIWMoc6qZfUdkjW64sg"
+      },
+      "artists": [
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156864,
+      "name": "Fitting Mainstream",
+      "url": "https://open.spotify.com/track/4XVqH7oROREz47JbUnHkQz"
     },
     {
       "album": {
@@ -11390,6 +11482,24 @@
       "duration_ms": 151922,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/0Up5rMt49ybOMOCqzs4JhJ"
+    },
+    {
+      "album": {
+        "name": "Glimpse Of Us",
+        "url": "https://open.spotify.com/album/1ziaNQVmLO4cdeQKsLVh26"
+      },
+      "artists": [
+        {
+          "name": "SRNDE",
+          "url": "https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Glimpse Of Us",
+      "url": "https://open.spotify.com/track/7JTRbjZh6UM9uEbZL33AaA"
     },
     {
       "album": {
@@ -15353,6 +15463,24 @@
     },
     {
       "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/7hpbKydWovmAeBp0E7VHHS"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147275,
+      "name": "In the Sky",
+      "url": "https://open.spotify.com/track/6gOtlz2ocveCj261InfPmJ"
+    },
+    {
+      "album": {
         "name": "In The Summer",
         "url": "https://open.spotify.com/album/1eSE2tdGQ1y0M0vnv8CCaI"
       },
@@ -17390,7 +17518,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 216000,
       "name": "LIKE HOME",
       "url": "https://open.spotify.com/track/2WrYckkfQ3hJnw81DeTVN2"
@@ -17704,6 +17832,32 @@
       "duration_ms": 154639,
       "name": "Living the Day",
       "url": "https://open.spotify.com/track/78gMlIZUmlr5uNF1B02z4X"
+    },
+    {
+      "album": {
+        "name": "Lomalina",
+        "url": "https://open.spotify.com/album/4x9rXwXa8SMFDNr9HuptwT"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "SteCe",
+          "url": "https://open.spotify.com/artist/49gRmlZ097xFdSxMb68SiE"
+        },
+        {
+          "name": "Fuxtus Fux",
+          "url": "https://open.spotify.com/artist/153601Ub3Ds3eabXLEP5HM"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Lomalina",
+      "url": "https://open.spotify.com/track/0u4sK9IzDQY6maQQdzg7yl"
     },
     {
       "album": {
@@ -21222,7 +21376,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 122062,
       "name": "No Others",
       "url": "https://open.spotify.com/track/4aR39ZLF9qSP8tvUOYXOkL"
@@ -22632,7 +22786,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 120070,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5crqZBhECyWYGCziGadL3G"
@@ -24914,6 +25068,24 @@
       "duration_ms": 196363,
       "name": "Run Home",
       "url": "https://open.spotify.com/track/78vsvEOEQwicL6qtxtiehU"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6TkGoC9paZR8zcgLX7QTUE"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7ayIF58Gxm5ymiGNRGHVvF"
     },
     {
       "album": {
@@ -30609,6 +30781,28 @@
     },
     {
       "album": {
+        "name": "Too Sweet",
+        "url": "https://open.spotify.com/album/4An2lyKA0GFHYVeOectSH3"
+      },
+      "artists": [
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/6Uvq0XO8SCitSZT2YJlceN"
+    },
+    {
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/2rYN1CnE2Kr6LL0NPoFioj"
       },
@@ -31210,7 +31404,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 196000,
       "name": "Usiku Mmoja",
       "url": "https://open.spotify.com/track/4V7UAyHirqT3CYWtQ4QmZt"
@@ -33476,6 +33670,24 @@
       "duration_ms": 154864,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/4bY0Ys3ifxdvlKwIr46mFP"
+    },
+    {
+      "album": {
+        "name": "You Don't See Me",
+        "url": "https://open.spotify.com/album/7mqELK6jEugH4kOT7oy8CW"
+      },
+      "artists": [
+        {
+          "name": "18th Avenue",
+          "url": "https://open.spotify.com/artist/6REny4j2H9fW0uFdbJqT6I"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "You Don't See Me",
+      "url": "https://open.spotify.com/track/5pvBHhM1AKG0HbTTUMXmtf"
     },
     {
       "album": {

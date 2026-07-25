@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2vkqn0lgjSVpEdVE1RRRCA"
+      },
+      "artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/5uJWzxAUwEqfwhQiIWXBZJ"
+    },
+    {
+      "album": {
         "name": "Eusexua",
         "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
       },
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 325996,
       "name": "Mount Misery",
       "url": "https://open.spotify.com/track/1BoBPIe499ZwVVc8zqOFNj"

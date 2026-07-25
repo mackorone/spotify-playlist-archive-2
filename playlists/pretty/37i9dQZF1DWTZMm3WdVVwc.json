@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27228,
+  "num_followers": 27227,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
+      "added_at": "2025-12-19 02:48:54",
+      "album": {
+        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
+        }
+      ],
+      "duration_ms": 218622,
+      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
+    },
+    {
       "added_at": "2025-12-11 02:28:39",
       "album": {
         "name": "AFTER TASTE",
@@ -1483,22 +1499,6 @@
       "duration_ms": 227985,
       "name": "WinterHurts (feat. \u7b20\u539f \u7460\u6597)",
       "url": "https://open.spotify.com/track/1a5QOzP02gtg1YxtqwuuZ6"
-    },
-    {
-      "added_at": "2025-12-19 02:48:54",
-      "album": {
-        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
-      },
-      "artists": [
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
-        }
-      ],
-      "duration_ms": 218622,
-      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
     },
     {
       "added_at": "2025-10-24 07:45:46",

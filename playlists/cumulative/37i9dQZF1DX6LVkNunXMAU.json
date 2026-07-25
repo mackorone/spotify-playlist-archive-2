@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk latino de estaci\u00f3n. Foto: Yorka & Feli Colina",
+  "description": "Folk latino de estaci\u00f3n. Foto: J18",
   "name": "folk & invierno",
   "tracks": [
     {
@@ -4873,6 +4873,32 @@
     },
     {
       "album": {
+        "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
+        "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "Donttt",
+          "url": "https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D"
+        },
+        {
+          "name": "Ninja Nigro",
+          "url": "https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "oda al canto",
+      "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
+    },
+    {
+      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -5960,7 +5986,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 198590,
       "name": "Si Llega el Desastre",
       "url": "https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm"
@@ -7086,7 +7112,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201073,
       "name": "Vendr\u00eda Bien",
       "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
@@ -7384,6 +7410,24 @@
       "duration_ms": 170904,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
+    },
+    {
+      "album": {
+        "name": "Yo en t\u00ed Tu en m\u00ed",
+        "url": "https://open.spotify.com/album/4qtVMghWquM60plrl0oDYS"
+      },
+      "artists": [
+        {
+          "name": "Asa\u00ed",
+          "url": "https://open.spotify.com/artist/1RmiLz29SAYbN87He1xs5k"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257119,
+      "name": "Yo en t\u00ed Tu en m\u00ed",
+      "url": "https://open.spotify.com/track/2qku4lP4UskLzA3wO0ffHc"
     },
     {
       "album": {

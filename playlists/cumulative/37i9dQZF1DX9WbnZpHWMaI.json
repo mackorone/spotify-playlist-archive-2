@@ -5589,6 +5589,28 @@
     },
     {
       "album": {
+        "name": "GATA FINA",
+        "url": "https://open.spotify.com/album/7JZaxWnKp4W8R9miByYEEK"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        },
+        {
+          "name": "Fiah",
+          "url": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307198,
+      "name": "GATA FINA",
+      "url": "https://open.spotify.com/track/3KXTLmaGqZi4hXmR9MWTcQ"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o"
       },
@@ -6614,7 +6636,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234352,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/0luvadXP7x1Sw9a3ocLALE"
@@ -8050,7 +8072,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211500,
       "name": "It's You - underscores' \"It\u2019s U\" Remix",
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
@@ -10261,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Next to U",
+        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176028,
+      "name": "Next to U",
+      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
+    },
+    {
+      "album": {
         "name": "NICE TO MEET YA (feat. Flyana Boss)",
         "url": "https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa"
       },
@@ -11319,6 +11359,24 @@
     },
     {
       "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/1rVBvR9itKUSdWQ9iCkXLy"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/6DXup87vjnmJNDXqeLwPtD"
+    },
+    {
+      "album": {
         "name": "Pleasure on My Mind",
         "url": "https://open.spotify.com/album/61kjqrcmAEAuNlIdBigDys"
       },
@@ -11638,7 +11696,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219880,
       "name": "Punish Me",
       "url": "https://open.spotify.com/track/1BHqIzE2Q8zWpJ7EUAKwbD"
@@ -13169,6 +13227,24 @@
     },
     {
       "album": {
+        "name": "sofa dance",
+        "url": "https://open.spotify.com/album/7934eaIQrqBKATvQ8t0h3Q"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "sofa dance",
+      "url": "https://open.spotify.com/track/6J4ZS19uwDVULr9N7NJC0I"
+    },
+    {
+      "album": {
         "name": "ExtendedPray",
         "url": "https://open.spotify.com/album/3m39bSRvyw7FH8twwZPJ6F"
       },
@@ -13394,7 +13470,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 216744,
       "name": "Spirit Higher",
       "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"

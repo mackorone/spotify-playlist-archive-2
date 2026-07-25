@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 346 likes - 2,491 songs - 6 day 2 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 346 likes - 2,499 songs - 6 day 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2490,14 +2490,22 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2480 | [Gaslight](https://open.spotify.com/track/64Cz7y89nR5IHv3gnhTRnk) | [Pilgrim's Fire](https://open.spotify.com/artist/1Gl66OK04su1Rfy3YBZnrn) | [Field Report](https://open.spotify.com/album/6bDcXkgxBltEDvdPSW0ed1) | 4:42 |
 | 2481 | [Warehouse Warriors](https://open.spotify.com/track/2sXCKcmCbwAIWeIIxGYkk0) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Warehouse Warriors](https://open.spotify.com/album/5tzKvbtHmvpsX48kQwpoB7) | 2:01 |
 | 2482 | [Dans Mee](https://open.spotify.com/track/6le0KKPybTfs6BNL1AzRoD) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [Kinderliedjes](https://open.spotify.com/album/2RhxVBAN6FejpxNd3jxxR2) | 2:24 |
-| 2483 | [Have you seen my Lady](https://open.spotify.com/track/5XuwWlQbjFSInOrPvxyUNi) | [Ryhan Music](https://open.spotify.com/artist/3bdlsepaCRkmp8DA109WFW) | [Have you seen my Lady](https://open.spotify.com/album/0Z5B2BSxGA4ByQi4cpfEdX) | 3:23 |
-| 2484 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
-| 2485 | [Sleep Tonight](https://open.spotify.com/track/0i0GVjhihCqNME4YXtd0bc) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [From Here Right Now](https://open.spotify.com/album/3Xji0Ufad6xwjE3pOVWI1H) | 3:15 |
-| 2486 | [Loved Me Yesterday](https://open.spotify.com/track/00ProhFPScjYekWKgVKepV) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Loved Me Yesterday](https://open.spotify.com/album/3ibTk9amQG5iIkjsX1929I) | 2:26 |
-| 2487 | [Nemo](https://open.spotify.com/track/5BwnMHqoQ8wxF8uhPDOtuL) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [Nemo](https://open.spotify.com/album/7CtKHC7lwjIUu5ni7kZMkM) | 2:11 |
-| 2488 | [Somewhere After Midnight](https://open.spotify.com/track/3MxokWkqpnzTgD7sqoUQBJ) | [Blue Bohemia](https://open.spotify.com/artist/6tPiRSOD4450Ll6p9ifeQC) | [Somewhere After Midnight](https://open.spotify.com/album/2y6L029qNPAopezjHbsRo0) | 3:16 |
-| 2489 | [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 |
-| 2490 | [Twilight Ribbit](https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA) | [Ear Crimes](https://open.spotify.com/artist/5u9VKowwLX8qWNwv3RZ77G) | [Twilight Ribbit](https://open.spotify.com/album/7kfYCwOkhlgGDpXEzvFLJR) | 2:38 |
-| 2491 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 2483 | [Introducción y tango](https://open.spotify.com/track/7fe40OFyuylZEGtkq0TZS3) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Introducción y tango](https://open.spotify.com/album/5IBm911aqPTMyCCW9UQHNr) | 3:22 |
+| 2484 | [Have you seen my Lady](https://open.spotify.com/track/5XuwWlQbjFSInOrPvxyUNi) | [Ryhan Music](https://open.spotify.com/artist/3bdlsepaCRkmp8DA109WFW) | [Have you seen my Lady](https://open.spotify.com/album/0Z5B2BSxGA4ByQi4cpfEdX) | 3:23 |
+| 2485 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
+| 2486 | [Sleep Tonight](https://open.spotify.com/track/0i0GVjhihCqNME4YXtd0bc) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [From Here Right Now](https://open.spotify.com/album/3Xji0Ufad6xwjE3pOVWI1H) | 3:15 |
+| 2487 | [Loved Me Yesterday](https://open.spotify.com/track/00ProhFPScjYekWKgVKepV) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Loved Me Yesterday](https://open.spotify.com/album/3ibTk9amQG5iIkjsX1929I) | 2:26 |
+| 2488 | [Nemo](https://open.spotify.com/track/5BwnMHqoQ8wxF8uhPDOtuL) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [Nemo](https://open.spotify.com/album/7CtKHC7lwjIUu5ni7kZMkM) | 2:11 |
+| 2489 | [Somewhere After Midnight](https://open.spotify.com/track/3MxokWkqpnzTgD7sqoUQBJ) | [Blue Bohemia](https://open.spotify.com/artist/6tPiRSOD4450Ll6p9ifeQC) | [Somewhere After Midnight](https://open.spotify.com/album/2y6L029qNPAopezjHbsRo0) | 3:16 |
+| 2490 | [Hyper\-Focus Mode](https://open.spotify.com/track/3UaxkSuqkQaG1KnudJsIFZ) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [MIDNIGHT TRENDS](https://open.spotify.com/album/0cOYQSynJChd7kPtF7JyI7) | 3:56 |
+| 2491 | [Twilight Ribbit](https://open.spotify.com/track/5c3PzYGjZ4StGgQArI5FcA) | [Ear Crimes](https://open.spotify.com/artist/5u9VKowwLX8qWNwv3RZ77G) | [Twilight Ribbit](https://open.spotify.com/album/7kfYCwOkhlgGDpXEzvFLJR) | 2:38 |
+| 2492 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 2493 | [Loves Music \- Radio Edit](https://open.spotify.com/track/1dNueSdlM99ggeo43R3Stf) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Loves Music](https://open.spotify.com/album/3QdcRzXOQjPpo8lCsZx7tY) | 2:09 |
+| 2494 | [Bubbles of Hope](https://open.spotify.com/track/36XKkpQgoWS1t1PE9o66gY) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Bubbles of Hope](https://open.spotify.com/album/6rGO9uB47Pql03cZcHvZwr) | 2:55 |
+| 2495 | [Une minute de haine](https://open.spotify.com/track/1N8DcZdRINcVEck8yVrkDd) | [GDMZ](https://open.spotify.com/artist/7ytQGgsdG1olqWp81DH3Gf) | [Un minuto \(Cinco idiomas, un mismo mensaje\)](https://open.spotify.com/album/2VS0vmXbEKYZcxvFxK8ZHY) | 2:03 |
+| 2496 | [Backbone](https://open.spotify.com/track/3Zocisij9tTQ48zCRPYiX2) | [Shaefri](https://open.spotify.com/artist/6Uue2zjsE8VBfcFVPBfMbP) | [Backbone](https://open.spotify.com/album/0V02ZQI5Pn9K3QGeNtLSRZ) | 2:04 |
+| 2497 | [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 |
+| 2498 | [With or Without You](https://open.spotify.com/track/4HixkgPLtWXURZnCSDOoWE) | [HARA](https://open.spotify.com/artist/6CNaRojfCps5UxTg0tXZar) | [With or Without You](https://open.spotify.com/album/2tH1draarqDKssu6dalvYa) | 2:57 |
+| 2499 | [Vuelo \(Non\-Stop\)](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\)](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
 
-Snapshot ID: `AAAKi5K6Zo6rgJmKce1IA9r1Cn8nDbmd`
+Snapshot ID: `AAAKlCHYmp4dsCbUBXN52U4SScCVpbaE`

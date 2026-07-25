@@ -4,7 +4,7 @@
 
 > Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
 
-422 songs - 22 hr 26 min
+424 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 | 2022-06-08 | 2026-07-17 |
 | [Beretta \(De Los Cerros La Escuela\)](https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j) | [Estilo R'S](https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J) | 2:13 | 2026-07-17 |  |
 | [Besos En Guerra](https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62) | [Dictado](https://open.spotify.com/artist/63lBUBggyKgjjZHsAxR3Tp) | [Dictado \(En Vivo\)](https://open.spotify.com/album/54aJmBef4WwpQfDxYNBoJF) | 3:22 | 2022-12-30 | 2023-04-15 |
+| [Bonita pero descarada](https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Lindo Lindo](https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU) | 3:02 | 2026-07-24 |  |
 | [Borracha \- Remix](https://open.spotify.com/track/13MwThChk4U12oCWS0EI7j) | [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw), [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL) | [Borracha \(Remix\)](https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD) | 3:35 | 2025-11-07 | 2026-07-17 |
 | [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 | 2022-12-30 | 2026-07-17 |
 | [Borracho Te Llamo](https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borracho Te Llamo](https://open.spotify.com/album/0lg5oGuuZvNc9brVmqI64C) | 2:28 | 2023-04-14 | 2026-07-17 |
@@ -158,6 +159,7 @@
 | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/album/1BZLPRfhdCTyb4zg0BNzTC) | 3:14 | 2023-04-14 | 2024-04-19 |
 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 | 2022-06-08 | 2022-12-31 |
 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 | 2023-04-14 | 2026-07-17 |
+| [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 | 2026-07-24 |  |
 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 | 2022-06-08 | 2026-07-17 |
 | [Entre Comillas](https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR) | 3:10 | 2022-06-08 | 2025-06-27 |
 | [Entre Comillas](https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:16 | 2022-06-08 | 2024-04-19 |

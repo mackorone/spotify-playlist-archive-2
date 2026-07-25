@@ -1179,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Ismart Shankar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RW6rYYYJj0ax1jcmq6EVH"
+      },
+      "artists": [
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Bonalu - From \"Ismart Shankar\"",
+      "url": "https://open.spotify.com/track/6cwnC5UGZgGqhNp8rPQ4jK"
+    },
+    {
+      "album": {
         "name": "Bonalu Song 2024",
         "url": "https://open.spotify.com/album/0yUmr6W86SyNQScXlx2gsF"
       },
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 207095,
       "name": "Jaya Mangalam (From \"Lenin\")",
       "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
@@ -4268,7 +4290,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 352551,
       "name": "Kattula Ballam",
       "url": "https://open.spotify.com/track/31bsVfWeboAL5l3xSHWzRE"
@@ -6489,6 +6511,28 @@
     },
     {
       "album": {
+        "name": "Chal Mohan Ranga",
+        "url": "https://open.spotify.com/album/69xiZpB2JTVpYqL6yRNUdT"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231857,
+      "name": "Pedda Puli",
+      "url": "https://open.spotify.com/track/51adN4t3IyX1pQCFPAYqSM"
+    },
+    {
+      "album": {
         "name": "Peddi Reddy",
         "url": "https://open.spotify.com/album/6d7wLtVCJKIPH8D8tkXchK"
       },
@@ -7258,7 +7302,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203368,
       "name": "Rama Lacchimi",
       "url": "https://open.spotify.com/track/7CH2buWerdvFFxyMoh59ME"
@@ -7820,7 +7864,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 256901,
       "name": "Sanna Sanna Biyyame",
       "url": "https://open.spotify.com/track/2v2Nkd45rM8TldGWy1HKcb"

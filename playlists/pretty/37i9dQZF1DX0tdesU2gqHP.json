@@ -1,13 +1,61 @@
 {
   "description": "The best videos from the world of pop! \n",
-  "num_followers": 10931,
+  "num_followers": 10941,
   "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOzDv/8PWQb73GomORohs5bqBLA",
+  "snapshot_id": "AAAAACmPXNBOQcW0Qvb+Qv8AVl+ZsGeX",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:43:55",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "Camera",
+        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151438,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
+    },
     {
       "added_at": "2026-06-06 02:57:32",
       "album": {
@@ -25,20 +73,40 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-26 04:43:55",
+      "added_at": "2026-07-24 04:15:53",
       "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+        "name": "Too Fast To Live, Too Young To Die",
+        "url": "https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+      "duration_ms": 201340,
+      "name": "Too Fast To Live, Too Young To Die",
+      "url": "https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL"
+    },
+    {
+      "added_at": "2026-05-28 03:49:41",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "added_at": "2026-07-22 20:49:41",
@@ -87,6 +155,22 @@
       "duration_ms": 172937,
       "name": "Great Expectation (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/35Wr5GycVuAXWCHqRCceqz"
+    },
+    {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "spilling my guts",
+        "url": "https://open.spotify.com/album/7phn0SadS5635xhyXthk02"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton"
     },
     {
       "added_at": "2026-07-19 17:50:44",
@@ -153,6 +237,22 @@
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "In My Victoria's Secret",
+        "url": "https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 160287,
+      "name": "In My Victoria's Secret",
+      "url": "https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY"
+    },
+    {
       "added_at": "2026-06-26 04:43:55",
       "album": {
         "name": "The Time Of My Life",
@@ -201,6 +301,22 @@
       "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "Experiment",
+        "url": "https://open.spotify.com/album/3rn9DuGpBKyFHesuTFMdHa"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Experiment",
+      "url": "https://open.spotify.com/track/1vavMPmK52RKpWUvKWgpL2"
+    },
+    {
       "added_at": "2026-07-19 17:50:44",
       "album": {
         "name": "CHAT",
@@ -217,26 +333,6 @@
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
-      "added_at": "2026-05-28 03:49:41",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
       "added_at": "2026-06-06 02:57:32",
       "album": {
         "name": "High Hopes 3000",
@@ -251,6 +347,22 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "I Almost Fell For It!",
+        "url": "https://open.spotify.com/album/78ajuTsrHu0l9kqUXwWHvk"
+      },
+      "artists": [
+        {
+          "name": "Heleina Zara",
+          "url": "https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "I Almost Fell For It!",
+      "url": "https://open.spotify.com/track/50wNkGjteVwX96e9KpXIKc"
     },
     {
       "added_at": "2026-07-19 17:50:44",
@@ -359,6 +471,22 @@
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
+    },
+    {
+      "added_at": "2026-07-24 04:15:53",
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 190894,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
     },
     {
       "added_at": "2026-05-15 18:16:08",

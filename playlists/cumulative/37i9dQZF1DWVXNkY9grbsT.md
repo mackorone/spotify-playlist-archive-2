@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-653 songs - 2 day 5 hr 21 min
+654 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 | 2022-03-25 | 2023-04-30 |
 | [A Long Distance Call](https://open.spotify.com/track/4HKr2Zy9A1wnqSvgJ9PyTW) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Detached From The Rest Of You](https://open.spotify.com/album/5DvB6X4LLP5jCheIPKZZ7X) | 3:31 | 2026-05-08 |  |
 | [A Model Of Reality \- Firephly Remix](https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Firephly](https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 7:05 | 2023-01-28 | 2025-10-04 |
-| [A Necessary Escape \(Part 2\)](https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [A Necessary Escape \(Part 2\)](https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH) | 8:23 | 2025-05-12 |  |
+| [A Necessary Escape \(Part 2\)](https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [A Necessary Escape \(Part 2\)](https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH) | 8:23 | 2025-05-12 | 2026-07-25 |
 | [A Point Most Crucial](https://open.spotify.com/track/24tSP08dcSnoT7rrrY9w9q) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Rhythm Immortal](https://open.spotify.com/album/4G3ayf2HUKdykT2taYqw33) | 5:56 | 2025-12-05 |  |
 | [A Sense Of Getting Closer](https://open.spotify.com/track/7CJmELMbZPoiW5f0bpUF2v) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [On Being](https://open.spotify.com/album/3Ue4fvhNQLBXsQIhnIy57B) | 7:52 | 2025-02-28 |  |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/7rQaMkOwhuHZqAM30JvSfY) | 2:54 | 2021-12-26 | 2022-01-12 |
@@ -107,6 +107,7 @@
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 | 2025-02-08 |
 | [Bio Sewer](https://open.spotify.com/track/3inPfJLR4LowaHdYNK8z1j) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Troll](https://open.spotify.com/album/4Qbxrp2hxHtJMcg0tznazB) | 4:00 | 2024-09-06 | 2025-01-15 |
 | [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 | 2025-01-09 | 2026-03-10 |
+| [Bird's Eye](https://open.spotify.com/track/6TQ3NtTlkAcAStLEfTarrZ) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Bird's Eye](https://open.spotify.com/album/3zXq1rXkKO7Gu0G5BHt18D) | 5:18 | 2026-07-24 |  |
 | [Black Thread, ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ](https://open.spotify.com/track/3R6CEKuU33PLQz8Sodmv5q) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Black Thread, ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ](https://open.spotify.com/album/5Oj4mcjGKayI678CQk7URo) | 6:24 | 2025-05-12 | 2025-06-08 |
 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 | 2022-03-04 | 2025-05-13 |
 | [Blessed Are The Lovers](https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Lovotic](https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0) | 5:47 | 2022-04-01 | 2025-01-10 |

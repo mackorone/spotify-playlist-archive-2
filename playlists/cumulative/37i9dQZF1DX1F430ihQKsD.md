@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal avec Chiara Savasta
 
-926 songs - 2 day 4 hr 22 min
+929 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 | 2025-11-14 | 2026-02-21 |
 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 | 2025-12-03 | 2026-01-17 |
 | [Dis\-moi si la ville](https://open.spotify.com/track/1yhMs6ZXA0eTO7kra1pX7R) | [Maud Evelyne](https://open.spotify.com/artist/5Dr7MbOh4wwzWswQxIKmFK) | [Dis\-moi si la ville](https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy) | 2:56 | 2022-03-25 | 2022-11-12 |
+| [Dis\-moi, dis\-moi](https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [I Liked Blue After You](https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD) | 2:58 | 2026-07-24 |  |
 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 | 2022-08-05 | 2022-10-01 |
 | [Disco Polo](https://open.spotify.com/track/7jwpLuxTWAf9OrRf1rpklS) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Basia's Palace](https://open.spotify.com/album/3NHxM1SUg8BRHLmcV1Nw9n) | 4:34 | 2025-12-03 | 2026-01-17 |
 | [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 | 2024-03-08 | 2024-06-01 |
@@ -269,6 +270,7 @@
 | [Everybody Loves The Loser](https://open.spotify.com/track/2oR8aFIcHOVsCAA96LvynY) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Everybody Loves The Loser](https://open.spotify.com/album/0Z4G55IYOqn4btODOxYEXn) | 3:58 | 2024-06-14 | 2024-08-31 |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-03-17 | 2024-03-30 |
 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 | 2022-03-25 | 2023-03-11 |
+| [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 | 2026-07-24 |  |
 | [Eye For An Eye](https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Eye For An Eye](https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD) | 3:01 | 2023-06-02 | 2024-04-06 |
 | [eyez on it](https://open.spotify.com/track/4nJOtb4Ix6TmfCyfRLdDUO) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [eyez on it](https://open.spotify.com/album/3S1WVZwXqGcbwd7dD9Zcq2) | 3:33 | 2025-06-06 | 2026-01-17 |
 | [Facile](https://open.spotify.com/track/0U2nIrAiDBB2GIavdQ3p6J) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:13 | 2022-04-15 | 2022-06-11 |
@@ -643,6 +645,7 @@
 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 | 2023-02-03 | 2024-06-08 |
 | [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 3:50 | 2022-03-25 | 2022-09-17 |
 | [Pensées sans calcul](https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Pensées sans calcul](https://open.spotify.com/album/7hcuk7kBvgFQ0Hsv6v8gvw) | 3:26 | 2026-04-10 | 2026-07-11 |
+| [People Pleasing](https://open.spotify.com/track/3gstA6UTfjcRDeWdmwD3H7) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [People Pleasing](https://open.spotify.com/album/7jMruxsthetOYPz6pNv2Sl) | 2:54 | 2026-07-24 |  |
 | [Perdue pour autrefois](https://open.spotify.com/track/6u57eMxEKEmCmnLfLps7QS) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Série II: Les heures innocentes](https://open.spotify.com/album/1M1E34ZQdcGc6B0RH8dojB) | 3:32 | 2023-05-12 | 2023-10-14 |
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 | 2022-05-14 |
 | [Perséides](https://open.spotify.com/track/0xPDPbVbPqmCJo3Vb3Zo9S) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Pour ne pas mourir en hiver](https://open.spotify.com/album/0S8289PBO9djmi6HpP3QNK) | 3:24 | 2026-01-16 | 2026-07-11 |
@@ -866,7 +869,7 @@
 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 | 2025-09-26 | 2025-11-01 |
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 | 2022-05-07 |
 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 | 2025-10-17 | 2025-11-29 |
-| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-10-13 | 2024-10-19 |
+| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-10-13 |  |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-10-14 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-09-03 |
 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 | 2023-06-02 | 2023-09-16 |

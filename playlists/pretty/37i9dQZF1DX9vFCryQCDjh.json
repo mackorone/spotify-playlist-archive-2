@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 20391,
+  "num_followers": 20403,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "The Third Eye",
-        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Light Camera Action!",
         "url": "https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 227630,
       "name": "a match made in heaven",
       "url": "https://open.spotify.com/track/2VYLSWoSgHcWTOoJIKr5t5"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Let's Go To My Star",
-        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "\ubc14\uafd4",
-      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Exchange Kg. M4",
         "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 226266,
       "name": "Speed",
       "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "\ubc14\uafd4",
+      "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/53RiRIKK0CzEHKGqVDN1XE"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 245890,
-      "name": "Summer Story (Sky Mix)",
-      "url": "https://open.spotify.com/track/1fKwKMhJzkLcHfo3Hr4VQT"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 239560,
       "name": "Love is gone",
       "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/53RiRIKK0CzEHKGqVDN1XE"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 245890,
+      "name": "Summer Story (Sky Mix)",
+      "url": "https://open.spotify.com/track/1fKwKMhJzkLcHfo3Hr4VQT"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Jin-E",
-        "url": "https://open.spotify.com/album/73LwWv1wLRzfgQ72TQapQH"
-      },
-      "artists": [
-        {
-          "name": "\ud558\uc774\ub514",
-          "url": "https://open.spotify.com/artist/2AC0A7vMvyLGqmswOa3g75"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Jin-E",
-      "url": "https://open.spotify.com/track/14PwdilEjP4LzUy7n5iwjz"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Jin-E",
+        "url": "https://open.spotify.com/album/73LwWv1wLRzfgQ72TQapQH"
+      },
+      "artists": [
+        {
+          "name": "\ud558\uc774\ub514",
+          "url": "https://open.spotify.com/artist/2AC0A7vMvyLGqmswOa3g75"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Jin-E",
+      "url": "https://open.spotify.com/track/14PwdilEjP4LzUy7n5iwjz"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1503,18 +1503,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "\ud669\ud61c\uc601",
+          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
         }
       ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+      "duration_ms": 237029,
+      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
+      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1535,22 +1539,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
-        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "\ud669\ud61c\uc601",
-          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
-        },
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 237029,
-      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
-      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2024-08-05 17:06:13",

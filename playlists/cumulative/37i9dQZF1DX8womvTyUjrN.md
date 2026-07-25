@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: FABIAN & ROBI
 
-1,247 songs - 2 day 14 hr 8 min
+1,249 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [haz lo que quieras conmigo](https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [haz lo que quieras conmigo](https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ) | 3:28 | 2024-09-20 | 2024-11-30 |
 | [Hazlo Otra Vez](https://open.spotify.com/track/75p96rE7AWv1jUKrN7Lj7K) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Hazlo Otra Vez](https://open.spotify.com/album/3aog1tjFM21N0TtOVWZ1gx) | 2:48 | 2026-02-20 | 2026-03-28 |
 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 | 2024-08-09 | 2024-10-05 |
+| [HELADO DE VAINILLA](https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [HELADO DE VAINILLA](https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG) | 3:09 | 2026-07-24 |  |
 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 | 2024-05-31 | 2024-08-10 |
 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 | 2022-03-21 | 2022-05-21 |
 | [Himno Nacional](https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Himno Nacional](https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp) | 2:24 | 2026-05-01 |  |
@@ -631,7 +632,7 @@
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 | 2023-05-13 |
 | [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 | 2025-01-24 | 2025-03-29 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-04-28 | 2023-06-03 |
-| [Lo Que Me Pasa Con Vos](https://open.spotify.com/track/1RpfAoumnZkn6Cmz2ARlG2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Augusto Alonso](https://open.spotify.com/artist/7zsGAMqfUTjYX6Ds4vQobc) | [Lo Que Me Pasa Con Vos](https://open.spotify.com/album/3sRTcR6FPM2qjNdgjzypyR) | 2:53 | 2026-05-08 |  |
+| [Lo Que Me Pasa Con Vos](https://open.spotify.com/track/1RpfAoumnZkn6Cmz2ARlG2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Augusto Alonso](https://open.spotify.com/artist/7zsGAMqfUTjYX6Ds4vQobc) | [Lo Que Me Pasa Con Vos](https://open.spotify.com/album/3sRTcR6FPM2qjNdgjzypyR) | 2:53 | 2026-05-08 | 2026-07-25 |
 | [Lo que odias de mi](https://open.spotify.com/track/1Tce7Fsi0e3L7SqXvyNa6B) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Lo que odias de mi](https://open.spotify.com/album/3Cp4veECoGqqtSVrv7q8GP) | 2:56 | 2025-10-17 | 2025-12-13 |
 | [Lo Que Queda de Mí](https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Lo Que Queda de Mí](https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc) | 3:50 | 2023-12-01 | 2024-02-03 |
 | [Lo Que Se Hace Por Amor](https://open.spotify.com/track/66ps2X603GmSKIvMErZl6d) | [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Ser y Pertenecer](https://open.spotify.com/album/3v6OjlQtuSVk1wjuHrPqjI) | 3:31 | 2024-05-03 | 2024-06-22 |
@@ -885,7 +886,7 @@
 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 | 2023-08-11 | 2023-08-19 |
 | [PELICULEAR](https://open.spotify.com/track/3nFGVyhcnu5rrYYWjYl6FF) | [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [PELICULEAR](https://open.spotify.com/album/41PRTcTS2TI4kvddMLrbbB) | 2:21 | 2026-07-17 |  |
 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 | 2026-01-16 | 2026-05-02 |
-| [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 | 2026-05-15 |  |
+| [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 | 2026-05-15 | 2026-07-25 |
 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-02-02 | 2024-04-06 |
 | [Perdidx en la Ciudad](https://open.spotify.com/track/7y7s0A2AkFBZsX1cSy1iGa) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Todo Puede Convertirse en Canción](https://open.spotify.com/album/4f1sL9V9laRKuGlcP3FiMt) | 3:19 | 2025-07-18 | 2025-10-11 |
 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 | 2023-02-24 | 2023-03-04 |
@@ -933,6 +934,7 @@
 | [Primera Cita](https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Primera Cita](https://open.spotify.com/album/3I4UkECZBBvXTkM5T1Inoq) | 2:16 | 2024-09-13 | 2024-10-26 |
 | [Primero De Enero](https://open.spotify.com/track/6BYqyN2XaVnghYqY5qwJcy) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Primero De Enero](https://open.spotify.com/album/1D8f4wfvh3BpbQzAmSVYQ4) | 3:05 | 2025-01-17 | 2025-03-01 |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-05 | 2024-07-27 |
+| [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 | 2026-07-24 |  |
 | [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-21 | 2023-06-18 |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-12 | 2022-10-29 |
 | [PROTAGONISTAS](https://open.spotify.com/track/3EAKy7Tc7ZuUg9Q8APgYDa) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [NOREH \| A film by la vida real](https://open.spotify.com/album/7cdhgwZrFOv93Z1KInRdqv) | 2:55 | 2025-05-23 | 2025-07-12 |

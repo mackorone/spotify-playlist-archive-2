@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-352 songs - 14 hr 28 min
+354 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 | 2022-05-20 | 2025-11-13 |
 | [Floating Alone](https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Floating Alone](https://open.spotify.com/album/28QOdW9aio2bLPDu9TJsdH) | 2:25 | 2022-05-20 | 2026-05-23 |
 | [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 | 2024-04-17 |  |
-| [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 | 2022-12-06 |  |
+| [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 | 2022-12-06 | 2026-07-25 |
 | [Free](https://open.spotify.com/track/4CCLD3LQRQovRtC2F8vqNu) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Free](https://open.spotify.com/album/5fR72sTVjsLO15gNq7K4JH) | 2:18 | 2022-07-20 | 2026-05-23 |
 | [Freedom](https://open.spotify.com/track/5XEqILE72L66tQ6IQHTxJX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Freedom](https://open.spotify.com/album/38TwtRxD4Jolu2W9nwUKs6) | 2:07 | 2023-05-09 |  |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2021-12-14 | 2025-05-15 |
@@ -225,7 +225,7 @@
 | [Play](https://open.spotify.com/track/2y2nlOAf1TmyHT1NGHroaA) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [Play](https://open.spotify.com/album/3JPQiCXgWY2aoBTRiwoHMN) | 2:32 | 2022-07-20 | 2023-11-11 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2021-12-14 | 2024-10-02 |
 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 | 2021-12-14 | 2024-10-02 |
-| [Pray](https://open.spotify.com/track/3zSMjsAjKtDLR9cPjJ9NRv) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Pray](https://open.spotify.com/album/3yf0CyVwOwOtL6HQr3X6A4) | 2:16 | 2023-03-01 |  |
+| [Pray](https://open.spotify.com/track/3zSMjsAjKtDLR9cPjJ9NRv) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Pray](https://open.spotify.com/album/3yf0CyVwOwOtL6HQr3X6A4) | 2:16 | 2023-03-01 | 2026-07-25 |
 | [Prelude to Elegance](https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Prelude to Elegance](https://open.spotify.com/album/4DiOIV9lYzorVb8SDsO4ys) | 1:59 | 2023-06-20 | 2023-09-19 |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2021-12-14 | 2024-10-02 |
 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 | 2021-12-14 | 2022-04-29 |
@@ -235,13 +235,14 @@
 | [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 | 2025-04-04 |  |
 | [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 | 2025-11-05 |  |
 | [Regarde La Danser](https://open.spotify.com/track/3UDMTk71Yc1P4m5SDTFhLZ) | [Christer Karlsson](https://open.spotify.com/artist/67b16EsZVgR75HridsH8PV) | [Regarde La Danser](https://open.spotify.com/album/5WoHF3s6Dc8ha98Yhxj7Nx) | 2:43 | 2023-12-12 |  |
+| [Relief](https://open.spotify.com/track/7qTIIiGSvDAWGqvyK7ZbVq) | [James A\. Caled](https://open.spotify.com/artist/1hhSZdhbeXdXavwXMYxEc0) | [Relief](https://open.spotify.com/album/4rJm3q32J8RGbn9ZZAN3Xw) | 2:14 | 2026-07-24 |  |
 | [Retreat](https://open.spotify.com/track/1TuCwMUqkSa0keDCiijPY2) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Retreat](https://open.spotify.com/album/6vI6bM5u9nzEYEuDoxgJhe) | 2:40 | 2022-05-20 |  |
 | [Return of the swans](https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Big blue](https://open.spotify.com/album/5v3o9XW3TwgUzfotptkyUS) | 1:43 | 2022-12-06 | 2023-09-19 |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2021-12-14 | 2025-06-11 |
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2021-12-14 | 2025-06-11 |
 | [Roseraie](https://open.spotify.com/track/3TV6rwcDHlJOSqmlqjZBJ1) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Roseraie](https://open.spotify.com/album/7iIIBqRWC0fcmyenmgr6D3) | 2:47 | 2021-12-14 | 2024-12-12 |
 | [Rêve Du Matin](https://open.spotify.com/track/1E7Dx2R5WByBqQ8OUj9ym1) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Rêve Du Matin](https://open.spotify.com/album/77qluZlY1aCefTqVCFJ9fN) | 2:35 | 2022-04-28 | 2025-11-13 |
-| [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 |  |
+| [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 | 2026-07-25 |
 | [Sanitatem](https://open.spotify.com/track/2zbZlJVyhSb5PDdmFj3BHe) | [Vaalery](https://open.spotify.com/artist/4d3XQvjuqIEVgCErQ0sFdr) | [Sanitatem](https://open.spotify.com/album/5oAhY5CG5BN2Tv9zAkHHAK) | 4:16 | 2021-12-14 | 2022-04-29 |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-14 | 2022-07-21 |
 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 | 2021-12-14 | 2024-09-11 |
@@ -282,6 +283,7 @@
 | [Spring](https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Spring](https://open.spotify.com/album/4edmrPlqJ175RiZfKxnEpX) | 2:03 | 2021-12-14 | 2025-05-15 |
 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 | 2024-04-03 |  |
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2022-04-04 | 2023-09-19 |
+| [Starry Night](https://open.spotify.com/track/0pvlI8saNehuF6hvVdCdWa) | [R\. Coxwell](https://open.spotify.com/artist/7jNyI8cwWANZyQKpBp4ua9) | [Starry Night](https://open.spotify.com/album/7hMbLVUSoJ6jCnUz1PQ8xj) | 1:49 | 2026-07-24 |  |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-03-03 | 2023-11-11 |
 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 | 2024-12-11 |  |
 | [Stay Close](https://open.spotify.com/track/3L0WeSDRrBJApHA4UFmt4D) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [Stay Close](https://open.spotify.com/album/5LkrrGRSG6jT6TR7kmxjpT) | 2:00 | 2023-01-20 | 2026-04-18 |

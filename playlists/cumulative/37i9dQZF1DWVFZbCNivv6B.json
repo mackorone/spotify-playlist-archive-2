@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Sandro Malandro, Kevis & Maykee en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Cypress Hill en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 328000,
       "name": "Cachondos Session #2 (feat. Luno)",
       "url": "https://open.spotify.com/track/00bczQ7lV2hAwQxdrxWAkL"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 167968,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
@@ -7467,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "Dios Bendiga",
+        "url": "https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156533,
+      "name": "Estamos Listos",
+      "url": "https://open.spotify.com/track/6ybJCiSbTxvLXWmgCIxtQJ"
+    },
+    {
+      "album": {
         "name": "Estilo B\u00e9lico",
         "url": "https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh"
       },
@@ -8122,7 +8140,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 166000,
       "name": "Frostix",
       "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
@@ -9886,7 +9904,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223602,
       "name": "La Bataca",
       "url": "https://open.spotify.com/track/71M0QTH5Gz4JKn9DwwEuSO"
@@ -11507,6 +11525,36 @@
     },
     {
       "album": {
+        "name": "Los Ni\u00f1os del Afromarket 25",
+        "url": "https://open.spotify.com/album/1nC8PNsCpdpcE6SSz1lZS2"
+      },
+      "artists": [
+        {
+          "name": "Hide Tyson",
+          "url": "https://open.spotify.com/artist/4FXH0HxyYY09aXRNyTyOnT"
+        },
+        {
+          "name": "Sokez",
+          "url": "https://open.spotify.com/artist/2VI54EXTSgdz7ZLwPJczyD"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359000,
+      "name": "Los Ni\u00f1os del Afromarket 25",
+      "url": "https://open.spotify.com/track/5ILY1v0Iyebs3re2Wkumuv"
+    },
+    {
+      "album": {
         "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
         "url": "https://open.spotify.com/album/5lW7GR51Ccx5eldclVIfNr"
       },
@@ -12328,6 +12376,28 @@
       "duration_ms": 169142,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc"
+    },
+    {
+      "album": {
+        "name": "Me Tiene Enamorao",
+        "url": "https://open.spotify.com/album/4lm1w9hTS0Bsbqrm35FIOj"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194677,
+      "name": "Me Tiene Enamorao",
+      "url": "https://open.spotify.com/track/2Zbusowk0eeHLhR7qPJXGH"
     },
     {
       "album": {
@@ -19538,6 +19608,36 @@
       "duration_ms": 214981,
       "name": "Trankilikilon",
       "url": "https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT"
+    },
+    {
+      "album": {
+        "name": "Tridente",
+        "url": "https://open.spotify.com/album/4Gx2BCIk7h3Jzh6tz1G03V"
+      },
+      "artists": [
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Yabul\u00e9",
+          "url": "https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251206,
+      "name": "Tridente",
+      "url": "https://open.spotify.com/track/2drh9irG9lf2qy552sbVxA"
     },
     {
       "album": {

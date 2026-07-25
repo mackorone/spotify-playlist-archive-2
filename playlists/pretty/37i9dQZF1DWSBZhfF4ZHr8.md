@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Disiz.
+> Les meilleures nouveautés de la variété française avec disiz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,297 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,313 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 8 | [Surcoté](https://open.spotify.com/track/5VdDTvI4JQTXRZIsbP0zZa) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Surcoté](https://open.spotify.com/album/1TdR64EuoWljelusaKevFD) | 3:18 |
 | 9 | [Dans ton téléphone](https://open.spotify.com/track/2yFt80jvLcPcG6irkBNpgy) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3) | 2:37 |
 | 10 | [Antidote](https://open.spotify.com/track/6N6IDk3LpuH5yw5iizcdzT) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Antidote](https://open.spotify.com/album/11euD1ywvH5CDv2IQEEzlL) | 2:34 |
-| 11 | [et si je pars](https://open.spotify.com/track/0EqJLRMLhmJkPCr3D5o46w) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/2nGlgDpNePZ3YoCNquQtgw) | 2:50 |
+| 11 | [et si je pars](https://open.spotify.com/track/3rynXtBiImASu85juPjrAA) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/4axatsWsFMCphlev6ONRj1) | 2:50 |
 | 12 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 |
 | 13 | [555](https://open.spotify.com/track/0gZNCtf9iAER7s6Dg61CLS) | [melissa](https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba) | [555](https://open.spotify.com/album/70VAZhpIzSSxBbUvd4rBS5) | 2:51 |
 | 14 | [Tu restes là](https://open.spotify.com/track/7Gptk4gZ0zktQdhhjieIOh) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Tu restes là](https://open.spotify.com/album/2LTXGRQ4JERB1G6y2S4XMA) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Mes rêves](https://open.spotify.com/track/1N3lcqkZFTcVPSz0hs1lNe) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Mes rêves](https://open.spotify.com/album/47nVVOontKxtMO4019hbrm) | 2:55 |
 | 50 | [COMME D'HABITUDE](https://open.spotify.com/track/6pN4HLeP58hfmSrp5Utjo2) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [COMME D'HABITUDE](https://open.spotify.com/album/3uBzYZC7VEKEIJanySxiA5) | 2:20 |
 
-Snapshot ID: `AAAAAM8cMeCKz5HIe+KA9Zq96aAUE8hx`
+Snapshot ID: `AAAAAFVru9pBCAfrxpeQzk43rnWVn8v+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 239373,
       "name": "An Honourable Reign",
       "url": "https://open.spotify.com/track/4537kerrZrPCs8HeJ59BiJ"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 192293,
       "name": "Apologies Are For The Weak",
       "url": "https://open.spotify.com/track/64P6T5X31K9XQn5vtbbHej"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 238240,
       "name": "At the End of August",
       "url": "https://open.spotify.com/track/7sjCYW3D73C7lxdbVifWPn"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200663,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/1ll885yKfJ7L81ypmiJgFM"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 297517,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3k3gtsfxkTAldjiDxfS807"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202493,
       "name": "Erased",
       "url": "https://open.spotify.com/track/4P2OiHcrk7j10MHFiVK3N3"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211893,
       "name": "Ex's And Oh's",
       "url": "https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/2vSibtrtHh89Y0tSxE1H6x"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212693,
       "name": "Forgive and Forget",
       "url": "https://open.spotify.com/track/1VjODGU3lcOyGgOHotXzxw"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 292946,
       "name": "I Am the Lion",
       "url": "https://open.spotify.com/track/0jLbtjGSkBTinA4Wi92l4H"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "I, Lucifer",
       "url": "https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA"
@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 224853,
       "name": "Isabella's",
       "url": "https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 297173,
       "name": "Love Lost In A Hail Of Gun Fire",
       "url": "https://open.spotify.com/track/7gkoQwKoaiPWUs9bkrAWjq"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 258106,
       "name": "Mariana's Trench",
       "url": "https://open.spotify.com/track/5iMPhdSTH7OovnhUzo2juY"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 239773,
       "name": "Masses of a Dying Breed",
       "url": "https://open.spotify.com/track/4GmesNy7lGgOLmwtooLHWQ"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 205866,
       "name": "My Fork In The Road (Your Knife In My Back)",
       "url": "https://open.spotify.com/track/0zwuEoDwZElvwj9GyDHwue"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217133,
       "name": "My Will Be Done",
       "url": "https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa"
@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 205400,
       "name": "Relentless Chaos",
       "url": "https://open.spotify.com/track/0LU2vXwIiZRhaskw6cFV13"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 252973,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/360TKUCv2K4SywHYjUOxiF"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "So Cold I Could See My Breath",
       "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 249760,
       "name": "Song For The Broken",
       "url": "https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq"
@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/0kMwWzfhFVAiUFyTIPpLRy"
@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 321880,
       "name": "The Failsafe",
       "url": "https://open.spotify.com/track/351zpwVFbFPnauP3OSmq3e"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 245266,
       "name": "The Hands That Bled",
       "url": "https://open.spotify.com/track/7aMZPb71vU9Z4QV8zDd6SV"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "The Party Song",
       "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "The Seduction",
       "url": "https://open.spotify.com/track/4pVmA9mRD6FYrVQYhi8lEF"
@@ -4986,7 +4986,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"

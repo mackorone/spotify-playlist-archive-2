@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:Masdddho\n",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Damara De\n",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -976,6 +976,32 @@
       "duration_ms": 246542,
       "name": "Balik Kanan Wae",
       "url": "https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU"
+    },
+    {
+      "album": {
+        "name": "Balungan Kere",
+        "url": "https://open.spotify.com/album/66O2k5C140A04kZHlEiaSN"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Akip Pahala",
+          "url": "https://open.spotify.com/artist/5AMpYr1erWdR2D2ktVsrIm"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296250,
+      "name": "Balungan Kere",
+      "url": "https://open.spotify.com/track/0R4RcBSBFabmdB0V3Sp943"
     },
     {
       "album": {
@@ -11140,6 +11166,24 @@
       "duration_ms": 240000,
       "name": "Wegah Tukaran",
       "url": "https://open.spotify.com/track/7fGSaDkMeRiVNb392rfKJf"
+    },
+    {
+      "album": {
+        "name": "Wes Pupus",
+        "url": "https://open.spotify.com/album/7sKCDzCxXYuPgR8IJegwRt"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334080,
+      "name": "Wes Pupus",
+      "url": "https://open.spotify.com/track/6VuQ7SQupsxZytTgxqD4pp"
     },
     {
       "album": {

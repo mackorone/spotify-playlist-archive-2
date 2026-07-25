@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: April DA7
+> Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
 
-307 songs - 1 day 0 hr 20 min
+308 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Salahmu Sendiri \- \(Live Ska Reggae\)](https://open.spotify.com/track/6hjseVVhxshzbMzeSDgEeH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Salahmu Sendiri \- Live Ska Reggae](https://open.spotify.com/album/6TdgFQIwgvfAxmVqomKMdk) | 4:47 | 2024-08-16 | 2024-10-18 |
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-08-23 | 2023-02-17 |
 | [Samira](https://open.spotify.com/track/2UNIOm160O0c3EHq3kKy2I) | [King nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Samira](https://open.spotify.com/album/2Jb7eQXavnheWW3j0Wz0Ap) | 5:09 | 2024-10-04 | 2025-06-14 |
+| [Sampaikan Rindu](https://open.spotify.com/track/7Jm8ej988fDt4n1ZxqWHEc) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Sampaikan Rindu](https://open.spotify.com/album/0zv1e65HKj9sMCg4moxYER) | 4:32 | 2026-07-24 |  |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2021-08-23 | 2024-09-07 |
 | [Satu Dalam Ikatan](https://open.spotify.com/track/0HJhxXxnpIZ5yxupupD82D) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Satu Dalam Ikatan](https://open.spotify.com/album/7qbFoe6MjBogw9GMFVxRxQ) | 5:16 | 2026-07-10 |  |
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 | 2024-09-07 |

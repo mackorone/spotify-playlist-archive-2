@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 311948,
       "name": "Bruna",
       "url": "https://open.spotify.com/track/57Hf5X5PUakkYnJjIEletG"
@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229150,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/3DIwOiHhkuDYwpeeAlWpFQ"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
@@ -1182,6 +1204,28 @@
     {
       "album": {
         "name": "En bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276445,
+      "name": "Malherido",
+      "url": "https://open.spotify.com/track/17H2cw23TdtkfzOiq6booX"
+    },
+    {
+      "album": {
+        "name": "En bucle",
         "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
       },
       "artists": [
@@ -1196,7 +1240,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 276445,
       "name": "Malherido",
       "url": "https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO"

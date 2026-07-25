@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Disiz.
+> Les meilleures nouveautés de la variété française avec disiz.
 
-530 songs - 1 day 1 hr 58 min
+531 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 | 2026-07-02 |  |
 | [Escroc](https://open.spotify.com/track/01PwAE2RXGcVbYLLqs8HEA) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/0b3I8sj5GBMx1ZxMxInnyv) | 2:56 | 2025-12-04 | 2026-03-20 |
 | [Et moi](https://open.spotify.com/track/173fbv2LkD0gNW5PW7ggcL) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Vers les jours heureux](https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt) | 3:15 | 2024-11-28 | 2025-01-10 |
-| [et si je pars](https://open.spotify.com/track/0EqJLRMLhmJkPCr3D5o46w) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/2nGlgDpNePZ3YoCNquQtgw) | 2:50 | 2026-07-23 |  |
+| [et si je pars](https://open.spotify.com/track/0EqJLRMLhmJkPCr3D5o46w) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/2nGlgDpNePZ3YoCNquQtgw) | 2:50 | 2026-07-23 | 2026-07-25 |
+| [et si je pars](https://open.spotify.com/track/3rynXtBiImASu85juPjrAA) | [Lily Campa](https://open.spotify.com/artist/4PNzbdeH5TnL6eua78vIph) | [et si je pars](https://open.spotify.com/album/4axatsWsFMCphlev6ONRj1) | 2:50 | 2026-07-24 |  |
 | [Et si tu sens \- écrit par Grégory Lemarchal](https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Et si tu sens \(écrit par Grégory Lemarchal\)](https://open.spotify.com/album/2whXeqwissI9TOYiw7RFoP) | 3:26 | 2024-11-28 | 2025-01-31 |
 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 | 2025-03-06 | 2025-06-06 |
 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 | 2025-10-16 | 2026-02-06 |

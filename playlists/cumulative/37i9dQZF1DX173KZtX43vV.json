@@ -6451,6 +6451,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
+    },
+    {
+      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va"
       },
@@ -16298,12 +16320,12 @@
           "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
           "name": "Spice",
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
           "name": "Keys N Krates",

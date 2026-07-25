@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 70305,
+  "num_followers": 70369,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
-        "url": "https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp"
-      },
-      "artists": [
-        {
-          "name": "\u25b3\u2583\u25b3\u2593",
-          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
-      "url": "https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 352361,
       "name": "!!!!",
       "url": "https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
+        "url": "https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp"
+      },
+      "artists": [
+        {
+          "name": "\u25b3\u2583\u25b3\u2593",
+          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
+      "url": "https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa"
     },
     {
       "added_at": "2023-07-18 20:06:10",

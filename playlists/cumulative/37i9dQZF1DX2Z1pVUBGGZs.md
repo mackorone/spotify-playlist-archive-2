@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 💐 cover: Nieve Ella
 
-1,088 songs - 2 day 7 hr 24 min
+1,089 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [actin UP!](https://open.spotify.com/track/51co3VqvwYCETYqL6FbWF1) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [LIMITLESS](https://open.spotify.com/album/40XBQ7VCrIriUShwkFgHLM) | 2:17 | 2025-10-31 | 2026-01-30 |
 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 | 2025-03-21 | 2025-05-23 |
 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 | 2024-10-10 | 2024-11-22 |
+| [Alexandria](https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY) | [TOAST CLUB](https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG) | [Lift](https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK) | 4:37 | 2026-07-23 |  |
 | [Alfie](https://open.spotify.com/track/3pRC68ju71MW3CwcpueO2c) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Alfie](https://open.spotify.com/album/3Jdv5z4pzOwCgFFedBEDkX) | 7:30 | 2026-02-27 | 2026-06-12 |
 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 | 2025-10-31 | 2026-02-13 |
 | [All at Once](https://open.spotify.com/track/2vxRHFeAZaBp7qK0g1oCx2) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [All at Once](https://open.spotify.com/album/1S8IVFuUXJegNGhNYPLoxo) | 2:57 | 2025-09-25 | 2025-10-31 |
@@ -288,6 +289,7 @@
 | [E\-MOTION](https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:00 | 2026-06-25 |  |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-02 | 2026-04-24 |
 | [Earthworm](https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL) | [Laizer](https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22) | [Earthworm](https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v) | 2:56 | 2026-06-11 |  |
+| [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 | 2026-07-23 |  |
 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 |  |
 | [Easy Silence](https://open.spotify.com/track/3T8GmN1tKgSwWxlBMj0AM1) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Desire Lines](https://open.spotify.com/album/4qbBgoBqWJoYS1SeY2bEcJ) | 3:06 | 2025-10-31 | 2026-02-13 |
 | [easy to forget.](https://open.spotify.com/track/518XVmTTgQSOfVCZoEoKnI) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [Luna, easy to forget.](https://open.spotify.com/album/3OkfFjLwS32ExZx6Y5rQR4) | 2:44 | 2025-08-14 | 2025-10-03 |
@@ -989,7 +991,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-03 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 4](https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY) | [TOAST CLUB](https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG) | [Lift](https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK) | 0:00 | 2026-07-23 |  |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 | 2026-04-17 |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-23 | 2026-06-12 |

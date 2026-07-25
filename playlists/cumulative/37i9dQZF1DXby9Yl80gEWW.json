@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 233000,
       "name": "It's A String Thing",
       "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
@@ -5262,6 +5262,24 @@
       "duration_ms": 200613,
       "name": "Smoothie Song",
       "url": "https://open.spotify.com/track/0ETiP5S8lbp8w6O7hc70Kk"
+    },
+    {
+      "album": {
+        "name": "The Unsung Adventures of Punch Brothers",
+        "url": "https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "Solve Knut (untied)",
+      "url": "https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur"
     },
     {
       "album": {

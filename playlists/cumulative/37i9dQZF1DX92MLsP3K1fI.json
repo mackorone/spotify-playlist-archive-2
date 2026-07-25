@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
@@ -4100,7 +4100,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
@@ -4540,6 +4540,24 @@
       "duration_ms": 182000,
       "name": "Est\u00e1s DISTANTE",
       "url": "https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS"
+    },
+    {
+      "album": {
+        "name": "Est\u00fapida Inocente",
+        "url": "https://open.spotify.com/album/2VIGYABy9GUfiFIIpDgSLi"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Est\u00fapida Inocente",
+      "url": "https://open.spotify.com/track/7K1xys7lxKtsUDvzNzvcVi"
     },
     {
       "album": {
@@ -7924,6 +7942,24 @@
       "duration_ms": 203799,
       "name": "No Disponible",
       "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
+    },
+    {
+      "album": {
+        "name": "No Era De Oro",
+        "url": "https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152929,
+      "name": "No Era De Oro",
+      "url": "https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo"
     },
     {
       "album": {
@@ -11356,7 +11392,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155609,
       "name": "Te Am\u00e9 +",
       "url": "https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO"
@@ -11982,6 +12018,24 @@
       "duration_ms": 153905,
       "name": "Traici\u00f3n",
       "url": "https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW"
+    },
+    {
+      "album": {
+        "name": "TU CEL PARA ABAJO",
+        "url": "https://open.spotify.com/album/6XQUyZEKpqvHWjGkCPplzN"
+      },
+      "artists": [
+        {
+          "name": "TINU",
+          "url": "https://open.spotify.com/artist/1vYjwBTHn7gnrddPgUfYoB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181309,
+      "name": "TU CEL PARA ABAJO",
+      "url": "https://open.spotify.com/track/0u2jJ5SkdIXYJkTPMdYIT4"
     },
     {
       "album": {

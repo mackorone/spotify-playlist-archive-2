@@ -7739,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "Fuimos Paralelos",
+        "url": "https://open.spotify.com/album/1LkESHy8v0vkpFdp5SKKUM"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Fuimos Paralelos",
+      "url": "https://open.spotify.com/track/3XOZXE9WJvX6MES1ZVxGLM"
+    },
+    {
+      "album": {
         "name": "Full Color",
         "url": "https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa"
       },
@@ -10192,7 +10210,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 215694,
       "name": "Lo Que Hoy No Pudo Ser",
       "url": "https://open.spotify.com/track/05fLRTHI40TvfN2UogPH6U"
@@ -13174,6 +13192,28 @@
       "duration_ms": 143577,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/1qgTb6NDWkpyQLt4pQT9iJ"
+    },
+    {
+      "album": {
+        "name": "Ojos De Amor",
+        "url": "https://open.spotify.com/album/1qLPZA8EkKyImEeOEJPuXA"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286541,
+      "name": "Ojos De Amor",
+      "url": "https://open.spotify.com/track/1ZnZdvzE1RGno1JxtbuedT"
     },
     {
       "album": {
@@ -16604,7 +16644,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 241460,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/1GtkxyW7FaoFTrw5SNzBP5"
@@ -17877,6 +17917,28 @@
     },
     {
       "album": {
+        "name": "Tu Buscas Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5hnrUpDHnMblqlIY4GrdVf"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347213,
+      "name": "Tu Buscas Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6XonBqS0a0tjLgqeC4fcHi"
+    },
+    {
+      "album": {
         "name": "Tu Cara",
         "url": "https://open.spotify.com/album/5AXi1C2CZdcqd26WaopVuF"
       },
@@ -18563,6 +18625,24 @@
     },
     {
       "album": {
+        "name": "CAMINO AL ED\u00c9N",
+        "url": "https://open.spotify.com/album/0ynnbOKiKD2sStyD2HAPmU"
+      },
+      "artists": [
+        {
+          "name": "Liaz",
+          "url": "https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "UN TOUR",
+      "url": "https://open.spotify.com/track/5QqzWP5sAQPSjqMdhWJH7r"
+    },
+    {
+      "album": {
         "name": "Una Canci\u00f3n para la Comuni\u00f3n",
         "url": "https://open.spotify.com/album/5PRuvarYZNzQzJDlyIfC4N"
       },
@@ -18728,7 +18808,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 527875,
       "name": "Vale La Pena",
       "url": "https://open.spotify.com/track/6QvJwcW5IksW3cUsPDGqsK"
@@ -19282,7 +19362,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 224250,
       "name": "Vivo Por Fe",
       "url": "https://open.spotify.com/track/6QeuxaxTIRWAzeI74vo3Mp"

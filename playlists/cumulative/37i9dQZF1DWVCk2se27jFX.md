@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lido Pimienta
 
-158 songs - 9 hr 34 min
+159 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Fine Line En Tu Habitación](https://open.spotify.com/track/4AgudkNxMoJaGtAyOJHFFe) | [Luis Aguirre](https://open.spotify.com/artist/2GgVRZoZbteN3wXsqJ7uEB) | [Fine Line En Tu Habitación](https://open.spotify.com/album/1jSd3glxPGcli80ZEm4KpW) | 3:00 | 2023-09-25 | 2025-05-24 |
 | [Fractal](https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Un Lugar Más Cierto](https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu) | 4:23 | 2023-09-25 |  |
 | [Frases de Cajón](https://open.spotify.com/track/2W4QtfDipNdvOdbLe5oLZv) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s) | [Frases de Cajón](https://open.spotify.com/album/0qYPw5RN4g5z5j82QL8riF) | 4:03 | 2023-09-25 |  |
-| [Frágil](https://open.spotify.com/track/1OAvXFENwTeB57HdbkVCni) | [Shimura Cinema](https://open.spotify.com/artist/7z354pYj5tj4i4k702WZMV) | [Frágil](https://open.spotify.com/album/4GDMyxCpgnu5gzpkiGxLda) | 4:13 | 2023-09-25 |  |
+| [Frágil](https://open.spotify.com/track/1OAvXFENwTeB57HdbkVCni) | [Shimura Cinema](https://open.spotify.com/artist/7z354pYj5tj4i4k702WZMV) | [Frágil](https://open.spotify.com/album/4GDMyxCpgnu5gzpkiGxLda) | 4:13 | 2023-09-25 | 2026-07-25 |
 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 | 2023-09-25 |  |
 | [Futura Memoria](https://open.spotify.com/track/2epgfcGb8KTVxi5eGZnUNi) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Futura Memoria](https://open.spotify.com/album/6zYYe5HYqXooL5bhdbuheZ) | 4:21 | 2023-09-25 | 2025-03-15 |
 | [Gracias](https://open.spotify.com/track/6urnTHBHzPOSEJEcizWtdP) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Gracias](https://open.spotify.com/album/2k6yadCB56vXo4ilupU3JB) | 4:05 | 2023-09-25 |  |
@@ -100,6 +100,7 @@
 | [Marea](https://open.spotify.com/track/7l4pU3dvBHZ4Lwj39L4M6q) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Marea](https://open.spotify.com/album/1CxXV7NN4SXRWua4esjSu3) | 3:08 | 2026-07-17 |  |
 | [Matizando](https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH) | 3:34 | 2024-04-12 |  |
 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 | 2023-09-25 | 2024-04-19 |
+| [Me Dormí?](https://open.spotify.com/track/7y2Jef05qCfgGeuzVItVVN) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Me Dormí?](https://open.spotify.com/album/3Y4XwQ0u31NzQYS0utDD0V) | 3:08 | 2026-07-24 |  |
 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 | 2023-09-25 |  |
 | [Mi Corazón de Miel](https://open.spotify.com/track/6WGpwvtVYk9Zl29EVk7VYw) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:24 | 2025-10-10 |  |
 | [Mil Cartas](https://open.spotify.com/track/5VyGv0StDf6LE46h0l0Jv9) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Repetiría Todo](https://open.spotify.com/album/2oSfjx5ip4jvV52NTmu9jW) | 3:05 | 2024-06-28 |  |
@@ -133,7 +134,7 @@
 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-25 |  |
 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 | 2024-04-12 | 2026-06-13 |
 | [Radar \(Nuevo Sentimiento\)](https://open.spotify.com/track/4IGi4Cud7yc3OxYTbcWlt9) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Ya Me Cansé De La Industria](https://open.spotify.com/album/34fMrlyLWMtP9Ba2zaDhGo) | 4:20 | 2023-09-25 |  |
-| [Ramen](https://open.spotify.com/track/7AQ5qL6356wqgex8ibPi3U) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Ramen](https://open.spotify.com/album/21O3k6iIWFSREY2YGbtbwb) | 2:37 | 2024-06-28 |  |
+| [Ramen](https://open.spotify.com/track/7AQ5qL6356wqgex8ibPi3U) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Ramen](https://open.spotify.com/album/21O3k6iIWFSREY2YGbtbwb) | 2:37 | 2024-06-28 | 2026-07-25 |
 | [Recuerda](https://open.spotify.com/track/0yUYuMKygnXLTSG8ThEqzR) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Recuerda](https://open.spotify.com/album/7BEIW4q4PYAUEHDUcISKN6) | 4:02 | 2023-09-25 |  |
 | [Remordimiento](https://open.spotify.com/track/65kKolUtR9SvLnsH7EBG7Y) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Remordimiento](https://open.spotify.com/album/6QeAG0mPeiMdQKv1fYw5FA) | 3:39 | 2024-06-28 |  |
 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 | 2023-09-25 |  |
@@ -165,6 +166,6 @@
 | [Ya No Importa Tanto](https://open.spotify.com/track/4o1liMpPh1rdyyVhse40hF) | [Vencejo Común](https://open.spotify.com/artist/1Ca8HMyCmPXrzAQLdjDydl), [Ricardito :c](https://open.spotify.com/artist/6aZwZO827gIDumG0hzEqEA) | [Sobre Cálidos Finales](https://open.spotify.com/album/6swxlXsc2wrzMAC2MkI5Li) | 3:38 | 2023-09-25 |  |
 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 | 2024-06-28 |  |
 | [Yo También Estoy Creciendo](https://open.spotify.com/track/0FCnnbnZYzVM7vo7IpdfU5) | [David Vaillancourt](https://open.spotify.com/artist/7g3tP24UOfiNFgcIUxK3AD) | [Entre Lo Irreversible](https://open.spotify.com/album/0SsLkUkrfSRfjUgQKlCFFA) | 3:33 | 2023-09-25 | 2025-05-24 |
-| [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 | 2023-09-25 |  |
+| [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 | 2023-09-25 | 2026-07-25 |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

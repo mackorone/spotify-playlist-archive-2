@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Jnr SA
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,208 likes - 55 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,244 likes - 55 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

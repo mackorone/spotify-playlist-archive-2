@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:Masdddho
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Damara De
 
-593 songs - 2 day 1 hr 48 min
+595 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bajirut](https://open.spotify.com/track/2d7MsxaYJC0NSNw0u0WrWv) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Bajirut](https://open.spotify.com/album/63aUmI5XPt0Bt2BhM1bx6i) | 5:05 | 2024-11-14 | 2025-03-21 |
 | [BALENI](https://open.spotify.com/track/6ApxnvWcGnt45Du1AQyhLd) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu) | [BALENI](https://open.spotify.com/album/66m0SRdVzSxrNDhVUw0R0Q) | 5:33 | 2026-06-11 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
+| [Balungan Kere](https://open.spotify.com/track/0R4RcBSBFabmdB0V3Sp943) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Akip Pahala](https://open.spotify.com/artist/5AMpYr1erWdR2D2ktVsrIm), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Balungan Kere](https://open.spotify.com/album/66O2k5C140A04kZHlEiaSN) | 4:56 | 2026-07-24 |  |
 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 | 2022-05-26 | 2023-12-09 |
 | [BAPAK](https://open.spotify.com/track/4egkSlCKoapEw6H9vFIHnN) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [BAPAK](https://open.spotify.com/album/430DIwr1nkXiIhJnvH5ASZ) | 4:53 | 2025-03-27 | 2025-06-27 |
 | [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 | 2022-12-08 | 2023-08-11 |
@@ -583,6 +584,7 @@
 | [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2022-05-26 | 2023-08-11 |
 | [Wegah Tukaran](https://open.spotify.com/track/5UWfUp4bpgwLxrV4zYsbLf) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Wegah Tukaran](https://open.spotify.com/album/2Al2i35sxvyvh4mYpckR7m) | 4:45 | 2025-04-25 | 2025-10-03 |
 | [Wegah Tukaran](https://open.spotify.com/track/7fGSaDkMeRiVNb392rfKJf) | [Royal Music](https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Wegah Tukaran](https://open.spotify.com/album/41firAF7cH6F8MqD3ICLMx) | 4:00 | 2025-06-05 | 2025-08-22 |
+| [Wes Pupus](https://open.spotify.com/track/6VuQ7SQupsxZytTgxqD4pp) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Wes Pupus](https://open.spotify.com/album/7sKCDzCxXYuPgR8IJegwRt) | 5:34 | 2026-07-24 |  |
 | [Wes Tatas](https://open.spotify.com/track/1eqJbOz1dIztx3W88CaRbM) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/52LPJku9cYjXiBmASI7Yzz) | 4:07 | 2023-12-08 | 2024-03-09 |
 | [Wes Tatas](https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz) | 4:07 | 2023-05-19 | 2023-12-09 |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2022-05-26 | 2023-07-14 |

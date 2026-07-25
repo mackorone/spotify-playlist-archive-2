@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Ahadadream
 
-1,543 songs - 4 day 8 hr 0 min
+1,543 songs - 4 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2025-02-07 |
 | [Dagobah](https://open.spotify.com/track/7JDjw5R8GuEgJW7jcGDvwb) | [Burland](https://open.spotify.com/artist/5I3pGI4XlZf4ZTfa0HUk5w) | [Dagobah](https://open.spotify.com/album/3Hde6QPh9ZHxNoonYQ4RC1) | 3:16 | 2022-11-25 | 2023-05-19 |
 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 | 2025-11-14 | 2026-05-01 |
-| [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 | 2026-07-23 |  |
+| [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 | 2026-07-23 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2022-10-07 |
 | [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 | 2023-10-06 | 2024-03-01 |
 | [Danger](https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Danger](https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH) | 2:19 | 2026-03-27 | 2026-07-10 |
@@ -967,6 +967,7 @@
 | [NUG46](https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU) | [Yung Singh](https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K) | [NUG46](https://open.spotify.com/album/4eeq6cNsykHCaB5yNhsAVy) | 5:44 | 2026-04-30 |  |
 | [Nylon](https://open.spotify.com/track/13Az3ZhB2kIknz7OSLFybW) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Nylon](https://open.spotify.com/album/0oF3TZWkSAb8At2kb1xeCY) | 5:19 | 2022-10-28 | 2023-01-20 |
 | [Obey](https://open.spotify.com/track/6O1zlg0ktqhuMcgoGQN3RG) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Obey](https://open.spotify.com/album/4s9hsBnX64b1Cs7e9P1as5) | 2:25 | 2026-06-25 |  |
+| [Obnox](https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Obnox / Pointless](https://open.spotify.com/album/6CHq5ix2PJa5LFaETFmEkX) | 3:40 | 2026-07-23 |  |
 | [Obsessed](https://open.spotify.com/track/6eBdlW7BeegLo73ifH7X3D) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [Potency002](https://open.spotify.com/album/62I1FoTetnOjhE2sUiqf0B) | 5:41 | 2022-02-25 | 2022-06-10 |
 | [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 | 2024-08-29 | 2025-02-07 |
 | [Of Joy](https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Of Joy](https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7) | 3:19 | 2026-02-20 | 2026-06-17 |
@@ -1389,7 +1390,6 @@
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-12-02 |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2024-05-03 |
 | [Traces](https://open.spotify.com/track/0vcv7tSmp10u55eKYTAQ1E) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Traces / Gradients](https://open.spotify.com/album/1Y4m5qmWw2E217GVceWW5B) | 4:35 | 2022-06-30 | 2022-10-07 |
-| [Track 1](https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Obnox / Pointless](https://open.spotify.com/album/6CHq5ix2PJa5LFaETFmEkX) | 0:00 | 2026-07-23 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-12 | 2025-10-24 |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-07 | 2024-09-13 |
 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-15 | 2022-11-11 |

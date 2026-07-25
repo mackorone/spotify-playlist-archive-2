@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 207721,
+  "num_followers": 207927,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAB6V6uB2vZI/PPnznBmUIqn",
+  "snapshot_id": "amFZgAAAAAD+vm2ZuJJPTFNn6aEFplq1",
   "tracks": [
     {
       "added_at": null,
@@ -399,58 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "slow down",
-        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 158388,
-      "name": "GOD'S GOT MY BACK",
-      "url": "https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "B.I.G.",
-      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 STEP THE ENEMY",
         "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB"
       },
@@ -471,6 +419,78 @@
       "duration_ms": 162857,
       "name": "2 STEP THE ENEMY",
       "url": "https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "B.I.G.",
+      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 158388,
+      "name": "GOD'S GOT MY BACK",
+      "url": "https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOMEBODY PRAYED",
+        "url": "https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Tate Butts",
+          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
+        }
+      ],
+      "duration_ms": 301584,
+      "name": "SOMEBODY PRAYED",
+      "url": "https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg"
     },
     {
       "added_at": null,
@@ -507,26 +527,6 @@
       "duration_ms": 144568,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOMEBODY PRAYED",
-        "url": "https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Tate Butts",
-          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
-        }
-      ],
-      "duration_ms": 301584,
-      "name": "SOMEBODY PRAYED",
-      "url": "https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE JESUS GENERATION",
+        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 255197,
+      "name": "THE JESUS GENERATION",
+      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN PATROL",
         "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 125952,
       "name": "SOULSHINE",
       "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE JESUS GENERATION",
-        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 255197,
-      "name": "THE JESUS GENERATION",
-      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
     },
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE (FOLK)",
-        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
       "artists": [
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 183532,
-      "name": "LEMONADE (FOLK)",
-      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+      "duration_ms": 163796,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
       },
       "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 163796,
-      "name": "Go Tell It",
-      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
     },
     {
       "added_at": null,

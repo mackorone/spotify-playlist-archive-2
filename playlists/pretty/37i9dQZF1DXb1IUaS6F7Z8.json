@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 507814,
+  "num_followers": 507877,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
     },
     {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Rum Sodomy & The Lash (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Sally MacLennane",
-      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
-    },
-    {
       "added_at": "2024-02-06 19:54:12",
       "album": {
         "name": "Gangs of New Holland",
@@ -55,6 +39,22 @@
       "duration_ms": 202133,
       "name": "An Irish Pub Song",
       "url": "https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Sally MacLennane",
+      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
     },
     {
       "added_at": "2024-02-06 19:54:12",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
     },
     {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
-        "name": "No Offence",
-        "url": "https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD"
-      },
-      "artists": [
-        {
-          "name": "Happy Ol'McWeasel",
-          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Danny Boy",
-      "url": "https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX"
-    },
-    {
       "added_at": "2022-03-18 14:59:31",
       "album": {
         "name": "Sixth and Porter",
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
+        "name": "No Offence",
+        "url": "https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD"
+      },
+      "artists": [
+        {
+          "name": "Happy Ol'McWeasel",
+          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
         "name": "On A Fine Spring Evening",
         "url": "https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 81293,
       "name": "Whiskey Makes Me Crazy",
       "url": "https://open.spotify.com/track/7gLbLGteklzcPSd53ojUDg"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "The Very Best of Saint Bushmill's Choir",
-        "url": "https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I"
-      },
-      "artists": [
-        {
-          "name": "Saint Bushmill's Choir",
-          "url": "https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "The Secret Set (Drowsy Maggie / The Star of Munster)",
-      "url": "https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0"
     },
     {
       "added_at": "2024-02-06 19:54:12",
@@ -519,6 +503,22 @@
       "duration_ms": 189626,
       "name": "My Pint",
       "url": "https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Very Best of Saint Bushmill's Choir",
+        "url": "https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I"
+      },
+      "artists": [
+        {
+          "name": "Saint Bushmill's Choir",
+          "url": "https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "The Secret Set (Drowsy Maggie / The Star of Munster)",
+      "url": "https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0"
     },
     {
       "added_at": "2024-02-06 19:54:12",

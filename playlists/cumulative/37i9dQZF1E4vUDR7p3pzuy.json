@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153874,
       "name": "A New Thing!",
       "url": "https://open.spotify.com/track/3PMV5Co3fA3kzhR2m2x6El"
@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 255518,
       "name": "Change to Come",
       "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 183192,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/2iIYo63gIFDOzZxszarzvE"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -8810,7 +8810,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 181500,
       "name": "Just a Bunch of Words",
       "url": "https://open.spotify.com/track/5xiDKWKTsqAkWk6em6iDQD"
@@ -9222,7 +9222,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 268080,
       "name": "leaden coat",
       "url": "https://open.spotify.com/track/4ro4DezuYlhKKpEPS3Dat7"
@@ -9312,7 +9312,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 257741,
       "name": "Let Me Breathe - Kissed With A Lie",
       "url": "https://open.spotify.com/track/4BCy3ZARSbTdEVrwc9Ey4q"
@@ -9374,10 +9374,28 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290619,
+      "name": "Let the Rain Fall",
+      "url": "https://open.spotify.com/track/76uXX2bsvH6dDtsU3nSHG5"
     },
     {
       "album": {
@@ -11089,6 +11107,24 @@
     },
     {
       "album": {
+        "name": "Melodies That Made Me",
+        "url": "https://open.spotify.com/album/2L7h4FkhHza1cXMr2OIJa7"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204455,
+      "name": "Nights In White Satin",
+      "url": "https://open.spotify.com/track/2pFSEkl3RVcwqQ1mz1NJQq"
+    },
+    {
+      "album": {
         "name": "NineFortyFive",
         "url": "https://open.spotify.com/album/0d6V0rLwedd3K2DBSEuMNs"
       },
@@ -11226,7 +11262,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11262,7 +11298,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11868,6 +11904,24 @@
       "duration_ms": 201624,
       "name": "Pet",
       "url": "https://open.spotify.com/track/72OZvuSbJdtetbkeCaNLS8"
+    },
+    {
+      "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Plastic Time",
+      "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
     },
     {
       "album": {
@@ -13352,7 +13406,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -13936,7 +13990,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 277282,
       "name": "Smile, Smile, Smile",
       "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
@@ -13954,7 +14008,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 267400,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/26s2AEv7vlwoyrUGQMaZPA"
@@ -15001,6 +15055,24 @@
     },
     {
       "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243142,
+      "name": "Superphotonics",
+      "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
+    },
+    {
+      "album": {
         "name": "Suspension",
         "url": "https://open.spotify.com/album/2TWvWl4g7xGZ9ObioMtulo"
       },
@@ -15603,6 +15675,24 @@
     },
     {
       "album": {
+        "name": "The Darkest Of Eyes",
+        "url": "https://open.spotify.com/album/5MtfCMS1zRzrrVyztsEYoT"
+      },
+      "artists": [
+        {
+          "name": "Medivh",
+          "url": "https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220010,
+      "name": "The Darkest Of Eyes",
+      "url": "https://open.spotify.com/track/4kiCtivuOkpBNtqQW9cqAP"
+    },
+    {
+      "album": {
         "name": "The Pink Mist",
         "url": "https://open.spotify.com/album/36hyhTd2dbynl7bE8SgC6A"
       },
@@ -15938,7 +16028,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -16050,6 +16140,24 @@
       "duration_ms": 290880,
       "name": "The Plaice",
       "url": "https://open.spotify.com/track/599LQwbBwyZBCyn8GdwXvF"
+    },
+    {
+      "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227779,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
     },
     {
       "album": {
@@ -17032,7 +17140,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229000,
       "name": "Toxic Twins",
       "url": "https://open.spotify.com/track/7fmJJLO5ErJ9h1WFwd6OUT"
@@ -17414,7 +17522,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -17906,7 +18014,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -18032,7 +18140,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 263000,
       "name": "Watch them scream and Shout (No doubt)",
       "url": "https://open.spotify.com/track/62DAHNTKYHXwhYOC4dssVa"

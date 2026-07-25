@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: Pretty Girl
 
-1,136 songs - 3 day 9 hr 56 min
+1,136 songs - 3 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Rent Request](https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [Stain](https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y) | [Rent Request](https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf) | 3:44 | 2022-12-22 | 2023-02-24 |
 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 | 2022-12-08 | 2023-02-24 |
 | [Rewind](https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rewind](https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N) | 3:30 | 2024-11-08 | 2025-03-21 |
+| [Rhinestones](https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6) | [Mabel](https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ) | [Rhinestones](https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H) | 6:18 | 2026-07-23 |  |
 | [Rhythm](https://open.spotify.com/track/2MO9WiFblhthHqQp0etUxO) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [Rhythm](https://open.spotify.com/album/51QwhiwUQBi8W5xzLxYVVD) | 2:54 | 2025-02-06 | 2025-07-25 |
 | [Ribs \- Joe Hertz Remix](https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Ribs \(Joe Hertz Remix\)](https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p) | 3:48 | 2023-06-08 | 2023-08-04 |
 | [Ride For Me](https://open.spotify.com/track/7FqFB8cdeF0OLxK13fBnui) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj), [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Ride For Me](https://open.spotify.com/album/3EJyCfiZvfwzbWYyVhVCoa) | 2:54 | 2023-06-01 | 2023-08-18 |
@@ -1035,7 +1036,6 @@
 | [Touch The Vibe](https://open.spotify.com/track/3WRPjoawrmZUiSsV4V0SHy) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Touch The Vibe](https://open.spotify.com/album/04FEDPnkep9dDTJ5BGaei2) | 7:21 | 2024-10-24 | 2025-01-24 |
 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 | 2024-04-16 | 2024-07-05 |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-11-30 | 2024-06-28 |
-| [Track 3](https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6) | [Mabel](https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ) | [Rhinestones](https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H) | 0:00 | 2026-07-23 |  |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-06 | 2024-10-11 |
 | [Tremors](https://open.spotify.com/track/2yHaxm6DL7A9bpb0L4GyQo) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe \(Deluxe\)](https://open.spotify.com/album/696j98HfflKXkJ1jDIzaJI) | 4:55 | 2022-12-08 | 2023-01-20 |
 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 | 2023-07-27 | 2023-09-08 |

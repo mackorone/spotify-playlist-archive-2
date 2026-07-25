@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14995,
+  "num_followers": 15001,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADfSk/R+P1LwFOYT8aitVT6",
+  "snapshot_id": "amFZgAAAAAB1hKNuF51k4KpdCNALC/lC",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's The Season (Live Performance)",
-        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 1944960,
-      "name": "It's The Season (Live Performance)",
-      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 281701,
       "name": "All Powerful and Sovereign",
       "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's The Season (Live Performance)",
+        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 1944960,
+      "name": "It's The Season (Live Performance)",
+      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
     },
     {
       "added_at": null,
@@ -918,15 +918,11 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 361389,
-      "name": "None Like You Lord",
-      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
+      "duration_ms": 251201,
+      "name": "Heaven and Earth Adore You",
+      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
     },
     {
       "added_at": null,
@@ -954,11 +950,15 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 251201,
-      "name": "Heaven and Earth Adore You",
-      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
+      "duration_ms": 361389,
+      "name": "None Like You Lord",
+      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
     }
   ],
   "unique_name": "This Is Mercy Chinwo",

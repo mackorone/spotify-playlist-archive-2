@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 7063,
+  "num_followers": 7068,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAAsDahZcDbaNo8CbeABpk87",
+  "snapshot_id": "amFZgAAAAABxoz3uJyHCq2hr7czHg9I6",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WACO (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 289165,
       "name": "Golden Days - B-Side",
       "url": "https://open.spotify.com/track/0psOxAjyK4knJpByjZNyX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hungry Ghost (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 224495,
-      "name": "Follow Me Here - Demo",
-      "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 182813,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
+      "duration_ms": 224495,
+      "name": "Follow Me Here - Demo",
+      "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
     },
     {
       "added_at": null,

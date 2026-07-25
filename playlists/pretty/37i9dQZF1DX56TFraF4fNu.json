@@ -1,13 +1,29 @@
 {
-  "description": "Dosis musical para disfrutar el momento. Foto: Danny Ocean",
-  "num_followers": 66829,
+  "description": "Dosis musical para disfrutar el momento. Foto: Aria Vega",
+  "num_followers": 66850,
   "original_name": "Parchadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANKHATJeSqhhVvVOTkiOJxCnFZ+f",
+  "snapshot_id": "AAAAAEbh2YekRBhpchczw5XXoAx0AG1S",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "TOTOTO (+4)",
+        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 138994,
+      "name": "TOTOTO (+4)",
+      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
+    },
     {
       "added_at": "2026-06-19 04:59:02",
       "album": {
@@ -79,6 +95,38 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "ZuZu",
+        "url": "https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 159948,
+      "name": "ZuZu",
+      "url": "https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "De la Mata",
+        "url": "https://open.spotify.com/album/1vOWLVrFoXPtqyyaUHZPqT"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 171174,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/6rQS8rYfOlcpcLrBt3raLy"
     },
     {
       "added_at": "2026-06-19 04:59:02",
@@ -775,22 +823,6 @@
     {
       "added_at": "2026-06-19 04:59:02",
       "album": {
-        "name": "Para terminar en nada",
-        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 165841,
-      "name": "Para terminar en nada",
-      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
-    },
-    {
-      "added_at": "2026-06-19 04:59:02",
-      "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -1091,42 +1123,6 @@
     {
       "added_at": "2026-06-19 04:59:02",
       "album": {
-        "name": "BORONDO (5020 RCRDS Sessions)",
-        "url": "https://open.spotify.com/album/5U5bjE68QqIQbArnGvditP"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188214,
-      "name": "no tiene sentido - 5020 RCRDS Sessions",
-      "url": "https://open.spotify.com/track/4J9LIaVGaO3UUYF5K6DZxc"
-    },
-    {
-      "added_at": "2026-06-19 04:59:02",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/0LQCWzIrOJZMEWXeTcR9CI"
-      },
-      "artists": [
-        {
-          "name": "Criss & Ronny",
-          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
-        },
-        {
-          "name": "DJ Dever",
-          "url": "https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D"
-        }
-      ],
-      "duration_ms": 148752,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/7HQjwfR02WOTW1ZDlJ8UFk"
-    },
-    {
-      "added_at": "2026-06-19 04:59:02",
-      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -1155,62 +1151,6 @@
       "duration_ms": 225750,
       "name": "El AchanTAdo",
       "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
-    },
-    {
-      "added_at": "2026-06-19 04:59:02",
-      "album": {
-        "name": "Todita RMX",
-        "url": "https://open.spotify.com/album/0MIgVPEvQ7STSDlv2hwiLV"
-      },
-      "artists": [
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        },
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 301428,
-      "name": "Todita RMX",
-      "url": "https://open.spotify.com/track/4a1zarsLq1i7EDnutpy3kl"
-    },
-    {
-      "added_at": "2026-06-19 04:59:02",
-      "album": {
-        "name": "Bailoteca: El Regreso",
-        "url": "https://open.spotify.com/album/5eUoF0KGzoLeN5uOIALE4N"
-      },
-      "artists": [
-        {
-          "name": "Dragon & Caballero",
-          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
-        },
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tengo Prisa - Afrosession by Yera",
-      "url": "https://open.spotify.com/track/6z8DLtdRAUUOntRh1AEeOv"
     }
   ],
   "unique_name": "Parchadito",

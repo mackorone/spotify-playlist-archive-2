@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-265 songs - 15 hr 3 min
+266 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-07-11 | 2025-08-09 |
 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 | 2025-07-11 |  |
 | [Silhouette](https://open.spotify.com/track/0HYmlwB0dIDK1A1wfuD9Nw) | [CVMRN](https://open.spotify.com/artist/7bywdy7GogO9U60ROyLSih), [Ro](https://open.spotify.com/artist/1MeAnyFGpDcuwi1VDMAXHV) | [Silhouette](https://open.spotify.com/album/7Do1M5vx7TVnNINdqS02Hk) | 3:35 | 2026-02-27 |  |
+| [Sirens](https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Sirens](https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf) | 3:24 | 2026-07-24 |  |
 | [So Hï \(VIP Mix\)](https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï \(VIP Mix\)](https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae) | 4:20 | 2025-10-09 | 2025-11-15 |
 | [Something Real](https://open.spotify.com/track/2678BoumxAEUu69yEcu4bR) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Something Real](https://open.spotify.com/album/0fXscY5gJPEtpKxGl22P1i) | 3:54 | 2026-07-03 |  |
 | [Starry Eyed Surprise](https://open.spotify.com/track/3aWmrNmz5vn2qj864CpFkm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO) | [Starry Eyed Surprise](https://open.spotify.com/album/6LxeSyeNHN43FcXrI2P0P1) | 2:19 | 2025-10-10 |  |

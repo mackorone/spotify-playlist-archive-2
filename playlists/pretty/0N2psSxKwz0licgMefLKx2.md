@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,268 likes - 101 songs - 5 hr 30 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,268 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 99 | [When You Know You Know](https://open.spotify.com/track/32sIMbP91MRYwlQ92UfYZL) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/5Ia42Ht7CTQSy5LCUVtgSc) | 2:57 |
 | 100 | [Runnin' Down A Dream](https://open.spotify.com/track/2m1kaNrld481MmOB3WWb6a) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Runnin' Down A Dream](https://open.spotify.com/album/6zuoQB73uUNKG2IUEHtq44) | 4:59 |
 | 101 | [What You Want](https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [What You Want](https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9) | 2:52 |
+| 102 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
 
-Snapshot ID: `AAAnTzeHAg6dFGeAl7eFpAHdzNA11i7t`
+Snapshot ID: `AAAnUOrkDnf8sZaYCI2fyZCe4AnTrR8B`

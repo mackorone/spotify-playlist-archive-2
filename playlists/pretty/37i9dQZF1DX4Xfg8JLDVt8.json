@@ -1,13 +1,29 @@
 {
   "description": "Cada barrio tiene un sonido. Este es el de Barboza: una mezcla de Caribe, comunidad y m\u00fasica. Foto: Barboza",
-  "num_followers": 288342,
+  "num_followers": 288372,
   "original_name": "En el Barrio: Barboza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALpryOYIg7xpqtqIrXHy65A0EpFG",
+  "snapshot_id": "AAAAAGsqtmDvCVZ+oLxvjvXDo/vpMEN8",
   "tracks": [
+    {
+      "added_at": "2026-07-24 15:14:06",
+      "album": {
+        "name": "Spotify Presenta",
+        "url": "https://open.spotify.com/album/7sBz3825on9pl9n0BfMuVp"
+      },
+      "artists": [
+        {
+          "name": "Spotify Presenta",
+          "url": "https://open.spotify.com/show/7sBz3825on9pl9n0BfMuVp"
+        }
+      ],
+      "duration_ms": 206791,
+      "name": "En El Barrio - Barboza",
+      "url": "https://open.spotify.com/episode/65zm67J5ZRWg6sXupzialE"
+    },
     {
       "added_at": "2026-07-15 04:59:22",
       "album": {

@@ -9663,6 +9663,24 @@
     },
     {
       "album": {
+        "name": "HELADO DE VAINILLA",
+        "url": "https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "HELADO DE VAINILLA",
+      "url": "https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3"
+    },
+    {
+      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -12138,7 +12156,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173220,
       "name": "Lo Que Me Pasa Con Vos",
       "url": "https://open.spotify.com/track/1RpfAoumnZkn6Cmz2ARlG2"
@@ -17078,7 +17096,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 242848,
       "name": "Pendiente De M\u00ed",
       "url": "https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok"
@@ -18008,6 +18026,24 @@
       "duration_ms": 166406,
       "name": "princess peach",
       "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
+        "name": "principiante",
+        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "principiante",
+      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
     },
     {
       "album": {

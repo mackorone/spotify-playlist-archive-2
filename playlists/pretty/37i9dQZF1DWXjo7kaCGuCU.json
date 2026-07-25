@@ -1,12 +1,12 @@
 {
-  "description": "Celebrating 20 years of R&B from around the world",
-  "num_followers": 10727,
+  "description": "R&B from around the world",
+  "num_followers": 10828,
   "original_name": "Global R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYesN4fS3r/PLI6zyEYAdfX5zNy",
+  "snapshot_id": "AAAAACjI60ytUTWvIqiNqpmHp1XpyhW/",
   "tracks": [
     {
       "added_at": "2026-05-12 15:11:40",
@@ -25,40 +25,20 @@
       "url": "https://open.spotify.com/track/1i2uHUxvikWIzvzFpSv207"
     },
     {
-      "added_at": "2026-05-12 15:11:40",
+      "added_at": "2026-07-24 04:20:15",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
+      "duration_ms": 177217,
+      "name": "HOT TUBS",
+      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
     },
     {
       "added_at": "2026-06-12 07:53:45",
@@ -75,6 +55,22 @@
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-07-24 04:20:15",
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
     },
     {
       "added_at": "2026-06-12 07:53:45",
@@ -147,6 +143,42 @@
     {
       "added_at": "2026-05-12 15:11:40",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
+    },
+    {
+      "added_at": "2026-05-12 15:11:40",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "added_at": "2026-05-12 15:11:40",
+      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -175,6 +207,22 @@
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
+    },
+    {
+      "added_at": "2026-07-24 04:20:15",
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
       "added_at": "2026-06-12 07:53:45",
@@ -959,22 +1007,6 @@
     {
       "added_at": "2026-05-12 15:11:40",
       "album": {
-        "name": "B.A.E.Z",
-        "url": "https://open.spotify.com/album/3SAySuvjZwtjRF5gkHpkML"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 177024,
-      "name": "Decile - Remix",
-      "url": "https://open.spotify.com/track/6vSUJ3N18GyGxxFOjeSF36"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
         "name": "LOVE/HATE Pt. 2",
         "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
       },
@@ -1679,38 +1711,6 @@
     {
       "added_at": "2026-05-12 15:11:40",
       "album": {
-        "name": "VELVET SOUL (DELUXE)",
-        "url": "https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/08Le4mCaGYbQrmfjtKThnO"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
-        "name": "Licor",
-        "url": "https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Licor",
-      "url": "https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/73Tky1qFIK781fFTwVkfCj"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 235753,
       "name": "pensando direito",
       "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
-    },
-    {
-      "added_at": "2026-05-12 15:11:40",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE"
-      },
-      "artists": [
-        {
-          "name": "Darkua",
-          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE"
     },
     {
       "added_at": "2026-05-12 15:11:40",

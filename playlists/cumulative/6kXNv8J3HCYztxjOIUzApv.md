@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-332 songs - 20 hr 36 min
+333 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Home Improvement](https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Home Improvement](https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK) | 2:55 | 2024-10-18 |  |
 | [honestly i](https://open.spotify.com/track/2iA70Q4RrgppK7alU8D2gn) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 3:06 | 2025-05-30 |  |
 | [Hordes of Khan](https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Hordes of Khan](https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy) | 3:43 | 2025-06-06 |  |
+| [Horsemen](https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [HUN](https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ) | 4:35 | 2026-07-24 |  |
 | [House of Cards](https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:19 | 2021-10-29 | 2023-01-04 |
 | [House Of Straw](https://open.spotify.com/track/0s3ejGiMmzrVoK6zKhHDfA) | [Bury Your Dead](https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D) | [Beauty And The Breakdown](https://open.spotify.com/album/4mDtEEumv69lfTqwDwbM8D) | 4:02 | 2022-03-08 | 2023-01-05 |
 | [House On Fire](https://open.spotify.com/track/6EaGa19IlwQoB28FXba3GU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [House On Fire](https://open.spotify.com/album/4ZsxV8LXCcGnIszpQn82pV) | 3:14 | 2021-08-20 |  |

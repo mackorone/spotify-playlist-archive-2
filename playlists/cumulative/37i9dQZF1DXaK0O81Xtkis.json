@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Surfaces",
+  "description": "a little indie, a little pop, soda featuring Will Linley",
   "name": "soda",
   "tracks": [
     {
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210750,
       "name": "Boys in Skirts",
       "url": "https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 150797,
       "name": "Chloe Showed Me",
       "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
@@ -11113,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
+    },
+    {
+      "album": {
         "name": "Head In The Clouds",
         "url": "https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk"
       },
@@ -13750,6 +13768,24 @@
       "duration_ms": 202920,
       "name": "If I Could Read Minds",
       "url": "https://open.spotify.com/track/5r7COJiDQ8iV9Zp2iW8DFQ"
+    },
+    {
+      "album": {
+        "name": "If I Ever Talk To God",
+        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160120,
+      "name": "If I Ever Talk To God",
+      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
     },
     {
       "album": {
@@ -21514,7 +21550,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 167770,
       "name": "round and round",
       "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
@@ -22174,6 +22210,24 @@
       "duration_ms": 169000,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/2gTneFmEt5ycP3sxYENcEj"
+    },
+    {
+      "album": {
+        "name": "See You in the Summer",
+        "url": "https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "See You in the Summer",
+      "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
     },
     {
       "album": {
@@ -24022,7 +24076,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 199133,
       "name": "Stella",
       "url": "https://open.spotify.com/track/4tunPd5wjImciMBStM3NxL"
@@ -24708,6 +24762,24 @@
       "duration_ms": 187187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc"
+    },
+    {
+      "album": {
+        "name": "SUN FROM BOTH SIDES",
+        "url": "https://open.spotify.com/album/4FaVqDP2br0TqNX6Kb4tQQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Apolline",
+          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "SUN FROM BOTH SIDES",
+      "url": "https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD"
     },
     {
       "album": {

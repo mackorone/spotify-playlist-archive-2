@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-925 songs - 4 day 0 hr 34 min
+925 songs - 4 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 |  |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-30 | 2023-05-08 |
 | [No Longer Slaves](https://open.spotify.com/track/3k1SRcEZGJ8RFQADgUSTcy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [No Longer Slaves](https://open.spotify.com/album/4GlxFPsBe7r7ak8m4wAAj3) | 2:26 | 2025-01-17 | 2025-02-07 |
+| [No name like Jesus](https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [No Name Like Jesus \(Album\)](https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G) | 4:20 | 2026-07-24 |  |
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-30 | 2023-03-04 |
 | [No Regret](https://open.spotify.com/track/2V4cXp1Tg9YnyDI19iAsYg) | [Becky Ikereke](https://open.spotify.com/artist/4uXdxHseBIrIevs0nEdddk) | [No Regret](https://open.spotify.com/album/6FjYPGQCl7RNRH1k9NwwwN) | 5:45 | 2026-04-03 | 2026-05-22 |
 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 | 2024-08-16 | 2026-01-05 |
@@ -801,7 +802,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-06-07 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-12-05 |  |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-12 | 2023-06-23 |
-| [Track 4](https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [No Name Like Jesus \(Album\)](https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G) | 0:00 | 2026-07-24 |  |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2024-07-19 |  |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 | 2024-02-16 |
 | [Tumi Wura](https://open.spotify.com/track/47qGbczBW70Gp9FvCQ4juO) | [Bryt Music](https://open.spotify.com/artist/4lBV5Hg6XrKzTXCroACgYE), [Rev\. Kojo Oteng](https://open.spotify.com/artist/4YdIRRpQmah0MPtt6W5OWe) | [Tumi Wura](https://open.spotify.com/album/0eTPzQauuooUuj7zH7hs4Q) | 15:31 | 2026-07-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Charli xcx, Sam Smith, Tyla, The Strokes and more! ",
-  "num_followers": 1033596,
+  "num_followers": 1034550,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-07-23 23:00:42",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-07-23 23:00:42",
+      "album": {
         "name": "Light Over There",
         "url": "https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 246501,
       "name": "Light Over There",
       "url": "https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch"
+    },
+    {
+      "added_at": "2026-07-23 23:00:42",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "added_at": "2026-07-23 23:00:42",
@@ -191,7 +223,7 @@
     {
       "added_at": "2026-07-23 23:00:42",
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -201,8 +233,28 @@
         }
       ],
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:42",
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": "2026-07-23 23:00:42",
@@ -456,12 +508,12 @@
           "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
           "name": "Spice",
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
           "name": "Keys N Krates",
@@ -740,8 +792,8 @@
           "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 234840,
+      "name": "Royal Courts (Great Misfortune)",
       "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
     },
     {
@@ -1067,7 +1119,7 @@
     {
       "added_at": "2026-07-23 23:00:42",
       "album": {
-        "name": "days end",
+        "name": "day's end",
         "url": "https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam"
       },
       "artists": [
@@ -1077,7 +1129,7 @@
         }
       ],
       "duration_ms": 181381,
-      "name": "days end",
+      "name": "day's end",
       "url": "https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT"
     },
     {
@@ -1696,8 +1748,8 @@
           "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 263560,
+      "name": "Hatching",
       "url": "https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky"
     },
     {

@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Asco, Fredo
 
-1,131 songs - 2 day 7 hr 19 min
+1,132 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [E.V.O.L](https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [GAIAAAAAAAAAA˚](https://open.spotify.com/album/2ADlAbG9esTnNb7ygXGsTe) | 3:02 | 2026-04-02 | 2026-04-17 |
 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 | 2026-02-20 | 2026-02-27 |
 | [Earth Cry](https://open.spotify.com/track/03HBhifYfbxhI83tRSKJTK) | [MADELEINE](https://open.spotify.com/artist/6MOSscAqWtCilwmEt4b5vm) | [Earth Cry](https://open.spotify.com/album/2D0fFbNSj5LIAVmTO18DmA) | 4:08 | 2026-06-18 | 2026-06-26 |
+| [Easy](https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Easy](https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV) | 4:44 | 2026-07-24 |  |
 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 | 2026-07-17 |
 | [Easy Silence](https://open.spotify.com/track/3T8GmN1tKgSwWxlBMj0AM1) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Desire Lines](https://open.spotify.com/album/4qbBgoBqWJoYS1SeY2bEcJ) | 3:06 | 2025-10-23 | 2025-11-07 |
 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-20 | 2026-02-27 |
@@ -826,7 +827,7 @@
 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 | 2026-04-24 | 2026-05-08 |
 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 | 2026-06-25 | 2026-07-03 |
 | [Ride or Die](https://open.spotify.com/track/1eBWz6s8aMzM3znrbeTYhM) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Ride or Die](https://open.spotify.com/album/08TUmWFX8lSdEYJFc6N4mq) | 2:32 | 2026-05-21 | 2026-05-29 |
-| [Rise Up](https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Rise Up](https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt) | 3:26 | 2026-07-23 |  |
+| [Rise Up](https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Rise Up](https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt) | 3:26 | 2026-07-23 |  |
 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 | 2026-06-25 | 2026-07-10 |
 | [risky](https://open.spotify.com/track/5yz9WYVGhteTugXMM1WmGG) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [risky](https://open.spotify.com/album/1ZQ8UxrinfnaemqED89I4X) | 2:35 | 2025-12-05 | 2025-12-19 |
 | [Rivers End](https://open.spotify.com/track/4iU6dFUo07jr6jBuwaUUk8) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Rivers End](https://open.spotify.com/album/4GejwOc0Vi6eRZJzw05i6X) | 3:29 | 2026-05-15 | 2026-05-29 |

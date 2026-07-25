@@ -1,556 +1,332 @@
 {
-  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] LIVE SET including the voices of them on stage! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ub77c\uc774\ube0c\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1406,
+  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] BEST SET from Tokai and Hyelyn Joo! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ubca0\uc2a4\ud2b8\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "num_followers": 1412,
   "original_name": "Tune Up Meets Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADFi7olH43gkjsLwU6tP1cmM/sEm",
+  "snapshot_id": "AAAAAIxklP0ApUnyCas40z09Bljem0iK",
   "tracks": [
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Stuck in",
-        "url": "https://open.spotify.com/album/6WDMeJ2Xqahu4Ru5jT3kpa"
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 214146,
-      "name": "Stuck in",
-      "url": "https://open.spotify.com/track/2WhhlJUnanu0CaP5kxJoST"
+      "duration_ms": 201871,
+      "name": "round",
+      "url": "https://open.spotify.com/track/1NaDBli5yq02ienC980KcK"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "sunkissed",
-        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 160586,
-      "name": "PATIO",
-      "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
+      "duration_ms": 299850,
+      "name": "himawari",
+      "url": "https://open.spotify.com/track/58QdCb2qhECZzqtRnP5r79"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 192787,
-      "name": "Take it IZY",
-      "url": "https://open.spotify.com/track/2X1OyfxFiOZEz4WDZPA3Rb"
+      "duration_ms": 181530,
+      "name": "not us.",
+      "url": "https://open.spotify.com/track/0pqHwgmPKRM2GrPWrYcceR"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 105616,
-      "name": "Stage Comment from Izykite 1",
-      "url": "https://open.spotify.com/track/1Cmy5smO09fsnFNGyw1yKj"
+      "duration_ms": 182653,
+      "name": "Kyokuya Fumei",
+      "url": "https://open.spotify.com/track/0UfPo4BUMSlnjSw0XDIiL7"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "sunkissed",
-        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 173980,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0GoPuSuw6ouoYT56z9Zlh1"
+      "duration_ms": 245103,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/6boass6SaMAfmn0tj2v8UO"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "HEY",
-        "url": "https://open.spotify.com/album/6RVsAdRC0iDBXmpbYbDax7"
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 177346,
-      "name": "HEY",
-      "url": "https://open.spotify.com/track/6XDQkEUKnmAyOfoPW10j4a"
+      "duration_ms": 199687,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/2xhooxJtRz5mtBdKRjfjcG"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Glimpse of summer",
-        "url": "https://open.spotify.com/album/6FGWrApWPzH8j4z3DytqXP"
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 168322,
-      "name": "Glimpse of summer",
-      "url": "https://open.spotify.com/track/4LMrauwDzD6S99Ktt1mwQc"
+      "duration_ms": 225500,
+      "name": "Youth!",
+      "url": "https://open.spotify.com/track/5rTE0OVLHPW5fnLBxJaCsr"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 112576,
-      "name": "Stage Comment from Izykite 2",
-      "url": "https://open.spotify.com/track/2WyNuNaNcOt9uGMVEAWlyW"
+      "duration_ms": 191278,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "sunkissed",
-        "url": "https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb"
+        "name": "breathing.",
+        "url": "https://open.spotify.com/album/0S7EeOvk2OW1otZ3n0CmWj"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 171367,
-      "name": "Flower Pot",
-      "url": "https://open.spotify.com/track/3hfOKqTILdPD8oiM8Egssy"
+      "duration_ms": 203630,
+      "name": "brave",
+      "url": "https://open.spotify.com/track/6RJREMUzXHK2OWEB3VHihZ"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
         }
       ],
-      "duration_ms": 191041,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/6rtnAdEEwoWUQQOutvHn8s"
+      "duration_ms": 287112,
+      "name": "Tomodachi",
+      "url": "https://open.spotify.com/track/1QWt0mabbVIL01v1VxgpEM"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Reuben",
-        "url": "https://open.spotify.com/album/30bpwihRVMaxSS6PEbplDe"
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 153831,
-      "name": "Reuben",
-      "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
+      "duration_ms": 231376,
+      "name": "Crazy - Re-Make",
+      "url": "https://open.spotify.com/track/0kt2S0FV9DEGIOg247sT8b"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5uMlpLUKfhYTr6PoccWY5l"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 136240,
-      "name": "Stage Comment from Izykite 3",
-      "url": "https://open.spotify.com/track/3cvZyHT6rvsvScwszPHx1v"
+      "duration_ms": 170869,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/4UJFRYOpe3RC2yApdnrtTy"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+        "name": "Hair Cut",
+        "url": "https://open.spotify.com/album/79Mv4nSBIFvbgYPIy5FVB5"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
+      "duration_ms": 185773,
+      "name": "Hair Cut",
+      "url": "https://open.spotify.com/track/7vXq1s5Y76TFybSAiQmRkk"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "01",
-        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
       },
       "artists": [
         {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 203773,
-      "name": "yoonseul",
-      "url": "https://open.spotify.com/track/4o25sdyOvubfRSk0cP1TXL"
+      "duration_ms": 83368,
+      "name": "501",
+      "url": "https://open.spotify.com/track/5oHKOV9NbJ7JHvYuXTnHeA"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "01",
-        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
+        "name": "stereo",
+        "url": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ"
       },
       "artists": [
         {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 201360,
-      "name": "fireworks",
-      "url": "https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh"
+      "duration_ms": 156351,
+      "name": "909 jam",
+      "url": "https://open.spotify.com/track/6kXp2dhHPbUwmS2DHskU0T"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
       },
       "artists": [
         {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 83437,
-      "name": "Stage Comment from gongwon 1",
-      "url": "https://open.spotify.com/track/5i59fkiV2fPv0kAPKiQQFu"
+      "duration_ms": 254605,
+      "name": "Busy Boy - Re-Make",
+      "url": "https://open.spotify.com/track/5eBM5qATb1IfJvNzGuS2GX"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "escape",
-        "url": "https://open.spotify.com/album/3rSKwvQZRfKOvKCHcHa77w"
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
       },
       "artists": [
         {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 214362,
-      "name": "escape",
-      "url": "https://open.spotify.com/track/1UOVCDjkiXLmQ4vvcI7Lkt"
+      "duration_ms": 210909,
+      "name": "Kiss!",
+      "url": "https://open.spotify.com/track/6SMoQzbPciDEShRokLbKLO"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
+        "name": "stereo",
+        "url": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ"
       },
       "artists": [
         {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 55546,
-      "name": "Stage Comment from gongwon 2",
-      "url": "https://open.spotify.com/track/4vHAt0Ze6Xxq0zJqoVyppi"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "01",
-        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "blind",
-      "url": "https://open.spotify.com/track/6u6GXCYredrdGAHJ0sWANv"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "01",
-        "url": "https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "doors",
-      "url": "https://open.spotify.com/track/4jPdoEjNEDtOj76ZdNRj4h"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 84736,
-      "name": "Stage Comment from gongwon 3",
-      "url": "https://open.spotify.com/track/30irByUcI25l0B7Q3GBGLJ"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/4crMQvV6BNVcEu7ei8pnd1"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE"
-      },
-      "artists": [
-        {
-          "name": "gongwon",
-          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
-        }
-      ],
-      "duration_ms": 212393,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "'Bluish' Remix",
-        "url": "https://open.spotify.com/album/0atOvYSkgjYDEdxqJcaM0V"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Lost in the Midnight (KIRARA Remix)",
-      "url": "https://open.spotify.com/track/6qQeMtjvMLKWvyeCRS870k"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "polarity",
-        "url": "https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Though we have no voice",
-      "url": "https://open.spotify.com/track/40Y6nEq38QkdwsYjViNc8q"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 127888,
-      "name": "Stage Comment from KIM PUREUM 1",
-      "url": "https://open.spotify.com/track/354azFQaorYlYweFzlDzFe"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "polarity",
-        "url": "https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Hedgehog Who Loved a Chestnut Burr",
-      "url": "https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "polarity",
-        "url": "https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "The peach",
-      "url": "https://open.spotify.com/track/0DbfLsqEQ9v448RAfZQT6o"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/7vv4Tt7mGvnnmMO8e6KBC3"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "BlaCk and wHite",
-      "url": "https://open.spotify.com/track/7ydLdMjsLFku078oF7i9D0"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "Dream that can never be",
-        "url": "https://open.spotify.com/album/1j58JtfBwhk3tfRUjYduF3"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Dream that can never be",
-      "url": "https://open.spotify.com/track/0DBtDNmdnmJljCfoJcVnrU"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "Tune Up Meets Fresh Finds Vol. 2 Audio Liners",
-        "url": "https://open.spotify.com/album/7JcfJHecFDLap4LQE5SGib"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 173824,
-      "name": "Stage Comment from KIM PUREUM 2",
-      "url": "https://open.spotify.com/track/3g924pJyqMCRAQjdDDgbhJ"
-    },
-    {
-      "added_at": "2026-02-13 03:00:17",
-      "album": {
-        "name": "\u2018BLUISH\u2019 Unplugged",
-        "url": "https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
       "duration_ms": 195000,
-      "name": "A Hermit Crab",
-      "url": "https://open.spotify.com/track/1ZUYnMRP3r9FVAcGVeCLZh"
+      "name": "Busy Boy",
+      "url": "https://open.spotify.com/track/5scNLPks8Dntf8dCuZ8Zur"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "polarity",
-        "url": "https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7pRo9w6Bgf1520ASHTHWCT"
       },
       "artists": [
         {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/0e3royWpDVFXLzJyI8kcz7"
+      "duration_ms": 163333,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0ptq5eaczcc9ioADsJNGfr"
     },
     {
-      "added_at": "2026-02-13 03:00:17",
+      "added_at": "2026-07-24 03:00:22",
       "album": {
-        "name": "TEENS",
-        "url": "https://open.spotify.com/album/2fIBmFkOU6Tt1Xs6JHuTGU"
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
       },
       "artists": [
         {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Even though your life makes you suffer",
-      "url": "https://open.spotify.com/track/5u6cQKl9RqckL6xGntXsOU"
+      "duration_ms": 205650,
+      "name": "Hair Cut - Re-Make",
+      "url": "https://open.spotify.com/track/3c0anSTjsn20lztbBmZt03"
     }
   ],
   "unique_name": "Tune Up Meets Fresh Finds",

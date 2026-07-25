@@ -21619,6 +21619,24 @@
     },
     {
       "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/2tuiV2jdBZWxvGO8QMqLLx"
+      },
+      "artists": [
+        {
+          "name": "MiiNDS",
+          "url": "https://open.spotify.com/artist/1xZLsUvbXgEeYWl6rGXnmt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/4exObiIeBRJWqkMjFtPxQU"
+    },
+    {
+      "album": {
         "name": "Top Now",
         "url": "https://open.spotify.com/album/5iLlpCTNZy90Q536qcl9iX"
       },

@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177225,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
+    },
+    {
+      "album": {
         "name": "BABYDOLL",
         "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
       },
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 147640,
       "name": "Fort",
       "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
@@ -8866,6 +8884,24 @@
       "duration_ms": 181376,
       "name": "I Know U Know",
       "url": "https://open.spotify.com/track/2EFNCr1kRsyLmryWA3M8xF"
+    },
+    {
+      "album": {
+        "name": "I LIKE IT!",
+        "url": "https://open.spotify.com/album/4mrKh7mjgcuDOpoLP8oXTx"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178799,
+      "name": "I LIKE IT!",
+      "url": "https://open.spotify.com/track/0anRufXYSv3X8hCpVIY7fw"
     },
     {
       "album": {
@@ -13162,7 +13198,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202614,
       "name": "Oops (it's a bad idea)",
       "url": "https://open.spotify.com/track/2hsilQOlgcV5QtlBFuhhDK"
@@ -15141,6 +15177,24 @@
     },
     {
       "album": {
+        "name": "RUMOURS",
+        "url": "https://open.spotify.com/album/6RPTzdGooT79n9Bsbt3egq"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196362,
+      "name": "RUMOURS",
+      "url": "https://open.spotify.com/track/1i75EU9PVdgpbGHduHclqd"
+    },
+    {
+      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -16748,7 +16802,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223524,
       "name": "Steering (So Fast)",
       "url": "https://open.spotify.com/track/3wIe1eSu0GVjKi3T5nrcye"
@@ -18338,7 +18392,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 172909,
       "name": "TOPIC",
       "url": "https://open.spotify.com/track/7cBUrEp6z8ra9hHxTpA0XE"

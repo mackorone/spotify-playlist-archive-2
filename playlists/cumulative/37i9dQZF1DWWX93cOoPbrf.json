@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "CHOLOGANTE",
+        "url": "https://open.spotify.com/album/5abJEDstBapAlyrzQWbfI5"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "CHOLOGANTE",
+      "url": "https://open.spotify.com/track/6DbVaqg26bLbTG7GU2cMzS"
+    },
+    {
+      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 128976,
       "name": "Coco Psycho",
       "url": "https://open.spotify.com/track/1cHymaeuE7kkVdzgFZHi8I"
@@ -6244,7 +6262,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219605,
       "name": "CUANDO FUERA GRANDE",
       "url": "https://open.spotify.com/track/7CB0RrvVDm3hLF7mElg6er"
@@ -7192,7 +7210,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 178327,
       "name": "Derecha La Flecha",
       "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
@@ -9172,6 +9190,24 @@
       "duration_ms": 180292,
       "name": "El Bule y La Llave",
       "url": "https://open.spotify.com/track/1H8WH2klCKS8Cy3Wc114nf"
+    },
+    {
+      "album": {
+        "name": "El Caballero",
+        "url": "https://open.spotify.com/album/6yzbOTfkRmfZU6lqEynB46"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180912,
+      "name": "El Caballero",
+      "url": "https://open.spotify.com/track/108fKCiefzast0veFseUc0"
     },
     {
       "album": {
@@ -11574,7 +11610,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 161000,
       "name": "El Federal De Caminos",
       "url": "https://open.spotify.com/track/3LICuqg5kjcNKUBsYgYWEM"
@@ -13188,6 +13224,24 @@
       "duration_ms": 148348,
       "name": "El Mando",
       "url": "https://open.spotify.com/track/12fE6TXLpF5HZmZKpTe0ga"
+    },
+    {
+      "album": {
+        "name": "El Mando De Los Aretes",
+        "url": "https://open.spotify.com/album/7EWoxgO1BkEc0r3Tb9VoLz"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133984,
+      "name": "El Mando De Los Aretes",
+      "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
     },
     {
       "album": {
@@ -16876,7 +16930,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 207250,
       "name": "Entre Hierba, Polvo Y Plomo",
       "url": "https://open.spotify.com/track/2qjxDegrKCtS7754yRnpA3"
@@ -17516,7 +17570,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 131392,
       "name": "EXOTIC\u00d3N ll",
       "url": "https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D"
@@ -25042,7 +25096,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186125,
       "name": "Los Cuadros (En Vivo)",
       "url": "https://open.spotify.com/track/7C2tv3mhtVvHrB3w1bSRN1"
@@ -26829,6 +26883,28 @@
     },
     {
       "album": {
+        "name": "ME MIRAN",
+        "url": "https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "ME MIRAN",
+      "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"
+    },
+    {
+      "album": {
         "name": "Me Monte El Pecheron (En Vivo)",
         "url": "https://open.spotify.com/album/25qxjhofv544RifmdtgBwv"
       },
@@ -28308,6 +28384,24 @@
       "duration_ms": 167360,
       "name": "MORRO MA\u00d1OSO",
       "url": "https://open.spotify.com/track/2tNSQeKEVtrsMhRYixazni"
+    },
+    {
+      "album": {
+        "name": "Ay Weyy",
+        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154699,
+      "name": "Mostaza",
+      "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
     },
     {
       "album": {
@@ -30010,6 +30104,32 @@
       "duration_ms": 165641,
       "name": "OTRO WHISKY",
       "url": "https://open.spotify.com/track/5TWvv3OwTeMkzSt038TBxB"
+    },
+    {
+      "album": {
+        "name": "Pa la Ma\u00f1a",
+        "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159937,
+      "name": "Pa la Ma\u00f1a",
+      "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
     },
     {
       "album": {
@@ -32888,6 +33008,28 @@
       "duration_ms": 161658,
       "name": "Rolex En La Mano",
       "url": "https://open.spotify.com/track/2msxK38yw1wEDNcJUd77Xv"
+    },
+    {
+      "album": {
+        "name": "Rolex En Mano",
+        "url": "https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Rolex En Mano",
+      "url": "https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt"
     },
     {
       "album": {

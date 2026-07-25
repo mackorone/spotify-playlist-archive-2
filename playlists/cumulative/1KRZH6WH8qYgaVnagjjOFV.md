@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship fifa
 
-220 songs - 14 hr 32 min
+222 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Just That Good](https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:18 | 2026-04-14 | 2026-05-23 |
 | [Just That Good \- Radio Version](https://open.spotify.com/track/0hPtOfyIozo3DPPo1JNqG4) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/2BGm18YT9Acvysh7cQYcBE) | 3:55 | 2026-05-22 |  |
 | [Keep Holding On](https://open.spotify.com/track/18LAMqd3ViKlFfD4KfpwMS) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Keep Holding On](https://open.spotify.com/album/5RRdPaijeJtKuOyhhnHTOP) | 3:21 | 2025-08-04 |  |
+| [Lean In](https://open.spotify.com/track/6FEoJFSGPLBw03T0SJ7sF0) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Lean In](https://open.spotify.com/album/1FMrGozlbBfIZwUtf8pqQW) | 2:46 | 2026-07-24 |  |
 | [Left It In The River](https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Left It In The River](https://open.spotify.com/album/4sFdV25QCnfJSAHvfd4SYC) | 2:58 | 2025-08-01 | 2026-01-15 |
 | [Left It In The River](https://open.spotify.com/track/5cwnrGTvTehFbKGVffDQPi) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [My Family](https://open.spotify.com/album/44DKKlkJe7qIEAjK3qsyTS) | 2:58 | 2026-01-09 | 2026-01-24 |
 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 | 2026-01-23 |  |
@@ -137,7 +138,7 @@
 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-08 |  |
 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 | 2024-11-01 |  |
 | [Me & Jesus](https://open.spotify.com/track/02j7pikjgJqmmQUBr23zPt) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:42 | 2026-07-10 |  |
-| [Menace](https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Menace](https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK) | 3:21 | 2026-06-05 |  |
+| [Menace](https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Menace](https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK) | 3:21 | 2026-06-05 | 2026-07-25 |
 | [Mercy / Tremble](https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:42 | 2025-01-31 | 2025-09-20 |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:02 | 2025-02-28 |  |
 | [Miracle](https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Miracle](https://open.spotify.com/album/7xBjfEcq2Fx5hoBhPwimsL) | 3:39 | 2025-01-31 | 2025-09-20 |
@@ -197,6 +198,7 @@
 | [The Joy \- Studio Version](https://open.spotify.com/track/6VDHBVXR8CBH1Ef2sJMTp2) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP) | [The Joy \(Studio Version\)](https://open.spotify.com/album/3rIpCCkzBAOlcQkELrRaH5) | 3:56 | 2025-06-06 | 2026-03-17 |
 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 | 2025-01-31 |  |
 | [The Prodigal](https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/1VI09clJhudhhJ88pARERD) | 3:13 | 2024-07-23 |  |
+| [The Real Thing](https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [The Real Thing](https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF) | 3:31 | 2026-07-24 |  |
 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 | 2025-04-04 |  |
 | [The Water](https://open.spotify.com/track/7wA1KK75SuO4XfhfNPfbbT) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [The Water](https://open.spotify.com/album/0f7z0a9cYtbbCA69Oj9iVk) | 3:34 | 2026-03-20 |  |
 | [The Whole Thing](https://open.spotify.com/track/5T4woyRHLR2kKuap047Oa3) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:51 | 2025-09-12 | 2026-05-18 |

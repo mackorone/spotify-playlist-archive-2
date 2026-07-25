@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Madonna, Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,655 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,711 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 58 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |
 | 59 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
 | 60 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
-| 61 | [Echo](https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Echo \(FIFA World Cup 2026™\)](https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH) | 2:15 |
-| 62 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
+| 61 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
+| 62 | [Echo](https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Echo \(FIFA World Cup 2026™\)](https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH) | 2:15 |
 | 63 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 64 | [Read My Lips \(FIFA World Cup 2026™\)](https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Official FIFA World Cup 2026™ Album \(Bonus Edition\)](https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo) | 2:46 |
 | 65 | [⁠⁠no debo :\(](https://open.spotify.com/track/5XycIQWzD3ofaE3BVklJh4) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:04 |

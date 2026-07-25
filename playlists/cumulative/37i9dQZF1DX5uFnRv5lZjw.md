@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-123 songs - 5 hr 10 min
+125 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 | 2025-05-02 |  |
 | [Goodbye Beverlywood](https://open.spotify.com/track/4fJjCw4Uhyx9Orpcgao7pk) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Goodbye Beverlywood](https://open.spotify.com/album/4emsJmeHX6e4AZnt9jRgCb) | 2:04 | 2025-11-05 |  |
 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-03-18 |  |
+| [Hands, Hollowed](https://open.spotify.com/track/07jV4eBPCbbysRVVZAMrjp) | [Emil Friis](https://open.spotify.com/artist/4xgBNe3JpHZGi7zGynH2XI) | [Hollow Hands](https://open.spotify.com/album/2UoWVjWgC676mCnguDKOVd) | 2:42 | 2026-07-24 |  |
 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 | 2025-03-07 |  |
 | [Hearth](https://open.spotify.com/track/7uk8WqCTD93lYCEKohkMIu) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K), [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Hearth](https://open.spotify.com/album/6Ku23VDzyckQn6aoyZJdYj) | 2:05 | 2026-05-29 |  |
 | [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 | 2025-03-07 | 2025-06-11 |
@@ -72,7 +73,8 @@
 | [Little Dove](https://open.spotify.com/track/0XSZ0ROOhFRnsHweQxFPAK) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Little Dove](https://open.spotify.com/album/0oQjdHvLzIEB2kcHpnOlVD) | 1:50 | 2026-07-03 |  |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
-| [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 |  |
+| [Lucid Dream](https://open.spotify.com/track/40rbmyx6wYloLKf4Ui9huc) | [Jonas Mire](https://open.spotify.com/artist/6kIVYoRlOEHANMZgX3g3JR) | [Lucid Dream](https://open.spotify.com/album/0cwXbQcbDAmX7gAubhViWn) | 2:19 | 2026-07-24 |  |
+| [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 | 2026-07-25 |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 | 2026-05-30 |
 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 | 2025-06-11 |
 | [Mountains Remember](https://open.spotify.com/track/2WqinVHDaNDPJJhalg8xxN) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Mountains Remember](https://open.spotify.com/album/3JUpK9eGNktbn0fzygcNpI) | 2:32 | 2025-12-01 |  |
@@ -83,9 +85,9 @@
 | [Not meant to be](https://open.spotify.com/track/3uvuDQEnZQIHWQGw2bzFaN) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Not meant to be](https://open.spotify.com/album/6EkArqSeNIiXBHWx72gMsQ) | 2:11 | 2025-11-05 |  |
 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-03-07 |  |
 | [Out of Sight, Within Reach](https://open.spotify.com/track/1WpLGmCjRHeOK02a6twUyL) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Out of Sight, Within Reach](https://open.spotify.com/album/4hpQy0MfXPoBLeQwjmwUMe) | 2:25 | 2025-07-16 |  |
-| [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 | 2025-03-07 |  |
+| [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 | 2025-03-07 | 2026-07-25 |
 | [Patterns](https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Patterns](https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU) | 2:30 | 2026-05-29 |  |
-| [Piave](https://open.spotify.com/track/5DCyPiUqIsQbvEUgcfNcRF) | [Seren Rhys](https://open.spotify.com/artist/1s5Ua8B6OhCvPYwFqAUe2j) | [Piave](https://open.spotify.com/album/4A94Hfby7t1bEQQOQkUrhp) | 2:35 | 2025-04-16 |  |
+| [Piave](https://open.spotify.com/track/5DCyPiUqIsQbvEUgcfNcRF) | [Seren Rhys](https://open.spotify.com/artist/1s5Ua8B6OhCvPYwFqAUe2j) | [Piave](https://open.spotify.com/album/4A94Hfby7t1bEQQOQkUrhp) | 2:35 | 2025-04-16 | 2026-07-25 |
 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-03-07 |  |
 | [Remains Of The Day](https://open.spotify.com/track/25nabFKD0CMJKhvP4qtFUM) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Remains Of The Day](https://open.spotify.com/album/5GCoV5qKlqrpY083S90IfG) | 2:04 | 2025-04-02 | 2026-05-30 |

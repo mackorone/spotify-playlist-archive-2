@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,126 likes - 90 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,217 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 4 | [Numero Uno](https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [2026 Golden Run](https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg) | 2:53 |
 | 5 | [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 |
 | 6 | [Dide](https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [Dide](https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6) | 2:01 |
-| 7 | [OMO TI O COMMON II](https://open.spotify.com/track/6c7htMDbZDeB2jA8IlgpmK) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [L.A.X](https://open.spotify.com/artist/5JJKyzeEsr65Hcptci87kP), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [OMO TI O COMMON II](https://open.spotify.com/album/5l3cUHPycvUZmqeYAkjefL) | 2:51 |
+| 7 | [OMO TI O COMMON II](https://open.spotify.com/track/6c7htMDbZDeB2jA8IlgpmK) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [OMO TI O COMMON II](https://open.spotify.com/album/5l3cUHPycvUZmqeYAkjefL) | 2:51 |
 | 8 | [Lifestyle \(YA MAN\)](https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lifestyle \(YA MAN\)](https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T) | 2:15 |
 | 9 | [CHASE](https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [CHASE](https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0) | 2:19 |
 | 10 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |

@@ -9457,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "Dicht bij mij",
+        "url": "https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151097,
+      "name": "Hij",
+      "url": "https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx"
+    },
+    {
+      "album": {
         "name": "Hij Is Bij Mij",
         "url": "https://open.spotify.com/album/7wk2eO8BSm1Kb72zwITHX9"
       },
@@ -21640,24 +21658,6 @@
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
-    },
-    {
-      "album": {
-        "name": "Dicht bij mij",
-        "url": "https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx"
     },
     {
       "album": {

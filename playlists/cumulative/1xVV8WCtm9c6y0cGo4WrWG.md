@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Pulse](https://open.spotify.com/playlist/1xVV8WCtm9c6y0cGo4WrWG)
 
-> For the next 5 weeks, the Hoop Queens are taking over the Hip Hop Pulse Playlist—curating the sounds that fuel their game on and off the court\. It’s not just a takeover\. It’s a full\-court statement\.  Curated by: Team Charge
+> For the next 5 weeks, the Hoop Queens are taking over the Hip Hop Pulse Playlist—curating the sounds that fuel their game on and off the court\. It’s not just a takeover\. It’s a full\-court statement\.  Curated by: Team Blaze
 
-536 songs - 1 day 3 hr 19 min
+537 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Hustler Musik](https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 5:03 | 2026-07-11 |  |
 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 | 2023-11-03 | 2024-06-29 |
 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 | 2023-11-03 | 2023-12-20 |
+| [I See Why](https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I See Why](https://open.spotify.com/album/4HzdDbgWaDHLkLbhOuBb82) | 3:03 | 2026-07-24 |  |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-11-03 | 2024-06-29 |
 | [Ice Me](https://open.spotify.com/track/4DRrkGW5OpK80HzMSk7mGu) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Ice Me](https://open.spotify.com/album/7DcjUsuRBzr5K3lxOsFCFm) | 2:33 | 2024-06-14 | 2024-09-10 |
 | [Ice Spice](https://open.spotify.com/track/5urWEm3xpFTiek4qSHouQZ) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [Ice Spice](https://open.spotify.com/album/1uvDNSW0TUyxkcfyLyZJtC) | 2:09 | 2023-11-03 | 2024-05-06 |

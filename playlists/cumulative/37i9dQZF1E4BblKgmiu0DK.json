@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 183721,
       "name": "Air",
       "url": "https://open.spotify.com/track/4k99jKmn6BNhTlrMc6Mkto"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 188626,
       "name": "Badway",
       "url": "https://open.spotify.com/track/2xnolu3GnPG0Ohxa93yZVY"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 231179,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/49U2o6XyolQDEry3dYfCnG"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 275306,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/08bgaYICwxNPb8gRyp08iX"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 120760,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/6PXxXvo6C9BYazgiIhYCbW"
@@ -3243,6 +3243,28 @@
     },
     {
       "album": {
+        "name": "Fastball",
+        "url": "https://open.spotify.com/album/18Vt3CJdl0TfYvQilPf3Sn"
+      },
+      "artists": [
+        {
+          "name": "LWS Prod",
+          "url": "https://open.spotify.com/artist/3QUPbwJcoAGRmYmLXRLAzd"
+        },
+        {
+          "name": "Bec Hollcraft",
+          "url": "https://open.spotify.com/artist/0TfDycuAwMtUh1nwWfkd7r"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212341,
+      "name": "Fastball",
+      "url": "https://open.spotify.com/track/208Sa3W9kqFpsZqRCPmjXb"
+    },
+    {
+      "album": {
         "name": "Fear Not",
         "url": "https://open.spotify.com/album/5NAj9psglYIuFQJgIyfmsd"
       },
@@ -3272,7 +3294,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -4259,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Here Come The Girls",
+      "url": "https://open.spotify.com/track/3OYxOT1eMI8IvO5iw2aJLL"
+    },
+    {
+      "album": {
         "name": "Bitchin'",
         "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
       },
@@ -4306,7 +4346,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223812,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/5FLkdgrcmn9w9wC2E91icQ"
@@ -5482,7 +5522,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -6722,7 +6762,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -6758,7 +6798,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -7183,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Killing Heidi",
+        "url": "https://open.spotify.com/album/58XSU5E887F7gMK98VGWiB"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244586,
+      "name": "Not For Me",
+      "url": "https://open.spotify.com/track/3DVDV4iMaFQrnej5Dwz7ww"
+    },
+    {
+      "album": {
         "name": "Revenge of the Nearly Deads",
         "url": "https://open.spotify.com/album/06cPgu1TGPbbMuziuNcwNY"
       },
@@ -7302,7 +7360,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201434,
       "name": "Now & Always",
       "url": "https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp"
@@ -7756,7 +7814,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 227453,
       "name": "Outta Nowhere",
       "url": "https://open.spotify.com/track/6BKh4T3IFUq139xk3dWbCL"
@@ -7882,7 +7940,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -8084,7 +8142,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -8516,7 +8574,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 111079,
       "name": "Saffa Thunder Circuit",
       "url": "https://open.spotify.com/track/47Dq0bOMpW8nx9iWqHhp9O"
@@ -8776,7 +8834,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 89999,
       "name": "Shibuya Spark Surge",
       "url": "https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH"
@@ -9230,7 +9288,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -9248,7 +9306,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "Sticky Honey",
       "url": "https://open.spotify.com/track/5NXsSgIvDLPmazTKCkcPys"
@@ -9331,6 +9389,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Strangelove",
+      "url": "https://open.spotify.com/track/2LoucLj9QloDXc7ajWobVX"
+    },
+    {
+      "album": {
         "name": "Strangers Maybe",
         "url": "https://open.spotify.com/album/4vUEzsykzv3oTgZ3E2Rosg"
       },
@@ -9346,6 +9422,24 @@
       "duration_ms": 253504,
       "name": "Strangers Maybe",
       "url": "https://open.spotify.com/track/6ACIERQsynWxTMibwZmAEz"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Stuck Inside A Dream",
+      "url": "https://open.spotify.com/track/7bAI4PaP79fqpN5wymZEDp"
     },
     {
       "album": {
@@ -9378,7 +9472,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -9634,7 +9728,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223654,
       "name": "The Black Hole In The Sky",
       "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
@@ -9742,7 +9836,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -9890,7 +9984,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217000,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/2nLcGjxoSbVrgdUwtMcJxs"
@@ -10650,7 +10744,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -10974,7 +11068,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 154386,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/5rmvHsh0W46tZWioPDNlwa"

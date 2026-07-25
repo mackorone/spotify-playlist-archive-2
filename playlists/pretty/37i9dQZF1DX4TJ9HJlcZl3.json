@@ -1,13 +1,29 @@
 {
-  "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 20903,
+  "description": "Still yachting. Cover: TOAST CLUB",
+  "num_followers": 20904,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnHxUkrTo15RMF+4BlYA435n4JR",
+  "snapshot_id": "AAAAAN/K/PZcsWsEVOo0ZbNl7ryYtxb/",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
+      },
+      "artists": [
+        {
+          "name": "TOAST CLUB",
+          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
+    },
     {
       "added_at": "2026-05-29 04:00:21",
       "album": {
@@ -743,22 +759,6 @@
       "duration_ms": 215261,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Persimmon",
-        "url": "https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN"
-      },
-      "artists": [
-        {
-          "name": "Maya Killtron",
-          "url": "https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Out of My Life",
-      "url": "https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p"
     },
     {
       "added_at": "2023-09-01 04:00:00",

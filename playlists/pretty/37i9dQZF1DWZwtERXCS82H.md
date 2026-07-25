@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,278 likes - 144 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,506 likes - 144 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 143 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 |
 | 144 | [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 |
 
-Snapshot ID: `AAAAAAYc9EzQCHI/BwzUJKvmMhSjnHo2`
+Snapshot ID: `AAAAAF2boVUwLsm8OfDl8JDk4GrsM21g`

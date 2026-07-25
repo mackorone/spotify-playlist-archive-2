@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 30570,
+  "num_followers": 30585,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAArRIB3zfM5OX5rkE9pFvdz",
+  "snapshot_id": "amFZgAAAAAAOKEcQO+RGHro7nrSqFFRK",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Fueled by 808",
-          "url": "https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X"
         }
       ],
-      "duration_ms": 230982,
-      "name": "Good Time Boy",
-      "url": "https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu"
+      "duration_ms": 164693,
+      "name": "Bar Breaker",
+      "url": "https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz"
     },
     {
       "added_at": null,
@@ -128,13 +124,13 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         },
         {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
+          "name": "Fueled by 808",
+          "url": "https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X"
         }
       ],
-      "duration_ms": 160729,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
+      "duration_ms": 230982,
+      "name": "Good Time Boy",
+      "url": "https://open.spotify.com/track/7t9Vlxh55VXgIHoid3RAx7"
     },
     {
       "added_at": null,
@@ -151,22 +147,6 @@
       "duration_ms": 176053,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Bar Breaker",
-      "url": "https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz"
     },
     {
       "added_at": null,
@@ -191,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "A Crawl Through a Low Tide",
-      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cutthroat",
         "url": "https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS"
       },
@@ -219,6 +183,26 @@
       "duration_ms": 187060,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
+        }
+      ],
+      "duration_ms": 160729,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
     },
     {
       "added_at": null,
@@ -255,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Brrrr (with E-40)",
-      "url": "https://open.spotify.com/track/741Jn3NmTx7mzD2b3OcA9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pookie Baby",
         "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
       },
@@ -287,6 +251,22 @@
       "duration_ms": 210186,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "A Crawl Through a Low Tide",
+      "url": "https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay"
     },
     {
       "added_at": null,
@@ -327,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 177159,
-      "name": "Big Wheels",
-      "url": "https://open.spotify.com/track/510UGYN1NSibhXkYvXmEBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pookie Baby",
         "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
       },
@@ -355,6 +319,26 @@
       "duration_ms": 188813,
       "name": "Andre The Giant",
       "url": "https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Brrrr (with E-40)",
+      "url": "https://open.spotify.com/track/741Jn3NmTx7mzD2b3OcA9o"
     },
     {
       "added_at": null,
@@ -399,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Boy",
-        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 148928,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feed the Dogs",
         "url": "https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 203334,
       "name": "Feed the Dogs",
       "url": "https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 177159,
+      "name": "Big Wheels",
+      "url": "https://open.spotify.com/track/510UGYN1NSibhXkYvXmEBN"
     },
     {
       "added_at": null,
@@ -579,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 180349,
-      "name": "Animal Patrol",
-      "url": "https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Fishin",
         "url": "https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM"
       },
@@ -611,6 +579,22 @@
       "duration_ms": 117894,
       "name": "Gone Fishin",
       "url": "https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 180349,
+      "name": "Animal Patrol",
+      "url": "https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY"
     },
     {
       "added_at": null,

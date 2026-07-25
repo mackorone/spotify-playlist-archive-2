@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
         },
         {
-          "name": "Mc Dricka",
+          "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira",
       "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 126511,
       "name": "Vagabunda do Caralho",
       "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"

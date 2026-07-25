@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-123 songs - 7 hr 27 min
+124 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [橙](https://open.spotify.com/track/6OWJHb4xcFoDtsIPn7eUXi) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [橙](https://open.spotify.com/album/10HOtqMUc3B8o8p0XBgluc) | 3:22 | 2022-10-06 |  |
 | [爪先](https://open.spotify.com/track/3UYMGyBW0HUK6Hsik5Ytci) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 3:55 | 2022-10-06 |  |
 | [種をまく日々](https://open.spotify.com/track/7bcoRv64q9scHXBpwnXw7j) | [Kousuke Atari](https://open.spotify.com/artist/7b8ldacdKpE3AtFaXQu1AG) | [種をまく日々](https://open.spotify.com/album/1KPH9Dyo72FqqHuBaJqa4o) | 5:37 | 2022-10-06 |  |
+| [螺旋 \- RASEN](https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [螺旋 \- RASEN](https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3) | 3:10 | 2026-07-24 |  |
 | [言葉にせずとも](https://open.spotify.com/track/4NqQsjG9k9tCChdp51jX8V) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [言葉にせずとも](https://open.spotify.com/album/2I6gEniIx6d4bJ2ozNcnpc) | 3:13 | 2024-10-03 |  |
 | [＊〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [＊〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 | 2022-10-06 |  |
 

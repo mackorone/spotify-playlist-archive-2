@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Deep Indigo",
+        "url": "https://open.spotify.com/album/4o2g5IN3bfE6UNBTlKWdlI"
+      },
+      "artists": [
+        {
+          "name": "Loumi Des Moines",
+          "url": "https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208674,
+      "name": "Deep Indigo",
+      "url": "https://open.spotify.com/track/6d8UtyuPW1SdsYQydFTJDs"
+    },
+    {
+      "album": {
         "name": "Displacement",
         "url": "https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S"
       },

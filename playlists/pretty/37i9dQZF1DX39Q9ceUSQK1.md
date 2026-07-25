@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,840 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,848 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Nothing](https://open.spotify.com/track/3VfiR8Ikkdx9H8CKaBkVwL) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Slow Death Of A Good Girl](https://open.spotify.com/album/7cjBiziS9cTyXLM9VCKL2h) | 4:47 |
 | 100 | [wake up](https://open.spotify.com/track/4Gfc7k9NB7Sq6aiZuXvlie) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [wake up](https://open.spotify.com/album/38Jr3Cju79Oif4kswLPnYd) | 4:44 |
 
-Snapshot ID: `AAAAAKgE6nO+PJQq5sKNNf2i/PpYzxEK`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

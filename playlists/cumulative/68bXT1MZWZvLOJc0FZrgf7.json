@@ -9979,6 +9979,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/2JU7dJD4YtlkI7xM8TQt85"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "ALAN SHIRAHAMA",
+          "url": "https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4AayMvfW5LMJnjWxuVNLGs"
+    },
+    {
+      "album": {
         "name": "Lose It All (I Don't Wanna)",
         "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
@@ -10588,6 +10610,32 @@
       "duration_ms": 204297,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ"
+    },
+    {
+      "album": {
+        "name": "MADEIRA PXTA",
+        "url": "https://open.spotify.com/album/0Rgx3Ar93TNsIF2jwJX24R"
+      },
+      "artists": [
+        {
+          "name": "beaszty",
+          "url": "https://open.spotify.com/artist/0CHmYnYjl14snoTcqHpHB0"
+        },
+        {
+          "name": "FRVGME",
+          "url": "https://open.spotify.com/artist/5THhuqmUaFoBApCAowoYXQ"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102346,
+      "name": "MADEIRA PXTA",
+      "url": "https://open.spotify.com/track/7iqsERTxbpOdCm8QK5GkYF"
     },
     {
       "album": {

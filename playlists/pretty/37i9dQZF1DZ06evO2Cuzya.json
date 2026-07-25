@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 238501,
+  "num_followers": 238618,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAAD9exHLY0a+01bJHO3Y+AM",
+  "snapshot_id": "amFZgAAAAADx2UklLuFZQWtyzHPLFMTa",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 120340,
+      "name": "Minibar",
+      "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
     },
     {
       "added_at": null,
@@ -100,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 120340,
-      "name": "Minibar",
-      "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
+      "duration_ms": 216175,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/5a6p56me3eFdKXcWnsPtLE"
     },
     {
       "added_at": null,
@@ -168,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 216175,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/5a6p56me3eFdKXcWnsPtLE"
+      "duration_ms": 215157,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
     },
     {
       "added_at": null,
@@ -232,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 215157,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
+      "duration_ms": 243495,
+      "name": "Men Like You",
+      "url": "https://open.spotify.com/track/0rHAvHeAeCDaiZ8cHVefna"
     },
     {
       "added_at": null,
@@ -300,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 243495,
-      "name": "Men Like You",
-      "url": "https://open.spotify.com/track/0rHAvHeAeCDaiZ8cHVefna"
+      "duration_ms": 219645,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/0MZClqTDH4zdG8bn9RZLLP"
     },
     {
       "added_at": null,
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 219645,
-      "name": "Broke My Heart",
-      "url": "https://open.spotify.com/track/0MZClqTDH4zdG8bn9RZLLP"
+      "duration_ms": 171585,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5zMEt1dvOpGKaQVAWGFVfe"
     },
     {
       "added_at": null,
@@ -432,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 171585,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5zMEt1dvOpGKaQVAWGFVfe"
+      "duration_ms": 207300,
+      "name": "Afflictions",
+      "url": "https://open.spotify.com/track/6nKLYURHHtzzPx6Z3CjZTr"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Felt Good About You",
-      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": null,
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
+      "duration_ms": 164693,
+      "name": "Felt Good About You",
+      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
     },
     {
       "added_at": null,

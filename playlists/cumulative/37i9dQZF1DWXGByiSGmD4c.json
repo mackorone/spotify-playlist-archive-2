@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-07-14",
-  "description": "Enjoy the LE SSERAFIM WORLD TOUR [PUREFLOW] BEST SET for the upcoming concert! (\ub2e4\uac00\uc624\ub294 \ub974\uc138\ub77c\ud54c\uc758 \ud22c\uc5b4\ub97c \uc900\ube44\ud558\uba70 \ud788\ud2b8\uace1  BEST SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the LE SSERAFIM WORLD TOUR [PUREFLOW] LIVE set including the voices from stage! ! (\ub974\uc138\ub77c\ud54c \ub9f4\ubc84\ub4e4\uc758 \ubb34\ub300 \uba58\ud2b8\uac00 \ud3ec\ud568\ub41c [PUREFLOW] \ud22c\uc5b4  LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "LE SSERAFIM WORLD TOUR [PUREFLOW]",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 137178,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/0HsgIz531mkdxly35wKcwj"
+    },
+    {
+      "album": {
         "name": "DIFFERENT",
         "url": "https://open.spotify.com/album/7kEtCtHsaRjz0fIXbmUFNt"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 141133,
       "name": "DIFFERENT",
       "url": "https://open.spotify.com/track/4dtmokCqndq7CLaYsgAJlR"
@@ -164,6 +182,60 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM TOUR PUREFLOW Audio Liners",
+        "url": "https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 767566,
+      "name": "Encore Talk",
+      "url": "https://open.spotify.com/track/2ZodUljrELrtA1hACbChfa"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM TOUR PUREFLOW Audio Liners",
+        "url": "https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149983,
+      "name": "Ending Talk Pt.1",
+      "url": "https://open.spotify.com/track/51TjBTozd1LnY3MWVCdHnx"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM TOUR PUREFLOW Audio Liners",
+        "url": "https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127527,
+      "name": "Ending Talk Pt.2",
+      "url": "https://open.spotify.com/track/7ccVHdYMz4q7JVllSg8xV4"
     },
     {
       "album": {
@@ -257,6 +329,24 @@
     },
     {
       "album": {
+        "name": "LE SSERAFIM TOUR PUREFLOW Audio Liners",
+        "url": "https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Intro Talk",
+      "url": "https://open.spotify.com/track/0xLemUoKoqsEqEHLO0BhbQ"
+    },
+    {
+      "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
       },
@@ -293,6 +383,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166491,
+      "name": "No Celestial",
+      "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    {
+      "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
       },
@@ -304,7 +412,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187800,
       "name": "Pearlies (My oyster is the world)",
       "url": "https://open.spotify.com/track/2CfVDYfw0B4WUHaWxyjsU3"
@@ -336,6 +444,24 @@
         {
           "name": "LE SSERAFIM",
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109253,
+      "name": "Pureflow",
+      "url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
+    },
+    {
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         },
         {
           "name": "Aliyah's Interlude",
@@ -348,6 +474,24 @@
       "duration_ms": 164600,
       "name": "Saki (feat. Aliyah's Interlude)",
       "url": "https://open.spotify.com/track/7r2SJUMWUwghdXczQDSYST"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM TOUR PUREFLOW Audio Liners",
+        "url": "https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31131,
+      "name": "SAKI Intro",
+      "url": "https://open.spotify.com/track/07kqr0jfjwwPzQx8R0fKAE"
     },
     {
       "album": {
@@ -420,7 +564,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 157179,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp"

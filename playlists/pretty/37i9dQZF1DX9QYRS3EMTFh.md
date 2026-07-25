@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,997 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,011 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 3 | [One More Cup](https://open.spotify.com/track/3bWwvbFr42gRLsYvam2LRB) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [One More Cup](https://open.spotify.com/album/5fSCPUfbsqiBBk4lEZYqgR) | 2:02 |
 | 4 | [GOGOWINE](https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [GOGOWINE](https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58) | 2:19 |
 | 5 | [YOU AND ME](https://open.spotify.com/track/6GXM1K6UfE4UNJHfpDxn73) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Dcamp](https://open.spotify.com/artist/0EBLKsDlJJByOW4vjFJ9bw), [Lewismelo](https://open.spotify.com/artist/256KfGVTWcYVULdfl97En2) | [DOUBLE IMPACT](https://open.spotify.com/album/0qS35jNUCAKVr7aU30eqMc) | 2:21 |
-| 6 | [Rise Up](https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Rise Up](https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt) | 3:26 |
+| 6 | [Rise Up](https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Rise Up](https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt) | 3:26 |
 | 7 | [Boss](https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Boss](https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4) | 2:34 |
 | 8 | [Thug Life](https://open.spotify.com/track/2ibO3gPpV0r6sxCBvCJ47V) | [Tii Alexandre](https://open.spotify.com/artist/4y5BekShl9otQUj6ikj7Ao), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [\#TUKS](https://open.spotify.com/artist/4ZpWvzEYDHCzUXVPPLd4EK), [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta) | [Thug Life](https://open.spotify.com/album/1vmeEuR3ijvYXXVQ7psHYy) | 3:44 |
 | 9 | [Poulet Koko](https://open.spotify.com/track/4nxFxUSKVVM8ubq1vVsnIW) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Poulet Koko](https://open.spotify.com/album/0ktV8MmrwbsDKnRrEsCPxe) | 2:20 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Barboza.",
-  "num_followers": 16868,
+  "num_followers": 16870,
   "original_name": "RADAR Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADM/gc6/BTAViOLjwMx3HGchsbjV",
+  "snapshot_id": "AAAAAGhB8m11t5R3wF0ZP40WX16LKLKK",
   "tracks": [
     {
       "added_at": "2026-05-26 21:01:29",
@@ -45,6 +45,102 @@
       "url": "https://open.spotify.com/track/3YKLq5l1JnFWSKRH3wEUd5"
     },
     {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "Flaka",
+        "url": "https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY"
+      },
+      "artists": [
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "duration_ms": 217059,
+      "name": "Flaka",
+      "url": "https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "Reina",
+        "url": "https://open.spotify.com/album/2adEYmTEjW7rnxS2OzkfOg"
+      },
+      "artists": [
+        {
+          "name": "Beni",
+          "url": "https://open.spotify.com/artist/6FD0tGJvtELivSMMrRqmE9"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        }
+      ],
+      "duration_ms": 143270,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/0LO1RZvuBOminFrXbDT7us"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "La Mar\u00eda",
+        "url": "https://open.spotify.com/album/60vkloFJlu3niw4vEs4TH2"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 218755,
+      "name": "La Mar\u00eda",
+      "url": "https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "La Foto",
+        "url": "https://open.spotify.com/album/33eR6gzo1zVyHQcsuUP7X0"
+      },
+      "artists": [
+        {
+          "name": "Lil Silvio",
+          "url": "https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "DJ Dever",
+          "url": "https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "La Foto",
+      "url": "https://open.spotify.com/track/346EHkj0axApKLLoqxoR5d"
+    },
+    {
       "added_at": "2026-05-26 21:01:29",
       "album": {
         "name": "Devuelveme",
@@ -59,6 +155,22 @@
       "duration_ms": 175051,
       "name": "Devuelveme",
       "url": "https://open.spotify.com/track/7BOSHIJraE4JBE53v4sZPH"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "De la Mata",
+        "url": "https://open.spotify.com/album/1vOWLVrFoXPtqyyaUHZPqT"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 171174,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/6rQS8rYfOlcpcLrBt3raLy"
     },
     {
       "added_at": "2026-05-26 21:01:29",
@@ -107,6 +219,22 @@
       "duration_ms": 143914,
       "name": "Linda",
       "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "ZuZu",
+        "url": "https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 159948,
+      "name": "ZuZu",
+      "url": "https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz"
     },
     {
       "added_at": "2026-05-26 21:01:29",
@@ -167,26 +295,6 @@
     {
       "added_at": "2026-05-26 21:01:29",
       "album": {
-        "name": "Todita",
-        "url": "https://open.spotify.com/album/1vu7pYtarZ58TtkVfKOdpi"
-      },
-      "artists": [
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        },
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Todita",
-      "url": "https://open.spotify.com/track/7jBcbq5VgqsSZpbD5HXRTx"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
         "name": "Placer",
         "url": "https://open.spotify.com/album/3RkjG9LaHeS6yMQOnDK6wg"
       },
@@ -203,6 +311,22 @@
       "duration_ms": 163106,
       "name": "Placer",
       "url": "https://open.spotify.com/track/6QsLwdwGNaGm5oc5xkboCO"
+    },
+    {
+      "added_at": "2026-07-24 04:59:09",
+      "album": {
+        "name": "Daiquiri",
+        "url": "https://open.spotify.com/album/1YUM9pOgesvyk9cEF5mScN"
+      },
+      "artists": [
+        {
+          "name": "Osman M\u00fasica",
+          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/7gmTNXRjtqZ7kb0Lsr3ic5"
     },
     {
       "added_at": "2026-05-26 21:01:29",
@@ -303,86 +427,6 @@
     {
       "added_at": "2026-05-26 21:01:29",
       "album": {
-        "name": "Vuela Gaviota",
-        "url": "https://open.spotify.com/album/2E0YmUtTuTQowTlmNg8pCi"
-      },
-      "artists": [
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        },
-        {
-          "name": "Keyvin Ce",
-          "url": "https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE"
-        }
-      ],
-      "duration_ms": 207652,
-      "name": "Vuela Gaviota",
-      "url": "https://open.spotify.com/track/1IJDhmcLDtcvaGK8B5vQYT"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
-        "name": "No Se Dio",
-        "url": "https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 168842,
-      "name": "No Se Dio",
-      "url": "https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
-      },
-      "artists": [
-        {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        },
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        }
-      ],
-      "duration_ms": 180652,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
-        "name": "La Joya del Caribe",
-        "url": "https://open.spotify.com/album/5sv8aPicwILkq2xMpCs1Ll"
-      },
-      "artists": [
-        {
-          "name": "Jheral",
-          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
-        }
-      ],
-      "duration_ms": 132355,
-      "name": "VEEL",
-      "url": "https://open.spotify.com/track/1qG0fcGvgVAGb4DqjorWod"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
         "name": "BAILANDO",
         "url": "https://open.spotify.com/album/6mkaCLJ8xURi3hRvu5Ipgl"
       },
@@ -399,30 +443,6 @@
       "duration_ms": 209705,
       "name": "BAILANDO",
       "url": "https://open.spotify.com/track/4jty7qqVZoNZpCPmyjHwOb"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
-        "name": "\u00bfT\u00fa Crees?",
-        "url": "https://open.spotify.com/album/4d2FRvMrs3IDMLeozSzH22"
-      },
-      "artists": [
-        {
-          "name": "Miudy",
-          "url": "https://open.spotify.com/artist/77aTiCzo4iCDBSP35Ag9J9"
-        },
-        {
-          "name": "DJ Jawins",
-          "url": "https://open.spotify.com/artist/3Ybp2ScHkbaeKBCA8zqGlZ"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 214856,
-      "name": "\u00bfT\u00fa Crees?",
-      "url": "https://open.spotify.com/track/073XQFkTsNKb4nPaLsHlSQ"
     },
     {
       "added_at": "2026-05-26 21:01:29",
@@ -475,30 +495,6 @@
       "duration_ms": 129996,
       "name": "En Lo Oscurito",
       "url": "https://open.spotify.com/track/5sWbOHWTRvsn5hSxLfsgUi"
-    },
-    {
-      "added_at": "2026-05-26 21:01:29",
-      "album": {
-        "name": "LA MORAL",
-        "url": "https://open.spotify.com/album/2I4d4LqdDeCse8ZYiWHBGC"
-      },
-      "artists": [
-        {
-          "name": "Criss & Ronny",
-          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "La Colectiva \u00c9lite",
-          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "EL STICKER",
-      "url": "https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA"
     },
     {
       "added_at": "2026-05-26 21:01:29",

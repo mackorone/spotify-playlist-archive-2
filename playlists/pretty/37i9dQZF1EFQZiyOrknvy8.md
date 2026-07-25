@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 95 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 |
 | 96 | [Memories](https://open.spotify.com/track/6mx1wwYMsr9H7BEFZ3Cu49) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Memories](https://open.spotify.com/album/1iEc4h8qjfHVfY1lqLtRaH) | 2:02 |
 | 97 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
-| 98 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
-| 99 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
+| 98 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
+| 99 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
 | 100 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
 | 101 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
 | 102 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 118 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
 | 119 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
 | 120 | [Company](https://open.spotify.com/track/2xytoZCAVsVvVKjfnZiaKS) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Company](https://open.spotify.com/album/5YqyGd8Ud4O3onn9k32OYI) | 2:16 |
-| 121 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 |
-| 122 | [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 |
+| 121 | [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 |
+| 122 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 |
 | 123 | [Island](https://open.spotify.com/track/5VU3ScIDAKRmdnuWPNTxeW) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Island](https://open.spotify.com/album/4fl7FMAj60Hlj1pfWauR3R) | 2:38 |
 | 124 | [Pump It Up](https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Pump It Up](https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA) | 2:54 |
 | 125 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcXqCAAAAADzUY/dOC0uiH/r3hwRL70H`
+Snapshot ID: `AcXvlAAAAAAI/GGw2T4o83buNqtYHlIm`

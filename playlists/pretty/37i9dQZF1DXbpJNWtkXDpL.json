@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93336,
+  "num_followers": 93349,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "PVT0 VACIO",
-        "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
-      },
-      "artists": [
-        {
-          "name": "Uriel AR",
-          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
-        },
-        {
-          "name": "Leo Ramirez",
-          "url": "https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi"
-        }
-      ],
-      "duration_ms": 231129,
-      "name": "PVT0 VACIO",
-      "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "DRAMATIKA!",
         "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "PVT0 VACIO",
+        "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
+      },
+      "artists": [
+        {
+          "name": "Uriel AR",
+          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
+        },
+        {
+          "name": "Leo Ramirez",
+          "url": "https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi"
+        }
+      ],
+      "duration_ms": 231129,
+      "name": "PVT0 VACIO",
+      "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "Me Ilumin\u00e9",
         "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 138720,
       "name": "Me Ilumin\u00e9",
       "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Llegan Y Se Van",
         "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 149652,
       "name": "Llegan Y Se Van",
       "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "KORA KORA",
-        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
-      },
-      "artists": [
-        {
-          "name": "cKovi",
-          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
-        }
-      ],
-      "duration_ms": 131367,
-      "name": "KORA KORA",
-      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "S\u00daPLICA",
         "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
       },
@@ -1303,22 +1287,6 @@
       "duration_ms": 207969,
       "name": "S\u00daPLICA",
       "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1343,6 +1311,38 @@
       "duration_ms": 202823,
       "name": "TUTSI POP",
       "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "KORA KORA",
+        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "duration_ms": 131367,
+      "name": "KORA KORA",
+      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-07-17 06:00:21",

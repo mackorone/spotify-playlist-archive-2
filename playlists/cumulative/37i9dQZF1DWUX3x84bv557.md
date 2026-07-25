@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Rolf Sanchez
 
-1,391 songs - 2 day 18 hr 19 min
+1,391 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Hier Blijft Het Bij](https://open.spotify.com/track/3oaANXjWB9RjSAvFFXpwhb) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Hier Blijft Het Bij](https://open.spotify.com/album/6MhXMY5K9atA8V7lobWbxd) | 2:57 | 2023-02-23 | 2023-03-10 |
 | [Hier En Nu](https://open.spotify.com/track/6hnYPBzulu0m7M18FwjD1m) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li) | [Hier En Nu](https://open.spotify.com/album/3UxXRJNpqbn2PTrWXn67LO) | 2:53 | 2025-08-07 | 2025-09-26 |
 | [Hier Met Jou](https://open.spotify.com/track/4HFfDfPBalc5yyGZ67aiG3) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Hier Met Jou](https://open.spotify.com/album/1OsiWUC1B5oGSLnRBHO15N) | 2:59 | 2026-04-23 | 2026-07-10 |
+| [Hij](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 2:31 | 2026-07-23 |  |
 | [Hij Is Bij Mij](https://open.spotify.com/track/2ADmf2i7L4MYBMNB0xNewn) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hij Is Bij Mij](https://open.spotify.com/album/7wk2eO8BSm1Kb72zwITHX9) | 2:35 | 2025-06-26 | 2025-08-26 |
 | [Hittegolf](https://open.spotify.com/track/4IhVjIC3Fg1q9eESBVjNPL) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Hittegolf](https://open.spotify.com/album/0kSAvFLsMtfRElvwYpeITz) | 2:36 | 2025-05-22 | 2025-08-05 |
 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 | 2023-05-25 | 2023-09-08 |
@@ -1155,7 +1156,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 4](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 0:00 | 2026-07-23 |  |
 | [Tranen In De Giftshop](https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tranen In De Giftshop](https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f) | 3:06 | 2026-05-21 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: G.A., Niink",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Tchelo",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -32637,6 +32637,28 @@
     },
     {
       "album": {
+        "name": "n\u00e3o te culpo",
+        "url": "https://open.spotify.com/album/03RXDu0SBKf0Ojc8yFiMFd"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "n\u00e3o te culpo",
+      "url": "https://open.spotify.com/track/2RLEqLhrgIlED0pqS2Glsn"
+    },
+    {
+      "album": {
         "name": "n\u00e3o tem porque (espelho)",
         "url": "https://open.spotify.com/album/1LVDJLWK5jWA6tfo72Cr0E"
       },
@@ -41014,7 +41036,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 124285,
       "name": "ROCKSTAR, GANGSTAR",
       "url": "https://open.spotify.com/track/3pbWIISEa9jtMFgW4kLPZF"

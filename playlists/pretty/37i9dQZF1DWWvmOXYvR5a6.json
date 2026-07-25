@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: TRADE L)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221940,
+  "num_followers": 221929,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -290,11 +290,15 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 224606,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -363,6 +367,38 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "FOREVER KIDS",
         "url": "https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq"
       },
@@ -379,42 +415,6 @@
       "duration_ms": 219823,
       "name": "AMAZING (feat. Sik-K)",
       "url": "https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/0VGeaj4sDq9UnwzSxiVgkZ"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 205393,
+      "name": "Mayday (Feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "THE ONE YOU WANTED",
-        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "Mayday (Feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "Star*",
-        "url": "https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF"
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
       },
       "artists": [
         {
-          "name": "Marv",
-          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Star*",
-      "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
+      "duration_ms": 121000,
+      "name": "Heartfall",
+      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1231,6 +1231,26 @@
       "duration_ms": 181629,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "Star*",
+        "url": "https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Star*",
+      "url": "https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1367,26 +1387,6 @@
       "duration_ms": 234000,
       "name": "EASY (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Heartfall",
-      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "If tomorrow never comes",
-        "url": "https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao"
-      },
-      "artists": [
-        {
-          "name": "BANG YONGGUK",
-          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "If tomorrow never comes",
-      "url": "https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "Just Like This",
         "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
@@ -1647,6 +1631,38 @@
       "duration_ms": 199733,
       "name": "Just Like This (Feat. george)",
       "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "If tomorrow never comes",
+        "url": "https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "If tomorrow never comes",
+      "url": "https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1679,18 +1695,22 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
+        "name": "All Day (Better Days X Kim Seungmin, Layone)",
+        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
       },
       "artists": [
         {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
         }
       ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
+      "duration_ms": 199000,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1715,26 +1735,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "All Day (Better Days X Kim Seungmin, Layone)",
-        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "Still Hot",
         "url": "https://open.spotify.com/album/5uLwwJVwMZcSiSe9JbltKP"
       },
@@ -1747,6 +1747,22 @@
       "duration_ms": 122363,
       "name": "Realized",
       "url": "https://open.spotify.com/track/2GpquAGNGJlbKw2f6kLwOt"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "LOVESICK",
+        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 202035,
+      "name": "Who you?",
+      "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1775,22 +1791,6 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "LOVESICK",
-        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 202035,
-      "name": "Who you?",
-      "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
     },
     {
       "added_at": "2026-07-22 13:51:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Flo Milli",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -3770,7 +3770,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 146564,
       "name": "Cupcake",
       "url": "https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV"
@@ -5409,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "RX",
+        "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138413,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/2rbEnLjjeljazxI8Mzlgae"
+    },
+    {
+      "album": {
         "name": "Who Is Bankroll?",
         "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
@@ -6973,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "HOT AS A BIC",
+        "url": "https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "HOT AS A BIC",
+      "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
+    },
+    {
+      "album": {
         "name": "Hot Girl Maybach",
         "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
       },
@@ -8106,6 +8142,32 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "album": {
+        "name": "Jumpupw!nya",
+        "url": "https://open.spotify.com/album/5PY9AxmoSOqjqbY0cHrhZv"
+      },
+      "artists": [
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107669,
+      "name": "Jumpupw!nya",
+      "url": "https://open.spotify.com/track/4jDjCiWDvsPhBqy9DlzKgR"
     },
     {
       "album": {
@@ -10733,6 +10795,24 @@
     },
     {
       "album": {
+        "name": "Not Yours",
+        "url": "https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro"
+      },
+      "artists": [
+        {
+          "name": "Lady Binladen",
+          "url": "https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Not Yours",
+      "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
       },
@@ -12442,7 +12522,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 109565,
       "name": "Pull Yo Skirt Up",
       "url": "https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt"
@@ -13986,7 +14066,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202426,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
@@ -14862,7 +14942,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 110063,
       "name": "Tippy Toes",
       "url": "https://open.spotify.com/track/5u1YiHnOYjrUTa9eYLDNbF"

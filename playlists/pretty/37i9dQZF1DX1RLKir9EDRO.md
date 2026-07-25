@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Flu Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,981 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,977 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [SWITCH](https://open.spotify.com/track/6IHSP1WmN20YaZtyNnqKGh) | [kahadirbartal](https://open.spotify.com/artist/7GuyqpKIBE1p4krHb0DrzK), [Karakter](https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL) | [SWITCH](https://open.spotify.com/album/7JtukAOsYJIawYWWbk5mIK) | 2:59 |
 | 50 | [Geri Dönmez](https://open.spotify.com/track/5aWdHlD2KrvZdgb4ODzanT) | [Cheap Genes](https://open.spotify.com/artist/4ghd0AVbQYWoQd2cbuLYRB) | [Geri Dönmez](https://open.spotify.com/album/03Cpl4OEKq6iMv1WwGOkRi) | 1:49 |
 
-Snapshot ID: `AAAAANfSlTa9QUWpWTLuFoBakZcf2+Cp`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

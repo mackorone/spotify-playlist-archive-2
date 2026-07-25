@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Worldpeace DMT
 
-925 songs - 2 day 5 hr 20 min
+926 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 | 2025-03-14 | 2025-05-09 |
 | [Machine Noise For A Quiet Daydream](https://open.spotify.com/track/10JFarxbsF4XwH9CNYKIx3) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Séamus](https://open.spotify.com/artist/4L9TckXVA6Vpl2CDYCwyUd) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 2:35 | 2025-07-10 | 2025-08-29 |
 | [Made 2 Luv](https://open.spotify.com/track/7en5t6rDhWd40NcifSsZDK) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Made 2 Luv](https://open.spotify.com/album/61FAqGBl3ivf5hqjUSpXxi) | 2:26 | 2025-04-11 | 2025-06-13 |
-| [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-07 |  |
+| [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-07 | 2026-07-25 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-09-13 |
 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [And Your Song is Like a Circle](https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8) | 3:33 | 2025-10-16 | 2026-01-30 |
 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 | 2024-11-08 | 2025-03-21 |
@@ -771,6 +771,7 @@
 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-27 | 2024-10-04 |
 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-06-12 | 2025-08-22 |
 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 | 2024-08-15 | 2024-09-21 |
+| [Summer Haze](https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Summer Haze](https://open.spotify.com/album/6xAWyKJaOEVBOSvwdxbrR4) | 2:53 | 2026-07-23 |  |
 | [Summer in June](https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Yours Always](https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K) | 2:38 | 2025-05-23 | 2025-08-01 |
 | [Sunshine](https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Sunshine / P4P](https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT) | 3:40 | 2026-07-16 |  |
 | [Sunshine](https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Sunshine](https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2) | 2:19 | 2024-08-15 | 2025-02-14 |

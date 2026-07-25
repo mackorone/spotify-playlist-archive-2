@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-925 songs - 2 day 16 hr 6 min
+926 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [It's Magic](https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [It's Magic](https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42) | 3:39 | 2025-08-22 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9) | [It's Oh So Quiet](https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv) | 3:48 | 2020-10-09 | 2022-02-19 |
 | [It's Only a Paper Moon](https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI) | [Claire Martin](https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh), [Scott Dunn](https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [It's Only a Paper Moon](https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p) | 4:25 | 2023-02-17 | 2024-05-25 |
-| [It's Time](https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Time And Again](https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh) | 3:56 | 2024-06-28 |  |
+| [It's Time](https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Time And Again](https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh) | 3:56 | 2024-06-28 | 2026-07-25 |
 | [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 | 2025-10-17 |  |
 | [James](https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:55 | 2021-04-30 | 2022-10-08 |
 | [James](https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:55 | 2021-04-30 | 2022-07-12 |
@@ -775,6 +775,7 @@
 | [The Music That Makes Me Dance](https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Music That Makes Me Dance](https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO) | 5:07 | 2026-06-12 |  |
 | [The Nearness of You](https://open.spotify.com/track/7xA2g7J5vjbOlEhsPQeQLs) | [Giacomo Gates](https://open.spotify.com/artist/25Q4os5UQSQvKwY8cfHg7b) | [The Nearness of You](https://open.spotify.com/album/2PSPiduj7WWWVJQ6vurhUn) | 3:15 | 2022-02-18 | 2022-07-27 |
 | [The Nearness Of You](https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 3:36 | 2022-02-18 | 2023-02-25 |
+| [The Nearness Of You](https://open.spotify.com/track/35kG2qj9nuZRxemLbTreFZ) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Kenny Banks](https://open.spotify.com/artist/6ZJmKRRAHENn4JELfLzfbd) | [The Nearness Of You](https://open.spotify.com/album/4DClTIq5hRwn09rJkbctRj) | 5:51 | 2026-07-24 |  |
 | [The October Storm](https://open.spotify.com/track/4zR2BGxSLZTBzeC6knFfeL) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv) | [The October Storm](https://open.spotify.com/album/75PlW6KO3trATMAH6ZrSqO) | 4:12 | 2022-04-04 | 2022-07-29 |
 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 | 2026-01-16 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA) | [Acoustic Lounge](https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz), [BAUN](https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Alone Together](https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK) | 4:46 | 2022-06-06 | 2023-07-15 |

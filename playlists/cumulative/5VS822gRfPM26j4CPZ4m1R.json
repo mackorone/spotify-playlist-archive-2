@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Sound of the Bay",
+        "url": "https://open.spotify.com/album/5cPfZ4O888UhPcH8htCEFk"
+      },
+      "artists": [
+        {
+          "name": "Sandy's",
+          "url": "https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142678,
+      "name": "Blue Algae",
+      "url": "https://open.spotify.com/track/2AVzV0lNIBIoB7XJvFWZ6Y"
+    },
+    {
+      "album": {
         "name": "Blue Blood",
         "url": "https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu"
       },
@@ -9626,6 +9644,24 @@
       "duration_ms": 242280,
       "name": "Song of the Highest Tower",
       "url": "https://open.spotify.com/track/5CD8wM1IsTaNJ02qZ3gkgB"
+    },
+    {
+      "album": {
+        "name": "Sound of the Bay",
+        "url": "https://open.spotify.com/album/5cPfZ4O888UhPcH8htCEFk"
+      },
+      "artists": [
+        {
+          "name": "Sandy's",
+          "url": "https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224412,
+      "name": "Sound of the Bay",
+      "url": "https://open.spotify.com/track/7glC8DGRvegYbssqtTzGb1"
     },
     {
       "album": {

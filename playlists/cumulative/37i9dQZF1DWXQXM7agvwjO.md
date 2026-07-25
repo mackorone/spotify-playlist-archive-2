@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: KIKI \(Thailand\)
+> Hottest indie sounds from Asia\. Cover: Andr \(Taiwan\)
 
 2,720 songs - 6 day 22 hr 3 min
 

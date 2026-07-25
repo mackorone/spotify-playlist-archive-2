@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4990355,
+  "num_followers": 4990510,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADHb+ATgiBDVbLnr6GU8FT1",
+  "snapshot_id": "amFZgAAAAACvgoi3+MqXngKZpXFB52Bc",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd"
       },
       "artists": [
         {
@@ -41,40 +57,8 @@
         }
       ],
       "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "name": "Under Pressure (feat. David Bowie)",
+      "url": "https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"
     },
     {
       "added_at": null,
@@ -95,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
       },
       "artists": [
         {
@@ -104,9 +88,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 348226,
-      "name": "Radio Ga Ga - Remastered 2011",
-      "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust",
+      "url": "https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR"
     },
     {
       "added_at": null,
@@ -127,8 +111,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 348226,
+      "name": "Radio Ga Ga",
+      "url": "https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
       },
       "artists": [
         {
@@ -137,56 +153,8 @@
         }
       ],
       "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "I Want To Break Free",
-      "url": "https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Fat Bottomed Girls - Remastered 2011",
-      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+      "name": "Crazy Little Thing Called Love",
+      "url": "https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV"
     },
     {
       "added_at": null,
@@ -207,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
       "artists": [
         {
@@ -216,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+      "duration_ms": 255600,
+      "name": "Fat Bottomed Girls - Remastered 2011",
+      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
     },
     {
       "added_at": null,
@@ -239,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "I Want To Break Free",
+      "url": "https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L"
     },
     {
       "added_at": null,
@@ -271,38 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "You're My Best Friend - Remastered 2011",
-      "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217824,
-      "name": "Don't Stop Me Now - ...Revisited",
-      "url": "https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Day At The Races (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy",
       "url": "https://open.spotify.com/track/1FXeqJV13iMAeOohMpwJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217824,
+      "name": "Don't Stop Me Now - ...Revisited",
+      "url": "https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits II (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y"
+        "name": "Made In Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 218320,
-      "name": "Hammer To Fall - Remastered 2011",
-      "url": "https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP"
+      "duration_ms": 259213,
+      "name": "Too Much Love Will Kill You",
+      "url": "https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO"
+        "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp"
       },
       "artists": [
         {
@@ -380,15 +380,15 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 259213,
-      "name": "Too Much Love Will Kill You",
-      "url": "https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4"
+      "duration_ms": 220105,
+      "name": "Hammer To Fall",
+      "url": "https://open.spotify.com/track/1OuuQNfGJ0KwD4KUJ7tuzj"
     },
     {
       "added_at": null,
       "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
       },
       "artists": [
         {
@@ -398,23 +398,7 @@
       ],
       "duration_ms": 245680,
       "name": "Radio Ga Ga - Live Aid",
-      "url": "https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits II (Remastered)",
-        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Who Wants To Live Forever - Remastered 2011",
-      "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
+      "url": "https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 255040,
       "name": "These Are The Days Of Our Lives",
       "url": "https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 297470,
+      "name": "Who Wants To Live Forever",
+      "url": "https://open.spotify.com/track/3bmh7WhduQpPW7fwg6Uv8Y"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 311026,
-      "name": "One Vision - Remastered 2011",
-      "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Game (Deluxe Edition)",
         "url": "https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3"
       },
@@ -659,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Forever (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 207397,
-      "name": "There Must Be More To Life Than This - William Orbit Mix",
-      "url": "https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
       },
@@ -691,22 +655,6 @@
       "duration_ms": 213826,
       "name": "Princes Of The Universe",
       "url": "https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Dreamer's Ball - Remastered 2011",
-      "url": "https://open.spotify.com/track/0TpWjIOuNMnpuRjriPbGiF"
     },
     {
       "added_at": null,
@@ -739,6 +687,42 @@
       "duration_ms": 278306,
       "name": "Headlong",
       "url": "https://open.spotify.com/track/1dDtAKhoIhOGDO9mV5kNwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen Forever (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 207397,
+      "name": "There Must Be More To Life Than This - William Orbit Mix",
+      "url": "https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kind Of Magic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 311026,
+      "name": "One Vision",
+      "url": "https://open.spotify.com/track/3zApeb5jO36NDFPqz1tXW7"
     },
     {
       "added_at": null,
@@ -779,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kind Of Magic (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "One Year Of Love",
-      "url": "https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Game (Deluxe Edition)",
         "url": "https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Kind Of Magic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "One Year Of Love",
+      "url": "https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Day At The Races (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 287426,
       "name": "Tie Your Mother Down",
       "url": "https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Wants to Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Who Wants to Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY"
     }
   ],
   "unique_name": "This Is Queen",

@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
+      },
+      "artists": [
+        {
+          "name": "TOAST CLUB",
+          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
+    },
+    {
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/3Jdv5z4pzOwCgFFedBEDkX"
       },
@@ -5210,6 +5228,24 @@
       "duration_ms": 176277,
       "name": "Earthworm",
       "url": "https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+      },
+      "artists": [
+        {
+          "name": "Jace Cameron",
+          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230637,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
     },
     {
       "album": {
@@ -18124,24 +18160,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "Lift",
-        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
-      },
-      "artists": [
-        {
-          "name": "TOAST CLUB",
-          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
     },
     {
       "album": {

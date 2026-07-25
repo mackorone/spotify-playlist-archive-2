@@ -4,7 +4,7 @@
 
 > Playlist
 
-655 songs - 1 day 14 hr 43 min
+657 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Big Foot](https://open.spotify.com/track/10qUVLriAYhg9xqc4h7ZLw) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 2:59 | 2023-10-25 |  |
 | [Black Water](https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Black Water](https://open.spotify.com/album/5F6oYmEDb19QAUEUrf4uxY) | 2:42 | 2025-07-29 |  |
 | [Blue](https://open.spotify.com/track/0WIHwtJS11qxWgKtw2qhPR) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Blue](https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8) | 3:05 | 2023-10-25 |  |
+| [Blue Algae](https://open.spotify.com/track/2AVzV0lNIBIoB7XJvFWZ6Y) | [Sandy's](https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4) | [Sound of the Bay](https://open.spotify.com/album/5cPfZ4O888UhPcH8htCEFk) | 2:22 | 2026-07-24 |  |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2023-10-25 |  |
 | [bones](https://open.spotify.com/track/3PINiNx7YoLY1M2LKGEpzo) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [bones](https://open.spotify.com/album/6nw7UPazUokvF5M6g08kH8) | 3:52 | 2025-08-29 |  |
 | [bones](https://open.spotify.com/track/5obGMp5stzItyTXOmzoiFt) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:52 | 2025-10-27 |  |
@@ -528,6 +529,7 @@
 | [Sometimes](https://open.spotify.com/track/3QMaTNdpmBbPMy6i8fCD4I) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Edge of Tassie](https://open.spotify.com/album/7uUx3WAldxbnYBsJAFC3MY) | 3:07 | 2023-11-17 |  |
 | [Sometimes](https://open.spotify.com/track/5l0CSi6mjM0wNZzgQudqPS) | [Frazier Blue](https://open.spotify.com/artist/6tdhC262dmuL7W8MnTr1tx) | [Sometimes](https://open.spotify.com/album/0AekC1rSk3BvpQR2aupQw4) | 3:47 | 2023-10-25 |  |
 | [Song of the Highest Tower](https://open.spotify.com/track/5CD8wM1IsTaNJ02qZ3gkgB) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Song of the Highest Tower](https://open.spotify.com/album/7xyvbm4u3FrbO12whBkINc) | 4:02 | 2023-10-25 |  |
+| [Sound of the Bay](https://open.spotify.com/track/7glC8DGRvegYbssqtTzGb1) | [Sandy's](https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4) | [Sound of the Bay](https://open.spotify.com/album/5cPfZ4O888UhPcH8htCEFk) | 3:44 | 2026-07-24 |  |
 | [South](https://open.spotify.com/track/7I1bYSaMz7rQGR1eUFRLC0) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:41 | 2023-10-25 |  |
 | [Space Between](https://open.spotify.com/track/5Kd9cZXpJstcQTIZbcaoeT) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Space Between](https://open.spotify.com/album/0onQ6IDvY0CdmfAfFzkU1D) | 2:52 | 2023-10-25 |  |
 | [Space Force](https://open.spotify.com/track/56S0m619m19R09Nw2MrVWZ) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Will Haff](https://open.spotify.com/artist/7f5K6XriFyFuRhpy0C9Z3F) | [Space Force](https://open.spotify.com/album/7EtTQeN3s6YN283flgxZp7) | 3:12 | 2023-10-25 |  |

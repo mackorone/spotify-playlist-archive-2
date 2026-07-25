@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-344 songs - 13 hr 51 min
+345 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Glitchy Gal](https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76) | [Dj Super Will](https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu) | [Glitchy Gal](https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx) | 2:59 | 2022-02-11 | 2022-10-03 |
 | [Go Crazy](https://open.spotify.com/track/7kjZO6UcU6JO1ZReOR6VGR) | [JustFrenchie](https://open.spotify.com/artist/0s0xxazifQuzFsAuxvWPY8), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Go Crazy](https://open.spotify.com/album/4DdGXPwFKCr1tpqqrul63p) | 2:36 | 2022-12-30 | 2023-01-06 |
 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 | 2024-05-31 | 2026-02-08 |
-| [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 | 2025-12-19 |  |
+| [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 | 2025-12-19 | 2026-07-25 |
 | [GOOD LOVING \#jerseyclub](https://open.spotify.com/track/2q1o8E9edYiQrXKAzlx3yu) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE) | [GOOD LOVING \#jerseyclub](https://open.spotify.com/album/7Ikhpucqh3CNbfBYXJBmpm) | 1:49 | 2024-04-05 |  |
 | [Good News](https://open.spotify.com/track/04Yhc7qIbIuFg2bjH9wXd4) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [Good News](https://open.spotify.com/album/3GnvZEmORtkJoKwaowm7ft) | 2:04 | 2023-09-08 | 2023-10-05 |
 | [Got Back?](https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN), [Yungphnx](https://open.spotify.com/artist/2OAhLVbWM8ONC9JB4DMMIj) | [Got Back?](https://open.spotify.com/album/2Z6haOfHog3DbrXuldYjWX) | 2:15 | 2022-02-11 | 2022-08-17 |
@@ -291,6 +291,7 @@
 | [Shake The Room](https://open.spotify.com/track/2vjOxwogHbLSHbiewgCqd6) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Dos Flakos](https://open.spotify.com/artist/7e0d8Rr8wnZlu4CvQU5eHU) | [Shake The Room](https://open.spotify.com/album/67RkFUd9W6wHCLtMpuz8EK) | 4:25 | 2023-08-11 | 2023-09-09 |
 | [Shake, Pt\. 2 \(Get Get Down\) \- Sped Up Version](https://open.spotify.com/track/4YqaTJsKcZ79EoJIsvYZbM) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx), [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [Shake, Pt\. 2 \(Sped Up Version\)](https://open.spotify.com/album/5csZjEnf8NWk5r1uPkbCAB) | 1:37 | 2022-12-30 | 2023-01-06 |
 | [SHAWTY \(Mvntana Remix\)](https://open.spotify.com/track/41425sATIEwlRMiancX0MS) | [Yung Bambi](https://open.spotify.com/artist/2y8GmZ4zTMAEd5OuenMZdX), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [SHAWTY](https://open.spotify.com/album/1dochdMLdJsihe9p3WCr3D) | 2:10 | 2022-02-11 | 2022-08-19 |
+| [She Bugging \(Whatchu Gonna Do\)](https://open.spotify.com/track/2MsfodZkNfs3wMRwm1sOyy) | [Mr Flintstone](https://open.spotify.com/artist/2Kfk8UwDeqROzJCKnDoBSd), [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bugging \(Whatchu Gonna Do\)](https://open.spotify.com/album/1AFHErNqp51FoknKbZ5Xw0) | 2:11 | 2026-07-24 |  |
 | [She's From Jersey](https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:48 | 2022-02-11 | 2022-08-27 |
 | [Shortys Theme](https://open.spotify.com/track/3HerlmmOF6KfUSKWYMQCnW) | [Jakkz](https://open.spotify.com/artist/6970dBjCH8MeminFC6L665) | [Jakked Up](https://open.spotify.com/album/6WQ17Gtu4QpSQvgnp6PSnv) | 1:46 | 2022-02-11 | 2022-09-03 |
 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 | 2023-09-08 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "that retro kinda feeling, cover: Willow Avalon",
-  "num_followers": 72637,
+  "description": "that retro kinda feeling, cover: Tiger La Flor",
+  "num_followers": 72639,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEzqswYcPizn4xTlseXJJ3bgLMHw",
+  "snapshot_id": "AAAAAG/5lVmMWyR62ReCvqPpP5UkZlfd",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:02:50",
+      "album": {
+        "name": "FOREVERMORE",
+        "url": "https://open.spotify.com/album/3EaDdJ617d0q6uLifk3klX"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 182290,
+      "name": "FOREVERMORE",
+      "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
+    },
     {
       "added_at": "2026-02-27 05:34:06",
       "album": {
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-03-03 16:46:59",
       "album": {
-        "name": "When She Loved Me",
-        "url": "https://open.spotify.com/album/3nGZB91emd3OVE25ra3Ovp"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 187709,
-      "name": "When She Loved Me",
-      "url": "https://open.spotify.com/track/3198LMj0bpnXj8Mb1GLo3u"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2025-03-03 16:46:59",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2025-03-03 16:46:59",

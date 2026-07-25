@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-262 songs - 11 hr 2 min
+264 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Comforting Compassion](https://open.spotify.com/track/5vVxuKITTQCUFRs8PuGcwd) | [Löve](https://open.spotify.com/artist/7MGZxfJkKBLp1oAnFkNTEz) | [Comforting Compassion](https://open.spotify.com/album/0rfdekKd2Wv0KEX7ZDIKN0) | 2:18 | 2026-06-12 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 | 2025-02-27 |
 | [Complete](https://open.spotify.com/track/0TVVSh5z1gErm5tHqMII5A) | [Ananda](https://open.spotify.com/artist/0OHO8bpZ2kCqXnA3pIICie) | [Complete](https://open.spotify.com/album/59La0fwcbgKlaa1evfBqHC) | 2:43 | 2026-07-03 | 2026-07-11 |
+| [Cozy Book](https://open.spotify.com/track/10ZghCbHdFoeu0kRIvQWFR) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Cozy Book](https://open.spotify.com/album/4quDqRYc7WnLpAiTHMeM2R) | 2:34 | 2026-07-24 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 | 2025-02-27 |
 | [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 | 2025-09-19 |
@@ -192,6 +193,7 @@
 | [Revelations](https://open.spotify.com/track/0yWAXojIUz6zPGAUGpkgeo) | [Simon Strella](https://open.spotify.com/artist/0oUJgwFn9WchGSTdT7ODyZ) | [Revelations](https://open.spotify.com/album/6Vhv1wbp54xcR3YtxFO2o7) | 2:25 | 2026-07-03 |  |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-05 |  |
 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 | 2023-05-09 | 2025-03-13 |
+| [Rêve d’aube](https://open.spotify.com/track/0pUvTAOwVWAPATaq7n9Bc7) | [Aube Claire](https://open.spotify.com/artist/4Dc7RNmmvZKaf7XQfrs3R5) | [Rêve d’aube](https://open.spotify.com/album/50rfVMpUOKT2TvxTEIrZ1f) | 2:36 | 2026-07-24 |  |
 | [Sagesse en Amour](https://open.spotify.com/track/7MJcTb10o1gms7Gr641tj7) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [Sagesse en Amour](https://open.spotify.com/album/3jlN7BgH820pjPsJw9M8C5) | 2:21 | 2023-05-09 | 2024-10-02 |
 | [Sailing Across the Sky](https://open.spotify.com/track/4jeijuya1Z2WR8JWVFmov1) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Sailing Across the Sky](https://open.spotify.com/album/34d8QFg1z5fqLFUZ7W8Nsm) | 3:04 | 2023-05-09 | 2025-02-27 |
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-11-13 |  |

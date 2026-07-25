@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: O'kenneth
 
-996 songs - 2 day 1 hr 48 min
+996 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Baskata](https://open.spotify.com/track/4ruVHF2ffI8euRpA8LkSgi) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [Baskata](https://open.spotify.com/album/2ZPrDyuHmEdTgj0AkuVbB8) | 2:34 | 2026-07-24 |  |
 | [BEBEREBE](https://open.spotify.com/track/7s9nYoCBbALjG5FqNNuB0f) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Earner](https://open.spotify.com/artist/0xmP8LrI9M0HXNbympRWvH), [Boy Ru](https://open.spotify.com/artist/1ZKjyuQf0AeBXvTJHtM1Da), [Achina Dat](https://open.spotify.com/artist/5BII5v4g0BduWKDJxqEC8H) | [BEBEREBE](https://open.spotify.com/album/2nknP8g3YPVpY8EIL8am7e) | 3:14 | 2024-11-22 | 2025-02-14 |
 | [Believe](https://open.spotify.com/track/64tEQdoiuCD7MN8vb48R5H) | [Cj Biggerman](https://open.spotify.com/artist/1Vl2tN2L85Viewqi6PzAzl) | [Believe](https://open.spotify.com/album/0Fr3SdvHqeAcEaIWTwhFdH) | 3:01 | 2024-09-06 | 2024-09-20 |
+| [Believe](https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Tough Skin](https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq) | 3:09 | 2026-07-24 |  |
 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 | 2025-11-04 | 2026-05-08 |
 | [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 | 2023-03-02 | 2023-03-18 |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-24 | 2024-01-05 |
@@ -896,7 +897,6 @@
 | [Too Windy 4 U](https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O) | [Mus](https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P), [Japo](https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m) | [Too Windy 4 U](https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii) | 1:58 | 2024-08-09 | 2024-08-26 |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 |  |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 1](https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Tough Skin](https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq) | 0:00 | 2026-07-24 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Tranquillo](https://open.spotify.com/track/0R5MHXzCbwJkng8NHlH2S2) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Tranquillo](https://open.spotify.com/album/6tlJwdz4dFTig2UG6HoSAn) | 3:05 | 2023-06-09 | 2023-06-23 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-08-09 |

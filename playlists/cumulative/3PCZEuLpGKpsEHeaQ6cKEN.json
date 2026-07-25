@@ -37595,6 +37595,28 @@
     },
     {
       "album": {
+        "name": "Turn The Tide",
+        "url": "https://open.spotify.com/album/4YPWLIpNZOmcHyVhqq1gUU"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179938,
+      "name": "Turn The Tide",
+      "url": "https://open.spotify.com/track/5oZ1UaNmhcW6u5RbN1QxJT"
+    },
+    {
+      "album": {
         "name": "Turpentine",
         "url": "https://open.spotify.com/album/0fjen72OCfY4eKqPUhYxTR"
       },

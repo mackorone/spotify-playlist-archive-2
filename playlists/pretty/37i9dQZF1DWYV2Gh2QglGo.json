@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Noah Bridgen",
-  "num_followers": 84137,
+  "description": "The home of Canadian country music. Cover: Shania Twain",
+  "num_followers": 84136,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlLwcljebvWjulh+/bWRDRGwPne",
+  "snapshot_id": "AAAAAOIkS1X56NbHrsZDu4N2KQV2R4zV",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
+    },
     {
       "added_at": "2026-07-17 04:03:05",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
     },
     {
-      "added_at": "2026-07-17 04:03:05",
+      "added_at": "2026-07-24 04:03:36",
       "album": {
-        "name": "Saving Me",
-        "url": "https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM"
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/5Qj5cxKct49whzhPBjWOkY"
       },
       "artists": [
         {
-          "name": "Noah Brigden",
-          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
         }
       ],
-      "duration_ms": 221787,
-      "name": "Saving Me",
-      "url": "https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC"
+      "duration_ms": 190806,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5ErDbyx09sTi9WPXBgtaUT"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -57,6 +89,126 @@
       "url": "https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B"
     },
     {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Coffee and Sleeping Pills",
+        "url": "https://open.spotify.com/album/04updCr8hscofd5QXfUtNc"
+      },
+      "artists": [
+        {
+          "name": "Cameron Nickerson",
+          "url": "https://open.spotify.com/artist/6GrNz0Cuzpd36vJflYPfIr"
+        }
+      ],
+      "duration_ms": 153042,
+      "name": "Coffee and Sleeping Pills",
+      "url": "https://open.spotify.com/track/6hGICwvDQylZO2cTr04Kzu"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 232225,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "I Sure Hope So",
+        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 209166,
+      "name": "I Sure Hope So",
+      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Ah qu'on est ben icitte",
+        "url": "https://open.spotify.com/album/0oCiUimVaaN8JzhX0pFsL1"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Ah qu'on est ben icitte (feat. Olivier Couture)",
+      "url": "https://open.spotify.com/track/6AHJ086lGZXsp0tv9NCH5n"
+    },
+    {
       "added_at": "2026-04-17 04:05:01",
       "album": {
         "name": "Deep Water",
@@ -71,6 +223,102 @@
       "duration_ms": 153069,
       "name": "Deep Water",
       "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Saving Me",
+        "url": "https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 221787,
+      "name": "Saving Me",
+      "url": "https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Spin Me Like a Record",
+        "url": "https://open.spotify.com/album/1DPDyhj2Rx2hwmvBUUX7Sn"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Spin Me Like a Record",
+      "url": "https://open.spotify.com/track/2o9MXcSYfubOQuqfxsLHlp"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "God Knows I Try",
+        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 205950,
+      "name": "God Knows I Try",
+      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Wherever You Are Tonight",
+        "url": "https://open.spotify.com/album/2WIGWbniyxgcWmQsexir7F"
+      },
+      "artists": [
+        {
+          "name": "Pretty Archie",
+          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/48ZWvMokjKbGHpqL5DGWYF"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Three Long Hauls",
+        "url": "https://open.spotify.com/album/5QzcUoI5PLZMGJmxuyJbZR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Lindsay",
+          "url": "https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Three Long Hauls",
+      "url": "https://open.spotify.com/track/4q04AWjC1gGpuG2h1zpQD7"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Stoned On You",
+        "url": "https://open.spotify.com/album/3h1ZdoAXhBhIXWu3mMwv8p"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "duration_ms": 205775,
+      "name": "Stoned On You",
+      "url": "https://open.spotify.com/track/4uOeXIgzdSjVKh5RZxoIOv"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -105,22 +353,6 @@
       "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"
     },
     {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "I Sure Hope So",
-        "url": "https://open.spotify.com/album/6AF4c8unC9GTqPnAc5MHUv"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 209166,
-      "name": "I Sure Hope So",
-      "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
-    },
-    {
       "added_at": "2026-07-17 04:03:05",
       "album": {
         "name": "King Size Trouble",
@@ -135,22 +367,6 @@
       "duration_ms": 153692,
       "name": "King Size Trouble",
       "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -169,22 +385,6 @@
       "url": "https://open.spotify.com/track/7BSV22vWFpDHDWb13EXXoA"
     },
     {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
-    },
-    {
       "added_at": "2026-07-17 16:07:29",
       "album": {
         "name": "Did July",
@@ -199,22 +399,6 @@
       "duration_ms": 190511,
       "name": "Did July",
       "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "God Knows I Try",
-        "url": "https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 205950,
-      "name": "God Knows I Try",
-      "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
     },
     {
       "added_at": "2026-07-10 04:03:19",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,698 likes - 99 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,700 likes - 99 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
+| 1 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 2 | [Oppydelics](https://open.spotify.com/track/5zV6hjAwwqVRACGT235gBv) | [Akira Arasawa](https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM), [The Magic Sun](https://open.spotify.com/artist/0EzuAcGLsiiedIRN9tXHYV) | [Oppydelics](https://open.spotify.com/album/1ooC39aG4dXXcAxJssEcK8) | 7:44 |
 | 3 | [Head Lights](https://open.spotify.com/track/4siDlNbBBuqE8AuNMhQ6eS) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Cherry](https://open.spotify.com/album/4vXwpz82nAfH45EFhT7UIq) | 2:25 |
 | 4 | [Only One](https://open.spotify.com/track/5LkXJVuNpcG5nLw3SXdY0D) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Only One](https://open.spotify.com/album/6dxHcJizTBUnujhu6ck68U) | 2:58 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Allison Russell",
+  "description": "Where roots meet what\u2019s next. Cover: The Revivalists ",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -2847,6 +2847,28 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232225,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K"
+    },
+    {
+      "album": {
         "name": "Change Of Heart",
         "url": "https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3"
       },
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189253,
       "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
       "url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg"
@@ -3802,7 +3824,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201230,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
@@ -9861,6 +9883,24 @@
     },
     {
       "album": {
+        "name": "Lost And Found",
+        "url": "https://open.spotify.com/album/24z44eqZei5uw847j9OAiu"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "Lost And Found",
+      "url": "https://open.spotify.com/track/1YUTEnvhR3mpllEOksEpau"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/2tf6b0OVMQg6Nh7O5OgHKu"
       },
@@ -10928,7 +10968,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 238266,
       "name": "My Darling My Dear",
       "url": "https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM"
@@ -11738,6 +11778,24 @@
       "duration_ms": 281602,
       "name": "On The Red River",
       "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
+    },
+    {
+      "album": {
+        "name": "One Day Away",
+        "url": "https://open.spotify.com/album/5laZyeoHbAjvS9jIbgN71g"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234808,
+      "name": "One Day Away",
+      "url": "https://open.spotify.com/track/72YS9qXvKsm8T2kx1BrQzL"
     },
     {
       "album": {
@@ -15110,7 +15168,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203830,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
@@ -16200,6 +16258,24 @@
       "duration_ms": 246857,
       "name": "The Mountain Song",
       "url": "https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb"
+    },
+    {
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "album": {

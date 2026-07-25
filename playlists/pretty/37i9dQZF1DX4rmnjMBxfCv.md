@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,798 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,839 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 50 | [Mentuliza](https://open.spotify.com/track/1XZ0xri3sJIyuK7pjEvO6E) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mentuliza](https://open.spotify.com/album/6MPYYv7vEZFjsP1zaK1Dhl) | 2:38 |
 | 51 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 |
 | 52 | [Miriam](https://open.spotify.com/track/52etM3DAcqcCCtRqJIXi6C) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Miriam's Praise](https://open.spotify.com/album/2z7ieRKUnROTOfAean3qoN) | 2:56 |
-| 53 | [Law Kan](https://open.spotify.com/track/33tBBo5e8HRqor0EnnXfF8) | [Ibrahim Najada](https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm), [Ahmad Farah](https://open.spotify.com/artist/36O893zlNc0heuMSZ1VCQB) | [Law Kan](https://open.spotify.com/album/4BADH5TYKFeJPOXv0Ygtyi) | 5:30 |
+| 53 | [Law Kan](https://open.spotify.com/track/33tBBo5e8HRqor0EnnXfF8) | [Najada](https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm), [Ahmad Farah](https://open.spotify.com/artist/36O893zlNc0heuMSZ1VCQB) | [Law Kan](https://open.spotify.com/album/4BADH5TYKFeJPOXv0Ygtyi) | 5:30 |
 | 54 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 55 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 56 | [Souf](https://open.spotify.com/track/75dgthlOwHnf7uOmSbC6gL) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Souf](https://open.spotify.com/album/1UaTYGyWIJz42vjz6g2JCo) | 4:02 |

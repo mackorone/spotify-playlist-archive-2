@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,857 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,978 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 8 | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [EALA](https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl) | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/album/6O1THNnK9WzwDzXNpAUFeW) | 2:30 |
 | 9 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
 | 10 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
-| 11 | [Track 2](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 0:00 |
+| 11 | [Erwachsen sein](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 3:22 |
 | 12 | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/album/3jHziwYnTyIhRvbgTQ1DY2) | 3:27 |
 | 13 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
 | 14 | [Monochroma](https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Monochroma](https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X) | 2:32 |

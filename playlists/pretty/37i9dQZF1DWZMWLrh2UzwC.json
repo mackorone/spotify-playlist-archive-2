@@ -1,13 +1,29 @@
 {
-  "description": "New music from  charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!",
-  "num_followers": 75552,
+  "description": "New music from JENNIE, KATSEYE, charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!",
+  "num_followers": 75729,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1emK9LBzQJKpew3CzATYLLntGO",
+  "snapshot_id": "AAAAAEUB9ss2TLlA5e8SMn/aArPgJdOw",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
     {
       "added_at": "2026-07-23 16:00:21",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-07-23 16:00:21",
@@ -195,6 +227,26 @@
       "duration_ms": 176153,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": "2026-07-23 16:00:21",
@@ -845,6 +897,38 @@
       "url": "https://open.spotify.com/track/3UWLMqGeWFay7BECP4EgHN"
     },
     {
+      "added_at": "2026-07-24 09:00:10",
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
+      },
+      "artists": [
+        {
+          "name": "EFI",
+          "url": "https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
+    },
+    {
+      "added_at": "2026-07-23 23:24:16",
+      "album": {
+        "name": "Maafkan Aku",
+        "url": "https://open.spotify.com/album/6IhwS9GluTAyM4bQGJTuGQ"
+      },
+      "artists": [
+        {
+          "name": "One Path",
+          "url": "https://open.spotify.com/artist/4NSVjwWzd7qPpxfPlqX3vi"
+        }
+      ],
+      "duration_ms": 197212,
+      "name": "Maafkan Aku",
+      "url": "https://open.spotify.com/track/1xGlqGC0zfZukK9Wy50BHp"
+    },
+    {
       "added_at": "2026-07-23 16:00:21",
       "album": {
         "name": "Pahit Akan Manis Akhirnya",
@@ -863,22 +947,6 @@
       "duration_ms": 266880,
       "name": "Pahit Akan Manis Akhirnya",
       "url": "https://open.spotify.com/track/0afx1AKLCAe6W82ilBBXyV"
-    },
-    {
-      "added_at": "2026-07-23 23:24:16",
-      "album": {
-        "name": "Maafkan Aku",
-        "url": "https://open.spotify.com/album/6IhwS9GluTAyM4bQGJTuGQ"
-      },
-      "artists": [
-        {
-          "name": "One Path",
-          "url": "https://open.spotify.com/artist/4NSVjwWzd7qPpxfPlqX3vi"
-        }
-      ],
-      "duration_ms": 197212,
-      "name": "Maafkan Aku",
-      "url": "https://open.spotify.com/track/1xGlqGC0zfZukK9Wy50BHp"
     },
     {
       "added_at": "2026-07-23 16:00:21",
@@ -1383,7 +1451,7 @@
     {
       "added_at": "2026-07-23 16:00:21",
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -1393,7 +1461,7 @@
         }
       ],
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
@@ -1408,8 +1476,8 @@
           "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 234970,
+      "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30"
     },
     {
@@ -1459,6 +1527,22 @@
       "duration_ms": 195000,
       "name": "Time's Tickin'",
       "url": "https://open.spotify.com/track/6WcdWooQTruqc17klaufxm"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "<Born Stunner>",
+        "url": "https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Born Stunner",
+      "url": "https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf"
     },
     {
       "added_at": "2026-07-23 16:00:21",
@@ -1604,9 +1688,33 @@
           "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 140100,
+      "name": "Palm",
       "url": "https://open.spotify.com/track/0LZI5VdVmDlrGFDFgk4Tix"
+    },
+    {
+      "added_at": "2026-07-23 16:00:21",
+      "album": {
+        "name": "DUMBLR",
+        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+        }
+      ],
+      "duration_ms": 164549,
+      "name": "DUMBLR",
+      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
     },
     {
       "added_at": "2026-07-23 16:00:21",

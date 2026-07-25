@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 136466,
       "name": "Al buio con te",
       "url": "https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ"
@@ -344,6 +344,24 @@
       "duration_ms": 151708,
       "name": "Almonte",
       "url": "https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL"
+    },
+    {
+      "album": {
+        "name": "Alone, Listening",
+        "url": "https://open.spotify.com/album/1wiR3SfSv9KF1iAbE6x7qA"
+      },
+      "artists": [
+        {
+          "name": "From the Chair",
+          "url": "https://open.spotify.com/artist/1BmGWOUulQzcxVzizt479l"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160814,
+      "name": "Alone, Listening",
+      "url": "https://open.spotify.com/track/1jfXTqauh27a9CPfoS6Xz5"
     },
     {
       "album": {
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 145810,
       "name": "Fusionnelle",
       "url": "https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5"
@@ -6760,7 +6778,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 139357,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT"
@@ -7977,6 +7995,24 @@
     },
     {
       "album": {
+        "name": "The Bay",
+        "url": "https://open.spotify.com/album/5PIUhD2SCTvy2q8J8vZdFo"
+      },
+      "artists": [
+        {
+          "name": "Peiskos",
+          "url": "https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/1PWkiCBYl1pU3gb5qXgCN4"
+    },
+    {
+      "album": {
         "name": "The Beautiful Changes",
         "url": "https://open.spotify.com/album/3HqjTnli0Tcg3TRL7Sqb7F"
       },
@@ -9032,7 +9068,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180260,
       "name": "Vento leggero",
       "url": "https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ"

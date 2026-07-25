@@ -1,12 +1,12 @@
 {
   "description": "Cover: 7ari",
-  "num_followers": 388066,
+  "num_followers": 388124,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHbex5az84NdWPv9Duxkq3q24B4",
+  "snapshot_id": "AAAAAHTY6p4ZICyzHgp2qUMyYMIikBa4",
   "tracks": [
     {
       "added_at": "2026-07-18 23:00:29",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
     },
     {
+      "added_at": "2026-07-24 09:08:56",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "103",
+      "url": "https://open.spotify.com/track/3p59xsENCUBnCC4biGR9GK"
+    },
+    {
       "added_at": "2026-07-18 23:00:29",
       "album": {
         "name": "SPLIT",
@@ -207,22 +223,6 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "L\u2019HARAKA",
-        "url": "https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4"
-      },
-      "artists": [
-        {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
-        }
-      ],
-      "duration_ms": 170787,
-      "name": "L\u2019HARAKA",
-      "url": "https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
         "name": "PAVAROTTI X GHALTA",
         "url": "https://open.spotify.com/album/7HOZlpw9TvgwwTcLQhN8F4"
       },
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/3bDMMx2DCtciigoJn8jEcc"
     },
     {
+      "added_at": "2026-07-24 09:08:56",
+      "album": {
+        "name": "M\u00caME PAS",
+        "url": "https://open.spotify.com/album/0mY4RdgygLFNbhj9SlTcOU"
+      },
+      "artists": [
+        {
+          "name": "Shr",
+          "url": "https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "M\u00caME PAS",
+      "url": "https://open.spotify.com/track/3oQhKs5BpsjykMOtccBERO"
+    },
+    {
       "added_at": "2026-07-18 23:00:29",
       "album": {
         "name": "Milla",
@@ -295,6 +311,42 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
+    },
+    {
+      "added_at": "2026-07-18 23:00:29",
+      "album": {
+        "name": "Fundo",
+        "url": "https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI"
+      },
+      "artists": [
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 221358,
+      "name": "Fundo",
+      "url": "https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E"
+    },
+    {
+      "added_at": "2026-07-18 23:00:29",
+      "album": {
         "name": "MC-101",
         "url": "https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV"
       },
@@ -313,6 +365,30 @@
       "url": "https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel"
     },
     {
+      "added_at": "2026-07-24 09:08:56",
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/5ewr5yE9tQ3f6wRljkGUqw"
+      },
+      "artists": [
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        },
+        {
+          "name": "DEIMI",
+          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ"
+    },
+    {
       "added_at": "2026-07-18 23:00:29",
       "album": {
         "name": "PER LA VITA",
@@ -327,6 +403,22 @@
       "duration_ms": 192000,
       "name": "PER LA VITA",
       "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
+    },
+    {
+      "added_at": "2026-07-18 23:00:29",
+      "album": {
+        "name": "Dorororo",
+        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Dorororo",
+      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -367,34 +459,18 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "caramel",
-        "url": "https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H"
+        "name": "MOVETA",
+        "url": "https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1"
       },
       "artists": [
         {
-          "name": "Valerieblud",
-          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
         }
       ],
-      "duration_ms": 163200,
-      "name": "caramel",
-      "url": "https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
-        "name": "Parano",
-        "url": "https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61"
-      },
-      "artists": [
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Parano",
-      "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
+      "duration_ms": 234718,
+      "name": "Uber Driver",
+      "url": "https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -435,22 +511,34 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "Bottega",
-        "url": "https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK"
+        "name": "TTH",
+        "url": "https://open.spotify.com/album/0ecDtCHphErDM6u58qoTLa"
       },
       "artists": [
         {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
-        },
-        {
-          "name": "S13",
-          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
         }
       ],
-      "duration_ms": 120740,
-      "name": "Bottega",
-      "url": "https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB"
+      "duration_ms": 150000,
+      "name": "TTH",
+      "url": "https://open.spotify.com/track/5e2B0cQ76QlP0QjD05Ifu4"
+    },
+    {
+      "added_at": "2026-07-18 23:00:29",
+      "album": {
+        "name": "L\u2019HARAKA",
+        "url": "https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 170787,
+      "name": "L\u2019HARAKA",
+      "url": "https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -467,6 +555,22 @@
       "duration_ms": 183999,
       "name": "OMAR",
       "url": "https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl"
+    },
+    {
+      "added_at": "2026-07-18 23:00:29",
+      "album": {
+        "name": "KIYA",
+        "url": "https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW"
+      },
+      "artists": [
+        {
+          "name": "Khtek",
+          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "KIYA",
+      "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -491,50 +595,38 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "MOVETA",
-        "url": "https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1"
+        "name": "caramel",
+        "url": "https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H"
       },
       "artists": [
         {
-          "name": "ONZY",
-          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
         }
       ],
-      "duration_ms": 234718,
-      "name": "Uber Driver",
-      "url": "https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC"
+      "duration_ms": 163200,
+      "name": "caramel",
+      "url": "https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V"
     },
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "Dorororo",
-        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK"
       },
       "artists": [
         {
-          "name": "Gustavo 51",
-          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Dorororo",
-      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
-        "name": "TTH",
-        "url": "https://open.spotify.com/album/0ecDtCHphErDM6u58qoTLa"
-      },
-      "artists": [
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        },
         {
-          "name": "777YM",
-          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
         }
       ],
-      "duration_ms": 150000,
-      "name": "TTH",
-      "url": "https://open.spotify.com/track/5e2B0cQ76QlP0QjD05Ifu4"
+      "duration_ms": 120740,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -723,42 +815,6 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "Fundo",
-        "url": "https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI"
-      },
-      "artists": [
-        {
-          "name": "Clemando",
-          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
-        },
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 221358,
-      "name": "Fundo",
-      "url": "https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
-        "name": "PLAN B",
-        "url": "https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 181331,
-      "name": "SOLIDE",
-      "url": "https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
         "name": "SILENT BATTLES",
         "url": "https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY"
       },
@@ -787,22 +843,6 @@
       "duration_ms": 154285,
       "name": "DAZOU LYAM",
       "url": "https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
-        "name": "KIYA",
-        "url": "https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW"
-      },
-      "artists": [
-        {
-          "name": "Khtek",
-          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "KIYA",
-      "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -843,22 +883,6 @@
     {
       "added_at": "2026-07-18 23:00:29",
       "album": {
-        "name": "MAKARIB",
-        "url": "https://open.spotify.com/album/5i8NC0g4UYGrJLcyjXswQm"
-      },
-      "artists": [
-        {
-          "name": "THE ONLY",
-          "url": "https://open.spotify.com/artist/1K09FOInOZrzcIL6iLEcTk"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "MAKARIB",
-      "url": "https://open.spotify.com/track/3ymdvTuxxXeePY6T1MOh9y"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
         "name": "VFC",
         "url": "https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim"
       },
@@ -871,22 +895,6 @@
       "duration_ms": 209536,
       "name": "VFC",
       "url": "https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka"
-    },
-    {
-      "added_at": "2026-07-18 23:00:29",
-      "album": {
-        "name": "KTER MN 10",
-        "url": "https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT"
-      },
-      "artists": [
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "KTER MN 10",
-      "url": "https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP"
     }
   ],
   "unique_name": "ABAT\u2211RA",

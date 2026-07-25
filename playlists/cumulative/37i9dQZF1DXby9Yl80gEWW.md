@@ -4,7 +4,7 @@
 
 > No words, just chops\. Cover: Matt Combs
 
-334 songs - 20 hr 27 min
+335 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [If I Knew \- Instrumental](https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Short Trip Home](https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA) | 4:04 | 2021-12-03 | 2024-11-23 |
 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-12-03 | 2023-12-24 |
 | [In the Kitchen](https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud) | 4:11 | 2023-11-24 | 2024-04-19 |
-| [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 |  |
+| [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 | 2026-07-25 |
 | [Jamboree](https://open.spotify.com/track/153MUfhVPtLQ6vpv91k9qH) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ) | [School Project](https://open.spotify.com/album/1AVQTlOkCpgYHUMyF7HxrG) | 2:17 | 2023-11-24 | 2025-01-11 |
 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 | 2021-12-03 | 2024-06-01 |
 | [Jolly Green](https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Jolly Green](https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY) | 2:22 | 2024-04-12 | 2026-06-26 |
@@ -260,6 +260,7 @@
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2023-05-15 | 2024-04-19 |
 | [Smokin' Strings \(feat\. Billy Strings\)](https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU) | 7:09 | 2024-11-22 | 2025-01-11 |
 | [Smoothie Song](https://open.spotify.com/track/0ETiP5S8lbp8w6O7hc70Kk) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [This Side](https://open.spotify.com/album/22nQdZSid64plYdy5zRHew) | 3:20 | 2021-12-03 | 2022-07-23 |
+| [Solve Knut \(untied\)](https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Unsung Adventures of Punch Brothers](https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ) | 4:12 | 2026-07-24 |  |
 | [Sometimes it Does](https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 1:59 | 2021-12-03 |  |
 | [Song of the Water Kelpie \(unsung\)](https://open.spotify.com/track/6ugixxbJeppa2bI30zZ9Hy) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Song of the Water Kelpie \(unsung\)](https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU) | 5:08 | 2026-05-14 |  |
 | [Southern Flavor](https://open.spotify.com/track/09t823b4wbpbWRQ4TmQTJ2) | [Greg Moore](https://open.spotify.com/artist/1moW7XiF397WEoONQ6zuKO), [Greg Donlan](https://open.spotify.com/artist/1OOAQHaSEB910mOvXtcKqW), [Danny Paisley](https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi), [Clay Hess](https://open.spotify.com/artist/3bOeZQWMpQyrs7gDnbefxH), [Danny Stewart Jr](https://open.spotify.com/artist/5KabYv8ZxPsPgtU4m5IJMs) | [Hollow Box Rhythm](https://open.spotify.com/album/50npOaYN1gqEcWRkussrSd) | 2:59 | 2021-12-03 | 2022-08-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38435,
+  "num_followers": 38451,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
         "name": "Masuta (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 282315,
       "name": "Waju De Waju De",
       "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
       "added_at": "2026-06-10 09:54:00",

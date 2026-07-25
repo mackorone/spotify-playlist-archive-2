@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da A curated space for the und3rground\u22c6 \u02da\u208a\u2027\u207a Cover: Nia Archives",
+  "description": "\u207a\u2027\u208a\u02da A curated space for the und3rground\u22c6 \u02da\u208a\u2027\u207a Cover: 2hollis",
   "name": "Proto-",
   "tracks": [
     {
@@ -3265,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "harry osborn",
+        "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
+      },
+      "artists": [
+        {
+          "name": "jamvvis",
+          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
+        },
+        {
+          "name": "Shanic",
+          "url": "https://open.spotify.com/artist/4iwYvUGOkgKYbCF0rcmJay"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "bad hackers",
+      "url": "https://open.spotify.com/track/3g7aCFjSLwEIDwPrCd1vMs"
+    },
+    {
+      "album": {
         "name": "Bad Lyfe",
         "url": "https://open.spotify.com/album/6KC48Q44YsGLTqX9tWlAQO"
       },
@@ -5686,7 +5708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 151254,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX"
@@ -15255,6 +15277,24 @@
     },
     {
       "album": {
+        "name": "Hell of a time",
+        "url": "https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "Hell of a time",
+      "url": "https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp"
+    },
+    {
+      "album": {
         "name": "hellooooo????",
         "url": "https://open.spotify.com/album/1qyEI9052S3uscyTLNa6n1"
       },
@@ -18946,7 +18986,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 224418,
       "name": "Klouds Will Carry Me To Sleep",
       "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
@@ -25659,6 +25699,24 @@
     },
     {
       "album": {
+        "name": "PALETA",
+        "url": "https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID"
+      },
+      "artists": [
+        {
+          "name": "rommulas",
+          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88421,
+      "name": "PALETA",
+      "url": "https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw"
+    },
+    {
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/2tSkEc1RoebP9UyavlkbCn"
       },
@@ -25974,7 +26032,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 148000,
       "name": "PASTEL SKIES",
       "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Rolf Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,637 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,653 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marchar](https://open.spotify.com/track/0NYBQ5Yzk7eGUgE7ift7cx) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Marchar](https://open.spotify.com/album/2aISNjdK6fJWbrq7XPUj7m) | 2:00 |
 | 2 | [Hartenbreker](https://open.spotify.com/track/5MJEH4CwlbbsSjNR5k1k4s) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Hartenbreker](https://open.spotify.com/album/0lGHnncRE7ZX2fbPNnpC6e) | 2:49 |
 | 3 | [We Zijn Er](https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [We Zijn Er](https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ) | 2:42 |
-| 4 | [Track 4](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 0:00 |
+| 4 | [Hij](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 2:31 |
 | 5 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
 | 6 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
 | 7 | [Allang Van Mij](https://open.spotify.com/track/6cmxD3gXSujTVgEqEygqTL) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Allang Van Mij](https://open.spotify.com/album/6ZK2NXTLHNzid9R826LbCC) | 2:45 |

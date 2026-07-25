@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-202 songs - 9 hr 55 min
+203 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Anyone's Guess](https://open.spotify.com/track/45zyM4NTpaYTp58OJzmaMI) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Anyone's Guess](https://open.spotify.com/album/4EZSr1NCFEc4yzD2NlPTZa) | 3:54 | 2026-02-01 |  |
 | [Apologies](https://open.spotify.com/track/7KvJup9EIS0K5Tsunt2p4r) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2023-08-07 |  |
+| [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 | 2026-07-24 |  |
 | [Away you bleed](https://open.spotify.com/track/4FHp3T2CC92SV7JFLE8Q5j) | [Sway Burr](https://open.spotify.com/artist/57bMN7QDsEnxCtPXDo56Ok), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Away you bleed](https://open.spotify.com/album/7L34snu4jsWI5A5el0o27Z) | 2:00 | 2025-07-04 | 2025-08-02 |
 | [backwoods](https://open.spotify.com/track/3LXtxniYptzZC88Jh21KYi) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [backwoods](https://open.spotify.com/album/5G6TgTgH6PF7grNV2mcmwn) | 4:07 | 2024-03-29 |  |
 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 | 2024-02-23 |  |
@@ -169,7 +170,7 @@
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2024-02-23 |  |
 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 | 2024-02-16 | 2024-08-10 |
 | [Sad Song](https://open.spotify.com/track/6TGcyIIJgkfVEg5AP4mwHo) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sad Song](https://open.spotify.com/album/60K08nLuWmoctIih6sILjP) | 2:20 | 2025-01-31 | 2026-01-15 |
-| [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2024-07-08 |  |
+| [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2024-07-08 | 2026-07-25 |
 | [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 | 2025-08-29 |  |
 | [Selfish](https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Selfish](https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R) | 2:50 | 2025-04-18 | 2026-01-15 |
 | [September 16](https://open.spotify.com/track/7a5RvlW5tMU0AZ4tvbGLhn) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [September 16](https://open.spotify.com/album/6l0SXtc1DYfmjBnPOKw1wJ) | 4:09 | 2024-02-23 |  |

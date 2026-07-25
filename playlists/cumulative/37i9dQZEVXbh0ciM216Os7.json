@@ -7295,6 +7295,28 @@
     },
     {
       "album": {
+        "name": "Fantastic Voyages (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131306,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR"
+    },
+    {
+      "album": {
         "name": "New York Nemo",
         "url": "https://open.spotify.com/album/1kyOrLCg6u3GLT3ZGruB8i"
       },
@@ -8457,6 +8479,28 @@
     },
     {
       "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
+      "album": {
         "name": "Blue Suede Shoes (Metal Version)",
         "url": "https://open.spotify.com/album/5Pgq45j6VAbgQkDtItrRWM"
       },
@@ -9548,6 +9592,36 @@
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
+    },
+    {
+      "album": {
+        "name": "To Awaken the Sleeper",
+        "url": "https://open.spotify.com/album/1a6qPidaL2S1IebBisKB67"
+      },
+      "artists": [
+        {
+          "name": "Joel Thompson",
+          "url": "https://open.spotify.com/artist/1JTn2fT2Cbr8L9whMU6dxk"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kansas City Symphony",
+          "url": "https://open.spotify.com/artist/2szjWor9jAqWiAZLr5gNhO"
+        },
+        {
+          "name": "Michael Stern",
+          "url": "https://open.spotify.com/artist/0wQyWXnSeeg5nQvktH1fSk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468140,
+      "name": "breathe/burn: an elegy",
+      "url": "https://open.spotify.com/track/2cQ81LaDILZ1pnBJzpABKc"
     },
     {
       "album": {
@@ -28346,7 +28420,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 230001,
       "name": "Grey Hun",
       "url": "https://open.spotify.com/track/4z8huhqEYqfRwYTXrb8ZA3"
@@ -31320,6 +31394,24 @@
       "duration_ms": 168653,
       "name": "Horseback",
       "url": "https://open.spotify.com/track/5AvPZT0oHmQewNNbrv6cHr"
+    },
+    {
+      "album": {
+        "name": "HUN",
+        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275227,
+      "name": "Horsemen",
+      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
     },
     {
       "album": {
@@ -37513,6 +37605,24 @@
     },
     {
       "album": {
+        "name": "Banks Of The Trinity",
+        "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "Kissing A Married Woman",
+      "url": "https://open.spotify.com/track/0GMSTTdaQScwGpKtWcWg20"
+    },
+    {
+      "album": {
         "name": "LOBBY",
         "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
       },
@@ -40574,7 +40684,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 261333,
       "name": "Lion Kings",
       "url": "https://open.spotify.com/track/1eRmdlmdoa1vMtLMu25LiT"
@@ -41233,6 +41343,24 @@
     },
     {
       "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
+    },
+    {
+      "album": {
         "name": "Lonely Road (feat. Terrace Martin)",
         "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
       },
@@ -41286,6 +41414,36 @@
       "duration_ms": 204631,
       "name": "LONELY ROADS",
       "url": "https://open.spotify.com/track/5PluZXx7FV3KEeT3rXecgM"
+    },
+    {
+      "album": {
+        "name": "Longshot",
+        "url": "https://open.spotify.com/album/43uhiAyZZF1ftlgHaDMKZX"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        },
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213796,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/3IxtfCiLl7sC5ahyoWysnk"
     },
     {
       "album": {
@@ -49499,6 +49657,24 @@
     },
     {
       "album": {
+        "name": "On Melancholy Hill",
+        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186144,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
+    },
+    {
+      "album": {
         "name": "On My",
         "url": "https://open.spotify.com/album/6b9lRjsR9dsyyP8ote1TXq"
       },
@@ -54938,7 +55114,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186514,
       "name": "pure colour (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/4BgZNZ8hKrfyU4jiCKoAIg"
@@ -60426,7 +60602,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 184786,
       "name": "Shoot The Bull",
       "url": "https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF"
@@ -63296,6 +63472,32 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "album": {
+        "name": "Digital",
+        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
+      },
+      "artists": [
+        {
+          "name": "Omari Lyseight",
+          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Rockitneedspace",
+          "url": "https://open.spotify.com/artist/4EMEuT5Cd4WjEXyi2tmbOW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Square",
+      "url": "https://open.spotify.com/track/1kplR9wDTinjwZxeyVX1sn"
     },
     {
       "album": {
@@ -70057,6 +70259,28 @@
     },
     {
       "album": {
+        "name": "Tao of Glass",
+        "url": "https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Phelim McDermott",
+          "url": "https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711888,
+      "name": "The Tao of Glass: 4. Coma",
+      "url": "https://open.spotify.com/track/6KQZvSvCvfhmFKiv5s6lad"
+    },
+    {
+      "album": {
         "name": "John Coltrane Quartet + Stan Getz + Oscar Peterson: Live Dusseldorf 1960 (Live Restauraci\u00f3n 2024)",
         "url": "https://open.spotify.com/album/3VcGwRasSIkWfFJjADQsIa"
       },
@@ -73074,6 +73298,36 @@
       "duration_ms": 135212,
       "name": "two",
       "url": "https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK"
+    },
+    {
+      "album": {
+        "name": "PEREZ",
+        "url": "https://open.spotify.com/album/2G4F5RcdYBHkXa8gW48eLP"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Two Face",
+      "url": "https://open.spotify.com/track/363e1YPdYLp8OzySuQsogL"
     },
     {
       "album": {

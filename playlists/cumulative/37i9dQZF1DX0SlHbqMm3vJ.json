@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
@@ -10916,7 +10916,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
@@ -11516,6 +11516,28 @@
       "duration_ms": 187984,
       "name": "Lovina",
       "url": "https://open.spotify.com/track/6vTzcrUoQIqMlg2KDY5XZM"
+    },
+    {
+      "album": {
+        "name": "Love and Highnotes",
+        "url": "https://open.spotify.com/album/0vL5IPGmDudECexRZK8oE4"
+      },
+      "artists": [
+        {
+          "name": "Oberz",
+          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177868,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
     },
     {
       "album": {
@@ -18603,24 +18625,6 @@
     },
     {
       "album": {
-        "name": "Love and Highnotes",
-        "url": "https://open.spotify.com/album/0vL5IPGmDudECexRZK8oE4"
-      },
-      "artists": [
-        {
-          "name": "Oberz",
-          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
-    },
-    {
-      "album": {
         "name": "Next Rated",
         "url": "https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ"
       },
@@ -20272,7 +20276,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197522,
-      "name": "Wurumanya",
+      "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {

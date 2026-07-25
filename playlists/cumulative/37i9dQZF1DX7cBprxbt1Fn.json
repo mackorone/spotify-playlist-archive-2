@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Goodnight Moon",
+        "url": "https://open.spotify.com/album/3Zky5TmTPiOUOqlORV3Wb5"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275607,
+      "name": "Goodnight Moon",
+      "url": "https://open.spotify.com/track/2ShCYgNDLPWjB0lS9zRgUK"
+    },
+    {
+      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -1318,7 +1340,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241986,
-      "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+      "name": "Nocturne No. 19 in E Minor, Op. 72 No. 1",
       "url": "https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w"
     },
     {

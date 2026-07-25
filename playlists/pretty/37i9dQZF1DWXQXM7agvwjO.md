@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: KIKI \(Thailand\)
+> Hottest indie sounds from Asia\. Cover: Andr \(Taiwan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,705 likes - 97 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,765 likes - 97 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 96 | [Halosphere](https://open.spotify.com/track/6C0EbKaOy6eU60CVQcmJwa) | [Robin Block](https://open.spotify.com/artist/3SbJnt1H6mhZwq18OwavfT), [Alfian Emir Adytia](https://open.spotify.com/artist/7ckzCiGZWG0uX83L5haBZL) | [Hello, Sun.](https://open.spotify.com/album/0JdvfBfmKfexBM5j0ylhfL) | 5:05 |
 | 97 | [slowly](https://open.spotify.com/track/0PJ5G0o5g6rvsgEgJ0QQe5) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [slowly](https://open.spotify.com/album/5pEsXaw4mCw5IgQLsjTkNg) | 3:50 |
 
-Snapshot ID: `AAAAAOyABGVThESdEww2IVnAnS0aXDl/`
+Snapshot ID: `AAAAAACn4m27b3/h6pPHMuTlfl7Lt47N`

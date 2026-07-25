@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Field Guide, Georgia Harmer",
+  "description": "A laid-back trip in the folk scene. Cover: Sam Drysdale",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190550,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
@@ -1476,6 +1476,24 @@
       "duration_ms": 237691,
       "name": "American Dreaming - Single Edit",
       "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
+    {
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/2rBvf3unbai2Qk6Mr5oSSv"
+      },
+      "artists": [
+        {
+          "name": "Basset",
+          "url": "https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319010,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7sEZZ73Y1c3CSoM8benTbR"
     },
     {
       "album": {
@@ -4765,6 +4783,28 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232225,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -7399,6 +7439,24 @@
     },
     {
       "album": {
+        "name": "East Of The Sun",
+        "url": "https://open.spotify.com/album/3CxCyGw1wpOkt7FQFRvfJl"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199815,
+      "name": "East Of The Sun",
+      "url": "https://open.spotify.com/track/2siFVCtVCL6vL0ug8IfHmY"
+    },
+    {
+      "album": {
         "name": "River's Daughter",
         "url": "https://open.spotify.com/album/2fxA9ooEYE0hZRAOa9eBfl"
       },
@@ -8037,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "Every Age",
+        "url": "https://open.spotify.com/album/1uT1o6hSvgaBGvDpiHlGGw"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Every Age",
+      "url": "https://open.spotify.com/track/4j7OedJfJyq3HHtwvyQAu7"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
       },
@@ -8488,6 +8564,24 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+      },
+      "artists": [
+        {
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "album": {
@@ -9446,7 +9540,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 273589,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/5Smhvv8feumz7NEkCZAp0k"
@@ -10259,6 +10353,28 @@
     },
     {
       "album": {
+        "name": "Sorry, Kid",
+        "url": "https://open.spotify.com/album/2BYdFpwcIUWLQCcVgFTtrK"
+      },
+      "artists": [
+        {
+          "name": "Johanna Samuels",
+          "url": "https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa"
+        },
+        {
+          "name": "Jordan Lehning",
+          "url": "https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222895,
+      "name": "Full Story",
+      "url": "https://open.spotify.com/track/5xG7PahBFTxsCwTNWxSsFl"
+    },
+    {
+      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
@@ -10512,6 +10628,28 @@
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "album": {
+        "name": "I Don't Know How But They Found Me...Again!",
+        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229911,
+      "name": "God Has A Hitman",
+      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
     },
     {
       "album": {
@@ -12035,6 +12173,24 @@
     },
     {
       "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
+    },
+    {
+      "album": {
         "name": "Home In Sight",
         "url": "https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE"
       },
@@ -12336,7 +12492,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 225302,
       "name": "Horizon - Rework",
       "url": "https://open.spotify.com/track/3jMDGbZ3UoLiMfQgvV2wWo"
@@ -13789,6 +13945,24 @@
     },
     {
       "album": {
+        "name": "Impossible Truth",
+        "url": "https://open.spotify.com/album/3FCSOToSQuswDNHouEGrRA"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Impossible Truth",
+      "url": "https://open.spotify.com/track/7hmnBBQ95Q59UxDDiyVQTR"
+    },
+    {
+      "album": {
         "name": "In 40 Years",
         "url": "https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz"
       },
@@ -14980,7 +15154,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245236,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/0csn8Na8Zbuipf5Ncicv21"
@@ -16800,7 +16974,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185000,
       "name": "Maitland",
       "url": "https://open.spotify.com/track/3S73zNocZTVnl45WkXlV11"
@@ -17528,7 +17702,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 170000,
       "name": "Milkman",
       "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
@@ -18364,7 +18538,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191000,
       "name": "My Mess",
       "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
@@ -19383,6 +19557,24 @@
     },
     {
       "album": {
+        "name": "The Nomad",
+        "url": "https://open.spotify.com/album/6OSGtvY63VG5S2s444EkBo"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223299,
+      "name": "Not Apart",
+      "url": "https://open.spotify.com/track/57yByCEjVUxaLzmZdf7Kyr"
+    },
+    {
+      "album": {
         "name": "Sprig B Sides",
         "url": "https://open.spotify.com/album/69kymU1rW1EQlHIbsKU5Xp"
       },
@@ -19852,7 +20044,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192600,
       "name": "Oh, Ana",
       "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
@@ -20278,6 +20470,24 @@
       "duration_ms": 223036,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/0HTAW7MuoTKLzLKoQdI3i3"
+    },
+    {
+      "album": {
+        "name": "Unplugged at Singing Serpent (Presented by Taylor Guitars)",
+        "url": "https://open.spotify.com/album/0gIVa1M4yX0HOswMv7sG9f"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "One More Day - Unplugged at Singing Serpent",
+      "url": "https://open.spotify.com/track/0H4lnGoowOJlQ4cswgls7T"
     },
     {
       "album": {
@@ -21421,6 +21631,24 @@
     },
     {
       "album": {
+        "name": "Planet News",
+        "url": "https://open.spotify.com/album/21XpQZlKtQsdDH1p4LAowg"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151076,
+      "name": "Planet News",
+      "url": "https://open.spotify.com/track/6yhyXFOEJAlAziORoBb8Y1"
+    },
+    {
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1tYIJCasFeRn7c6OvDWuiD"
       },
@@ -21620,6 +21848,24 @@
       "duration_ms": 145666,
       "name": "Praying For Something Good",
       "url": "https://open.spotify.com/track/5qpDDtkdATvsChnQPpi3iP"
+    },
+    {
+      "album": {
+        "name": "Pre-Raphaelite",
+        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262794,
+      "name": "Pre-Raphaelite",
+      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
     },
     {
       "album": {
@@ -21956,6 +22202,24 @@
       "duration_ms": 142693,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl"
+    },
+    {
+      "album": {
+        "name": "Rabbits",
+        "url": "https://open.spotify.com/album/7CFkdPOjFafaSbGA9TQXCX"
+      },
+      "artists": [
+        {
+          "name": "Starpainter",
+          "url": "https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232628,
+      "name": "Rabbits",
+      "url": "https://open.spotify.com/track/1cTC2W0U5Gj2gSrGJQLScH"
     },
     {
       "album": {
@@ -23782,6 +24046,24 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/70lZ4xWigSX2VSbYDdMyOS"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192516,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/450Q0VkTBkDGc7tfNjgjut"
     },
     {
       "album": {
@@ -25645,6 +25927,24 @@
     },
     {
       "album": {
+        "name": "Sundried Daisies",
+        "url": "https://open.spotify.com/album/7IV2728nWz8nowZT9Zzffp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ellsworth",
+          "url": "https://open.spotify.com/artist/3YZWrLzjRyroaj0DVpPEFd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Sundried Daisies",
+      "url": "https://open.spotify.com/track/5F3luq0yMSvsQNSmMDDAYQ"
+    },
+    {
+      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -27082,7 +27382,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175653,
       "name": "The Landfill",
       "url": "https://open.spotify.com/track/37jZ4OmmPlkJ3ClpFtAM07"
@@ -27230,6 +27530,24 @@
       "duration_ms": 153626,
       "name": "The Nameless",
       "url": "https://open.spotify.com/track/6MYTjhbJu3vmQJnO031Qpj"
+    },
+    {
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "album": {
@@ -27616,6 +27934,24 @@
       "duration_ms": 317320,
       "name": "The Well Has Run Dry",
       "url": "https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC"
+    },
+    {
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/0CLOcwRRuLWsNqJtGEiiKs"
+      },
+      "artists": [
+        {
+          "name": "Sam Drysdale",
+          "url": "https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220016,
+      "name": "The Window",
+      "url": "https://open.spotify.com/track/0rlH2RkP6Cnhn1nrM8scUb"
     },
     {
       "album": {
@@ -29202,7 +29538,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
@@ -29668,7 +30004,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229118,
       "name": "we fly for the ones we love",
       "url": "https://open.spotify.com/track/4XNFLgJF5RUffH6vWUwBho"
@@ -31428,7 +31764,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 268026,
       "name": "You & We",
       "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
@@ -31482,7 +31818,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 169278,
       "name": "You and I",
       "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"

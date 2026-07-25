@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Ken Carson, Autumn! and more",
+  "description": "With Yeat, Ken Carson, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "FA FA FA",
+        "url": "https://open.spotify.com/album/4vGEwXtUOZoElGEm2g0eLa"
+      },
+      "artists": [
+        {
+          "name": "Dooda",
+          "url": "https://open.spotify.com/artist/3mNh5xOR2iQA8KIiPyeQbP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93019,
+      "name": "FA FA FA",
+      "url": "https://open.spotify.com/track/1Mpx6tCfsmcJEuOAFUPeml"
+    },
+    {
+      "album": {
         "name": "Gethsemane",
         "url": "https://open.spotify.com/album/61xZCgjnuFL6ZAzzL7wE5a"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 195433,
       "name": "Fuck Good Business - Remix",
       "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

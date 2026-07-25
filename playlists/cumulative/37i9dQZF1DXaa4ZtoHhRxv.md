@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-274 songs - 14 hr 28 min
+275 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Don't You Blink](https://open.spotify.com/track/5wzWnclLk0dNnd405P0pM0) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Big Boots](https://open.spotify.com/album/4EmuD8QXF5QzsjDcSWxI1i) | 3:43 | 2026-05-08 |  |
 | [Down For It \(feat\. T.I.\) \- JD Walker Version](https://open.spotify.com/track/1DgBv0OkqlVypiJn7oQNfb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:06 | 2021-12-10 | 2025-06-01 |
 | [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/album/4YwfobtqcePOPYwcgiH0YA) | 3:28 | 2021-12-10 | 2025-06-17 |
+| [Drinkin’ Problem \- Country Night Remix](https://open.spotify.com/track/4S7VVsQ9pUyelFuAfV3KlY) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3) | [Midland \- Country Night Remixes](https://open.spotify.com/album/5f76YO2fVNooew3UEuoSBB) | 2:21 | 2026-07-24 |  |
 | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \- GOLDHOUSE Remix](https://open.spotify.com/track/3waUCQw6FzbImpXAQ282Zm) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \[GOLDHOUSE Remix\]](https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg) | 3:37 | 2021-12-10 |  |
 | [Drunk Me \- R3HAB Remix](https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Drunk Me \(R3HAB Remix\)](https://open.spotify.com/album/33Fyd6by0ZBwbrvRYv2iSQ) | 2:33 | 2021-12-10 | 2026-05-30 |
 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 | 2025-06-16 |  |

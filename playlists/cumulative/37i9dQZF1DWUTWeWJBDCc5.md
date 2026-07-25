@@ -2,9 +2,9 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: The Marías\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Chanel Beads\)
 
-257 songs - 14 hr 10 min
+259 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 | 2026-03-03 | 2026-04-30 |
 | [CRIB](https://open.spotify.com/track/2vU2TawckWuVgAl2A16EFW) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 2:31 | 2026-02-25 | 2026-04-30 |
 | [cycles](https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [cycles](https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz) | 2:28 | 2026-02-04 | 2026-03-04 |
-| [Day dream](https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Day dream](https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP) | 3:58 | 2026-06-03 |  |
+| [Day dream](https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Day dream](https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP) | 3:58 | 2026-06-03 | 2026-07-25 |
 | [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 | 2026-02-04 | 2026-03-04 |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2026-02-04 | 2026-03-04 |
 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-02-04 | 2026-03-04 |
@@ -186,7 +186,7 @@
 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 | 2026-04-29 | 2026-06-13 |
 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-12-04 | 2026-02-05 |
 | [OUTSIDE](https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [OUTSIDE](https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7) | 2:51 | 2026-06-29 |  |
-| [Overdrive](https://open.spotify.com/track/1HFcJsOxF3VEUmYM8PpjlQ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 3:14 | 2026-06-21 |  |
+| [Overdrive](https://open.spotify.com/track/1HFcJsOxF3VEUmYM8PpjlQ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 3:14 | 2026-06-21 | 2026-07-25 |
 | [Overthink](https://open.spotify.com/track/1FdWqT7Lq7txqwdprHiGYU) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Chicken Soup For One](https://open.spotify.com/album/6fq4UtiHc2Thbq69jUyUQj) | 3:26 | 2026-02-04 | 2026-03-04 |
 | [Playlist \(feat\. Oh Yun\)](https://open.spotify.com/track/7f6L7Fzc6s0lhS7To2mTPy) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Oh Yun](https://open.spotify.com/artist/4CDLDdcillEXvJlBvQkfv3) | [Playlist](https://open.spotify.com/album/1E1niRqU1lkdDgwr2xl51E) | 2:17 | 2026-04-29 | 2026-05-06 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-12-04 | 2026-02-05 |
@@ -228,6 +228,7 @@
 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-29 | 2026-06-13 |
 | [Ten Thirty Hang Out \(Feat\. Dynamicduo\)](https://open.spotify.com/track/1SbCGS2xJJBYbEyQYrHsH8) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Ten Thirty Lovey Dovey](https://open.spotify.com/album/6gKxrbKdtQwOoQjUQ0yD6j) | 3:15 | 2026-05-25 | 2026-06-26 |
 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 | 2026-06-09 | 2026-07-01 |
+| [The Coward Forgets His Nightmare](https://open.spotify.com/track/5y1700nBNwTDnuEnzuUMWk) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:32 | 2026-07-24 |  |
 | [The devil](https://open.spotify.com/track/3nOUII8GzDtAPST9KCeSJ6) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 5:30 | 2026-06-23 |  |
 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-04-29 | 2026-06-13 |
 | [THE PRESSURE](https://open.spotify.com/track/5EwqL32rIUkHbfjYZ0WLXB) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/65XQpfjNaYkGLT7bKg2Wo3) | 2:52 | 2026-05-25 | 2026-06-26 |
@@ -248,6 +249,7 @@
 | [Wassup](https://open.spotify.com/track/3dCdcURa0Kk5UWXRY00HQy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 3:04 | 2026-05-07 | 2026-06-28 |
 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 | 2026-06-03 |  |
 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 | 2026-06-27 |  |
+| [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 | 2026-07-24 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2026-02-04 | 2026-03-04 |
 | [WHERE YOU AT?](https://open.spotify.com/track/08djt7JVDPyJGvnDAvBskP) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 | 2026-06-19 | 2026-06-22 |
 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 | 2026-03-03 | 2026-04-30 |

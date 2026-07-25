@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Ahadadream
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,321 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,431 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
+| 1 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 2 | [Knight In Shining Prada](https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [John Joseph Holt](https://open.spotify.com/artist/3unwE3gwoHwyvsUnSUAGVC) | [Knight In Shining Prada](https://open.spotify.com/album/1nGTvi4XveHqEitXJHfOiQ) | 4:17 |
 | 3 | [U GO](https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [U GO](https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W) | 3:50 |
 | 4 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 35 | [Maayam \(feat\. Pritt\)](https://open.spotify.com/track/0WSc3Ort72j76IZM53upRt) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Maayam \(feat\. Pritt\)](https://open.spotify.com/album/2rKixIJFlbcB0UjS8UHX9Z) | 2:58 |
 | 36 | [Situationz \- Raw Mix](https://open.spotify.com/track/4f5xk8MfrEDRMxZNXPXzhR) | [Yung Singh](https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K) | [Situationz \(Raw Mix\)](https://open.spotify.com/album/08Hs91YkEyS8iCDNyPnTX3) | 4:14 |
 | 37 | [Move Shake](https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Move Shake](https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg) | 2:58 |
-| 38 | [Track 1](https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Obnox / Pointless](https://open.spotify.com/album/6CHq5ix2PJa5LFaETFmEkX) | 0:00 |
+| 38 | [Obnox](https://open.spotify.com/track/48qyIqwWGKMIpgmgHJhfAC) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Obnox / Pointless](https://open.spotify.com/album/6CHq5ix2PJa5LFaETFmEkX) | 3:40 |
 | 39 | [SQZME](https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [BAGS INC](https://open.spotify.com/album/4QFuexUmfDhl8WL34Rnda8) | 3:27 |
 | 40 | [2 Sexy 2 Be Vex](https://open.spotify.com/track/27vXWu7wX3GZ9SecsJEIpN) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [WHERE'S MY GLASSES](https://open.spotify.com/album/63nJ0FIPxcj6PYHSJ2fBqT) | 3:03 |
 | 41 | [Tatiana](https://open.spotify.com/track/58AdHNWPznp7kJ6C9RzxYE) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [Tatiana](https://open.spotify.com/album/6ud88mfuIseHuaLe3wzIXL) | 3:25 |

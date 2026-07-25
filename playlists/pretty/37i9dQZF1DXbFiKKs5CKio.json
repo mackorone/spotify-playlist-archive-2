@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73014,
+  "num_followers": 73019,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Aprendi a Viver S\u00f3",
-      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Aprendi a Viver S\u00f3",
+      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
     },
     {
       "added_at": "2026-07-17 17:14:54",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
         "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 183750,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-07-17 17:14:54",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-07-17 17:14:54",
       "album": {
-        "name": "reconectar",
-        "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
-      },
-      "artists": [
-        {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
-        },
-        {
-          "name": "Murilo Orum",
-          "url": "https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "reconectar",
-      "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2026-07-17 17:14:54",
-      "album": {
         "name": "LAR",
         "url": "https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 172653,
       "name": "Tudo o Que Sou",
       "url": "https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0"
+    },
+    {
+      "added_at": "2026-07-17 17:14:54",
+      "album": {
+        "name": "reconectar",
+        "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        },
+        {
+          "name": "Murilo Orum",
+          "url": "https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "reconectar",
+      "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
     },
     {
       "added_at": "2026-07-17 17:14:54",

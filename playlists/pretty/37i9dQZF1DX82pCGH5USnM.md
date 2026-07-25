@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,485,427 likes - 210 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,485,743 likes - 210 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 26 | [Rendezvous](https://open.spotify.com/track/24lEmxq9Y1JE8fFD4gr3pl) | [Kim Chee](https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ) | [Rendezvous](https://open.spotify.com/album/05g6vB9qvVvX0HdFIjYTHj) | 2:04 |
 | 27 | [Layover](https://open.spotify.com/track/4pGSqP5D3hzKrnC8zFLkIH) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Layover](https://open.spotify.com/album/0waaupjD68nPau4f7A1J3g) | 2:32 |
 | 28 | [Digestivo](https://open.spotify.com/track/3dt6uuYGkPIuGWUTUzmEMv) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Digestivo](https://open.spotify.com/album/54VPqHzsNXUXGFUziJQRNT) | 2:22 |
-| 29 | [Swaying](https://open.spotify.com/track/4LrMGOEVgqwkSERTUOQ7cn) | [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG), [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Gilbert Juarez](https://open.spotify.com/artist/6ve57Nh01ZaROsEG6bP7Ua), [13pm](https://open.spotify.com/artist/50BFhmGJDoGRUPoN6cwMxm) | [Swaying](https://open.spotify.com/album/1PbXBnEpo8vFk0C2wzD5JS) | 2:02 |
+| 29 | [Swaying](https://open.spotify.com/track/4LrMGOEVgqwkSERTUOQ7cn) | [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG), [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Gilbert Juarez](https://open.spotify.com/artist/6ve57Nh01ZaROsEG6bP7Ua), [13pm](https://open.spotify.com/artist/5T2IGvDliDEQErm5Bp5Kay) | [Swaying](https://open.spotify.com/album/1PbXBnEpo8vFk0C2wzD5JS) | 2:02 |
 | 30 | [Fluorescent](https://open.spotify.com/track/4eLEHUHt6D7jMwnxRpfngG) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [Fluorescent](https://open.spotify.com/album/5X93VcPAgCDjvWPmboeX62) | 2:14 |
 | 31 | [Golden Fade](https://open.spotify.com/track/7nXM3hhr4TzSfjMyIDxteD) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Golden Fade](https://open.spotify.com/album/6Szwo5NUqY9VxDjDnsAOrM) | 2:48 |
 | 32 | [Midnight Martini](https://open.spotify.com/track/2d9e9aQQBcSCRePPHxGUOR) | [tow kee o](https://open.spotify.com/artist/2V8knumvJeLvlxvpywJm03) | [Midnight Martini](https://open.spotify.com/album/6cE0x7QM7w9DMTieZhscnN) | 2:17 |

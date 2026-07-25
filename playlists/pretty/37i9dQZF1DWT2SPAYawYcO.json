@@ -1,12 +1,12 @@
 {
-  "description": "Brand new music from: Charli xcx, Morgan Wallen,  Tyla, The Avalanches, Karen O, Amy Shark + more",
-  "num_followers": 457091,
+  "description": "Brand new music from Charli xcx, Morgan Wallen,  Tyla, KATSYE, The Avalanches, Karen O, Amy Shark + more",
+  "num_followers": 457424,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIcY3A1+KCG+lQY9FRGMp27WvuXW",
+  "snapshot_id": "AAAAAMsfJqs7yXAOBSCB+LKLuUqdVtIj",
   "tracks": [
     {
       "added_at": "2026-07-23 14:00:29",
@@ -55,6 +55,22 @@
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
+    },
+    {
+      "added_at": "2026-07-24 04:00:52",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-07-23 14:00:29",
@@ -141,6 +157,26 @@
       "url": "https://open.spotify.com/track/59Fsi1QsrBreviqFlZfeqf"
     },
     {
+      "added_at": "2026-07-24 04:00:52",
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+    },
+    {
       "added_at": "2026-07-23 14:00:29",
       "album": {
         "name": "Think Bad",
@@ -211,6 +247,22 @@
       "duration_ms": 156923,
       "name": "Feel It (Oh My Days)",
       "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
+    },
+    {
+      "added_at": "2026-07-24 04:00:52",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "added_at": "2026-07-23 14:00:29",
@@ -464,8 +516,8 @@
           "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 234970,
+      "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30"
     },
     {
@@ -500,14 +552,14 @@
           "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 146285,
+      "name": "Seduce You",
       "url": "https://open.spotify.com/track/3Lu25CvmWSwUB27ircGaT2"
     },
     {
       "added_at": "2026-07-23 14:00:29",
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -517,7 +569,7 @@
         }
       ],
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
@@ -916,12 +968,12 @@
           "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
           "name": "Spice",
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
           "name": "Keys N Krates",
@@ -1547,6 +1599,22 @@
       "duration_ms": 206924,
       "name": "Eye Is A Mouth Is A Face",
       "url": "https://open.spotify.com/track/5X1rVEIOvQw91icO018CgV"
+    },
+    {
+      "added_at": "2026-07-23 14:00:29",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
     },
     {
       "added_at": "2026-07-23 14:00:29",

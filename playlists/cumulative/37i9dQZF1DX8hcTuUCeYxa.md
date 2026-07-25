@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: UCHE YARA
 
-3,141 songs - 7 day 13 hr 0 min
+3,142 songs - 7 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Backseat Banton](https://open.spotify.com/track/7DQq9q2C6Vba0OYYGtdKo0) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Backseat Banton](https://open.spotify.com/album/1dhLbhrh8xN725CzupxtGg) | 3:31 | 2025-02-13 | 2025-02-28 |
 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 | 2024-10-03 | 2024-11-01 |
 | [BAD DREAM](https://open.spotify.com/track/4MtX9BNNoXfeRxacZPSeUT) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [BAD DREAM](https://open.spotify.com/album/2aqUPLM6LFEqRMeNdVylx4) | 3:16 | 2024-10-17 | 2024-11-08 |
+| [Bad Enough](https://open.spotify.com/track/4taAZF4UnL3XckOtPkLRy8) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Bad Enough](https://open.spotify.com/album/4pQExYGFItfCGSnz6WCsDp) | 2:11 | 2026-07-24 |  |
 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 | 2026-06-25 | 2026-07-17 |
 | [Bad Luck](https://open.spotify.com/track/6SfellStjQsIgVgQQaQGWP) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Bad Luck](https://open.spotify.com/album/1vtE0F6AF5jn4XQzpXyJRi) | 3:33 | 2025-05-29 | 2025-06-20 |
 | [Bad Luck](https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Bad Luck](https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO) | 3:22 | 2024-06-28 | 2024-07-19 |
@@ -2162,7 +2163,7 @@
 | [Rainbow Overpass](https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Rainbow Overpass](https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA) | 3:01 | 2024-08-08 | 2024-09-06 |
 | [Rainbows](https://open.spotify.com/track/0FZMLuI53A9t2je24ZgQsp) | [Lisl](https://open.spotify.com/artist/0QXKsLAV538XweY58uHBeL) | [Rainbows](https://open.spotify.com/album/2O2qqYSYEUd1osQLyUmnIA) | 4:23 | 2024-10-17 | 2024-10-25 |
 | [Raindance](https://open.spotify.com/track/1clv4c643rixAAxNOlnkX2) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Raindance](https://open.spotify.com/album/0EX8YKv7BAHP0H77gOYCYz) | 4:14 | 2026-04-02 | 2026-05-01 |
-| [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 | 2026-07-09 |  |
+| [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 | 2026-07-09 | 2026-07-25 |
 | [Ratte](https://open.spotify.com/track/7FyOdkKHsEIW7nYYYVVHc5) | [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Ratte](https://open.spotify.com/album/4tqSW6KmY0Aa1bLa7HWlAQ) | 2:47 | 2024-08-15 | 2024-09-13 |
 | [Ray](https://open.spotify.com/track/0KwEhYytGiepasMUxgBV3Q) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [9 Sad Symphonies](https://open.spotify.com/album/56CrmLSJmxL6zDB02oAjQF) | 3:34 | 2024-06-28 | 2024-07-19 |
 | [Ray of Fukin' Sunshine](https://open.spotify.com/track/1jE6s9fq9v4K4VTikekFU7) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Ray of fukin' Sunshine](https://open.spotify.com/album/18Ns9MDeWJYPCltUaUsK3h) | 3:56 | 2026-02-05 | 2026-02-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-14",
-  "description": "Celebrating 20 years of R&B from around the world",
+  "description": "R&B from around the world",
   "name": "Global R&B",
   "tracks": [
     {
@@ -728,7 +728,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 177024,
       "name": "Decile - Remix",
       "url": "https://open.spotify.com/track/6vSUJ3N18GyGxxFOjeSF36"
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177217,
+      "name": "HOT TUBS",
+      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
+    },
+    {
+      "album": {
         "name": "BEFORE LOVE CAME TO KILL US",
         "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
       },
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 257642,
       "name": "Licor",
       "url": "https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N"
@@ -1088,6 +1106,24 @@
       "duration_ms": 181921,
       "name": "Lil' Obsession",
       "url": "https://open.spotify.com/track/6p22RzCyan2i6nyM0LmFoL"
+    },
+    {
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
       "album": {
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194613,
       "name": "OMG",
       "url": "https://open.spotify.com/track/08Le4mCaGYbQrmfjtKThnO"
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236000,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE"
@@ -1746,6 +1782,24 @@
       "duration_ms": 136845,
       "name": "sos",
       "url": "https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w"
+    },
+    {
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
     },
     {
       "album": {

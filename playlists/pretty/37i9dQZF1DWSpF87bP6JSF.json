@@ -1,13 +1,29 @@
 {
-  "description": "Los \u00e9xitos del pop latino, con Fabio Capri en portada.",
-  "num_followers": 3617366,
+  "description": "Los \u00e9xitos del pop latino, con Aria Vega en portada.",
+  "num_followers": 3617219,
   "original_name": "La Lista Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANdAgjv+aEMjuIaPVv8vOPBvtBsy",
+  "snapshot_id": "AAAAAOaa/2wTP8P0cC4vqdJstAGLNHy5",
   "tracks": [
+    {
+      "added_at": "2026-07-24 15:57:05",
+      "album": {
+        "name": "TOTOTO (+4)",
+        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 138994,
+      "name": "TOTOTO (+4)",
+      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
+    },
     {
       "added_at": "2026-07-13 20:32:42",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 153899,
       "name": "Baile",
       "url": "https://open.spotify.com/track/67r9j0N4Jl5Uu2hJQAHjbm"
+    },
+    {
+      "added_at": "2026-07-24 15:57:05",
+      "album": {
+        "name": "Gigante - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/63mrBSIe7fAxER3CyKVSDs"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Gigante - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/03QlAtjQCaDM051hJ7qgD7"
     },
     {
       "added_at": "2026-07-13 20:32:42",
@@ -49,6 +85,22 @@
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
     },
     {
+      "added_at": "2026-07-24 15:57:05",
+      "album": {
+        "name": "Otra Que Arde",
+        "url": "https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/5FAUcTwcb2ZLxesz9oN5dE"
+    },
+    {
       "added_at": "2026-07-13 20:32:42",
       "album": {
         "name": "Apambichao",
@@ -63,6 +115,22 @@
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
+    {
+      "added_at": "2026-07-24 15:57:05",
+      "album": {
+        "name": "principiante",
+        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "principiante",
+      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
     },
     {
       "added_at": "2026-07-13 20:32:42",
@@ -639,26 +707,6 @@
     {
       "added_at": "2026-07-13 20:32:42",
       "album": {
-        "name": "Encubiertos",
-        "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Encubiertos",
-      "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
-    },
-    {
-      "added_at": "2026-07-13 20:32:42",
-      "album": {
         "name": "Lo Poco Que Yo Quiero",
         "url": "https://open.spotify.com/album/4BtWP9Q8OR8ZODen0KlTr8"
       },
@@ -695,26 +743,6 @@
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
-    },
-    {
-      "added_at": "2026-07-13 20:32:42",
-      "album": {
-        "name": "Desah\u00f3gate",
-        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Desah\u00f3gate",
-      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     },
     {
       "added_at": "2026-07-13 20:32:42",
@@ -807,38 +835,6 @@
       "duration_ms": 140461,
       "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
       "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
-    },
-    {
-      "added_at": "2026-07-13 20:32:42",
-      "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R"
-    },
-    {
-      "added_at": "2026-07-13 20:32:42",
-      "album": {
-        "name": "Mi Yo De Antes",
-        "url": "https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "Mi Yo De Antes",
-      "url": "https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J"
     },
     {
       "added_at": "2026-07-13 20:32:42",

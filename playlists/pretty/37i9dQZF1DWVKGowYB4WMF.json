@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 98768,
+  "num_followers": 98788,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Living In America",
-        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1067,34 +1051,18 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "We Don't Have To Take Our Clothes Off",
-        "url": "https://open.spotify.com/album/6NXNYQ0pjEeqwBEU3yaKSf"
+        "name": "Living In America",
+        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
       },
       "artists": [
         {
-          "name": "Jermaine Stewart",
-          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 245026,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/6S7OQQ19MSi5Fo2PQ6LL1u"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
-        "name": "Altogether",
-        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
-      },
-      "artists": [
-        {
-          "name": "The Nolans",
-          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "I'm in the Mood for Dancing",
-      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
+      "duration_ms": 248533,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1115,6 +1083,38 @@
       "duration_ms": 280488,
       "name": "Something's Gotten Hold of My Heart",
       "url": "https://open.spotify.com/track/68O1r5xQADu0JjvBibg9zN"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Altogether",
+        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
+      },
+      "artists": [
+        {
+          "name": "The Nolans",
+          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "I'm in the Mood for Dancing",
+      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "We Don't Have To Take Our Clothes Off",
+        "url": "https://open.spotify.com/album/6NXNYQ0pjEeqwBEU3yaKSf"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Stewart",
+          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/6S7OQQ19MSi5Fo2PQ6LL1u"
     },
     {
       "added_at": "2024-03-26 13:49:34",

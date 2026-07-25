@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Amaria",
-  "num_followers": 59799,
+  "description": "R&B of the moment by the artists of the future. Cover: REMI",
+  "num_followers": 59816,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHH2ZYNWeHVviQ9vpmyEztK7fbJ3",
+  "snapshot_id": "AAAAABJUvM11IwjaJvDyhV6NCCejE9ih",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "Fade To BLUE",
+        "url": "https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 138654,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
+    },
     {
       "added_at": "2026-07-10 05:29:33",
       "album": {
@@ -41,26 +57,10 @@
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
-      "added_at": "2026-07-17 04:38:08",
+      "added_at": "2026-07-24 04:56:43",
       "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 148178,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y"
-    },
-    {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
-        "name": "Miss Mango",
-        "url": "https://open.spotify.com/album/6G0PiC7OtNeoksNGzGirhI"
+        "name": "Anything Could Happen",
+        "url": "https://open.spotify.com/album/3mTlfNdFWB2iwyhfA7SppW"
       },
       "artists": [
         {
@@ -68,9 +68,57 @@
           "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
         }
       ],
-      "duration_ms": 228387,
-      "name": "Miss Mango",
-      "url": "https://open.spotify.com/track/01Oj3UlTK3YAuJwf1AY3qV"
+      "duration_ms": 224390,
+      "name": "Anything Could Happen",
+      "url": "https://open.spotify.com/track/6WOovMUKaVhuFhOBc1QihF"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 130068,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
     },
     {
       "added_at": "2026-07-17 04:38:08",
@@ -89,20 +137,72 @@
       "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
-      "added_at": "2026-07-17 04:38:08",
+      "added_at": "2026-07-24 04:56:43",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+        "name": "no way!",
+        "url": "https://open.spotify.com/album/6JsZCvhIvzpJdXjjtIds3k"
       },
       "artists": [
         {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
         }
       ],
-      "duration_ms": 130068,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+      "duration_ms": 225457,
+      "name": "no way!",
+      "url": "https://open.spotify.com/track/1fehc61JpeHtRDszMS8l4c"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 148178,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/3hW3JXhIe8WwkPDBD5Ko3E"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "duration_ms": 180171,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/6vsNjbln9XwsNtayWdWAAW"
+    },
+    {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "Coming Home (with G Herbo)",
+        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 212221,
+      "name": "Coming Home (with G Herbo)",
+      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
     },
     {
       "added_at": "2026-06-19 04:01:58",
@@ -125,24 +225,36 @@
       "url": "https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
+      "added_at": "2026-07-24 04:56:43",
       "album": {
-        "name": "Coming Home (with G Herbo)",
-        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av"
       },
       "artists": [
         {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
         }
       ],
-      "duration_ms": 212221,
-      "name": "Coming Home (with G Herbo)",
-      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
+      "duration_ms": 132999,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
+        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 199105,
+      "name": "LET ME GO",
+      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
     {
       "added_at": "2026-07-17 04:38:08",
@@ -183,6 +295,54 @@
       "duration_ms": 162023,
       "name": "Body",
       "url": "https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "THE NAIJAMERICAN DREAM",
+        "url": "https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "REVENGE",
+      "url": "https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "HONEY BROWN",
+        "url": "https://open.spotify.com/album/0QLvvGOrI8rlRMZaQaTuSm"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "HONEY BROWN",
+      "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -255,6 +415,22 @@
       "duration_ms": 177902,
       "name": "COMMUNICATION",
       "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "could it be love",
+        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "could it be love",
+      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
     },
     {
       "added_at": "2026-07-17 04:38:08",
@@ -487,22 +663,6 @@
       "duration_ms": 150201,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
-    },
-    {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
-        "name": "Miss Your Touch",
-        "url": "https://open.spotify.com/album/3tcbAP1XmLsU4HPRnKyquz"
-      },
-      "artists": [
-        {
-          "name": "Genia",
-          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Miss Your Touch",
-      "url": "https://open.spotify.com/track/4AkfcdfyVGzIrMVfkJdmiT"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -799,22 +959,6 @@
       "duration_ms": 179697,
       "name": "minute",
       "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
-    },
-    {
-      "added_at": "2026-06-12 05:12:18",
-      "album": {
-        "name": "Not So Sweet",
-        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 235088,
-      "name": "Not So Sweet",
-      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "added_at": "2026-06-26 05:40:08",
@@ -1519,22 +1663,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Blood On The Strings",
-        "url": "https://open.spotify.com/album/6Cb2qgqXFRguQa01S95j6G"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Blood On The Strings",
-      "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "NEW HEADSTONE need MIX",
         "url": "https://open.spotify.com/album/5N19wjg3aSVDoKKr4niCPz"
       },
@@ -1903,22 +2031,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Second Hand",
-        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 204311,
-      "name": "Second Hand",
-      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Make It Make Sense",
         "url": "https://open.spotify.com/album/1XiUEcOilmHXGhaVH91cyw"
       },
@@ -1987,22 +2099,6 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "100 Years",
-        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
-      },
-      "artists": [
-        {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
-        }
-      ],
-      "duration_ms": 234398,
-      "name": "100 Years",
-      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2083,38 +2179,6 @@
       "duration_ms": 164745,
       "name": "Fall Short",
       "url": "https://open.spotify.com/track/6rMWA9rnobnMm68zka6UwC"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "RERUN",
-        "url": "https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M"
-      },
-      "artists": [
-        {
-          "name": "JEDSOUL",
-          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
-        }
-      ],
-      "duration_ms": 143059,
-      "name": "RERUN",
-      "url": "https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof"
-      },
-      "artists": [
-        {
-          "name": "Sipprell",
-          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2831,22 +2895,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Nothing To Say",
-        "url": "https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr"
-      },
-      "artists": [
-        {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
-        }
-      ],
-      "duration_ms": 189227,
-      "name": "Nothing To Say",
-      "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Ordinary Feelings",
         "url": "https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb"
       },
@@ -2895,22 +2943,6 @@
       "duration_ms": 139628,
       "name": "Relieve You",
       "url": "https://open.spotify.com/track/1EU3lVLX8tA8csI9ScKVaK"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "BACKWARD",
-        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "THEMSELVES",
-      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3175,22 +3207,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "DUMBCRAZYSTUPID",
-        "url": "https://open.spotify.com/album/1qkNLazBzKTGxkWC2XsuQ3"
-      },
-      "artists": [
-        {
-          "name": "AKIA",
-          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
-        }
-      ],
-      "duration_ms": 178650,
-      "name": "A Minute",
-      "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "keepsake",
         "url": "https://open.spotify.com/album/7qbYXzYoWTnlzDTHbs0oCS"
       },
@@ -3299,26 +3315,6 @@
       "duration_ms": 192000,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
     },
     {
       "added_at": "2026-05-29 04:02:53",

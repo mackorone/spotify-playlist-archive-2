@@ -7305,6 +7305,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Anini (Thief)",
         "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
       },
@@ -13508,6 +13526,24 @@
       "duration_ms": 159387,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0mhTXfQbfTOd8VGvnsTr1P"
+    },
+    {
+      "album": {
+        "name": "Tough Skin",
+        "url": "https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq"
+      },
+      "artists": [
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a"
     },
     {
       "album": {
@@ -31946,6 +31982,24 @@
       "duration_ms": 172000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/7aU1C9a1aPhuQbiytcVQ9y"
+    },
+    {
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
     },
     {
       "album": {
@@ -66235,6 +66289,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "album": {
         "name": "Let Am",
         "url": "https://open.spotify.com/album/3MoPLe3kJYnQWylD4neccT"
       },
@@ -71070,6 +71142,28 @@
       "duration_ms": 198546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "album": {
+        "name": "Love and Highnotes",
+        "url": "https://open.spotify.com/album/0vL5IPGmDudECexRZK8oE4"
+      },
+      "artists": [
+        {
+          "name": "Oberz",
+          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177868,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
     },
     {
       "album": {
@@ -88745,7 +88839,7 @@
         },
         {
           "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/5JJKyzeEsr65Hcptci87kP"
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         },
         {
           "name": "Terry Apala",
@@ -101582,12 +101676,12 @@
           "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
           "name": "Spice",
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
           "name": "Keys N Krates",
@@ -123047,42 +123141,6 @@
     },
     {
       "album": {
-        "name": "Tough Skin",
-        "url": "https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq"
-      },
-      "artists": [
-        {
-          "name": "KWESI AMEWUGA",
-          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a"
-    },
-    {
-      "album": {
-        "name": "Love and Highnotes",
-        "url": "https://open.spotify.com/album/0vL5IPGmDudECexRZK8oE4"
-      },
-      "artists": [
-        {
-          "name": "Oberz",
-          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -132002,7 +132060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197522,
-      "name": "Wurumanya",
+      "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {

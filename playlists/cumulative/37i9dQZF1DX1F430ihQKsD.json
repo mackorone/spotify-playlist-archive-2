@@ -4169,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+    },
+    {
+      "album": {
         "name": "Disco Cosmos",
         "url": "https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN"
       },
@@ -4976,6 +4994,24 @@
       "duration_ms": 237833,
       "name": "Excellence Europe-Express",
       "url": "https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo"
+    },
+    {
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+      },
+      "artists": [
+        {
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "album": {
@@ -12035,6 +12071,24 @@
     },
     {
       "album": {
+        "name": "People Pleasing",
+        "url": "https://open.spotify.com/album/7jMruxsthetOYPz6pNv2Sl"
+      },
+      "artists": [
+        {
+          "name": "Bennett Sobel",
+          "url": "https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "People Pleasing",
+      "url": "https://open.spotify.com/track/3gstA6UTfjcRDeWdmwD3H7"
+    },
+    {
+      "album": {
         "name": "S\u00e9rie II: Les heures innocentes",
         "url": "https://open.spotify.com/album/1M1E34ZQdcGc6B0RH8dojB"
       },
@@ -16256,7 +16310,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"

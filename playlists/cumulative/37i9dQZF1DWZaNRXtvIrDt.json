@@ -16109,6 +16109,24 @@
     },
     {
       "album": {
+        "name": "Rhinestones",
+        "url": "https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378447,
+      "name": "Rhinestones",
+      "url": "https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6"
+    },
+    {
+      "album": {
         "name": "Rhythm",
         "url": "https://open.spotify.com/album/51QwhiwUQBi8W5xzLxYVVD"
       },
@@ -20232,24 +20250,6 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
-    },
-    {
-      "album": {
-        "name": "Rhinestones",
-        "url": "https://open.spotify.com/album/7KddMJsM3Lu69J9Bbtqy9H"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/7iSFSY5b9LgkwJgw1oAkjZ"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1qnqa1tedA0zJIb6xvHzY6"
     },
     {
       "album": {

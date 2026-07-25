@@ -1073,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178112,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI"
+    },
+    {
+      "album": {
         "name": "Allein Allein",
         "url": "https://open.spotify.com/album/2xSMhp31viwXmp1oZGKdLs"
       },
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 120197,
       "name": "believe in",
       "url": "https://open.spotify.com/track/6sfNz0FjL3AQPP3Wa39q0p"
@@ -20883,6 +20905,32 @@
     },
     {
       "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
+    },
+    {
+      "album": {
         "name": "Turn Up The Bass",
         "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
       },
@@ -20902,7 +20950,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"

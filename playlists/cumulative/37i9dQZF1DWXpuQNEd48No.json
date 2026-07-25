@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: MC SQUARE",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -2441,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "Legacy Chapter 1, Vol. 3",
+        "url": "https://open.spotify.com/album/192058Y5p7hlyGRYuqhDwJ"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/2n7bKYugtvomFwNTBBsyiv"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119995,
+      "name": "Chakka Jam",
+      "url": "https://open.spotify.com/track/51lrp24rUnfuilT7RsJ8SJ"
+    },
+    {
+      "album": {
         "name": "CHALLENGER BOYS",
         "url": "https://open.spotify.com/album/4OqkmFx13j0pDULMski6tt"
       },
@@ -4753,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Legacy Chapter 1, Vol. 3",
+        "url": "https://open.spotify.com/album/192058Y5p7hlyGRYuqhDwJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Maxxx",
+          "url": "https://open.spotify.com/artist/75ucqdtR9YBhCl1RR9nbpX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Filmy",
+      "url": "https://open.spotify.com/track/0jgxORc5sXcjLbnAsvpVRV"
+    },
+    {
+      "album": {
         "name": "Fire Dabey",
         "url": "https://open.spotify.com/album/5jQKtKpPJlwMTDmDB2yhcT"
       },
@@ -4918,7 +4958,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 129896,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/5353VVFXJwSbq2AYnHI18v"
@@ -6246,7 +6286,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211038,
       "name": "Hood Party",
       "url": "https://open.spotify.com/track/0m2Ibm9RZNtdp5JHYFOyrk"
@@ -10110,7 +10150,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 174986,
       "name": "OG",
       "url": "https://open.spotify.com/track/3kkr8hc43JOEicMpRaV3Iw"
@@ -11143,6 +11183,28 @@
     },
     {
       "album": {
+        "name": "Ram Ram Ji",
+        "url": "https://open.spotify.com/album/5xKv5CE1f2cbmBk1URdlYr"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        },
+        {
+          "name": "Aniket Jain",
+          "url": "https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "Ram Ram Ji",
+      "url": "https://open.spotify.com/track/5ZqYBdWWBUHIFozRL3PZGP"
+    },
+    {
+      "album": {
         "name": "Rana Rangers",
         "url": "https://open.spotify.com/album/7GssmvqNTVFnPcpLh0QmJ2"
       },
@@ -12131,6 +12193,28 @@
     },
     {
       "album": {
+        "name": "Legacy Chapter 1, Vol. 4",
+        "url": "https://open.spotify.com/album/421MYBKB4V0g0bhjnJm5u6"
+      },
+      "artists": [
+        {
+          "name": "Urban Poet",
+          "url": "https://open.spotify.com/artist/5NLpRU1nXHu9TnrqgXPPRM"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "Shikari",
+      "url": "https://open.spotify.com/track/7hDoixKLhZMzS66oUMCRhT"
+    },
+    {
+      "album": {
         "name": "Shivay Drill",
         "url": "https://open.spotify.com/album/1xMWfLpeYXatSq9GyPcMA4"
       },
@@ -12384,7 +12468,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186976,
       "name": "Stock",
       "url": "https://open.spotify.com/track/3GOGNcPzmN3Vy804D9vUNV"

@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: NAKISO",
-  "num_followers": 121070,
+  "num_followers": 121079,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-07-14 15:00:28",
       "album": {
+        "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/16SvnBKXEzmtM4k52ffSEW"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7whlwTE5UoGiYLW30zTb9H"
+    },
+    {
+      "added_at": "2026-07-14 15:00:28",
+      "album": {
         "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
       },
@@ -819,26 +835,6 @@
       "duration_ms": 236068,
       "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
       "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
-    },
-    {
-      "added_at": "2026-07-14 15:00:28",
-      "album": {
-        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        },
-        {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
     },
     {
       "added_at": "2026-07-14 15:00:28",
@@ -883,22 +879,6 @@
     {
       "added_at": "2026-07-14 15:00:28",
       "album": {
-        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u308b\u307f\u3084",
-          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
-    },
-    {
-      "added_at": "2026-07-14 15:00:28",
-      "album": {
         "name": "\u82b1\u306b\u98a8",
         "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
       },
@@ -911,6 +891,22 @@
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
+    },
+    {
+      "added_at": "2026-07-14 15:00:28",
+      "album": {
+        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u308b\u307f\u3084",
+          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
     }
   ],
   "unique_name": "VOCALOID now",

@@ -1249,6 +1249,32 @@
     },
     {
       "album": {
+        "name": "LA NETA SIN CARETA",
+        "url": "https://open.spotify.com/album/126AtDnK92bonVs7eD5hK6"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203181,
+      "name": "LA NETA SIN CARETA",
+      "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
+    },
+    {
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -2514,7 +2540,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189078,
       "name": "Tequila y Lim\u00f3n",
       "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"

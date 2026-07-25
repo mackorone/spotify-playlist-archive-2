@@ -2,9 +2,9 @@
 
 ### [folk & invierno](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: Yorka & Feli Colina
+> Folk latino de estación\. Foto: J18
 
-381 songs - 20 hr 51 min
+383 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-18 | 2024-09-27 |
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 | 2023-06-24 |
 | [não sei](https://open.spotify.com/track/6scveQ1yU9Q1GGn9Bq1D18) | [BLAYA](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [não sei](https://open.spotify.com/album/3VaoXJ6aHs2yfkmZ05F8Ei) | 2:46 | 2026-06-12 |  |
+| [oda al canto](https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [Donttt](https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:58 | 2026-07-24 |  |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-05-20 | 2022-08-27 |
 | [Ojos de Camello](https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Alex Serhan](https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF) | [Ojos de Camello](https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj) | 3:33 | 2022-05-20 | 2023-04-09 |
 | [Ojos Viejos](https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm) | [Clara Ballestero](https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL), [David Bensimon](https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH) | [Ojos Viejos](https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ) | 4:57 | 2025-07-18 |  |
@@ -312,7 +313,7 @@
 | [Serpiente](https://open.spotify.com/track/3SwIQLdc5lHUOPtrMeWR12) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Serpiente](https://open.spotify.com/album/5lK69LFTJhA6lakZaWLD1h) | 3:25 | 2023-05-12 | 2023-06-24 |
 | [Seré mía](https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Seré mía](https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU) | 3:14 | 2025-01-10 |  |
 | [Si bien fue poco](https://open.spotify.com/track/5UCnTmxuBMCZpIPtrHZS6v) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Si bien fue poco](https://open.spotify.com/album/4oHu1P0JdQ5ZWYqHQa4uEj) | 4:06 | 2025-07-18 |  |
-| [Si Llega el Desastre](https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Si Llega el Desastre](https://open.spotify.com/album/0qiEOnpVrGHEoV9MpC9AGz) | 3:18 | 2026-06-26 |  |
+| [Si Llega el Desastre](https://open.spotify.com/track/3671YCKEwXXgQJ6q67OFlm) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Si Llega el Desastre](https://open.spotify.com/album/0qiEOnpVrGHEoV9MpC9AGz) | 3:18 | 2026-06-26 | 2026-07-25 |
 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 | 2024-10-17 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 | 2023-06-24 |
 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 | 2022-11-11 | 2026-05-29 |
@@ -369,7 +370,7 @@
 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 | 2024-11-14 |  |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-07-07 | 2026-05-29 |
 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-21 | 2024-09-27 |
-| [Vendría Bien](https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Vendría Bien](https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt) | 3:21 | 2026-01-30 |  |
+| [Vendría Bien](https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Vendría Bien](https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt) | 3:21 | 2026-01-30 | 2026-07-25 |
 | [verte mejor](https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [verte mejor](https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx) | 2:26 | 2026-01-30 |  |
 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 | 2023-12-01 | 2026-01-15 |
 | [Volcán](https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Leo Salinas](https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD), [Paula Pávez](https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM) | [Volcán](https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3) | 3:56 | 2024-02-01 | 2024-02-24 |
@@ -385,6 +386,7 @@
 | [Ya no hay dudas](https://open.spotify.com/track/3LMk3abz8KRRRXnJHatyEw) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Ya no hay dudas](https://open.spotify.com/album/7vfWKcTC2qF1wnPKxVKnz9) | 3:15 | 2023-04-07 | 2023-06-20 |
 | [Ya no tengo tiempo](https://open.spotify.com/track/3iEbNGfx4cHI1ugyWVhqoA) | [Fran Aliss](https://open.spotify.com/artist/3PlgEHWfJplE2qFIVCls6E) | [Ya no tengo tiempo](https://open.spotify.com/album/7dWhoU3NxwZ0Hf2G0cGOwZ) | 3:58 | 2026-05-22 |  |
 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 | 2023-10-26 | 2024-09-27 |
+| [Yo en tí Tu en mí](https://open.spotify.com/track/2qku4lP4UskLzA3wO0ffHc) | [Asaí](https://open.spotify.com/artist/1RmiLz29SAYbN87He1xs5k) | [Yo en tí Tu en mí](https://open.spotify.com/album/4qtVMghWquM60plrl0oDYS) | 4:17 | 2026-07-24 |  |
 | [Yo Invito](https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Yo Invito](https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH) | 3:11 | 2022-05-20 | 2023-04-15 |
 | [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-07-18 |  |
 | [Árboles](https://open.spotify.com/track/5y4J5an3AUHCgyAdi7a7Iq) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/3m0R7fX6Gsd7fd7nyQ3FJd) | 2:34 | 2023-07-14 | 2023-08-12 |

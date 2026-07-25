@@ -74663,13 +74663,17 @@
     },
     {
       "album": {
-        "name": "No Other - Loukeman Mix",
+        "name": "No Other (Loukeman Mix)",
         "url": "https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE"
       },
       "artists": [
         {
           "name": "LST",
           "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
+        },
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
         }
       ],
       "date_added": "2026-07-22",

@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-194 songs - 13 hr 3 min
+195 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Siligugu Isiphambano](https://open.spotify.com/track/1NPc4dIbxgekcxpJIMa6A6) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Umthombo Wamanzi](https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM) | 3:37 | 2023-05-05 | 2025-10-10 |
 | [Siligugu Isiphambano](https://open.spotify.com/track/7H3kEcq9CrYW2FqlXM4g6V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:37 | 2022-04-11 | 2022-04-13 |
 | [Siligugu Isiphambano](https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Umthombo Wamanzi](https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB) | 3:41 | 2025-10-13 |  |
-| [Siphuma Emnqamlezweni](https://open.spotify.com/track/5md7G7ElyElm8zMXlp23q9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:16 | 2026-07-10 |  |
+| [Siphuma Emnqamlezweni](https://open.spotify.com/track/5md7G7ElyElm8zMXlp23q9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:16 | 2026-07-10 | 2026-07-25 |
 | [Sishumayel' Ivangeli](https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:18 | 2024-05-24 |  |
 | [Sithando Ngize Kuwe \(Love, I've Come to You\)](https://open.spotify.com/track/0rt50Kuabr2anPkiDRsgRW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inkanyezi Nezazi](https://open.spotify.com/album/4P7GY4C1i5T2yCHAZh6xPJ) | 4:04 | 2025-06-20 | 2025-06-25 |
 | [Skhothamel' Inkosi / Holy Spirit \(Live\)](https://open.spotify.com/track/2IKyR1rtLOXJh5jkAjzQH1) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Unathi Mzekeli](https://open.spotify.com/artist/4knlXXzTxt3UYbYZ7CZwYB), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Legendary In His Presence 2 \(Live\)](https://open.spotify.com/album/3KZbqrfhkl3ljwelGQRRKS) | 8:41 | 2024-05-15 | 2024-10-04 |
@@ -178,6 +178,7 @@
 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\) \- Edit](https://open.spotify.com/track/5BZ4X3eI8P5euuqVgJKttu) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 5:02 | 2024-10-27 | 2024-11-24 |
 | [Uthando](https://open.spotify.com/track/2be3NsmKfEWSbXYZ2S6A98) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:46 | 2022-10-01 | 2022-10-13 |
 | [Vulani Amasango](https://open.spotify.com/track/7duYLZofuRBdxRGKZpOvIB) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:15 | 2024-02-29 | 2024-03-05 |
+| [Walk In The Light](https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walk In The Light](https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj) | 5:16 | 2026-07-25 |  |
 | [Wangibambezela \(Message From His Heart\)](https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7) | 4:57 | 2024-05-18 | 2025-10-10 |
 | [Wangibambezela \(Message from His Heart\)](https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN) | 4:57 | 2025-10-11 |  |
 | [Waters of Hope](https://open.spotify.com/track/0xetNl5ZG7sHernd60me0Q) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Waters of Hope](https://open.spotify.com/album/12Xj2qEPH1xPfqavhfsdzz) | 4:57 | 2022-12-07 | 2023-02-27 |

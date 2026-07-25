@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49201,
+  "num_followers": 49198,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAAUAmRly1kmuD05RfSazaNi",
+  "snapshot_id": "amFZgAAAAADseN3ilNWYN9OvwG4cO0nb",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 223456,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 232934,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 223456,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
     },
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "What I Need (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 219389,
       "name": "nobody should have you",
       "url": "https://open.spotify.com/track/2fExLqkaKlK5Warz67vbtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 181153,
       "name": "postcard",
       "url": "https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Sleepover",
-      "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 195162,
       "name": "periwinkle princess",
       "url": "https://open.spotify.com/track/4c29AxRp16Q5vdDPSNrdcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like girls the album",
         "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167034,
       "name": "choker",
       "url": "https://open.spotify.com/track/7v7kKPOcnvwHTRKmwzLN5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "falling through (from the motion picture)",
+      "url": "https://open.spotify.com/track/2KBe1zbcZKgj9upAk7eXef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -391,26 +407,6 @@
       "duration_ms": 195773,
       "name": "Wanna Be Missed",
       "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like girls the album",
-        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 225261,
-      "name": "trophy",
-      "url": "https://open.spotify.com/track/0d0YDO6Y5Aff71fHvAN0oX"
     },
     {
       "added_at": null,
@@ -459,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "He'll Never Love You (HNLY)",
-      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Missed Calls (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
@@ -491,6 +471,22 @@
       "duration_ms": 154324,
       "name": "Missed Calls (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "He'll Never Love You (HNLY)",
+      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
     },
     {
       "added_at": null,
@@ -727,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 159288,
-      "name": "L.O.V.E. Me",
-      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -755,6 +735,22 @@
       "duration_ms": 210312,
       "name": "Feeding the Fire",
       "url": "https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 159288,
+      "name": "L.O.V.E. Me",
+      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
     },
     {
       "added_at": null,
@@ -799,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 191175,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 230711,
       "name": "Given It All",
       "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 191175,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
     },
     {
       "added_at": null,

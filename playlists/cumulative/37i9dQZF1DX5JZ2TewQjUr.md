@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: cehryl
 
-1,715 songs - 4 day 1 hr 3 min
+1,717 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Break the Ceiling](https://open.spotify.com/track/3qAe8HgEQ4swolxbgyu5dk) | [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Break the Ceiling](https://open.spotify.com/album/4qH0wmZQu3xdtea93RJFol) | 3:52 | 2026-05-07 |  |
 | [Breakfast in the Evening](https://open.spotify.com/track/5wi64FikIsy2AEYxPi1iVG) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Turquoise Sound](https://open.spotify.com/album/3aLgh9usUu2tV6u23uNTrb) | 3:42 | 2024-10-24 | 2025-02-14 |
 | [breathe](https://open.spotify.com/track/27zQHWADjPPzRwJLBaSmyQ) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [could you call me tonight?](https://open.spotify.com/album/0E4ALjSiina3AimCCQr9tg) | 3:24 | 2023-05-11 | 2023-09-01 |
+| [Broadway Cinematheque](https://open.spotify.com/track/0rN2HjbadL6DpPZG6ISjGs) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [Broadway Cinematheque](https://open.spotify.com/album/5cHfuPAuAwPzIfabcjnq1X) | 1:46 | 2026-07-23 |  |
 | [Broken Promise](https://open.spotify.com/track/4q8H4RpARg1R2CQYt4jukc) | [Tang.](https://open.spotify.com/artist/4Mfts7DF4fV8MgUJQIwVLx) | [Broken Promise](https://open.spotify.com/album/7oas2rVf2wUa6tur5mezAf) | 4:20 | 2022-05-26 | 2022-06-10 |
 | [Brown Liquor 2.0](https://open.spotify.com/track/3nNB3Ty4RH3gutOJOkBxEw) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Tommy Grooves](https://open.spotify.com/artist/1FFfMlrZrpn9wDWMRmNKQi) | [Still Going Through It \(Deluxe\)](https://open.spotify.com/album/3MzruzLrsSNyr4r5JyXkrS) | 3:40 | 2022-08-04 | 2022-11-04 |
 | [Bubbly](https://open.spotify.com/track/0ZSecsVGKiK4sl5i79jUS0) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Bubbly](https://open.spotify.com/album/5k2QRno7BLBHN1iu2a2QZ4) | 3:19 | 2024-03-28 | 2024-11-15 |
@@ -1588,6 +1589,7 @@
 | [笑住喊 \(feat\. Gareth.T\) \- Remix](https://open.spotify.com/track/7x2daGQYVsjCICJXnquONa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [W Tape \(The Remixes\)](https://open.spotify.com/album/4If27WgxfUreInRIM2FmZS) | 2:35 | 2024-02-01 | 2024-05-10 |
 | [笑死](https://open.spotify.com/track/0ByUo4Ddhi8hZalg0wDAx4) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [笑死](https://open.spotify.com/album/1d0pWF0p4h1raeWv8s9vP4) | 2:31 | 2022-05-26 | 2022-07-29 |
 | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A) | 2:12 | 2026-04-23 |  |
+| [等一等](https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [等一等](https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw) | 4:34 | 2026-07-23 |  |
 | [等等等](https://open.spotify.com/track/4SZ4SULm4syQAAtkaHb9FR) | [李白 \(Brad Li\)](https://open.spotify.com/artist/1uZxut4yL1iRvguCGCpEbx) | [等等等](https://open.spotify.com/album/26q8T7anFS1ifYyuXo7BKA) | 3:51 | 2024-09-26 | 2025-02-14 |
 | [答案](https://open.spotify.com/track/4AeGPDzAwPSMRyGaNuyGLQ) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [答案](https://open.spotify.com/album/2Gf2ijKAn3L7mpjahbepYV) | 5:00 | 2023-09-21 | 2023-12-01 |
 | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/track/0EZ2u7CviDEa4XI7dl3BA3) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [節日可以不用管我 Holidays Without Me](https://open.spotify.com/album/4yqM9oGXIHGrzrunIQTDoO) | 2:46 | 2024-12-19 | 2025-04-25 |

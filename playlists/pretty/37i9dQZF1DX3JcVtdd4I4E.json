@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7941,
+  "num_followers": 7942,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Euronites",
         "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
       },
@@ -879,42 +895,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "SWEET (feat. Biig Piig)",
-        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "SWEET (feat. Biig Piig)",
-      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "DeLorean",
         "url": "https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 197538,
       "name": "Always Hurts",
       "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "SWEET (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "SWEET (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Do Good Be Better",
-        "url": "https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ"
-      },
-      "artists": [
-        {
-          "name": "AmenA",
-          "url": "https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Do Good Be Better",
-      "url": "https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Do Good Be Better",
+        "url": "https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ"
+      },
+      "artists": [
+        {
+          "name": "AmenA",
+          "url": "https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Do Good Be Better",
+      "url": "https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Club Romantech",
         "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
       },
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H"
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
       "artists": [
         {
-          "name": "ELIA",
-          "url": "https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2"
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 247886,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H"
       },
       "artists": [
         {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+          "name": "ELIA",
+          "url": "https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G"
         }
       ],
-      "duration_ms": 247886,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p"
+      "duration_ms": 144000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2"
     },
     {
       "added_at": "2025-05-06 11:46:39",

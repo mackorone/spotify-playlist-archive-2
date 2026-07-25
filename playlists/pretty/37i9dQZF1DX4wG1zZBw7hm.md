@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,237 likes - 100 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,256 likes - 100 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 33 | [Twelve Miles High](https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [Las Vegas](https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy) | 11:22 |
 | 34 | [Mass Transit Railway](https://open.spotify.com/track/5yQiWObx6cnM7QQXfMCGdi) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Hongkong Remastered](https://open.spotify.com/album/3EX7B1sZJJ116srzApFlXK) | 7:17 |
 | 35 | [From A Distance](https://open.spotify.com/track/7k9lcsMwgPlhLOCHQbUzlU) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Silent State](https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb) | 6:59 |
-| 36 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
-| 37 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
+| 36 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
+| 37 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
 | 38 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |
 | 39 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
 | 40 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 53 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 |
 | 54 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
 | 55 | [Arte](https://open.spotify.com/track/7yAcNHVKIY3NSVdo1JF6d4) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Hongkong Remastered](https://open.spotify.com/album/3EX7B1sZJJ116srzApFlXK) | 10:05 |
-| 56 | [74312](https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD) | [Dave Knud](https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q) | [74312](https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu) | 3:49 |
-| 57 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
-| 58 | [Test 7](https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09.1](https://open.spotify.com/album/4jWaistXzPX93akLPQRuYS) | 8:10 |
+| 56 | [Test 7](https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09.1](https://open.spotify.com/album/4jWaistXzPX93akLPQRuYS) | 8:10 |
+| 57 | [74312](https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD) | [Dave Knud](https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q) | [74312](https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu) | 3:49 |
+| 58 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
 | 59 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
 | 60 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
 | 61 | [I, Cavallo](https://open.spotify.com/track/6kTteVJEEkVs3Zges11EPO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [I, Cavallo](https://open.spotify.com/album/4pC6V3FzQnCnBZJy9OWVm2) | 6:57 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 86 | [Erode](https://open.spotify.com/track/6D66z28IfGVXjLSzgL6pRM) | [Erosion](https://open.spotify.com/artist/5lIeMv0yYXUfoFW3kiuniK) | [Decay Product](https://open.spotify.com/album/2Mntwro0WavIGHWAtiwOhX) | 9:19 |
 | 87 | [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 |
 | 88 | [Delicately in the Sunlight](https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [An Act of Love](https://open.spotify.com/album/7iVg6RDW5EdYQ6zs0BzGzl) | 3:07 |
-| 89 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
-| 90 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
+| 89 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
+| 90 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
 | 91 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |
 | 92 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
 | 93 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |

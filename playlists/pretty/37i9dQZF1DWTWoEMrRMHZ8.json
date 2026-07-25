@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355048,
+  "num_followers": 355044,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Joyce Alane Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Bel\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "A Paz",
         "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 273031,
       "name": "A Paz",
       "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Joyce Alane Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Bel\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
         "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Eu Venho de Longe",
         "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
       },
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "O Nome Certo do Amor",
-        "url": "https://open.spotify.com/album/0r6wUyLut4tuyYxdsoAVwO"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "G\u00ea Lara",
-          "url": "https://open.spotify.com/artist/2C9ngXw6itJHYuEiZpbsQj"
-        }
-      ],
-      "duration_ms": 166437,
-      "name": "O Nome Certo do Amor",
-      "url": "https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Nua Ideia",
         "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 233229,
       "name": "Nua Ideia",
       "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "O Nome Certo do Amor",
+        "url": "https://open.spotify.com/album/0r6wUyLut4tuyYxdsoAVwO"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "G\u00ea Lara",
+          "url": "https://open.spotify.com/artist/2C9ngXw6itJHYuEiZpbsQj"
+        }
+      ],
+      "duration_ms": 166437,
+      "name": "O Nome Certo do Amor",
+      "url": "https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Vamos Combinar",
         "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 216592,
       "name": "Vamos Combinar",
       "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "BEM ME QUER / MINHA FLOR",
         "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -851,6 +851,26 @@
       "duration_ms": 149825,
       "name": "Deus me proteja - Sessions",
       "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -967,26 +987,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Lugar Comum",
         "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 278212,
       "name": "Lugar Comum",
       "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1035,6 +1019,22 @@
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "VAMO COM CALMA, MALANDRA",
+        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
+      },
+      "artists": [
+        {
+          "name": "Ana Karina Sebasti\u00e3o",
+          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 125193,
+      "name": "VAMO COM CALMA, MALANDRA",
+      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 227066,
       "name": "Pra Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "VAMO COM CALMA, MALANDRA",
-        "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
-      },
-      "artists": [
-        {
-          "name": "Ana Karina Sebasti\u00e3o",
-          "url": "https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 125193,
-      "name": "VAMO COM CALMA, MALANDRA",
-      "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
     },
     {
       "added_at": "2026-07-17 19:35:24",

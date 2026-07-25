@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Radio Free Alice
 
-1,040 songs - 2 day 10 hr 18 min
+1,040 songs - 2 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Britney Spears](https://open.spotify.com/track/2nkWAT1M3xE0dkT6KTQSK2) | [Ceres](https://open.spotify.com/artist/6ignu1FESsoUapE3EnbCFL) | [Britney Spears b/w "In The Valley"](https://open.spotify.com/album/2pg2AVApznVv72qKuyB1WA) | 4:07 | 2024-08-29 | 2024-10-11 |
 | [Broken Chair](https://open.spotify.com/track/5ExzxIsLEJ1yy1ycWdQkZj) | [YAGKI](https://open.spotify.com/artist/1ICD9z7waFlpX0RHl2V80Y) | [Broken Chair](https://open.spotify.com/album/1faOALQ4sLo6z73QfZioBG) | 4:00 | 2026-07-09 |  |
 | [Bruises](https://open.spotify.com/track/1UN5gObNd0xJZabF2BKHmE) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Long March Through the Jazz Age](https://open.spotify.com/album/5k1odhUSl3AWMbviR45MNV) | 4:24 | 2025-11-27 | 2026-02-20 |
+| [Burial](https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [This Will End](https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb) | 3:58 | 2026-07-23 |  |
 | [Burn Away](https://open.spotify.com/track/5cAex7LEuiSakrkL0qeLSC) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Burn Away](https://open.spotify.com/album/5BXFdrtOD5O1itRqpE0cRe) | 3:24 | 2026-05-07 | 2026-07-24 |
 | [Burn My Scars](https://open.spotify.com/track/4WyuJ1Z4epLkuZn95CcZP4) | [ROX LAVI](https://open.spotify.com/artist/4VA9QmsuAL3yxm5K5OCizT) | [Burn My Scars](https://open.spotify.com/album/2mT2E4FnB94bKNrZLweSJt) | 2:45 | 2024-07-04 | 2024-08-23 |
 | [Burning Up](https://open.spotify.com/track/6KWiyZvFVhxeZcZNi0AVnv) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [Burning Up](https://open.spotify.com/album/5YRugobEW4k70jcSy7uVnO) | 2:56 | 2025-11-13 | 2026-02-20 |
@@ -963,7 +964,6 @@
 | [Tonight, I](https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Novel](https://open.spotify.com/album/0wrWV4wYGC2QXcp3wIDpus) | 3:47 | 2024-05-24 | 2024-07-12 |
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 3](https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [This Will End](https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb) | 0:00 | 2026-07-23 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |
 | [Trip Hazard](https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Trip Hazard](https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h) | 2:49 | 2024-05-24 | 2024-07-27 |

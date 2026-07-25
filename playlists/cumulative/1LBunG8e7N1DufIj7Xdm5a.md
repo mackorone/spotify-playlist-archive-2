@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,553 songs - 10 day 4 hr 15 min
+4,555 songs - 10 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2278,6 +2278,7 @@
 | [Lights up in the Morning Blaze \(another\)](https://open.spotify.com/track/5b22uXoYxyeZv4A0S64xeu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:51 | 2025-09-19 |  |
 | [Lighty](https://open.spotify.com/track/60AzyRRvAyi9dSJX3uB1wO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:40 | 2025-09-17 |  |
 | [Lighty \(another\)](https://open.spotify.com/track/3xBDNSyeokrYSiXBHCB2IE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:14 | 2025-09-17 |  |
+| [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 | 2026-07-24 |  |
 | [Like a Sun](https://open.spotify.com/track/3LSsDvUngLzH6ayzSmv1Pw) | [Charlie Toulson](https://open.spotify.com/artist/5XVuDmp4R5ESKtdYKu4u9n) | [Blood](https://open.spotify.com/album/4OlJmPoZcR6HhP9ryrYjoD) | 2:16 | 2025-12-26 |  |
 | [Like I Love You](https://open.spotify.com/track/2BmUatmy9K4kZL8SLgne6l) | [Miley Rose](https://open.spotify.com/artist/6MA3iyWPi3BNUecJdCp563) | [Like I Love You](https://open.spotify.com/album/2bdsi3Elzz7AQx99LRMdn7) | 3:30 | 2026-02-27 |  |
 | [Like The Dragonflies](https://open.spotify.com/track/6wupREgOCQGRn6TUdAaw7e) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Like The Dragonflies](https://open.spotify.com/album/2NJ28PGU3y3gwyzF4YJzRj) | 4:08 | 2025-06-06 |  |
@@ -2718,6 +2719,7 @@
 | [Never Lose Hope](https://open.spotify.com/track/5jcknYDx6OBKpvtzUiOm9V) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Never Lose Hope](https://open.spotify.com/album/6D41v42jSUkqUxrM9Ut6T1) | 4:14 | 2025-06-08 |  |
 | [Never Never](https://open.spotify.com/track/4XfvXDR9ldrq26YOHukESs) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [Cockerel](https://open.spotify.com/album/7K4IwPHd9KkN7T0PGvT7zQ) | 2:46 | 2025-11-05 |  |
 | [Never too Late](https://open.spotify.com/track/3aFOwNnDfwNK76TfQAdgPb) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Never too Late](https://open.spotify.com/album/2Wd8hr5AlJ1UObwueanYlA) | 3:55 | 2025-10-01 |  |
+| [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 | 2026-07-24 |  |
 | [NEW](https://open.spotify.com/track/5n6AqTx1nw3ETpMY5sxKzu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:43 | 2025-08-28 |  |
 | [New Horizons](https://open.spotify.com/track/2QBJJk1XIUVtu07TTMKIXd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cyber Electro\-Music](https://open.spotify.com/album/3vRDhvvZ7bNY4ZidlEHF2B) | 2:06 | 2025-09-18 |  |
 | [New Horizons \(another\)](https://open.spotify.com/track/1NOYs699H2PquXL3XY4Pct) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cyber Electro\-Music](https://open.spotify.com/album/3vRDhvvZ7bNY4ZidlEHF2B) | 2:17 | 2025-09-18 |  |

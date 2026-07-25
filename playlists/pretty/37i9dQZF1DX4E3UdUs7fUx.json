@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 1988684,
+  "num_followers": 1988392,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Time Stands",
-      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Time Stands",
+      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 251008,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "All or Nothing / Fast Car",
         "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 267331,
       "name": "All or Nothing (feat. Tall Heights)",
       "url": "https://open.spotify.com/track/7zW1tKbxhWzuD6UDIP6GWP"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 251008,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1315,6 +1331,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1331,18 +1363,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A"
       },
       "artists": [
         {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1375,22 +1407,6 @@
       "duration_ms": 275628,
       "name": "Two of Us on the Run",
       "url": "https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Lights Off",
-      "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1NtdVz5tQtiql7SmN1SKEL"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/3XzLC1TU451F0nPiJitk49"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A"
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1NtdVz5tQtiql7SmN1SKEL"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/3XzLC1TU451F0nPiJitk49"
     },
     {
       "added_at": "2024-08-23 15:05:15",

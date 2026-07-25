@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Kelela & PinkPantheress✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,489 likes - 257 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,555 likes - 257 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 3 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 | 4 | [Magic Metal Montana](https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:30 |
 | 5 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
-| 6 | [Track 2](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 0:00 |
+| 6 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
 | 7 | [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 |
 | 8 | [Train Of Thought](https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 2:31 |
 | 9 | [Special](https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Special](https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew) | 3:00 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 15 | [More Delusional](https://open.spotify.com/track/66DoJJdfDEAIUdnKGahV5U) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 2:48 |
 | 16 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
 | 17 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
-| 18 | [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
+| 18 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 19 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 20 | [Flying](https://open.spotify.com/track/6McxWlzA4RqRJ6Cv7RB68I) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Flying](https://open.spotify.com/album/1M2ENVTvOvVshu6Td989QU) | 2:25 |
 | 21 | [HEAVENS \#1](https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HEAVENS \#1](https://open.spotify.com/album/7GerVx0fR4fOHh3aITnOSm) | 2:54 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sarah Black",
-  "num_followers": 82797,
+  "num_followers": 82819,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpT07SH0LvX/eK8NNdYGIKPE1A3",
+  "snapshot_id": "AAAAAPpOpBCM6dtbuGMjofQx1kzcPl/R",
   "tracks": [
     {
       "added_at": "2026-03-25 09:30:08",
@@ -185,6 +185,30 @@
       "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
+      "added_at": "2026-07-24 12:42:59",
+      "album": {
+        "name": "Kaarmegham",
+        "url": "https://open.spotify.com/album/2yJlSXQ2aSMMGim0prZY5Z"
+      },
+      "artists": [
+        {
+          "name": "Aakash Rajan",
+          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
+        },
+        {
+          "name": "Rahul Rajendran",
+          "url": "https://open.spotify.com/artist/3nm8EywGJ485HGykrfZCtn"
+        },
+        {
+          "name": "Sudarshan Balu",
+          "url": "https://open.spotify.com/artist/3xddsAucxDgdfERCW6Aat6"
+        }
+      ],
+      "duration_ms": 216548,
+      "name": "Kaarmegham",
+      "url": "https://open.spotify.com/track/3oNz3t9DcGJON3LFV4AXqi"
+    },
+    {
       "added_at": "2026-04-08 11:14:11",
       "album": {
         "name": "Raw Tapes 01 (Acoustic)",
@@ -219,6 +243,30 @@
       "duration_ms": 197367,
       "name": "Fancy Store - From \"Atti Culture\"",
       "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
+    },
+    {
+      "added_at": "2026-07-24 12:42:59",
+      "album": {
+        "name": "Mayangureney",
+        "url": "https://open.spotify.com/album/0LWXdvJ9XKMDzqvVa1bs84"
+      },
+      "artists": [
+        {
+          "name": "Sharan kumar",
+          "url": "https://open.spotify.com/artist/6TZDORviDHkSuMyOC7Y1zT"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Sudarson Murali",
+          "url": "https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2"
+        }
+      ],
+      "duration_ms": 200588,
+      "name": "Mayangureney",
+      "url": "https://open.spotify.com/track/5yKeWRFfcnyCY0b71Jb9RP"
     },
     {
       "added_at": "2026-06-25 06:29:15",

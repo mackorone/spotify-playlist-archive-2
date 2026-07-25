@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: HAON, NOWIMYOUNG, JMIN, KC\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: JMIN, HAON, NOWIMYOUNG\)
 
 1,942 songs - 4 day 7 hr 34 min
 

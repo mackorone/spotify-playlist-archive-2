@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Freddy Moreira, Bokoesam & Young Ellens
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,615 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,622 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 74 | [Alo](https://open.spotify.com/track/0tEIOQkNRNn6ZGoalxsXDq) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Alo](https://open.spotify.com/album/5nbMRLAWtDojQ5fMkAJ2M4) | 2:36 |
 | 75 | [Nobody Body Remix](https://open.spotify.com/track/4MzBvMN0XC1RrhHitjeuXh) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Bringhim](https://open.spotify.com/artist/6MuiAYubYY3YXAc1LkBNpR) | [Nobody Body Remix](https://open.spotify.com/album/11ruZOYd2w8mCz9a4ed7sE) | 3:57 |
 
-Snapshot ID: `AAAAAPpO0VSB1lz04ifNrQQSl9FvwHiQ`
+Snapshot ID: `AAAAAO5CpFzWJRzO6BNW3jcO4jEBHTaL`

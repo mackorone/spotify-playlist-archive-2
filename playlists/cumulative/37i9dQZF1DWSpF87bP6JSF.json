@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Fabio Capri en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Aria Vega en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192065,
       "name": "Dando Vueltas",
       "url": "https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 118588,
       "name": "Desah\u00f3gate",
       "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155226,
       "name": "Encubiertos",
       "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
@@ -6800,6 +6800,28 @@
       "duration_ms": 203161,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/7hKVe53E4qYRGoRGk7tfYC"
+    },
+    {
+      "album": {
+        "name": "Gigante - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/63mrBSIe7fAxER3CyKVSDs"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "Gigante - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/03QlAtjQCaDM051hJ7qgD7"
     },
     {
       "album": {
@@ -10564,7 +10586,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 184041,
       "name": "Mi Yo De Antes",
       "url": "https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J"
@@ -12485,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "Otra Que Arde",
+        "url": "https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/5FAUcTwcb2ZLxesz9oN5dE"
+    },
+    {
+      "album": {
         "name": "Otro Cumplea\u00f1os",
         "url": "https://open.spotify.com/album/0QCB3aF4ABfpm7oqGpaKVp"
       },
@@ -13454,6 +13494,24 @@
       "duration_ms": 166406,
       "name": "princess peach",
       "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
+        "name": "principiante",
+        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "principiante",
+      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
     },
     {
       "album": {
@@ -16162,6 +16220,24 @@
       "duration_ms": 132400,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "album": {
+        "name": "TOTOTO (+4)",
+        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138994,
+      "name": "TOTOTO (+4)",
+      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Television off
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: mute.
 
-183 songs - 12 hr 44 min
+184 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 | 2024-06-27 | 2024-08-17 |
 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 | 2025-02-21 | 2026-05-16 |
 | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 | 2025-02-28 | 2026-05-01 |
+| [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/track/2M3ks2bl5SS5DPS1CNBVFd) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/album/4BWLXhmcuiqOH1neP2MVZb) | 3:46 | 2026-07-24 |  |
 | [ซ่อนเธออยู่ในนั้น \( Hide & Seek \)](https://open.spotify.com/track/6cc9helVHMrKWF0rJ2Dd57) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ซ่อนเธออยู่ในนั้น \( Hide & Seek \)](https://open.spotify.com/album/5aY6Oq8K1ooeV6KijIpfXs) | 4:29 | 2026-05-15 |  |
 | [ดวงดาว](https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ดวงดาว](https://open.spotify.com/album/6OR0AK67vjadPL6R5pZaje) | 4:13 | 2025-08-15 | 2025-09-20 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
@@ -116,7 +117,7 @@
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-06-27 | 2025-01-24 |
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2024-06-27 | 2025-05-02 |
 | [ร้อง](https://open.spotify.com/track/0dz7CG4PilygZufNh79F7Q) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [6lur](https://open.spotify.com/album/4cVtKN4sHwYxAACCBUYTRW) | 4:17 | 2024-10-25 | 2024-11-29 |
-| [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 | 2025-05-01 |  |
+| [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 | 2025-05-01 | 2026-07-25 |
 | [ละครเรื่องเดิม](https://open.spotify.com/track/5gBb3rTCrJFB0SC7JKRJD1) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ละครเรื่องเดิม](https://open.spotify.com/album/3MEmeSt3mr48AHrPQ52IVq) | 4:58 | 2026-04-03 |  |
 | [ละอองดาว \(Fading\)](https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ละอองดาว \(Fading\)](https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0) | 4:44 | 2026-04-03 |  |
 | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr) | 3:45 | 2025-10-24 | 2025-12-08 |

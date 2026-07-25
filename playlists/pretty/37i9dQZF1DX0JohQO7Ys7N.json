@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi.  Cover: Njerae",
-  "num_followers": 50148,
+  "num_followers": 50181,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNvLaJAF5IukMOuv+TrpjRHDIwc",
+  "snapshot_id": "AAAAANTOwb1JK9+UwS7QuHJWPWFUhHdt",
   "tracks": [
     {
       "added_at": "2026-07-23 23:59:17",
@@ -287,6 +287,22 @@
       "duration_ms": 264000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF"
+    },
+    {
+      "added_at": "2026-07-24 15:18:55",
+      "album": {
+        "name": "Always and Forever",
+        "url": "https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 251900,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC"
     },
     {
       "added_at": "2026-07-23 23:59:17",
@@ -715,22 +731,6 @@
       "duration_ms": 220296,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/0NJoOCysG7PSFBFvbokwb5"
-    },
-    {
-      "added_at": "2026-07-23 23:59:17",
-      "album": {
-        "name": "coin: the demos",
-        "url": "https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh"
-      },
-      "artists": [
-        {
-          "name": "Iyanah",
-          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "like a song",
-      "url": "https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS"
     },
     {
       "added_at": "2026-07-23 23:59:17",

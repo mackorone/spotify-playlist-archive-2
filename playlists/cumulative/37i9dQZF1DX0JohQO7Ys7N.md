@@ -4,7 +4,7 @@
 
 > Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Njerae
 
-365 songs - 20 hr 35 min
+366 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 | 2024-12-19 |  |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2021-12-28 | 2026-03-06 |
 | [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-11-30 | 2025-10-03 |
+| [Always and Forever](https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Always and Forever](https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi) | 4:11 | 2026-07-24 |  |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 | 2024-05-17 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2025-02-13 | 2025-02-21 |
 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 | 2021-12-28 | 2023-07-14 |
@@ -173,7 +174,7 @@
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-18 | 2023-04-07 |
 | [Lie to Me \- Home Session](https://open.spotify.com/track/52xnyuEQRJToUAolhLJGkO) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Home Session](https://open.spotify.com/album/66icwT2w7cUN4qFxSmfDNM) | 3:11 | 2026-01-23 | 2026-07-16 |
 | [Lifetimes](https://open.spotify.com/track/3EeWg0GABnVlg0boa29GTK) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Lifetimes](https://open.spotify.com/album/5hC9LuVBPPiECwYohDX9By) | 3:22 | 2024-05-16 | 2025-02-08 |
-| [like a song](https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [coin: the demos](https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh) | 3:04 | 2026-07-15 |  |
+| [like a song](https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [coin: the demos](https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh) | 3:04 | 2026-07-15 | 2026-07-25 |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-03 | 2023-11-03 |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-28 | 2022-07-16 |
 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 | 2025-07-17 | 2026-07-16 |

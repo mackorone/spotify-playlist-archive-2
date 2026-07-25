@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,129 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,164 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 5 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
 | 6 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
 | 7 | [FENIAN](https://open.spotify.com/track/6ge8SJfGh8Z2EfhGn4lIba) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0z5uyAUrflFAnjBR2EhW9J) | 3:14 |
-| 8 | [days end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [days end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
+| 8 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 9 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
 | 10 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 11 | [bobinov](https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [bobinov](https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG) | 3:10 |

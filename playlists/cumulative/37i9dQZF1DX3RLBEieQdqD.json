@@ -2001,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "En Manos Ajenas",
+        "url": "https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187578,
+      "name": "En Manos Ajenas",
+      "url": "https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2"
+    },
+    {
+      "album": {
         "name": "En Privado",
         "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
@@ -5160,6 +5182,24 @@
       "duration_ms": 198985,
       "name": "Yo Se Cuando Miente",
       "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"
+    },
+    {
+      "album": {
+        "name": "\u00bfQU\u00c9 PAS\u00d3 AYER?",
+        "url": "https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145244,
+      "name": "\u00bfQU\u00c9 PAS\u00d3 AYER?",
+      "url": "https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG"
     },
     {
       "album": {

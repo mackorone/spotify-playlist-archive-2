@@ -1,13 +1,33 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Kygo ",
-  "num_followers": 432534,
+  "description": "The hottest new pop with all the drops. Cover: Martin Garrix & U2 ",
+  "num_followers": 433447,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPe/hpyL6pZL+rZzbznxREVjml7K",
+  "snapshot_id": "AAAAANSF9WVk3c9bm962v4a4Oxy//JPP",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
+    },
     {
       "added_at": "2026-07-10 04:14:54",
       "album": {
@@ -27,6 +47,122 @@
       "duration_ms": 201557,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Feel It (Oh My Days)",
+        "url": "https://open.spotify.com/album/0OWsNw2vvlZob0ltVjr9Eb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wudhouse",
+          "url": "https://open.spotify.com/artist/2wsmSvLq3FeM5elwxYOv8F"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Feel It (Oh My Days)",
+      "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
+    },
+    {
+      "added_at": "2026-07-10 04:14:54",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 165407,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Where She Come From",
+        "url": "https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 150245,
+      "name": "Where She Come From",
+      "url": "https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/1HG5GUskLA8v9zMPqgAXHU"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 168375,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/18IcMSwjYvrFi9oKSNl9iL"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "ONE CALL AWAY.",
+        "url": "https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 176050,
+      "name": "ONE CALL AWAY.",
+      "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
     },
     {
       "added_at": "2026-07-17 04:05:25",
@@ -49,20 +185,64 @@
       "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
-      "added_at": "2026-07-17 04:05:25",
+      "added_at": "2026-07-24 04:02:09",
       "album": {
-        "name": "Club To Your Arms / Just Be Bodies",
-        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
+        "name": "You Don't Want To Think About It",
+        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
       },
       "artists": [
         {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
         }
       ],
-      "duration_ms": 207173,
-      "name": "Just Be Bodies",
-      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
+      "duration_ms": 142973,
+      "name": "You Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/5230mkvEzWhiy0tlzWz5v9"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Dumb Decisions",
+        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118119,
+      "name": "Dumb Decisions",
+      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
     },
     {
       "added_at": "2026-07-17 04:05:25",
@@ -81,24 +261,36 @@
       "url": "https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh"
     },
     {
-      "added_at": "2026-07-10 04:14:54",
+      "added_at": "2026-07-17 04:05:25",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf"
+        "name": "Club To Your Arms / Just Be Bodies",
+        "url": "https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw"
       },
       "artists": [
         {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "duration_ms": 165407,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
+      "duration_ms": 207173,
+      "name": "Just Be Bodies",
+      "url": "https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x"
+    },
+    {
+      "added_at": "2026-07-24 04:02:09",
+      "album": {
+        "name": "Brace Yourself",
+        "url": "https://open.spotify.com/album/6K6TUKKDuyi5JtRn3qpK0q"
+      },
+      "artists": [
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "duration_ms": 268341,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/15TaBpXonkkLMRBw6Nxy55"
     },
     {
       "added_at": "2026-06-26 04:00:28",
@@ -915,30 +1107,6 @@
     {
       "added_at": "2026-06-12 04:02:14",
       "album": {
-        "name": "Free to Love (Harrison Remix) / Free to Love (Jersey Black Cat Remix)",
-        "url": "https://open.spotify.com/album/6OvmnkA8oP4QSvbYCN12FB"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 210249,
-      "name": "Free to Love - Harrison Remix",
-      "url": "https://open.spotify.com/track/5cS3rCcqTbw5rOJNJeiiDF"
-    },
-    {
-      "added_at": "2026-06-12 04:02:14",
-      "album": {
         "name": "thumbs",
         "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
       },
@@ -955,22 +1123,6 @@
       "duration_ms": 170800,
       "name": "thumbs",
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
-    },
-    {
-      "added_at": "2026-06-19 04:01:21",
-      "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/7Cvn6yzjoU7K9yt4J83qYl"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 115966,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/6QyCxKdH6n2bfV49UI9pmC"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -1007,22 +1159,6 @@
       "duration_ms": 182077,
       "name": "Spin Me Slowly (feat. Julia Church)",
       "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
-    },
-    {
-      "added_at": "2026-06-19 04:01:21",
-      "album": {
-        "name": "Euphoria (Radio Edit)",
-        "url": "https://open.spotify.com/album/4PVO2Or0AGg5NTf7CZPxkE"
-      },
-      "artists": [
-        {
-          "name": "Ella Isaacson",
-          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
-        }
-      ],
-      "duration_ms": 177344,
-      "name": "Euphoria - Radio Edit",
-      "url": "https://open.spotify.com/track/4AlcZ3atk5vbFsbTdVkqTt"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -1213,26 +1349,6 @@
       "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
     },
     {
-      "added_at": "2026-05-29 04:02:55",
-      "album": {
-        "name": "Sad Girls",
-        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 168771,
-      "name": "Sad Girls",
-      "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
-    },
-    {
       "added_at": "2026-05-22 04:02:06",
       "album": {
         "name": "Movin' To The Sun",
@@ -1291,22 +1407,6 @@
     {
       "added_at": "2026-05-29 04:02:55",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/3FgU348qPgRlGCAWKvAyZI"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"
-    },
-    {
-      "added_at": "2026-05-29 04:02:55",
-      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
       },
@@ -1319,26 +1419,6 @@
       "duration_ms": 210909,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
-    },
-    {
-      "added_at": "2026-05-29 04:02:55",
-      "album": {
-        "name": "Torture of the Heart",
-        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Torture of the Heart",
-      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
     },
     {
       "added_at": "2026-05-29 04:02:55",
@@ -1359,30 +1439,6 @@
       "duration_ms": 187000,
       "name": "LEMONADE (feat. Becky G)",
       "url": "https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1"
-    },
-    {
-      "added_at": "2026-05-29 04:02:55",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "It's Different",
-          "url": "https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA"
-        },
-        {
-          "name": "Omar Duro",
-          "url": "https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu"
     },
     {
       "added_at": "2026-05-29 04:02:55",
@@ -1435,22 +1491,6 @@
       "duration_ms": 130720,
       "name": "Peepin'",
       "url": "https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC"
-    },
-    {
-      "added_at": "2026-05-29 04:02:55",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/5C1uiWNazII9KgQ8IkAQWM"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 113618,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk"
     },
     {
       "added_at": "2026-05-29 04:02:55",
@@ -1527,22 +1567,6 @@
       "duration_ms": 148297,
       "name": "PARTIES IN LA",
       "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
-    },
-    {
-      "added_at": "2026-05-22 04:44:28",
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/5N3lcMudUczXJ2E9nImObL"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        }
-      ],
-      "duration_ms": 189852,
-      "name": "Apocalypto",
-      "url": "https://open.spotify.com/track/099LZcgh0TDUaEV1RY5ayn"
     },
     {
       "added_at": "2026-05-22 04:02:06",
@@ -1635,26 +1659,6 @@
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-05-08 04:03:07",
-      "album": {
-        "name": "Dream Out Loud",
-        "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Dream Out Loud",
-      "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
     },
     {
       "added_at": "2026-05-15 04:01:24",
@@ -1795,30 +1799,6 @@
       "duration_ms": 247384,
       "name": "Love Is Kind",
       "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-05-08 04:03:07",
-      "album": {
-        "name": "Without You (feat. Sasha Alex Sloan)",
-        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 176258,
-      "name": "Without You (feat. Sasha Alex Sloan)",
-      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
     },
     {
       "added_at": "2026-05-01 04:03:55",

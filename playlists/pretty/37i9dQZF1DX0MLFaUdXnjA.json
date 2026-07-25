@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Amie Blu",
-  "num_followers": 1779367,
+  "num_followers": 1779524,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMpDPZfhq2ZNOt7O1UJz1FlLR4I2",
+  "snapshot_id": "AAAAAPdSHfm2K+HacHZvoVm4IneI59Qf",
   "tracks": [
     {
       "added_at": "2026-07-11 17:40:28",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
+      "added_at": "2026-07-24 04:02:38",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "added_at": "2026-07-24 04:02:38",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+      },
+      "artists": [
+        {
+          "name": "Jace Cameron",
+          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+        }
+      ],
+      "duration_ms": 230637,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
+    },
+    {
       "added_at": "2026-07-17 04:06:59",
       "album": {
         "name": "Daughter from Hell",
@@ -39,6 +71,22 @@
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
+    },
+    {
+      "added_at": "2026-07-24 04:02:38",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "added_at": "2026-06-26 04:00:34",
@@ -281,22 +329,6 @@
       "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
     },
     {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "Make Up",
-        "url": "https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Make Up",
-      "url": "https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN"
-    },
-    {
       "added_at": "2026-07-17 04:06:59",
       "album": {
         "name": "Hangin' On",
@@ -345,6 +377,22 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
+      "added_at": "2026-07-24 14:27:45",
+      "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/3Xcn9Ba7U12iDIJcC86uaP"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "SUGAR RUSH",
+      "url": "https://open.spotify.com/track/2IczQasfpF3dXhnKCKzbPg"
+    },
+    {
       "added_at": "2026-07-03 04:02:27",
       "album": {
         "name": "Dream Crusher",
@@ -391,22 +439,6 @@
       "duration_ms": 237000,
       "name": "it\u2019s just White Noise",
       "url": "https://open.spotify.com/track/390rTowRCM4fY7XNNvkwSE"
-    },
-    {
-      "added_at": "2026-06-26 04:00:34",
-      "album": {
-        "name": "Water The Flowers",
-        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 150994,
-      "name": "Water The Flowers",
-      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "added_at": "2026-07-03 04:02:27",
@@ -487,22 +519,6 @@
       "duration_ms": 214778,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
-    },
-    {
-      "added_at": "2026-06-26 04:00:34",
-      "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     },
     {
       "added_at": "2026-06-26 04:00:34",
@@ -1591,22 +1607,6 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2026-02-20 05:00:44",
-      "album": {
-        "name": "Shadow Of A Bird",
-        "url": "https://open.spotify.com/album/2q7MrQ1wRDkJCpzhPdkgwi"
-      },
-      "artists": [
-        {
-          "name": "gianna",
-          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
-        }
-      ],
-      "duration_ms": 207845,
-      "name": "Shadow Of A Bird",
-      "url": "https://open.spotify.com/track/5khNrNDRBfOpMZccGImGVZ"
     },
     {
       "added_at": "2026-01-16 05:00:28",

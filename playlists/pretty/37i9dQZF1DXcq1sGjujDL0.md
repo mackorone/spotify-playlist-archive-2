@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,000 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,022 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 51 | [Right To Be Wrong](https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:40 |
 | 52 | [I'll Be There \(feat\. Nile Rodgers\) \- Single Version](https://open.spotify.com/track/6xKmaLfne8mU7DYcqvCtSB) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [I'll Be There \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6H6yQWiRb6Rm2JfBK7C7nB) | 3:37 |
 | 53 | [If You Want Me to Stay](https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Life, Love & The Blues](https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm) | 5:20 |
-| 54 | [Crush](https://open.spotify.com/track/5aWy6lwLIkd9F3DS94MID6) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Flowers \- The Hits Collection](https://open.spotify.com/album/2nJYViXh2aERzlshmKLH43) | 3:20 |
-| 55 | [Your Easy Lovin' Ain't Pleasin' Nothin'](https://open.spotify.com/track/5NGcTyu5c4o5OQN2qDHMuq) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 3:03 |
+| 54 | [Your Easy Lovin' Ain't Pleasin' Nothin'](https://open.spotify.com/track/5NGcTyu5c4o5OQN2qDHMuq) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 3:03 |
+| 55 | [Crush](https://open.spotify.com/track/5aWy6lwLIkd9F3DS94MID6) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Flowers \- The Hits Collection](https://open.spotify.com/album/2nJYViXh2aERzlshmKLH43) | 3:20 |
 | 56 | [Your Song](https://open.spotify.com/track/2WAO1qTCK2SUef8c3GiXeF) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 6:33 |
 | 57 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 |
 | 58 | [Nel blu dipinto di blu \(Volare\) \- Remastered](https://open.spotify.com/track/6jUghjdX9fZyjsjcx4VdAG) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [The Italian Stars \(Original Recordings Remastered\)](https://open.spotify.com/album/57flpga8SEY4iCaBwwTKNg) | 3:37 |

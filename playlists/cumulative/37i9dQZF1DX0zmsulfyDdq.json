@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Pompeii: Out of Time with Tom Hiddleston (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/04q9GXFKZjNoz3PRJtHub0"
+      },
+      "artists": [
+        {
+          "name": "Aisling Brouwer",
+          "url": "https://open.spotify.com/artist/0laJTSeaECNmGVvVVXH6wn"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166208,
+      "name": "Alumno",
+      "url": "https://open.spotify.com/track/4y3A8YQ94qAfPpJwZwOuAU"
+    },
+    {
+      "album": {
         "name": "The Crimson Wing: Mystery of the Flamingos (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW"
       },
@@ -3034,7 +3056,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 265557,
       "name": "Oogie Boogie's Song",
       "url": "https://open.spotify.com/track/0ROW9eF2C9Lnf6B3tROI9O"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 138373,
       "name": "Sleep, Little Child",
       "url": "https://open.spotify.com/track/4kwK5Bf7ZCFiovd8IBMMaR"

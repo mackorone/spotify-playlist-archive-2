@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,139 songs - 2 day 10 hr 31 min
+1,140 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1015,6 +1015,7 @@
 | [Tolls](https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Tolls](https://open.spotify.com/album/4t1DUWa5cMmf8JW0VsXxRZ) | 3:09 | 2023-03-31 | 2023-08-26 |
 | [Tonight](https://open.spotify.com/track/3q8cHHfOVlcilIpvfoAn1h) | [Highway Gloom](https://open.spotify.com/artist/0ohZI3gXk1CQiyoTpcSyT1) | [Tonight](https://open.spotify.com/album/73UKS3QbVugiekYb4ktOfy) | 2:18 | 2024-12-16 |  |
 | [Too Late To Love You](https://open.spotify.com/track/1XP6izZrqT8FsMaLKDAnUP) | [Ex Habit](https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT) | [Too Late To Love You](https://open.spotify.com/album/2asDslP57oQT3SnErAPyRE) | 2:25 | 2022-07-01 | 2022-07-29 |
+| [Too Many Things](https://open.spotify.com/track/4exObiIeBRJWqkMjFtPxQU) | [MiiNDS](https://open.spotify.com/artist/1xZLsUvbXgEeYWl6rGXnmt) | [Too Many Things](https://open.spotify.com/album/2tuiV2jdBZWxvGO8QMqLLx) | 2:55 | 2026-07-24 |  |
 | [Top Now](https://open.spotify.com/track/74yhIeJp5nF6TSngZBPVhQ) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Top Now](https://open.spotify.com/album/5iLlpCTNZy90Q536qcl9iX) | 2:18 | 2022-06-24 | 2022-07-29 |
 | [Touch Me](https://open.spotify.com/track/3OKrYET176YDfFvbEA05hr) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Touch Me](https://open.spotify.com/album/67Vv0WIob1W67obkI8P0B9) | 2:33 | 2024-02-16 | 2024-04-05 |
 | [Toxic](https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Toxic](https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg) | 3:17 | 2023-09-01 | 2024-01-30 |

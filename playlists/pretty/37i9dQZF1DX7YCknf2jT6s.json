@@ -1,13 +1,157 @@
 {
-  "description": "New jazz for open minds. Cover: Joey Alexander",
-  "num_followers": 1050036,
+  "description": "New jazz for open minds. Cover: Nicholas Payton & Butcher Brown",
+  "num_followers": 1050068,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZv9Jb7rMtfo3X3Lf74v6ljUIb6",
+  "snapshot_id": "AAAAAN+dPhKJ6IJxJ6ituGAIfhG+hYsG",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "A Supreme Blue",
+        "url": "https://open.spotify.com/album/6g0hUzE7MozpOpJR0Y8uuk"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 466786,
+      "name": "Acknowledgement",
+      "url": "https://open.spotify.com/track/4IjZDtzKy4udPAXl8t8NqL"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+        "url": "https://open.spotify.com/album/3OGYyHdEKhbiaPrpXDIxgd"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Tony Stone",
+          "url": "https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "duration_ms": 200569,
+      "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+      "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "Peace of Mind (feat. 9th Wonder)",
+        "url": "https://open.spotify.com/album/13MkqHdMyvgZD1DDC8iNYR"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Peace of Mind (feat. 9th Wonder)",
+      "url": "https://open.spotify.com/track/21EuwZ7A0SxwVKNHXNF7ed"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "Sangam & Friends",
+        "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 486226,
+      "name": "Bharati\u2019s Dance, Tempo Divine",
+      "url": "https://open.spotify.com/track/5ttXh7cGOjCE8QxPK3bI5u"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "Mameya",
+        "url": "https://open.spotify.com/album/12BWRqfqWyK3cgwhnZlpGK"
+      },
+      "artists": [
+        {
+          "name": "Dan White",
+          "url": "https://open.spotify.com/artist/5qgSeztKtoZPWSpRJalkZr"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Scott Amendola",
+          "url": "https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE"
+        }
+      ],
+      "duration_ms": 267704,
+      "name": "Mameya",
+      "url": "https://open.spotify.com/track/2UDf5oZY5qgwUATAElcd26"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
+        "name": "Camellia",
+        "url": "https://open.spotify.com/album/05ovVPEjKBCGj8F1ZSRFBf"
+      },
+      "artists": [
+        {
+          "name": "Milan93",
+          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/76rPVDRzBRrdlIcuu7WyHW"
+    },
     {
       "added_at": "2026-07-17 04:00:49",
       "album": {
@@ -88,7 +232,7 @@
           "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
         }
       ],
-      "duration_ms": 135499,
+      "duration_ms": 135504,
       "name": "Sentimental Things",
       "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
     },
@@ -181,22 +325,6 @@
       "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
     },
     {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Sam on the Ganges",
-        "url": "https://open.spotify.com/album/7F9x71oGaG8uy3SwVUcaPU"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 431266,
-      "name": "Sam on the Ganges",
-      "url": "https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l"
-    },
-    {
       "added_at": "2026-07-03 04:00:42",
       "album": {
         "name": "In My Room (10 Year Anniversary Edition)",
@@ -211,26 +339,6 @@
       "duration_ms": 192015,
       "name": "But Not For Me (2015)",
       "url": "https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN"
-    },
-    {
-      "added_at": "2026-06-26 04:00:18",
-      "album": {
-        "name": "Blue In Green",
-        "url": "https://open.spotify.com/album/5HknbILWT5jAGFaKTgf6SV"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        },
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 374466,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z"
     },
     {
       "added_at": "2026-06-26 04:00:18",
@@ -705,26 +813,6 @@
       "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
     },
     {
-      "added_at": "2026-05-15 04:01:09",
-      "album": {
-        "name": "Pursuance",
-        "url": "https://open.spotify.com/album/7nCIpXXl5aa0nZLbguWyNf"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        },
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "Pursuance",
-      "url": "https://open.spotify.com/track/0adIBPfUdFtCT2cEuHt0px"
-    },
-    {
       "added_at": "2026-05-29 04:02:48",
       "album": {
         "name": "Dissipation Blues",
@@ -1139,26 +1227,6 @@
       "duration_ms": 153142,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
-    },
-    {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        },
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
     },
     {
       "added_at": "2026-04-10 04:01:37",
@@ -1613,22 +1681,6 @@
       "url": "https://open.spotify.com/track/11tFXzLezhHKquc1Bz3f63"
     },
     {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "North London Pace",
-        "url": "https://open.spotify.com/album/479mcTmLjF8psjuJLRmh99"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "North London Pace",
-      "url": "https://open.spotify.com/track/361AnXfEJHmjvDpTlJ7VpB"
-    },
-    {
       "added_at": "2026-04-24 04:01:10",
       "album": {
         "name": "Triumvirate",
@@ -1711,38 +1763,6 @@
       "duration_ms": 292360,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
-    },
-    {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "Promise of Fellowship Kept",
-        "url": "https://open.spotify.com/album/27B7jt1Md3UNaEI8MrEJz8"
-      },
-      "artists": [
-        {
-          "name": "Charlie Peacock",
-          "url": "https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Jeff Coffin",
-          "url": "https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D"
-        },
-        {
-          "name": "Scott Mulvahill",
-          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
-        },
-        {
-          "name": "Roger Smith",
-          "url": "https://open.spotify.com/artist/7d7WpoPwrauo2M0ZQuBESc"
-        }
-      ],
-      "duration_ms": 642113,
-      "name": "Promise of Fellowship Kept",
-      "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
     },
     {
       "added_at": "2025-11-07 16:37:26",

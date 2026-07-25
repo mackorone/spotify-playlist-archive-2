@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Carmino",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Sopr\u00fc",
   "name": "alt BR",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 220354,
       "name": "A Torre",
       "url": "https://open.spotify.com/track/3Y2rU6CUgcoiEJRmL6cmzi"
+    },
+    {
+      "album": {
+        "name": "Ru\u00eddo Colateral Cr\u00f4nico",
+        "url": "https://open.spotify.com/album/10dM9er6UzDhqCySCBpleb"
+      },
+      "artists": [
+        {
+          "name": "Capim C\u00f3smico",
+          "url": "https://open.spotify.com/artist/2TDnAT82n8B0hVYMfImPVG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217225,
+      "name": "A Vida \u00c9 um Inverno",
+      "url": "https://open.spotify.com/track/5Pm8kpf3taJKSP7jOIIIb3"
     },
     {
       "album": {
@@ -1462,6 +1480,24 @@
       "duration_ms": 142682,
       "name": "ARMADURA ARMADILHA",
       "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
+    },
+    {
+      "album": {
+        "name": "ArraiasC\u00e9us",
+        "url": "https://open.spotify.com/album/5KvR2wjynbwE6wNFhOgJI8"
+      },
+      "artists": [
+        {
+          "name": "Sopr\u00fc",
+          "url": "https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "ArraiasC\u00e9us",
+      "url": "https://open.spotify.com/track/25SyQEKU8l9STVG5mvJSJt"
     },
     {
       "album": {
@@ -2768,6 +2804,24 @@
       "duration_ms": 532698,
       "name": "Canhoto de P\u00e9",
       "url": "https://open.spotify.com/track/2mui676jtyVvTzpnJEwHWC"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Fogo",
+        "url": "https://open.spotify.com/album/5BuGSUi3pj8sKWXeuJuWEe"
+      },
+      "artists": [
+        {
+          "name": "Oblomov",
+          "url": "https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296500,
+      "name": "Cansade",
+      "url": "https://open.spotify.com/track/2mdj9TC43xFLyKJj4jhW7B"
     },
     {
       "album": {
@@ -5905,6 +5959,24 @@
     },
     {
       "album": {
+        "name": "Eu",
+        "url": "https://open.spotify.com/album/6b1g5TSMy7jYEmeGHBmXD4"
+      },
+      "artists": [
+        {
+          "name": "Garotas Suecas",
+          "url": "https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216281,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5294mjS5FzjyembpwrxOfO"
+    },
+    {
+      "album": {
         "name": "Eu Ainda Te Quero",
         "url": "https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc"
       },
@@ -6742,7 +6814,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 163670,
       "name": "Flora",
       "url": "https://open.spotify.com/track/2rNO2pDk2R1WK3YApUmR8J"
@@ -9083,6 +9155,28 @@
     },
     {
       "album": {
+        "name": "Medidas (Mais de Mil Km)",
+        "url": "https://open.spotify.com/album/1cN9mfVjY19pyvqAA3BbPJ"
+      },
+      "artists": [
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "Allan Dias",
+          "url": "https://open.spotify.com/artist/1TkqicsQyPHMFlE7PH3wex"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251582,
+      "name": "Medidas (Mais de Mil Km)",
+      "url": "https://open.spotify.com/track/054Xb4S02LGVMGZctZhkeZ"
+    },
+    {
+      "album": {
         "name": "sonhos que nunca morrem",
         "url": "https://open.spotify.com/album/33etIhUAICBW6GkQPNMMWl"
       },
@@ -10946,7 +11040,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 205081,
       "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/5fTAcOluWUSutQZZ3gu0fQ"
@@ -12386,6 +12480,28 @@
       "duration_ms": 234762,
       "name": "PERFUME",
       "url": "https://open.spotify.com/track/0x4cfJP9Y1f8AQOxaowqZa"
+    },
+    {
+      "album": {
+        "name": "PERIGO! (DJ Guaran\u00e1 Jesus Remix)",
+        "url": "https://open.spotify.com/album/3G7y3cMVEi0syxknCk7X3e"
+      },
+      "artists": [
+        {
+          "name": "Lorena Moura",
+          "url": "https://open.spotify.com/artist/1Voc4loA71s0PHb8K2cNUT"
+        },
+        {
+          "name": "DJ Guaran\u00e1 Jesus",
+          "url": "https://open.spotify.com/artist/1SpySLgbkAq1816FjWQhpN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "PERIGO! (DJ Guaran\u00e1 Jesus Remix)",
+      "url": "https://open.spotify.com/track/2MI7avy81CZ8d9iHUwupXv"
     },
     {
       "album": {
@@ -14490,7 +14606,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 207901,
       "name": "ser/existir",
       "url": "https://open.spotify.com/track/5IrFoIIwQWUZXonhxQy5yM"
@@ -16671,6 +16787,24 @@
     },
     {
       "album": {
+        "name": "Um m\u00f3bile no furac\u00e3o",
+        "url": "https://open.spotify.com/album/7tXufWGOtrewUN7YcGunmj"
+      },
+      "artists": [
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Um m\u00f3bile no furac\u00e3o",
+      "url": "https://open.spotify.com/track/67IP2oQ9598zodGsgAOLja"
+    },
+    {
+      "album": {
         "name": "Um Novo Dia",
         "url": "https://open.spotify.com/album/0aNsPO4Uons10wG029Xr8n"
       },
@@ -17498,12 +17632,12 @@
       },
       "artists": [
         {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        },
-        {
           "name": "Nyron Higor",
           "url": "https://open.spotify.com/artist/2WYlmnoa3sQwZVX6CYwlsQ"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
         }
       ],
       "date_added": "2026-07-10",

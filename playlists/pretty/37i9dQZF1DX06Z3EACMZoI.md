@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06Z3EACMZoI.md) - [plain]
 
 > This is a normal day playlist with j\-hope\. Vote for the NORMAL day song that best suits j\-hope! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,940 likes - 20 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,020 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

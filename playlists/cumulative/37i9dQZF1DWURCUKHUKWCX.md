@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-352 songs - 18 hr 44 min
+353 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Mantra.](https://open.spotify.com/track/1k5XyTq6BeOu8Pv3ZL9Sh2) | [Erwin Deleux](https://open.spotify.com/artist/3CH0YOw0yK2qWURgB92DSk) | [Mantra.](https://open.spotify.com/album/4TbEVZrI3fvbjlQoVjnlAS) | 6:17 | 2021-12-10 | 2023-01-04 |
 | [Mazurek](https://open.spotify.com/track/64yYKXLXDlIPKknfoQ4k2H) | [Władysław Szpilman](https://open.spotify.com/artist/0lTe15Ofpyg39nXvLNAfcm), [Yulianna Avdeeva](https://open.spotify.com/artist/3eDciSEz4VLXT167KNKDHF) | [Szpilman: Mazurek](https://open.spotify.com/album/1X7ui7Ns2P2zwuRiInc4F1) | 2:23 | 2024-09-06 |  |
 | [MEM](https://open.spotify.com/track/0coFg5hgu9YBlSyEgFt1cC) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Kluft](https://open.spotify.com/album/19Kk94KsyYLDwaPmPcJENH) | 4:25 | 2026-05-22 |  |
+| [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 | 2026-07-24 |  |
 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 | 2022-10-07 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 | 2026-06-20 |
 | [Merry](https://open.spotify.com/track/7qJs05x48Y4qDyTKULTb3s) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Merry](https://open.spotify.com/album/06zOGDonBOy9UwMMFOj7ox) | 2:49 | 2024-11-15 |  |

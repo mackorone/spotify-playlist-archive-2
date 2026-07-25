@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Clemente y su Elexion Privada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,164 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,183 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [BLESSED](https://open.spotify.com/track/6RegOoan7DrVPMruGSRQSS) | [Jc Velasco](https://open.spotify.com/artist/4D8vBgk289zS9t66B82x5t) | [BLESSED](https://open.spotify.com/album/5MaBzxma9rq55JJbTEX1Lk) | 3:20 |
 | 50 | [Miento](https://open.spotify.com/track/5v7NONiliZBh0ROMMtTJNr) | [Axel Rodriguez](https://open.spotify.com/artist/7cXRTpLEXOagaIbnw0J0cB) | [Miento](https://open.spotify.com/album/56HgaWMXhA7jNAH9MSwqV7) | 2:34 |
 
-Snapshot ID: `AAAAAEqishrqZv8iqOQjvz/WYFIc3IZp`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

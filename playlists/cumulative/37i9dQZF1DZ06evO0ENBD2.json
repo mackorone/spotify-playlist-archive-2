@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust",
+      "url": "https://open.spotify.com/track/1KPuohcXPmJYQfdyg9zKmR"
+    },
+    {
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
@@ -401,6 +419,24 @@
     },
     {
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/6l8tOdUItDC01Qmb91Lo8W"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love",
+      "url": "https://open.spotify.com/track/7uON6DWIjXgmLQIfGsWXpV"
+    },
+    {
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -430,7 +466,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
@@ -473,6 +509,42 @@
     },
     {
       "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217824,
+      "name": "Don't Stop Me Now - ...Revisited",
+      "url": "https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue"
+    },
+    {
+      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -484,7 +556,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217824,
       "name": "Don't Stop Me Now - ...Revisited",
       "url": "https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC"
@@ -502,7 +574,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
@@ -610,7 +682,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210146,
       "name": "Dreamer's Ball - Remastered 2011",
       "url": "https://open.spotify.com/track/0TpWjIOuNMnpuRjriPbGiF"
@@ -924,6 +996,24 @@
     {
       "album": {
         "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220105,
+      "name": "Hammer To Fall",
+      "url": "https://open.spotify.com/track/1OuuQNfGJ0KwD4KUJ7tuzj"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa"
       },
       "artists": [
@@ -952,7 +1042,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 218320,
       "name": "Hammer To Fall - Remastered 2011",
       "url": "https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP"
@@ -1104,6 +1194,24 @@
     {
       "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "I Want To Break Free",
+      "url": "https://open.spotify.com/track/5lmMeytpSOBTzFYRS32fwA"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
       "artists": [
@@ -1114,7 +1222,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223080,
       "name": "I Want To Break Free",
       "url": "https://open.spotify.com/track/7iAqvWLgZzXvH38lA06QZg"
@@ -1499,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "A Night At The Opera (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -1510,7 +1636,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
@@ -1615,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "A Kind Of Magic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311026,
+      "name": "One Vision",
+      "url": "https://open.spotify.com/track/3zApeb5jO36NDFPqz1tXW7"
+    },
+    {
+      "album": {
         "name": "A Kind of Magic (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7"
       },
@@ -1644,7 +1788,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
@@ -1813,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/6IXmSdbq5OmlR08vvcnHoC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348226,
+      "name": "Radio Ga Ga",
+      "url": "https://open.spotify.com/track/6N717o83wbmahFGUqkjQj7"
+    },
+    {
+      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -1824,10 +1986,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245680,
       "name": "Radio Ga Ga - Live Aid",
       "url": "https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245680,
+      "name": "Radio Ga Ga - Live Aid",
+      "url": "https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg"
     },
     {
       "album": {
@@ -1878,7 +2058,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 348226,
       "name": "Radio Ga Ga - Remastered 2011",
       "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
@@ -2087,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "A Day At The Races (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/18OMrZoyyZuVy06FttIFhq"
+    },
+    {
+      "album": {
         "name": "Greatest Hits III",
         "url": "https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e"
       },
@@ -2182,7 +2380,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
@@ -2607,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/4pFJdTvK6zNyWOO3W1hkGd"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Under Pressure (feat. David Bowie)",
+      "url": "https://open.spotify.com/track/2nrG5UtAcqXbYttu7MXP1p"
+    },
+    {
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -2644,7 +2864,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
@@ -2853,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297470,
+      "name": "Who Wants To Live Forever",
+      "url": "https://open.spotify.com/track/3bmh7WhduQpPW7fwg6Uv8Y"
+    },
+    {
+      "album": {
         "name": "Greatest Hits II (Remastered)",
         "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
       },
@@ -2864,7 +3102,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 295333,
       "name": "Who Wants To Live Forever - Remastered 2011",
       "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
@@ -2886,6 +3124,24 @@
       "duration_ms": 295346,
       "name": "Who Wants To Live Forever - Remastered 2011",
       "url": "https://open.spotify.com/track/00QAndVDVfNqNWYdWAhEan"
+    },
+    {
+      "album": {
+        "name": "Who Wants to Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167103,
+      "name": "Who Wants to Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY"
     },
     {
       "album": {

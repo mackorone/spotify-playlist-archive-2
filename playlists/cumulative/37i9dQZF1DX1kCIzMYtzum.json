@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
+  "description": "Home is where the main stage is.. wherever the Tomorrowland main stage is \ud83d\ude09",
   "name": "EDM 2026",
   "tracks": [
     {
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212769,
       "name": "Bigger Than Dreamers",
       "url": "https://open.spotify.com/track/5FQadK5jylSAZHAMZlKabN"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 142384,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0q7VZvqvkt0atX2QJTxwNv"
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 164155,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/1bhQ6C0jhlZ9uPTyVyC9gS"
@@ -5643,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/0VkKAsS7sAMq1ko3inx3hv"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150810,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3Km5h7lk9EaRZsuMnpuGQX"
+    },
+    {
+      "album": {
         "name": "Everytime Next To Me (feat. Robin Bengtsson)",
         "url": "https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr"
       },
@@ -6177,6 +6195,28 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
+    },
+    {
+      "album": {
         "name": "Hardwell's Revealed Radio - Week 15",
         "url": "https://open.spotify.com/album/3GNp9XvxuLUOctqr0roYCF"
       },
@@ -6354,6 +6394,28 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
     },
     {
       "album": {
@@ -7200,7 +7262,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
@@ -10786,7 +10848,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158333,
       "name": "LIGHTS GO OUT",
       "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
@@ -13712,7 +13774,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 183716,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1VW5sF3jgOzMxeVRYJy9ac"
@@ -14898,6 +14960,28 @@
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
     },
     {
       "album": {
@@ -16899,6 +16983,24 @@
     },
     {
       "album": {
+        "name": "Send It To The Night",
+        "url": "https://open.spotify.com/album/5iLzUzNxeX2qLj05XUDmX8"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Send It To The Night",
+      "url": "https://open.spotify.com/track/19R46ymy2SReMR1gEuv43W"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF"
       },
@@ -16922,6 +17024,32 @@
       "duration_ms": 189176,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/654cMSpvxt3nY7XHarY1GJ"
+      },
+      "artists": [
+        {
+          "name": "Monic",
+          "url": "https://open.spotify.com/artist/0sjlljpwKvjmgDHSvNKF3A"
+        },
+        {
+          "name": "Vlade",
+          "url": "https://open.spotify.com/artist/0Yvcfj1JOZozXO5GdPDrri"
+        },
+        {
+          "name": "Ahimsa",
+          "url": "https://open.spotify.com/artist/07dsrqUGE7tstt3dJEd50E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5PNeRCI7izHjON62FhrdOF"
     },
     {
       "album": {
@@ -21060,7 +21188,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 150800,
       "name": "What You Say",
       "url": "https://open.spotify.com/track/5MXmkztaBSNLQQbDyMqRqw"
@@ -21452,7 +21580,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 165230,
       "name": "Why Did You Leave",
       "url": "https://open.spotify.com/track/7GSqSOYTAFl3QfIGtjX8Y8"

@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-876 songs - 2 day 1 hr 8 min
+879 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
 | [Come Down](https://open.spotify.com/track/1tk9GzJ9eLsoRL3ZRtAPK3) | [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [Come Down](https://open.spotify.com/album/19TjD0BJcRrNMMoIbPwyto) | 3:12 | 2024-08-06 | 2024-10-26 |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
-| [Constant](https://open.spotify.com/track/4NmWTl0LhsqM63HJYPhUbd) | [Kate Boy](https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE) | [Constant](https://open.spotify.com/album/75Te5SUTKpFigsRm4CBZbQ) | 3:37 | 2026-05-04 |  |
+| [Constant](https://open.spotify.com/track/4NmWTl0LhsqM63HJYPhUbd) | [Kate Boy](https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE) | [Constant](https://open.spotify.com/album/75Te5SUTKpFigsRm4CBZbQ) | 3:37 | 2026-05-04 | 2026-07-25 |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 | 2022-12-29 |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 | 2022-11-04 |
@@ -224,6 +224,7 @@
 | [Duel](https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish](https://open.spotify.com/album/20WvOLT4klgKqzYGJGFDMV) | 4:48 | 2022-04-16 | 2022-05-21 |
 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-02-13 |  |
 | [Dysmorphia](https://open.spotify.com/track/5a8jFuEwVrMNi95USsGA2n) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Dysmorphia](https://open.spotify.com/album/0vvUDELUj8sQyoymamFOf9) | 3:12 | 2021-07-04 | 2021-07-18 |
+| [easier said than done](https://open.spotify.com/track/02SCt5Kbhrhz0ow6brrxMA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [easier said than done](https://open.spotify.com/album/1QX7GT1FwzqpmJQXNGaOMp) | 2:52 | 2026-07-24 |  |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-15 |  |
 | [Easy](https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Easy](https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt) | 5:44 | 2022-10-14 | 2022-12-29 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-10-03 | 2024-05-25 |
@@ -271,7 +272,7 @@
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-11-18 | 2021-07-17 |
 | [First Time](https://open.spotify.com/track/1eLlNV3bvTe2La7ylpGOjC) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [First Time](https://open.spotify.com/album/6n8d8BV6JkVmYpjOPlBv6K) | 3:31 | 2025-11-07 |  |
 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 | 2021-07-10 | 2021-10-02 |
-| [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 | 2025-09-27 |  |
+| [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 | 2025-09-27 | 2026-07-25 |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 | 2023-05-06 |
 | [Follow My Girl](https://open.spotify.com/track/0lCfUyNC5NAsfILnKEVj23) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:04 | 2020-10-13\* | 2021-07-04 |
 | [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 | 2023-09-23 | 2024-02-03 |
@@ -328,6 +329,7 @@
 | [Handstand](https://open.spotify.com/track/6fcZVY3WjwKxVKlKFu84rF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:25 | 2023-03-10 | 2023-07-08 |
 | [Happy Loner](https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Happy Loner](https://open.spotify.com/album/2LqEi8okydBj6gNTAVhOJq) | 3:13 | 2021-12-04 | 2022-04-17 |
 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 | 2026-05-15 | 2026-07-01 |
+| [Hard Beat](https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Hard Beat](https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0) | 3:45 | 2026-07-24 |  |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-11 | 2022-05-20 |
 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 | 2022-12-28 | 2023-09-16 |
 | [Haunted](https://open.spotify.com/track/2fvxxLGvZF2cStdGqMgD6Y) | [Saint Claire](https://open.spotify.com/artist/78xOqjJTOsM2Y5XdtvjDq2) | [Haunted](https://open.spotify.com/album/35M9aEivxgK4MWmECJpX2O) | 3:06 | 2020-10-13\* | 2021-07-04 |
@@ -615,10 +617,11 @@
 | [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 | 2023-04-23 |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 | 2023-09-25 |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2021-07-04 | 2021-08-10 |
-| [Pinch of God](https://open.spotify.com/track/2F2e5hpJMOq8uUSkMr4KLs) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [BREATHE](https://open.spotify.com/album/5omkxRPb5MJUaffgKLckMY) | 4:57 | 2026-05-15 |  |
+| [Pinch of God](https://open.spotify.com/track/2F2e5hpJMOq8uUSkMr4KLs) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [BREATHE](https://open.spotify.com/album/5omkxRPb5MJUaffgKLckMY) | 4:57 | 2026-05-15 | 2026-07-25 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2023-01-04 |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-19 | 2021-07-10 |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-19 | 2022-01-01 |
+| [PLEASER](https://open.spotify.com/track/6DXup87vjnmJNDXqeLwPtD) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [PLEASER](https://open.spotify.com/album/1rVBvR9itKUSdWQ9iCkXLy) | 2:52 | 2026-07-24 |  |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-04-17 |
 | [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 | 2024-07-19 | 2024-08-24 |
 | [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 | 2026-03-06 |  |

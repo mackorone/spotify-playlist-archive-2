@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Yard Act
 
-475 songs - 1 day 2 hr 52 min
+475 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 | 2023-01-10 |  |
 | [Antarctica](https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Antarctica](https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG) | 3:14 | 2024-11-15 | 2025-03-30 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-02-07 | 2025-03-24 |
-| [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 | 2024-10-06 | 2026-07-24 |
+| [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 | 2024-10-06 |  |
 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 | 2023-01-10 | 2023-02-24 |
 | [Baby Blue](https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Baby Blue](https://open.spotify.com/album/2oq55O8NF6o5FJoi1AWx6U) | 4:10 | 2024-07-12 | 2024-10-04 |
 | [Back to the Light](https://open.spotify.com/track/0zUqYUBMGJyaOs5PN5XDeB) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Nothing Lasts Forever](https://open.spotify.com/album/6WCrKVgt2MEKgiW0mvURF8) | 3:06 | 2023-09-19 | 2023-10-15 |
@@ -134,7 +134,7 @@
 | [F Up](https://open.spotify.com/track/5w1iJq7RB2Mnzr0k8L3MtU) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [F Up](https://open.spotify.com/album/3MeTTSjSAjXF5mnkh4xsB4) | 3:14 | 2024-08-21 | 2025-02-08 |
 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-10 | 2023-02-24 |
 | [Fading Away](https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fading Away](https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V) | 3:26 | 2023-10-20 | 2024-01-27 |
-| [Fall In Love](https://open.spotify.com/track/0kJCaJv3ghYfRss2vI0r9K) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Fall In Love](https://open.spotify.com/album/390sc3M8CrlN3VtCk3ay5N) | 4:03 | 2026-06-09 |  |
+| [Fall In Love](https://open.spotify.com/track/0kJCaJv3ghYfRss2vI0r9K) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Fall In Love](https://open.spotify.com/album/390sc3M8CrlN3VtCk3ay5N) | 4:03 | 2026-06-09 | 2026-07-25 |
 | [Falling](https://open.spotify.com/track/4U1lnceYei81AcieKqPxIs) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/2ESEsbqDurKc7fCmduKViu) | 2:53 | 2023-01-10 | 2023-04-01 |
 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 | 2023-12-22 |
 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-10 | 2026-02-21 |
@@ -187,6 +187,7 @@
 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 | 2024-08-22 |
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-20 | 2024-07-13 |
 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 | 2023-12-22 | 2024-02-24 |
+| [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 | 2026-07-23 |  |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-10-06 |  |
 | [Heartbreak Town](https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Heartbreak Town](https://open.spotify.com/album/5gHaj7LfX54Ex6IJUxlX7Q) | 3:47 | 2024-07-12 | 2024-08-21 |
 | [Heaven Knows You're Lonely](https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Heaven Knows You're Lonely](https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B) | 3:01 | 2026-06-18 |  |
@@ -438,7 +439,6 @@
 | [Tired Minds](https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f) | [Voodoos](https://open.spotify.com/artist/5ya7iEj2gouDgi5aFiA1e8) | [Tired Minds](https://open.spotify.com/album/43Q8naoUbm8TNvGrM3ljFD) | 3:15 | 2023-01-10 | 2023-09-19 |
 | [To Make Me Feel Good](https://open.spotify.com/track/0mMOvXqrgYzFXQmSDMnJTU) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [To Make Me Feel Good](https://open.spotify.com/album/5GEXrRfKyQv94ePIt24pg9) | 3:29 | 2025-02-07 | 2025-03-16 |
 | [Towards the One](https://open.spotify.com/track/3lqzSzW8W2JAlWBVYUd78y) | [Lost Under Heaven](https://open.spotify.com/artist/634K1Y2zhBHexel2Ma4xsC) | [Towards the One](https://open.spotify.com/album/5ijkLq2XBXY1cre1jR0fQ7) | 6:34 | 2023-07-28 | 2023-08-05 |
-| [Track 6](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 0:00 | 2026-07-23 |  |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 | 2024-07-13 |
 | [Tubes](https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV) | 2:49 | 2026-05-01 |  |
 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 | 2024-08-21 |  |

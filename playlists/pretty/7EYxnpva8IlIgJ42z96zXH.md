@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,128 likes - 101 songs - 5 hr 19 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,219 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 98 | [People Happy](https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [People Happy](https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG) | 2:38 |
 | 99 | [Favour](https://open.spotify.com/track/4RDyVQz67trwTzT5R2omUt) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/6GdjsKDvGS97oAdoSi2MSH) | 3:14 |
 | 100 | [Pearl \(Find My Way\)](https://open.spotify.com/track/5zYNenl8ZNSciONWgktPW5) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Pearl \(Find My Way\)](https://open.spotify.com/album/4KmQ0NiIS4bdQTcgTL85bJ) | 3:04 |
-| 101 | [Ocean](https://open.spotify.com/track/6ozVpMaT25G5u9V9B1R8JL) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/3scl0Lfq92CcfbIA7VxrVC) | 3:16 |
 
-Snapshot ID: `AAAQ7QEQCoz/ZXPAnByC04Rpi9+DTPH4`
+Snapshot ID: `AAAQ7kit0KHPOVWsYtcFkG5cgwaPbawK`

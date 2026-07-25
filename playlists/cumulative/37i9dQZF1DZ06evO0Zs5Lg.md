@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 52 min
+74 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,14 @@
 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 | 2026-07-12 |
 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 | 2025-04-19 | 2025-09-28 |
 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 | 2025-04-19 |  |
-| [Fighter](https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:28 | 2026-06-28 |  |
+| [Fighter](https://open.spotify.com/track/0rdthoG3YvgkghJObltH8h) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:28 | 2026-06-28 | 2026-07-25 |
 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 | 2025-04-19 |  |
 | [Gampo](https://open.spotify.com/track/3LHkBX1kT7xOe0yG159B95) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:58 | 2025-04-19 |  |
 | [Gasoline](https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 4:17 | 2025-04-19 |  |
 | [Gone Fishin](https://open.spotify.com/track/0MIIWaPAMSK4N0i26d1lqj) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Gone Fishin](https://open.spotify.com/album/7DYNAxMmjgVBxigzClZMEM) | 1:57 | 2026-07-11 |  |
 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 | 2025-04-19 | 2026-07-11 |
-| [Good Time Boy](https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs) | 3:50 | 2026-04-26 |  |
+| [Good Time Boy](https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs) | 3:50 | 2026-04-26 | 2026-07-25 |
+| [Good Time Boy](https://open.spotify.com/track/7t9Vlxh55VXgIHoid3RAx7) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:50 | 2026-07-25 |  |
 | [High Priced Shoes](https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:41 | 2025-04-19 |  |
 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 | 2025-04-19 |  |
 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 | 2025-04-19 |  |

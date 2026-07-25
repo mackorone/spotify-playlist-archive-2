@@ -9232,24 +9232,6 @@
     {
       "album": {
         "name": "Dance Dance Dance",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
-    },
-    {
-      "album": {
-        "name": "Dance Dance Dance",
         "url": "https://open.spotify.com/album/56xxZLmJyYdeHnFrWqcM0S"
       },
       "artists": [
@@ -9268,6 +9250,24 @@
       "duration_ms": 255293,
       "name": "Dance Dance Dance",
       "url": "https://open.spotify.com/track/348Xu2bbcdS0CB8xxX47K4"
+    },
+    {
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
       "album": {

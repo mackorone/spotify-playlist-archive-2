@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 51822,
+  "num_followers": 51871,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADHTNQr1e3wljvyzHZwoCaQ",
+  "snapshot_id": "amFZgAAAAACaYbogGJXyP79cv+aL5718",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPERA MINI",
-        "url": "https://open.spotify.com/album/4XZ3Ls59KQA8sM6XRjTfHi"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 151836,
-      "name": "OPERA MINI",
-      "url": "https://open.spotify.com/track/41SH4tiHf1tblXPqQKujG9"
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+        "name": "OPERA MINI",
+        "url": "https://open.spotify.com/album/4XZ3Ls59KQA8sM6XRjTfHi"
       },
       "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
+      "duration_ms": 151836,
+      "name": "OPERA MINI",
+      "url": "https://open.spotify.com/track/41SH4tiHf1tblXPqQKujG9"
     },
     {
       "added_at": null,

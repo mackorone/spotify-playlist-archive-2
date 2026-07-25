@@ -4,12 +4,13 @@
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 57 min
+71 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2nd Quake](https://open.spotify.com/track/6BA5BBreQeelzjmpZSSlUv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:18 | 2026-04-11 | 2026-06-29 |
 | [Arch](https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:08 | 2026-03-19 | 2026-07-03 |
+| [Azurit](https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:58 | 2026-07-25 |  |
 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 | 2026-03-19 |  |
 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 | 2026-03-19 |  |
 | [Calibrating Sense](https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 4:02 | 2026-03-19 |  |
@@ -41,7 +42,7 @@
 | [Loph](https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 4:32 | 2026-03-19 |  |
 | [Love object](https://open.spotify.com/track/4zkUkLBt2YV8eIZkvLyWxo) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:20 | 2026-03-19 |  |
 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 | 2026-03-19 |  |
-| [Meo busa](https://open.spotify.com/track/3ibvUgdYxX4aOHSzO1NxY5) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:55 | 2026-07-23 |  |
+| [Meo busa](https://open.spotify.com/track/3ibvUgdYxX4aOHSzO1NxY5) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:55 | 2026-07-23 | 2026-07-25 |
 | [Miarai](https://open.spotify.com/track/7tOto1kPAY3Y6mgwAsJQXE) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Miarai](https://open.spotify.com/album/1L06JWVmYUbYe9jNzx0JI8) | 3:12 | 2026-07-19 |  |
 | [Miocene](https://open.spotify.com/track/2y2YE8SUxYf0tNkhcZucG9) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Kasper Bjørke Quartet: Mother](https://open.spotify.com/album/4gVmGXQuFXzKRAE4c7nGwR) | 11:44 | 2026-04-24 | 2026-06-09 |
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2026-04-15 | 2026-07-23 |
@@ -75,7 +76,7 @@
 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 | 2026-03-19 |  |
 | [Vidsyn](https://open.spotify.com/track/3WTuJZxHjTFUeyHywToGVB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:22 | 2026-05-02 | 2026-05-08 |
 | [Wanwu](https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Janoya](https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:06 | 2026-07-23 |  |
-| [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 | 2026-03-19 |  |
+| [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 | 2026-03-19 | 2026-07-25 |
 | [Whisper Fold Brush, Pt\. Two](https://open.spotify.com/track/5fObGDdLnL4AmGJb1OxEEF) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 18:27 | 2026-04-30 | 2026-06-15 |
 | [You Make Me Care More](https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:29 | 2026-03-19 |  |
 

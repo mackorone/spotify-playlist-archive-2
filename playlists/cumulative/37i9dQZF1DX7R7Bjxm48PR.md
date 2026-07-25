@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-186 songs - 8 hr 20 min
+187 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-01-19 | 2025-04-03 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-02-03 |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-02 | 2025-05-15 |
+| [Float](https://open.spotify.com/track/2nxxWyhDLU3zOdlAt1c290) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Float](https://open.spotify.com/album/12mB7gCU0NSZj50OI4d1UD) | 2:42 | 2026-07-24 |  |
 | [Flowering](https://open.spotify.com/track/7oCVDZqvjlw33dW9oLfdOx) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Flowering](https://open.spotify.com/album/2Gr0p2XdggIdbfAwYLDww7) | 2:43 | 2025-04-02 |  |
 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 | 2025-05-30 |  |
 | [Forgiveness](https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/0DMxxCIZOqkOczbtnzPP6L) | 2:15 | 2022-07-27 | 2023-02-15 |

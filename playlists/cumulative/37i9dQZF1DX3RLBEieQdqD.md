@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-254 songs - 14 hr 25 min
+256 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Ellas Así Son](https://open.spotify.com/track/2xpGwATRUWzIry8S1dq0aV) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/6JyXUac9EvemfjYLdiqFCI) | 3:35 | 2024-03-29 |  |
 | [Ellas Así Son](https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:35 | 2022-08-18 | 2023-02-25 |
 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 | 2022-10-14 | 2024-04-19 |
+| [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 | 2026-07-24 |  |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-08-22 |  |
 | [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 | 2024-03-29 | 2024-05-22 |
 | [En un andén](https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s) | [Sotomonte](https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa) | [En un andén](https://open.spotify.com/album/3HbK3Byyhn8rW8oCfuc3mW) | 2:41 | 2024-01-19 | 2024-02-17 |
@@ -261,6 +262,7 @@
 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2023-02-03 | 2024-05-18 |
 | [YA TE SUPERE](https://open.spotify.com/track/2Xn4lAWzmwAs2b9E0ZS1Eu) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [YA TE SUPERE](https://open.spotify.com/album/4Lorr569WDO17iUNk8h2yj) | 3:01 | 2026-02-13 | 2026-06-10 |
 | [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 | 2025-06-06 | 2026-05-08 |
+| [¿QUÉ PASÓ AYER?](https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿QUÉ PASÓ AYER?](https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t) | 2:25 | 2026-07-24 |  |
 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 | 2024-11-29 | 2025-03-22 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

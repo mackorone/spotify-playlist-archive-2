@@ -1,6 +1,6 @@
 {
   "description": "Pop'un sevilen isimleri. Kapak: Erol Evgin",
-  "num_followers": 182794,
+  "num_followers": 182934,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Gel",
-        "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
-      },
-      "artists": [
-        {
-          "name": "Umur Doma",
-          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
-        },
-        {
-          "name": "Hande \u00dcnsal",
-          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Gel",
-      "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "KIYAMAM",
         "url": "https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 146262,
       "name": "KIYAMAM",
       "url": "https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "Gel",
+        "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        },
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "Gel",
+      "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
-        "url": "https://open.spotify.com/album/7vybR1qBebDpCjugizOX94"
-      },
-      "artists": [
-        {
-          "name": "Mabel Matiz",
-          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
-      "url": "https://open.spotify.com/track/45jA9LOLzxtvChh8zFWS9P"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "\u0130ki Yaka",
         "url": "https://open.spotify.com/album/2gpEMkg9lKUsCkETQINPOi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178055,
       "name": "\u0130ki Yaka",
       "url": "https://open.spotify.com/track/5fBu0qebD0Mrg85A6WYZgG"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
+        "url": "https://open.spotify.com/album/7vybR1qBebDpCjugizOX94"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Da\u011f\u0131l\u0131yorum Olays\u0131z",
+      "url": "https://open.spotify.com/track/45jA9LOLzxtvChh8zFWS9P"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Olacak Gibi De\u011fil",
-        "url": "https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo"
-      },
-      "artists": [
-        {
-          "name": "Ersay \u00dcner",
-          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
-        }
-      ],
-      "duration_ms": 189061,
-      "name": "Olacak Gibi De\u011fil",
-      "url": "https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "Yine Seni Severdim",
         "url": "https://open.spotify.com/album/4IIr6Fc5broTRT8M0UKk5k"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 215213,
       "name": "Yine Seni Severdim",
       "url": "https://open.spotify.com/track/2euys2kJ6EgcLSXraEhKE8"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "Olacak Gibi De\u011fil",
+        "url": "https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "duration_ms": 189061,
+      "name": "Olacak Gibi De\u011fil",
+      "url": "https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
+        "name": "Zor",
+        "url": "https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Zor",
+      "url": "https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
         "name": "Serseri",
         "url": "https://open.spotify.com/album/4GSCFa6EujYqbWxn1lwx6a"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Zor",
-        "url": "https://open.spotify.com/album/3y7xkd3xhPtBjo8KRL7qd4"
+        "name": "G\u00fclden'e Geldik X Ece Se\u00e7kin",
+        "url": "https://open.spotify.com/album/27I92ZrzIm9mleUJGRrHf1"
       },
       "artists": [
         {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+          "name": "G\u00fclden",
+          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
+        },
+        {
+          "name": "Ece Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
         }
       ],
-      "duration_ms": 168705,
-      "name": "Zor",
-      "url": "https://open.spotify.com/track/3x4VM1rt9bXvDZYqPbbpjf"
+      "duration_ms": 263637,
+      "name": "Duysunlar",
+      "url": "https://open.spotify.com/track/1ilWmey0DUru1SPH6tNjU9"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "G\u00fclden'e Geldik X Ece Se\u00e7kin",
-        "url": "https://open.spotify.com/album/27I92ZrzIm9mleUJGRrHf1"
+        "name": "Bak D\u00f6n\u00fcyor D\u00fcnya",
+        "url": "https://open.spotify.com/album/12CMUzJenwQUW0khZBysNs"
       },
       "artists": [
         {
-          "name": "G\u00fclden",
-          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
-        },
-        {
-          "name": "Ece Se\u00e7kin",
-          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
+          "name": "\u0130kilem",
+          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
         }
       ],
-      "duration_ms": 263637,
-      "name": "Duysunlar",
-      "url": "https://open.spotify.com/track/1ilWmey0DUru1SPH6tNjU9"
+      "duration_ms": 162624,
+      "name": "Bak D\u00f6n\u00fcyor D\u00fcnya",
+      "url": "https://open.spotify.com/track/3RdKD3wm6kek88IA63CTnl"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Delikanl\u0131m (Live)",
-        "url": "https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa"
-      },
-      "artists": [
-        {
-          "name": "EDIS",
-          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
-        }
-      ],
-      "duration_ms": 337236,
-      "name": "Delikanl\u0131m - Live",
-      "url": "https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "\u00dczg\u00fcn\u00fcm",
         "url": "https://open.spotify.com/album/4wYg0nesrlhwHUdTSs3lq4"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Bak D\u00f6n\u00fcyor D\u00fcnya",
-        "url": "https://open.spotify.com/album/12CMUzJenwQUW0khZBysNs"
+        "name": "Delikanl\u0131m (Live)",
+        "url": "https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa"
       },
       "artists": [
         {
-          "name": "\u0130kilem",
-          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
         }
       ],
-      "duration_ms": 162624,
-      "name": "Bak D\u00f6n\u00fcyor D\u00fcnya",
-      "url": "https://open.spotify.com/track/3RdKD3wm6kek88IA63CTnl"
+      "duration_ms": 337236,
+      "name": "Delikanl\u0131m - Live",
+      "url": "https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Sev Seveceksen",
-        "url": "https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc"
+        "name": "Yand\u0131m",
+        "url": "https://open.spotify.com/album/0wIv0XSJjDwOTTxHXjQqD2"
       },
       "artists": [
         {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        },
-        {
-          "name": "Seda Erciyes",
-          "url": "https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z"
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Sev Seveceksen",
-      "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"
+      "duration_ms": 216325,
+      "name": "Yand\u0131m",
+      "url": "https://open.spotify.com/track/7pRNsra8l2zDrxZ1JNqPQ4"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Yand\u0131m",
-        "url": "https://open.spotify.com/album/0wIv0XSJjDwOTTxHXjQqD2"
+        "name": "Sev Seveceksen",
+        "url": "https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc"
       },
       "artists": [
         {
-          "name": "G\u00f6khan T\u00fcrkmen",
-          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        },
+        {
+          "name": "Seda Erciyes",
+          "url": "https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z"
         }
       ],
-      "duration_ms": 216325,
-      "name": "Yand\u0131m",
-      "url": "https://open.spotify.com/track/7pRNsra8l2zDrxZ1JNqPQ4"
+      "duration_ms": 178666,
+      "name": "Sev Seveceksen",
+      "url": "https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "NERDEYD\u0130N DE",
-        "url": "https://open.spotify.com/album/2mhL2Xts85wt0O8mLnYXSV"
-      },
-      "artists": [
-        {
-          "name": "Bedo",
-          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "NERDEYD\u0130N DE",
-      "url": "https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "Misafir",
         "url": "https://open.spotify.com/album/4SVsB40go4tAWhiKweWiwP"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 152136,
       "name": "Misafir",
       "url": "https://open.spotify.com/track/0S1U1NW1XX8nB6E6HVBxuG"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "NERDEYD\u0130N DE",
+        "url": "https://open.spotify.com/album/2mhL2Xts85wt0O8mLnYXSV"
+      },
+      "artists": [
+        {
+          "name": "Bedo",
+          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "NERDEYD\u0130N DE",
+      "url": "https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1411,6 +1411,38 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
+        "name": "K\u00f6r B\u0131\u00e7ak",
+        "url": "https://open.spotify.com/album/5fBKDN704hHL1WOoDzjSX0"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan T\u00fcrkmen",
+          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+        }
+      ],
+      "duration_ms": 228375,
+      "name": "K\u00f6r B\u0131\u00e7ak",
+      "url": "https://open.spotify.com/track/3yWO0zMi4P97bNbKTaCZHs"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "Merdan",
+        "url": "https://open.spotify.com/album/00c2KikU5vaiZA9qmcGcwL"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Merdan",
+      "url": "https://open.spotify.com/track/6aWFv5Hr5rUy5jehLkcMUQ"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
         "name": "Sesini Duymadan",
         "url": "https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN"
       },
@@ -1479,38 +1511,6 @@
       "duration_ms": 149813,
       "name": "Korkum Bundan",
       "url": "https://open.spotify.com/track/4cMhZPKncrQSWNnfWk6Ob1"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
-        "name": "K\u00f6r B\u0131\u00e7ak",
-        "url": "https://open.spotify.com/album/5fBKDN704hHL1WOoDzjSX0"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6khan T\u00fcrkmen",
-          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
-        }
-      ],
-      "duration_ms": 228375,
-      "name": "K\u00f6r B\u0131\u00e7ak",
-      "url": "https://open.spotify.com/track/3yWO0zMi4P97bNbKTaCZHs"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
-        "name": "Merdan",
-        "url": "https://open.spotify.com/album/00c2KikU5vaiZA9qmcGcwL"
-      },
-      "artists": [
-        {
-          "name": "Emre Fel",
-          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Merdan",
-      "url": "https://open.spotify.com/track/6aWFv5Hr5rUy5jehLkcMUQ"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
+        "name": "Sezen Aksu Tribute \"Disko\"",
+        "url": "https://open.spotify.com/album/3VT8nQrEyFwKITMPBJnvlu"
+      },
+      "artists": [
+        {
+          "name": "Ceylan Ertem",
+          "url": "https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Ne Kavgam Bitti Ne Sevdam",
+      "url": "https://open.spotify.com/track/2Ipw15kCf6A9E6FgGrAfK6"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
         "name": "\u0130hanet",
         "url": "https://open.spotify.com/album/3hbhhLrt7tloTR1awunqBh"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Sezen Aksu Tribute \"Disko\"",
-        "url": "https://open.spotify.com/album/3VT8nQrEyFwKITMPBJnvlu"
+        "name": "\u00d6yle Sarho\u015f Olsam Ki",
+        "url": "https://open.spotify.com/album/78UihSqmpXdZZWQYj8wAIg"
       },
       "artists": [
         {
-          "name": "Ceylan Ertem",
-          "url": "https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI"
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
         }
       ],
-      "duration_ms": 151578,
-      "name": "Ne Kavgam Bitti Ne Sevdam",
-      "url": "https://open.spotify.com/track/2Ipw15kCf6A9E6FgGrAfK6"
+      "duration_ms": 247800,
+      "name": "\u00d6yle Sarho\u015f Olsam Ki",
+      "url": "https://open.spotify.com/track/188XIgyuHDsaB3kGJkpP8V"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1651,6 +1667,22 @@
       "duration_ms": 146370,
       "name": "\u015eimdi O Gitti",
       "url": "https://open.spotify.com/track/6u0XU6T2Nm1tLfUpzGjHuN"
+    },
+    {
+      "added_at": "2026-07-23 21:00:20",
+      "album": {
+        "name": "Yeti\u015f",
+        "url": "https://open.spotify.com/album/4sxMB92xvgNPw48FZGrwjn"
+      },
+      "artists": [
+        {
+          "name": "Bilal Sonses",
+          "url": "https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3"
+        }
+      ],
+      "duration_ms": 176648,
+      "name": "Yeti\u015f",
+      "url": "https://open.spotify.com/track/3dP2WTWSBcfNP0nD6x04vD"
     },
     {
       "added_at": "2026-07-23 21:00:20",
@@ -1707,26 +1739,6 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "Ac\u0131yor Kalbim",
-        "url": "https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA"
-      },
-      "artists": [
-        {
-          "name": "An\u0131l Durmu\u015f",
-          "url": "https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9"
-        },
-        {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
-        }
-      ],
-      "duration_ms": 128804,
-      "name": "Ac\u0131yor Kalbim",
-      "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
         "name": "Tutkunum Sana",
         "url": "https://open.spotify.com/album/3Y1ohxO11dCTKBL81lAKle"
       },
@@ -1743,34 +1755,22 @@
     {
       "added_at": "2026-07-23 21:00:20",
       "album": {
-        "name": "\u00d6yle Sarho\u015f Olsam Ki",
-        "url": "https://open.spotify.com/album/78UihSqmpXdZZWQYj8wAIg"
+        "name": "Ac\u0131yor Kalbim",
+        "url": "https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA"
       },
       "artists": [
         {
-          "name": "Serdar Orta\u00e7",
-          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "\u00d6yle Sarho\u015f Olsam Ki",
-      "url": "https://open.spotify.com/track/188XIgyuHDsaB3kGJkpP8V"
-    },
-    {
-      "added_at": "2026-07-23 21:00:20",
-      "album": {
-        "name": "Yeti\u015f",
-        "url": "https://open.spotify.com/album/4sxMB92xvgNPw48FZGrwjn"
-      },
-      "artists": [
+          "name": "An\u0131l Durmu\u015f",
+          "url": "https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9"
+        },
         {
-          "name": "Bilal Sonses",
-          "url": "https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3"
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
         }
       ],
-      "duration_ms": 176648,
-      "name": "Yeti\u015f",
-      "url": "https://open.spotify.com/track/3dP2WTWSBcfNP0nD6x04vD"
+      "duration_ms": 128804,
+      "name": "Ac\u0131yor Kalbim",
+      "url": "https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI"
     }
   ],
   "unique_name": "Pop Radyo",

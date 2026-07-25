@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Tu dosis diaria de rock \ud83d\udcf8 El Kuelgue",
+  "description": "Tu dosis diaria de rock \ud83d\udcf8 Tomi Lago",
   "name": "Rock del D\u00eda",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 286035,
       "name": "Bicho de Ciudad - Spotify Sessions",
       "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212442,
       "name": "Cuando habla el coraz\u00f3n",
       "url": "https://open.spotify.com/track/3xUFEIcBssbf46DOOZKiw0"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203591,
       "name": "Desde Lo Profundo",
       "url": "https://open.spotify.com/track/27hRMC9jWzFGR6D57EtuQe"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245205,
       "name": "El tiempo (es lo peor)",
       "url": "https://open.spotify.com/track/5c1dIu1iiiBima3qrb7T7L"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 273880,
       "name": "Entre Can\u00edbales - Spotify Sessions",
       "url": "https://open.spotify.com/track/52Ngz2qYhOtptQJHvebuea"
@@ -3098,6 +3098,24 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+    },
+    {
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207490,
+      "name": "Fuego contra fuego",
+      "url": "https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH"
     },
     {
       "album": {
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229503,
       "name": "Irme Lejos",
       "url": "https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 181019,
       "name": "La vida y una pelota",
       "url": "https://open.spotify.com/track/6bA8TndkjRvWrEYCwJU2zz"
@@ -4448,7 +4466,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156993,
       "name": "LLAMASTE",
       "url": "https://open.spotify.com/track/5Hhh7wr6wQciSCE7JTYqZZ"
@@ -5624,7 +5642,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236128,
       "name": "Nueva Marea",
       "url": "https://open.spotify.com/track/2HEOllycvvFDBMfriflkmw"
@@ -6424,7 +6442,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -6486,6 +6504,24 @@
       "duration_ms": 212776,
       "name": "Pretensi\u00f3n",
       "url": "https://open.spotify.com/track/4Scgil3syVN084WClpTBhO"
+    },
+    {
+      "album": {
+        "name": "Primero",
+        "url": "https://open.spotify.com/album/7Io5ifVuvk7pcTWcDk0t8u"
+      },
+      "artists": [
+        {
+          "name": "Hueter",
+          "url": "https://open.spotify.com/artist/0Ku46u44DPk2sV7nCZ7LHr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222224,
+      "name": "Primero",
+      "url": "https://open.spotify.com/track/2IhQv4JyKtOSC5gflkhV4u"
     },
     {
       "album": {
@@ -6854,7 +6890,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 160505,
       "name": "Rodeado",
       "url": "https://open.spotify.com/track/01CsnGzKlqPCLJ7ts8fJa4"
@@ -6876,6 +6912,24 @@
       "duration_ms": 228938,
       "name": "Roma",
       "url": "https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO"
+    },
+    {
+      "album": {
+        "name": "Ya hice todo mal",
+        "url": "https://open.spotify.com/album/6pCHzkR50IbSRy22FHTem8"
+      },
+      "artists": [
+        {
+          "name": "Pasado Verde",
+          "url": "https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "Romantinaitis",
+      "url": "https://open.spotify.com/track/7tcDyQV1rbY4IRiGWWVetW"
     },
     {
       "album": {
@@ -7184,7 +7238,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 221463,
       "name": "Sin la Piel",
       "url": "https://open.spotify.com/track/0wI0lXjRGo7O6Z1n73I1hs"
@@ -8038,7 +8092,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -8082,7 +8136,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -8408,7 +8462,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 218982,
       "name": "Una contra otra",
       "url": "https://open.spotify.com/track/5QLkrUv0GuJFDTWHB6iR9g"
@@ -8448,6 +8502,28 @@
       "duration_ms": 222424,
       "name": "Una Palabra",
       "url": "https://open.spotify.com/track/2RxycdRveRxXn2eWXcZuao"
+    },
+    {
+      "album": {
+        "name": "SOLO POR HOY",
+        "url": "https://open.spotify.com/album/1NmWkRWCldn3E85eHBiDO5"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185887,
+      "name": "UNA SOGA",
+      "url": "https://open.spotify.com/track/0Y8VQnd0ecmXNivq04iiKV"
     },
     {
       "album": {
@@ -8498,7 +8574,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"
@@ -8664,7 +8740,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 213955,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/2ZbSkyQjJZ7QfsIF5GmjUp"
@@ -8882,7 +8958,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
@@ -8936,7 +9012,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 224192,
       "name": "\u00daltima batalla",
       "url": "https://open.spotify.com/track/6VFptb4LlBvdQ98aOYIunR"

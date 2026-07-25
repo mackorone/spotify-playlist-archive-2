@@ -4956,10 +4956,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 288742,
       "name": "Let's Talk About Gender Baby",
       "url": "https://open.spotify.com/track/6DKt2dx6vdMz1iVZnHdSeP"
+    },
+    {
+      "album": {
+        "name": "NEW BITCH",
+        "url": "https://open.spotify.com/album/5I5oBqvwpS4UAt8xyfB4Ic"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206344,
+      "name": "LETHAL",
+      "url": "https://open.spotify.com/track/1dM8qpp2IsFQSIruKKcJ7A"
     },
     {
       "album": {
@@ -6482,7 +6500,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 159198,
       "name": "OLD TECHNOLOGY",
       "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
@@ -7640,6 +7658,28 @@
       "duration_ms": 339380,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/7aVdRjY6O5nZQ3lYXfhVm4"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148826,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-426 songs - 1 day 2 hr 47 min
+428 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3am in Paris](https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [3am in Paris](https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn) | 2:49 | 2026-02-20 | 2026-03-07 |
 | [4th World](https://open.spotify.com/track/4e71StD7tTYsxAq96UgWAo) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [4th World](https://open.spotify.com/album/16FpLUuIt81lg2ISBr2600) | 2:22 | 2026-03-27 | 2026-05-02 |
 | [A Couple Minutes \- A COLORS SHOW](https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [A Couple Minutes \(A COLORS SHOW\)](https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8) | 3:33 | 2025-10-24 | 2026-03-07 |
+| [Acknowledgement](https://open.spotify.com/track/4IjZDtzKy4udPAXl8t8NqL) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [A Supreme Blue](https://open.spotify.com/album/6g0hUzE7MozpOpJR0Y8uuk) | 7:46 | 2026-07-24 |  |
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-07 | 2023-11-18 |
 | [Again](https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Ash Lee](https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT) | [Again](https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8) | 2:21 | 2023-08-11 | 2024-07-27 |
 | [Ain't for Nobody Else \- Wind & Wire Sessions](https://open.spotify.com/track/3BkrgGNF6eZtsUN5W0C1MK) | [Rehan Dalal](https://open.spotify.com/artist/1aBR69XI5JWwOs2RDt7Udb) | [Ain't for Nobody Else \(Wind & Wire Sessions\)](https://open.spotify.com/album/1BzcAbWNloBmTo4ucm2WZP) | 4:57 | 2024-03-22 | 2024-03-30 |
@@ -69,6 +70,7 @@
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 | 2026-06-12 |
 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-12 | 2025-10-09 |
 | [Carry On](https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:53 | 2021-08-18 | 2022-08-13 |
+| [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 | 2026-07-24 |  |
 | [Celebration](https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Celebration](https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV) | 2:48 | 2024-03-29 | 2024-04-06 |
 | [Celestial Hands](https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Growth](https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8) | 5:33 | 2024-05-31 | 2024-08-17 |
 | [Chasing Dreams](https://open.spotify.com/track/5nzaiaNLjflgrlGhu0beD0) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [In Two Worlds](https://open.spotify.com/album/7mYSJzE7EVs9p66W3moKI1) | 3:44 | 2024-04-12 | 2024-06-01 |
@@ -209,7 +211,7 @@
 | [Janice STFU](https://open.spotify.com/track/4QRj2ITD1uws1n3PqW58DJ) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Janice STFU](https://open.spotify.com/album/7txPCAreOj79ldBCLmv6xC) | 2:48 | 2026-06-12 |  |
 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-23 | 2025-05-02 |
 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 | 2022-04-22 | 2023-05-08 |
-| [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-25 |  |
+| [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-25 | 2026-07-25 |
 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 | 2025-05-09 | 2025-09-28 |
 | [Just Because](https://open.spotify.com/track/1SQNrrJNmUaqkOg3i7Q4Lb) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Just Because](https://open.spotify.com/album/4llnsu7PbYbDxLOw0oXd17) | 3:51 | 2021-08-18 | 2022-08-13 |
 | [Just Wait A Minute](https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Just Wait A Minute](https://open.spotify.com/album/05pfw7Rs7dirnwvQc8LnxQ) | 3:22 | 2025-09-12 | 2025-09-28 |

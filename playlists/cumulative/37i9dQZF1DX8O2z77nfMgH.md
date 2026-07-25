@@ -4,7 +4,7 @@
 
 > Lo nuevo de toda Iberoamérica\. Foto: Anitta
 
-13,964 songs - 30 day 17 hr 18 min
+13,964 songs - 30 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11472,6 +11472,7 @@
 | [Sin Plan B](https://open.spotify.com/track/66vRxCHcKtTYtRGeLZa4hI) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Sin Plan B](https://open.spotify.com/album/1V4kEVuT8aHTJI2QdaYH9a) | 3:14 | 2026-01-09 | 2026-01-17 |
 | [Sin Plan B](https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Sin Plan B](https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1) | 3:07 | 2025-09-05 | 2025-09-13 |
 | [Sin Preguntar](https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Sin Preguntar](https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d) | 3:13 | 2023-08-25 | 2023-09-02 |
+| [Sin Querer](https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Afro Pal Cora](https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR) | 2:51 | 2026-07-24 |  |
 | [Sin querer queriéndonos](https://open.spotify.com/track/3BzeJFjAZihHevvodh24bI) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Sin querer queriéndonos](https://open.spotify.com/album/42sZWz7RWR2rTAAZ0wkOMW) | 3:04 | 2025-07-11 | 2025-07-19 |
 | [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 | 2023-03-10 | 2023-03-18 |
 | [Sin Ropa](https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Sin Ropa](https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2) | 3:07 | 2023-03-17 | 2023-03-25 |
@@ -12535,7 +12536,6 @@
 | [TRA TRA TRA](https://open.spotify.com/track/564bF2nytBupjz0UzIeTBr) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [El Yeyo PP](https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2), [Ladele OTM](https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J) | [TRA TRA TRA](https://open.spotify.com/album/5BDFpb6dKfjDV7AR9Nb5Yi) | 5:09 | 2026-02-06 | 2026-02-14 |
 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 | 2023-10-20 | 2023-10-29 |
 | [track 1](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [track 1](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 | 2026-05-15 | 2026-05-22 |
-| [Track 5](https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Afro Pal Cora](https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR) | 0:00 | 2026-07-24 |  |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-15 | 2022-07-23 |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-03-08 |
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-15 | 2025-08-23 |

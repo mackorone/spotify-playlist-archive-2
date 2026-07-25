@@ -1,28 +1,28 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Bella Kay",
-  "num_followers": 1914114,
+  "description": "A delicious mix of new songs in high rotation. Cover: Lizzy McAlpine",
+  "num_followers": 1914003,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUOvTn1XZw4l45V2+4vcuAm3Jfa",
+  "snapshot_id": "AAAAADvtQHSIwBQ2t4WjB5YQRH49EbBj",
   "tracks": [
     {
-      "added_at": "2026-06-26 04:01:46",
+      "added_at": "2026-07-24 04:01:51",
       "album": {
-        "name": "Sun Has Set",
-        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-07-10 04:02:00",
@@ -43,38 +43,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-07-17 04:00:59",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "Billy Came Back",
         "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 189148,
       "name": "Billy Came Back",
       "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-07-24 04:01:51",
+      "album": {
+        "name": "Bonny",
+        "url": "https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 153901,
+      "name": "Bonny",
+      "url": "https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S"
     },
     {
       "added_at": "2026-07-13 18:06:54",
@@ -105,6 +89,70 @@
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-07-24 04:01:51",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/19t0Qz1pqBHpdGA7wKuXJe"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 225483,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/4e1S8n3KB4J8J5IPMNLySk"
+    },
+    {
+      "added_at": "2026-07-17 04:00:59",
+      "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Loveland",
@@ -119,6 +167,42 @@
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Song for the Messenger",
+        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Song for the Messenger",
+      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
+    },
+    {
+      "added_at": "2026-07-17 04:00:59",
+      "album": {
+        "name": "Heavenly Body: If I'm The Bottle You're The Message",
+        "url": "https://open.spotify.com/album/6e9wfJP9MkML5BqpviZlk8"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/1plZImDbco0NxZyxjQ1KnY"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -153,24 +237,20 @@
       "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
     },
     {
-      "added_at": "2026-07-17 04:00:59",
+      "added_at": "2026-07-24 04:01:51",
       "album": {
-        "name": "Heavenly Body: If I'm The Bottle You're The Message",
-        "url": "https://open.spotify.com/album/6e9wfJP9MkML5BqpviZlk8"
+        "name": "Something To Be Said",
+        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
         }
       ],
-      "duration_ms": 173653,
-      "name": "Fast Asleep",
-      "url": "https://open.spotify.com/track/1plZImDbco0NxZyxjQ1KnY"
+      "duration_ms": 213688,
+      "name": "Something To Be Said",
+      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -203,22 +283,6 @@
       "duration_ms": 216138,
       "name": "Molly In The Club",
       "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Song for the Messenger",
-        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Song for the Messenger",
-      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
     },
     {
       "added_at": "2026-07-10 04:02:00",
@@ -767,74 +831,6 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "HELP(2)",
-        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 272196,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "you and forever",
-        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 234971,
-      "name": "you and forever",
-      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205274,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "My Heart Is A Room With No Cameras In It",
-        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
-      },
-      "artists": [
-        {
-          "name": "Victoryland",
-          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
-        }
-      ],
-      "duration_ms": 181115,
-      "name": "I\u2019ll Show You Mine",
-      "url": "https://open.spotify.com/track/6JanXRrnHPRiMYRYiGMdDA"
     }
   ],
   "unique_name": "Indie's Top 50",

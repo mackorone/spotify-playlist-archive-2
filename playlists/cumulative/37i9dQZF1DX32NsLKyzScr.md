@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,459 songs - 3 day 7 hr 24 min
+1,460 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-17 | 2023-06-29 |
 | [All On Me \(feat\. Zhu\)](https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:09 | 2020-11-03 | 2021-03-26 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 | 2024-07-13 |
+| [ALL OVER AGAIN](https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [ALL OVER AGAIN](https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S) | 3:01 | 2026-07-24 |  |
 | [All That I Can](https://open.spotify.com/track/2EtwxAprswAqDZ3uRq8pr8) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [All That I Can](https://open.spotify.com/album/0odjRQYZTwuSsDskgk3j3K) | 3:37 | 2020-09-21\* | 2021-02-20 |
 | [All the Ladies](https://open.spotify.com/track/4gH12KjwxV1h5z3Lq5OdJN) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [All the Ladies](https://open.spotify.com/album/1w1UECYYfHeqLXGUuWR9Mg) | 4:07 | 2020-09-21\* | 2021-01-23 |
 | [ALL THE TIME](https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [ALL THE TIME](https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy) | 3:00 | 2026-03-27 |  |
@@ -544,7 +545,7 @@
 | [Hi Friend!](https://open.spotify.com/track/0ZMuyIprUNwjhwhZC5tlQe) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of a Better Name](https://open.spotify.com/album/6C6RtR4rwoonc10cv4sSDF) | 5:15 | 2020-09-21\* | 2020-10-10 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-04-01 | 2022-04-23 |
 | [High \- Don Diablo Remix](https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [High \(Don Diablo Remix\)](https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p) | 4:01 | 2022-03-11 | 2022-07-29 |
-| [High On A Feeling](https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [FR3ADY](https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya), [JULIANNA](https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q) | [High On A Feeling](https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR) | 3:31 | 2026-07-10 |  |
+| [High On A Feeling](https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [FR3ADY](https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya), [JULIANNA](https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q) | [High On A Feeling](https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR) | 3:31 | 2026-07-10 | 2026-07-25 |
 | [High Water](https://open.spotify.com/track/0A7HEkQfNEe9bjg2x2VpNG) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [High Water](https://open.spotify.com/album/5PSNHuNaxZZABd6Lqs2vNP) | 4:11 | 2021-07-10 | 2021-09-18 |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2020-09-21\* | 2021-01-23 |
 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 | 2023-11-13 | 2024-07-15 |

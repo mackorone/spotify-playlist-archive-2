@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 32 | [Bleed](https://open.spotify.com/track/20t0EbiXY7gDWxJGX796ps) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:30 |
 | 33 | [2020 Vision](https://open.spotify.com/track/4QGhaRLHsLwU0N1lKYXmfH) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:38 |
 | 34 | [Same Set](https://open.spotify.com/track/05oQCqMlB0VyTcFqo9TZSx) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:10 |
-| 35 | [Get This Money](https://open.spotify.com/track/08r2mjlfwa0tjB6ReaDk9Z) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:04 |
-| 36 | [Open Scars](https://open.spotify.com/track/467bcP9Utkoxj00vX4JWyk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 3:53 |
+| 35 | [Open Scars](https://open.spotify.com/track/467bcP9Utkoxj00vX4JWyk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 3:53 |
+| 36 | [Get This Money](https://open.spotify.com/track/08r2mjlfwa0tjB6ReaDk9Z) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:04 |
 | 37 | [Lumidee](https://open.spotify.com/track/2KihIG1ZqhFqOU6Q0kzcB9) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Snakes & Ladders](https://open.spotify.com/album/2DDBLFf03iaP8u2NVXN0ZO) | 3:30 |
 | 38 | [Karma Krys](https://open.spotify.com/track/0P7eod3BXbvrLxFiOOfR4c) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:21 |
 | 39 | [Dripset](https://open.spotify.com/track/4R6aZmh00S9pTl2Ql1BJPx) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 95 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 | 96 | [Interlude](https://open.spotify.com/track/74oAaZp8QLRv58lJjaTonL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 0:47 |
 
-Snapshot ID: `AcXqCAAAAABZsBpQL+IYVFsJx9214qy3`
+Snapshot ID: `AcXvqAAAAACKYFgG6n0jaOPo8coVt8xs`

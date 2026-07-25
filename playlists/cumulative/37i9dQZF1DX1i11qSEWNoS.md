@@ -4,13 +4,13 @@
 
 > und macht laune
 
-401 songs - 18 hr 22 min
+402 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 | 2026-02-12 |  |
 | [100 Push Ups](https://open.spotify.com/track/5OJYxgz6ORI1EhSZzv8aUC) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [100 Push Ups](https://open.spotify.com/album/7GZmX5gl1AwdWqzGbI4Q6Z) | 2:33 | 2024-12-16 | 2025-01-17 |
-| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-10-24 |  |
+| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-10-24 | 2026-07-25 |
 | [3 Haselnüsse](https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41) | 2:28 | 2023-12-12 | 2024-03-21 |
 | [33 Max Verstappen](https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5) | [33 Max Verstappen](https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V) | 2:50 | 2023-10-03 | 2023-11-18 |
 | [33 Max Verstappen](https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5) | [33 Max Verstappen](https://open.spotify.com/album/7lBGYyVZ0yhpqZ3ol1CQ7i) | 2:50 | 2023-09-26 | 2023-09-30 |
@@ -209,6 +209,7 @@
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-16 | 2024-11-12 |
 | [KEIN BRETT](https://open.spotify.com/track/3NGpzwLc0hSWcyzyy9zQWq) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Zak Conner](https://open.spotify.com/artist/6X7NJAJFXDHkU6tIV1QmZB) | [KEIN BRETT](https://open.spotify.com/album/34zZjP13N7eUK3fJZKSYZb) | 1:32 | 2026-03-19 | 2026-04-10 |
 | [Kein DJ](https://open.spotify.com/track/7y0gyU4jMNwcbh3dmPVkuF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Kein DJ](https://open.spotify.com/album/6j2xOsq0yFEYDw7uaYbtp1) | 2:13 | 2024-12-16 | 2025-01-29 |
+| [Kein Kokain](https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Ikkimel die Geile EP](https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN) | 2:56 | 2026-07-24 |  |
 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 | 2023-10-03 |  |
 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 | 2024-02-23 |  |
 | [King Of My Castle](https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc) | [King Of My Castle](https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl) | 2:33 | 2024-05-01 | 2025-12-01 |

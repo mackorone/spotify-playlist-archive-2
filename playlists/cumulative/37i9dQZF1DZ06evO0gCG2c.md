@@ -4,13 +4,14 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-137 songs - 8 hr 23 min
+138 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9MM](https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Greatest Story Ever Told](https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR) | 4:07 | 2022-07-24 | 2022-10-29 |
 | [Against The Grain](https://open.spotify.com/track/7drg9omSv2o04xPG60R8tb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ray Lavender](https://open.spotify.com/artist/4YUa2ZjtUsc9rITXblPpOr) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:04 | 2024-05-12 | 2024-07-21 |
-| [AKON'S BEAUTIFUL DAY](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [AKON'S BEAUTIFUL DAY](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 | 2024-10-07 |  |
+| [AKON'S BEAUTIFUL DAY](https://open.spotify.com/track/355StcShfdvt9gf4m863gm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:37 | 2026-07-25 |  |
+| [AKON'S BEAUTIFUL DAY](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [AKON'S BEAUTIFUL DAY](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 | 2024-10-07 | 2026-07-25 |
 | [Akon's Beautiful Day \- David Guetta & Hypaton Remix](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Akon's Beautiful Day \(David Guetta & Hypaton Remix\)](https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06) | 2:55 | 2024-12-19 | 2025-01-25 |
 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 | 2021-12-28 |  |
 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 | 2021-12-28 |  |

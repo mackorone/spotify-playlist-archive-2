@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 85570,
+  "num_followers": 85622,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACEx4/sbi5onLmeKkt06nmt",
+  "snapshot_id": "amFZgAAAAACfA79pDe7lWuBt1UDXdElu",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
       },
       "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 164954,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
+      "duration_ms": 148547,
+      "name": "Living Large",
+      "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
     },
     {
       "added_at": null,
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
       },
       "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 148547,
-      "name": "Living Large",
-      "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
+      "duration_ms": 164954,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,

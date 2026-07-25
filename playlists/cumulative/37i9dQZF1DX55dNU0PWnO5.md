@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-449 songs - 1 day 3 hr 1 min
+450 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [In Touch With The Kosmos](https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 1:29 | 2022-09-23 | 2023-11-25 |
 | [Inner Inference](https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN) | [Cumulus Frisbee](https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d) | [Inner Inference](https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT) | 3:24 | 2021-05-28 |  |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2022-04-15 |  |
+| [Instant Need](https://open.spotify.com/track/44P43EBaentzvMXgjfr7P0) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Instant Need](https://open.spotify.com/album/32jNpZB1zF4WfMCO0ISdDw) | 2:27 | 2026-07-24 |  |
 | [Integers Ain't](https://open.spotify.com/track/4uDmxKAGTvpBZ61NTFwmgi) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8) | [GOLDILOX](https://open.spotify.com/album/4IPHs5pOr57kUsD1nHBoSU) | 2:05 | 2024-10-04 |  |
 | [Intergalactic](https://open.spotify.com/track/33VfE4Ilw8MV3ZDKMpMHOm) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Sci\-Fi Jazz Directions](https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M) | 4:40 | 2022-08-08 | 2024-04-19 |
 | [Intergalactic](https://open.spotify.com/track/69fbNFD7BeSj8IGqitLgqx) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Intergalactic](https://open.spotify.com/album/4HmOs59sBZSsq3Kc052Nmp) | 4:40 | 2022-07-29 |  |
@@ -421,7 +422,7 @@
 | [Uncertain](https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j) | [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [anu](https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Uncertain](https://open.spotify.com/album/516YKC5Jgn0oki21nZ7CFP) | 3:11 | 2021-10-22 | 2022-10-22 |
 | [Unforgettable \(Mike Casey Remix\)](https://open.spotify.com/track/08NbsNUNHo6BIqNk4laZSJ) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Law of Attraction: The Remixes](https://open.spotify.com/album/2kYSW1wMRdIQWFram635Yf) | 2:16 | 2021-10-29 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-04-28 |  |
-| [Vacuum Lessons](https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Vacuum Lessons](https://open.spotify.com/album/0Uy7gJAelfoncRT7LvGkdC) | 3:03 | 2021-01-29 |  |
+| [Vacuum Lessons](https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Vacuum Lessons](https://open.spotify.com/album/0Uy7gJAelfoncRT7LvGkdC) | 3:03 | 2021-01-29 | 2026-07-25 |
 | [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:20 | 2025-05-16 | 2025-11-08 |
 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/0VjoYWcUmOMkXhLF7Ae58J) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [YUNIKōN \(Deluxe Edition\)](https://open.spotify.com/album/7ozWefQLSgQ3nO3uDjGEJl) | 4:31 | 2022-03-25 | 2024-04-19 |
 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [Viper \(Card On Spokes Remix\)](https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs) | 4:31 | 2022-03-18 |  |

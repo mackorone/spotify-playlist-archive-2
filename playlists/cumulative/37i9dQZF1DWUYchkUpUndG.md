@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: nina shezz
 
-8,581 songs - 26 day 15 hr 51 min
+8,582 songs - 26 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [After The Storm](https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ) | [After The Storm](https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4) | 2:48 | 2026-03-27 | 2026-04-10 |
 | [Afurum Gi N'anya](https://open.spotify.com/track/7zvCNyDhMhD9wSAeMFekL9) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Afurum Gi N'anya](https://open.spotify.com/album/5R3XmjPnHTno7gKTwh9jC4) | 2:50 | 2026-07-10 | 2026-07-17 |
 | [AGABA](https://open.spotify.com/track/5hXAJRds3U5MG6yxLuJoXp) | [Austin Ikpe King](https://open.spotify.com/artist/7u3fwJ5NE0zgHcwZwPIEa0), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz) | [AGABA](https://open.spotify.com/album/3pGN2oHv8WlKUWk8nm80nt) | 3:36 | 2025-02-14 | 2025-03-08 |
+| [AGABA](https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [AGABA](https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT) | 2:43 | 2026-07-24 |  |
 | [Agaba Eehh](https://open.spotify.com/track/0UgjpenOKlnuIMsLHni103) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Agaba Eehh](https://open.spotify.com/album/1tisIXVXX3PpudBmry3b4r) | 6:03 | 2024-06-07 | 2024-06-21 |
 | [Agaba\(My daddy run it\)](https://open.spotify.com/track/1VGKNlz85roTgKnG24GXAJ) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye) | [A New Season](https://open.spotify.com/album/6LsiBRcp2nAtCSaD2ZRt4Q) | 3:03 | 2025-07-25 | 2025-08-08 |
 | [Agabaidu](https://open.spotify.com/track/22uv4mVTC9xXFSZSagDjH0) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Vera Enenche Shishi](https://open.spotify.com/artist/1o6cQ96mhNuwFbiw6vpKie) | [Agabaidu](https://open.spotify.com/album/6cQgIrOKzHTSevAizYWwjC) | 9:20 | 2023-06-30 | 2023-07-14 |
@@ -5347,6 +5348,7 @@
 | [No Minus](https://open.spotify.com/track/4NsvT4D4MIRII7Ny1EGt32) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [No Minus](https://open.spotify.com/album/1piqUePflotW4lT7qfDQpG) | 2:36 | 2025-01-31 | 2025-02-07 |
 | [No More](https://open.spotify.com/track/2ElUOVdxgnuyC4QGsVhNVr) | [Lola Ade](https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y) | [Sozo](https://open.spotify.com/album/6ovSJxA1gtteP2LvHltapA) | 2:35 | 2026-05-22 | 2026-06-12 |
 | [No Name \- Live](https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [I Do Worship \(Live\)](https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC) | 10:38 | 2024-12-27 | 2025-01-17 |
+| [No name like Jesus](https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [No Name Like Jesus \(Album\)](https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G) | 4:20 | 2026-07-24 |  |
 | [No One](https://open.spotify.com/track/4VZGwCxvbOcIJRGnGdNs3L) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [No One](https://open.spotify.com/album/2IB0lObVTyYqgyjIu2RstK) | 2:54 | 2024-06-28 | 2024-07-12 |
 | [No One Else](https://open.spotify.com/track/1sGQPI8NOyXaH7yFlUXufh) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [No One Else](https://open.spotify.com/album/5lEMLszUUqfbd0EGFkA4Fb) | 2:18 | 2025-05-16 | 2025-05-30 |
 | [No One Like the Lord](https://open.spotify.com/track/6OKWHtt8pKWp1EFbFtE7li) | [Emmanuel Songsore](https://open.spotify.com/artist/3BMM9j0sNACwGYlL9TvbBP) | [No One Like the Lord](https://open.spotify.com/album/2FeoMM6oaZ25JkbrTgmvYT) | 5:11 | 2025-04-25 | 2025-05-09 |
@@ -7505,8 +7507,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 1](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 0:00 | 2026-07-24 |  |
-| [Track 4](https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [No Name Like Jesus \(Album\)](https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G) | 0:00 | 2026-07-24 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -7588,6 +7588,7 @@
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 | 2026-03-20 |
 | [Ude Chukwu N’ede](https://open.spotify.com/track/60iibyA4f8KnEC60mdKIz0) | [Adazion Ij](https://open.spotify.com/artist/7LjtI49XV3Iz8X9zxXvX3L) | [Ude Chukwu N’ede](https://open.spotify.com/album/3RyJKjN2PQT69UNemluXoJ) | 7:14 | 2025-10-03 | 2025-10-17 |
 | [uDondolo](https://open.spotify.com/track/2d9ZA9qAQWaZX6Nzsnr7td) | [Malusi Mbokazi](https://open.spotify.com/artist/0RS77oDZMhKcWMP4oa0Brv) | [The Full Circle Revival](https://open.spotify.com/album/2RyqzkcJfFO93UFPe5qqvC) | 4:23 | 2024-09-13 | 2024-09-27 |
+| [Ufanelwe](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 2:55 | 2026-07-24 |  |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 | 2023-11-17 |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/32FQXhlTjQ2czlDCJLNr9q) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/4T8JE313eqVJoXUUCn16Hm) | 8:05 | 2024-02-16 | 2024-02-23 |
 | [Uhlal’ anjalo](https://open.spotify.com/track/4jhB3YYGR9QNc1vk88nztf) | [Dalimark](https://open.spotify.com/artist/0GbOuh2PSFEDTEHtEtpaIX), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Uhlal’ anjalo](https://open.spotify.com/album/4f5vCgYK6tjtpfZ0Cd2z7m) | 5:04 | 2024-05-17 | 2024-06-01 |

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,475 songs - 5 day 11 hr 56 min
+2,477 songs - 5 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-14 | 2023-07-22 |
 | [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-05-05 | 2021-11-30 |
 | [Cracks](https://open.spotify.com/track/6h9z8SJFDJdCVkr2rrgfFG) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Cracks](https://open.spotify.com/album/4P6em4ZoeR760u9Zug8FE2) | 3:27 | 2022-02-25 | 2022-07-23 |
+| [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-24 |  |
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-06-17 | 2022-07-28 |
 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/3C5piNghVn2W537rCH1eUj) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:50 | 2020-10-20 | 2021-05-27 |
 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 | 2025-10-08 |
@@ -677,6 +678,7 @@
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
 | [EASY](https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [EASY](https://open.spotify.com/album/4XSsqfGgX7wHPubb2l61DI) | 3:14 | 2024-01-20 | 2024-02-10 |
 | [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-17 | 2022-07-29 |
+| [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 | 2026-07-24 |  |
 | [Easy](https://open.spotify.com/track/1fP3bbDuZBE2hiih9ZQhb1) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Easy](https://open.spotify.com/album/4mTRZFgxyEK6EZrC0P2yit) | 2:54 | 2021-02-24 | 2021-05-30 |
 | [Easy](https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Easy](https://open.spotify.com/album/25bVTJuPSWiiwdxgjJGRUi) | 3:46 | 2020-10-16 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 3:46 | 2022-06-17 | 2022-10-29 |
@@ -1798,7 +1800,7 @@
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-04-05 |
 | [Remember! \(English Version\)](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 | 2025-06-28 |
 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 | 2024-03-29 | 2024-04-13 |
-| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:55 | 2026-04-03 |  |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:55 | 2026-04-03 | 2026-07-25 |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-01-07 | 2022-01-10 |
 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-28 | 2023-10-07 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-14 | 2022-08-06 |
@@ -1915,7 +1917,7 @@
 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-04-19 | 2024-06-08 |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 | 2023-09-30 |
 | [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 | 2026-06-12 | 2026-07-21 |
-| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-10 |  |
+| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-10 | 2026-07-25 |
 | [sickk](https://open.spotify.com/track/5Zay7XJG5kKZjobCGshwMo) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [sickk](https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3) | 4:05 | 2022-04-01 | 2022-06-10 |
 | [Side By Side](https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:07 | 2024-05-17 | 2024-07-08 |
 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 | 2020-10-20 | 2020-10-21 |

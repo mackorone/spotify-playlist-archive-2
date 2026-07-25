@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20919,
+  "num_followers": 20924,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Would You Marry Me?, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 172100,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+        "name": "ASTERUM : 134-1",
+        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+      "duration_ms": 161320,
+      "name": "Our Movie",
+      "url": "https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -239,22 +255,6 @@
       "duration_ms": 199266,
       "name": "Tell me you love me",
       "url": "https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "ASTERUM : 134-1",
-        "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "Our Movie",
-      "url": "https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "TRUST ME",
-        "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "LA SOL MI",
-      "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 174906,
       "name": "T's Romance",
       "url": "https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "TRUST ME",
+        "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LA SOL MI",
+      "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Do my best",
-      "url": "https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Do my best",
+      "url": "https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Could it be like this",
-        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
-      },
-      "artists": [
-        {
-          "name": "doyouka",
-          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Could it be like this",
-      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "Could it be like this",
+        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
+      },
+      "artists": [
+        {
+          "name": "doyouka",
+          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Could it be like this",
+      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -979,22 +979,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Boys And Girls (Feat. INFINITE)",
-        "url": "https://open.spotify.com/album/56hCUWsbnZAepvNDa6vPm6"
+        "name": "So Pretty",
+        "url": "https://open.spotify.com/album/5fYd7d5kXmnzaTFai0UANH"
       },
       "artists": [
         {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
-        },
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+          "name": "Oh Si Young",
+          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Boys And Girls (Feat. INFINITE)",
-      "url": "https://open.spotify.com/track/6lMpZSpZCurg1FY73gEcDx"
+      "duration_ms": 170000,
+      "name": "So Pretty",
+      "url": "https://open.spotify.com/track/4uGrFDHsKE6R6RTWK64Dcz"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

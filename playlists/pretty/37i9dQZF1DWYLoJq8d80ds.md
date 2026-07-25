@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 ### [Baile Campero](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> Para que duelan los pies y no el corazón\. Foto: Lázaro Caballero
+> El campo suena fuerte\. Sumate a la fiesta\. Foto: Lázaro Caballero
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,941 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,011 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 29 | [Que Pasó](https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB) | [Paquito Ocaño El Dueño de la Bailanta](https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Que Pasó](https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs) | 2:57 |
 | 30 | [Piel de Leon](https://open.spotify.com/track/75iX6XU6KBkiSo27beYQcU) | [Los Criollos](https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK) | [La otra cara de Jujuy](https://open.spotify.com/album/1VtGeBT0FGkEDrhMMG3FY9) | 3:18 |
 
-Snapshot ID: `AAAAAHXnCLZiH2E0RvBZ2Zs3StZIa4gj`
+Snapshot ID: `AAAAAH/iyW/YYgWe47pf/3nIuNBG/RZN`

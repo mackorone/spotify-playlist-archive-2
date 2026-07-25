@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10989,
+  "num_followers": 10996,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACllxallkYjUrdYJ4SV2mIs",
+  "snapshot_id": "amFZgAAAAACzR6Er2miRbOhjoFYa0Q0d",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reputation / Bobby",
-        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 211166,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
+      "duration_ms": 196754,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 196754,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
+      "duration_ms": 211166,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
     },
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Healing Component",
+        "url": "https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 237045,
+      "name": "Communicate",
+      "url": "https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 218627,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healing Component",
-        "url": "https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 237045,
-      "name": "Communicate",
-      "url": "https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY"
     },
     {
       "added_at": null,

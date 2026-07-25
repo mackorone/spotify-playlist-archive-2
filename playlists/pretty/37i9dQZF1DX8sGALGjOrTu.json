@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 536774,
+  "num_followers": 536805,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+      "duration_ms": 243853,
+      "name": "This Could Be Anywhere in the World",
+      "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -351,18 +351,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 243853,
-      "name": "This Could Be Anywhere in the World",
-      "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "She Watched The Sky",
-        "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Drown the City",
-      "url": "https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 194333,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "She Watched The Sky",
+        "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Drown the City",
+      "url": "https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB"
     },
     {
       "added_at": "2025-11-24 12:49:27",

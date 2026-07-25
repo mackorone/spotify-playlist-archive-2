@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443880,
+  "num_followers": 443858,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
+        "name": "Cora\u00e7\u00e3o e Cadeado",
+        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 189436,
+      "name": "Cora\u00e7\u00e3o e Cadeado",
+      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
+    },
+    {
+      "added_at": "2026-07-17 18:48:24",
+      "album": {
         "name": "Em Qualquer Cama (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 170562,
       "name": "Em Qualquer Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
-    },
-    {
-      "added_at": "2026-07-17 18:48:24",
-      "album": {
-        "name": "Cora\u00e7\u00e3o e Cadeado",
-        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 189436,
-      "name": "Cora\u00e7\u00e3o e Cadeado",
-      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
     },
     {
       "added_at": "2026-07-17 18:48:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
-        "name": "Endrick",
-        "url": "https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Endrick",
-      "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
-    },
-    {
-      "added_at": "2026-07-17 18:48:24",
-      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2026-07-17 18:48:24",
+      "album": {
+        "name": "Endrick",
+        "url": "https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Endrick",
+      "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
     },
     {
       "added_at": "2026-07-17 18:48:24",
@@ -935,30 +935,18 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
-        "name": "Rugal & Bomfino",
-        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+        "name": "Pagodom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
       },
       "artists": [
         {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
         }
       ],
-      "duration_ms": 204562,
-      "name": "Pique B.I.G",
-      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+      "duration_ms": 257741,
+      "name": "Cabo de Guerra - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
     },
     {
       "added_at": "2026-07-17 18:48:24",
@@ -991,18 +979,30 @@
     {
       "added_at": "2026-07-17 18:48:24",
       "album": {
-        "name": "Pagodom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
       "artists": [
         {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         }
       ],
-      "duration_ms": 257741,
-      "name": "Cabo de Guerra - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
     },
     {
       "added_at": "2026-07-17 18:48:24",

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Alewya",
-  "num_followers": 180885,
+  "num_followers": 180876,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
-        "name": "Crashing Out!",
-        "url": "https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla"
-      },
-      "artists": [
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Crashing Out!",
-      "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
         "name": "BLACKS LAW",
         "url": "https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 223846,
       "name": "i hope you're ready",
       "url": "https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
+        "name": "Crashing Out!",
+        "url": "https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Crashing Out!",
+      "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
     },
     {
       "added_at": "2026-05-28 23:00:52",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
-        "name": "AMANZI",
-        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
-      },
-      "artists": [
-        {
-          "name": "AMANZI",
-          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
-        }
-      ],
-      "duration_ms": 192018,
-      "name": "Give Us Some Time",
-      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 111352,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
+        "name": "AMANZI",
+        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
+      },
+      "artists": [
+        {
+          "name": "AMANZI",
+          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
+        }
+      ],
+      "duration_ms": 192018,
+      "name": "Give Us Some Time",
+      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
     },
     {
       "added_at": "2026-05-28 23:00:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
-        "name": "Avoid The Drones & 9 Months",
-        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "9 Months",
-      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
         "name": "AppleBottomCigarets",
         "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 146312,
       "name": "AppleBottomCigarets",
       "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
+        "name": "Avoid The Drones & 9 Months",
+        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "9 Months",
+      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
     },
     {
       "added_at": "2026-05-28 23:00:52",

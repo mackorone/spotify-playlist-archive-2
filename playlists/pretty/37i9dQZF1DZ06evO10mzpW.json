@@ -1,12 +1,12 @@
 {
   "description": "This is Pauline Anna Strom. The essential tracks, all in one playlist.",
-  "num_followers": 68,
+  "num_followers": 69,
   "original_name": "This Is Pauline Anna Strom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADkwIE3pPF2t69tE0QN7J+O",
+  "snapshot_id": "amFZgAAAAABqB+69Y3N0kr1LLtTSGwLN",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Emerald Pool",
-      "url": "https://open.spotify.com/track/0Ddrkrp1Wxwsk65EqWX7yg"
+      "duration_ms": 277226,
+      "name": "Century C",
+      "url": "https://open.spotify.com/track/7GIhh2VzlUmvq36pJ0fUZN"
     },
     {
       "added_at": null,
@@ -235,70 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 399720,
-      "name": "Symphonic Industry",
-      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trans-Millenia Consort",
-        "url": "https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Century C",
-      "url": "https://open.spotify.com/track/7GIhh2VzlUmvq36pJ0fUZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trans-Millenia Music",
-        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 309186,
-      "name": "The Unveiling",
-      "url": "https://open.spotify.com/track/6uY4jTpE2hjhSwE2imW2A1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 148974,
-      "name": "I Still Hope",
-      "url": "https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
@@ -315,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+        "name": "Trans-Millenia Consort",
+        "url": "https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN"
       },
       "artists": [
         {
@@ -324,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 282135,
-      "name": "Plot Zero",
-      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
+      "duration_ms": 201240,
+      "name": "Emerald Pool",
+      "url": "https://open.spotify.com/track/0Ddrkrp1Wxwsk65EqWX7yg"
     },
     {
       "added_at": null,
@@ -356,9 +292,89 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
+      "duration_ms": 148974,
+      "name": "I Still Hope",
+      "url": "https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 399720,
+      "name": "Symphonic Industry",
+      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 450986,
+      "name": "Blood Celebrants",
+      "url": "https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trans-Millenia Music",
+        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 309186,
+      "name": "The Unveiling",
+      "url": "https://open.spotify.com/track/6uY4jTpE2hjhSwE2imW2A1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
       "duration_ms": 270539,
       "name": "Marking Time",
       "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 282135,
+      "name": "Plot Zero",
+      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
       "duration_ms": 369173,
       "name": "Organized Confusion",
       "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 450986,
-      "name": "Blood Celebrants",
-      "url": "https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl"
     }
   ],
   "unique_name": "This Is Pauline Anna Strom",

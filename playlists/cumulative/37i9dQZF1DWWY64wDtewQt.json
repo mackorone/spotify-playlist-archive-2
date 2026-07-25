@@ -6416,7 +6416,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
@@ -12769,6 +12769,24 @@
     },
     {
       "album": {
+        "name": "PARTY FUNK",
+        "url": "https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9"
+      },
+      "artists": [
+        {
+          "name": "Young Madz",
+          "url": "https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132990,
+      "name": "Party Funk",
+      "url": "https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX"
+    },
+    {
+      "album": {
         "name": "PASSO BEM SOLTO",
         "url": "https://open.spotify.com/album/69xSmrFHBZvhk85cWnm1qY"
       },
@@ -17160,7 +17178,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 90461,
       "name": "UH VEI VEI",
       "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
@@ -18202,6 +18220,32 @@
       "duration_ms": 118034,
       "name": "Wtf U Mean",
       "url": "https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU"
+    },
+    {
+      "album": {
+        "name": "X-COOL!",
+        "url": "https://open.spotify.com/album/3PCH80fzGQH5i7YB4wvEc2"
+      },
+      "artists": [
+        {
+          "name": "tienanh109",
+          "url": "https://open.spotify.com/artist/2cEiz8Q3ZntEQl2rJr1An7"
+        },
+        {
+          "name": "HDN",
+          "url": "https://open.spotify.com/artist/2VeycUHUfDjoYqpkOSllnn"
+        },
+        {
+          "name": "MC K3",
+          "url": "https://open.spotify.com/artist/1w1IS5ufNR3HLQ0tMWYyGc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115976,
+      "name": "X-COOL! - Slowed",
+      "url": "https://open.spotify.com/track/3Yju0AQsjm06w7Q53xt4Ht"
     },
     {
       "album": {

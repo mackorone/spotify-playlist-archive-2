@@ -1,12 +1,12 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan",
-  "num_followers": 249344,
+  "num_followers": 249345,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3LICJTKPJpseLzn3NYQX4Ke/wp",
+  "snapshot_id": "AAAAAHPTiHucT6OY8f6VMKj07IvPx6ME",
   "tracks": [
     {
       "added_at": "2026-07-17 14:59:50",
@@ -311,8 +311,8 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Young & Real",
-        "url": "https://open.spotify.com/album/2777qaYFxZOhbBrF4qrl9R"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5qq6snxXXNJ73QSaUF9PLC"
       },
       "artists": [
         {
@@ -320,17 +320,13 @@
           "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
         },
         {
-          "name": "Savraj",
-          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
-        },
-        {
-          "name": "Khara",
-          "url": "https://open.spotify.com/artist/2muxNcuS1fHlWx8zwdKRHC"
+          "name": "Ricky Khan",
+          "url": "https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Nabhe Di Bottal",
-      "url": "https://open.spotify.com/track/5L02UgAKdA0icWvFs3WXVI"
+      "duration_ms": 255999,
+      "name": "Punjab Wal Nu",
+      "url": "https://open.spotify.com/track/1Qv3awph0oazuf0t9SJw6z"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -423,8 +419,8 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5qq6snxXXNJ73QSaUF9PLC"
+        "name": "Young & Real",
+        "url": "https://open.spotify.com/album/2777qaYFxZOhbBrF4qrl9R"
       },
       "artists": [
         {
@@ -432,13 +428,17 @@
           "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
         },
         {
-          "name": "Ricky Khan",
-          "url": "https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ"
+          "name": "Savraj",
+          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+        },
+        {
+          "name": "Khara",
+          "url": "https://open.spotify.com/artist/2muxNcuS1fHlWx8zwdKRHC"
         }
       ],
-      "duration_ms": 255999,
-      "name": "Punjab Wal Nu",
-      "url": "https://open.spotify.com/track/1Qv3awph0oazuf0t9SJw6z"
+      "duration_ms": 201818,
+      "name": "Nabhe Di Bottal",
+      "url": "https://open.spotify.com/track/5L02UgAKdA0icWvFs3WXVI"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Goli - Chapter 2",
         "url": "https://open.spotify.com/album/3WjmUxyK9VVFI7gF2rf7eE"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 178536,
       "name": "Goli - Chapter 2",
       "url": "https://open.spotify.com/track/1VN0qoO0RdMwq4BpwfatIj"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
-      },
-      "artists": [
-        {
-          "name": "Pardeep Sran",
-          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
-        },
-        {
-          "name": "Sargi Maan",
-          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "4 Mint",
-        "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
-      },
-      "artists": [
-        {
-          "name": "Nawab",
-          "url": "https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 254537,
-      "name": "4 Mint",
-      "url": "https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
         "name": "Graph",
         "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
       },
@@ -1303,6 +1283,42 @@
       "duration_ms": 155121,
       "name": "Graph",
       "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "4 Mint",
+        "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
+      },
+      "artists": [
+        {
+          "name": "Nawab",
+          "url": "https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 254537,
+      "name": "4 Mint",
+      "url": "https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1339,22 +1355,6 @@
       "duration_ms": 156103,
       "name": "Lala Lala",
       "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Truckan Wale",
         "url": "https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 258984,
       "name": "Truckan Wale",
       "url": "https://open.spotify.com/track/7LtdzqwjhlIRBiI7FjBYmL"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Tu Te Sharab",
-        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tu Te Sharab",
-      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Hattrick",
-        "url": "https://open.spotify.com/album/3qjy2ASixumOpuSeU1JPLX"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Entry",
-      "url": "https://open.spotify.com/track/5pMWgXYwwDTlzBGoFXVEF6"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/1efcXsOLzlbqHSQPMdwh7G"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 164347,
       "name": "Bicep",
       "url": "https://open.spotify.com/track/2jRWVoOQDZJmXmUQJWnHqi"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "Hattrick",
+        "url": "https://open.spotify.com/album/3qjy2ASixumOpuSeU1JPLX"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Entry",
+      "url": "https://open.spotify.com/track/5pMWgXYwwDTlzBGoFXVEF6"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1599,6 +1599,30 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Yaar Bawara (From \"Raunak\")",
+        "url": "https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Jaidev Kumar",
+          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
+        },
+        {
+          "name": "Harmanjeet Singh",
+          "url": "https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt"
+        }
+      ],
+      "duration_ms": 149662,
+      "name": "Yaar Bawara (From \"Raunak\")",
+      "url": "https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Hattrick",
         "url": "https://open.spotify.com/album/3qjy2ASixumOpuSeU1JPLX"
       },
@@ -1639,30 +1663,6 @@
       "duration_ms": 229604,
       "name": "Case",
       "url": "https://open.spotify.com/track/2irS0WFQGvi1aoJY9hUd6s"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Yaar Bawara (From \"Raunak\")",
-        "url": "https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7"
-      },
-      "artists": [
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        },
-        {
-          "name": "Jaidev Kumar",
-          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
-        },
-        {
-          "name": "Harmanjeet Singh",
-          "url": "https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt"
-        }
-      ],
-      "duration_ms": 149662,
-      "name": "Yaar Bawara (From \"Raunak\")",
-      "url": "https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb"
     },
     {
       "added_at": "2026-07-17 14:59:50",

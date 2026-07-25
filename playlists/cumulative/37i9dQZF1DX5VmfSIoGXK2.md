@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, Bogotá, & beyond 🌎 featuring KALLITECHNIS
 
-256 songs - 16 hr 6 min
+258 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Disco in Doha](https://open.spotify.com/track/6HISSlYeN7ooBd1WCijmDF) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Disco in Doha](https://open.spotify.com/album/6kis2IuvxvdPt0jDH02Wrc) | 6:02 | 2025-03-21 | 2025-08-02 |
 | [Dogs](https://open.spotify.com/track/1rMVnYTLuvzuloRLZhRMP5) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Dogs](https://open.spotify.com/album/4Z7XkSG9UxdiQZP36qIEeg) | 2:11 | 2025-02-21 | 2026-02-07 |
 | [Don't Stop the Feeling \- Dub](https://open.spotify.com/track/0A7XGjK35cIK9axTm9qlqI) | [Detroit Rising](https://open.spotify.com/artist/5L7BJ4rmMF3sd4TkpzJwzU), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Don't Stop the Feeling \(Dub\)](https://open.spotify.com/album/4kKm7QfUVDKzPUKM9kjLUd) | 5:16 | 2026-05-08 |  |
-| [Dreams](https://open.spotify.com/track/1xJkH2q9mG9f9zkaiPfzEJ) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dreams](https://open.spotify.com/album/3MpFQSHLMig7WlGYvYxFBw) | 4:08 | 2026-02-27 |  |
+| [Dreams](https://open.spotify.com/track/1xJkH2q9mG9f9zkaiPfzEJ) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Dreams](https://open.spotify.com/album/3MpFQSHLMig7WlGYvYxFBw) | 4:08 | 2026-02-27 | 2026-07-25 |
+| [Drifting Away](https://open.spotify.com/track/1zKWhcQGThVeNvN8t4WMNC) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Pont Neuf Records](https://open.spotify.com/artist/7H8xmIsqR1CDy2RS0QKH6J) | [Drifting Away](https://open.spotify.com/album/7j4mwG9YbL2uOLUbStN1pe) | 3:44 | 2026-07-24 |  |
 | [Drowned in Blue](https://open.spotify.com/track/3Oi6tPZNQizEDBfXVtyzn2) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Drowned in Blue](https://open.spotify.com/album/716cHuoRhH3rDq34HaTBE9) | 2:58 | 2025-11-07 |  |
 | [DTPA](https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Licious](https://open.spotify.com/album/0OiY4E01FdNSKkpmmWmjqP) | 2:26 | 2025-03-14 |  |
 | [Dynamite](https://open.spotify.com/track/2YE3TKZiHd8hdNeBDOm9rb) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Implicit](https://open.spotify.com/artist/05BTvrKFB0nETZbTezuif5) | [Dynamite](https://open.spotify.com/album/25LmHRFEWOj2KCMIeJv5hU) | 3:00 | 2026-07-17 |  |
@@ -102,6 +103,7 @@
 | [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
 | [House of Jazz](https://open.spotify.com/track/3g5jybh4Flup4cyP3kBNDe) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [02 DISC](https://open.spotify.com/album/4MnEmaAZ1LPieZpzyJEvSd) | 3:40 | 2026-01-09 |  |
 | [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 | 2025-12-20 |
+| [I Love Lucid](https://open.spotify.com/track/0VAd5XbJ8zR2YayYNdlz1w) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Jazz Is The Mattress](https://open.spotify.com/album/6ChrScnB5DfJolm2TUy4Jw) | 3:06 | 2026-07-24 |  |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
 | [I Want Your Love](https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [I Want Your Love](https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6) | 2:33 | 2026-04-17 |  |
 | [I Wonder If You Know](https://open.spotify.com/track/3xk4DtJZKWMqREHQd8xsew) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM), [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [I Wonder If You Know](https://open.spotify.com/album/4ZEEq0Ha1r1hotCGAHhAig) | 3:14 | 2026-05-29 |  |
@@ -134,7 +136,7 @@
 | [Lift Me](https://open.spotify.com/track/4NE0fBZomP6rcyyzFXcMId) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS) | [Lift Me](https://open.spotify.com/album/6VWQ6Sf45nNMDVvzEoeHGl) | 4:13 | 2025-09-12 | 2026-01-31 |
 | [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
 | [Loire & Pinot Gris](https://open.spotify.com/track/0saHEfGDqdEBdgjZIwQVzE) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Loire & Pinot Gris](https://open.spotify.com/album/7naZpfsI4rhTRghOtE8r1K) | 4:48 | 2025-10-17 |  |
-| [Love is Here](https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Love is Here](https://open.spotify.com/album/1PFh7P6mxasF8oijczIk1S) | 3:54 | 2026-04-17 |  |
+| [Love is Here](https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Love is Here](https://open.spotify.com/album/1PFh7P6mxasF8oijczIk1S) | 3:54 | 2026-04-17 | 2026-07-25 |
 | [Love Language](https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 4:38 | 2025-05-09 |  |
 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 | 2025-02-21 | 2025-05-10 |
 | [Love You More \(Edit\)](https://open.spotify.com/track/1WzGTl81zGtaf0Dy3D8AD3) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love You More \(Edit\)](https://open.spotify.com/album/5rlFlsvWLmYeSDQDGT6Arj) | 4:02 | 2025-08-15 |  |

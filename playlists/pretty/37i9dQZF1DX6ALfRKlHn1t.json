@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1143272,
+  "num_followers": 1143208,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
-        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
-      },
-      "artists": [
-        {
-          "name": "The Runarounds",
-          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Ghosts (From The Runarounds Original Series)",
-      "url": "https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Until The Tunnel Vision Melts",
-        "url": "https://open.spotify.com/album/4ERaJcbO4A2O1Oajsj1wZT"
-      },
-      "artists": [
-        {
-          "name": "Dogpark",
-          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Dreamwalker",
-      "url": "https://open.spotify.com/track/6a27ujWv21H3qCkFGFj58L"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "can't slow down",
         "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 175720,
       "name": "can't slow down",
       "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "The Runarounds (Prime Video Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD"
+      },
+      "artists": [
+        {
+          "name": "The Runarounds",
+          "url": "https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Ghosts (From The Runarounds Original Series)",
+      "url": "https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Until The Tunnel Vision Melts",
+        "url": "https://open.spotify.com/album/4ERaJcbO4A2O1Oajsj1wZT"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Dreamwalker",
+      "url": "https://open.spotify.com/track/6a27ujWv21H3qCkFGFj58L"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "work in progress",
         "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 176805,
       "name": "Down Swinging",
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2025-10-10 04:00:44",

@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 172384,
       "name": "BaBaBa (Hangover)",
       "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
@@ -5613,6 +5613,32 @@
     },
     {
       "album": {
+        "name": "La Escalera",
+        "url": "https://open.spotify.com/album/5Q1wFCue91VMdmQBnsuCW4"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201567,
+      "name": "La Escalera",
+      "url": "https://open.spotify.com/track/31MUYsKSi5VAYL0x2kOtAe"
+    },
+    {
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
       },
@@ -6553,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "Loquera",
+        "url": "https://open.spotify.com/album/69ie6Ub6cPFn6d7bJeB9Wn"
+      },
+      "artists": [
+        {
+          "name": "IILO",
+          "url": "https://open.spotify.com/artist/3b9lTEUWpg0CqrtDF8leUi"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/40dttGSZGDUDWMqYIPlBjk"
+    },
+    {
+      "album": {
         "name": "Los Tamales",
         "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
       },
@@ -6985,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "Me Sabe Bien",
+        "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223124,
+      "name": "Me Sabe Bien",
+      "url": "https://open.spotify.com/track/0rKn7ZEDCE3rNIiQwfkO0i"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
       },
@@ -7318,7 +7380,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210476,
       "name": "Morena Mia",
       "url": "https://open.spotify.com/track/6BMMnimimXSMzMwiNM78NT"
@@ -8780,7 +8842,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 199354,
       "name": "Que Calor, Que Calor",
       "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"

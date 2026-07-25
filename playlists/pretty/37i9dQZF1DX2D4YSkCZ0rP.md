@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Victor Aupecle
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,785 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,787 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 |
 | 2 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 |
-| 3 | [Belles et Fières](https://open.spotify.com/track/4O9qqrDkmcObUGpBHpcNwy) | [The Cast of Drag Race France](https://open.spotify.com/artist/0I194yud9E8kWYVFBX95mI) | [Belles et Fières](https://open.spotify.com/album/3cP83ovdSuPppylRN1bgPi) | 3:29 |
+| 3 | [Belles et Fières](https://open.spotify.com/track/4O9qqrDkmcObUGpBHpcNwy) | [The Cast of Drag Race France](https://open.spotify.com/artist/0I194yud9E8kWYVFBX95mI), [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Belles et Fières](https://open.spotify.com/album/3cP83ovdSuPppylRN1bgPi) | 3:29 |
 | 4 | [Pleurer en dansant](https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Pleurer en dansant](https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS) | 3:30 |
 | 5 | [Dis\-moi oui](https://open.spotify.com/track/5RZ2uasddAXgIw35HhvtMZ) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI \(Édition OR\)](https://open.spotify.com/album/2hNZGt3B5r81TDem4XvWYT) | 3:56 |
 | 6 | [LES DEUX](https://open.spotify.com/track/6TApshryHQoa8jPVugndQZ) | [AYMCE](https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv), [PINKY](https://open.spotify.com/artist/6TF8edpxRiFN2W8ohVzN3U) | [LES DEUX](https://open.spotify.com/album/3QeHWnOgpFddSZze6eSK9i) | 2:27 |

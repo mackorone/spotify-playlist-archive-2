@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,626 songs - 10 day 8 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,629 songs - 10 day 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4634,5 +4634,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4624 | [Unforgiving Nights](https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE) | [Ev Kalo](https://open.spotify.com/artist/0kuWGBFMMa8a6jJeFAZwbq) | [Unforgiving Nights](https://open.spotify.com/album/6rAssQcROkNxsZrDfqJsYP) | 3:38 |
 | 4625 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 |
 | 4626 | [Desolate](https://open.spotify.com/track/303YZOIjFPc92eth5JaBxg) | [Asylum Road](https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2) | [Desolate](https://open.spotify.com/album/3u3Qf5KG0AFwSLAl7BdKyM) | 3:32 |
+| 4627 | [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 |
+| 4628 | [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 |
+| 4629 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
 
-Snapshot ID: `AAAJU5mhk73MT2Joz1P5UpNG+Qs4eYlg`
+Snapshot ID: `AAAJVskqCdsmuCWObmnIkgcdjfIgJiWM`

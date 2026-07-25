@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 72879,
+  "num_followers": 72883,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACt0KzxiSBRX2lbi6M8PNm+",
+  "snapshot_id": "amFZgAAAAACEyrKk41uWfyh1d59Pi6C+",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Peace And The B Sides",
-        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 203649,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc"
+      "duration_ms": 176692,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+        "name": "The Peace And The B Sides",
+        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 176692,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni"
+      "duration_ms": 203649,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
       "duration_ms": 214422,
       "name": "Empty House",
       "url": "https://open.spotify.com/track/79XPSIrAIDsneJNGLxIm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197075,
+      "name": "Candour",
+      "url": "https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197075,
-      "name": "Candour",
-      "url": "https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 219062,
       "name": "Sonderland",
       "url": "https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Crushing Grief (No Remedy)",
+      "url": "https://open.spotify.com/track/0OgP3aqNy7EySxfJxmdg5j"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Crushing Grief (No Remedy)",
-      "url": "https://open.spotify.com/track/0OgP3aqNy7EySxfJxmdg5j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 227520,
       "name": "Sick Joke",
       "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Losing Teeth",
+      "url": "https://open.spotify.com/track/2igkrp986MU4maviUzLiVO"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "Losing Teeth",
-      "url": "https://open.spotify.com/track/2igkrp986MU4maviUzLiVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain In July",
         "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 175653,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rain In July / A History Of Bad Decisions",
-        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 198579,
-      "name": "What Did You Expect?",
-      "url": "https://open.spotify.com/track/5v1NSDUgJ2NiNGKqu7LPxN"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rain In July / A History Of Bad Decisions",
+        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 198579,
+      "name": "What Did You Expect?",
+      "url": "https://open.spotify.com/track/5v1NSDUgJ2NiNGKqu7LPxN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rain In July",
         "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain In July / A History Of Bad Decisions",
-        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 42047,
-      "name": "All Hype, No Heart",
-      "url": "https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 202158,
       "name": "Damsel In Distress",
       "url": "https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain In July / A History Of Bad Decisions",
+        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 42047,
+      "name": "All Hype, No Heart",
+      "url": "https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> "Rein Me In" is a record\-breaker 🏆
+> "Rein Me In" is a record\-breaker\. The joint longest\-running UK number one single of all\-time 🏆
 
 50 songs - 2 hr 58 min
 

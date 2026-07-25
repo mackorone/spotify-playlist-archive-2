@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,535 songs - 21 day 17 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,540 songs - 21 day 17 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8543,5 +8543,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8533 | [breakfast](https://open.spotify.com/track/5inPJdObXRtrY0cNrUDv3b) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [lando!](https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p) | [breakfast](https://open.spotify.com/album/3Dc1sLt0yOt0IIIGO9Yzvf) | 2:11 |
 | 8534 | [It's Raining](https://open.spotify.com/track/2H0QuISiUsNgSHSnGIZIc9) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [It's Raining](https://open.spotify.com/album/2zVBYnuUN52s5mA8hDHhqm) | 2:28 |
 | 8535 | [moonglow](https://open.spotify.com/track/0g9TAdriKculilWojd8829) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/4cfkFm7GMtXOepKKqzS4ZM) | 2:17 |
+| 8536 | [My Soul, Your Beats!](https://open.spotify.com/track/5657i1LbjJ0HhJW23VcOT1) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [My Soul, Your Beats!/Brave Song](https://open.spotify.com/album/50nfRpjd9HcplBuwuBQmbw) | 4:35 |
+| 8537 | [World End](https://open.spotify.com/track/72t3voAyrspPd7zbjg5Gm9) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Daybreaker](https://open.spotify.com/album/1UTyXmJlbZKQdWsf8U408W) | 3:59 |
+| 8538 | [Touch](https://open.spotify.com/track/6ZtKB29KXVcSnYvxoGwOhq) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Touch](https://open.spotify.com/album/1R5AS1CtX1SfzwogS8dmMG) | 3:28 |
+| 8539 | [All My Candles](https://open.spotify.com/track/11HRSkKS5nDZB0921Kwne1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:49 |
+| 8540 | [Mayonaka no Door\~stay with me](https://open.spotify.com/track/4J2oDU9oacz7lJ7H8A8P8v) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/2HkcpRkF6GvlILQzFayrss) | 5:12 |
 
-Snapshot ID: `AAAMbELTaSQI7ByUplJrkJHI9VGkAgtJ`
+Snapshot ID: `AAAMccX4fgEjTzupMXqW9LlH/9418id7`

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Arc of petals",
+        "url": "https://open.spotify.com/album/2EdGKeAotoopbtYlyNbOz4"
+      },
+      "artists": [
+        {
+          "name": "Liu Ju",
+          "url": "https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136764,
+      "name": "Arc of petals",
+      "url": "https://open.spotify.com/track/2KrhI86yeHlKJMTwOwbXgs"
+    },
+    {
+      "album": {
         "name": "As Silence Falls",
         "url": "https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz"
       },
@@ -2327,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Morning Echoes",
+        "url": "https://open.spotify.com/album/20MD9CDfbhbzS7prUm7Wtv"
+      },
+      "artists": [
+        {
+          "name": "Herman Schirmer",
+          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161083,
+      "name": "Morning Echoes",
+      "url": "https://open.spotify.com/track/76cen8fzMdZIvYCGYc9GRO"
+    },
+    {
+      "album": {
         "name": "Morning Solitude",
         "url": "https://open.spotify.com/album/3aVRCLjuSZPGZ9OFp0867g"
       },
@@ -3209,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Seconds From Us",
+        "url": "https://open.spotify.com/album/6uToDp8dCWlQJwYS76Xo9K"
+      },
+      "artists": [
+        {
+          "name": "John Fletcher-Smith",
+          "url": "https://open.spotify.com/artist/76h4yIYvagDl743JAWdgXz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129439,
+      "name": "Seconds From Us",
+      "url": "https://open.spotify.com/track/1uFJV18jiitCG65g8ErvCl"
+    },
+    {
+      "album": {
         "name": "Secret Admirer",
         "url": "https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq"
       },
@@ -3454,7 +3508,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
@@ -4120,7 +4174,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 183192,
       "name": "Training Wheels",
       "url": "https://open.spotify.com/track/4SwoHJ6WZtsX4Uv9ro5BfH"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
+  "description": "Romance a la antig\u00fcita con Tuffic en portada.",
   "name": "nuevo bolero",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 227240,
       "name": "Bolero Para El Que No Esper\u00f3",
       "url": "https://open.spotify.com/track/2qgNQyXPhIgeIrX660JKKY"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Desde Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164791,
+      "name": "Desde Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+    },
+    {
+      "album": {
         "name": "Desde mi habitaci\u00f3n",
         "url": "https://open.spotify.com/album/656VyXjyD9LdtKPheTfqNu"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 197999,
       "name": "El D\u00eda",
       "url": "https://open.spotify.com/track/6KOC0wpku5n0sjqzUTFGQE"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180933,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
@@ -2960,6 +2978,24 @@
       "duration_ms": 167729,
       "name": "Florecer Contigo",
       "url": "https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16"
+    },
+    {
+      "album": {
+        "name": "Flores Negras",
+        "url": "https://open.spotify.com/album/60T3oeX31RWIWFcFP8Vvox"
+      },
+      "artists": [
+        {
+          "name": "Los Periquines de Don Ramon Torres",
+          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234710,
+      "name": "Flores Negras",
+      "url": "https://open.spotify.com/track/0vAxwdooCkIKU0uDcLD1BR"
     },
     {
       "album": {
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186491,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
@@ -4598,7 +4634,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 165642,
       "name": "Muy Agradecido",
       "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
@@ -4642,6 +4678,24 @@
       "duration_ms": 195789,
       "name": "M\u00e1s Que Ella",
       "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico no es nada sin ti",
+        "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207313,
+      "name": "M\u00e9xico no es nada sin ti",
+      "url": "https://open.spotify.com/track/4cJr9Kk0Sig1ZvPVfewLR6"
     },
     {
       "album": {
@@ -5004,6 +5058,32 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "album": {
+        "name": "No te puedes ir",
+        "url": "https://open.spotify.com/album/15dUsTMz9I1piWJZetHq9H"
+      },
+      "artists": [
+        {
+          "name": "Ivan de la Rioja",
+          "url": "https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA"
+        },
+        {
+          "name": "xel",
+          "url": "https://open.spotify.com/artist/2WQxQy1J84edOBZrpXGyLD"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "No te puedes ir",
+      "url": "https://open.spotify.com/track/7dQ72oGTDZ1M3vhGJuRsGg"
     },
     {
       "album": {
@@ -6033,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
+      },
+      "artists": [
+        {
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
+    },
+    {
+      "album": {
         "name": "Mun Compilado (Vol. 2)",
         "url": "https://open.spotify.com/album/3kbsMZpw5hkNpcZNNXwlsA"
       },
@@ -6244,6 +6342,28 @@
       "duration_ms": 175733,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/1w49nmizmQFX1XvH1O35i8"
+      },
+      "artists": [
+        {
+          "name": "Luciano Daniel",
+          "url": "https://open.spotify.com/artist/4cEVjXOZHhUhhJXItFhA33"
+        },
+        {
+          "name": "Nico Gomezz",
+          "url": "https://open.spotify.com/artist/0avyPhQWhApyY16zgU955R"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208555,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2pTis5JV0JjZsAyLtUvPma"
     },
     {
       "album": {
@@ -7716,7 +7836,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 174403,
       "name": "Tu Espejo Es Mentiroso",
       "url": "https://open.spotify.com/track/3GGGYqAgpDdQg4K5j4cYUc"
@@ -7938,6 +8058,28 @@
       "duration_ms": 246000,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
+    },
+    {
+      "album": {
+        "name": "Parada Obligatoria (1ra Parada)",
+        "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210166,
+      "name": "Un poema duerme en mi cama",
+      "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-1,067 songs - 2 day 0 hr 20 min
+1,068 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-17 | 2025-06-18 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-16 | 2024-05-18 |
 | [double rr](https://open.spotify.com/track/2LRzjX88KoTOAnQPIdfBwp) | [doxxxelll](https://open.spotify.com/artist/4b2XoBURQbc9Ou4ZBmes91) | [double rr](https://open.spotify.com/album/6jJXRZ7g91ZMWDw91iHmUv) | 2:02 | 2025-11-23 | 2025-11-26 |
-| [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2026-03-19 | 2026-07-24 |
+| [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2026-03-19 |  |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-02-07 | 2026-05-25 |
 | [DRAIN SEASON](https://open.spotify.com/track/4uhav7PVI9rkYJyKkjQJdb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/6y2Z6pHf9hooEHWcSZzEqk) | 2:03 | 2024-09-14 | 2024-10-10 |
 | [DRAIN SEASON](https://open.spotify.com/track/6zdWpryWrbSG6PIdnfin32) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:03 | 2024-08-19 | 2024-09-15 |
@@ -425,7 +425,7 @@
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-10-29 | 2024-10-31 |
 | [Railway \(Bang Chan\)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:53 | 2024-12-15 | 2024-12-18 |
 | [Railway \(Bang Chan\)](https://open.spotify.com/track/4vNhzQfgfWIzOxbB8HfIHa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:53 | 2024-12-14 | 2024-12-19 |
-| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2024-06-20 |  |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2024-06-20 | 2026-07-25 |
 | [RAKATA](https://open.spotify.com/track/4go2q3j92uc8AfrekAjNTf) | [IVAR](https://open.spotify.com/artist/5LaPbsZJpJ3cKMp93ncpfs), [LASSE](https://open.spotify.com/artist/6TMr1o0Y1YUd0WLhWwKsy2), [Club House](https://open.spotify.com/artist/0XBUXsh7frGjHIoDpi1N26) | [RAKATA](https://open.spotify.com/album/74JaFw3viCtV6ScvCm86HN) | 5:31 | 2024-09-20 | 2024-09-22 |
 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 | 2024-07-20 |  |
 | [Record Me / 4 Humble](https://open.spotify.com/track/75oIF9zecjPM13weyjThHb) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:27 | 2025-04-26 | 2025-04-28 |
@@ -1008,6 +1008,7 @@
 | [Улицам нужен твой огонь](https://open.spotify.com/track/6R5atlAjmvH5uME57GUphd) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H), [GUF](https://open.spotify.com/artist/0OCyDRYamSDX0nSnJ59W1u) | [Баста/Гуф 2026](https://open.spotify.com/album/44tkrxWOFGfLJOa43ZoHFp) | 5:01 | 2026-04-18 | 2026-04-20 |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-19 |
 | [урод](https://open.spotify.com/track/0Q4LbRWTxhYRVKpjt1Y7D1) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [заставь меня плакать](https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2) | 3:02 | 2026-05-30 | 2026-06-11 |
+| [утекай](https://open.spotify.com/track/2IroMd4LnwdbxQPGJFD0BX) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [MILITANTUM](https://open.spotify.com/album/1ejUHnRNibqQjJgE4xoYD0) | 1:40 | 2026-07-24 |  |
 | [Ути\-Пути](https://open.spotify.com/track/2T1AuZE4fHpWPovzm985OI) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi), [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Ути\-Пути](https://open.spotify.com/album/4dMvbYXzA9w0SXpaFCvq0b) | 3:08 | 2024-06-22 | 2024-06-30 |
 | [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 | 2024-12-03 |
 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 | 2024-06-02 |
@@ -1018,7 +1019,7 @@
 | [Фото со звездой](https://open.spotify.com/track/5cw12f6sAU2O88o6gn6Rw1) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV) | [Фото со звездой](https://open.spotify.com/album/3pNY656sagz7e5RxbzsVLn) | 2:02 | 2024-10-12 | 2025-04-20 |
 | [Фрик](https://open.spotify.com/track/5YD7XXuNMvyn8oP4BbFfLN) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [Dabbackwood Reborn 2](https://open.spotify.com/album/60ZUosLpnLJcAdZ7sApPTU) | 1:30 | 2024-08-16 | 2024-09-28 |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |
-| [Ханнамонтана](https://open.spotify.com/track/2GqzE0IXc3rq37AOdcrrvx) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:10 | 2026-04-10 |  |
+| [Ханнамонтана](https://open.spotify.com/track/2GqzE0IXc3rq37AOdcrrvx) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:10 | 2026-04-10 | 2026-07-25 |
 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 | 2024-09-01 | 2026-05-27 |
 | [Хенни](https://open.spotify.com/track/7AdCfQXaVrC3hKAgdsVdnd) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Хенни](https://open.spotify.com/album/40HX9Mxeb67H6yLVzsvDO0) | 1:49 | 2025-12-27 | 2025-12-29 |
 | [Хлопья летят наверх](https://open.spotify.com/track/5myEFonqh86KXIInKNxfP8) | [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Хлопья летят наверх](https://open.spotify.com/album/1mZ9wSjmNYdzPFqu5ytCMk) | 4:22 | 2025-11-24 | 2025-11-26 |

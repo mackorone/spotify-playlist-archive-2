@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx
 
-1,894 songs - 3 day 17 hr 15 min
+1,894 songs - 3 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Erinnerung](https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Erinnerung](https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2) | 3:26 | 2025-03-13 | 2025-05-09 |
 | [ersterplatz](https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [ersterplatz](https://open.spotify.com/album/48ZvOk3LIgBW5IE3yfvZFf) | 2:06 | 2023-11-30 | 2024-01-26 |
 | [erstewahl](https://open.spotify.com/track/6BgNaRs4Cm5F5keHvCcRMo) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [erstewahl](https://open.spotify.com/album/2cINsNoDtdF6RYT1LdCSoV) | 2:42 | 2025-02-14 | 2025-03-14 |
+| [Erwachsen sein](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 3:22 | 2026-07-23 |  |
 | [Es bleibt spannend](https://open.spotify.com/track/7lZIoGYClxerbOwUgip8Vd) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Es bleibt spannend](https://open.spotify.com/album/13enGCel0CjCAUoo2fvQX4) | 2:25 | 2024-02-22 | 2024-03-22 |
 | [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 | 2023-09-22 | 2024-03-08 |
 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 | 2025-06-05 | 2025-09-05 |
@@ -1604,7 +1605,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 2](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 0:00 | 2026-07-23 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

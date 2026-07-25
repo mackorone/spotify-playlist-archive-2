@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 287420,
+  "num_followers": 287459,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAAnaIl5jZhYnuiSUjGzUSqj",
+  "snapshot_id": "amFZgAAAAACi2AuQiJyD8XYnlYcdJxgD",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/06AwEOu3Zk5qiYuafTqIuu"
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/26iieQn6hzv43ovDur6LW8"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/26iieQn6hzv43ovDur6LW8"
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/06AwEOu3Zk5qiYuafTqIuu"
     },
     {
       "added_at": null,

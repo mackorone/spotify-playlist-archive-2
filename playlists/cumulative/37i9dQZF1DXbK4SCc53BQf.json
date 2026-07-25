@@ -46,7 +46,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211000,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 287524,
       "name": "Absoluto",
       "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219688,
       "name": "Al ritmo del Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212571,
       "name": "Corro a Ti",
       "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
@@ -1106,6 +1106,24 @@
       "duration_ms": 244426,
       "name": "Digan Lo Que Diga",
       "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
+    },
+    {
+      "album": {
+        "name": "Saz\u00f3n Over Everything (S.O.E) Vol. 1",
+        "url": "https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO"
+      },
+      "artists": [
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "Dile en Merengue",
+      "url": "https://open.spotify.com/track/5eAYCnFYt5UTG30875EaCt"
     },
     {
       "album": {
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 162551,
       "name": "ETE' MUNDO",
       "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 262434,
       "name": "Jord\u00e1n",
       "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 188280,
       "name": "Mi Cruz",
       "url": "https://open.spotify.com/track/0K9J8WJRF9qCk6ElwdjKpZ"
@@ -2510,6 +2528,24 @@
       "duration_ms": 167778,
       "name": "MUSIQUITA",
       "url": "https://open.spotify.com/track/3ER6jbaDSO5APJynmLar9p"
+    },
+    {
+      "album": {
+        "name": "Mutari",
+        "url": "https://open.spotify.com/album/0DJZXDtbxX3dLrcUEXBetC"
+      },
+      "artists": [
+        {
+          "name": "SarieL",
+          "url": "https://open.spotify.com/artist/6HLjz3mUSt52nDpFylq93A"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166256,
+      "name": "Mutari",
+      "url": "https://open.spotify.com/track/188U3qJOtDOI3crnkWAwKy"
     },
     {
       "album": {
@@ -2625,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Nadota",
+        "url": "https://open.spotify.com/album/7jrGs0xE6TSq7prPBCMOyW"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155801,
+      "name": "Nadota",
+      "url": "https://open.spotify.com/track/5ovLe6Tpv9yHPd94wC5AfR"
+    },
+    {
+      "album": {
         "name": "NAZARENO",
         "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
       },
@@ -2715,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "NO TIENES IGUAL",
+        "url": "https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247983,
+      "name": "NO TIENES IGUAL",
+      "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
+    },
+    {
+      "album": {
         "name": "No Vaya a Ser",
         "url": "https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G"
       },
@@ -2788,6 +2860,32 @@
       "duration_ms": 204250,
       "name": "Ola de Calma",
       "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4jTwmNKRgjnTIrm8nyKA9C"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        },
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        },
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/14t6bEV9Efq9yor2RuJoli"
     },
     {
       "album": {
@@ -3791,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Todo Lo Puedo",
+        "url": "https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "Todo Lo Puedo",
+      "url": "https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo \u00c9xitos Tropicales",
         "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
       },
@@ -4018,6 +4134,24 @@
       "duration_ms": 170281,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/63hnT3AMJltR6TLHP8eBa8"
+    },
+    {
+      "album": {
+        "name": "CAMINO AL ED\u00c9N",
+        "url": "https://open.spotify.com/album/0ynnbOKiKD2sStyD2HAPmU"
+      },
+      "artists": [
+        {
+          "name": "Liaz",
+          "url": "https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "UN TOUR",
+      "url": "https://open.spotify.com/track/5QqzWP5sAQPSjqMdhWJH7r"
     },
     {
       "album": {

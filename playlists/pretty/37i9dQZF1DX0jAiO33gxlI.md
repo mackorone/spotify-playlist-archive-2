@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Cassol
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,836 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,899 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Hong Kong](https://open.spotify.com/track/6eZTEYoIMLUcAENuVtkibL) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [À La Carte](https://open.spotify.com/album/7IOwUVsQ1kpxIZGKrUXtqN) | 2:32 |
 | 75 | [É Preciso Dar Um Jeito, Meu Amigo / A Vida Irrita A Arte](https://open.spotify.com/track/0SSlAZ4yLqmNlbiZqKTCuS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Mano](https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7) | 3:10 |
 
-Snapshot ID: `AAAAAKqUp0REzdL9N+BvDCd3KHGOUX6Q`
+Snapshot ID: `AAAAAD4wUrXblZRj7XZyss1yAxDEryd3`

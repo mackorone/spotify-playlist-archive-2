@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Spotify Presenta",
+        "url": "https://open.spotify.com/album/7sBz3825on9pl9n0BfMuVp"
+      },
+      "artists": [
+        {
+          "name": "Spotify Presenta",
+          "url": "https://open.spotify.com/show/7sBz3825on9pl9n0BfMuVp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206791,
+      "name": "En El Barrio - Barboza",
+      "url": "https://open.spotify.com/episode/65zm67J5ZRWg6sXupzialE"
+    },
+    {
+      "album": {
         "name": "Real G 4 Life",
         "url": "https://open.spotify.com/album/4YvY8BtNomELHU0cdO3kMW"
       },

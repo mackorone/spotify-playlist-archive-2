@@ -1,12 +1,12 @@
 {
   "description": "\u00d6zg\u00fcn ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 322945,
+  "num_followers": 323407,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkOfPnmW0zA5EgMoJN43995C97d",
+  "snapshot_id": "AAAAAFi0rng/vk4WRS/73isW0ByQxyOt",
   "tracks": [
     {
       "added_at": "2026-07-23 21:00:22",
@@ -52,8 +52,8 @@
           "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 181856,
+      "name": "Beni \u00c7a\u011f\u0131r",
       "url": "https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ"
     },
     {
@@ -87,6 +87,22 @@
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
+    },
+    {
+      "added_at": "2026-07-23 21:00:22",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "added_at": "2026-07-23 21:00:22",
@@ -155,6 +171,42 @@
       "duration_ms": 212853,
       "name": "Kalpsizsin",
       "url": "https://open.spotify.com/track/5SGeaTIU8HdUGW4l20Nf3t"
+    },
+    {
+      "added_at": "2026-07-24 06:07:15",
+      "album": {
+        "name": "Bakmasayd\u0131m Sana",
+        "url": "https://open.spotify.com/album/7HUFAcq8mp4pAYDHHGzqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        },
+        {
+          "name": "Mert Tun\u00e7makas",
+          "url": "https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Bakmasayd\u0131m Sana",
+      "url": "https://open.spotify.com/track/4DMGsK1XexsafYMkyQJTJS"
+    },
+    {
+      "added_at": "2026-07-23 21:00:22",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-07-23 21:00:22",
@@ -710,10 +762,6 @@
         {
           "name": "NEEQ",
           "url": "https://open.spotify.com/artist/1DHPZsIfy1TSPqLxplObKk"
-        },
-        {
-          "name": "J.Bet",
-          "url": "https://open.spotify.com/artist/6PQfVOXwzvn2mFzxBkFs76"
         }
       ],
       "duration_ms": 158513,

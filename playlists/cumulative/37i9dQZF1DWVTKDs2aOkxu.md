@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Chloe Slater
 
-1,094 songs - 2 day 16 hr 41 min
+1,094 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Hardy \(feat\. Clairo\)](https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Hardy \(feat\. Clairo\)](https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE) | 3:53 | 2026-05-14 | 2026-07-14 |
 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 | 2025-07-17 | 2025-09-05 |
 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 | 2025-07-31 | 2025-09-05 |
+| [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 | 2026-07-23 |  |
 | [Have You Tried Screaming?](https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Have You Tried Screaming?](https://open.spotify.com/album/6zr8GKj1JUnErvkGtnVrhC) | 3:03 | 2026-06-25 |  |
 | [haven't seen you in a while](https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [haven't seen you in a while](https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ) | 3:13 | 2026-04-16 | 2026-06-26 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-12 | 2024-12-13 |
@@ -779,6 +780,7 @@
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-09-18 | 2025-10-17 |
 | [Roses In The Kitchen](https://open.spotify.com/track/4NSbxF11DKXMbNHdezK6bR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Quiet Invitation To A Hard Conversation](https://open.spotify.com/album/77tEPBluanfT3lS8AkBgpB) | 3:28 | 2024-08-08 | 2024-09-06 |
 | [Rotting](https://open.spotify.com/track/2JgO5KBmsglXqory65ZYJT) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [Rotting](https://open.spotify.com/album/7ps98sDD62TGLNgWO3O377) | 4:13 | 2026-05-14 | 2026-06-13 |
+| [Royal Courts \(Great Misfortune\)](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 3:54 | 2026-07-23 |  |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 | 2025-12-12 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-07-04 | 2025-09-27 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-06-27 | 2024-07-05 |
@@ -1003,8 +1005,6 @@
 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-16 |  |
 | [TOURNIQUET](https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Summer Indoors \(or outside wearing black\)](https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27) | 2:36 | 2026-07-16 |  |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2026-01-23 |
-| [Track 4](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 0:00 | 2026-07-23 |  |
-| [Track 6](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 0:00 | 2026-07-23 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-06-05 |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-01 | 2025-06-27 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-03 | 2024-11-15 |

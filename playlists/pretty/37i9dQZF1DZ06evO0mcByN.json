@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6932,
+  "num_followers": 6933,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACiw1iNPu/htEz0ZsY35fII",
+  "snapshot_id": "amFZgAAAAADYwmS7M0Y4yQcDUqas65ml",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 543627,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escritor",
         "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 289248,
       "name": "Escritor",
       "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 543627,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contando os Dias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 403272,
-      "name": "Contando os Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 448926,
       "name": "Plano do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contando os Dias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 403272,
+      "name": "Contando os Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
       "duration_ms": 234520,
       "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
       "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Presen\u00e7a",
         "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
       },
@@ -375,30 +375,6 @@
       "duration_ms": 356176,
       "name": "Presen\u00e7a",
       "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Continua Sendo Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 454867,
-      "name": "Ele Continua Sendo Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
     },
     {
       "added_at": null,
@@ -439,6 +415,30 @@
       "duration_ms": 278573,
       "name": "Frente a Frente Com Deus",
       "url": "https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Continua Sendo Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 454867,
+      "name": "Ele Continua Sendo Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
     },
     {
       "added_at": null,

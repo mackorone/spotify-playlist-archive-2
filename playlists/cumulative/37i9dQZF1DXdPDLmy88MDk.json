@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Echo Bells",
+        "url": "https://open.spotify.com/album/60G8Ffys5wvuZazCMUBIja"
+      },
+      "artists": [
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80124,
+      "name": "Echo Bells",
+      "url": "https://open.spotify.com/track/1FlgJLqyURantBH2fIIdlO"
+    },
+    {
+      "album": {
         "name": "Satie: Complete Piano Works, Vol. 2/2",
         "url": "https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex"
       },
@@ -2242,6 +2260,32 @@
       "duration_ms": 209647,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/061ag3GRNr3d2QgvA6xRgV"
+    },
+    {
+      "album": {
+        "name": "Mozart Romance Variation (After Piano Concerto No. 20, K. 466: II. Romance)",
+        "url": "https://open.spotify.com/album/7tNgEgRXdmVWqYRKZ90Tc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106148,
+      "name": "Mozart Romance Variation (After Piano Concerto No. 20, K. 466: II. Romance)",
+      "url": "https://open.spotify.com/track/2rwPn9ique4d3X3qYb9gDA"
     },
     {
       "album": {

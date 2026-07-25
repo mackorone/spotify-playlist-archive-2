@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388425,
+  "num_followers": 388420,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-07-23 22:01:02",
       "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-07-23 22:01:02",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2026-07-23 22:01:02",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-07-23 22:01:02",
-      "album": {
         "name": "GOLIATH",
         "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2026-07-23 22:01:02",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-07-23 22:01:02",
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-07-23 22:01:02",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
-    },
-    {
-      "added_at": "2026-07-23 22:01:02",
-      "album": {
         "name": "Una lunghissima ombra",
         "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 389173,
       "name": "Ricordo tattile",
       "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
+    },
+    {
+      "added_at": "2026-07-23 22:01:02",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
+      },
+      "artists": [
+        {
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
     },
     {
       "added_at": "2026-07-23 22:01:02",
@@ -991,22 +1007,6 @@
       "duration_ms": 146079,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2026-07-23 22:01:02",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

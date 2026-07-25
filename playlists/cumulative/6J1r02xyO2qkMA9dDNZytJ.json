@@ -916,7 +916,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203232,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7kF0hYHCa1j5AyiJeMQuvf"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 193564,
       "name": "Come Back 2 Me",
       "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 237807,
       "name": "Freak No More",
       "url": "https://open.spotify.com/track/43F50TSS1rcnteYoyp7YCy"
@@ -2060,6 +2060,32 @@
       "duration_ms": 188467,
       "name": "Gonna Make U",
       "url": "https://open.spotify.com/track/7xTyPF9xZIcCT99udCyfnt"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
     },
     {
       "album": {
@@ -2606,6 +2632,28 @@
       "duration_ms": 158214,
       "name": "If You Want",
       "url": "https://open.spotify.com/track/5V9wLycui0YfukF74ll54F"
+    },
+    {
+      "album": {
+        "name": "Impressions (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176444,
+      "name": "Impressions (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
     },
     {
       "album": {
@@ -3772,7 +3820,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 199384,
       "name": "On A Wave",
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
@@ -3914,6 +3962,24 @@
       "duration_ms": 167133,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/0a9NVhsLXeEXZlK20zHhzB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
     },
     {
       "album": {
@@ -4368,6 +4434,28 @@
       "duration_ms": 194761,
       "name": "Promised Land - Mark Knight & James Hurr Remix",
       "url": "https://open.spotify.com/track/4EflpxzPbXDhy6ZvoTgsPr"
+    },
+    {
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/2mT5fBPAL8IyF6Em6QEP23"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lazic",
+          "url": "https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg"
+        },
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183735,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/47ChGwpA9WFWsr18z1zfIs"
     },
     {
       "album": {

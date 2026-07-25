@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover:  YEONJUN)",
+  "description": "The new & hottest K-Pop is here! (Cover:  JENNIE)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -2692,6 +2692,24 @@
       "duration_ms": 182670,
       "name": "Chasing That Feeling",
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "album": {
+        "name": "OriginaLyn",
+        "url": "https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "ChecK",
+      "url": "https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk"
     },
     {
       "album": {
@@ -6546,7 +6564,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
@@ -8387,6 +8405,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/5ROqmKvvTaQ9IOHlElStj2"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
       },
@@ -8452,7 +8488,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 188845,
       "name": "Like a Bubble",
       "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
@@ -13620,7 +13656,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153954,
       "name": "Stick With You",
       "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
@@ -14694,7 +14730,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180180,
       "name": "THAT\u2019S A NO NO",
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
@@ -15316,7 +15352,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 148573,
       "name": "UNCHILD",
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
@@ -15620,6 +15656,24 @@
       "duration_ms": 247312,
       "name": "VISA",
       "url": "https://open.spotify.com/track/3rLQaj0aIBRBEsSwHGY0HP"
+    },
+    {
+      "album": {
+        "name": "Glow ME",
+        "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Vitamin ME",
+      "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
     },
     {
       "album": {

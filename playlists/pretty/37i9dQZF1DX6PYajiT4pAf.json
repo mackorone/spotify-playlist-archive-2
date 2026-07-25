@@ -1,6 +1,6 @@
 {
   "description": "Charli xcx, Cano con Yapi, Metrika, Barry B y el resto de novedades de la semana.",
-  "num_followers": 409422,
+  "num_followers": 409910,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,38 @@
       "duration_ms": 148826,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
+    },
+    {
+      "added_at": "2026-07-23 22:01:19",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-07-23 22:01:19",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-07-23 22:01:19",
@@ -720,8 +752,8 @@
           "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 171272,
+      "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
     },
     {
@@ -775,6 +807,26 @@
       "duration_ms": 169411,
       "name": "me haces olvidar :')",
       "url": "https://open.spotify.com/track/0M8lqPiPCS7YC82JRgD1e9"
+    },
+    {
+      "added_at": "2026-07-23 22:01:19",
+      "album": {
+        "name": "El Suerte",
+        "url": "https://open.spotify.com/album/7fBWD3RRp04COdXAOdfLcI"
+      },
+      "artists": [
+        {
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "BASS.SEISMIC",
+          "url": "https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "El Suerte",
+      "url": "https://open.spotify.com/track/6hJtxZmZ5tVVoacLqjmrm9"
     },
     {
       "added_at": "2026-07-23 22:01:19",
@@ -894,10 +946,6 @@
         {
           "name": "M\u00eda Berl\u00edn",
           "url": "https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX"
-        },
-        {
-          "name": "Hoonine",
-          "url": "https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp"
         }
       ],
       "duration_ms": 173076,

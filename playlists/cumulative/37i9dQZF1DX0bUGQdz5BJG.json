@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your ears on the ground in Music City. Cover: Mae Estes",
+  "description": "Your ears on the ground in Music City. Cover: Blake Proehl",
   "name": "Coming Up Country",
   "tracks": [
     {
@@ -7945,6 +7945,46 @@
     },
     {
       "album": {
+        "name": "Bone Dry",
+        "url": "https://open.spotify.com/album/3NTouxNFNKBfH7aqU4tqiQ"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235165,
+      "name": "Bone Dry",
+      "url": "https://open.spotify.com/track/16nDTIkJuFmtlFDGn0oOkl"
+    },
+    {
+      "album": {
+        "name": "Bones and Dust",
+        "url": "https://open.spotify.com/album/3awFxz43n1fR8dTIcvfKkL"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        },
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171529,
+      "name": "Bones and Dust",
+      "url": "https://open.spotify.com/track/0XkJjzhTeDQv82gtOlo063"
+    },
+    {
+      "album": {
         "name": "Bonfire In My Soul",
         "url": "https://open.spotify.com/album/4SNkbhCzp3YPlPYxMcJvq1"
       },
@@ -11782,6 +11822,24 @@
       "duration_ms": 302377,
       "name": "Circling Around It",
       "url": "https://open.spotify.com/track/3Onnpde2UuriBUVPZdnQaz"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4251N7HsF65KjwM2yVQCvR"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5WiiNdKEQUnRP9Wst39PIr"
     },
     {
       "album": {
@@ -17574,7 +17632,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 142222,
       "name": "Down to the Filter",
       "url": "https://open.spotify.com/track/6rBvVmAbxOQx3o6hB1xR0P"
@@ -17758,7 +17816,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 151946,
       "name": "Drag, Queen",
       "url": "https://open.spotify.com/track/6d9D2MSdnxha0mkcJxXb1w"
@@ -18198,6 +18256,24 @@
       "duration_ms": 186292,
       "name": "Drinkin' Problems",
       "url": "https://open.spotify.com/track/1D1IChY9GoX2yuRr5J0CJv"
+    },
+    {
+      "album": {
+        "name": "Drinkin' Well",
+        "url": "https://open.spotify.com/album/4MenO1HIiiXKIzamDSq72X"
+      },
+      "artists": [
+        {
+          "name": "Madden Metcalf",
+          "url": "https://open.spotify.com/artist/6GtOqnhdtDDMhoNAf8ox1D"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Drinkin' Well",
+      "url": "https://open.spotify.com/track/32OY2yNqJmtkS8y5Tq6M42"
     },
     {
       "album": {
@@ -18853,6 +18929,24 @@
     },
     {
       "album": {
+        "name": "East Texas Beauty Queen",
+        "url": "https://open.spotify.com/album/5X6HzmsVZVLbbZnlqrpR61"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wendell",
+          "url": "https://open.spotify.com/artist/7MtdY1LjSnjTTKJHGmHqf3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "East Texas Beauty Queen",
+      "url": "https://open.spotify.com/track/56wy7eLSTwEnuFGqAoaOUO"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/79OO0st0snQXQfIIZH8n0E"
       },
@@ -18961,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "Easy To Be Lonely",
+        "url": "https://open.spotify.com/album/23G8Jwjy95MwqdKEnjdAf0"
+      },
+      "artists": [
+        {
+          "name": "Love and Theft",
+          "url": "https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217868,
+      "name": "Easy To Be Lonely",
+      "url": "https://open.spotify.com/track/59jvQ8Q7NWnVAL9hA5y9l8"
+    },
+    {
+      "album": {
         "name": "Easy to Leave",
         "url": "https://open.spotify.com/album/3v1UhdUB9jhV6KLPeZ6X23"
       },
@@ -19012,6 +19124,24 @@
       "duration_ms": 175446,
       "name": "EASY TONIGHT",
       "url": "https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/34tsFA1mDYXKwQwftxdaRn"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164459,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2KmdbbNMogWVDyy1oq3AWT"
     },
     {
       "album": {
@@ -20152,7 +20282,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156875,
       "name": "Fallin' Easy",
       "url": "https://open.spotify.com/track/3iq8bOjlhdZoAT7Ghnd6b9"
@@ -20390,7 +20520,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 220165,
       "name": "Farm Truck",
       "url": "https://open.spotify.com/track/3nJ4CQIJJ4UmFWng8ByXbL"
@@ -24560,7 +24690,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 233516,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5lQwccucQwc7UR8zZyKkNR"
@@ -30545,6 +30675,24 @@
     },
     {
       "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/0k3chsig96Do9PhjHQRSBc"
+      },
+      "artists": [
+        {
+          "name": "CeCe",
+          "url": "https://open.spotify.com/artist/3o3cMu8wu8ANNYLo660Sgs"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158481,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/4jUtPEnDawZi0hFRDmSMbm"
+    },
+    {
+      "album": {
         "name": "Hour with You",
         "url": "https://open.spotify.com/album/1xcKPrSGJrx7cjx2yHPmzl"
       },
@@ -31992,7 +32140,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 220446,
       "name": "I Do Or Die",
       "url": "https://open.spotify.com/track/47HnrZ0zQDNg7upcgOtqyu"
@@ -34674,7 +34822,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185467,
       "name": "If You Know",
       "url": "https://open.spotify.com/track/7nki95n3XOj7QvzdiHBrNs"
@@ -35786,6 +35934,24 @@
       "duration_ms": 266065,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/2byoKiz5tYuV3iry48yXiU"
+    },
+    {
+      "album": {
+        "name": "Jesse James",
+        "url": "https://open.spotify.com/album/3r8UCuOiZxc1jAmMiaCj4j"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210290,
+      "name": "Jesse James",
+      "url": "https://open.spotify.com/track/21XM7GKQFQq46NzbSyKIzF"
     },
     {
       "album": {
@@ -37062,6 +37228,24 @@
       "duration_ms": 184530,
       "name": "Knock Off",
       "url": "https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E"
+    },
+    {
+      "album": {
+        "name": "In My Blood (DELUXE)",
+        "url": "https://open.spotify.com/album/43klcJDoekIAF9uqlemAuf"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223851,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/0GY6UR9Hz21w9fYL1bVhma"
     },
     {
       "album": {
@@ -44016,7 +44200,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 246663,
       "name": "Meet You In The Morning",
       "url": "https://open.spotify.com/track/08WfeV7j45LP6qikYR4Agp"
@@ -46245,6 +46429,24 @@
     },
     {
       "album": {
+        "name": "Mysterious Ways",
+        "url": "https://open.spotify.com/album/3Te1iVvBmmXVs2SGhbyyNZ"
+      },
+      "artists": [
+        {
+          "name": "Emma Smalley",
+          "url": "https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224267,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/0S0esRxg8ldboAm5abxsnb"
+    },
+    {
+      "album": {
         "name": "Naming Boats",
         "url": "https://open.spotify.com/album/3bbAO5CmtuHBZSnTdgaoDO"
       },
@@ -46786,6 +46988,24 @@
       "duration_ms": 183479,
       "name": "Never Loved Before",
       "url": "https://open.spotify.com/track/49HKQArEf3pcenv1NdmYd3"
+    },
+    {
+      "album": {
+        "name": "Never Mine",
+        "url": "https://open.spotify.com/album/5J11l83dJCkvb2CRV2ucNn"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197838,
+      "name": "Never Mine",
+      "url": "https://open.spotify.com/track/25MeMF8ej2qNAwT9honyHR"
     },
     {
       "album": {
@@ -49512,7 +49732,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173980,
       "name": "One Day at a Time",
       "url": "https://open.spotify.com/track/1He5CwgRo92UIjuj6wwkos"
@@ -49566,7 +49786,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187257,
       "name": "One Foot In The Grave",
       "url": "https://open.spotify.com/track/5XlVpTAqEjTSObcD3Zql82"
@@ -50402,6 +50622,28 @@
       "duration_ms": 185138,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/6iq2JqMfGrkYtorkmZhgT3"
+    },
+    {
+      "album": {
+        "name": "Out of the Flames",
+        "url": "https://open.spotify.com/album/3VujsHTcbl4t4atx3OzscM"
+      },
+      "artists": [
+        {
+          "name": "Blake Tyler",
+          "url": "https://open.spotify.com/artist/51u8UtHI6ws0n4gCdqblFS"
+        },
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249187,
+      "name": "Out of the Flames",
+      "url": "https://open.spotify.com/track/32QNzKM3Gsrtuxkg33roUj"
     },
     {
       "album": {
@@ -55937,6 +56179,24 @@
     },
     {
       "album": {
+        "name": "Sand In The Sheets",
+        "url": "https://open.spotify.com/album/4TuwqJXJtbEURc4ZjRku5s"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204297,
+      "name": "Sand In The Sheets",
+      "url": "https://open.spotify.com/track/0p6ndUhP4vbZV0T9QOJr5h"
+    },
+    {
+      "album": {
         "name": "SANDCASTLES",
         "url": "https://open.spotify.com/album/298jKwz2Z9kwYkLziUZWwE"
       },
@@ -57124,7 +57384,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 154734,
       "name": "She Got It",
       "url": "https://open.spotify.com/track/1pYqjfBoWA5d0pPAgPXioF"
@@ -58176,7 +58436,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191440,
       "name": "SINS OF THE FATHER",
       "url": "https://open.spotify.com/track/5x6R8iVbrSkScpbiaAPxNI"
@@ -58670,7 +58930,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200786,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/4T6nNL3fgUPbGVkHrPH7hJ"
@@ -59979,6 +60239,24 @@
     },
     {
       "album": {
+        "name": "Something To Drink About",
+        "url": "https://open.spotify.com/album/7kcQGGV1gSe9mJ1oljnnKU"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194176,
+      "name": "Something To Drink About",
+      "url": "https://open.spotify.com/track/3oaMlcSI2a86G5Ns0grvDg"
+    },
+    {
+      "album": {
         "name": "Something To Lose (feat. Corey Harper)",
         "url": "https://open.spotify.com/album/4nhGiAeip6FGIyx9YmSOwp"
       },
@@ -60532,7 +60810,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175372,
       "name": "Sound Of The Summer",
       "url": "https://open.spotify.com/track/0SnRYPu25tSKPTRfjdIvhI"
@@ -63435,6 +63713,24 @@
     },
     {
       "album": {
+        "name": "Take Tallahassee",
+        "url": "https://open.spotify.com/album/0XqqHJ1OKgHHGseVKsldEL"
+      },
+      "artists": [
+        {
+          "name": "McCall Chapin",
+          "url": "https://open.spotify.com/artist/1p1vSCajXqjtztjnfu3xuB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Take Tallahassee",
+      "url": "https://open.spotify.com/track/267sH29Twv8BJoDhqLtjGq"
+    },
+    {
+      "album": {
         "name": "Take the Girl",
         "url": "https://open.spotify.com/album/05cFiUNII2tksxxOymOtsj"
       },
@@ -64956,6 +65252,24 @@
       "duration_ms": 199666,
       "name": "The Addict & The Angel",
       "url": "https://open.spotify.com/track/5ylTKAjnHOPOIpfGjdI7xm"
+    },
+    {
+      "album": {
+        "name": "SINS OF THE FATHER",
+        "url": "https://open.spotify.com/album/4G4CaCxxibePJAvrvar3t0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "THE ADDICTION",
+      "url": "https://open.spotify.com/track/69PS4Nb3TiHizZLC3DpDBk"
     },
     {
       "album": {
@@ -66934,7 +67248,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 199746,
       "name": "These Please",
       "url": "https://open.spotify.com/track/0Fx6ziXjr2wgNL253ZnrDq"
@@ -69186,7 +69500,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186318,
       "name": "Trippin'",
       "url": "https://open.spotify.com/track/5FHmYI5UFXw64NsXjYDnP9"
@@ -70728,7 +71042,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 206518,
       "name": "Vacation From This Vacation",
       "url": "https://open.spotify.com/track/4wj2T0k6JbtPpDGX25MQvv"
@@ -71164,7 +71478,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 128619,
       "name": "Wanted Man",
       "url": "https://open.spotify.com/track/7IHd7kUPOX0jCHphbI7XrL"
@@ -72930,7 +73244,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 164878,
       "name": "Whatchu Waitin' For",
       "url": "https://open.spotify.com/track/44ltBFYfCQTmVUzdvqfVZJ"
@@ -75016,6 +75330,24 @@
       "duration_ms": 246786,
       "name": "Wild Is Her Favorite Color",
       "url": "https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp"
+    },
+    {
+      "album": {
+        "name": "Wild Magnolia",
+        "url": "https://open.spotify.com/album/3LMHhvIBKIBhs8jxciH7Yb"
+      },
+      "artists": [
+        {
+          "name": "Blake Proehl",
+          "url": "https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163709,
+      "name": "Wild Magnolia",
+      "url": "https://open.spotify.com/track/2Kslp3T8FewWKzvMKI4qXE"
     },
     {
       "album": {
@@ -77994,6 +78326,24 @@
       "duration_ms": 182086,
       "name": "your place",
       "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
+    },
+    {
+      "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/34qBVCRBCJ4pKD79qWd2B4"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174103,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5bXzQYpTI9xkeU1lVUg2g1"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Yacht Rock Revival](https://open.spotify.com/playlist/37i9dQZF1DX4TJ9HJlcZl3)
 
-> Still yachting\. Cover: Yacht Rock Revue
+> Still yachting\. Cover: TOAST CLUB
 
-133 songs - 8 hr 15 min
+134 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2019](https://open.spotify.com/track/25bz0ElvMNDwLzB7Yqc4qh) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [2019](https://open.spotify.com/album/6g4eyoBXydjgecxElEgxMM) | 3:15 | 2025-07-04 |  |
 | [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-01-06 |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-22 |  |
+| [Alexandria](https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY) | [TOAST CLUB](https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG) | [Lift](https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK) | 4:37 | 2026-07-24 |  |
 | [Apartment \(feat\. Benny Sings\)](https://open.spotify.com/track/3bt6rnq9mCrq1XStEcGaNl) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:04 | 2022-10-21 | 2023-01-14 |
 | [Back On The Music!](https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:27 | 2022-10-21 | 2024-04-19 |
 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 | 2025-07-05 |
@@ -79,7 +80,7 @@
 | [One Bedroom Apartment](https://open.spotify.com/track/3mObCivWwBNhjGn1lNqtk2) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [Mirror In a Gold Mine](https://open.spotify.com/album/1kOf4AbczjMcNaRMb4HiVN) | 3:36 | 2024-02-23 | 2024-04-19 |
 | [One Bedroom Apartment](https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA) | [MAXN](https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL) | [One Bedroom Apartment](https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im) | 3:36 | 2024-02-23 |  |
 | [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 | 2022-11-11 | 2025-10-25 |
-| [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 |  |
+| [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 | 2026-07-25 |
 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 | 2022-10-21 | 2024-01-27 |
 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 | 2024-03-22 |  |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 | 2022-10-31 |

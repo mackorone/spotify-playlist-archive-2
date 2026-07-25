@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35641,
+  "num_followers": 35647,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACJKhFREdQTkseRCtUJVVTX",
+  "snapshot_id": "amFZgAAAAADrSpIOy7nrQwsBZscKKDNd",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In a Reverie",
-        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 307266,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
+      "duration_ms": 236266,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "In a Reverie",
+        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 236266,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
+      "duration_ms": 307266,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
     },
     {
       "added_at": null,

@@ -10198,7 +10198,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 165583,
       "name": "Bendecidos x la cumbia",
       "url": "https://open.spotify.com/track/6sSaCRi5RW9TWxxSimwRqO"
@@ -61425,6 +61425,24 @@
     },
     {
       "album": {
+        "name": "No Era De Oro",
+        "url": "https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152929,
+      "name": "No Era De Oro",
+      "url": "https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo"
+    },
+    {
+      "album": {
         "name": "No Es Amor",
         "url": "https://open.spotify.com/album/7qjPKO4q6E0thxWfehmSgI"
       },
@@ -69022,7 +69040,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 208917,
       "name": "Pegadito",
       "url": "https://open.spotify.com/track/3IxIGAU3fWQNtIVPNPkLB9"
@@ -75030,6 +75048,24 @@
       "duration_ms": 209000,
       "name": "Que Voy a Hacer",
       "url": "https://open.spotify.com/track/5PeTkjViSGyv9Zo8Gq9QjQ"
+    },
+    {
+      "album": {
+        "name": "Que Vuelva \u00c9l",
+        "url": "https://open.spotify.com/album/0FvsSNGlPYDcUktr0Dh6ch"
+      },
+      "artists": [
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128328,
+      "name": "Que Vuelva \u00c9l",
+      "url": "https://open.spotify.com/track/7JipH03etH0ZSWDVB62th7"
     },
     {
       "album": {

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "al90HwAAAAA/4hm0Lv6Al0JCpNA9FBtc",
+  "snapshot_id": "amN0TQAAAABjn1ihq/A0BoHYrVdfu/2p",
   "tracks": [
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0j3pGzN20rbBYIrtku89pA"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -45,7 +45,55 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 159126,
+      "name": "Basketball",
+      "url": "https://open.spotify.com/track/59bAebVUMSwUztOOr1Zaoj"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 240793,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Physical (feat. Troye Sivan)",
         "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
@@ -65,123 +113,7 @@
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "DEADMEAT",
-        "url": "https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 172322,
-      "name": "DEADMEAT",
-      "url": "https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 240793,
-      "name": "BOOMBAYAH",
-      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Descendants (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "TIT FOR TAT",
-      "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 215157,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
@@ -197,107 +129,39 @@
       "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+        "name": "DEADMEAT",
+        "url": "https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+      "duration_ms": 172322,
+      "name": "DEADMEAT",
+      "url": "https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
+      "duration_ms": 210200,
+      "name": "eternal sunshine",
+      "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/61Oyg0lrAOMjBpEStqfOZ1"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Pop Sound",
-        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171172,
-      "name": "Pop Sound",
-      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/0w1qp04v2zehJXctW0JPjy"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "LoveGame",
-      "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -317,7 +181,239 @@
       "url": "https://open.spotify.com/track/4ktgVQZCBvSMfHGzC8UVYz"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 195154,
+      "name": "Need For Speed",
+      "url": "https://open.spotify.com/track/0tPHaEYDcwjrMhGCgbgP4a"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 194765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 215157,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/61Oyg0lrAOMjBpEStqfOZ1"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/0w1qp04v2zehJXctW0JPjy"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "LoveGame",
+      "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
+    },
+    {
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Psycho Killer",
         "url": "https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA"
@@ -333,7 +429,7 @@
       "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Look at My Life",
         "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
@@ -349,7 +445,7 @@
       "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "DIRTY BLONDE",
         "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
@@ -365,7 +461,7 @@
       "url": "https://open.spotify.com/track/5Y13e2IoBqskImCLyqHdEc"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
@@ -385,7 +481,7 @@
       "url": "https://open.spotify.com/track/67AsY37QLcrGNo3XASthOg"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
@@ -401,7 +497,7 @@
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
     },
     {
-      "added_at": "2026-07-21 13:29:03",
+      "added_at": "2026-07-24 14:18:53",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -415,126 +511,6 @@
       "duration_ms": 215799,
       "name": "Everybody\u2019s Gay",
       "url": "https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Sweet but Psycho (The Remixes)",
-        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Sweet but Psycho - Ricky Retro Remix",
-      "url": "https://open.spotify.com/track/1Y9KiR7TsIe94igPTzxcrn"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "UCB (Uncalled 4 Band)",
-          "url": "https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
-      "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "End Game",
-      "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
-    },
-    {
-      "added_at": "2026-07-21 13:29:03",
-      "album": {
-        "name": "Sweet but Psycho (The Remixes)",
-        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Paul Morrell",
-          "url": "https://open.spotify.com/artist/6j1mNIIhInjB8jf28UMVuq"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "Sweet but Psycho - Paul Morrell Remix",
-      "url": "https://open.spotify.com/track/3sQv4xcmrt3kikM5TohrhD"
     }
   ],
   "unique_name": "On Repeat",

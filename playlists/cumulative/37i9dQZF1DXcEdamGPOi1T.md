@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-543 songs - 1 day 4 hr 40 min
+545 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Femme Like U \- J](https://open.spotify.com/track/4dVIIxSQlGlRQ2v1kXcSL0) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [MAYKO](https://open.spotify.com/artist/6HN3vDScmw1RmWghiRao5U) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 2:10 | 2022-05-27 | 2022-07-14 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-05-27 | 2022-07-04 |
 | [Feu](https://open.spotify.com/track/5akYStB7cnYV9614KjB2Om) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [EP3](https://open.spotify.com/album/1Oq27yGxo4F5JKeCYJFm2z) | 3:37 | 2022-05-27 | 2022-07-29 |
+| [Fille de personne II](https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:58 | 2026-07-24 |  |
 | [Fille de personne II](https://open.spotify.com/track/6u3A43RMR8Tqrw8aYZT1Yd) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/7srFd7AV5G7XVax2zMYHVa) | 3:58 | 2022-05-27 | 2022-06-09 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-05-27 | 2022-07-29 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-08-27 | 2024-03-30 |
@@ -287,7 +288,7 @@
 | [Lost](https://open.spotify.com/track/5YLcn3phEgL6CPwZszT9Uu) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lost](https://open.spotify.com/album/6IS8A4ifndtdmwvCY5r2rp) | 3:08 | 2022-05-27 | 2022-06-18 |
 | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok) | [KEVIN DAVE](https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4), [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs) | 3:15 | 2023-08-25 | 2023-09-09 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-04-21 | 2023-06-18 |
-| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 |  |
+| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 | 2026-07-25 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-04 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-05-27 | 2024-03-30 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-06-04 |  |
@@ -295,7 +296,7 @@
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-05-27 | 2022-07-29 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-03-29 | 2024-04-20 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2022-07-26 | 2024-04-19 |
-| [LYNA](https://open.spotify.com/track/2ZizTkAYMGtjOXeGCAziZY) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [LYNA](https://open.spotify.com/album/4rqyOXZ0fycFvV4THYD3Q8) | 2:10 | 2026-06-26 |  |
+| [LYNA](https://open.spotify.com/track/2ZizTkAYMGtjOXeGCAziZY) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [LYNA](https://open.spotify.com/album/4rqyOXZ0fycFvV4THYD3Q8) | 2:10 | 2026-06-26 | 2026-07-25 |
 | [Léa](https://open.spotify.com/track/3fCaC9bSUH4dG24RhDYcba) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Léa](https://open.spotify.com/album/67woYgYe60Ig41gtjvPhfL) | 2:55 | 2025-06-13 | 2026-05-05 |
 | [L’ironie du sort](https://open.spotify.com/track/3bXmv3vHYHWdCaj3XnxsbS) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Le ciel est au plancher](https://open.spotify.com/album/6jjFXEMWjC8uFPyp9cUlQX) | 4:06 | 2022-05-27 | 2022-07-15 |
 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 | 2023-05-26 | 2024-03-30 |
@@ -502,6 +503,7 @@
 | [Toko Toko](https://open.spotify.com/track/11jljbDlwqMyvQdepjse5G) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Toko Toko](https://open.spotify.com/album/3Op7cAYJ0VWN4NUAgICcMQ) | 2:54 | 2022-05-27 | 2022-07-28 |
 | [Tokébakicitte](https://open.spotify.com/track/60hf8p6QGVYHNbdG82DmM3) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Tokébakicitte](https://open.spotify.com/album/7GeLUcKzeuVU28PxiLJO9o) | 2:50 | 2022-05-27 | 2022-07-27 |
 | [Top Dogs](https://open.spotify.com/track/0I0s3opJhCWhvm8MAUzfDF) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Top Dogs](https://open.spotify.com/album/0M0yE4Q0Y7cbJDKdmDWQ4v) | 1:47 | 2024-08-02 | 2024-08-17 |
+| [Tout nu sur la plage](https://open.spotify.com/track/1RcGvynfBjrDc8wCYwrNVI) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Grand champion international de course](https://open.spotify.com/album/5ids7qGNuA9v1ihCipKIAX) | 3:35 | 2026-07-24 |  |
 | [Toutes les femmes savent danser](https://open.spotify.com/track/4wWe5g3mTIJ72lq8BIIgX2) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Une année record](https://open.spotify.com/album/69uk7o6mVn1hPr4HAn1NEO) | 2:41 | 2024-04-19 | 2026-05-05 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-04-07 | 2024-04-20 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-29 |  |

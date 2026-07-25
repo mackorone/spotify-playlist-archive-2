@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,042 songs - 2 day 6 hr 1 min
+1,044 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [19](https://open.spotify.com/track/708hXPrY8mxgKSvAZUq4Yz) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:04 | 2021-05-01 | 2022-04-18 |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-14 | 2023-08-26 |
 | [24 Miles](https://open.spotify.com/track/0TVcx4ZQkphKpnlJBfynOh) | [Banana Club](https://open.spotify.com/artist/21jJgmn55x4tPiuHtZhFnt) | [24 Miles](https://open.spotify.com/album/6OrHh4eI0hFqtMXM8e4aiF) | 3:32 | 2020-04-25 | 2021-08-28 |
-| [24hrs a Day](https://open.spotify.com/track/1uUSVWi7XRdePB35zvi5oT) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [24hrs a Day](https://open.spotify.com/album/3lfkoChPIsMQnjlV15qXMc) | 3:46 | 2026-05-08 |  |
+| [24hrs a Day](https://open.spotify.com/track/1uUSVWi7XRdePB35zvi5oT) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [24hrs a Day](https://open.spotify.com/album/3lfkoChPIsMQnjlV15qXMc) | 3:46 | 2026-05-08 | 2026-07-25 |
 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-03-26 | 2024-04-24 |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2019-07-30\* | 2025-12-12 |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-05-16 | 2021-05-26 |
@@ -139,7 +139,7 @@
 | [by the way](https://open.spotify.com/track/17xOw3AysUwcuQSlBF5MGk) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [by the way](https://open.spotify.com/album/0MPLvOSvvBVjwoh0vGye1u) | 3:44 | 2021-07-19 | 2022-04-19 |
 | [BYE MARY](https://open.spotify.com/track/6aGYPRIefWhKWrhPzbUZ0u) | [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [BYE MARY](https://open.spotify.com/album/61uSNUxqzRT3RyIbabonkP) | 3:49 | 2021-04-29 | 2021-05-28 |
 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 | 2022-12-16 | 2023-04-18 |
-| [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 | 2023-09-22 |  |
+| [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 | 2023-09-22 | 2026-07-25 |
 | [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2021-05-14 | 2022-04-18 |
 | [california](https://open.spotify.com/track/6eoWoUh6l0nakMkDcu4KoZ) | [Yung Sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS) | [california](https://open.spotify.com/album/2iF1JbNztUAjvzK75H5xio) | 3:22 | 2021-06-25 | 2022-04-21 |
 | [Call Me](https://open.spotify.com/track/2qAac8PPFmOcrg9B24VCir) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:26 | 2020-01-11 | 2020-01-12 |
@@ -213,6 +213,7 @@
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2019-07-30\* | 2021-05-28 |
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-14 | 2023-09-15 |
 | [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-05-04 | 2021-08-23 |
+| [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-24 |  |
 | [Crazy](https://open.spotify.com/track/77QrmJAISNg6ZRGikScJlC) | [David Alexander](https://open.spotify.com/artist/7jMD8qussUFQ1e592MW1IW) | [Crazy](https://open.spotify.com/album/0wxRO9sqeW8WPKtLD6xXBZ) | 3:13 | 2020-04-04 | 2021-05-27 |
 | [Crazy4luvinU](https://open.spotify.com/track/6Dw7rNYiTWUXpcQHUHPwuw) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Crazy4luvinU](https://open.spotify.com/album/5nVqYXRnyXUt5ivHLh1NKk) | 4:00 | 2019-07-30\* | 2021-03-21 |
 | [Credit Cards & Broken Hearts](https://open.spotify.com/track/52XS88338FZguGxpNrnhXP) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Credit Cards & Broken Hearts](https://open.spotify.com/album/2MumBrLTZY6ZFJXQamIyok) | 2:57 | 2021-02-24 | 2021-05-24 |
@@ -512,6 +513,7 @@
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2022-12-14 | 2023-04-18 |
 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 | 2023-04-17 |  |
 | [jumping fences](https://open.spotify.com/track/6IVXdJ2XwnSC2d8fmlxm9a) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom ep](https://open.spotify.com/album/7qljxFgUpYIjtET02dhosV) | 2:15 | 2021-11-19 | 2022-04-20 |
+| [just us](https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [just us](https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3) | 3:10 | 2026-07-24 |  |
 | [K](https://open.spotify.com/track/4GqSKIMnJJMimjSKahe5dQ) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [1980](https://open.spotify.com/album/4UuxoPvXlE01WnRhfI117v) | 3:22 | 2021-06-04 | 2022-04-21 |
 | [Keeping Tabs \(feat\. Suscat0\)](https://open.spotify.com/track/1KypMTzxfo8NNIZ30lanZa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Suscat0](https://open.spotify.com/artist/7nvJjdjzjiEaCQXOO3qKQc) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 4:08 | 2019-11-10 | 2021-05-25 |
 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 | 2021-02-27 | 2022-12-15 |

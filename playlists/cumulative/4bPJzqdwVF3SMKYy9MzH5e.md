@@ -4,7 +4,7 @@
 
 > 
 
-2,428 songs - 5 day 10 hr 30 min
+2,429 songs - 5 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1232,6 +1232,7 @@
 | [Lets Link](https://open.spotify.com/track/6fMzgFFGzWCwiHMzDzNpp5) | [WhoHeem](https://open.spotify.com/artist/5KYEMMz9O9iLIESifKAEOp) | [Lets Link](https://open.spotify.com/album/6M562iDRj7JIB2nvrahv0O) | 2:39 | 2021-08-05 |  |
 | [Letting A New Day Begin](https://open.spotify.com/track/1We5almLPSlFDsUGzJ1DeX) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [Dopamine Machine 2](https://open.spotify.com/album/2HCb4GnmQIp84i1ghqzVss) | 2:01 | 2025-06-20 |  |
 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 | 2021-12-30 |  |
+| [Lexapro Delirium](https://open.spotify.com/track/2LtWGOsyqmd88HCHX3hNn6) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:15 | 2026-07-24 |  |
 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 | 2021-08-05 |  |
 | [Life Letters](https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS) | [Never Get Used To People](https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ) | [Life Letters](https://open.spotify.com/album/2f5voeeirzSQBRR4ovCNnD) | 2:28 | 2022-09-23 |  |
 | [Lights Out](https://open.spotify.com/track/0YKPrW5i0gcJ9e5GNSAQti) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly) | 2:37 | 2021-08-05 |  |

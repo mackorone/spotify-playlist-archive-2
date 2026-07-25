@@ -2,9 +2,9 @@
 
 ### [Global R&B](https://open.spotify.com/playlist/37i9dQZF1DWXjo7kaCGuCU)
 
-> Celebrating 20 years of R&B from around the world
+> R&B from around the world
 
-106 songs - 5 hr 59 min
+109 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 | 2026-05-12 |  |
 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 | 2026-05-12 |  |
 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 | 2026-05-12 |  |
-| [Decile \- Remix](https://open.spotify.com/track/6vSUJ3N18GyGxxFOjeSF36) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [B.A.E.Z](https://open.spotify.com/album/3SAySuvjZwtjRF5gkHpkML) | 2:57 | 2026-05-12 |  |
+| [Decile \- Remix](https://open.spotify.com/track/6vSUJ3N18GyGxxFOjeSF36) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [B.A.E.Z](https://open.spotify.com/album/3SAySuvjZwtjRF5gkHpkML) | 2:57 | 2026-05-12 | 2026-07-25 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2026-05-12 |  |
 | [Deus Deus](https://open.spotify.com/track/0Qrm0QyIXutGY2nPJxS3tD) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 4:03 | 2026-05-12 |  |
 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 | 2026-05-12 |  |
@@ -58,11 +58,13 @@
 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 | 2026-05-12 | 2026-06-13 |
 | [Honey Honey](https://open.spotify.com/track/1NX7EOqKo7KW3YmquIAa29) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:59 | 2026-05-12 |  |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2026-05-12 |  |
+| [HOT TUBS](https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:57 | 2026-07-24 |  |
 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 | 2026-05-12 |  |
 | [In2](https://open.spotify.com/track/1hu2dRGo6kxbvc7NuNGD4v) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [In2](https://open.spotify.com/album/3E7xhVj2Ym5XCyS0zBlNJQ) | 4:02 | 2026-05-12 |  |
 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 | 2026-05-12 |  |
-| [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 | 2026-05-12 |  |
+| [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 | 2026-05-12 | 2026-07-25 |
 | [Lil' Obsession](https://open.spotify.com/track/6p22RzCyan2i6nyM0LmFoL) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:01 | 2026-05-12 | 2026-06-13 |
+| [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 | 2026-07-24 |  |
 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 | 2026-05-12 | 2026-06-13 |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2026-05-12 |  |
 | [minute](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 2:59 | 2026-06-12 |  |
@@ -71,9 +73,9 @@
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3r3PUPpBBkLVfApv3iXwvt) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:27 | 2026-05-12 |  |
 | [NVMD](https://open.spotify.com/track/6AKE1FrWrErXkOulZq6FoA) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7wMtmXiBVSfFSddGbH61JW) | 3:01 | 2026-05-12 |  |
 | [OG Luv Kush pt.2](https://open.spotify.com/track/2FGz8KTEn9m8xu9LHF3JIB) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [OG Luv Kush pt.2](https://open.spotify.com/album/4QxqcWjXQrkiTxlap4e3pY) | 2:39 | 2026-05-12 |  |
-| [OMG](https://open.spotify.com/track/08Le4mCaGYbQrmfjtKThnO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:14 | 2026-05-12 |  |
+| [OMG](https://open.spotify.com/track/08Le4mCaGYbQrmfjtKThnO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:14 | 2026-05-12 | 2026-07-25 |
 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 | 2026-06-12 |  |
-| [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2026-05-12 |  |
+| [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2026-05-12 | 2026-07-25 |
 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 | 2026-05-12 |  |
 | [Peak \(Fed Up\)](https://open.spotify.com/track/5CHmwR7t8clAK5Ag7uA5pI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/1sC6WmqaHb3STWCWb9v5zQ) | 3:08 | 2026-05-12 |  |
 | [pensando direito](https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [pensando direito](https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC) | 3:55 | 2026-05-12 |  |
@@ -96,6 +98,7 @@
 | [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 | 2026-05-12 |  |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2026-05-12 |  |
 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 | 2026-05-12 |  |
+| [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 | 2026-07-24 |  |
 | [Superstars](https://open.spotify.com/track/5NtZlpRVomRYn5FYVwAYtO) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [NINETYNINE](https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE) | 2:19 | 2026-05-12 |  |
 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 | 2026-05-12 |  |
 | [Sweeta](https://open.spotify.com/track/4minQAokut1H7SBwPZKwtg) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Sweeta](https://open.spotify.com/album/4yzLR6HrG4b0lzjDqIXq8Y) | 2:47 | 2026-05-12 |  |

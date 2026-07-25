@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-283 songs - 12 hr 26 min
+285 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 | 2022-08-03 | 2024-10-01 |
 | [My Beloved Twin Flame...](https://open.spotify.com/track/0h7S5ygplBgAWP990wIRs6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 2:47 | 2022-08-03 | 2025-01-22 |
 | [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 | 2025-11-05 |  |
+| [My Quiet Space](https://open.spotify.com/track/2OfkVvRee6b3Q49xTGyWp0) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [My Quiet Space](https://open.spotify.com/album/30xDwD3DptaFLKP3A8LPwd) | 2:13 | 2026-07-24 |  |
 | [Nayarit](https://open.spotify.com/track/1LPwD2EN0JPd8JcQze7TlP) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Nayarit](https://open.spotify.com/album/2Rf5sGCzqXeeQZMn98orMF) | 2:55 | 2025-01-14 |  |
 | [No borders](https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [No borders](https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi) | 2:36 | 2024-11-12 |  |
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 | 2026-05-09 |
@@ -284,6 +285,7 @@
 | [What Matters Most](https://open.spotify.com/track/597PVVj8epaZ5L8vmHvNlW) | [Art Bandini](https://open.spotify.com/artist/5qCbYD7FoGfRfi4UpgiVko) | [What Matters Most](https://open.spotify.com/album/5iExwcFIoM0ZNzalpnrOKW) | 2:40 | 2022-08-03 | 2025-01-22 |
 | [When Nothing Moves](https://open.spotify.com/track/1HYF6JEbHueXwdp2IS6pvW) | [Noelia Wren](https://open.spotify.com/artist/70ntk5onraJMhsdQUE1Wc9) | [When Nothing Moves](https://open.spotify.com/album/6H5koLQAJwPBa4MUB8Nhol) | 1:55 | 2026-05-15 |  |
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-21 | 2026-06-11 |
+| [Where Has She Gone](https://open.spotify.com/track/1wZR8JCD9Td83WcOyJN4eL) | [melodious monk](https://open.spotify.com/artist/41ROkiY5iBv0FueTcFeXHb) | [Where Has She Gone](https://open.spotify.com/album/1DySoz9gO9Equg23zVLDJa) | 2:49 | 2026-07-24 |  |
 | [Where I Stay](https://open.spotify.com/track/3n7zWrG2hPraSSvE5XWfrb) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Where I Stay](https://open.spotify.com/album/0IGGZTRFKIQ7qgijnkfC7w) | 2:11 | 2026-05-15 |  |
 | [Where the Wind Waits](https://open.spotify.com/track/1tTCMFClfgFj09xMleaIzE) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Where the Wind Waits](https://open.spotify.com/album/5PQ2sfB3QIjSh8nXVLOA3K) | 2:36 | 2025-07-07 |  |
 | [Willmine](https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Fredenwalde \- Teil I](https://open.spotify.com/album/6qdMFbDQ5og47ujZmZjwhF) | 3:31 | 2022-08-03 | 2023-06-21 |

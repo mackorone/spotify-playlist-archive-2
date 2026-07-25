@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle, Bảo Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,093 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 32 | [BẮT ĐỀN](https://open.spotify.com/track/6EMhgphKqMdathcCEvWsV8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [BẮT ĐỀN](https://open.spotify.com/album/5Q0iUsx0PaBlrgMquaIz4M) | 2:49 |
 | 33 | [Buông](https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Buông](https://open.spotify.com/album/6ub8yuzsgJbYRdTd0ZgmLp) | 3:25 |
 
-Snapshot ID: `AAAAAI74iqYBKJRsqaDNtIrJfzeKoG8B`
+Snapshot ID: `AAAAADkmlHetMm9VJ0CvhReAMPbpSpyr`

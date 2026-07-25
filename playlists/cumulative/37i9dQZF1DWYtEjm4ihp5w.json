@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "103",
+      "url": "https://open.spotify.com/track/3p59xsENCUBnCC4biGR9GK"
+    },
+    {
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
       },
@@ -1468,6 +1486,32 @@
       "duration_ms": 112000,
       "name": "BREDA",
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
+    },
+    {
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/5ewr5yE9tQ3f6wRljkGUqw"
+      },
+      "artists": [
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        },
+        {
+          "name": "DEIMI",
+          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131160,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ"
     },
     {
       "album": {
@@ -4834,7 +4878,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 144796,
       "name": "KTER MN 10",
       "url": "https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP"
@@ -5840,7 +5884,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 205144,
       "name": "MAKARIB",
       "url": "https://open.spotify.com/track/3ymdvTuxxXeePY6T1MOh9y"
@@ -6488,6 +6532,24 @@
       "duration_ms": 157550,
       "name": "M\u00e9daille d'or",
       "url": "https://open.spotify.com/track/1ga9yCBW8v3dgsRaRl1LVo"
+    },
+    {
+      "album": {
+        "name": "M\u00caME PAS",
+        "url": "https://open.spotify.com/album/0mY4RdgygLFNbhj9SlTcOU"
+      },
+      "artists": [
+        {
+          "name": "Shr",
+          "url": "https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "M\u00caME PAS",
+      "url": "https://open.spotify.com/track/3oQhKs5BpsjykMOtccBERO"
     },
     {
       "album": {
@@ -8366,7 +8428,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 181331,
       "name": "SOLIDE",
       "url": "https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b"

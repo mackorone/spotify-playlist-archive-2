@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Raq baby",
+  "description": "The Midwest is always on time. Cover: BabyChiefDoIt",
   "name": "CST",
   "tracks": [
     {
@@ -7743,6 +7743,24 @@
     },
     {
       "album": {
+        "name": "Still Spillin (Bonus)",
+        "url": "https://open.spotify.com/album/0HQ0pbuE9u8hz8BoP6mXmx"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111959,
+      "name": "Drake & Josh",
+      "url": "https://open.spotify.com/track/63qrB98Xx1cbHku3ZFq64Y"
+    },
+    {
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -10254,7 +10272,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 144657,
       "name": "Geeked",
       "url": "https://open.spotify.com/track/7a0XF8buT2g3jUWOXEfDVh"
@@ -11244,7 +11262,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 136815,
       "name": "Goolies",
       "url": "https://open.spotify.com/track/3azZYpf0wE5epSpD0TIAiU"
@@ -19551,6 +19569,24 @@
     },
     {
       "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/27igDhT1uUvGYCYkaSDUXc"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89449,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/0Crif1Dk3P6xvxWvMPux7c"
+    },
+    {
+      "album": {
         "name": "No Kure",
         "url": "https://open.spotify.com/album/7BciByqTOwjVOxyfCq4W2O"
       },
@@ -22692,7 +22728,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 127803,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/72fk9qLkTXi2FUJoC24ggi"
@@ -23506,7 +23542,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 147906,
       "name": "Right Key",
       "url": "https://open.spotify.com/track/1BbsU05g8H9v1ziA0xj41V"
@@ -26790,6 +26826,28 @@
       "duration_ms": 147069,
       "name": "Spudd the Jeweler",
       "url": "https://open.spotify.com/track/0WKTNzNKDVzo5E7qavQ3L7"
+    },
+    {
+      "album": {
+        "name": "Squatter",
+        "url": "https://open.spotify.com/album/6ewazfQlZzV5j02cmVogIG"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147010,
+      "name": "Squatter",
+      "url": "https://open.spotify.com/track/5RlOh3btlWSx7LCzgMz1zm"
     },
     {
       "album": {

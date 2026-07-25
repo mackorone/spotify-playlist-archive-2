@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Mit dieser Playlist hört die Party nie auf!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,112 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,160 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 69 | [Chaos im Kopf](https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Chaos im Kopf](https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ) | 2:48 |
 | 70 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 |
 | 71 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [bozi](https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 |
-| 72 | [Scheißegal](https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Scheißegal](https://open.spotify.com/album/3TCfWCtApFzCJMy0rfKrzP) | 2:19 |
-| 73 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 |
+| 72 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 |
+| 73 | [Scheißegal](https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Scheißegal](https://open.spotify.com/album/3TCfWCtApFzCJMy0rfKrzP) | 2:19 |
 | 74 | [Octopus \(100.000 Hände\)](https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm) | [Mountain Crew](https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z) | [Octopus \(100.000 Hände\)](https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii) | 3:45 |
 | 75 | [Erwischt](https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Erwischt](https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m) | 2:01 |
 | 76 | [Ich liebe das Leben \- Stereoact \#Remix](https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ich liebe das Leben \(Stereoact \#Remix\)](https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4) | 3:23 |
 | 77 | [Käpt'n Morgen](https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Käpt'n Morgen](https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A) | 2:38 |
 | 78 | [Popopo](https://open.spotify.com/track/7KAIjJz1sLTkdeXNXoLeZz) | [Breitner](https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6) | [Popopo](https://open.spotify.com/album/28H96Y0KpEI6CQ8kqNV1aI) | 2:24 |
-| 79 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 |
-| 80 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 |
+| 79 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 |
+| 80 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 |
 
-Snapshot ID: `AAAAAKQR+PB/IsVyekFG/mkaDc3HeXwa`
+Snapshot ID: `AAAAAGx2a7yvDxGnO6kczdmXsv7n5YlC`

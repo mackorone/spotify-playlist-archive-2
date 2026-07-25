@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: MEDUZA &amp; Khalid",
+  "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: TyriqueOrDie",
   "name": "ALL ACCESS DANCE",
   "tracks": [
     {
@@ -2809,6 +2809,28 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
+    },
+    {
+      "album": {
         "name": "Focus (feat. CLOVES)",
         "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
@@ -3060,6 +3082,24 @@
       "duration_ms": 198478,
       "name": "GET OUT MY HEAD",
       "url": "https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK"
+    },
+    {
+      "album": {
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/0Q1FtIcbcTuU6frCg9aQA3"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/70uWjZG9zxWYYoP7a0RHI7"
     },
     {
       "album": {
@@ -6125,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "ONE CALL AWAY.",
+        "url": "https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176050,
+      "name": "ONE CALL AWAY.",
+      "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
+    },
+    {
+      "album": {
         "name": "One New Change",
         "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
@@ -8982,6 +9040,28 @@
       "duration_ms": 136800,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/3KrpHx7OQimSAaFwvAKx8R"
+    },
+    {
+      "album": {
+        "name": "Where She Come From",
+        "url": "https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150245,
+      "name": "Where She Come From",
+      "url": "https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd"
     },
     {
       "album": {

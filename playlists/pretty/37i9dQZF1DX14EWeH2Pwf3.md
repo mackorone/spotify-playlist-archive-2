@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > it's an Artie summer 🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,572 likes - 55 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,529 likes - 55 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

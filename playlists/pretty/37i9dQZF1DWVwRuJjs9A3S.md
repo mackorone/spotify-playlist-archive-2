@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Sunnan
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,446 likes - 322 songs - 18 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,454 likes - 322 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunday Afternoon](https://open.spotify.com/track/5c81ZZDMHloha09FQ207EI) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sunday Afternoon](https://open.spotify.com/album/5jbogtfl96yGMlL5gDKu4B) | 4:17 |
 | 2 | [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 |
 | 3 | [Relief](https://open.spotify.com/track/3F1GqUJ5lVJGl3j1CKSEqc) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Relief](https://open.spotify.com/album/3x7DruPONfvi5lVuQ68TG7) | 2:32 |
-| 4 | [Track 2](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 0:00 |
+| 4 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
 | 5 | [Weekend](https://open.spotify.com/track/7JbWqZVX0w8sc9qhNwwzIu) | [COLLEAGUES](https://open.spotify.com/artist/6tANwKMqvV8oW0b7Np1ETB) | [Weekend](https://open.spotify.com/album/3BszcroV45PMBmG4LtoKXd) | 3:36 |
 | 6 | [Pre\-Raphaelite](https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Pre\-Raphaelite](https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px) | 4:22 |
 | 7 | [Special](https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Special](https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew) | 3:00 |

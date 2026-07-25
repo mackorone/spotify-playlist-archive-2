@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes. Cover: Shad Mziki",
+  "description": "Celebrate Nairobi's music, food and street culture through Greasy Tunes. Cover: Zaituni",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 206500,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/3Fo4a9vy4PUrVZN6yEEDox"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 386870,
       "name": "Chuki",
       "url": "https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187894,
       "name": "Doba Noma",
       "url": "https://open.spotify.com/track/1sSO9CMsFzN5wvNeP1i3Ea"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190005,
       "name": "Golden Sun",
       "url": "https://open.spotify.com/track/0W9zakikiqrw7njcDalBWI"
@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "Huyo",
+      "url": "https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/0WeoxAxwZklVIPYUGE0mRf"
       },
@@ -1952,6 +1970,24 @@
           "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
         }
       ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178107,
+      "name": "Jadala",
+      "url": "https://open.spotify.com/track/0eOX0W5AKuaxOy6gZbEBPI"
+    },
+    {
+      "album": {
+        "name": "Lisa Oduor Noah",
+        "url": "https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 345365,
       "name": "Kamweretho - Soul Reprise",
       "url": "https://open.spotify.com/track/5Lan8Xs7hoZZd0GOB6IDdJ"
@@ -2148,6 +2184,28 @@
       "duration_ms": 178473,
       "name": "Kifo Cha Mende",
       "url": "https://open.spotify.com/track/31EmkEmJWwB39WWPyxg24i"
+    },
+    {
+      "album": {
+        "name": "kipepeo",
+        "url": "https://open.spotify.com/album/6CVdyJVhGrDHjl5WMVSyzI"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        },
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "kipepeo",
+      "url": "https://open.spotify.com/track/2DW6Sje4Xm2mSMhaTjycVS"
     },
     {
       "album": {
@@ -2998,6 +3056,24 @@
       "duration_ms": 210000,
       "name": "NaEnjoy",
       "url": "https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159767,
+      "name": "Nairobi Streets",
+      "url": "https://open.spotify.com/track/1BLFjz9ApyV0TJbC0euak4"
     },
     {
       "album": {
@@ -4625,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/3bdlBiNRtxh6VzhLKx3hTb"
+    },
+    {
+      "album": {
         "name": "TIKI TAKO",
         "url": "https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ"
       },
@@ -4684,7 +4778,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203149,
       "name": "Top Dollar",
       "url": "https://open.spotify.com/track/0LbJnftqpmFdQoovMaRSUb"
@@ -4702,7 +4796,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 160000,
       "name": "Top Shotta",
       "url": "https://open.spotify.com/track/6Y3sJ0YFGYq793RrpmxqAn"

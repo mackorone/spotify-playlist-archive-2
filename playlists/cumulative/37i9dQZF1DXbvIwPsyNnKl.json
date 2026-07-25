@@ -7547,6 +7547,28 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Kael Guerrero",
+          "url": "https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Sayang",
+      "url": "https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX"
+    },
+    {
+      "album": {
         "name": "Section Y",
         "url": "https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb"
       },
@@ -9046,6 +9068,24 @@
       "duration_ms": 243291,
       "name": "Umaga - Spotify Singles",
       "url": "https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA"
+    },
+    {
+      "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/2VI6Mv326jCXPB2lftW1ky"
+      },
+      "artists": [
+        {
+          "name": "Joseph Ama",
+          "url": "https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2VyoHPK5c8MMRJzKoCPXuP"
     },
     {
       "album": {

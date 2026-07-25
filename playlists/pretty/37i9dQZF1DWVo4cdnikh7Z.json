@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 756047,
+  "num_followers": 756193,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeRYVaulLfNQIX857OX2+qJmJly",
+  "snapshot_id": "AAAAAM87sKCnI9MYF374vYZcbWZVKcqM",
   "tracks": [
     {
       "added_at": "2026-07-03 11:16:04",
@@ -123,6 +123,26 @@
       "duration_ms": 205714,
       "name": "Bum Baa Diga Diga (From \"DC\")",
       "url": "https://open.spotify.com/track/11RCy54poO2EO6FWxQ4do2"
+    },
+    {
+      "added_at": "2026-07-24 12:40:38",
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shivapriya",
+          "url": "https://open.spotify.com/artist/1ZNJgmNVon2tZK2UpmWMjH"
+        }
+      ],
+      "duration_ms": 140806,
+      "name": "Thaalam Trip - Instrumental",
+      "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
     },
     {
       "added_at": "2026-07-06 12:23:12",
@@ -559,38 +579,6 @@
       "duration_ms": 250000,
       "name": "Karuppa Kooda Va",
       "url": "https://open.spotify.com/track/0otC5nlgJZ27Q38AA8z6zj"
-    },
-    {
-      "added_at": "2026-05-21 07:50:03",
-      "album": {
-        "name": "Goindhamma (From \"Meesaya Murukku 2\")",
-        "url": "https://open.spotify.com/album/6CnMJQMB4MIUpqW1lrTBUz"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Kaushik Krish",
-          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
-        },
-        {
-          "name": "Gana Vinoth",
-          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
-        },
-        {
-          "name": "Gana Ulagam Dharani",
-          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
-        },
-        {
-          "name": "Gana Sudhakar",
-          "url": "https://open.spotify.com/artist/53EDprcauSeF2W2aiMXet5"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Goindhamma (From \"Meesaya Murukku 2\")",
-      "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
     },
     {
       "added_at": "2026-07-13 10:35:12",
@@ -1761,22 +1749,6 @@
       "url": "https://open.spotify.com/track/7Kmgfpko6bZsBW8lefvBGx"
     },
     {
-      "added_at": "2026-04-30 15:23:31",
-      "album": {
-        "name": "Vari Vari (Unna Kaadhaliche)",
-        "url": "https://open.spotify.com/album/3f2c0mrTvbNj50xM6o6Vbe"
-      },
-      "artists": [
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 201756,
-      "name": "Vari Vari (Unna Kaadhaliche)",
-      "url": "https://open.spotify.com/track/1KJ8JKkGayN6BJ2kX3FGUj"
-    },
-    {
       "added_at": "2026-05-28 16:52:33",
       "album": {
         "name": "Peddi (TAMIL)",
@@ -1799,82 +1771,6 @@
       "duration_ms": 273131,
       "name": "Chikiri Chikiri (TAMIL)",
       "url": "https://open.spotify.com/track/1G6kDbeQBMyqoLesxzuWZ7"
-    },
-    {
-      "added_at": "2026-04-28 06:51:10",
-      "album": {
-        "name": "Polladha Aasaigal (From \"29\")",
-        "url": "https://open.spotify.com/album/37Qm72481GRz3tw086OYPj"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Uma Devi",
-          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Polladha Aasaigal (From \"29\")",
-      "url": "https://open.spotify.com/track/2sI3ZZnbn0sHjNSuNI68FO"
-    },
-    {
-      "added_at": "2026-05-10 01:07:06",
-      "album": {
-        "name": "29 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5RXzXJSGvHVow1g2YEdmrq"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Nenjagathi",
-      "url": "https://open.spotify.com/track/6Pa004hVCVAGzwqSj3zgBl"
-    },
-    {
-      "added_at": "2026-04-27 11:13:35",
-      "album": {
-        "name": "Vellichudare (From \"Irandu Vaanam\")",
-        "url": "https://open.spotify.com/album/2Xp9fcC80VGoMOaT9HTWWP"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Madrashe",
-          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
-        }
-      ],
-      "duration_ms": 255039,
-      "name": "Vellichudare (From \"Irandu Vaanam\")",
-      "url": "https://open.spotify.com/track/7CIjWTg5OPULod0mmhvnKs"
     }
   ],
   "unique_name": "Latest Tamil",

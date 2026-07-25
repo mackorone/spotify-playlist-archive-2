@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18781,
+  "num_followers": 18782,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADI6cW8fV0gxV2AhXReKrjy",
+  "snapshot_id": "amFZgAAAAAAQJfyp3E/3cl5yJ+a6NwZX",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 219817,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z"
+      "duration_ms": 173788,
+      "name": "Homesick for Hope",
+      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 173788,
-      "name": "Homesick for Hope",
-      "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
+      "duration_ms": 219817,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/4CJFj7Wl9qKZkmNaj5GB7Z"
     },
     {
       "added_at": null,

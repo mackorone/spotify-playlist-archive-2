@@ -205,6 +205,36 @@
     },
     {
       "album": {
+        "name": "Cello Concerto No. 2 in D Minor, Op. 119/II. Allegro non troppo - Cadenza - Molto allegro",
+        "url": "https://open.spotify.com/album/5Fs4HW2xG8CeEXNa85Ju71"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346743,
+      "name": "Cello Concerto No. 2 in D Minor, Op. 119: II. Allegro non troppo - Cadenza - Molto allegro",
+      "url": "https://open.spotify.com/track/6HGCJyDz6kYUVlSergY6Fw"
+    },
+    {
+      "album": {
         "name": "Brahms: Cello Sonatas - Stanford: Ballata",
         "url": "https://open.spotify.com/album/1TFv4wvn50Secdb40t5pdw"
       },
@@ -1692,6 +1722,28 @@
       "duration_ms": 385546,
       "name": "Symphony No. 2: III. Allegro vivace",
       "url": "https://open.spotify.com/track/6avmKV72nBHTDxtJrPi4i3"
+    },
+    {
+      "album": {
+        "name": "Symphony No.3 (Metaphysica) & Harp Concerto",
+        "url": "https://open.spotify.com/album/2nryQ1nja16Vij3OjO9ZeA"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665213,
+      "name": "Symphony No. 3 \"Metaphysica\": II. where are we going?",
+      "url": "https://open.spotify.com/track/3QSGY6BtGHQ6zkAxPENDYn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,401 songs - 5 day 8 hr 49 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,402 songs - 5 day 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2409,5 +2409,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2399 | [GIIRLSWORLD](https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [GIIRLSWORLD](https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker) | 2:44 |
 | 2400 | [Left for USA](https://open.spotify.com/track/62JNG84aYlIXH2bFDd4LXt) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 1:59 |
 | 2401 | [Arc de Triomphe](https://open.spotify.com/track/1kHUc1GdwFl5QMwIsdVGc3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:46 |
+| 2402 | [Lexapro Delirium](https://open.spotify.com/track/2LtWGOsyqmd88HCHX3hNn6) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:15 |
 
-Snapshot ID: `AAAFaJ6u1jd14coZBAZX45sEYiQUZuMA`
+Snapshot ID: `AAAFaWmzyHdw6sjN+V3gMszVxXy2LcAY`

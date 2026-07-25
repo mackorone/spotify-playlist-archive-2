@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: O'kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,651 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,672 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 4 | [Adu the Borga](https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 2:34 |
 | 5 | [Baskata](https://open.spotify.com/track/4ruVHF2ffI8euRpA8LkSgi) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [Baskata](https://open.spotify.com/album/2ZPrDyuHmEdTgj0AkuVbB8) | 2:34 |
 | 6 | [OTOTROBONSU](https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:31 |
-| 7 | [Track 1](https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Tough Skin](https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq) | 0:00 |
+| 7 | [Believe](https://open.spotify.com/track/53z9Mkp9cytCRx7cWT8M3a) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Tough Skin](https://open.spotify.com/album/4Z3AG231Lxry05glKIEgPq) | 3:09 |
 | 8 | [Fowaah](https://open.spotify.com/track/1M0MnNWPoBA3BP49jshvsS) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fowaah](https://open.spotify.com/album/0n1Hnr42y8SvpdhdCtHmVM) | 2:47 |
 | 9 | [2FLY](https://open.spotify.com/track/3Hh37saFpmNRojovNO0O2Q) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [2FLY](https://open.spotify.com/album/4FV08WwY0CjdopgDCKRSw3) | 2:50 |
 | 10 | [Won't Be Here Forever](https://open.spotify.com/track/6cBnyv4GsGl9VJx2tW2oP5) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [How Did We Get Here](https://open.spotify.com/album/0EqCL0NBywUAAVFuPrUHK8) | 3:05 |

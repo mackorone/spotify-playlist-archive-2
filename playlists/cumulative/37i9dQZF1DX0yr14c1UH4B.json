@@ -3187,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "day's end",
+        "url": "https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181381,
+      "name": "day's end",
+      "url": "https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
       },
@@ -3202,24 +3220,6 @@
       "duration_ms": 199357,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
-    },
-    {
-      "album": {
-        "name": "days end",
-        "url": "https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181381,
-      "name": "days end",
-      "url": "https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT"
     },
     {
       "album": {

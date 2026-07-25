@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,229 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,218 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 44 | [911](https://open.spotify.com/track/64ec5S00lOXCaH8cnwAxIA) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [GIULIA BE \(english\)](https://open.spotify.com/album/5qWl9JGISFMqvSJt16sBmy) | 2:31 |
 | 45 | [Tridente](https://open.spotify.com/track/2drh9irG9lf2qy552sbVxA) | [Putolargo](https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Yabulé](https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG) | [Tridente](https://open.spotify.com/album/4Gx2BCIk7h3Jzh6tz1G03V) | 4:11 |
 | 46 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
-| 47 | [Track 5](https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Afro Pal Cora](https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR) | 0:00 |
+| 47 | [Sin Querer](https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Afro Pal Cora](https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR) | 2:51 |
 | 48 | [De La Mata](https://open.spotify.com/track/6rQS8rYfOlcpcLrBt3raLy) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [De la Mata](https://open.spotify.com/album/1vOWLVrFoXPtqyyaUHZPqT) | 2:51 |
 | 49 | [No Se Olvida](https://open.spotify.com/track/5coMeY1kngonsppyyPhxu9) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [No Se Olvida](https://open.spotify.com/album/7yWWNKkBJ2WPt3c9GDP1Yz) | 2:38 |
 | 50 | [Modernidade \- Ao Vivo](https://open.spotify.com/track/0HdOx0wAtUr1nVYBaBOF9i) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Modernidade \(Ao Vivo\)](https://open.spotify.com/album/2wsc1CFRrQUNN2WIf1jxRe) | 3:24 |

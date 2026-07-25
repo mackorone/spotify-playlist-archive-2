@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u77f3\u82e5 \u99ff",
-  "num_followers": 50318,
+  "num_followers": 50325,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "hunted",
+        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
+      },
+      "artists": [
+        {
+          "name": "midori jaeger",
+          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
+        }
+      ],
+      "duration_ms": 176161,
+      "name": "planted",
+      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "World's Famous",
         "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 191747,
       "name": "World's Famous",
       "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "hunted",
-        "url": "https://open.spotify.com/album/5DKrm6Ilqx5hQe50J7zCPt"
-      },
-      "artists": [
-        {
-          "name": "midori jaeger",
-          "url": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp"
-        }
-      ],
-      "duration_ms": 176161,
-      "name": "planted",
-      "url": "https://open.spotify.com/track/6esnClfCbyWOI5PcDEgpxf"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "An Airship",
+        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "duration_ms": 279483,
+      "name": "\u304a\u9db4",
+      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 259151,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "An Airship",
-        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        }
-      ],
-      "duration_ms": 279483,
-      "name": "\u304a\u9db4",
-      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -915,6 +915,26 @@
       "duration_ms": 198168,
       "name": "Tiny Mirror",
       "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Answer to Remember II",
+        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
+        {
+          "name": "Jua",
+          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "KIMOCHIS",
+      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -959,26 +979,6 @@
       "duration_ms": 315628,
       "name": "rose garden",
       "url": "https://open.spotify.com/track/2Ss7wE9vHQ0nI9Ato39oj3"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Answer to Remember II",
-        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
-      },
-      "artists": [
-        {
-          "name": "Answer to Remember",
-          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
-        },
-        {
-          "name": "Jua",
-          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "KIMOCHIS",
-      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "Cross View (from \"UNTITLED\" 2026 Take)",
+        "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 286501,
+      "name": "Cross View - from \"UNTITLED\" 2026 Take",
+      "url": "https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Blood But Blues",
         "url": "https://open.spotify.com/album/5aUhK30kDj2pXn31qT634w"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1255,26 +1271,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Buchi (feat.\u5225\u6240\u548c\u6d0b)",
-        "url": "https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u5c71\u6e09",
-          "url": "https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9"
-        },
-        {
-          "name": "\u5225\u6240\u548c\u6d0b",
-          "url": "https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo"
-        }
-      ],
-      "duration_ms": 438436,
-      "name": "Buchi - feat.\u5225\u6240\u548c\u6d0b",
-      "url": "https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Into My System",
         "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
       },
@@ -1311,6 +1307,26 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "Buchi (feat.\u5225\u6240\u548c\u6d0b)",
+        "url": "https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u5c71\u6e09",
+          "url": "https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9"
+        },
+        {
+          "name": "\u5225\u6240\u548c\u6d0b",
+          "url": "https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo"
+        }
+      ],
+      "duration_ms": 438436,
+      "name": "Buchi - feat.\u5225\u6240\u548c\u6d0b",
+      "url": "https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Raccoon",
         "url": "https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q"
       },
@@ -1323,6 +1339,50 @@
       "duration_ms": 213600,
       "name": "Raccoon",
       "url": "https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Live Life This Day: Celebrating Thad Jones",
+        "url": "https://open.spotify.com/album/2OTVkPDLzM5EnPhrIchjKR"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+        },
+        {
+          "name": "Danish National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+        }
+      ],
+      "duration_ms": 616733,
+      "name": "My Centennial",
+      "url": "https://open.spotify.com/track/2LQR8bD21o911PXJytHtEI"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "mimiko",
+          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1367,50 +1427,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "mimiko",
-          "url": "https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Live Life This Day: Celebrating Thad Jones",
-        "url": "https://open.spotify.com/album/2OTVkPDLzM5EnPhrIchjKR"
-      },
-      "artists": [
-        {
-          "name": "Miho Hazama",
-          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
-        },
-        {
-          "name": "Danish National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
-        }
-      ],
-      "duration_ms": 616733,
-      "name": "My Centennial",
-      "url": "https://open.spotify.com/track/2LQR8bD21o911PXJytHtEI"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "A Gift for You",
         "url": "https://open.spotify.com/album/5Nlj7ixqkpgloUZZWFdOKM"
       },
@@ -1447,6 +1463,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "The Little Cycle",
+        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 250279,
+      "name": "Terracotta",
+      "url": "https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "\u4e8c\u4eba\u9759 -JAZZ-",
         "url": "https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy"
       },
@@ -1479,54 +1511,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "The Little Cycle",
-        "url": "https://open.spotify.com/album/2ysNJMEwr7AYMXH6EynqVZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 250279,
-      "name": "Terracotta",
-      "url": "https://open.spotify.com/track/1w5v26yZEOV1hglLvElyI0"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "\u8a00\u8449\u306e\u5ead",
-        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
-      },
-      "artists": [
-        {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
-        }
-      ],
-      "duration_ms": 151497,
-      "name": "\u8a00\u8449\u306e\u5ead",
-      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Cross View (from \"UNTITLED\" 2026 Take)",
-        "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 286501,
-      "name": "Cross View - from \"UNTITLED\" 2026 Take",
-      "url": "https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Saudade Vem Correndo",
         "url": "https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "All Will Be Fine",
-        "url": "https://open.spotify.com/album/5xNbQPNTdNhtZ7Kmon2IgB"
+        "name": "\u8a00\u8449\u306e\u5ead",
+        "url": "https://open.spotify.com/album/1YjUHYUg8e4s7OL47qxxsD"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 291000,
-      "name": "All Will Be Fine",
-      "url": "https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW"
+      "duration_ms": 151497,
+      "name": "\u8a00\u8449\u306e\u5ead",
+      "url": "https://open.spotify.com/track/4e4buhnX2aH7lXkAF13rtW"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u98a8\u306e\u4e2d\u3067",
-        "url": "https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld"
+        "name": "All Will Be Fine",
+        "url": "https://open.spotify.com/album/5xNbQPNTdNhtZ7Kmon2IgB"
       },
       "artists": [
         {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 281455,
-      "name": "\u98a8\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV"
+      "duration_ms": 291000,
+      "name": "All Will Be Fine",
+      "url": "https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1607,6 +1591,38 @@
       "duration_ms": 312564,
       "name": "Soy Califa",
       "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "TAPES of ACES - Side A",
+        "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "S.Y.P.T. (Show Your PentaTonic)",
+      "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u98a8\u306e\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/2WJ1XJ79XYjbPVO7GFZ9Ld"
+      },
+      "artists": [
+        {
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+        }
+      ],
+      "duration_ms": 281455,
+      "name": "\u98a8\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "TAPES of ACES - Side A",
-        "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
-      },
-      "artists": [
-        {
-          "name": "4Aces",
-          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "S.Y.P.T. (Show Your PentaTonic)",
-      "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 (feat.\u5225\u6240\u548c\u6d0b)",
         "url": "https://open.spotify.com/album/4ph6doua3CAx66BEGma7yA"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 313649,
       "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 - feat.\u5225\u6240\u548c\u6d0b",
       "url": "https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "URAH",
-        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
-          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "URAH",
-      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "URAH",
+        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
+          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "URAH",
+      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Kazumi Tateishi Trio meets Beautiful Standards",
         "url": "https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 290933,
       "name": "Raindrops Keep Fallin' On My Head",
       "url": "https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Bird Of Beauty",
+        "url": "https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "duration_ms": 362559,
+      "name": "Bird Of Beauty",
+      "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Bird Of Beauty",
-        "url": "https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI"
+        "name": "Today Is Another Day",
+        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
       },
       "artists": [
         {
-          "name": "\u77f3\u5ddd\u7d05\u5948",
-          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 362559,
-      "name": "Bird Of Beauty",
-      "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
+      "duration_ms": 376013,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1787,22 +1803,6 @@
       "duration_ms": 311935,
       "name": "HARU",
       "url": "https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Today Is Another Day",
-        "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 376013,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1927,30 +1927,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        },
-        {
-          "name": "JK Kim",
-          "url": "https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t"
-        }
-      ],
-      "duration_ms": 227295,
-      "name": "PRIME",
-      "url": "https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Lifescape",
         "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
       },
@@ -1987,6 +1963,30 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        },
+        {
+          "name": "JK Kim",
+          "url": "https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t"
+        }
+      ],
+      "duration_ms": 227295,
+      "name": "PRIME",
+      "url": "https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Remind Me c/w Miles To Cross",
         "url": "https://open.spotify.com/album/03d8zfNiyOFfkKAnMcHw3h"
       },
@@ -1999,6 +1999,22 @@
       "duration_ms": 244977,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6AozAppauV6fPK3b88NRpl"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Missing My Bird (2024 Ver.)",
+        "url": "https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 263061,
+      "name": "Missing My Bird - 2024 Ver.",
+      "url": "https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2027,22 +2043,6 @@
       "duration_ms": 394065,
       "name": "Danse Macabre",
       "url": "https://open.spotify.com/track/7yhQ6CwshrZgwlW4JipRPQ"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Missing My Bird (2024 Ver.)",
-        "url": "https://open.spotify.com/album/0dmyPsnPN5tXrg5iZwoNc8"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 263061,
-      "name": "Missing My Bird - 2024 Ver.",
-      "url": "https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW"
-      },
-      "artists": [
-        {
-          "name": "Tenors In Chaos",
-          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "BAKKI BAKI",
-      "url": "https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "YELLOW",
         "url": "https://open.spotify.com/album/5KAYYjNX5y00ARgTjI2kVN"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 135139,
       "name": "Child's eye",
       "url": "https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW"
+      },
+      "artists": [
+        {
+          "name": "Tenors In Chaos",
+          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "BAKKI BAKI",
+      "url": "https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "Quiet Clown",
+        "url": "https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn"
+      },
+      "artists": [
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Zig-Zag",
         "url": "https://open.spotify.com/album/2uB686S8OuIgQ3QZHbJxyy"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 337845,
       "name": "One Finger Snap",
       "url": "https://open.spotify.com/track/4AKkklT755XpgM5uPLY5PZ"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Quiet Clown",
-        "url": "https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn"
-      },
-      "artists": [
-        {
-          "name": "Solitary Circus",
-          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Half Moon",
-      "url": "https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU"
     },
     {
       "added_at": "2026-07-21 15:00:18",

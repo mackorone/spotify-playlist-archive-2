@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Yung Maynie
 
-1,621 songs - 3 day 3 hr 33 min
+1,622 songs - 3 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,7 +836,7 @@
 | [Love For My City](https://open.spotify.com/track/2oRJpZouHzN9Ly9PXgfzt3) | [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Zulu](https://open.spotify.com/artist/0eW1LoDjWUp5RxC5o6FDOX) | [Love For My City](https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU) | 3:02 | 2022-05-05 | 2022-07-26 |
 | [Love Us Now](https://open.spotify.com/track/4V5hzyGVsBCEEYWySZDIOo) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE) | [Love Us Now](https://open.spotify.com/album/1OPn7cUUNM8YTDkvLubzIc) | 4:16 | 2022-09-29 | 2023-02-24 |
 | [LOVERBOY](https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [LOVERBOY](https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C) | 2:49 | 2023-12-04 | 2024-03-15 |
-| [LTW \(LUV THE WORLD\)](https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [LTW \(LUV THE WORLD\)](https://open.spotify.com/album/4ytQkvGHSKdeXJFDTgFv3T) | 3:22 | 2026-03-19 |  |
+| [LTW \(LUV THE WORLD\)](https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [LTW \(LUV THE WORLD\)](https://open.spotify.com/album/4ytQkvGHSKdeXJFDTgFv3T) | 3:22 | 2026-03-19 | 2026-07-25 |
 | [Lust & Luxury](https://open.spotify.com/track/0sVQ0pawcPeCE6LxVDpsL4) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l) | [Lust & Luxury](https://open.spotify.com/album/33KbkXiV9rYHNIK6j2aRU4) | 3:59 | 2025-12-18 |  |
 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 | 2025-05-15 | 2025-10-24 |
 | [LV STEPPERS](https://open.spotify.com/track/0C82lh2meFUjXV0AJxlxNZ) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [LV STEPPERS](https://open.spotify.com/album/5I0lsRpqWMTId5vpl8jRVr) | 1:54 | 2024-10-03 | 2025-02-28 |
@@ -1235,6 +1235,7 @@
 | [Seen It All](https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 2:30 | 2023-06-22 | 2024-04-26 |
 | [Selling My Soul](https://open.spotify.com/track/2TKAVeoTe3SxkuULpm0i1I) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Selling My Soul](https://open.spotify.com/album/0J5Y1bJ0Xwzm26e7bwTijq) | 2:44 | 2024-05-30 | 2024-07-05 |
 | [Send Em Hate](https://open.spotify.com/track/72KqYsTOtly7v991VyKLJ6) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV) | [Send Em Hate](https://open.spotify.com/album/6f1NXxCzm6YQldL870oi4X) | 2:11 | 2024-12-05 | 2025-02-21 |
+| [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/track/22K8nkw2yscBa0Gpc7Dvmm) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/album/3kz7GvyHmer5ayXF2bKOxB) | 3:51 | 2026-07-24 |  |
 | [SEND YOUR HITTAZ](https://open.spotify.com/track/2nyMxDI29XL6U0F0qRAxmJ) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [SEND YOUR HITTAZ](https://open.spotify.com/album/2bLbPnUFtnRNbwdBDIlJCs) | 2:13 | 2024-01-25 | 2024-03-15 |
 | [Sensation](https://open.spotify.com/track/1IcZ7alyYoMvhQqYYhYtBL) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Sensation](https://open.spotify.com/album/7aMUTXOhBXH2XgmgoOBysP) | 2:47 | 2025-07-24 | 2025-12-05 |
 | [Sensitive](https://open.spotify.com/track/0uLeTB3VCvIrYARie5wgTQ) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [Sensitive](https://open.spotify.com/album/57cBr6IehtE2bBNJ6wyLJX) | 2:24 | 2025-06-05 | 2025-09-19 |

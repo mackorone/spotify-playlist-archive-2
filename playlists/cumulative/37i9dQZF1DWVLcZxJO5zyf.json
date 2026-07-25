@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Luisa Sonza",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Lou Garcia",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -2629,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196455,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"
+    },
+    {
+      "album": {
         "name": "Depois do Fim",
         "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
       },
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 218482,
       "name": "Drogas, Sexo, Techno, Repete!",
       "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
@@ -3206,6 +3224,28 @@
       "duration_ms": 137272,
       "name": "ESCADA DO PR\u00c9DIO",
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
+    },
+    {
+      "album": {
+        "name": "escapismo",
+        "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180343,
+      "name": "escapismo",
+      "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
     },
     {
       "album": {
@@ -5300,7 +5340,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192192,
       "name": "ME LIVRA DE TODO MAL",
       "url": "https://open.spotify.com/track/2731kmDfNfoTqJ3WW5K5TF"
@@ -5924,7 +5964,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189073,
       "name": "M\u00e1gica - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
@@ -7539,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "Pra Lembrar De Mim No Fone",
+        "url": "https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159660,
+      "name": "Pra Lembrar De Mim No Fone",
+      "url": "https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh"
+    },
+    {
+      "album": {
         "name": "Pra Te Machucar (feat. Suku Ward)",
         "url": "https://open.spotify.com/album/6aK9Rcd0QztU0jRIoqJaN5"
       },
@@ -8638,7 +8696,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245710,
       "name": "se joga",
       "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
@@ -10386,6 +10444,28 @@
       "duration_ms": 220149,
       "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
       "url": "https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl"
+    },
+    {
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164511,
+      "name": "Voc\u00ea Ja Sabe",
+      "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"
     },
     {
       "album": {

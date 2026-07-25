@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155454,
       "name": "FACECARD",
       "url": "https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp"
@@ -17687,6 +17687,28 @@
     },
     {
       "album": {
+        "name": "Pi\u0119kny sen",
+        "url": "https://open.spotify.com/album/5j71bNuv9tGHCiMQL8a0lm"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "Pi\u0119kny sen",
+      "url": "https://open.spotify.com/track/6VykKaQAkTTuAk3i9iR7KH"
+    },
+    {
+      "album": {
         "name": "PCC 3.0",
         "url": "https://open.spotify.com/album/6gLwySNsAnEM8NisJ6JP7I"
       },
@@ -18204,6 +18226,28 @@
       "duration_ms": 188478,
       "name": "POMALUJ M\u00d3J \u015aWIAT",
       "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
+    },
+    {
+      "album": {
+        "name": "Ponownie",
+        "url": "https://open.spotify.com/album/12M7eeRMo0QZoxDKMQxWsl"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        },
+        {
+          "name": "spazma",
+          "url": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Ponownie",
+      "url": "https://open.spotify.com/track/4QPJ1Ool8ZOCr3DYzHZx3d"
     },
     {
       "album": {
@@ -25448,7 +25492,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194895,
       "name": "Z\u0142e dziewczyny",
       "url": "https://open.spotify.com/track/7LPdazalDCXskxsnCbicQv"

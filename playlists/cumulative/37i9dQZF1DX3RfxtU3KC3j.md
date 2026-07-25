@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pinhani
 
-853 songs - 2 day 1 hr 28 min
+853 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Beni Siz Delirttiniz](https://open.spotify.com/track/4kiGfAuvyR66TvLBXbzZFU) | [Ilgın Sıla](https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2) | [Beni Siz Delirttiniz](https://open.spotify.com/album/3wWixBDsdAboJQ1zf0uhOS) | 3:40 | 2026-07-23 |  |
 | [Beni Unutamamışsın](https://open.spotify.com/track/4q4712qdkHR6cLCQJJMCxF) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Beni Unutamamışsın](https://open.spotify.com/album/53IJrwK5FeDsspN0Yo7Y9h) | 3:57 | 2026-06-26 | 2026-07-24 |
 | [Beni Uslandıran](https://open.spotify.com/track/6ilybSvuvQcCQCo5QwOfuG) | [Furkan Usta](https://open.spotify.com/artist/5P0tauk5zPVxRoay1mvQVg) | [Beni Uslandıran](https://open.spotify.com/album/5mUYo7lBAGQeCH9cNRBvS9) | 3:07 | 2025-09-04 | 2025-09-20 |
+| [Beni Çağır](https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Olduğu Kadar](https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6) | 3:01 | 2026-07-23 |  |
 | [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 | 2024-08-29 | 2024-09-20 |
 | [Benim Yüzümden](https://open.spotify.com/track/46icd6gWZBK3An3iBAaTsr) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Benim Yüzümden](https://open.spotify.com/album/16fBicRraO3A1j4nJq110s) | 3:22 | 2025-04-10 | 2025-08-22 |
 | [Benimsin](https://open.spotify.com/track/3sc0nBBYQRPMUXdmPRAry5) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Benimsin](https://open.spotify.com/album/1InJ2mXgyAnxGJUk1NWQpX) | 2:51 | 2024-12-19 | 2025-03-14 |
@@ -687,7 +688,6 @@
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
 | [Ters Çingene](https://open.spotify.com/track/3YWnLnHWY3ZJQXC2URCuix) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Ters Çingene](https://open.spotify.com/album/06MY2lC2YmcTGWGIs4FvOf) | 4:04 | 2025-11-13 | 2025-12-05 |
 | [Toz Duman \- Rock Version](https://open.spotify.com/track/3ci6hJvT0VlcKDvqgnvEqr) | [Anıl Bektaş](https://open.spotify.com/artist/1MhbXjORYpq5VYTmPRLKMs) | [Toz Duman \(Rock Version\)](https://open.spotify.com/album/28EfENFMKlh1DmKQ1JkyqR) | 4:22 | 2025-12-04 | 2026-03-06 |
-| [Track 1](https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Olduğu Kadar](https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6) | 0:00 | 2026-07-23 |  |
 | [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 | 2025-11-15 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-13 | 2026-02-06 |
 | [Tövbeler Olsun](https://open.spotify.com/track/7MWjzXxPHI3Y4ExcxNbnpk) | [Murat Kekilli](https://open.spotify.com/artist/1av8oluskzg2mOBajdzRI9) | [Tövbeler Olsun](https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb) | 3:12 | 2025-10-16 | 2025-11-07 |

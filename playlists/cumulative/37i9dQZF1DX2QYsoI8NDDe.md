@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Marian Oviedo y Laraim 🔥
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Nora Gonzalez
 
-707 songs - 1 day 14 hr 9 min
+711 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 | 2023-03-03 | 2025-09-27 |
 | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 | 2026-04-10 |  |
 | [Canción Mixteca](https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Canción Mixteca](https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx) | 3:02 | 2024-09-20 | 2026-02-14 |
+| [Casi Nada](https://open.spotify.com/track/1E3GCTGLLtpQv2B8p3n081) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Casi Nada](https://open.spotify.com/album/1CpXyNyxdQpzYYI0002Vp0) | 3:01 | 2026-07-24 |  |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-03-31 | 2025-10-18 |
 | [Cheque En Blanco](https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio En Vivo](https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4) | 2:37 | 2022-01-07 | 2022-07-29 |
 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 | 2022-05-20 | 2023-03-04 |
@@ -414,6 +415,7 @@
 | [Nadie Sabe](https://open.spotify.com/track/6dAMAKz48xW4LPNzQDQnNt) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Nadie Sabe](https://open.spotify.com/album/6alXYmaEyPt1DWm34u9y65) | 2:59 | 2025-10-24 | 2025-11-22 |
 | [Nadie Se Va Como Llegó](https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR) | 2:33 | 2025-05-30 | 2026-02-28 |
 | [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 | 2024-09-20 | 2026-01-17 |
+| [Ni Al 50](https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Capítulo 8 \(La Historia Completa\)](https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU) | 2:56 | 2026-07-24 |  |
 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 | 2023-03-03 | 2025-09-27 |
 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 | 2023-12-08 | 2025-05-31 |
 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 | 2024-10-25 | 2026-02-14 |
@@ -431,6 +433,7 @@
 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 | 2022-05-20 | 2023-03-04 |
 | [No Llega El Olvido](https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:37 | 2026-06-26 |  |
 | [No Llega El Olvido \(Banda\)](https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(Banda\)](https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW) | 3:05 | 2025-12-05 |  |
+| [No Manches](https://open.spotify.com/track/6K8F823kDw3DxCmKJA1bDN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [No Manches](https://open.spotify.com/album/2fyDi75HoCA5JM9VdArNhw) | 3:37 | 2026-07-24 |  |
 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 | 2023-03-03 | 2025-05-26 |
 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 | 2022-01-07 | 2023-03-04 |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2023-01-20 | 2025-10-11 |
@@ -658,6 +661,7 @@
 | [Un Mundo Raro \(feat\. Diego El Cigala\)](https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Salón Lágrimas y Deseo](https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy) | 3:32 | 2022-04-01 | 2022-04-21 |
 | [Un Nuevo Amor](https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Bueno](https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv) | 3:55 | 2022-05-20 | 2023-03-04 |
 | [Un Nuevo Amor](https://open.spotify.com/track/1MpNLkX7pIDKcXRyrkJQ9x) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Bueno](https://open.spotify.com/album/52XnPZjDFD7zJa7mR3BWVS) | 3:56 | 2022-01-07 | 2022-07-29 |
+| [Una Lloradita](https://open.spotify.com/track/1smCMVhwmDYPdi8saWC6zE) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Una Lloradita](https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P) | 2:38 | 2026-07-24 |  |
 | [Una Mentira Más](https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Una Mentira Más](https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI) | 3:22 | 2022-01-07 | 2023-03-04 |
 | [Una Palomita \(En Vivo\)](https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Corridos Pa Mi Apá, Vol.2 \(En Vivo\)](https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH) | 3:44 | 2026-05-01 |  |
 | [Una parte de mi](https://open.spotify.com/track/5parRjqc4Z2xqJkfLkcsQY) | [Dalia Haro](https://open.spotify.com/artist/6lF00mD1QugMwfEI5yo7MA) | [Una parte de mi](https://open.spotify.com/album/7hKugwIo5vkO3xgRnozWHK) | 2:56 | 2022-02-04 | 2022-02-08 |

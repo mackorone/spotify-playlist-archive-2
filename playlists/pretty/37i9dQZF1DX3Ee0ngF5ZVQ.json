@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 401341,
+  "num_followers": 401327,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-07-23 21:45:26",
       "album": {
-        "name": "Another Man",
-        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
-      },
-      "artists": [
-        {
-          "name": "Caiden Wallace",
-          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "Another Man",
-      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
-    },
-    {
-      "added_at": "2026-07-23 21:45:26",
-      "album": {
         "name": "Diamondhead",
         "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 163133,
       "name": "That's Texas",
       "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
+    },
+    {
+      "added_at": "2026-07-23 21:45:26",
+      "album": {
+        "name": "Another Man",
+        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
     },
     {
       "added_at": "2026-07-23 21:45:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-23 21:45:26",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 253965,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
-    },
-    {
-      "added_at": "2026-07-23 21:45:26",
-      "album": {
         "name": "Fan of You",
         "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 221816,
       "name": "Fan of You",
       "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
+    },
+    {
+      "added_at": "2026-07-23 21:45:26",
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 253965,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
     },
     {
       "added_at": "2026-07-23 21:45:26",

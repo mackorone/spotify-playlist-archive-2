@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Amy Shark
 
-2,917 songs - 6 day 6 hr 51 min
+2,919 songs - 6 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-19 | 2024-09-13 |
 | [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-16 | 2024-09-06 |
 | [Animal](https://open.spotify.com/track/12mGJAmtikELVmyctntLr7) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Animal](https://open.spotify.com/album/0GZXL7e2W8ckWOV1DcfGrX) | 2:45 | 2026-01-15 | 2026-02-13 |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-24 |  |
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-18 | 2024-05-24 |
 | [Another Me](https://open.spotify.com/track/6N2ia0SNq4IPSo61WuTEZt) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Another Me](https://open.spotify.com/album/4zZHcMsNWP3SeNYREU33b6) | 2:44 | 2024-06-20 | 2024-07-12 |
 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 | 2024-10-11 | 2024-11-15 |
@@ -1457,6 +1458,7 @@
 | [Lemonade](https://open.spotify.com/track/6ygDuZR468369KJvtcQr5Z) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Lemonade](https://open.spotify.com/album/6jMpfEJqxuHjwlX0o7vFe7) | 2:30 | 2023-12-07 | 2024-01-19 |
 | [lend me your heart](https://open.spotify.com/track/55hFIGQp5PDurZoUlJOBFv) | [Olivia Coggan](https://open.spotify.com/artist/0RviVqVmodWIff4QoV70fU) | [lend me your heart](https://open.spotify.com/album/1xpvN4pT7oynsUY7jOhjwW) | 3:45 | 2026-02-05 | 2026-03-06 |
 | [Lenses](https://open.spotify.com/track/1R9mc3PQ8rvvmiAvwLGEXg) | [JAMIESON](https://open.spotify.com/artist/5RHCxGsjj4NySyWSNbaXyo) | [Lenses](https://open.spotify.com/album/565atKtd6zrP3ZdFRpLOKV) | 3:09 | 2024-06-27 | 2024-08-17 |
+| [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-24 |  |
 | [lesson learned](https://open.spotify.com/track/2rNqKSbPV283cPSS8uePpT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [lesson learned](https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN) | 3:08 | 2024-04-11 | 2024-05-10 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-14 | 2024-04-12 |
 | [Let Go of Me](https://open.spotify.com/track/2jzQjznFecKJdWFHr6cUIi) | [Vinnie Brigante](https://open.spotify.com/artist/7aKuM9zcFfXBnKv7bkXl9h) | [Let Go Of Me](https://open.spotify.com/album/4qkWFdsMcpcJ1BgimTN83c) | 3:12 | 2024-12-05 | 2025-02-21 |
@@ -1464,6 +1466,7 @@
 | [Let It Go](https://open.spotify.com/track/524wbK27Ssf7fMuzOUmJ7U) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Let It Go](https://open.spotify.com/album/2mjKjhxmC3ZInWFSmtAy71) | 3:33 | 2024-01-11 | 2024-01-19 |
 | [Let It Go](https://open.spotify.com/track/2YcAWq0FlcyFlPtYaVMSSF) | [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Let It Go](https://open.spotify.com/album/0nGfE1F2RdxJ2ycM7JqzmS) | 2:43 | 2023-11-09 | 2023-12-22 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-04-25 |
+| [Let Me Know](https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:54 | 2026-07-23 |  |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-04 | 2025-10-10 |
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 | 2025-12-12 |
 | [Let You Go](https://open.spotify.com/track/5u4CGbjFxDD2AvCwmEWy8r) | [Jessie Hill](https://open.spotify.com/artist/3i76swsyukYkuE5pLpmKOg) | [Let You Go](https://open.spotify.com/album/0bLo028U0eXELllnU0kyOF) | 2:52 | 2026-03-05 | 2026-04-03 |
@@ -2629,7 +2632,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 10](https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 0:00 | 2026-07-23 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2026-02-06 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |

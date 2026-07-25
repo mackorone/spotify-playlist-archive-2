@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88989,
+  "num_followers": 88990,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Silakbo",
-        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 237692,
-      "name": "Multo",
-      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30a2\u30a4\u30a6\u30bf",
-        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
+        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
       },
       "artists": [
         {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+          "name": "Arata Manako",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
         }
       ],
-      "duration_ms": 292917,
-      "name": "\u30a2\u30a4\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
+      "duration_ms": 195652,
+      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -563,34 +563,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
+        "name": "\u30a2\u30a4\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
       "artists": [
         {
-          "name": "Arata Manako",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
         }
       ],
-      "duration_ms": 195652,
-      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
-    },
-    {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Note of Mothership",
-        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Note of Mothership",
-      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
+      "duration_ms": 292917,
+      "name": "\u30a2\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -615,6 +599,22 @@
       "duration_ms": 204119,
       "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "back to you (you're the reason)",
-        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
-      },
-      "artists": [
-        {
-          "name": "satellite.",
-          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
-        }
-      ],
-      "duration_ms": 240392,
-      "name": "back to you (you're the reason)",
-      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u982c\u6756",
         "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220236,
       "name": "\u982c\u6756",
       "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "back to you (you're the reason)",
+        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+      },
+      "artists": [
+        {
+          "name": "satellite.",
+          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+        }
+      ],
+      "duration_ms": 240392,
+      "name": "back to you (you're the reason)",
+      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Maya, Maya, Maya",
@@ -811,6 +795,22 @@
       "duration_ms": 179919,
       "name": "Maya, Maya, Maya",
       "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 268313,
-      "name": "junior",
-      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
-    },
-    {
       "added_at": "2026-07-16 15:00:53",
       "album": {
         "name": "You are Silence",
@@ -1047,6 +1031,22 @@
       "duration_ms": 361000,
       "name": "You are Silence",
       "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "lovlaine (The Deluxe Album)",
         "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 218513,
       "name": "all my perfects",
       "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
-    },
-    {
       "added_at": "2026-05-07 16:20:46",
       "album": {
         "name": "What if\u2026",
@@ -1339,6 +1323,22 @@
       "duration_ms": 320000,
       "name": "\u63a5\u543b -kiss- (ORIGINAL LOVE 1993)",
       "url": "https://open.spotify.com/track/0oUwQhusb5Uzdf64Wf3R04"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "ceremony",
+        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 275354,
+      "name": "ceremony",
+      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1419,22 +1435,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "ceremony",
-        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 275354,
-      "name": "ceremony",
-      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
-      },
-      "artists": [
-        {
-          "name": "Original Love",
-          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
-      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 211358,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
+      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
     },
     {
       "added_at": "2026-02-19 15:16:11",

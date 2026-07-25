@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-248 songs - 21 hr 19 min
+249 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [I'll Survive](https://open.spotify.com/track/05cY7VGrSPSVU8AaBxqF6m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [I'll Survive](https://open.spotify.com/album/1oVqhb2AF8EJa4iFgdKiFm) | 2:41 | 2025-10-22 | 2026-01-26 |
 | [I'll Take Care Of You](https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 5:13 | 2022-10-05 | 2024-01-28 |
 | [I'll Take Care Of You](https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:13 | 2022-08-05 | 2022-10-06 |
-| [I'll Take Care of You](https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Beacon Theatre \- Live from New York](https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN) | 5:41 | 2025-02-12 |  |
+| [I'll Take Care of You](https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Beacon Theatre \- Live from New York](https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN) | 5:41 | 2025-02-12 | 2026-07-25 |
 | [I'll Take The Blame](https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 3:34 | 2025-07-20 |  |
 | [I've Got Some Mind Over What Matters](https://open.spotify.com/track/3YmTA9alkAY8Y5qL18OIPq) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:50 | 2022-10-05 | 2022-10-07 |
 | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/2EYDcErn35IoQ756IiAUiz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 9:22 | 2024-07-21 | 2024-10-14 |
@@ -235,6 +235,7 @@
 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2022-08-05 | 2023-10-11 |
 | [Walk On Hot Coals \(Live\)](https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 4:18 | 2026-06-26 |  |
 | [Walk On Hot Coals \(Live\)](https://open.spotify.com/track/5yYloBOrVFjPkklpBgNErJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk On Hot Coals \(Live\)](https://open.spotify.com/album/2GCmNQSN52HY23EfQxwlyl) | 4:18 | 2026-03-29 | 2026-04-26 |
+| [Walking By Myself \- Live](https://open.spotify.com/track/5Ni4FAAdUYYWW4Cef6xjri) | [Bernie Marsden](https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walking By Myself](https://open.spotify.com/album/05Ye0sgcdBhVoYZSWA0YdE) | 7:50 | 2026-07-25 |  |
 | [Watch Yourself](https://open.spotify.com/track/1v44E8dkYKZR2l07NX6e3t) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [B.B\. King's Blues Summit 100, Vol\. III](https://open.spotify.com/album/1ftanCZBzedbtiJRhhjton) | 3:28 | 2025-11-22 | 2025-11-26 |
 | [Watch Yourself](https://open.spotify.com/track/3oBFomGFURoRpc0hu71V2K) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 3:28 | 2026-02-11 | 2026-03-20 |
 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 | 2022-08-05 |  |

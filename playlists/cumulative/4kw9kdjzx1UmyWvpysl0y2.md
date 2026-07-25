@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,273 songs - 2 day 22 hr 38 min
+1,274 songs - 2 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Malva](https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:22 | 2022-11-09 | 2023-02-04 |
 | [MANIAC](https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [MANIAC](https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM) | 3:27 | 2025-09-02 | 2025-11-28 |
 | [Marea Turquesa](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Marea Turquesa](https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4) | 3:08 | 2023-01-23 | 2023-04-06 |
+| [Maxxin](https://open.spotify.com/track/0G6wBcaXMqoGcwfM6Rsd4s) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Maxxin](https://open.spotify.com/album/1qhoVk6YeDk8E4g1OpDZlt) | 3:46 | 2026-07-24 |  |
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-05-29 | 2023-08-28 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [MEANT 2 BE](https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija) | [MEANT 2 BE](https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE) | 2:44 | 2024-05-27 | 2024-08-17 |

@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMbELTaSQI7ByUplJrkJHI9VGkAgtJ",
+  "snapshot_id": "AAAMccX4fgEjTzupMXqW9LlH/9418id7",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -151591,6 +151591,90 @@
       "duration_ms": 137158,
       "name": "moonglow",
       "url": "https://open.spotify.com/track/0g9TAdriKculilWojd8829"
+    },
+    {
+      "added_at": "2026-07-24 13:05:00",
+      "album": {
+        "name": "My Soul, Your Beats!/Brave Song",
+        "url": "https://open.spotify.com/album/50nfRpjd9HcplBuwuBQmbw"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t"
+        },
+        {
+          "name": "VISUAL ARTS / Key",
+          "url": "https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "My Soul, Your Beats!",
+      "url": "https://open.spotify.com/track/5657i1LbjJ0HhJW23VcOT1"
+    },
+    {
+      "added_at": "2026-07-24 13:09:17",
+      "album": {
+        "name": "Daybreaker",
+        "url": "https://open.spotify.com/album/1UTyXmJlbZKQdWsf8U408W"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u54b2\u7d17\u82b1",
+          "url": "https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "World End",
+      "url": "https://open.spotify.com/track/72t3voAyrspPd7zbjg5Gm9"
+    },
+    {
+      "added_at": "2026-07-24 13:20:44",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1R5AS1CtX1SfzwogS8dmMG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 208050,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6ZtKB29KXVcSnYvxoGwOhq"
+    },
+    {
+      "added_at": "2026-07-24 13:20:51",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 169225,
+      "name": "All My Candles",
+      "url": "https://open.spotify.com/track/11HRSkKS5nDZB0921Kwne1"
+    },
+    {
+      "added_at": "2026-07-24 14:36:02",
+      "album": {
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/2HkcpRkF6GvlILQzFayrss"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Mayonaka no Door~stay with me",
+      "url": "https://open.spotify.com/track/4J2oDU9oacz7lJ7H8A8P8v"
     }
   ],
   "unique_name": "Purge",

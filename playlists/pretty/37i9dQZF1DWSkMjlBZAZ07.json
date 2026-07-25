@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1873003,
+  "num_followers": 1872935,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Seven Sisters",
-        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 223880,
       "name": "Five More Minutes",
       "url": "https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Seven Sisters",
+        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 135560,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "People Need a Melody",
-        "url": "https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "A Blaze of Feather",
         "url": "https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "People Need a Melody",
+        "url": "https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1123,6 +1107,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 274253,
-      "name": "Do It All For You",
-      "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 165925,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 274253,
+      "name": "Do It All For You",
+      "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Both Can Be True",
-        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Both Can Be True",
-      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 200538,
       "name": "Celia",
       "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
     },
     {
       "added_at": "2026-06-05 20:48:48",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ivan Cornejo. The essential tracks, all in one playlist.",
-  "num_followers": 173901,
+  "num_followers": 173930,
   "original_name": "This Is Ivan Cornejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAAW6gecXDdGoaE0u5xKDNoJ",
+  "snapshot_id": "amFZgAAAAAD1vB9kl6+nIRZOgLmYj356",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche de Relajo",
-        "url": "https://open.spotify.com/album/0lTdXd09zSFDHiSmW36G76"
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
       "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
         {
           "name": "Ivan Cornejo",
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 178304,
-      "name": "Noche de Relajo",
-      "url": "https://open.spotify.com/track/0R52ur6j5DRGpycSEHeE0D"
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+        "name": "Noche de Relajo",
+        "url": "https://open.spotify.com/album/0lTdXd09zSFDHiSmW36G76"
       },
       "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
         {
           "name": "Ivan Cornejo",
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+      "duration_ms": 178304,
+      "name": "Noche de Relajo",
+      "url": "https://open.spotify.com/track/0R52ur6j5DRGpycSEHeE0D"
     },
     {
       "added_at": null,

@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 172156,
+  "num_followers": 172185,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABA2bjt/dQc2MlaGr7BwSF106/cI",
+  "snapshot_id": "AAAAAHcm3pBtPFFcqM0kAVN+hGV5NEZ8",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:00:50",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/4DClTIq5hRwn09rJkbctRj"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Kenny Banks",
+          "url": "https://open.spotify.com/artist/6ZJmKRRAHENn4JELfLzfbd"
+        }
+      ],
+      "duration_ms": 351440,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/35kG2qj9nuZRxemLbTreFZ"
+    },
     {
       "added_at": "2026-07-17 04:00:00",
       "album": {
@@ -1803,22 +1823,6 @@
       "duration_ms": 213707,
       "name": "Release me",
       "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Time And Again",
-        "url": "https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 236695,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx"
     },
     {
       "added_at": "2024-06-28 04:00:00",

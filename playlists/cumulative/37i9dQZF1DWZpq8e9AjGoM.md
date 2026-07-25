@@ -4,13 +4,15 @@
 
 > The sound of spring.
 
-258 songs - 11 hr 15 min
+263 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2025-03-11 | 2026-05-23 |
 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2025-03-11 |  |
 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 | 2025-03-11 |  |
+| [Across The Meadow](https://open.spotify.com/track/4aMvYHZEhkrZgxbRn5Hk3A) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Across The Meadow](https://open.spotify.com/album/7rZzPzi3QEeE28ubyZpFLV) | 2:22 | 2026-07-24 |  |
+| [Aigua Blava](https://open.spotify.com/track/59vYXghvPGvJ5Klb8gjnQp) | [Finn Laurent](https://open.spotify.com/artist/2ZQAy39rSn6VA6WzsQviwR) | [Aigua Blava](https://open.spotify.com/album/5v8EEPywTkPP33yEGU12or) | 2:26 | 2026-07-24 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2025-03-11 | 2025-04-03 |
 | [Alcyone](https://open.spotify.com/track/1eZ7C5xgD8agqwvOu2wq4A) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Alcyone](https://open.spotify.com/album/6Xsu8tRX4MqyTI3MBCo2wT) | 2:50 | 2025-03-11 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2025-03-11 |  |
@@ -43,6 +45,7 @@
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2025-03-11 |  |
 | [Cat in the Window](https://open.spotify.com/track/26OrB2gpFnRjMe1km54hkw) | [Mia Brentano](https://open.spotify.com/artist/3v8vWzrqhEsmveIrEgWrrW), [Benyamin Nuss](https://open.spotify.com/artist/1VsZbYohHMAA3JiclOf4tt), [Billy Test](https://open.spotify.com/artist/3EME15RrKjq6bJPFc4zJkB) | [Mia Brentano´s Summerhouse](https://open.spotify.com/album/7Hln0PupqAkGSrbJntAn29) | 3:42 | 2025-03-11 |  |
 | [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 | 2025-05-21 |
+| [Celestia](https://open.spotify.com/track/7HhzltwhCcD6QGBfIJjrVM) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Celestia](https://open.spotify.com/album/4efHPFDdWcQr0FD3orworV) | 2:55 | 2026-07-24 |  |
 | [Childhood Memories](https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Childhood Memories](https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc) | 2:25 | 2025-03-26 | 2025-05-03 |
 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-11 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2025-03-11 |  |
@@ -65,6 +68,7 @@
 | [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 | 2025-03-11 | 2025-04-10 |
 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 | 2025-03-11 | 2026-05-23 |
 | [Ethereal Echo](https://open.spotify.com/track/3b69dyUMr81gp1lOqhTMam) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Ethereal Echo](https://open.spotify.com/album/58wTkyo7i284z4BWv4bf0d) | 3:33 | 2025-03-11 |  |
+| [Evening Apertivo](https://open.spotify.com/track/3sZ1OhAg2Af3uuHKqI2XZk) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Evening Apertivo](https://open.spotify.com/album/0OqN1t8N1hi84hhZ21joIE) | 2:23 | 2026-07-24 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2025-03-11 | 2026-05-23 |
 | [Expecting](https://open.spotify.com/track/5IZkV8mhcxxFyLduTPtnw0) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Expecting](https://open.spotify.com/album/7cEaMylwXOO3NopOoGlzvJ) | 2:38 | 2025-03-11 | 2025-04-03 |
 | [Exploration](https://open.spotify.com/track/6dtcaxikc6zhJLgaET3N0I) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Exploration](https://open.spotify.com/album/1qKksKw3gDQEJ09bKpIKst) | 2:47 | 2025-03-11 |  |
@@ -81,6 +85,7 @@
 | [Fra Eide](https://open.spotify.com/track/2LKivBGoJpoGKVHgcCyFAr) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Fra Eide](https://open.spotify.com/album/7z72Epn9rgwDYqcF5Tglqe) | 2:39 | 2025-03-11 |  |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2025-03-11 | 2026-05-23 |
 | [Freeflow](https://open.spotify.com/track/2NF8i4s59sMUb0sMcYllop) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Freeflow](https://open.spotify.com/album/5BN6SNSck7lwjmoMd5FlOL) | 2:05 | 2025-03-11 |  |
+| [Freely Falling](https://open.spotify.com/track/3FSMJt6mf0mSbxGKNhrhJA) | [Michael Rokser](https://open.spotify.com/artist/0UswV6RNzgYWmoc8oUGWiH) | [Freely Falling](https://open.spotify.com/album/0HKDSjTYvF8MeVv97LGYO5) | 2:05 | 2026-07-24 |  |
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2025-03-11 | 2025-04-03 |
 | [Garden of mine](https://open.spotify.com/track/0x0brgn1K22WQoqiexeLX9) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Garden of mine](https://open.spotify.com/album/0KddFugeznttIbjcdM2wZZ) | 2:41 | 2025-03-11 | 2026-05-02 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2025-03-11 |  |

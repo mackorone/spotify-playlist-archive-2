@@ -2,9 +2,9 @@
 
 ### [pop fm](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> Your frequency for today's hottest pop tracks in Mzansi\. Cover: MOONGA K.
+> Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-802 songs - 1 day 18 hr 28 min
+805 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-11-07 | 2024-11-16 |
 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 | 2026-01-23 |  |
 | [Dolce Vita](https://open.spotify.com/track/3icZ3wDL4J31dUFbIqGm7q) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Dolce Vita](https://open.spotify.com/album/7BM07pyAYIypULRmLOgGdo) | 3:31 | 2025-07-24 | 2025-08-01 |
-| [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 | 2026-02-19 |  |
+| [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 | 2026-02-19 | 2026-07-25 |
 | [Don't Cry](https://open.spotify.com/track/1YAnjTIRzOJtvduBcNUe8r) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Don't Cry](https://open.spotify.com/album/2E8IL9o71dUdFJqoZH7jfb) | 2:44 | 2024-11-15 | 2024-11-22 |
 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 | 2025-05-22 | 2025-07-09 |
 | [Don't Have U](https://open.spotify.com/track/6r2PmMAtceaC8oXgJwkgaL) | [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Don't Have U](https://open.spotify.com/album/3KDjtKeJujPIMgmC7uD4WO) | 2:59 | 2025-08-07 | 2025-08-30 |
@@ -289,6 +289,7 @@
 | [Hand Me Downs](https://open.spotify.com/track/2urVnZNYyycyyMBDgLZb3o) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Hand Me Downs](https://open.spotify.com/album/3FhTSTkgDYt2x6dwbGazkm) | 2:23 | 2025-05-15 | 2025-06-07 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-03-12 |
 | [HD Memories](https://open.spotify.com/track/2kEdpEUEO1nPKArnDWvryV) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [HD Memories](https://open.spotify.com/album/1ux7cK47FYgsErEg8lGREA) | 3:10 | 2025-06-26 | 2025-07-11 |
+| [Head First](https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Head First](https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L) | 2:41 | 2026-07-24 |  |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-20 | 2025-06-27 |
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-15 | 2024-11-22 |
 | [Hearts Will Know](https://open.spotify.com/track/1YfO7FJSZcP6J0u3Ug3kxE) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Hearts Will Know](https://open.spotify.com/album/1pAW1YQJwAYXZcGMqbiLBU) | 3:20 | 2025-06-26 | 2025-07-11 |
@@ -480,7 +481,7 @@
 | [MY EVERYTHING](https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [PARADISE LOST](https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9) | 3:16 | 2026-03-20 |  |
 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 | 2026-04-23 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2026-01-23 |  |
-| [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 |  |
+| [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 | 2026-07-25 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2026-01-24 |
 | [Nauseous](https://open.spotify.com/track/0u1jUuJRzQfsfukx9Jvc9G) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 3:43 | 2025-08-21 | 2025-09-27 |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |
@@ -569,7 +570,7 @@
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-14 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-16 | 2025-04-11 |
 | [Salt & Lime](https://open.spotify.com/track/2AJtc0ASFIqKSNh9Mn9n1b) | [Rouxé](https://open.spotify.com/artist/3yGjyAxNng3PQFUw1RaSum), [BigDig](https://open.spotify.com/artist/0npVqd6cPBjPbDqvYaCNU7) | [Salt & Lime](https://open.spotify.com/album/1ka1vf8v3iSYXrI6Qu9Csi) | 3:39 | 2025-07-10 | 2025-07-18 |
-| [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 | 2026-02-19 |  |
+| [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 | 2026-02-19 | 2026-07-25 |
 | [Santa Tell Me \- Peppermint Mix](https://open.spotify.com/track/26ytnVFUlycBLFsUiFKR7W) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Santa Tell Me and Boy For a Day](https://open.spotify.com/album/7awqKKOXZ4u4GuYauzYu9S) | 3:06 | 2024-11-21 | 2024-12-06 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 | 2026-01-24 |
 | [Satellites](https://open.spotify.com/track/1BDdd5MksefeYznSnCERBS) | [Matt Gardiner](https://open.spotify.com/artist/1LBEtmJ1MsBzkFl5kV9pR6) | [Satellites](https://open.spotify.com/album/6nS3xyTPcHuMNjh2ngwKha) | 2:33 | 2024-10-10 | 2024-11-08 |
@@ -671,6 +672,8 @@
 | [Tell Me More](https://open.spotify.com/track/3Bh2LsZIwxBp0Zi1ImmFiR) | [Conn](https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7) | [Tell Me More](https://open.spotify.com/album/1zbcHq8wN3d80fIl4ssTbX) | 2:41 | 2025-07-24 | 2025-08-01 |
 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 | 2025-06-20 | 2025-06-27 |
 | [tension](https://open.spotify.com/track/4chclSZyG4YneO4T1MnVAF) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [tension](https://open.spotify.com/album/5LU2gjfuSIb0ZMsmMUwLnz) | 2:40 | 2025-07-31 | 2025-08-22 |
+| [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 | 2026-07-24 |  |
+| [That's Fine](https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil) | 3:21 | 2026-07-24 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-18 | 2026-01-24 |
 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 | 2025-06-20 | 2025-07-11 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-07-11 | 2024-08-10 |

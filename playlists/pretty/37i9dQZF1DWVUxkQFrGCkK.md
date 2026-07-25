@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Deer Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,325 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,393 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 8 | [Europa](https://open.spotify.com/track/1uWYyOMCaXX3bT44u5qV7k) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Manu Dadamo](https://open.spotify.com/artist/2zjZvBCefV17DTMut3cW8Z) | [Europa](https://open.spotify.com/album/6AlUnV5YH15q6pZwz2JPQ4) | 2:44 |
 | 9 | [Sassy](https://open.spotify.com/track/6yDz1uegyUcVxwrcLUo1Ke) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt) | [Sassy](https://open.spotify.com/album/4WS9pJ9OgY1DGamXbo7grr) | 3:06 |
 | 10 | [Dancing Till Sunrise](https://open.spotify.com/track/7ytDYGgGS3t50kaT2P5hIE) | [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Dancing Till Sunrise](https://open.spotify.com/album/2NOEeK2OrNWcSQiOKH1oE2) | 2:44 |
-| 11 | [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
+| 11 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 12 | [Warawara](https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Warawara](https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK) | 3:39 |
 | 13 | [Confident](https://open.spotify.com/track/1K5wN7XvLdVuHXqg5M60Ol) | [Inda Jani](https://open.spotify.com/artist/2H871Uedpzv7asnQX3gLVk), [Ghezz](https://open.spotify.com/artist/5OtyxNQ58Q3rvKLj9ezi0s) | [Confident](https://open.spotify.com/album/2Llbf1dAmejhlVIlqkAek0) | 5:30 |
 | 14 | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 |

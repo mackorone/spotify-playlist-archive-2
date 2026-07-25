@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: G.Nine\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: John Park\)
 
-657 songs - 1 day 11 hr 10 min
+659 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [It's Christmas time](https://open.spotify.com/track/1LI3yIf50lkVqvvt50Qplo) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/6CYBT4jAAQ8paCTvnjrgYs) | [It's Christmas Time](https://open.spotify.com/album/6kdd3CABGistMILJ4mkdib) | 2:57 | 2024-12-05 | 2025-04-18 |
 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [it's my fault](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 | 2024-07-29 | 2024-09-21 |
 | [It's You](https://open.spotify.com/track/6nWK2Fz96SbV1l0pCPwKGB) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [It's You](https://open.spotify.com/album/5QkTqTPEkn2JQND4Z0xipM) | 3:32 | 2025-01-24 | 2025-05-21 |
-| [IYWO](https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [WOOKI](https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [IYWO](https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy) | 3:54 | 2026-02-23 |  |
+| [IYWO](https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [WOOKI](https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [IYWO](https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy) | 3:54 | 2026-02-23 | 2026-07-25 |
 | [izzana \(Feat\. OLNL\)](https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [izzana \(Feat\. OLNL\)](https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N) | 3:32 | 2024-04-30 | 2024-08-11 |
 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 | 2024-04-05 | 2024-08-07 |
 | [Jealousy](https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jealousy](https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr) | 2:55 | 2022-06-09 | 2022-09-06 |
@@ -398,7 +398,7 @@
 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 | 2024-11-29 | 2025-03-13 |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-05-28 | 2022-07-08 |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-05-28 | 2022-07-14 |
-| [Need Your Love](https://open.spotify.com/track/4TmUt54LsJM2Lcdc8xuYlH) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Need Your Love](https://open.spotify.com/album/2mRFv7TogKJHA2hN8B06iw) | 2:32 | 2026-02-05 |  |
+| [Need Your Love](https://open.spotify.com/track/4TmUt54LsJM2Lcdc8xuYlH) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Need Your Love](https://open.spotify.com/album/2mRFv7TogKJHA2hN8B06iw) | 2:32 | 2026-02-05 | 2026-07-25 |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-20 | 2025-09-19 |
 | [Never Let Me Go](https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-01-13 | 2023-08-18 |
 | [Never walk away](https://open.spotify.com/track/3JcdQdCAgzqOndLZfenPJN) | [youz](https://open.spotify.com/artist/0DnzwTQFyxjR4Dnvn6zckz) | [Never walk away](https://open.spotify.com/album/3o40tfZQqJNrohFB0Y032a) | 2:07 | 2025-06-02 | 2025-10-23 |
@@ -538,6 +538,7 @@
 | [summer border](https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [summer border](https://open.spotify.com/album/3GTHzjJXhjSG2JV4nPcu3W) | 2:25 | 2026-05-14 |  |
 | [Summer Film](https://open.spotify.com/track/4GxzpNi392N3WKWeH6pcDF) | [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Summer Film](https://open.spotify.com/album/2c3oSnPNFVp5c6mPk4AiDM) | 3:18 | 2024-09-02 | 2025-01-25 |
 | [Summer Night \(feat\. Pat Kiloran\)](https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Pat Kiloran](https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5) | [Summer Night](https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76) | 3:01 | 2024-08-30 | 2025-01-18 |
+| [Summer Returns](https://open.spotify.com/track/6MTRVCpq2oYiMohCEDhulb) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Summer Returns](https://open.spotify.com/album/0feiOeedoEXYfQg80qACla) | 2:43 | 2026-07-24 |  |
 | [Summer's Not Over](https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer's Not Over](https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA) | 2:37 | 2026-05-14 |  |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
@@ -570,6 +571,7 @@
 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-14 | 2025-06-03 |
 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 | 2025-01-24 | 2025-05-21 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-14 | 2025-02-21 |
+| [Thursday \(Feat\. Leellamarz, Crush\)](https://open.spotify.com/track/5JesN4KTmkq87xWJKUZdka) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:59 | 2026-07-24 |  |
 | [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 | 2026-05-07 |  |
 | [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 | 2025-07-09 | 2026-01-23 |

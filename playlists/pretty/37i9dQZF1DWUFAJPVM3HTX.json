@@ -1,13 +1,29 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN?si=bc4OEJ1JT7qFbXZz4zgZ_g\">Ezra</a>. Updates every Wednesday.",
-  "num_followers": 287857,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=608b4d7e29df4a3c\">JEDSOUL</a>. Updates every Wednesday.",
+  "num_followers": 287917,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6",
+  "snapshot_id": "AAAAAOJAc+mrUAZ/KUxUBQU30Vm37GTJ",
   "tracks": [
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 132999,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
+    },
     {
       "added_at": "2026-07-10 20:08:40",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 196672,
       "name": "Let Me Love U Better",
       "url": "https://open.spotify.com/track/4Qlx8CG6EeICnlpCvFLeXY"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "HONEY BROWN",
+        "url": "https://open.spotify.com/album/0QLvvGOrI8rlRMZaQaTuSm"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "HONEY BROWN",
+      "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
     },
     {
       "added_at": "2026-07-10 20:08:40",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "Fade To BLUE",
+        "url": "https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 138654,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "Dare You/N2S",
@@ -55,6 +103,22 @@
       "duration_ms": 149976,
       "name": "Dare You/N2S",
       "url": "https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
     },
     {
       "added_at": "2026-06-17 18:03:14",
@@ -89,6 +153,22 @@
       "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
     },
     {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "could it be love",
+        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "could it be love",
+      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "Crybaby",
@@ -121,20 +201,60 @@
       "url": "https://open.spotify.com/track/7uKoJBYPqduAuuxmduQYse"
     },
     {
-      "added_at": "2026-06-17 18:03:14",
+      "added_at": "2026-07-24 18:18:58",
       "album": {
-        "name": "Wishing That We Met",
-        "url": "https://open.spotify.com/album/6FTTkZc75egFmd91GYc3sv"
+        "name": "Girls Girl",
+        "url": "https://open.spotify.com/album/4AdcgHiAznrp28mw2TWrZW"
       },
       "artists": [
         {
-          "name": "Stevan",
-          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+          "name": "Jazlyn Martin",
+          "url": "https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
         }
       ],
-      "duration_ms": 134359,
-      "name": "Wishing That We Met",
-      "url": "https://open.spotify.com/track/6afccIewy0Vpfq6YSibcv3"
+      "duration_ms": 234936,
+      "name": "Girls Girl",
+      "url": "https://open.spotify.com/track/4GZyI66owgPoIaCYpCh65j"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "DUMBCRAZYSTUPID (Deluxe)",
+        "url": "https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        }
+      ],
+      "duration_ms": 162023,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "QLV",
+        "url": "https://open.spotify.com/album/5GyZhaGNeC7RWwdoqEl2dS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Lobban",
+          "url": "https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "QLV",
+      "url": "https://open.spotify.com/track/4HB2SIgijSKf3H8fyFMOdp"
     },
     {
       "added_at": "2026-07-10 20:08:40",
@@ -153,6 +273,54 @@
       "url": "https://open.spotify.com/track/3e8FVx3zf98w435LQ7H8BM"
     },
     {
+      "added_at": "2026-06-17 18:03:14",
+      "album": {
+        "name": "Wishing That We Met",
+        "url": "https://open.spotify.com/album/6FTTkZc75egFmd91GYc3sv"
+      },
+      "artists": [
+        {
+          "name": "Stevan",
+          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+        }
+      ],
+      "duration_ms": 134359,
+      "name": "Wishing That We Met",
+      "url": "https://open.spotify.com/track/6afccIewy0Vpfq6YSibcv3"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 154754,
+      "name": "LEMONS",
+      "url": "https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi"
+    },
+    {
+      "added_at": "2026-06-17 18:03:14",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/6PY2fsWudnuKAeIgHXk7Ta"
+      },
+      "artists": [
+        {
+          "name": "ZURI",
+          "url": "https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/00khq2O6tq0msfWIhQ8KqR"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "Nobody Nobody",
@@ -167,6 +335,38 @@
       "duration_ms": 121728,
       "name": "Nobody Nobody",
       "url": "https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "Tit 4 Tat",
+        "url": "https://open.spotify.com/album/39xXEZ6T8Tcl2bsnd92MMR"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Tit 4 Tat",
+      "url": "https://open.spotify.com/track/1A51S6aWOo0yjkU8U7RwzO"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/6xAWyKJaOEVBOSvwdxbrR4"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 173742,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
     },
     {
       "added_at": "2026-07-10 20:08:40",
@@ -199,22 +399,6 @@
       "duration_ms": 171910,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/6PY2fsWudnuKAeIgHXk7Ta"
-      },
-      "artists": [
-        {
-          "name": "ZURI",
-          "url": "https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/00khq2O6tq0msfWIhQ8KqR"
     },
     {
       "added_at": "2026-07-10 20:08:40",

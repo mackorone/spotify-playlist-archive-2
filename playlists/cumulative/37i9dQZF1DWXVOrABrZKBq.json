@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9, Ninho",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Alonzo, SAF, Lebeey, Le Bigs",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -1011,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "Chil-p",
+          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "AMBITION",
+      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
+    },
+    {
+      "album": {
         "name": "SEREIN, PT. 2",
         "url": "https://open.spotify.com/album/1qV7ub1BHpw36XHWjZZ4Va"
       },
@@ -1321,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/6fvBamYQXKR2cva8wjAIME"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151115,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7gK04VqpO5iznmYkXT0AAF"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -1442,7 +1486,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
@@ -1880,6 +1924,28 @@
       "duration_ms": 142152,
       "name": "Blood",
       "url": "https://open.spotify.com/track/6YQog39dMS4eoKFVB9LetC"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/2jk1Dj2vqDnYXkNTS2qU0S"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160542,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis"
     },
     {
       "album": {
@@ -2632,7 +2698,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212608,
       "name": "CARTE DE S\u00c9JOUR",
       "url": "https://open.spotify.com/track/2cXonA7Sc8LGEhaee8EQtM"
@@ -2712,7 +2778,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201293,
       "name": "CATWALK",
       "url": "https://open.spotify.com/track/1TomEf9WZAHfxsmr72AyVk"
@@ -2836,6 +2902,28 @@
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
+    },
+    {
+      "album": {
+        "name": "En Attendant Int\u00e9gral 3",
+        "url": "https://open.spotify.com/album/3D0awOGU1eDPH0tTA21227"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166235,
+      "name": "Chocolat",
+      "url": "https://open.spotify.com/track/0FIaZBj6LZBC1e9iIFOhcD"
     },
     {
       "album": {
@@ -2970,6 +3058,24 @@
       "duration_ms": 167108,
       "name": "CH\u00c9RIE COCO",
       "url": "https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "album": {
@@ -4660,6 +4766,36 @@
       "duration_ms": 181266,
       "name": "Facile",
       "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
+    },
+    {
+      "album": {
+        "name": "DRAKKAR",
+        "url": "https://open.spotify.com/album/0ekxNE5PbWZCU68P1pLucd"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        },
+        {
+          "name": "Lebeey",
+          "url": "https://open.spotify.com/artist/05jPthzyvBE9uC3kdKOMbb"
+        },
+        {
+          "name": "Le Bigs",
+          "url": "https://open.spotify.com/artist/6hUO748gw9O0chu3X60wRN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194391,
+      "name": "FAGNA BOOST\u00c9",
+      "url": "https://open.spotify.com/track/2dcBRiPqAr4Irr6uEbW1hI"
     },
     {
       "album": {
@@ -6618,7 +6754,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 126315,
       "name": "kanji",
       "url": "https://open.spotify.com/track/066OJkWyKExrVhsw9org4b"
@@ -6844,6 +6980,24 @@
       "duration_ms": 168288,
       "name": "L'hiver vient #2 - Voie 4",
       "url": "https://open.spotify.com/track/57Mxom3aYanqBs6JpQsgfR"
+    },
+    {
+      "album": {
+        "name": "L'humain",
+        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "L'humain",
+      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
     },
     {
       "album": {
@@ -7274,6 +7428,24 @@
       "duration_ms": 144255,
       "name": "LAST DANCE",
       "url": "https://open.spotify.com/track/7FoAioGJbGEFzaYeYsCFyP"
+    },
+    {
+      "album": {
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "album": {
@@ -8095,6 +8267,24 @@
     },
     {
       "album": {
+        "name": "Maracan\u00e3",
+        "url": "https://open.spotify.com/album/2NxksJ1HvTdFXQ9CnP535o"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Maracan\u00e3",
+      "url": "https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW"
+    },
+    {
+      "album": {
         "name": "Marilouu",
         "url": "https://open.spotify.com/album/7xKwSliy7AuPxZjf0So8RT"
       },
@@ -8593,6 +8783,24 @@
     },
     {
       "album": {
+        "name": "MON B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "MON B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "album": {
         "name": "MON B\u00c9B\u00c9 (Free kitty version)",
         "url": "https://open.spotify.com/album/6ZYG5fxJM4ymFiIuJfVFJf"
       },
@@ -8742,7 +8950,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192771,
       "name": "Monstrueux",
       "url": "https://open.spotify.com/track/2TDCLfUiTEoPSrjUIAI6V7"
@@ -8968,6 +9176,24 @@
       "duration_ms": 180923,
       "name": "M\u00e9lanine",
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lo D\u00e9cal\u00e9",
+        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "M\u00e9lo D\u00e9cal\u00e9",
+      "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
       "album": {
@@ -9604,7 +9830,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Opps",
       "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
@@ -9718,6 +9944,24 @@
       "duration_ms": 140377,
       "name": "panamera",
       "url": "https://open.spotify.com/track/5M9SPLH9iAGoqW6WBsFc61"
+    },
+    {
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
     },
     {
       "album": {
@@ -9979,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "PAS DE REFRAIN",
+        "url": "https://open.spotify.com/album/0muQlD92bPORIlWmINUINd"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120842,
+      "name": "PAS DE REFRAIN",
+      "url": "https://open.spotify.com/track/2EDGkj6mp1P0MeZM6NJaiv"
+    },
+    {
+      "album": {
         "name": "PAS LE CHOIX",
         "url": "https://open.spotify.com/album/3s9fg9EqFaoHaWx64KXZCV"
       },
@@ -10100,6 +10362,24 @@
       "duration_ms": 188500,
       "name": "Pearl Harbor",
       "url": "https://open.spotify.com/track/3pQ1sYnHaq2T45ewKCYaPx"
+    },
+    {
+      "album": {
+        "name": "PELELE",
+        "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127998,
+      "name": "PELELE",
+      "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
     },
     {
       "album": {
@@ -10969,6 +11249,24 @@
     },
     {
       "album": {
+        "name": "RAP d\u2019arabe",
+        "url": "https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181829,
+      "name": "RAP d\u2019arabe",
+      "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"
+    },
+    {
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo"
       },
@@ -11140,7 +11438,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 193161,
       "name": "Rien ne sera plus comme avant",
       "url": "https://open.spotify.com/track/21UfzFtNns7DkUXDDEPrz1"
@@ -11882,7 +12180,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245950,
       "name": "SEPT ANS DE MALHEUR (titre permanent)",
       "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
@@ -14052,6 +14350,24 @@
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
+    },
+    {
+      "album": {
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147462,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
       "album": {

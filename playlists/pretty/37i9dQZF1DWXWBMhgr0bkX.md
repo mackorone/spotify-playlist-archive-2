@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Isabel
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,332 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,342 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 11 | [RUMOURS](https://open.spotify.com/track/1i75EU9PVdgpbGHduHclqd) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [RUMOURS](https://open.spotify.com/album/6RPTzdGooT79n9Bsbt3egq) | 3:16 |
 | 12 | [SUN FROM BOTH SIDES](https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [SUN FROM BOTH SIDES](https://open.spotify.com/album/4FaVqDP2br0TqNX6Kb4tQQ) | 3:40 |
 | 13 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
-| 14 | [days end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [days end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
+| 14 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 15 | [You Must Be A Miracle](https://open.spotify.com/track/7hEF5DkbYDgUtkfKE9PaH7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [You Must Be A Miracle](https://open.spotify.com/album/6Hgl1HxWQJVUhizKcVjOCO) | 3:18 |
 | 16 | [Dog Eat Dog](https://open.spotify.com/track/0arRYqMX7v9hkZACx7evt8) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Dog Eat Dog](https://open.spotify.com/album/6TXcy5LnGKMoBo4fkML9xE) | 3:13 |
 | 17 | [both be happier](https://open.spotify.com/track/6CIbLErx7WosfLorB4JE1T) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [girl in stem](https://open.spotify.com/album/17Ro49BRz5Gveylng2A7Ri) | 2:52 |

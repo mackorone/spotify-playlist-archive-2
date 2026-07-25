@@ -9045,6 +9045,24 @@
     },
     {
       "album": {
+        "name": "wenn ich gro\u00df bin",
+        "url": "https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202782,
+      "name": "Erwachsen sein",
+      "url": "https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k"
+    },
+    {
+      "album": {
         "name": "Es bleibt spannend",
         "url": "https://open.spotify.com/album/13enGCel0CjCAUoo2fvQX4"
       },
@@ -30102,24 +30120,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "wenn ich gro\u00df bin",
-        "url": "https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK"
-      },
-      "artists": [
-        {
-          "name": "yara",
-          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k"
     },
     {
       "album": {

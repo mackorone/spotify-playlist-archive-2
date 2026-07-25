@@ -7195,6 +7195,24 @@
     },
     {
       "album": {
+        "name": "For Your Eyes Only",
+        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177464,
+      "name": "For Your Eyes Only",
+      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
+    },
+    {
+      "album": {
         "name": "Forcefed Serenity",
         "url": "https://open.spotify.com/album/5gW4SSCvyvPC36IQsu1icB"
       },
@@ -22486,24 +22504,6 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "album": {
-        "name": "For Your Eyes Only",
-        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
     },
     {
       "album": {

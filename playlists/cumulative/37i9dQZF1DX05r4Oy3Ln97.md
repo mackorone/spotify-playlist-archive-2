@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-526 songs - 1 day 3 hr 57 min
+527 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 | 2023-01-27 | 2023-10-06 |
 | [I Feel Fine](https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7) | 3:18 | 2022-09-09 | 2022-11-09 |
 | [I Feel It Too](https://open.spotify.com/track/7q1HTi8JRpHEr73M6m0Z9h) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [I Feel It Too](https://open.spotify.com/album/0z8ZRKGJ2PVFuki4UhguLT) | 3:45 | 2021-10-29 | 2022-01-19 |
-| [I Feel So Free \- Peggy Gou Energy Mix](https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Feel So Free \(Peggy Gou Energy Mix\)](https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt) | 4:27 | 2026-05-15 |  |
+| [I Feel So Free \- Peggy Gou Energy Mix](https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Feel So Free \(Peggy Gou Energy Mix\)](https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt) | 4:27 | 2026-05-15 | 2026-07-25 |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-01-24 | 2024-07-21 |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-25 | 2026-04-01 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2022-03-25 | 2022-04-21 |
@@ -248,6 +248,7 @@
 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 | 2023-03-31 | 2025-03-22 |
 | [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 | 2023-05-12 | 2024-09-14 |
 | [Inhale \- Carlita Remix](https://open.spotify.com/track/1f1ew2QvBiLvV7x9DKaEYl) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Inhale / Exhale Remixed](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 3:33 | 2025-05-02 | 2025-06-16 |
+| [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 | 2026-07-24 |  |
 | [It's So Nice \(ft\. 3DDY\)](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 | 2026-06-12 |  |
 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 | 2024-07-19 | 2026-06-27 |
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-03-11 | 2022-07-26 |

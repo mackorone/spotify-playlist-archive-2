@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-233 songs - 7 hr 2 min
+234 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [PS vs VT](https://open.spotify.com/track/2s9xmFKi7AHRFPaGi1t7yU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 2:25 | 2024-01-08 | 2024-06-08 |
 | [Raayan Rules](https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 0:56 | 2024-12-10 | 2025-06-06 |
 | [Raayan's Lullaby](https://open.spotify.com/track/76QBbZb1mrmGYwRKT4Tg21) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:21 | 2024-12-10 | 2025-01-17 |
+| [Raga of Madness](https://open.spotify.com/track/7pfh5uXaQKnk6h0dRpui9M) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [DC \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ) | 3:18 | 2026-07-24 |  |
 | [Raga of Revenge \(From "DC"\)](https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Raga of Revenge \(From "DC"\)](https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8) | 2:11 | 2026-05-18 |  |
 | [Rage \- Background Score](https://open.spotify.com/track/7qPxOwZn2x7wTADnISudyx) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 1:01 | 2023-01-25 | 2023-02-07 |
 | [Rage for Vengeance](https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:13 | 2024-03-17 | 2024-06-08 |
@@ -196,7 +197,7 @@
 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 | 2021-11-01 |  |
 | [Thalaivar Intro](https://open.spotify.com/track/66GwGKo3iBBEQ51sw1YFcj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:41 | 2021-11-01 | 2022-07-09 |
 | [Thalaivar Rampage Theme Music \- Instrumental](https://open.spotify.com/track/2UyVeBgW9G7NibqtFgZaoX) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Annaatthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2E3gGgI2ai0bdeHsMNHCN7) | 1:58 | 2021-11-01 | 2023-09-22 |
-| [Thalapathy Vetri Kondan](https://open.spotify.com/track/1UBTWr92y3Nh93TewXycYS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Jana Nayagan](https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso) | 1:42 | 2026-07-23 |  |
+| [Thalapathy Vetri Kondan](https://open.spotify.com/track/1UBTWr92y3Nh93TewXycYS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Jana Nayagan](https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso) | 1:42 | 2026-07-23 | 2026-07-25 |
 | [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/track/3KUHtEaJVm1uUzL8KCiqwG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Thangalaan \(Exclusive Making Theme\)](https://open.spotify.com/album/08Gc2Y9PRNZtzf2dbW6Zb5) | 1:46 | 2023-04-20 | 2023-04-22 |
 | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/track/5EbAvvCyUFOhixZyCGDfAI) | [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn) | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/album/6w0jwN8WqJ9dzKsat5zAwP) | 1:46 | 2023-04-20 | 2023-06-09 |
 | [Thanjavur](https://open.spotify.com/track/0ez994tBZGGpFG0g3lC102) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [96 \(Original Background Score\)](https://open.spotify.com/album/2wVkKhJFevirGdI4II2FM8) | 1:04 | 2023-02-06 | 2023-02-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-12-04",
-  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ucf54\ub9ac\uc544 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: The Mar\u00edas)",
+  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ucf54\ub9ac\uc544 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Chanel Beads)",
   "name": "Editor's Picks Korea: \uc5d0\ub514\ud130\uc758 \ucde8\ud5a5",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 238000,
       "name": "Day dream",
       "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194000,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/1HFcJsOxF3VEUmYM8PpjlQ"
@@ -4281,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "The Coward Forgets His Nightmare",
+      "url": "https://open.spotify.com/track/5y1700nBNwTDnuEnzuUMWk"
+    },
+    {
+      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -4666,6 +4684,32 @@
       "duration_ms": 275000,
       "name": "What Do I Steal?",
       "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
+    },
+    {
+      "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326909,
+      "name": "When I\u2019m Home",
+      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
     },
     {
       "album": {

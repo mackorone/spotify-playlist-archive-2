@@ -1,13 +1,29 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nwith Locky & Luke Dean",
-  "num_followers": 87693,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Jamback",
+  "num_followers": 87757,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBlmzBdbS9dD85anllk3yCxAo0M",
+  "snapshot_id": "AAAAAKGgpI0/v7CDMjvJA7sEE8HnE1A/",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:01:33",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
+    },
     {
       "added_at": "2026-07-17 15:05:04",
       "album": {
@@ -23,78 +39,6 @@
       "duration_ms": 156498,
       "name": "Hey Everybody (Back In The Dance)",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
-    },
-    {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
-    },
-    {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "Check One, Check Two",
-        "url": "https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        }
-      ],
-      "duration_ms": 156458,
-      "name": "Check One, Check Two",
-      "url": "https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD"
-    },
-    {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 176969,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
-    },
-    {
-      "added_at": "2026-07-17 04:01:06",
-      "album": {
-        "name": "I Just Need You",
-        "url": "https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "I Just Need You",
-      "url": "https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev"
     },
     {
       "added_at": "2026-07-17 04:01:06",
@@ -121,20 +65,52 @@
       "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
     },
     {
-      "added_at": "2026-07-10 04:02:04",
+      "added_at": "2026-07-24 04:01:33",
       "album": {
-        "name": "Move Shake",
-        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+        "name": "Ah Ah Ah",
+        "url": "https://open.spotify.com/album/7rKCKT639yeCpA8MB7PHU5"
       },
       "artists": [
         {
-          "name": "Jeff Sorkowitz",
-          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Move Shake",
-      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
+      "duration_ms": 239888,
+      "name": "Ah Ah Ah",
+      "url": "https://open.spotify.com/track/2WCdQPOg6vWU1mSb1ozqNc"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-24 04:01:33",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
     },
     {
       "added_at": "2026-07-03 04:01:53",
@@ -151,6 +127,118 @@
       "duration_ms": 182255,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "I Just Need You",
+        "url": "https://open.spotify.com/album/4DvmM8xYBgAvjUS1bDbQvy"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev"
+    },
+    {
+      "added_at": "2026-07-24 04:01:33",
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Dream or Fantasy",
+      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Move Shake",
+        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Move Shake",
+      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
+    },
+    {
+      "added_at": "2026-07-24 04:01:33",
+      "album": {
+        "name": "NTB / Rockin'",
+        "url": "https://open.spotify.com/album/6Zs6JUFnrETZbqTUfAZ2O4"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Will Makin",
+          "url": "https://open.spotify.com/artist/5mlHhVwONbABzNhcrw4jNd"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Rockin'",
+      "url": "https://open.spotify.com/track/6KeiZ3gXkeqkKMyH8FL17U"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
+    },
+    {
+      "added_at": "2026-07-10 04:02:04",
+      "album": {
+        "name": "Check One, Check Two",
+        "url": "https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "duration_ms": 156458,
+      "name": "Check One, Check Two",
+      "url": "https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD"
     },
     {
       "added_at": "2026-07-17 04:01:06",
@@ -205,24 +293,20 @@
       "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
     },
     {
-      "added_at": "2026-07-17 04:01:06",
+      "added_at": "2026-07-24 04:01:33",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/2dIF1VlTdYgJxZ2tvElVgr"
+        "name": "Late Night Fever / Rock The Rhythm",
+        "url": "https://open.spotify.com/album/2K4wFJyxjqKN31VdLSsOgT"
       },
       "artists": [
         {
-          "name": "Caleb Laurenson",
-          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+          "name": "Jackyboom",
+          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
         }
       ],
-      "duration_ms": 226259,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4"
+      "duration_ms": 163636,
+      "name": "Late Night Fever",
+      "url": "https://open.spotify.com/track/3dIKCvdyTFToKmYZEo79Es"
     },
     {
       "added_at": "2026-07-03 04:01:53",
@@ -263,6 +347,26 @@
       "duration_ms": 159615,
       "name": "My Place",
       "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+    },
+    {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "Jammin'",
+        "url": "https://open.spotify.com/album/1WTjMMgwk5HEzpvwuw2NBy"
+      },
+      "artists": [
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        },
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Jammin",
+      "url": "https://open.spotify.com/track/73HI3WuwM7W12t1X3x12Vr"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -329,6 +433,26 @@
       "url": "https://open.spotify.com/track/07G7jbxZhIH0Y6YXe0XnV5"
     },
     {
+      "added_at": "2026-07-17 04:01:06",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/2dIF1VlTdYgJxZ2tvElVgr"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 226259,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4"
+    },
+    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "Best Be Believing",
@@ -377,24 +501,20 @@
       "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
     },
     {
-      "added_at": "2026-07-17 04:01:06",
+      "added_at": "2026-07-24 04:01:33",
       "album": {
-        "name": "Jammin'",
-        "url": "https://open.spotify.com/album/1WTjMMgwk5HEzpvwuw2NBy"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/1vwzvVxE8Vh0uFoodFwC0t"
       },
       "artists": [
         {
-          "name": "Simon Kidzoo",
-          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
-        },
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+          "name": "FINKY",
+          "url": "https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2"
         }
       ],
-      "duration_ms": 181648,
-      "name": "Jammin",
-      "url": "https://open.spotify.com/track/73HI3WuwM7W12t1X3x12Vr"
+      "duration_ms": 169090,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4ObUQ0EdAr5ovq8UGUo03V"
     },
     {
       "added_at": "2026-06-05 04:01:30",
@@ -595,26 +715,6 @@
       "duration_ms": 146564,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
-    },
-    {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "Misbehaving",
-        "url": "https://open.spotify.com/album/6ixenUpILxc0iM3MRS0f2f"
-      },
-      "artists": [
-        {
-          "name": "Mad.Again",
-          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Misbehaving",
-      "url": "https://open.spotify.com/track/6WcoFEjaMaCcgBJQ4E790k"
     },
     {
       "added_at": "2026-07-10 04:02:04",
@@ -1261,26 +1361,6 @@
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Back to the 305",
-        "url": "https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a"
-      },
-      "artists": [
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 177730,
-      "name": "Back to the 305",
-      "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
-    },
-    {
       "added_at": "2026-05-08 04:01:49",
       "album": {
         "name": "Once Again",
@@ -1311,22 +1391,6 @@
       "duration_ms": 225000,
       "name": "Lazy Lady",
       "url": "https://open.spotify.com/track/5cvN9da2nLf0sVUgfYhqeu"
-    },
-    {
-      "added_at": "2026-05-15 04:02:22",
-      "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0h54TisQPST6n9GEvY8pTL"
-      },
-      "artists": [
-        {
-          "name": "dalto",
-          "url": "https://open.spotify.com/artist/6F3yTcy1FfAM0TKUMEjtYP"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/2hj0FP9FmUV3UVZias8pxZ"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -1661,22 +1725,6 @@
       "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
     },
     {
-      "added_at": "2026-04-10 04:02:13",
-      "album": {
-        "name": "Buzzin",
-        "url": "https://open.spotify.com/album/1VQps1pCNJ32Z8ouR7q8a4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Grey",
-          "url": "https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw"
-        }
-      ],
-      "duration_ms": 181817,
-      "name": "Buzzin",
-      "url": "https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG"
-    },
-    {
       "added_at": "2026-03-13 04:00:43",
       "album": {
         "name": "All This Love",
@@ -1723,38 +1771,6 @@
       "duration_ms": 211875,
       "name": "goes like this",
       "url": "https://open.spotify.com/track/2UlFidIgZvvdnPwuO4kLlQ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Space Funk",
-        "url": "https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC"
-      },
-      "artists": [
-        {
-          "name": "Jackyboom",
-          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
-        }
-      ],
-      "duration_ms": 170091,
-      "name": "Space Funk",
-      "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Bass Hot EP",
-        "url": "https://open.spotify.com/album/6pLGmK9SW6FN6b1vrJtT6o"
-      },
-      "artists": [
-        {
-          "name": "Alex Dyer",
-          "url": "https://open.spotify.com/artist/5XlRaE7I1tLbV9RYNRpfZ7"
-        }
-      ],
-      "duration_ms": 223534,
-      "name": "Bass Hot",
-      "url": "https://open.spotify.com/track/5XBiHt9IM1pYuYhca92k8O"
     },
     {
       "added_at": "2026-03-27 04:00:16",
@@ -1843,22 +1859,6 @@
       "duration_ms": 131299,
       "name": "Into My Life (feat. Joyce Sims)",
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
-    },
-    {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Phase One EP",
-        "url": "https://open.spotify.com/album/3oWzOc36MGNe40ug6NHBqK"
-      },
-      "artists": [
-        {
-          "name": "Ellis Garner",
-          "url": "https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Phase One",
-      "url": "https://open.spotify.com/track/0JeHzggWbL6xJs40tXnBJO"
     },
     {
       "added_at": "2026-03-20 04:00:44",

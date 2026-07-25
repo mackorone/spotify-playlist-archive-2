@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Lily Meola",
+  "description": "A new shade of Country. Cover: Patrick Droney",
   "name": "Indigo",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 224733,
       "name": "Adaline",
       "url": "https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi"
@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/1swweRKUk4FzJMCZikUpce"
+      },
+      "artists": [
+        {
+          "name": "Andrew Martinez",
+          "url": "https://open.spotify.com/artist/7n3l13mQMyuPK0YGgUAn0z"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174082,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/7g05ddp2XsgBvvUhTnXLoY"
+    },
+    {
+      "album": {
         "name": "Amabel Lee",
         "url": "https://open.spotify.com/album/5kQpBASTAl66GQs086KFuk"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 215631,
       "name": "American Lonely",
       "url": "https://open.spotify.com/track/0Xp0WSTQl1O5c8aQuNcxSx"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 150071,
       "name": "Bolo Blues",
       "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 337436,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6JSKlWWqMI1zCmRhMBFT9U"
@@ -2821,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Chasin\u2019 the Sun",
+        "url": "https://open.spotify.com/album/7JukSIUma018n5xpghDGzv"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204795,
+      "name": "Chasin\u2019 the Sun",
+      "url": "https://open.spotify.com/track/2JroxX1nOv1kAiVP5HG1eR"
+    },
+    {
+      "album": {
         "name": "American Siren",
         "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
       },
@@ -2908,6 +2944,24 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4251N7HsF65KjwM2yVQCvR"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5WiiNdKEQUnRP9Wst39PIr"
     },
     {
       "album": {
@@ -3012,7 +3066,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229565,
       "name": "Come Along as One",
       "url": "https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU"
@@ -6288,7 +6342,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 231872,
       "name": "High Road",
       "url": "https://open.spotify.com/track/57zCcgYEAHQQIB5uaJ0GXb"
@@ -8084,6 +8138,24 @@
       "duration_ms": 235146,
       "name": "Left Unsaid",
       "url": "https://open.spotify.com/track/2wmFhfdhECfZlbZQiA4YHm"
+    },
+    {
+      "album": {
+        "name": "RECOVERY",
+        "url": "https://open.spotify.com/album/4ePLNi3bmKTJAYvAgcZc8l"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio",
+          "url": "https://open.spotify.com/artist/0PFfIFgLmqHJOlRocks9Cr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Let Being Sober Be Your Cure",
+      "url": "https://open.spotify.com/track/22fHxcpB9XDGw0o2asLdgm"
     },
     {
       "album": {
@@ -10361,6 +10433,24 @@
     },
     {
       "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174469,
+      "name": "Perfect If You Ask Me",
+      "url": "https://open.spotify.com/track/0T3Xoxq4RKiKAveyZ7Nk6C"
+    },
+    {
+      "album": {
         "name": "Persephone",
         "url": "https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9"
       },
@@ -10970,7 +11060,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 246349,
       "name": "Ranch Style House",
       "url": "https://open.spotify.com/track/3FSkTh5lnE6BVHVRpakrE3"
@@ -11806,7 +11896,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190649,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/0RAJTCyUgzXqct9qXcQhjk"
@@ -13353,6 +13443,24 @@
     },
     {
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4kzmDYjhsNTmJOg7Wc627f"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227549,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/5UIXM0SiBRuQ9qwbJFBOxU"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -14070,6 +14178,24 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
     },
     {
       "album": {

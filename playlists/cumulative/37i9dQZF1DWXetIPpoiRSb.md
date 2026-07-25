@@ -2,9 +2,9 @@
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> pop music 🌟 kim petras on the cover
+> pop's R&D department 🎀 <br/>cover: AMARA ctk100
 
-2,354 songs - 4 day 21 hr 37 min
+2,355 songs - 4 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1493,7 +1493,8 @@
 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 | 2025-06-05 | 2025-06-24 |
 | [New York Bitches](https://open.spotify.com/track/52Wqk1qnxqvXlrFPewP30k) | [Sir Jude](https://open.spotify.com/artist/1okdhcXCnhCsMGzPmDmDzG) | [New York Bitches](https://open.spotify.com/album/1hvGIVw9bH2JCEJ9QlD6Ze) | 2:48 | 2025-08-28 | 2025-10-03 |
 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-06-04 | 2024-08-17 |
-| [Next to U](https://open.spotify.com/track/0Iv843yoJKRzslYIPlYTv2) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:56 | 2026-07-24 |  |
+| [Next to U](https://open.spotify.com/track/0Iv843yoJKRzslYIPlYTv2) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:56 | 2026-07-24 | 2026-07-25 |
+| [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 | 2026-07-24 |  |
 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 | 2020-10-13\* | 2021-01-09 |
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-03 | 2025-05-09 |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-10 | 2024-04-10 |

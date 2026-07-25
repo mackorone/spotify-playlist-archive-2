@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Mis peores enemigos
+> rock alternativo argentino\. <br/>📷 Buenos Vampiros
 
-359 songs - 20 hr 22 min
+361 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-03-25 | 2023-03-25 |
 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-11 | 2024-05-25 |
 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 | 2023-07-28 | 2024-10-25 |
-| [ajedrez](https://open.spotify.com/track/4lx8pUmMsRKVReSnixvHUb) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [ajedrez](https://open.spotify.com/album/0KVlJbAPJDTpYiPxRT4pKm) | 2:53 | 2026-05-15 |  |
+| [ajedrez](https://open.spotify.com/track/4lx8pUmMsRKVReSnixvHUb) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [ajedrez](https://open.spotify.com/album/0KVlJbAPJDTpYiPxRT4pKm) | 2:53 | 2026-05-15 | 2026-07-25 |
 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 | 2022-03-25 | 2023-03-25 |
 | [Algo Especial](https://open.spotify.com/track/7CvOAdS95Jt41VPw7WyOER) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hartó](https://open.spotify.com/album/5UsHHKrC04Hq8tKe9UYJjF) | 5:23 | 2022-03-25 | 2023-03-25 |
 | [Alimentarte](https://open.spotify.com/track/1ebB7EnsXFME2cAhXx6Mw0) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 4:11 | 2023-03-23 | 2025-11-14 |
@@ -212,6 +212,7 @@
 | [Mañana Voy](https://open.spotify.com/track/2XdnhbxTaMdqNwgw3joWfk) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Ida, Atajo y Vuelta](https://open.spotify.com/album/5f2pZrmIEq76zaDmi4wKsU) | 3:34 | 2023-03-31 | 2023-08-12 |
 | [Me Cansé](https://open.spotify.com/track/3mHGTb4UbOOlrMZqdDmTSL) | [Poción Sirena](https://open.spotify.com/artist/2CMR1PGwgGgrCsRvXx0Bdn) | [Me Cansé](https://open.spotify.com/album/5mj2wDiIMRrgIGPQTW321O) | 5:28 | 2026-07-17 |  |
 | [Me Tiré](https://open.spotify.com/track/0ApZq70y3QiAZIVFeXkXP7) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Me Tiré](https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m) | 5:16 | 2025-03-07 |  |
+| [Medicina](https://open.spotify.com/track/2QIzLrFFIAq0WMG16BmgyJ) | [Los Magos](https://open.spotify.com/artist/2zg8HO2cZlSowR4L16SBho) | [Medicina](https://open.spotify.com/album/3Z6BE2pzQ3wSV7UmrBAYvH) | 2:48 | 2026-07-24 |  |
 | [Mejor Persona](https://open.spotify.com/track/1kEFulsxY6K8PekfjAFvaK) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 6:11 | 2023-06-16 | 2026-04-04 |
 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 | 2023-03-23 | 2025-10-25 |
 | [Mi generación](https://open.spotify.com/track/1psShCNmdKilNPKdiUVTmw) | [Elena](https://open.spotify.com/artist/7sH75s773T5xbR2hCfRTWL) | [Nuevos Años Locos](https://open.spotify.com/album/30VZaB9eTty2WtIPxRCM0T) | 3:13 | 2026-05-29 |  |
@@ -222,6 +223,7 @@
 | [Morfina](https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Morfina](https://open.spotify.com/album/4J0CA7aRj6X2RM1tE8MgJq) | 2:40 | 2026-04-17 |  |
 | [Motivos](https://open.spotify.com/track/5sj8qsK8IC2U89ALnWEIEr) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Cuando Éramos Jóvenes](https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw) | 3:33 | 2024-09-13 | 2026-04-04 |
 | [Mundo actual](https://open.spotify.com/track/5hiK6Jj3cbhAKbChvmBfr1) | [Sangre de Barro](https://open.spotify.com/artist/1nVPGomlqTNvWO6IrBE8uw) | [Sangre de Barro](https://open.spotify.com/album/5BfsTwWQa5S0FoJ2GiVtQs) | 2:03 | 2024-10-03 | 2026-04-04 |
+| [Mundo raro](https://open.spotify.com/track/7tGaGxmH1CRusf4bCkb8qK) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Mundo raro / Morir en mi tierra](https://open.spotify.com/album/1sH74113UEJpmQzRER43LJ) | 3:19 | 2026-07-24 |  |
 | [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 | 2023-07-14 | 2025-03-15 |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-23 | 2023-05-27 |
 | [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 | 2026-04-04 |
@@ -329,7 +331,7 @@
 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 | 2024-08-13 |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2023-03-23 | 2025-05-17 |
 | [Todas las Nubes](https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W) | [almanaques](https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk) | [Todas las Nubes](https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1) | 2:51 | 2023-06-30 | 2026-04-04 |
-| [Todo el Día Pensando](https://open.spotify.com/track/3yv4sHt4vjAWdBKn2Sxb5I) | [99dosmil](https://open.spotify.com/artist/1x22keJzFz7LADj1KN6s0z) | [Nada Especial](https://open.spotify.com/album/56TDmXXPeK5X79a3IO6l0s) | 4:35 | 2026-04-03 |  |
+| [Todo el Día Pensando](https://open.spotify.com/track/3yv4sHt4vjAWdBKn2Sxb5I) | [99dosmil](https://open.spotify.com/artist/1x22keJzFz7LADj1KN6s0z) | [Nada Especial](https://open.spotify.com/album/56TDmXXPeK5X79a3IO6l0s) | 4:35 | 2026-04-03 | 2026-07-25 |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-03-25 | 2024-07-27 |
 | [Toxi](https://open.spotify.com/track/2LsDtdyR8SlNWVsRoxADK8) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Toxi](https://open.spotify.com/album/2q4SXmZTr90weHmEIN8mEa) | 2:33 | 2022-03-25 | 2022-11-14 |
 | [Toxi](https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 2:33 | 2022-03-25 | 2022-07-29 |

@@ -1,32 +1,28 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Luis Alfonso y Piso 21 en portada.",
-  "num_followers": 270209,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Luis Alfonso en portada.",
+  "num_followers": 270285,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxFu8NKyow6EPxJb3bA/+ghXXBo",
+  "snapshot_id": "AAAAAO+PCsFawOU8mQu1x0k5wsVocsuF",
   "tracks": [
     {
-      "added_at": "2026-07-03 04:59:22",
+      "added_at": "2026-07-24 04:59:11",
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/73HVb8XPSHInVgAds4YBUt"
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU"
       },
       "artists": [
         {
           "name": "Luis Alfonso",
           "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 171439,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3U0v6ZLymzqPNgPP8jwaF1"
+      "duration_ms": 182624,
+      "name": "Bonita pero descarada",
+      "url": "https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY"
     },
     {
       "added_at": "2026-06-19 04:59:05",
@@ -85,6 +81,22 @@
       "url": "https://open.spotify.com/track/3OjVagLjye1BVTSEPeC0et"
     },
     {
+      "added_at": "2026-07-24 04:59:11",
+      "album": {
+        "name": "Mala de Profesi\u00f3n",
+        "url": "https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 179638,
+      "name": "Mala de Profesi\u00f3n",
+      "url": "https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa"
+    },
+    {
       "added_at": "2026-06-19 04:59:05",
       "album": {
         "name": "Tu cuarto de hora",
@@ -123,6 +135,26 @@
       "duration_ms": 174353,
       "name": "Ayer Habl\u00e9 con Dios - Remix",
       "url": "https://open.spotify.com/track/2biWPehYBSJBBhfHAXHbae"
+    },
+    {
+      "added_at": "2026-07-03 04:59:22",
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/73HVb8XPSHInVgAds4YBUt"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 171439,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3U0v6ZLymzqPNgPP8jwaF1"
     },
     {
       "added_at": "2026-06-19 04:59:05",
@@ -411,22 +443,6 @@
       "duration_ms": 192213,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d"
-    },
-    {
-      "added_at": "2026-06-19 04:59:05",
-      "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
-      },
-      "artists": [
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "added_at": "2026-06-19 04:59:05",
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-06-19 04:59:05",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2026-06-19 04:59:05",
-      "album": {
         "name": "Mi Decisi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS"
       },
@@ -1219,42 +1219,6 @@
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/40NH0SUMcwf3Fpx5YeCXhf"
-    },
-    {
-      "added_at": "2026-06-19 04:59:05",
-      "album": {
-        "name": "100 A\u00f1os",
-        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185074,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
-    },
-    {
-      "added_at": "2026-06-19 04:59:05",
-      "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
     },
     {
       "added_at": "2026-06-19 04:59:05",

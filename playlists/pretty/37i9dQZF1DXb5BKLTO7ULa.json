@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: Martin Garrix & U2, Charli xcx, Frsh, Marco Schuitmaker, ROND\u00c9 en meer..",
-  "num_followers": 298771,
+  "num_followers": 299042,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxN9vu3XSNN5yg5/lECCgXevBiZ",
+  "snapshot_id": "AAAAAKUeOGm2dKQGQbgyIz2NNtbzhyVW",
   "tracks": [
     {
       "added_at": "2026-07-23 22:01:17",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-07-23 22:01:17",
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-07-23 22:01:17",
+      "album": {
         "name": "Loesoe",
         "url": "https://open.spotify.com/album/5zDwpDc2QqE7tbtuZ4Z42l"
       },
@@ -159,6 +175,22 @@
       "duration_ms": 179111,
       "name": "Loesoe",
       "url": "https://open.spotify.com/track/3HtQHizSRz5WAhs6gCRzTL"
+    },
+    {
+      "added_at": "2026-07-23 22:01:17",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-07-23 22:01:17",
@@ -255,7 +287,27 @@
     {
       "added_at": "2026-07-23 22:01:17",
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+    },
+    {
+      "added_at": "2026-07-23 22:01:17",
+      "album": {
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -265,7 +317,7 @@
         }
       ],
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
@@ -534,10 +586,18 @@
         {
           "name": "Highguest",
           "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 123564,
+      "name": "Foreign Pak",
       "url": "https://open.spotify.com/track/5ctBgBPfLY3SiwMBQorwHm"
     },
     {
@@ -589,7 +649,7 @@
         }
       ],
       "duration_ms": 148920,
-      "name": "I'd Do It All Again - with Persia Holder",
+      "name": "I'd Do It All Again (with Persia Holder)",
       "url": "https://open.spotify.com/track/2canotovAtInnPJgPbLiz2"
     },
     {

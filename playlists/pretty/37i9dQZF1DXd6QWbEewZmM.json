@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 340443,
+  "num_followers": 340489,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 172157,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 175872,
       "name": "Platicame De Ti",
       "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Fases del Amor",
-        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 216149,
-      "name": "Amor Con Detalle",
-      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Proximo Paso",
         "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 163126,
       "name": "Amor De Cuentos",
       "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Fases del Amor",
+        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Amor Con Detalle",
+      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
     },
     {
       "added_at": "2026-07-01 22:36:45",

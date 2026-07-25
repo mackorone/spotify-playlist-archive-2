@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Teni",
-  "num_followers": 264907,
+  "num_followers": 264908,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 197522,
-      "name": "Wurumanya",
+      "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {
@@ -586,10 +586,14 @@
         {
           "name": "Oberz",
           "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 177868,
+      "name": "Lucky",
       "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
     },
     {
@@ -615,6 +619,26 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -635,26 +659,6 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -931,22 +935,6 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
         "name": "GINGER U",
         "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
       },
@@ -967,6 +955,22 @@
       "duration_ms": 141704,
       "name": "GINGER U",
       "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -1203,6 +1207,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "MENU",
         "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
       },
@@ -1219,22 +1239,6 @@
       "duration_ms": 159183,
       "name": "MENU",
       "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -1455,6 +1459,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "Where Did Love Go?",
+        "url": "https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 154077,
+      "name": "Adaeze",
+      "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
@@ -1511,22 +1531,6 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "Where Did Love Go?",
-        "url": "https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 154077,
-      "name": "Adaeze",
-      "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -1547,22 +1551,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
       "artists": [
         {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 166442,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     }
   ],
   "unique_name": "Ginja",

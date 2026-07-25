@@ -8137,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "anka",
         "url": "https://open.spotify.com/album/33ITUME4LGW6iqlmhpMqDr"
       },
@@ -16517,6 +16535,28 @@
     },
     {
       "album": {
+        "name": "Bakmasayd\u0131m Sana",
+        "url": "https://open.spotify.com/album/7HUFAcq8mp4pAYDHHGzqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        },
+        {
+          "name": "Mert Tun\u00e7makas",
+          "url": "https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Bakmasayd\u0131m Sana",
+      "url": "https://open.spotify.com/track/4DMGsK1XexsafYMkyQJTJS"
+    },
+    {
+      "album": {
         "name": "Yank\u0131 ve g\u00f6lge",
         "url": "https://open.spotify.com/album/1F36WCTKmg8UIryoLMAbws"
       },
@@ -22296,6 +22336,24 @@
       "duration_ms": 288000,
       "name": "beni yok saysan da",
       "url": "https://open.spotify.com/track/6mHkMu1XpW50YSg4RIiEK8"
+    },
+    {
+      "album": {
+        "name": "Oldu\u011fu Kadar",
+        "url": "https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6"
+      },
+      "artists": [
+        {
+          "name": "Pinhani",
+          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181856,
+      "name": "Beni \u00c7a\u011f\u0131r",
+      "url": "https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ"
     },
     {
       "album": {
@@ -95741,6 +95799,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
       },
@@ -143569,24 +143645,6 @@
     },
     {
       "album": {
-        "name": "Oldu\u011fu Kadar",
-        "url": "https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6"
-      },
-      "artists": [
-        {
-          "name": "Pinhani",
-          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -167602,10 +167660,6 @@
         {
           "name": "NEEQ",
           "url": "https://open.spotify.com/artist/1DHPZsIfy1TSPqLxplObKk"
-        },
-        {
-          "name": "J.Bet",
-          "url": "https://open.spotify.com/artist/6PQfVOXwzvn2mFzxBkFs76"
         }
       ],
       "date_added": "2026-07-23",

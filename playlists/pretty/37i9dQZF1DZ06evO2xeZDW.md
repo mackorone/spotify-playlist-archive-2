@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,428 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,430 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 | 41 | [Off to Work](https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:59 |
 | 42 | [Sub Prime Directive](https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 2:24 |
 | 43 | [It's Finn McMissile! \- From "Cars 2"/Score](https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 5:54 |
-| 44 | [All's Well That Ends Farewell](https://open.spotify.com/track/3OUzsBpHB4fkdaRy14IcWx) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 2:41 |
-| 45 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 |
-| 46 | [The Fantastic Four: First Steps Main Theme Extended Version](https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 4:10 |
+| 44 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 |
+| 45 | [The Fantastic Four: First Steps Main Theme Extended Version](https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 4:10 |
+| 46 | [All's Well That Ends Farewell](https://open.spotify.com/track/3OUzsBpHB4fkdaRy14IcWx) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 2:41 |
 | 47 | [The Turbomater \- From "Cars 2"/Score](https://open.spotify.com/track/6dtH3YqfLqPM3OIlYQ9CwE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:50 |
-| 48 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 |
-| 49 | [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 |
+| 48 | [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 |
+| 49 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 |
 | 50 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 |
 
-Snapshot ID: `amAIAAAAAACrcn8pfrkQPbpVYZV7YWPM`
+Snapshot ID: `amFZgAAAAADhZUFoff9si6odgyVPWL9M`

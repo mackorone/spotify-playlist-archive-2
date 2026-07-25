@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158364,
+  "num_followers": 158361,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2026-07-17 18:43:20",
       "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+    },
+    {
+      "added_at": "2026-07-17 18:43:20",
+      "album": {
         "name": "OCANV (Cap. II)",
         "url": "https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
-    },
-    {
-      "added_at": "2026-07-17 18:43:20",
-      "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-07-17 18:43:20",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-07-17 18:43:20",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2026-07-17 18:43:20",
-      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-07-17 18:43:20",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2026-07-17 18:43:20",
@@ -1323,30 +1323,38 @@
     {
       "added_at": "2026-07-17 18:43:20",
       "album": {
-        "name": "quem dera fosse...",
-        "url": "https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
       "artists": [
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
         },
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         },
         {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+          "name": "BORIS FARIAS",
+          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
         },
         {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
         }
       ],
-      "duration_ms": 169043,
-      "name": "quem dera fosse...",
-      "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
+      "duration_ms": 163030,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
     }
   ],
   "unique_name": "Resenha na Praia",

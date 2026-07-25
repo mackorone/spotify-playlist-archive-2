@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Maki
 
-585 songs - 1 day 12 hr 26 min
+587 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2024-01-24 | 2024-05-25 |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-10 | 2024-05-25 |
 | [fall season](https://open.spotify.com/track/5vxwjQ10ojO3SI8WEc0XqO) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [fall season](https://open.spotify.com/album/7oG4oc3CMH6o10T0QIoIlR) | 3:31 | 2025-09-10 | 2025-11-13 |
+| [FeedxCortez](https://open.spotify.com/track/4dTovK6UrUCl1cCGUtL1FH) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [FeedxCortez](https://open.spotify.com/album/1nBs3ecbaEt2Lhv1t9XMXa) | 5:23 | 2026-07-24 |  |
 | [Feel This Way](https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Feel This Way](https://open.spotify.com/album/0v5fmGTPGUHJR1tq8x0r3W) | 3:50 | 2024-05-24 | 2024-08-08 |
 | [Filipina Queen](https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Filipina Queen](https://open.spotify.com/album/3FyqqGezafiSyZDA7BJvTu) | 3:09 | 2025-09-24 | 2025-10-16 |
 | [First Luv](https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [First Luv](https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4) | 2:56 | 2025-10-08 | 2025-11-27 |
@@ -322,7 +323,7 @@
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-24 | 2024-10-10 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-24 | 2025-05-08 |
 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 | 2025-11-12 | 2025-12-10 |
-| [Moolah](https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [Daarth](https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3) | [Moolah](https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS) | 2:37 | 2026-04-16 |  |
+| [Moolah](https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [Daarth](https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3) | [Moolah](https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS) | 2:37 | 2026-04-16 | 2026-07-25 |
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-05-08 | 2024-06-13 |
 | [Moved on Last](https://open.spotify.com/track/38DWGFGbCNgdUnG29ibpff) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Moved on Last](https://open.spotify.com/album/2eIk0YhI4vTYOaaAdBFc2f) | 2:53 | 2026-01-29 | 2026-03-19 |
 | [Ms\. Pakipot](https://open.spotify.com/track/0JkoOMtuZZ7wFqq1fnS5v5) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Ms\. Pakipot](https://open.spotify.com/album/5vbpYEkJ7LBjmPOnu8epwb) | 3:31 | 2025-04-02 | 2025-07-24 |
@@ -490,7 +491,7 @@
 | [Silong](https://open.spotify.com/track/5D9HON23VZD4UMeSvklhCY) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/4wn5vVfyQuKgAHPaj5wRdG) | 5:42 | 2025-10-22 | 2025-11-27 |
 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 | 2025-05-14 | 2025-07-10 |
 | [simula ngayon.](https://open.spotify.com/track/0kLXjivW4YUO9vvBj5pZc7) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Panahon](https://open.spotify.com/album/4v7HDiwv7uwOWI6fOfOKgX) | 3:33 | 2026-05-13 |  |
-| [Since Day One](https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Since Day One](https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI) | 3:11 | 2026-02-11 |  |
+| [Since Day One](https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Since Day One](https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI) | 3:11 | 2026-02-11 | 2026-07-25 |
 | [Sindi](https://open.spotify.com/track/4VaeQwWLxVZEONyQlSV3ye) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Sindi](https://open.spotify.com/album/1wHNPtUMR0d94CNaSxbds1) | 3:27 | 2026-05-13 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-12 | 2024-11-28 |
 | [Sinisigaw](https://open.spotify.com/track/3fANJ35TEIhdkyifPzw1ww) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Sinisigaw](https://open.spotify.com/album/0xN7A7fOJdq6z3nKsv7eqp) | 3:38 | 2026-05-27 |  |
@@ -566,6 +567,7 @@
 | [Umuwi Na Tayo](https://open.spotify.com/track/6fDPr9fQhnjSYHKKmu4fRQ) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Umuwi Na Tayo](https://open.spotify.com/album/5XOpEA6PHajzxtr8oXYb0w) | 3:32 | 2024-03-27 | 2024-05-02 |
 | [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-27 | 2025-12-25 |
 | [Unang Kilig](https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 3:37 | 2026-03-11 | 2026-06-03 |
+| [USAD](https://open.spotify.com/track/5TeM0uxDT663mth1LMOqPg) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [USAD](https://open.spotify.com/album/6D9f3VmaNomBQ46OyatntQ) | 4:12 | 2026-07-24 |  |
 | [Uwi Na Tayo](https://open.spotify.com/track/3gDAJkljWl6C30fw4vfS1E) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Uwi Na Tayo](https://open.spotify.com/album/5YO1rEBrMEu5xMg6fQNPdS) | 5:00 | 2026-07-10 |  |
 | [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-15 | 2026-02-26 |
 | [VISA](https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [VISA](https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19) | 3:42 | 2026-02-25 | 2026-04-09 |

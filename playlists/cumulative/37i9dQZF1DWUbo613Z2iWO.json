@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Amaria",
+  "description": "R&B of the moment by the artists of the future. Cover: REMI",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234398,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 178650,
       "name": "A Minute",
       "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
@@ -2026,6 +2026,24 @@
       "duration_ms": 247114,
       "name": "Anything 4 U",
       "url": "https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU"
+    },
+    {
+      "album": {
+        "name": "Anything Could Happen",
+        "url": "https://open.spotify.com/album/3mTlfNdFWB2iwyhfA7SppW"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224390,
+      "name": "Anything Could Happen",
+      "url": "https://open.spotify.com/track/6WOovMUKaVhuFhOBc1QihF"
     },
     {
       "album": {
@@ -3227,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Fade To BLUE",
+        "url": "https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138654,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
+    },
+    {
+      "album": {
         "name": "The Burnout",
         "url": "https://open.spotify.com/album/3d1OX2PYnY8npzYm7Y3Rhn"
       },
@@ -4018,7 +4054,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194400,
       "name": "Blood On The Strings",
       "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
@@ -5337,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/3hW3JXhIe8WwkPDBD5Ko3E"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180171,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/6vsNjbln9XwsNtayWdWAAW"
+    },
+    {
+      "album": {
         "name": "Drugs n' Lullabies",
         "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
       },
@@ -5706,6 +5760,24 @@
       "duration_ms": 174371,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS"
+    },
+    {
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
       "album": {
@@ -6904,7 +6976,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223186,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04"
@@ -6970,6 +7042,24 @@
       "duration_ms": 192194,
       "name": "Cotton Candy Blvd",
       "url": "https://open.spotify.com/track/32fEvXFGD0OKJlRJ8Q9mzr"
+    },
+    {
+      "album": {
+        "name": "could it be love",
+        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278640,
+      "name": "could it be love",
+      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
     },
     {
       "album": {
@@ -9145,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
+    },
+    {
+      "album": {
         "name": "Dream of You",
         "url": "https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i"
       },
@@ -10438,6 +10546,24 @@
       "duration_ms": 255272,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/1kqnS9qo07du8t0DAxeTnx"
+    },
+    {
+      "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
     },
     {
       "album": {
@@ -14783,6 +14909,24 @@
     },
     {
       "album": {
+        "name": "HONEY BROWN",
+        "url": "https://open.spotify.com/album/0QLvvGOrI8rlRMZaQaTuSm"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "HONEY BROWN",
+      "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
+    },
+    {
+      "album": {
         "name": "Heartbreak Therapy",
         "url": "https://open.spotify.com/album/0UAiwta8WdzuvCRy6bRWnM"
       },
@@ -18071,6 +18215,24 @@
     },
     {
       "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
+        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199105,
+      "name": "LET ME GO",
+      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2rqRoO0cePhSqHhSz4CnUD"
       },
@@ -19687,6 +19849,24 @@
     },
     {
       "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
+    },
+    {
+      "album": {
         "name": "LUV N DEVOTION",
         "url": "https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig"
       },
@@ -20638,7 +20818,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 228387,
       "name": "Miss Mango",
       "url": "https://open.spotify.com/track/01Oj3UlTK3YAuJwf1AY3qV"
@@ -20710,7 +20890,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 172941,
       "name": "Miss Your Touch",
       "url": "https://open.spotify.com/track/4AkfcdfyVGzIrMVfkJdmiT"
@@ -22155,6 +22335,24 @@
     },
     {
       "album": {
+        "name": "no way!",
+        "url": "https://open.spotify.com/album/6JsZCvhIvzpJdXjjtIds3k"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225457,
+      "name": "no way!",
+      "url": "https://open.spotify.com/track/1fehc61JpeHtRDszMS8l4c"
+    },
+    {
+      "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
       },
@@ -22398,7 +22596,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
@@ -22532,7 +22730,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189227,
       "name": "Nothing To Say",
       "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
@@ -26042,7 +26240,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 143059,
       "name": "RERUN",
       "url": "https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24"
@@ -26064,6 +26262,24 @@
       "duration_ms": 248975,
       "name": "restless",
       "url": "https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC"
+    },
+    {
+      "album": {
+        "name": "THE NAIJAMERICAN DREAM",
+        "url": "https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182868,
+      "name": "REVENGE",
+      "url": "https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN"
     },
     {
       "album": {
@@ -27176,7 +27392,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
@@ -31552,7 +31768,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"

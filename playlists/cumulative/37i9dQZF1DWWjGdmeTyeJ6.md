@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring daisy\. Curated with love by human Spotify editors.
 
-9,913 songs - 22 day 7 hr 31 min
+9,915 songs - 22 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 | 2025-07-30 | 2025-09-18 |
 | [About It](https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv) | [Raavi](https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64) | [About It](https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq) | 2:12 | 2024-03-06 | 2024-03-28 |
 | [About Jill](https://open.spotify.com/track/3TNsSljwgNKvSoBsFCDyNr) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [About Jill](https://open.spotify.com/album/7aO4tYezpOhrHSWscKseN9) | 3:20 | 2024-08-28 | 2024-10-03 |
-| [About Us](https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN) | [fingerbleed](https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5) | [About Us / PROTO](https://open.spotify.com/album/3DiQvUkn7guUReKXzgNBeL) | 1:59 | 2026-07-02 |  |
+| [About Us](https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN) | [fingerbleed](https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5) | [About Us / PROTO](https://open.spotify.com/album/3DiQvUkn7guUReKXzgNBeL) | 1:59 | 2026-07-02 | 2026-07-25 |
 | [Above n Beyond \(Weather Man\)](https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS) | [mykel](https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD) | [Above n Beyond \(Weather Man\)](https://open.spotify.com/album/6XQq8NaETTv1V0qbwIP7Yv) | 1:51 | 2026-04-29 | 2026-06-18 |
 | [Above the clouds](https://open.spotify.com/track/68AZPYrR1oaaHV173eOzuq) | [Tracey](https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb) | [Above the clouds](https://open.spotify.com/album/2BFdLdExN9OcqylH2SPOTR) | 3:20 | 2025-11-07 | 2026-02-06 |
 | [Abyssal Zone](https://open.spotify.com/track/0unGG4h9P7iZcoCJrY5tgX) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [Microtransitions EP](https://open.spotify.com/album/5BbxXYvcQOAbPaBWdiZgsP) | 4:34 | 2023-07-12 | 2023-07-20 |
@@ -2558,6 +2558,7 @@
 | [eat me alive](https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [eat me alive](https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF) | 2:39 | 2024-02-07 | 2024-02-22 |
 | [Eating](https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa) | [Scuti](https://open.spotify.com/artist/0U22PYRY87xqfpBJgRt4US) | [Eating](https://open.spotify.com/album/7Mh1MvLa9QJDU7LNkWyUjE) | 3:13 | 2022-01-19 | 2022-01-27 |
 | [Ebbs and Flows](https://open.spotify.com/track/6sfKeR4COlQzomHlfMTbpj) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Ebbs and Flows](https://open.spotify.com/album/4qqvBins9wxYYFCDftF8yu) | 3:01 | 2023-09-13 | 2023-09-28 |
+| [EBONY](https://open.spotify.com/track/0iMDXhQTIJvgacw3L5HrZf) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [EBONY](https://open.spotify.com/album/0979NyBOg4xMjzBxZpFwCL) | 2:43 | 2026-07-24 |  |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-22 | 2023-03-30 |
 | [Echo Drift](https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Echo Drift](https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B) | 3:19 | 2023-01-11 | 2023-01-19 |
 | [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 | 2024-06-19 | 2024-07-25 |
@@ -2768,6 +2769,7 @@
 | [Exodus](https://open.spotify.com/track/7qzDNq0CqZZhPWJUDibj9F) | [E\_DEATH](https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd) | [Forgotten Realms](https://open.spotify.com/album/1qyyPZ18vww4s9OMInF1X3) | 3:44 | 2023-02-01 | 2023-02-09 |
 | [Expectations](https://open.spotify.com/track/5DMRqUFiuV5CLRK4B9p7Sn) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Expectations](https://open.spotify.com/album/369Mk6u4O6PMo13VaLYH6B) | 2:45 | 2024-11-20 | 2025-01-16 |
 | [Experiments](https://open.spotify.com/track/4txD0JmEqTQvWT8qVWn2u2) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [Experiments](https://open.spotify.com/album/7dy6lYRkLZuDZXRp1TesX2) | 4:23 | 2025-05-21 | 2025-07-10 |
+| [Exposure](https://open.spotify.com/track/59Ait2fBlE3r01366fyTGo) | [Dazies](https://open.spotify.com/artist/4tYPUzp1NwvFRXWdAxV1wp) | [Exposure](https://open.spotify.com/album/3SLr9CDjScQPqvdSP5Wql7) | 3:27 | 2026-07-24 |  |
 | [Eye To Eye](https://open.spotify.com/track/301ZIYAazuDrj6NrZWfjuK) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Eye To Eye](https://open.spotify.com/album/6tSnjiHIGZQd8Rf9P411aR) | 3:30 | 2022-07-20 | 2022-07-28 |
 | [eyes](https://open.spotify.com/track/5oxtjIW9J0FdKt28wabkfH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [eyes](https://open.spotify.com/album/71mI6Sm61EXGrIr212lAx6) | 4:45 | 2022-08-31 | 2022-09-09 |
 | [Eyes](https://open.spotify.com/track/77Xk8rRfxoPWTbEnnPLAiE) | [Astrale](https://open.spotify.com/artist/0xDPU57wNLiQuJJ6h0FedI), [Arkane Skye](https://open.spotify.com/artist/1iU5CyXOYceov4fnm68V2o) | [Eyes](https://open.spotify.com/album/7GTcuEOrknsogz4M2mfOQV) | 2:52 | 2022-02-02 | 2022-02-10 |
@@ -6579,7 +6581,7 @@
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-05-01 | 2024-05-16 |
 | [Passenger Seat](https://open.spotify.com/track/1aJP9LdYaSBx1N6smhi4CV) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Passenger Seat](https://open.spotify.com/album/1EBmJ1nJRMO1xy94eiostp) | 3:01 | 2022-08-03 | 2022-08-11 |
 | [Passing](https://open.spotify.com/track/6xWBnKAcKAM7HJ2hw6GGYM) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [Passing](https://open.spotify.com/album/7mhfR2VLl5BcrIVxbNuSV2) | 1:53 | 2023-08-30 | 2023-09-14 |
-| [Past Life](https://open.spotify.com/track/6hnla18APCDqUIlL2Ry7Rw) | [Ballet](https://open.spotify.com/artist/0WIbNObVmemQwisszTjb1A) | [Ballet II](https://open.spotify.com/album/1kSWjwKsprgdzDkGSikiNA) | 2:18 | 2026-07-02 |  |
+| [Past Life](https://open.spotify.com/track/6hnla18APCDqUIlL2Ry7Rw) | [Ballet](https://open.spotify.com/artist/0WIbNObVmemQwisszTjb1A) | [Ballet II](https://open.spotify.com/album/1kSWjwKsprgdzDkGSikiNA) | 2:18 | 2026-07-02 | 2026-07-25 |
 | [Past Life](https://open.spotify.com/track/4Ckl9wqbIhMIbQCw0nTNyX) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Past Life](https://open.spotify.com/album/32vwxGRTcO4fo4dSzXsBsP) | 3:04 | 2026-01-22 | 2026-01-29 |
 | [Past Life](https://open.spotify.com/track/4xltSVuW1oEBr7jMiI4VLH) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Past Life](https://open.spotify.com/album/7IUV92EYofObhq0GMPAFVr) | 3:42 | 2025-02-19 | 2025-04-17 |
 | [Past Present Future](https://open.spotify.com/track/4aTX5ccJzfsTlru5N8FWsd) | [Bunny Lowe](https://open.spotify.com/artist/6COn09v2Sy9qb4skUk0V0a) | [Past Present Future](https://open.spotify.com/album/3Y75CT6BowX7pgJhaa3icV) | 2:45 | 2023-08-23 | 2023-08-31 |

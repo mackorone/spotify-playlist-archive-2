@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Victor Ruiz, KAUFMANN
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,327 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,426 likes - 90 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 19 | [No Sleep In Paradise](https://open.spotify.com/track/0OMuNuBaic23tLqMElN7AJ) | [Julius Strieder](https://open.spotify.com/artist/2qle25Simu660DmQuYHrVn) | [Midnight On Repeat EP](https://open.spotify.com/album/4crxE1SxB8A1ogy8qZ3tn5) | 7:38 |
 | 20 | [I Will Never](https://open.spotify.com/track/3OgyZahkJleSwqdD1YAWJ3) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [I Will Never](https://open.spotify.com/album/2L6mVFp7sYSt6sTLCxy03q) | 5:05 |
 | 21 | [That's My Sh\*T](https://open.spotify.com/track/2sKT2vVI78sj1UaZ3MVg4F) | [Enai](https://open.spotify.com/artist/1SJwIpXxFHY5MOruX6gvve), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [That's My Sh\*T](https://open.spotify.com/album/2A7sWbvwB22ZsXRPYqjnqK) | 3:18 |
-| 22 | [Track 1](https://open.spotify.com/track/5OLYSfQ7iY1uOn0WdVUdRU) | [Kolombo](https://open.spotify.com/artist/4nZBJZHavxcUzGeK2k6fL9) | [En La Jodita EP](https://open.spotify.com/album/0yeXuT8EuaT9BlcRqeV1Ik) | 0:00 |
-| 23 | [Dirty Beat \- Frieder & Jakob Remix](https://open.spotify.com/track/1CzmLJRIb4G2SonyE5xaa2) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt), [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Dirty Beat \(Frieder & Jakob Remix\)](https://open.spotify.com/album/2jBRTYgD9m9V84QhyWmdy8) | 3:53 |
+| 22 | [En La Jodita](https://open.spotify.com/track/5OLYSfQ7iY1uOn0WdVUdRU) | [Kolombo](https://open.spotify.com/artist/4nZBJZHavxcUzGeK2k6fL9), [Nattz](https://open.spotify.com/artist/1jN7eGO0KeZ6sfCQcUL8nN) | [En La Jodita EP](https://open.spotify.com/album/0yeXuT8EuaT9BlcRqeV1Ik) | 4:05 |
+| 23 | [Dirty Beat \- Frieder & Jakob Remix](https://open.spotify.com/track/1CzmLJRIb4G2SonyE5xaa2) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt), [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Dirty Beat \(Frieder & Jakob Remix\)](https://open.spotify.com/album/2jBRTYgD9m9V84QhyWmdy8) | 3:52 |
 | 24 | [Easy, Easy](https://open.spotify.com/track/3A05QryxOYjcuh8bmSTTEK) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Easy, Easy](https://open.spotify.com/album/29ADrnU6gwOvWy3vxuLFgC) | 4:26 |
 | 25 | [To The Beat Of The Drum](https://open.spotify.com/track/1o7pQOhFvTDndrVhpSUlwz) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [To The Beat Of The Drum](https://open.spotify.com/album/1Tln0zLW528nEJnbKk8W13) | 5:05 |
 | 26 | [Odoriko](https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Odoriko](https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG) | 4:49 |
-| 27 | [Track 1](https://open.spotify.com/track/161E9gLRamw3vwEMMYA9m1) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [Waiting](https://open.spotify.com/album/4sd8BgPZwX1RGQPHUtXVYE) | 0:00 |
+| 27 | [Waiting](https://open.spotify.com/track/161E9gLRamw3vwEMMYA9m1) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [AYOUBYME](https://open.spotify.com/artist/3q4BED0WQZe4e16CXJL4CE), [ROOMER](https://open.spotify.com/artist/0l9si9S4nbhr71kI4A8lXb) | [Waiting](https://open.spotify.com/album/4sd8BgPZwX1RGQPHUtXVYE) | 3:26 |
 | 28 | [Phase Jump](https://open.spotify.com/track/3mvWDs0H8A6epNZ5YdVG2m) | [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt) | [Phase Jump](https://open.spotify.com/album/0vGoFwxydQxx5VBwhz7drZ) | 3:17 |
 | 29 | [Beat Goes On](https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Beat Goes On](https://open.spotify.com/album/5ZBsNOxU0xOPIjpEwYLmDy) | 3:48 |
 | 30 | [Taste](https://open.spotify.com/track/6KwS5hoHrQ6LQuerWbkikq) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Taste / fREAK](https://open.spotify.com/album/2SvsdxEH2txpgSkGXRtntj) | 2:52 |

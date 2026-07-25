@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-163 songs - 8 hr 49 min
+164 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Putero](https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:09 | 2021-10-15 |  |
 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 | 2021-10-15 | 2024-11-23 |
 | [Que Fue](https://open.spotify.com/track/7FXuCVl6Wf5LuqkagnafUQ) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Que Fue](https://open.spotify.com/album/1XzNceSB41vVsinihbYfpz) | 3:52 | 2022-08-19 | 2025-04-26 |
+| [RAININ'](https://open.spotify.com/track/2awRUkvYzcRUOKfP5vBzZC) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [RAININ'](https://open.spotify.com/album/4FefwyRCbRgFuC80AKodTy) | 2:34 | 2026-07-24 |  |
 | [Robert De Niro](https://open.spotify.com/track/2cFV7E7usaHkkELp07KBXG) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Robert De Niro](https://open.spotify.com/album/5Vy7Z5pt8Wi60eClyLCCWu) | 2:13 | 2025-10-11 |  |
 | [Rockstars](https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Rockstars](https://open.spotify.com/album/5gxGWqgqGj0NIz4ssk5ftv) | 3:04 | 2021-10-15 | 2022-11-04 |
 | [Si Caigo](https://open.spotify.com/track/2vUb00H3FMhSwaie3BuiUW) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Si Caigo](https://open.spotify.com/album/2O638HJsoKny84UrlemJhS) | 3:23 | 2024-01-26 | 2024-04-19 |

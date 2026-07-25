@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 768250,
+  "num_followers": 768297,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "The First (Remastered)",
+        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
+      },
+      "artists": [
+        {
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        },
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Me Puedo Matar - Remastered",
+      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Con Mas Amor",
         "url": "https://open.spotify.com/album/3O05GLVwJEFvC6OgEdV9dl"
       },
@@ -1191,22 +1211,6 @@
       "duration_ms": 293537,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The First (Remastered)",
-        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
         {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Me Puedo Matar - Remastered",
-      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
         "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1519,8 +1519,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 255026,
-      "name": "Por un Segundo",
-      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
     },
     {
       "added_at": "2024-06-04 19:13:44",

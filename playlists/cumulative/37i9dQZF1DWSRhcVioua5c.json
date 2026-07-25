@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209293,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ"
@@ -396,6 +396,24 @@
       "duration_ms": 209293,
       "name": "Aventura (feat. Marcela Morelo)",
       "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3TzvWWu1YKbzTFRucQo3Rp"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218612,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/28EYezyEmrA6vTwm8qOUXf"
     },
     {
       "album": {
@@ -560,6 +578,28 @@
       "duration_ms": 217020,
       "name": "Cerca del Sol",
       "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
+    },
+    {
+      "album": {
+        "name": "Colgando en tus Manos",
+        "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
+      },
+      "artists": [
+        {
+          "name": "Camila Saez",
+          "url": "https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70"
+        },
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "Colgando en tus Manos",
+      "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
     },
     {
       "album": {
@@ -2135,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Recuerdos, Tristeza y Soledad",
+        "url": "https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY"
+      },
+      "artists": [
+        {
+          "name": "Emiliano L\u00f3pez",
+          "url": "https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6"
+        },
+        {
+          "name": "Giannela Niwoyda",
+          "url": "https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233131,
+      "name": "Recuerdos, Tristeza y Soledad",
+      "url": "https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz"
+    },
+    {
+      "album": {
         "name": "Respuesta",
         "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
       },
@@ -2254,7 +2316,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 226750,
       "name": "Si la Vieras",
       "url": "https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye"
@@ -2804,7 +2866,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
@@ -3042,7 +3104,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 446264,
       "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
       "url": "https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT"
@@ -3060,7 +3122,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 446264,
       "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
       "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"

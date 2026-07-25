@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,665 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,731 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 3 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 4 | [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 |
 | 5 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
-| 6 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
-| 7 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
+| 6 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
+| 7 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 8 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 |
 | 9 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
 | 10 | [Something For My Head \- Tiffi M REWORK](https://open.spotify.com/track/4VcAlqZULz0HJruvvhrv9D) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Something For My Head REWORKS](https://open.spotify.com/album/2imAVUf6b3Kyr2NpshuAgh) | 2:45 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 172 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 |
 | 173 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 |
 
-Snapshot ID: `AAAAAA61rFF1cc/kGlfAIIw0zdQBPM2o`
+Snapshot ID: `AAAAAEuPbfqZZip92k39eIXr5nPvgEft`

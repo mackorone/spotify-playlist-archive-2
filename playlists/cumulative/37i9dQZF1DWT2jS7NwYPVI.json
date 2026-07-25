@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Saint Clair",
+  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Radio Free Alice",
   "name": "New Noise",
   "tracks": [
     {
@@ -3293,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/2GHMzfCk48x9pOHWqKM1uz"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3XKZMl0boRzOQGtFLn3zPg"
+    },
+    {
+      "album": {
         "name": "ANIMAL / ANYWHERE BUT HERE",
         "url": "https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7"
       },
@@ -4984,7 +5002,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 205903,
       "name": "Bad Dog",
       "url": "https://open.spotify.com/track/0OiIkiaS11BG7LAns0IHgl"
@@ -6738,7 +6756,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 179400,
       "name": "Big Money",
       "url": "https://open.spotify.com/track/0Bdy8Pp4DCWrHvPxnp6m5x"
@@ -8550,7 +8568,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185828,
       "name": "BOMBS AWAY",
       "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
@@ -9882,6 +9900,28 @@
       "duration_ms": 160000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/5KTagqbzwqw1lpO67N464P"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2B37HuNozXGwa0Gaa4MgUN"
+      },
+      "artists": [
+        {
+          "name": "Bay Faction",
+          "url": "https://open.spotify.com/artist/5wl4eeiKZTQ0mgm7jLoy7g"
+        },
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/5teDPFn9yruwJC2KFJ38nM"
     },
     {
       "album": {
@@ -19182,7 +19222,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 120882,
       "name": "Drowning Machine",
       "url": "https://open.spotify.com/track/4tn54JlxGNkUXfwIQQ6IEt"
@@ -21492,7 +21532,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212960,
       "name": "Fast Forward, Rewind",
       "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
@@ -32093,6 +32133,24 @@
     },
     {
       "album": {
+        "name": "I Kinda Like That",
+        "url": "https://open.spotify.com/album/1JAdAgj3z46aOZl5KHk56x"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "I Kinda Like That",
+      "url": "https://open.spotify.com/track/0d1VAPSDzDRZMNIndiC2x2"
+    },
+    {
+      "album": {
         "name": "Learning Greek",
         "url": "https://open.spotify.com/album/1zn7M7NwtCtSKQGS3eLulj"
       },
@@ -36112,6 +36170,24 @@
       "duration_ms": 177083,
       "name": "Kept Me Alive",
       "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
+    },
+    {
+      "album": {
+        "name": "Kick in the Shins",
+        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Kick in the Shins",
+      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
     },
     {
       "album": {
@@ -43909,6 +43985,24 @@
     },
     {
       "album": {
+        "name": "Mother Nature's Killing Spree",
+        "url": "https://open.spotify.com/album/3TB7VO2g1ycLF46VFxlEYK"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228537,
+      "name": "Mother Nature's Killing Spree",
+      "url": "https://open.spotify.com/track/65ryOvWdvf6a0ZiMcaRZxV"
+    },
+    {
+      "album": {
         "name": "Mother of Style",
         "url": "https://open.spotify.com/album/6S0dS0eOZhuhnBpbvQkkUT"
       },
@@ -48390,7 +48484,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 221682,
       "name": "Opportunity Arising",
       "url": "https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ"
@@ -50772,7 +50866,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211670,
       "name": "Pitch Boats",
       "url": "https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a"
@@ -58106,7 +58200,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158746,
       "name": "Show the World What's Underneath",
       "url": "https://open.spotify.com/track/2nSSMiwJbGgTdNjQwrVkCA"
@@ -60144,7 +60238,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153213,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/5bp3oHLfgQtWdveNnx0IyT"
@@ -60663,6 +60757,24 @@
     },
     {
       "album": {
+        "name": "Sounds We Cannot Hear",
+        "url": "https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Sounds We Cannot Hear",
+      "url": "https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy"
+    },
+    {
+      "album": {
         "name": "Sour Patch",
         "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
       },
@@ -60710,7 +60822,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 242029,
       "name": "Southern Youth",
       "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
@@ -62141,6 +62253,24 @@
     },
     {
       "album": {
+        "name": "Stoop to Me",
+        "url": "https://open.spotify.com/album/4ExTOWeLkFylqhBUdgV3Kx"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227207,
+      "name": "Stoop to Me",
+      "url": "https://open.spotify.com/track/4jd9ES4qpTyTLz6C5aSxap"
+    },
+    {
+      "album": {
         "name": "Stop Living & Don't Dream",
         "url": "https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy"
       },
@@ -62982,6 +63112,24 @@
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/5yJpoR6F5m5dsd2Fy9OXxw"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168877,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/11lCBulTfQmqEb85DKA3HV"
     },
     {
       "album": {
@@ -64910,6 +65058,24 @@
       "duration_ms": 138384,
       "name": "that b*tch don't even kno my name...",
       "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
+    },
+    {
+      "album": {
+        "name": "That Can't Be Normal",
+        "url": "https://open.spotify.com/album/1YYjPf0PIjom8fL9M8vswg"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "That Can't Be Normal",
+      "url": "https://open.spotify.com/track/2joBKSiR7MYxuPOSq90DpG"
     },
     {
       "album": {
@@ -67356,6 +67522,24 @@
       "duration_ms": 185502,
       "name": "Things You Make Me Do",
       "url": "https://open.spotify.com/track/5yRkLnZ3rcvnJUyE2MJie2"
+    },
+    {
+      "album": {
+        "name": "Think Bad",
+        "url": "https://open.spotify.com/album/06vzJJeAR0wks3eblV5eyG"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128440,
+      "name": "Think Bad",
+      "url": "https://open.spotify.com/track/6vjZBqmpV7qJa0qppQ7Z7v"
     },
     {
       "album": {
@@ -71840,7 +72024,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176455,
       "name": "Waiting To Know",
       "url": "https://open.spotify.com/track/3COerH8qeZERHv69TypVPT"
@@ -73936,7 +74120,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175050,
       "name": "Who's Gonna Love You Now?",
       "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
@@ -74832,6 +75016,28 @@
       "duration_ms": 198203,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0"
+    },
+    {
+      "album": {
+        "name": "World's Always Burning [Feat. Mannequin Pussy]",
+        "url": "https://open.spotify.com/album/3vFNcU7GHXyLCt7Q4bBDbs"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178108,
+      "name": "World's Always Burning [Feat. Mannequin Pussy]",
+      "url": "https://open.spotify.com/track/23i3HWN6em3HxUJyyiynYh"
     },
     {
       "album": {

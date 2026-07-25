@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 51826,
+  "num_followers": 51838,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Het Beste Van..",
-        "url": "https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Van Der Boom",
-          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Jij Bent Zo",
-      "url": "https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Guus Meeuwis",
         "url": "https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 210173,
       "name": "Brabant",
       "url": "https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Het Beste Van..",
+        "url": "https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Jij Bent Zo",
+      "url": "https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5"
     },
     {
       "added_at": "2020-02-10 14:27:21",

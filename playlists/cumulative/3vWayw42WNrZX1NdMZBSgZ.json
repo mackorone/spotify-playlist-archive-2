@@ -15445,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "que te vaya bien",
+        "url": "https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "que te vaya bien",
+      "url": "https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY"
+    },
+    {
+      "album": {
         "name": "Amor Escupido",
         "url": "https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w"
       },

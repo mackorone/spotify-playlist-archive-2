@@ -1,6 +1,6 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: cehryl",
-  "num_followers": 14514,
+  "num_followers": 14531,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAP/gz8OBcIBqHsUABS0ZKck9E0Ys",
   "tracks": [
+    {
+      "added_at": "2026-07-23 16:00:20",
+      "album": {
+        "name": "Broadway Cinematheque",
+        "url": "https://open.spotify.com/album/5cHfuPAuAwPzIfabcjnq1X"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 106174,
+      "name": "Broadway Cinematheque",
+      "url": "https://open.spotify.com/track/0rN2HjbadL6DpPZG6ISjGs"
+    },
     {
       "added_at": "2026-07-23 16:00:20",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 230680,
       "name": "\u7d14",
       "url": "https://open.spotify.com/track/7p0dOTFAf1MxP0aYImwPv4"
+    },
+    {
+      "added_at": "2026-07-23 16:00:20",
+      "album": {
+        "name": "\u7b49\u4e00\u7b49",
+        "url": "https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw"
+      },
+      "artists": [
+        {
+          "name": "The Hertz",
+          "url": "https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u7b49\u4e00\u7b49",
+      "url": "https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0"
     },
     {
       "added_at": "2026-07-23 16:00:20",

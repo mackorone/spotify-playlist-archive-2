@@ -4492,7 +4492,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 125538,
       "name": "ANASA",
       "url": "https://open.spotify.com/track/11Armj1pAkue0iBdNbNRWp"
@@ -7250,7 +7250,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 120000,
       "name": "BANGKOK",
       "url": "https://open.spotify.com/track/4CZ2nGGh15qUloaO2V90yq"
@@ -43473,6 +43473,32 @@
     },
     {
       "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "PALOMA",
+      "url": "https://open.spotify.com/track/1Dw8iGfsiO1GhA3zMmLrkA"
+    },
+    {
+      "album": {
         "name": "PALOMA",
         "url": "https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr"
       },
@@ -43492,7 +43518,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168500,
       "name": "PALOMA",
       "url": "https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6"
@@ -43650,6 +43676,32 @@
       "duration_ms": 104705,
       "name": "PANO AP OLA H DOULEIA",
       "url": "https://open.spotify.com/track/74mwNwFeuMXv6082xJUwdk"
+    },
+    {
+      "album": {
+        "name": "Pano Ap' Ti Gi",
+        "url": "https://open.spotify.com/album/0Zkj0Ctvyi5kyAsAXVCbnu"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Desbow",
+          "url": "https://open.spotify.com/artist/2IaqO9UIPrfzj6jO9uZd0C"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "Pano Ap' Ti Gi",
+      "url": "https://open.spotify.com/track/2W3LV1pbvaLxre1TwOrhUN"
     },
     {
       "album": {
@@ -46644,7 +46696,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180000,
       "name": "POTE",
       "url": "https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih"
@@ -52988,7 +53040,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 188316,
       "name": "Spaste Ta",
       "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
@@ -62436,7 +62488,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 159310,
       "name": "XERIA KATHARA",
       "url": "https://open.spotify.com/track/1WXeoUtGzzfv22TOINnM8e"

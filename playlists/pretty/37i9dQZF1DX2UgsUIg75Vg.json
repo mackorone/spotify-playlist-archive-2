@@ -1,48 +1,44 @@
 {
-  "description": "Chill r&b. Cover: Syd",
-  "num_followers": 2365803,
+  "description": "Chill r&b. Cover: Tyla",
+  "num_followers": 2365922,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMrn1iuJaeQngm4EgzEPQg3wEt/Q",
+  "snapshot_id": "AAAAAAj5Qp64aOS2mqUMj6aEh0ZS8mN5",
   "tracks": [
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 177217,
+      "name": "HOT TUBS",
+      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
+    },
     {
       "added_at": "2026-07-17 04:02:08",
       "album": {
-        "name": "Any Time (feat. James Fauntleroy)",
-        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 269028,
-      "name": "Any Time (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
-    },
-    {
-      "added_at": "2026-06-20 04:00:17",
-      "album": {
-        "name": "Sweet Thang",
-        "url": "https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "added_at": "2026-06-26 07:26:59",
@@ -61,20 +57,36 @@
       "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
     },
     {
-      "added_at": "2026-07-17 04:02:08",
+      "added_at": "2026-07-24 06:54:12",
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Sweet Thang",
+        "url": "https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
     },
     {
       "added_at": "2026-07-03 04:02:11",
@@ -113,22 +125,6 @@
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
-      "added_at": "2026-06-29 00:00:48",
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
-    },
-    {
       "added_at": "2026-07-17 04:02:08",
       "album": {
         "name": "PEYOTE",
@@ -163,6 +159,58 @@
       "duration_ms": 182173,
       "name": "On Me (with Odeal)",
       "url": "https://open.spotify.com/track/1Hz7wkNn6EtrnMV1fRAZd5"
+    },
+    {
+      "added_at": "2026-06-29 00:00:48",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/6NAxCRKiod0k7nqw8Wpmwf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/3ZBs6q6z3Pp995CXGoMAq4"
+    },
+    {
+      "added_at": "2026-07-17 04:02:08",
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "added_at": "2026-07-17 04:02:08",
@@ -217,6 +265,22 @@
       "url": "https://open.spotify.com/track/3imanCE92X8HlLyFKMy3cT"
     },
     {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "EGO RUINS EVERYTHING",
+        "url": "https://open.spotify.com/album/1qQoqhO6w4lfMNI7rSqz49"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 180991,
+      "name": "SHOW&PROVE",
+      "url": "https://open.spotify.com/track/5q111ttCRv7SEHUyFAsVVR"
+    },
+    {
       "added_at": "2026-06-12 07:05:50",
       "album": {
         "name": "Labor Of Love",
@@ -269,20 +333,36 @@
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
-      "added_at": "2026-07-17 04:02:08",
+      "added_at": "2026-07-10 06:53:21",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+        "name": "'Til We Meet Again",
+        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
       },
       "artists": [
         {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 130068,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+      "duration_ms": 259066,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
       "added_at": "2026-06-20 04:00:17",
@@ -343,6 +423,38 @@
     {
       "added_at": "2026-07-17 04:02:08",
       "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 130068,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "Fade To BLUE",
+        "url": "https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 138654,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
+    },
+    {
+      "added_at": "2026-07-17 04:02:08",
+      "album": {
         "name": "Beard",
         "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
       },
@@ -395,6 +507,22 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
     },
     {
       "added_at": "2026-07-10 06:53:21",
@@ -457,6 +585,54 @@
       "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
     },
     {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 132999,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "i wish you were here",
+        "url": "https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 203723,
+      "name": "i wish you were here",
+      "url": "https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM"
+    },
+    {
+      "added_at": "2026-07-24 06:54:12",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 252144,
+      "name": "Barii",
+      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+    },
+    {
       "added_at": "2026-07-10 06:53:21",
       "album": {
         "name": "Running",
@@ -493,6 +669,26 @@
       "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
     },
     {
+      "added_at": "2026-06-26 07:26:59",
+      "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
       "added_at": "2026-07-10 06:53:21",
       "album": {
         "name": "the bridge",
@@ -513,40 +709,36 @@
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
-      "added_at": "2026-07-10 06:53:21",
+      "added_at": "2026-07-24 06:54:12",
       "album": {
-        "name": "'Til We Meet Again",
-        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
         }
       ],
-      "duration_ms": 259066,
-      "name": "'Til We Meet Again",
-      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
-      "added_at": "2026-06-26 07:26:59",
+      "added_at": "2026-07-24 06:54:12",
       "album": {
-        "name": "is it cool? (feat. SZA)",
-        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+        "name": "HONEY BROWN",
+        "url": "https://open.spotify.com/album/0QLvvGOrI8rlRMZaQaTuSm"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
         }
       ],
-      "duration_ms": 174230,
-      "name": "is it cool? (feat. SZA)",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+      "duration_ms": 158117,
+      "name": "HONEY BROWN",
+      "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
     },
     {
       "added_at": "2026-07-17 04:02:08",
@@ -3125,22 +3317,6 @@
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
     },
     {
-      "added_at": "2026-02-06 07:07:56",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/40tfmF5U1oZsCD2HSSbGXN"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 164658,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0MfDffWuP59FSZmCsbU8w7"
-    },
-    {
       "added_at": "2025-08-29 19:03:11",
       "album": {
         "name": "Dreamland",
@@ -3737,26 +3913,6 @@
       "url": "https://open.spotify.com/track/4cAeIhgtNdj1hsOMAsfIPz"
     },
     {
-      "added_at": "2025-10-24 08:57:48",
-      "album": {
-        "name": "30.",
-        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "my man... (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
-    },
-    {
       "added_at": "2025-11-14 13:05:32",
       "album": {
         "name": "Fire&Smoke",
@@ -3819,42 +3975,6 @@
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": "2025-10-17 04:47:43",
-      "album": {
-        "name": "SMOKIN POTNA",
-        "url": "https://open.spotify.com/album/5qpj22OHmpSXlT6eG9OfYP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 153145,
-      "name": "SMOKIN POTNA",
-      "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
-    },
-    {
-      "added_at": "2025-10-10 08:45:03",
-      "album": {
-        "name": "HYDRAULIC",
-        "url": "https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/5U5UR88UmzOHBckl4wYAyT"
     },
     {
       "added_at": "2025-06-20 04:00:56",
@@ -4195,58 +4315,6 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": "2025-08-15 06:14:03",
-      "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Passport",
-      "url": "https://open.spotify.com/track/6zndkRnkrpNLXj4Hk64YN6"
-    },
-    {
-      "added_at": "2025-08-15 06:14:03",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Baby!",
-      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
-    },
-    {
-      "added_at": "2025-07-11 06:25:06",
-      "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Miami (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
     },
     {
       "added_at": "2025-08-15 06:14:03",

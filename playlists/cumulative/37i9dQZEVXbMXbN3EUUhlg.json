@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -9220,7 +9220,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 159480,
       "name": "C\u00f3pia Proibida",
       "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
@@ -18316,7 +18316,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203177,
       "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
@@ -28769,6 +28769,24 @@
     },
     {
       "album": {
+        "name": "Maiores de 18 - Vol.1",
+        "url": "https://open.spotify.com/album/2usmc6ki2wHelTRFE1XvIZ"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165685,
+      "name": "Pena Que C\u00ea J\u00e1 Namora",
+      "url": "https://open.spotify.com/track/2BIxaXyOICP5qPMo73IQey"
+    },
+    {
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -30066,7 +30084,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
@@ -37410,7 +37428,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
@@ -41630,7 +41648,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 162858,
       "name": "Volt\u00e1vel",
       "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"
@@ -42118,7 +42136,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

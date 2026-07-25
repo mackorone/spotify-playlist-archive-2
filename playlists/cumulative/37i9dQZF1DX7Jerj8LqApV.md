@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-501 songs - 1 day 7 hr 55 min
+502 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Grabe Ka Naman Saktan](https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t) | [Abby Asistio](https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM) | [Grabe Ka Naman Saktan](https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK) | 4:17 | 2026-03-17 | 2026-03-25 |
 | [GRABE O](https://open.spotify.com/track/4vYSdjlNxqJyWuSv5Qob1p) | [Jong](https://open.spotify.com/artist/37QxeXh95HRV1aRwS1hFMY), [Pxrple](https://open.spotify.com/artist/35WpSHD4EHopGXyikn0rGR), [Prince Ben](https://open.spotify.com/artist/2Y4IVOJhnHwra7TZOcNw3Y) | [GRABE O](https://open.spotify.com/album/5r3suqOsyzCyrfXgN3jB3c) | 3:26 | 2025-05-09 | 2025-05-22 |
 | [Gulong\-gulo](https://open.spotify.com/track/14phQAoWo0yZy4EcseAHof) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Gulong\-gulo](https://open.spotify.com/album/5klNgdvsmWVycPYjPaINrp) | 4:18 | 2025-02-05 | 2025-02-13 |
+| [Guni\-guni](https://open.spotify.com/track/2iEB1zMYmN0KZUjuSIymB9) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Guni\-guni](https://open.spotify.com/album/66AxLZbYq4EYNdXLABWH9Y) | 4:08 | 2026-07-24 |  |
 | [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 | 2024-05-08 | 2024-06-06 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 | 2025-08-08 |
 | [Gusto Mo Ba Ako](https://open.spotify.com/track/1G53ptsyAHZPp95lLzNK5J) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [Gusto Mo Ba Ako](https://open.spotify.com/album/1yQkzKCUjCkVXmVaoAnikN) | 3:11 | 2026-04-28 | 2026-05-06 |
@@ -268,7 +269,7 @@
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 |  |
 | [Moved on Last](https://open.spotify.com/track/38DWGFGbCNgdUnG29ibpff) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Moved on Last](https://open.spotify.com/album/2eIk0YhI4vTYOaaAdBFc2f) | 2:53 | 2026-01-26 | 2026-02-03 |
 | [Moving Closer](https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Moving Closer](https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T) | 2:53 | 2023-12-08 | 2024-05-09 |
-| [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/album/7MBe8x7NFeB4nTxLRxHELy) | 3:30 | 2026-07-08 |  |
+| [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/album/7MBe8x7NFeB4nTxLRxHELy) | 3:30 | 2026-07-08 | 2026-07-25 |
 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-25 |  |
 | [Multo](https://open.spotify.com/track/3ZBKNfrchDC1zpR4dCphYS) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [In Pursuit of Wonder](https://open.spotify.com/album/0MJJjR3cYBbGNfGTzT2Xd9) | 5:08 | 2024-07-24 | 2024-08-22 |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-10-18 | 2024-02-10 |

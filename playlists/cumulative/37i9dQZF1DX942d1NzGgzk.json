@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: Jav\u00e1n",
+  "description": "The latest of R&B rising in the UK. Cover: JEDSOUL",
   "name": "R&B UK",
   "tracks": [
     {
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212812,
       "name": "burn (feat. Tone Stith)",
       "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209438,
       "name": "City of Symbols",
       "url": "https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204615,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 130909,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
@@ -2890,6 +2890,28 @@
       "duration_ms": 181475,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/02moFsWJxRYeZbBD2pLzUa"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
     },
     {
       "album": {
@@ -3292,6 +3314,24 @@
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
+    },
+    {
+      "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
     },
     {
       "album": {
@@ -4486,7 +4526,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191417,
       "name": "hate you bad <3",
       "url": "https://open.spotify.com/track/52c7hLD3PGD3IqHWM7DLic"
@@ -6268,7 +6308,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 183406,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
@@ -6388,7 +6428,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 199859,
       "name": "Lie With Me",
       "url": "https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK"
@@ -6652,7 +6692,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 221626,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC"
@@ -6706,7 +6746,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 177692,
       "name": "love",
       "url": "https://open.spotify.com/track/6ArPJvKhguHqZrx8aD8zJT"
@@ -6786,6 +6826,24 @@
       "duration_ms": 161139,
       "name": "Lovers To Enemies",
       "url": "https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B"
+    },
+    {
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
       "album": {
@@ -6934,6 +6992,24 @@
       "duration_ms": 220573,
       "name": "Mama",
       "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+    },
+    {
+      "album": {
+        "name": "man up",
+        "url": "https://open.spotify.com/album/0b5qj17fBxBKqbhc1WX5vE"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "man up",
+      "url": "https://open.spotify.com/track/6oTDRraYxQpYK8ZCMBIapW"
     },
     {
       "album": {
@@ -7284,7 +7360,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180923,
       "name": "Mona Lisa Who?",
       "url": "https://open.spotify.com/track/1TmoPIuxoNJ4iEYXp2zh5J"
@@ -9478,7 +9554,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 145000,
       "name": "should i give it up?",
       "url": "https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU"
@@ -11022,7 +11098,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 125954,
       "name": "Touch bby",
       "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
@@ -11982,7 +12058,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/10XHA4AVC8qfg5AUKt097S"

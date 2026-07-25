@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1647848,
+  "num_followers": 1647672,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Savannah",
+        "url": "https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 237626,
       "name": "Shark Smile",
       "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 110560,
-      "name": "Flowers In Your Hair",
-      "url": "https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh"
     }
   ],
   "unique_name": "Summer Acoustic",

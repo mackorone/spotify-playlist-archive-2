@@ -1,12 +1,12 @@
 {
   "description": "The newest arrivals. Cover: Asco, Fredo",
-  "num_followers": 69286,
+  "num_followers": 69304,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAQPzJV9u6BjP3pCWJdORVweqd/",
+  "snapshot_id": "AAAAAOCCpy7lpgc7l3ppTpkUARLQoqfb",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:43",
@@ -160,12 +160,12 @@
           "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
           "name": "Spice",
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
         },
         {
           "name": "Keys N Krates",
@@ -251,6 +251,26 @@
       "duration_ms": 221571,
       "name": "Lively & Stravagant",
       "url": "https://open.spotify.com/track/2BFq79N2bWhHJUBXZozyet"
+    },
+    {
+      "added_at": "2026-07-24 11:00:15",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
     },
     {
       "added_at": "2026-07-23 23:00:43",

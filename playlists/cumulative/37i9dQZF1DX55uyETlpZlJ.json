@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Fineapple",
+        "url": "https://open.spotify.com/album/3F1D92Ds30VPnvPYO2LOXY"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Express",
+          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280208,
+      "name": "Fineapple",
+      "url": "https://open.spotify.com/track/4hU2FaZs5wHQdxfydUGxSz"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3hrICi5rtsaVOQIP3DIq4U"
       },
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155491,
       "name": "HIPHOP",
       "url": "https://open.spotify.com/track/1naJJfT4WLPlVQvVCcj3cX"
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 245595,
       "name": "Itheechege",
       "url": "https://open.spotify.com/track/3XmHmVGw3uW8evP4QmPEil"
@@ -7770,6 +7788,24 @@
       "duration_ms": 148961,
       "name": "Marujanma",
       "url": "https://open.spotify.com/track/3XMwWPK24jpdSQqntn3Vj4"
+    },
+    {
+      "album": {
+        "name": "MANIAC",
+        "url": "https://open.spotify.com/album/64YVnWEE6IRudgzfRoGEvR"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148961,
+      "name": "Marujanma",
+      "url": "https://open.spotify.com/track/4d0ohFLkGQiE9PYdc0LsM7"
     },
     {
       "album": {
@@ -10894,7 +10930,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 137774,
       "name": "Nirantara",
       "url": "https://open.spotify.com/track/3AzK1YCgsKjZNh1zZO5nyd"
@@ -12207,6 +12243,28 @@
     },
     {
       "album": {
+        "name": "Rossi Bhai",
+        "url": "https://open.spotify.com/album/77U7Cm9fcFH6TC5i5e3sKN"
+      },
+      "artists": [
+        {
+          "name": "Vivan Surya",
+          "url": "https://open.spotify.com/artist/09Om5vzG19zVQE8uf1MmCU"
+        },
+        {
+          "name": "Tarun Gowda",
+          "url": "https://open.spotify.com/artist/3vUhIWbnJF77ZAD3lQzqPQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178058,
+      "name": "Rossi Bhai",
+      "url": "https://open.spotify.com/track/4GiMJZYndjQUwEGlUWjJL1"
+    },
+    {
+      "album": {
         "name": "5 STAR",
         "url": "https://open.spotify.com/album/55z0OyLx2IDFEwYw5BgofI"
       },
@@ -13217,6 +13275,24 @@
     },
     {
       "album": {
+        "name": "MANIAC",
+        "url": "https://open.spotify.com/album/64YVnWEE6IRudgzfRoGEvR"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157999,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/1rw2bE8Z1Cs8VWsyvzpuwS"
+    },
+    {
+      "album": {
         "name": "Summer Girl",
         "url": "https://open.spotify.com/album/4fqdz5PhrYqVdsmCCQiF5U"
       },
@@ -13334,6 +13410,24 @@
       "duration_ms": 306000,
       "name": "Taare Bindigeya",
       "url": "https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6"
+    },
+    {
+      "album": {
+        "name": "Taare Neenu",
+        "url": "https://open.spotify.com/album/3IYmgzpr8PD2dDKtUGtkLt"
+      },
+      "artists": [
+        {
+          "name": "Bhoomika Yellow B",
+          "url": "https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182777,
+      "name": "Taare Neenu",
+      "url": "https://open.spotify.com/track/6fwzw7TvfN2Ie65lLdOjl8"
     },
     {
       "album": {
@@ -14076,7 +14170,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 247182,
       "name": "V C H I T R A 2",
       "url": "https://open.spotify.com/track/41qIMLz8G8L6QOAwna4LJe"

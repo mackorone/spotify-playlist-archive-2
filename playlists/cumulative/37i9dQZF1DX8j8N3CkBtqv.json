@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Yawar Abdal and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Bharat Chauhan,  Pineapple Express, Prateek Harbola and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158077,
       "name": "08:30",
       "url": "https://open.spotify.com/track/1pcwkurPI772NqdHjFDvaR"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 174150,
       "name": "1:15 AM (AFTER HOURS)",
       "url": "https://open.spotify.com/track/3okSg4JFGWe4m5qMcI4HaH"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 157200,
       "name": "Aayegi Manzil",
       "url": "https://open.spotify.com/track/331Lyiz3LYvslIQI7NgP85"
@@ -2695,6 +2695,28 @@
     },
     {
       "album": {
+        "name": "Baarish Ki Boondein",
+        "url": "https://open.spotify.com/album/6ecpU8eroiOsI8m1u7iDdG"
+      },
+      "artists": [
+        {
+          "name": "Akash Tripathi",
+          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281097,
+      "name": "Baarish Ki Boondein",
+      "url": "https://open.spotify.com/track/4xMaPRbGHuX0pv2TbvAzlS"
+    },
+    {
+      "album": {
         "name": "Baarish Mein Phir",
         "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
       },
@@ -3052,7 +3074,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 302812,
       "name": "Badra",
       "url": "https://open.spotify.com/track/0yImatBZVxcXruTOJRsIUB"
@@ -5977,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240288,
+      "name": "Daag",
+      "url": "https://open.spotify.com/track/7afDLo3pKojCNnZvunsbaU"
+    },
+    {
+      "album": {
         "name": "Daag.",
         "url": "https://open.spotify.com/album/5xw4ODck9IkU2dyU61c1oh"
       },
@@ -7447,6 +7487,28 @@
     },
     {
       "album": {
+        "name": "Dil Udta Phire",
+        "url": "https://open.spotify.com/album/3uRs5WeKYT0ArKTpVvKtNI"
+      },
+      "artists": [
+        {
+          "name": "Rishabh Anupam Sahay",
+          "url": "https://open.spotify.com/artist/62XfsmGZwzFFU4RPD8jtPj"
+        },
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205662,
+      "name": "Dil Udta Phire",
+      "url": "https://open.spotify.com/track/5nZUNha3NMoRv1WprdkwDd"
+    },
+    {
+      "album": {
         "name": "Dil Yeh Mera",
         "url": "https://open.spotify.com/album/57OZRw7esQujeKfjWspvA0"
       },
@@ -7750,7 +7812,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 120830,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/6u6q5bLgJhb04upf8EFhdW"
@@ -7822,7 +7884,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 242470,
       "name": "Dooba",
       "url": "https://open.spotify.com/track/5nRvvxCfX6RcRlC2HaO4Jb"
@@ -8076,7 +8138,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 263338,
       "name": "Dur Bhati Na Tu",
       "url": "https://open.spotify.com/track/2Rhywe5WynFqENRDaCKZFm"
@@ -8801,6 +8863,24 @@
     },
     {
       "album": {
+        "name": "Fineapple",
+        "url": "https://open.spotify.com/album/3F1D92Ds30VPnvPYO2LOXY"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Express",
+          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280208,
+      "name": "Fineapple",
+      "url": "https://open.spotify.com/track/4hU2FaZs5wHQdxfydUGxSz"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/7H4sAe84ZPcJW7Th30CJg5"
       },
@@ -9070,7 +9150,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 161889,
       "name": "Gareeb",
       "url": "https://open.spotify.com/track/5WokMuGOqi4lyZpBHOhpFw"
@@ -9154,6 +9234,24 @@
       "duration_ms": 140437,
       "name": "Ghabraye",
       "url": "https://open.spotify.com/track/4WaGtwSOWl5iECs36N27VC"
+    },
+    {
+      "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203564,
+      "name": "Ghamzada",
+      "url": "https://open.spotify.com/track/3v9gXetTqM3RzaKyaFSeTh"
     },
     {
       "album": {
@@ -13366,7 +13464,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 171157,
       "name": "Kaha Kuch",
       "url": "https://open.spotify.com/track/1C1HDkMpnIOPlPluHgWqPd"
@@ -13582,7 +13680,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168000,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/7BYtL995vLIrYyGufT2QCo"
@@ -16048,7 +16146,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 258000,
       "name": "Koyaliya",
       "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
@@ -17190,7 +17288,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 179465,
       "name": "Life and Times of Pinocchio",
       "url": "https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK"
@@ -18964,6 +19062,28 @@
       "duration_ms": 185680,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP"
+    },
+    {
+      "album": {
+        "name": "Meri Jagah",
+        "url": "https://open.spotify.com/album/4Ke9HX7WrMIGZeDy2eZsAY"
+      },
+      "artists": [
+        {
+          "name": "Prateek Harbola",
+          "url": "https://open.spotify.com/artist/4ClKqeMmijLcawoVzg8ZGC"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Meri Jagah",
+      "url": "https://open.spotify.com/track/232jlF7aML1WNSkhd0HY6E"
     },
     {
       "album": {
@@ -23768,7 +23888,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 258000,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/2TL2UsXOMUlkwqATD4vhwg"
@@ -29312,7 +29432,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Tu Hi Subah",
       "url": "https://open.spotify.com/track/4DIg5HDaSSmmUZyVQfuWI1"

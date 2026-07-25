@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-314 songs - 18 hr 2 min
+315 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 | 2022-02-18 | 2022-12-10 |
 | [Honey Lemon Soda \- Main Theme](https://open.spotify.com/track/52nY3Ia3EuKQlYAGym5jGa) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Honey Lemon Soda \(Original Series Soundtrack\)](https://open.spotify.com/album/300ouwOo07hLXMw9K56Hfl) | 2:28 | 2025-01-24 |  |
 | [I Will Go to War](https://open.spotify.com/track/0haX1okP3ZHnhWPzDAUipW) | [Tessa Thompson](https://open.spotify.com/artist/0wu2r1UIgBh0euCkEg6Mqx) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 1:37 | 2022-02-18 | 2022-12-10 |
+| [I\-BULL \- iburu](https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL \- iburu \- BLEACH: Thousand\-Year Blood War \- The Calamity](https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM) | 4:00 | 2026-07-24 |  |
 | [IDWK \- Ido B & Zooki Remix](https://open.spotify.com/track/17eOnlxr5eNA3SEjusOrgW) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [IDWK \(The Remixes\)](https://open.spotify.com/album/2It3pJg368hYMLhCWXbqcY) | 3:02 | 2022-02-18 | 2022-12-10 |
 | [IMPULSE](https://open.spotify.com/track/1CXXm56FnDafykBYJanYe3) | [Yukari Hashimoto](https://open.spotify.com/artist/2oThAjMW6yMMqpjt0ffmcE) | [TV ANIME "ZENSHU" ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/6lBKOtzuwgBNLtB5K2WAX8) | 1:31 | 2025-03-31 |  |
 | [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 | 2025-09-19 |  |

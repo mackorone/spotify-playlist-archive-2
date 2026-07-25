@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 253288,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1OAvXFENwTeB57HdbkVCni"
@@ -1710,6 +1710,28 @@
       "duration_ms": 214069,
       "name": "Matizando",
       "url": "https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq"
+    },
+    {
+      "album": {
+        "name": "Me Dorm\u00ed?",
+        "url": "https://open.spotify.com/album/3Y4XwQ0u31NzQYS0utDD0V"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188434,
+      "name": "Me Dorm\u00ed?",
+      "url": "https://open.spotify.com/track/7y2Jef05qCfgGeuzVItVVN"
     },
     {
       "album": {
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 157763,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/7AQ5qL6356wqgex8ibPi3U"
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 208276,
       "name": "\u00c1mbar",
       "url": "https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6"

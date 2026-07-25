@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 282812,
       "name": "A Quiet Voice",
       "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217669,
       "name": "Annabelle",
       "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "autumn",
+        "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208735,
+      "name": "autumn",
+      "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
+    },
+    {
+      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 159729,
       "name": "Bloody Eyes",
       "url": "https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 311960,
       "name": "City Walls",
       "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211537,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200971,
       "name": "Cure for Emptiness (with Bello)",
       "url": "https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 167692,
       "name": "echo",
       "url": "https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 212221,
       "name": "For Better and For Worse",
       "url": "https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y"
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 307333,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203312,
       "name": "Her Face",
       "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 221826,
       "name": "Horizons Into Battlegrounds",
       "url": "https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms"
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
@@ -3787,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "SOLAR STEREO",
+        "url": "https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed"
+      },
+      "artists": [
+        {
+          "name": "Dajak",
+          "url": "https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325813,
+      "name": "H\u00c2TE DE VIVRE",
+      "url": "https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v"
+    },
+    {
+      "album": {
         "name": "Things I've Seen",
         "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
       },
@@ -3798,7 +3834,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
@@ -3910,7 +3946,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
@@ -4048,6 +4084,24 @@
     {
       "album": {
         "name": "If Only",
+        "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186869,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
+    },
+    {
+      "album": {
+        "name": "If Only",
         "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
       },
       "artists": [
@@ -4058,7 +4112,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -4658,6 +4712,24 @@
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
+    },
+    {
+      "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207024,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo"
     },
     {
       "album": {
@@ -5408,7 +5480,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 157054,
       "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
@@ -5510,7 +5582,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 271391,
       "name": "Mindjeris De Panu Pretu",
       "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
@@ -5874,7 +5946,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187863,
       "name": "Never Give Up (Acoustic Version)",
       "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
@@ -6253,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "On dansera encore",
+        "url": "https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182770,
+      "name": "On dansera encore",
+      "url": "https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/5zoHxmguqA9YMklneErozC"
       },
@@ -6444,7 +6534,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 202226,
       "name": "Ose",
       "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
@@ -6542,7 +6632,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
@@ -7286,7 +7376,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 182254,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
@@ -7304,7 +7394,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 269549,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
@@ -7358,7 +7448,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 207133,
       "name": "Sharpness",
       "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
@@ -7716,7 +7806,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 229880,
       "name": "Still I Wait",
       "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
@@ -7752,7 +7842,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "St\u00f6rm",
       "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
@@ -7810,7 +7900,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Suckerrr",
       "url": "https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm"
@@ -8052,7 +8142,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
@@ -8648,7 +8738,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
@@ -9042,7 +9132,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 253584,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
@@ -9248,7 +9338,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 259503,
       "name": "Whale Call",
       "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
@@ -9476,7 +9566,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 233218,
       "name": "With You Around",
       "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
@@ -9574,7 +9664,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
@@ -9632,7 +9722,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192597,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
@@ -9722,7 +9812,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 205808,
       "name": "\u00e0 deux",
       "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"

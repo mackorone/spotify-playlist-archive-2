@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-188 songs - 9 hr 13 min
+189 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bair Jaat Ka](https://open.spotify.com/track/7hXYsFmI2JpK1G71rAnaDA) | [CK Nara](https://open.spotify.com/artist/1TFtilwVj1KoItcly7EVHH), [Pratham The Haryanvi](https://open.spotify.com/artist/0Ye88zGXqHc6rQKninU0uZ) | [Bair Jaat Ka](https://open.spotify.com/album/4XzXLy32rzaaWfyd0Tf181) | 2:33 | 2024-04-17 | 2025-03-02 |
 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 | 2023-07-24 | 2024-08-31 |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 | 2024-03-09 |
+| [Big Plans](https://open.spotify.com/track/6oiR3TNT3vNRa9KbP7tTAe) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Big Plans](https://open.spotify.com/album/7ykp48rMKqrXmUfn0dzq52) | 2:26 | 2026-07-24 |  |
 | [Bigde Yaar](https://open.spotify.com/track/0iyU2GAtKO32yGeNwwpxrt) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Bigde Yaar](https://open.spotify.com/album/21iJNiPssQYFwFX2As2epk) | 2:46 | 2025-11-24 | 2025-12-24 |
 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 | 2023-07-24 | 2023-08-31 |
 | [BLACK RIDE](https://open.spotify.com/track/4hGLOuRhiVAZeOG4ZZc4a1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [BLACK RIDE](https://open.spotify.com/album/22N7U3oPkFr9N5a6PhDgz0) | 2:49 | 2025-10-03 |  |
@@ -156,7 +157,7 @@
 | [Ram Ram Karke](https://open.spotify.com/track/7LDvvW9IqGzDcoRdX2k5it) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuriya](https://open.spotify.com/artist/5KRt8SDS71jP3uyR4OwoIw) | [Ram Ram Karke](https://open.spotify.com/album/5aixreA83as4J3IhzZePlT) | 3:26 | 2024-04-17 | 2024-08-01 |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-30 | 2023-11-10 |
 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 | 2025-09-19 |  |
-| [Ror Royalty Of Ror](https://open.spotify.com/track/6hZQZI7wMjpWI2DwTS425h) | [Sumit Bandrana](https://open.spotify.com/artist/4Tc2xorXELPVNveDdNbm6g), [Rekha Goswami](https://open.spotify.com/artist/1jVoT8RHZh4P4vTvuxJntR), [Naseeb Siwan](https://open.spotify.com/artist/4XeGn3NcpOwE7FmslsMXo3), [Jyoti Goswami](https://open.spotify.com/artist/2J66ocei0CUfocahfP1qs7) | [Ror Royalty Of Ror](https://open.spotify.com/album/4YKnDPe0kRYGy0zB4VJW1e) | 2:43 | 2026-07-10 |  |
+| [Ror Royalty Of Ror](https://open.spotify.com/track/6hZQZI7wMjpWI2DwTS425h) | [Sumit Bandrana](https://open.spotify.com/artist/4Tc2xorXELPVNveDdNbm6g), [Rekha Goswami](https://open.spotify.com/artist/1jVoT8RHZh4P4vTvuxJntR), [Naseeb Siwan](https://open.spotify.com/artist/4XeGn3NcpOwE7FmslsMXo3), [Jyoti Goswami](https://open.spotify.com/artist/2J66ocei0CUfocahfP1qs7) | [Ror Royalty Of Ror](https://open.spotify.com/album/4YKnDPe0kRYGy0zB4VJW1e) | 2:43 | 2026-07-10 | 2026-07-25 |
 | [Rubber](https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Rubber](https://open.spotify.com/album/5K5ld5Ff5NGvTLFwYB005q) | 3:18 | 2023-07-24 | 2025-10-04 |
 | [Rubber](https://open.spotify.com/track/3NCCTW8MJU9RNRYmYckl9Z) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Rubber](https://open.spotify.com/album/0FyjOTYcZ8ZjVQdiYIj0v6) | 3:18 | 2024-01-31 | 2024-04-19 |
 | [Russian](https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Jumbo](https://open.spotify.com/artist/5dMNUgOiKAXFJYyeEFGZBz) | [Russian](https://open.spotify.com/album/5TN4kHTjG7cqD21DsQ8kFZ) | 2:28 | 2024-01-05 | 2024-03-09 |

@@ -4,7 +4,7 @@
 
 > The latest releases from bluegrass and string bands alike\. Cover: Lindsay Lou
 
-517 songs - 1 day 6 hr 32 min
+518 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fifty Years of Clown School](https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus) | [Matt Combs](https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9) | [Fifty Years of Clown School](https://open.spotify.com/album/7JogtGNYfSJOJtuJmOpfk5) | 3:00 | 2026-06-26 |  |
 | [Fireball](https://open.spotify.com/track/6f78Gdh2iVI2YU4PLbNYUm) | [Mason Via](https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi) | [Fireball](https://open.spotify.com/album/5iovh98VjGmabfbr11qcjo) | 3:23 | 2025-02-22 | 2026-01-24 |
 | [First Snow \- Live from Powell River Sessions](https://open.spotify.com/track/4DZTCqivpcz5hgZOBzO2wX) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [First Snow \(Live from Powell River Sessions\)](https://open.spotify.com/album/6anXcJnOwI3c2gI6Cg6g67) | 2:18 | 2024-06-28 | 2024-08-10 |
+| [Follow The Sound](https://open.spotify.com/track/0Rl8ReTcCWm2WiZbehz6dQ) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [Follow The Sound](https://open.spotify.com/album/4KDEy7p1MmmKLSz9vPnVMW) | 3:25 | 2026-07-24 |  |
 | [For Everything](https://open.spotify.com/track/7KT2d44IgFO7yy21Oj0okp) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [For Everything](https://open.spotify.com/album/38klntpvhrepsCTVEzydGm) | 3:06 | 2024-07-12 | 2024-11-16 |
 | [For the Record](https://open.spotify.com/track/1LGxK8CpgXwUFEBNIDKwiX) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [For the Record](https://open.spotify.com/album/7HjMryUz4eO5pMV0XRTpIz) | 3:35 | 2024-07-12 | 2024-12-07 |
 | [Free Time](https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck) | [Chloe Crowder](https://open.spotify.com/artist/3gHDvvAdomgodvNvZNlRZ2) | [Free Time](https://open.spotify.com/album/0739R9Mg1Y4LUSmARIsHKy) | 2:58 | 2024-06-28 | 2024-10-05 |
@@ -415,7 +416,7 @@
 | [Smoke](https://open.spotify.com/track/5phyocQUvFInRtHBHZLl8F) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [Smoke](https://open.spotify.com/album/5LK9FIIcTQ7mcNq9HoeSzL) | 3:02 | 2024-08-16 | 2024-12-07 |
 | [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-08-23 | 2024-12-07 |
 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 | 2024-12-14 |
-| [Song For A Lonely Road](https://open.spotify.com/track/17z9dL5Wu45f9lgMDbgF7l) | [Alejandro Preschel](https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP) | [Song For A Lonely Road](https://open.spotify.com/album/3Z4Kr4Sgh4wajfjQjVUJht) | 2:37 | 2025-02-22 |  |
+| [Song For A Lonely Road](https://open.spotify.com/track/17z9dL5Wu45f9lgMDbgF7l) | [Alejandro Preschel](https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP) | [Song For A Lonely Road](https://open.spotify.com/album/3Z4Kr4Sgh4wajfjQjVUJht) | 2:37 | 2025-02-22 | 2026-07-25 |
 | [Southern Pines](https://open.spotify.com/track/3xq4R4ji2VvzueStNzPcUm) | [Greenwood Rye](https://open.spotify.com/artist/2mcITeRSJbvXSnZaVNZiJM) | [Southern Pines](https://open.spotify.com/album/6IOGv7EQfWVEZ4BNsjzPKx) | 3:17 | 2024-07-26 | 2024-12-07 |
 | [Space Samba](https://open.spotify.com/track/7Da4PFlWYdEiGjImDf28we) | [Scroggins & Rose](https://open.spotify.com/artist/4G4J8TFtqyMNuopJtHSILX), [Tristan Scroggins](https://open.spotify.com/artist/6RZxkwdzwRVC6Iqt6UaKgP), [Alisa Rose](https://open.spotify.com/artist/5kyHIue2QOzQuk7vJutkqe) | [Space Samba](https://open.spotify.com/album/2q4hSo5KJGltYlAcrdbRLT) | 5:14 | 2024-12-20 | 2025-12-13 |
 | [Spanish Moss](https://open.spotify.com/track/6TA2JwXz8q0oZoteNgrbar) | [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Spanish Moss](https://open.spotify.com/album/6SWaPEPMBWuSJog2tH7ORp) | 3:00 | 2024-08-23 | 2024-12-07 |

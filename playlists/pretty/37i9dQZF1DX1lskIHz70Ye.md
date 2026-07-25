@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,351 likes - 102 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,368 likes - 102 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 34 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
 | 35 | [A Stillness Within](https://open.spotify.com/track/2I58ajetaUKB6nl7963Tm7) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [A Stillness Within](https://open.spotify.com/album/2az1Rnce2myCYUd20ezq40) | 2:36 |
 | 36 | [Papaver Sent](https://open.spotify.com/track/3XtCzcM0ZuhiqXBfDXH3RJ) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Papaver Sent](https://open.spotify.com/album/6SLax6dxplXffc8R5igb2H) | 2:12 |
-| 37 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
+| 37 | [Jobim: Estrada do sol \(Arr\. Barbosa\-Lima for Guitar\)](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
 | 38 | [La Noche](https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [La Noche](https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh) | 2:30 |
 | 39 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
 | 40 | [Estrella del Alba](https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj) | [Mirta Alvarez](https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ) | [Estrella del Alba](https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG) | 2:57 |

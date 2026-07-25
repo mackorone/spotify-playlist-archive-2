@@ -4,7 +4,7 @@
 
 > ¡Música que representa a Cuba! Cover: Dany Ome & Kevincito El 13
 
-196 songs - 11 hr 11 min
+197 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Sola \- Remix](https://open.spotify.com/track/7dkxnJqINepdJQKrM6Pf8f) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29) | [Sola \(Remix\)](https://open.spotify.com/album/2askI94d5uFdVYfazFH4YZ) | 3:19 | 2023-05-12 | 2026-07-01 |
 | [Sola Se Va](https://open.spotify.com/track/3iscKh3JLIMzYljBPcEg4X) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Apartamento 33](https://open.spotify.com/album/28ZfScNhokihJvkgp6WmWX) | 2:32 | 2024-09-13 | 2026-07-01 |
 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 | 2023-02-10 | 2026-07-01 |
-| [Stupida](https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU) | [Stupida](https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U) | 3:33 | 2026-06-30 |  |
+| [Stupida](https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU) | [Stupida](https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U) | 3:33 | 2026-06-30 | 2026-07-25 |
 | [Suave y Rico](https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Suave y Rico](https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i) | 3:09 | 2026-06-30 |  |
 | [Superbien](https://open.spotify.com/track/3598bQbF7rR2rG65nHnz0E) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Superbien](https://open.spotify.com/album/0slbbrD1hMc25xgCjEuy39) | 3:41 | 2022-02-25 | 2026-07-01 |
 | [Taxi Rutero](https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [El Dray](https://open.spotify.com/artist/300pxhl4nt1dFDwNcOYYIT), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw), [Seikan Anikila](https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Taxi Rutero](https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ) | 3:12 | 2026-06-30 |  |
@@ -202,6 +202,7 @@
 | [Yo Daría](https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Yo Daría](https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES) | 3:42 | 2024-04-19 |  |
 | [Yo Lo Se](https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08) | 3:27 | 2022-02-25 | 2026-07-01 |
 | [Yo Lo Se](https://open.spotify.com/track/3tpOjFm3syJjeQoccgSY8C) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/2qoZ3vyrc6bhjUdewwkmqP) | 3:27 | 2022-04-08 | 2024-04-19 |
+| [Yo lo sé](https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU), [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV) | [Yo lo sé](https://open.spotify.com/album/14h07hUekVScQA99nBO1fI) | 2:58 | 2026-07-17 |  |
 | [Yo Si Y Tú No](https://open.spotify.com/track/6FPxiFg1qKRueB2KMItMUL) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [2.45](https://open.spotify.com/album/1BPhyOHsr7BSBTXTaRgf1w) | 3:39 | 2023-02-10 | 2026-07-01 |
 | [Yo Voy A Mi](https://open.spotify.com/track/0P5jGd8WjbisrkskU4bqQI) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Yo Voy A Mi](https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn) | 2:44 | 2026-07-17 |  |
 

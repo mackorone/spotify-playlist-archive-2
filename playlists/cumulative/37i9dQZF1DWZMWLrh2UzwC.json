@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "New music from  charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!",
+  "description": "New music from JENNIE, KATSEYE, charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!",
   "name": "New Music Friday Malaysia",
   "tracks": [
     {
@@ -19781,6 +19781,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Animal (with Jason Derulo)",
         "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
       },
@@ -25646,6 +25664,24 @@
       "duration_ms": 178041,
       "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
       "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
+    },
+    {
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
+      },
+      "artists": [
+        {
+          "name": "EFI",
+          "url": "https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140347,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
     },
     {
       "album": {
@@ -45943,6 +45979,24 @@
     },
     {
       "album": {
+        "name": "<Born Stunner>",
+        "url": "https://open.spotify.com/album/2h9PWGI1WAf7B1GkUL8wdh"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Born Stunner",
+      "url": "https://open.spotify.com/track/3IUPnZ0yUaIxkTFgQlcBBf"
+    },
+    {
+      "album": {
         "name": "Born To Be Alive (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/04Qwy7yFfUd6o9prhAFCU3"
       },
@@ -51716,6 +51770,28 @@
       "duration_ms": 176748,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3M6yGXJs2leGaVKTW4DMBf"
+    },
+    {
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "album": {
@@ -76441,7 +76517,7 @@
     },
     {
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -76454,7 +76530,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
@@ -96746,6 +96822,32 @@
       "duration_ms": 196615,
       "name": "Dumb Dumb",
       "url": "https://open.spotify.com/track/32YoUzkuZi107WZJV81Ymc"
+    },
+    {
+      "album": {
+        "name": "DUMBLR",
+        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164549,
+      "name": "DUMBLR",
+      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
     },
     {
       "album": {
@@ -196809,6 +196911,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "album": {
         "name": "lesson learned",
         "url": "https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN"
       },
@@ -197574,6 +197694,24 @@
       "duration_ms": 342295,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/2gxzxlccdITQyj7TAjP4CU"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/49ztAo70OidQnboagHWUWl"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234970,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30"
     },
     {
       "album": {
@@ -260972,6 +261110,24 @@
       "duration_ms": 285911,
       "name": "Paling Sejati",
       "url": "https://open.spotify.com/track/3c4kxwdR3X0p7lJpYYSGMg"
+    },
+    {
+      "album": {
+        "name": "A Comedy Romantic (Act. 1)",
+        "url": "https://open.spotify.com/album/1H0yTiwyE5kNUhP72aNg3y"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "Palm",
+      "url": "https://open.spotify.com/track/0LZI5VdVmDlrGFDFgk4Tix"
     },
     {
       "album": {
@@ -361464,42 +361620,6 @@
       "duration_ms": 219073,
       "name": "Traces of Blue",
       "url": "https://open.spotify.com/track/0pFV40nlzcshkTEZD4Jupb"
-    },
-    {
-      "album": {
-        "name": "Gentleman",
-        "url": "https://open.spotify.com/album/49ztAo70OidQnboagHWUWl"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4Jv6XHV14mpudWMkixsg30"
-    },
-    {
-      "album": {
-        "name": "A Comedy Romantic (Act. 1)",
-        "url": "https://open.spotify.com/album/1H0yTiwyE5kNUhP72aNg3y"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0LZI5VdVmDlrGFDFgk4Tix"
     },
     {
       "album": {

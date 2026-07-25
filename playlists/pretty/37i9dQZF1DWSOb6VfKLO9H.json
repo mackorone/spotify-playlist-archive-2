@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110158,
+  "num_followers": 110179,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -927,30 +927,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Omlaag",
-        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        },
-        {
-          "name": "Keizer",
-          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
-        },
-        {
-          "name": "Freddy Moreira",
-          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
-        }
-      ],
-      "duration_ms": 196958,
-      "name": "Omlaag",
-      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 170242,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Omlaag",
+        "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        }
+      ],
+      "duration_ms": 196958,
+      "name": "Omlaag",
+      "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Was Je Nog Maar Hier (Radio Edit)",
+        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Was Je Nog Maar Hier - Radio Edit",
+      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Juppige Geintjes",
         "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 177623,
       "name": "Tis Oke Mop",
       "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Was Je Nog Maar Hier (Radio Edit)",
-        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Was Je Nog Maar Hier - Radio Edit",
-      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 218753,
       "name": "fallin'",
       "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",

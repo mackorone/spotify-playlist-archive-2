@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "ADAM",
+        "url": "https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222742,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/60WVQNGxG2Ynl6VD3nEHqn"
+    },
+    {
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,003 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 14 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
 | 15 | [Yo Tengo un Gran Dios](https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g) | [Planet Kids](https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo) | [Grandes Promesas](https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ) | 3:36 |
 | 16 | [La Vaca Tita](https://open.spotify.com/track/2yovTUgzyJ6naFFq0wjdBc) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Vaca Tita](https://open.spotify.com/album/2g9IxC1lhO9sKoxP7TSksR) | 2:09 |
-| 17 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
+| 17 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
 | 18 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
 | 19 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
-| 20 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
+| 20 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
 | 21 | [Verano Con Jesús](https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Verano Con Jesús](https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn) | 3:07 |
 | 22 | [El Guerrero David](https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [El Guerrero David](https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt) | 2:49 |
 | 23 | [Quiero Conocer A Jesús](https://open.spotify.com/track/3as9Rl3GJ1pP03e4Wxn8c5) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [Quiero Conocer A Jesús](https://open.spotify.com/album/0AexjlzRjmXT5ix9GNKHOK) | 5:35 |

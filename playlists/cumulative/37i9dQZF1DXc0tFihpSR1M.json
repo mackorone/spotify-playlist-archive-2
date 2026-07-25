@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Sienna Spiro",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Tyla",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -804,10 +804,28 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 147855,
       "name": "bedrot (fml)",
       "url": "https://open.spotify.com/track/3MqtBLXIs8JTRHgkq2GmZv"
+    },
+    {
+      "album": {
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
       "album": {
@@ -1431,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Camera",
+        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151438,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
+    },
+    {
+      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 145732,
       "name": "Careless",
       "url": "https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz"
@@ -3170,7 +3206,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 170533,
       "name": "Focu 'Ranni",
       "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 161507,
       "name": "For evig og for alltid (feat. Amara)",
       "url": "https://open.spotify.com/track/3slr3h3mV4aXcoDq85jRO1"
@@ -3704,7 +3740,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 146253,
       "name": "Gledest\u00e5rer",
       "url": "https://open.spotify.com/track/3vEIRhQjfiaJtjwHcf3NgE"
@@ -5394,6 +5430,24 @@
       "duration_ms": 150000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/6PpJ7gIAckwYRLwpSWgi0U"
+    },
+    {
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/5NHCce8WU7u1vXqzlfys6s"
+      },
+      "artists": [
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227459,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/1sLm8Adi2YvwVngFoGsiYK"
     },
     {
       "album": {
@@ -9090,6 +9144,28 @@
     {
       "album": {
         "name": "Sirens",
+        "url": "https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa"
+    },
+    {
+      "album": {
+        "name": "Sirens",
         "url": "https://open.spotify.com/album/3tffwNpUA42EvmJ2O2NLGl"
       },
       "artists": [
@@ -10199,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176876,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
+    },
+    {
+      "album": {
         "name": "If You're Looking For A Reason To Key Your Ex's Car",
         "url": "https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc"
       },
@@ -10502,7 +10596,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236514,
       "name": "Ti av ti",
       "url": "https://open.spotify.com/track/0my4Ab3S68X74izaXhWJT5"
@@ -11130,7 +11224,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 181945,
       "name": "VARM",
       "url": "https://open.spotify.com/track/3sKx3eSzs6ylXLVRbR6hiw"

@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "I Just Burn",
+        "url": "https://open.spotify.com/album/4TIfTWjni8nLJndgTVp4T2"
+      },
+      "artists": [
+        {
+          "name": "Dunsun",
+          "url": "https://open.spotify.com/artist/4Y6vi6z9cgdF3DUvN2laGm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171646,
+      "name": "I Just Burn",
+      "url": "https://open.spotify.com/track/77rg0UJnfspsNgu3QnLzId"
+    },
+    {
+      "album": {
         "name": "Music City USA",
         "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
       },
@@ -1284,6 +1302,24 @@
       "duration_ms": 190243,
       "name": "Lean In",
       "url": "https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Your Home",
+        "url": "https://open.spotify.com/album/5DMXiu9dwyFh5KdHr7rfYw"
+      },
+      "artists": [
+        {
+          "name": "Tony Lucca",
+          "url": "https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245510,
+      "name": "Let Me Be Your Home",
+      "url": "https://open.spotify.com/track/2MjoyIN5C6eM3rUTJNkTkC"
     },
     {
       "album": {
@@ -2002,6 +2038,24 @@
       "duration_ms": 166378,
       "name": "When I Was In New York",
       "url": "https://open.spotify.com/track/73FQTnW0NYtdOsFp6YH0nG"
+    },
+    {
+      "album": {
+        "name": "White Lightning",
+        "url": "https://open.spotify.com/album/4vigviMNnjmzIg1cO7tAhk"
+      },
+      "artists": [
+        {
+          "name": "Elijah Honey",
+          "url": "https://open.spotify.com/artist/0dnyPqQd1IgnlGpM3VOVEJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165100,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/1WZFlawJ6873OKkKLiIUiF"
     },
     {
       "album": {

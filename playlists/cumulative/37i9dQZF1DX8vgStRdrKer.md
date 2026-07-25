@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-833 songs - 3 day 0 hr 14 min
+834 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2026-01-22 |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2026-06-14 |
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-03-09 |
+| [Chukwu Oma](https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Chukwu Oma](https://open.spotify.com/album/4D5EnT3PfPYkjbKpLqsNXW) | 4:53 | 2026-07-17 |  |
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
 | [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 | 2026-05-12 |
@@ -682,7 +683,7 @@
 | [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 | 2025-10-20 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-05-13 |
 | [Sweet Holyspirit](https://open.spotify.com/track/5Q0HE1PwQYYRX6f718Nmnb) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Sweet Holyspirit](https://open.spotify.com/album/5MmBtXneHAryzZDlmuz4Lc) | 7:42 | 2025-06-06 | 2025-06-13 |
-| [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 |  |
+| [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 | 2026-07-25 |
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2025-05-16 |
 | [Take Care of Me](https://open.spotify.com/track/6lrFxFgwf9ePXlQhJS7tcI) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx) | [Take Care of Me](https://open.spotify.com/album/10NoCod7WbsamE1GkAdFk8) | 4:20 | 2025-01-24 | 2025-03-07 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2023-11-03 |

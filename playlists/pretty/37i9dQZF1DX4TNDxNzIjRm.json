@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1281606,
+  "num_followers": 1281451,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "La Ciudad del Sol",
         "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
     },
     {
       "added_at": "2026-07-04 10:35:02",

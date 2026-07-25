@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: ANTHNY & Naomi Raine",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Jekayln Carr",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 247331,
       "name": "Completely Yours",
       "url": "https://open.spotify.com/track/5BJwPMyYs89Hfh4x2u1SHL"
@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203538,
       "name": "Heal",
       "url": "https://open.spotify.com/track/7F8PxTQf6eTnpSKuZ7IDZU"
@@ -5895,6 +5895,24 @@
     },
     {
       "album": {
+        "name": "High Praise",
+        "url": "https://open.spotify.com/album/174apFskBt2BwU0SH4os7S"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333208,
+      "name": "High Praise",
+      "url": "https://open.spotify.com/track/5Jqia9cVK8OOhefBWcCgWi"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/7F0jledobkx7zSDnAI11A4"
       },
@@ -5914,6 +5932,24 @@
       "duration_ms": 223578,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh"
+    },
+    {
+      "album": {
+        "name": "His Favorite",
+        "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172798,
+      "name": "His Favorite",
+      "url": "https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1"
     },
     {
       "album": {
@@ -5940,10 +5976,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 293928,
       "name": "History (Breakthrough)",
       "url": "https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI"
+    },
+    {
+      "album": {
+        "name": "History (Breakthrough) Live Experience",
+        "url": "https://open.spotify.com/album/6nEemIkK7R99qfMoty8w43"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576000,
+      "name": "History (Breakthrough) Live Experience",
+      "url": "https://open.spotify.com/track/0dnaMcvLoFmt9blKKvU2Qs"
     },
     {
       "album": {
@@ -8584,7 +8638,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 272545,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
@@ -15488,6 +15542,24 @@
       "duration_ms": 155016,
       "name": "We Need Your Presence Now (feat. Eryka Edmund)",
       "url": "https://open.spotify.com/track/3CqPj0BBWXmU3uCezP2iOF"
+    },
+    {
+      "album": {
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/7vytuRDjpMSnDOIWPTZcqC"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338569,
+      "name": "We Say Yes",
+      "url": "https://open.spotify.com/track/0tVfx7HiRMh8RipJJmXfmC"
     },
     {
       "album": {

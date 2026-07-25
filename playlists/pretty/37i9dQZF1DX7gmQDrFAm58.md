@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,999 likes - 120 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,990 likes - 120 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 31 | [Little Boy Blue](https://open.spotify.com/track/5ahdo7kQdsDQWDRtPs6kGn) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Little Boy Blue](https://open.spotify.com/album/1YhSFSCgtEtwTqi8up1zlK) | 1:27 |
 | 32 | [Nightingales](https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ) | [Caprice Henry](https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G) | [Nightingales](https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD) | 2:05 |
 | 33 | [Rainbow Dreams](https://open.spotify.com/track/3l05k9kzrvNhjHb0uBoQMy) | [Franciscus Love](https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ) | [Rainbow Dreams](https://open.spotify.com/album/7JXk9082EpMIx5JKc4E6L9) | 1:28 |
-| 34 | [Manx Lullaby](https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I) | [Cael Everly](https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd) | [Manx Lullaby](https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn) | 1:23 |
-| 35 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 |
+| 34 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 |
+| 35 | [Manx Lullaby](https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I) | [Cael Everly](https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd) | [Manx Lullaby](https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn) | 1:23 |
 | 36 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 |
 | 37 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 |
 | 38 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 40 | [It's Raining, It's Pouring](https://open.spotify.com/track/5MdZWaY3aYrqRwR9y0Fq2L) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [It's Raining, It's Pouring](https://open.spotify.com/album/3XDaVT8hBkvhlSw91AY2z3) | 2:41 |
 | 41 | [Bee & Boo's Lullaby](https://open.spotify.com/track/50BHMMVvZaVCQVnZ3n6JxQ) | [Leanne Haughey](https://open.spotify.com/artist/1ohrmBFOBxEUhhC7URdjap) | [Bee & Boo's Lullaby](https://open.spotify.com/album/6CoKj62iTUoFAWWvY4fF16) | 1:43 |
 | 42 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 |
-| 43 | [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 |
+| 43 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 |
 | 44 | [Knackle Back](https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Knackle Back](https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw) | 1:42 |
-| 45 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 |
+| 45 | [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 |
 | 46 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 |
 | 47 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 |
 | 48 | [Sleepy Teddy's Tale](https://open.spotify.com/track/45LzgmtpD3LqOfzi4bKBOr) | [Jordan Avery](https://open.spotify.com/artist/1LXnzItmTIO6wBobBHHj7a) | [Sleepy Teddy's Tale](https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK) | 1:22 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 52 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 |
 | 53 | [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 |
 | 54 | [I Am the Captain](https://open.spotify.com/track/4jUZM2I3o2TcfZjZQe1cms) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [I Am the Captain](https://open.spotify.com/album/01hhqEPnOMtMX6wgJ5hYu3) | 1:39 |
-| 55 | [Robins Song](https://open.spotify.com/track/6kmt5MttMsfQ8amN9xUW0O) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Robins Song](https://open.spotify.com/album/1asLoMcNOKc0bXr4nO8kOC) | 1:30 |
-| 56 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 |
+| 55 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 |
+| 56 | [Robins Song](https://open.spotify.com/track/6kmt5MttMsfQ8amN9xUW0O) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Robins Song](https://open.spotify.com/album/1asLoMcNOKc0bXr4nO8kOC) | 1:30 |
 | 57 | [For My Friends](https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [For My Friends](https://open.spotify.com/album/57HFg87D0nIsRUrHWKsy01) | 1:11 |
 | 58 | [Free Like A Bird](https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Free Like A Bird](https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ) | 2:16 |
 | 59 | [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 102 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 |
 | 103 | [Door\-Peak Moodlight](https://open.spotify.com/track/0hCGHQxMlw8qpGJoy4hnUg) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Door\-Peak Moodlight](https://open.spotify.com/album/0sk5VPIbey7aXl7GlK8qKa) | 2:10 |
 | 104 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 |
-| 105 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
-| 106 | [Treehouse](https://open.spotify.com/track/09p9WmqfzXwgucwOG4dMmT) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Treehouse](https://open.spotify.com/album/6ft7wve4D5M8aZkqTktFrL) | 1:50 |
+| 105 | [Treehouse](https://open.spotify.com/track/09p9WmqfzXwgucwOG4dMmT) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Treehouse](https://open.spotify.com/album/6ft7wve4D5M8aZkqTktFrL) | 1:50 |
+| 106 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
 | 107 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
 | 108 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 |
 | 109 | [Butterfly Lullaby](https://open.spotify.com/track/47nLuiBvDPtHJeZiewC4o0) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Butterfly Lullaby](https://open.spotify.com/album/0XudE2k1p1SSiC50KGaicL) | 2:35 |

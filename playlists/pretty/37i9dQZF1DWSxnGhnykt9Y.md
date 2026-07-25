@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Teni
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,175 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,173 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wurumanya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 |
+| 1 | [Wuru Manya](https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Wellness Package](https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV) | 3:17 |
 | 2 | [I DON'T CARE \(feat\. Babalwa M\)](https://open.spotify.com/track/13ia3DtaRolSiYpjrMbvCO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG) | [A\*POP](https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6) | 3:12 |
 | 3 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 4 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |

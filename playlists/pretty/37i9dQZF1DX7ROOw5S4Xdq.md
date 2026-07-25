@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,572 likes - 49 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,728 likes - 49 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [A Oração do Justo](https://open.spotify.com/track/07nAcoYjIdt9PYEEhRh0Tc) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [A Oração do Justo](https://open.spotify.com/album/5evvj6r5v10fZaCdSC9i5H) | 5:23 |
 | 49 | [Os Sonhos de Deus \- Ao Vivo \[Playback\]](https://open.spotify.com/track/7JsEyEmOXdiAMucaljzqvx) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [A Palavra Através do Pandeiro Vol.2 \(Ao Vivo \[Playback\]\)](https://open.spotify.com/album/5m9C4vxFRKHwiZ06CwhcLf) | 5:22 |
 
-Snapshot ID: `AAAAAF5PIoV/oiJL4rq54BXsLmQomT+Z`
+Snapshot ID: `AAAAAOM0b4eXbhYacN/OSPdHdj99gDi1`

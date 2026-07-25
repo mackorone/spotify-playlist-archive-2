@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-21",
-  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] LIVE SET including the voices of them on stage! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ub77c\uc774\ube0c\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] BEST SET from Tokai and Hyelyn Joo! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ubca0\uc2a4\ud2b8\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Tune Up Meets Fresh Finds",
   "tracks": [
     {
@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83368,
+      "name": "501",
+      "url": "https://open.spotify.com/track/5oHKOV9NbJ7JHvYuXTnHeA"
+    },
+    {
+      "album": {
+        "name": "stereo",
+        "url": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156351,
+      "name": "909 jam",
+      "url": "https://open.spotify.com/track/6kXp2dhHPbUwmS2DHskU0T"
+    },
+    {
+      "album": {
         "name": "\u2018BLUISH\u2019 Unplugged",
         "url": "https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr"
       },
@@ -34,7 +70,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 195000,
       "name": "A Hermit Crab",
       "url": "https://open.spotify.com/track/1ZUYnMRP3r9FVAcGVeCLZh"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 243000,
       "name": "BlaCk and wHite",
       "url": "https://open.spotify.com/track/7ydLdMjsLFku078oF7i9D0"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 216040,
       "name": "blind",
       "url": "https://open.spotify.com/track/6u6GXCYredrdGAHJ0sWANv"
@@ -164,6 +200,24 @@
       "duration_ms": 142750,
       "name": "Blue vinyl",
       "url": "https://open.spotify.com/track/7xrM3zfJEYD1pboS1hoz9Z"
+    },
+    {
+      "album": {
+        "name": "breathing.",
+        "url": "https://open.spotify.com/album/0S7EeOvk2OW1otZ3n0CmWj"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203630,
+      "name": "brave",
+      "url": "https://open.spotify.com/track/6RJREMUzXHK2OWEB3VHihZ"
     },
     {
       "album": {
@@ -200,6 +254,42 @@
       "duration_ms": 250625,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/4mjLbpVgQwz6nFtdOnCB1L"
+    },
+    {
+      "album": {
+        "name": "stereo",
+        "url": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Busy Boy",
+      "url": "https://open.spotify.com/track/5scNLPks8Dntf8dCuZ8Zur"
+    },
+    {
+      "album": {
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254605,
+      "name": "Busy Boy - Re-Make",
+      "url": "https://open.spotify.com/track/5eBM5qATb1IfJvNzGuS2GX"
     },
     {
       "album": {
@@ -275,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231376,
+      "name": "Crazy - Re-Make",
+      "url": "https://open.spotify.com/track/0kt2S0FV9DEGIOg247sT8b"
+    },
+    {
+      "album": {
         "name": "I ZIP",
         "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
       },
@@ -286,7 +394,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190287,
       "name": "Diver",
       "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
@@ -304,7 +412,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204680,
       "name": "doors",
       "url": "https://open.spotify.com/track/4jPdoEjNEDtOj76ZdNRj4h"
@@ -322,7 +430,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202000,
       "name": "Dream that can never be",
       "url": "https://open.spotify.com/track/0DBtDNmdnmJljCfoJcVnrU"
@@ -340,7 +448,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212393,
       "name": "echo",
       "url": "https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR"
@@ -358,7 +466,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236000,
       "name": "Ember",
       "url": "https://open.spotify.com/track/0e3royWpDVFXLzJyI8kcz7"
@@ -376,7 +484,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 214362,
       "name": "escape",
       "url": "https://open.spotify.com/track/1UOVCDjkiXLmQ4vvcI7Lkt"
@@ -394,7 +502,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 273000,
       "name": "Even though your life makes you suffer",
       "url": "https://open.spotify.com/track/5u6cQKl9RqckL6xGntXsOU"
@@ -430,7 +538,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201360,
       "name": "fireworks",
       "url": "https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh"
@@ -466,7 +574,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 208306,
       "name": "Flower",
       "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
@@ -484,7 +592,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 171367,
       "name": "Flower Pot",
       "url": "https://open.spotify.com/track/3hfOKqTILdPD8oiM8Egssy"
@@ -538,7 +646,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168322,
       "name": "Glimpse of summer",
       "url": "https://open.spotify.com/track/4LMrauwDzD6S99Ktt1mwQc"
@@ -563,6 +671,42 @@
     },
     {
       "album": {
+        "name": "Hair Cut",
+        "url": "https://open.spotify.com/album/79Mv4nSBIFvbgYPIy5FVB5"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Hair Cut",
+      "url": "https://open.spotify.com/track/7vXq1s5Y76TFybSAiQmRkk"
+    },
+    {
+      "album": {
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205650,
+      "name": "Hair Cut - Re-Make",
+      "url": "https://open.spotify.com/track/3c0anSTjsn20lztbBmZt03"
+    },
+    {
+      "album": {
         "name": "HEY",
         "url": "https://open.spotify.com/album/6RVsAdRC0iDBXmpbYbDax7"
       },
@@ -574,7 +718,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 177346,
       "name": "HEY",
       "url": "https://open.spotify.com/track/6XDQkEUKnmAyOfoPW10j4a"
@@ -596,6 +740,24 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "album": {
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299850,
+      "name": "himawari",
+      "url": "https://open.spotify.com/track/58QdCb2qhECZzqtRnP5r79"
     },
     {
       "album": {
@@ -671,6 +833,60 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5uMlpLUKfhYTr6PoccWY5l"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/4UJFRYOpe3RC2yApdnrtTy"
+    },
+    {
+      "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Kiss!",
+      "url": "https://open.spotify.com/track/6SMoQzbPciDEShRokLbKLO"
+    },
+    {
+      "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Kyokuya Fumei",
+      "url": "https://open.spotify.com/track/0UfPo4BUMSlnjSw0XDIiL7"
+    },
+    {
+      "album": {
         "name": "La La La Love Song (From \"Operation: True Love\")",
         "url": "https://open.spotify.com/album/0aUqli3ob5tyZsNWPaOLzU"
       },
@@ -718,7 +934,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203000,
       "name": "Lost in the Midnight (KIRARA Remix)",
       "url": "https://open.spotify.com/track/6qQeMtjvMLKWvyeCRS870k"
@@ -779,6 +995,24 @@
     },
     {
       "album": {
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245103,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/6boass6SaMAfmn0tj2v8UO"
+    },
+    {
+      "album": {
         "name": "Blue Vinyl",
         "url": "https://open.spotify.com/album/30a34lLcxx909dNlwCAYMf"
       },
@@ -833,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181530,
+      "name": "not us.",
+      "url": "https://open.spotify.com/track/0pqHwgmPKRM2GrPWrYcceR"
+    },
+    {
+      "album": {
         "name": "I ZIP",
         "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
       },
@@ -844,7 +1096,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191041,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6rtnAdEEwoWUQQOutvHn8s"
@@ -862,7 +1114,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 160586,
       "name": "PATIO",
       "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
@@ -916,7 +1168,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153831,
       "name": "Reuben",
       "url": "https://open.spotify.com/track/3Y51ddb8xmMxDKCWHZa13h"
@@ -938,6 +1190,24 @@
       "duration_ms": 172000,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy"
+    },
+    {
+      "album": {
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201871,
+      "name": "round",
+      "url": "https://open.spotify.com/track/1NaDBli5yq02ienC980KcK"
     },
     {
       "album": {
@@ -1013,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7pRo9w6Bgf1520ASHTHWCT"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0ptq5eaczcc9ioADsJNGfr"
+    },
+    {
+      "album": {
         "name": "Tune Up Meets Fresh Finds Audio Liners",
         "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
       },
@@ -1060,7 +1348,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 83437,
       "name": "Stage Comment from gongwon 1",
       "url": "https://open.spotify.com/track/5i59fkiV2fPv0kAPKiQQFu"
@@ -1078,7 +1366,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 55546,
       "name": "Stage Comment from gongwon 2",
       "url": "https://open.spotify.com/track/4vHAt0Ze6Xxq0zJqoVyppi"
@@ -1096,7 +1384,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 84736,
       "name": "Stage Comment from gongwon 3",
       "url": "https://open.spotify.com/track/30irByUcI25l0B7Q3GBGLJ"
@@ -1114,7 +1402,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 105616,
       "name": "Stage Comment from Izykite 1",
       "url": "https://open.spotify.com/track/1Cmy5smO09fsnFNGyw1yKj"
@@ -1132,7 +1420,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 112576,
       "name": "Stage Comment from Izykite 2",
       "url": "https://open.spotify.com/track/2WyNuNaNcOt9uGMVEAWlyW"
@@ -1150,7 +1438,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 136240,
       "name": "Stage Comment from Izykite 3",
       "url": "https://open.spotify.com/track/3cvZyHT6rvsvScwszPHx1v"
@@ -1204,7 +1492,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 127888,
       "name": "Stage Comment from KIM PUREUM 1",
       "url": "https://open.spotify.com/track/354azFQaorYlYweFzlDzFe"
@@ -1222,7 +1510,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173824,
       "name": "Stage Comment from KIM PUREUM 2",
       "url": "https://open.spotify.com/track/3g924pJyqMCRAQjdDDgbhJ"
@@ -1276,10 +1564,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 214146,
       "name": "Stuck in",
       "url": "https://open.spotify.com/track/2WhhlJUnanu0CaP5kxJoST"
+    },
+    {
+      "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ"
     },
     {
       "album": {
@@ -1294,7 +1600,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192787,
       "name": "Take it IZY",
       "url": "https://open.spotify.com/track/2X1OyfxFiOZEz4WDZPA3Rb"
@@ -1330,7 +1636,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 252000,
       "name": "The Hedgehog Who Loved a Chestnut Burr",
       "url": "https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0"
@@ -1348,7 +1654,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 319000,
       "name": "The peach",
       "url": "https://open.spotify.com/track/0DbfLsqEQ9v448RAfZQT6o"
@@ -1384,7 +1690,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 268000,
       "name": "Though we have no voice",
       "url": "https://open.spotify.com/track/40Y6nEq38QkdwsYjViNc8q"
@@ -1420,10 +1726,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173980,
       "name": "Together",
       "url": "https://open.spotify.com/track/0GoPuSuw6ouoYT56z9Zlh1"
+    },
+    {
+      "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287112,
+      "name": "Tomodachi",
+      "url": "https://open.spotify.com/track/1QWt0mabbVIL01v1VxgpEM"
     },
     {
       "album": {
@@ -1460,6 +1784,24 @@
       "duration_ms": 277162,
       "name": "Unlove mind",
       "url": "https://open.spotify.com/track/60MkU6W6M4gySwhijpjKOI"
+    },
+    {
+      "album": {
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/2xhooxJtRz5mtBdKRjfjcG"
     },
     {
       "album": {
@@ -1582,10 +1924,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203773,
       "name": "yoonseul",
       "url": "https://open.spotify.com/track/4o25sdyOvubfRSk0cP1TXL"
+    },
+    {
+      "album": {
+        "name": "burning.",
+        "url": "https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Youth!",
+      "url": "https://open.spotify.com/track/5rTE0OVLHPW5fnLBxJaCsr"
     },
     {
       "album": {

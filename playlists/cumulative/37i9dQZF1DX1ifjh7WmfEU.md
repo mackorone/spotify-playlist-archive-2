@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-325 songs - 14 hr 16 min
+326 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-05-27 | 2022-09-16 |
 | [Dawn's reflection](https://open.spotify.com/track/15LkUIJWsiQI54VJlQj0tM) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [Dawn's reflection](https://open.spotify.com/album/4wkFYgDToH6x1vglr148A7) | 2:13 | 2025-07-08 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-05-27 | 2024-04-04 |
+| [Deep Indigo](https://open.spotify.com/track/6d8UtyuPW1SdsYQydFTJDs) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Deep Indigo](https://open.spotify.com/album/4o2g5IN3bfE6UNBTlKWdlI) | 3:28 | 2026-07-24 |  |
 | [Displacement](https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm) | [Maximilian Power](https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6) | [Displacement](https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S) | 2:26 | 2023-06-28 |  |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-05 | 2025-04-10 |
 | [Don't Ever Say Goodbye](https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5) | [Jane Andreassen](https://open.spotify.com/artist/2UxhGySCjRJKfBuEW3CdMJ) | [Don't Ever Say Goodbye](https://open.spotify.com/album/2SKbUJ83VZve2rKPWRhNeO) | 2:47 | 2022-05-27 | 2024-04-04 |

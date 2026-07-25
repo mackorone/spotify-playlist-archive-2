@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189719,
+  "num_followers": 189754,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Azul Celeste",
-        "url": "https://open.spotify.com/album/2m8bQQcf1i2dpX7dzobB8l"
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 203313,
-      "name": "Azul Celeste",
-      "url": "https://open.spotify.com/track/3w7qdBBWZFAMIQWpwcTZYj"
+      "duration_ms": 167206,
+      "name": "Taco Placero",
+      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -559,38 +559,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 153216,
-      "name": "Nadie Se Va Como Lleg\u00f3",
-      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Taco Placero",
-        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 167206,
-      "name": "Taco Placero",
-      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 222145,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/3lwIGvc3nqAvHeTxFnTU1s"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Azul Celeste",
+        "url": "https://open.spotify.com/album/2m8bQQcf1i2dpX7dzobB8l"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 203313,
+      "name": "Azul Celeste",
+      "url": "https://open.spotify.com/track/3w7qdBBWZFAMIQWpwcTZYj"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 153216,
+      "name": "Nadie Se Va Como Lleg\u00f3",
+      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Las Rejas No Matan",
-        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "Vu\u00e9lveme a Querer",
         "url": "https://open.spotify.com/album/7ebsAIjaxazDs1R6IXdpzq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 235609,
       "name": "Vu\u00e9lveme a Querer",
       "url": "https://open.spotify.com/track/5wqege8XFAluzO8iS2W3K1"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Las Rejas No Matan",
+        "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
     },
     {
       "added_at": "2026-02-13 06:00:00",

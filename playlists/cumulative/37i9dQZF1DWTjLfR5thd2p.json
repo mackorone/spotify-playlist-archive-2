@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Absent Theme",
+        "url": "https://open.spotify.com/album/1zTqy9tXALwbjip20ryNw8"
+      },
+      "artists": [
+        {
+          "name": "Evren Calder",
+          "url": "https://open.spotify.com/artist/3UQfhTZxIT81OntthwCHTe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Absent Theme",
+      "url": "https://open.spotify.com/track/1va8Uyz8rd4l6mDAGRB5Ri"
+    },
+    {
+      "album": {
         "name": "Aeternum",
         "url": "https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE"
       },
@@ -416,6 +434,24 @@
       "duration_ms": 180000,
       "name": "Almost Simple",
       "url": "https://open.spotify.com/track/2AkkhUiTuQ2UwpEdoyi8Di"
+    },
+    {
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/5QmIcnmPUtAm63b9eo9o1T"
+      },
+      "artists": [
+        {
+          "name": "Lo Kee",
+          "url": "https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/7EEOlcjFvDQ7ffIBsH50VR"
     },
     {
       "album": {
@@ -668,6 +704,24 @@
       "duration_ms": 160653,
       "name": "Augury",
       "url": "https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I"
+    },
+    {
+      "album": {
+        "name": "Aurelia",
+        "url": "https://open.spotify.com/album/5LsvmbF2oDBzAm4NidN0B5"
+      },
+      "artists": [
+        {
+          "name": "Jacqui Sanderson",
+          "url": "https://open.spotify.com/artist/3NUTbfY97PYh1wclLJpe7I"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106876,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/6dL51LnMEj3QC2bU6Bp2P4"
     },
     {
       "album": {
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 244374,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz"
@@ -2450,6 +2504,24 @@
       "duration_ms": 136324,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR"
+    },
+    {
+      "album": {
+        "name": "Forget Me Not",
+        "url": "https://open.spotify.com/album/4jjnxFAnRQjCNNneyQBbkN"
+      },
+      "artists": [
+        {
+          "name": "Vibrante",
+          "url": "https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153522,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/0GYq6Po22dxKF2rj7zTykg"
     },
     {
       "album": {
@@ -3872,6 +3944,24 @@
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
+    },
+    {
+      "album": {
+        "name": "Like Glass",
+        "url": "https://open.spotify.com/album/2AljbNhD5h3DnTGlra43UL"
+      },
+      "artists": [
+        {
+          "name": "Cedric Grey",
+          "url": "https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Like Glass",
+      "url": "https://open.spotify.com/track/2UsxAoWjq5z2QxoA9CfXVt"
     },
     {
       "album": {
@@ -6188,7 +6278,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156014,
       "name": "Silverfog",
       "url": "https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC"
@@ -7244,6 +7334,24 @@
       "duration_ms": 181250,
       "name": "The Question",
       "url": "https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu"
+    },
+    {
+      "album": {
+        "name": "The Silent Hour",
+        "url": "https://open.spotify.com/album/2weRoIl09CatXbnrrMdCeC"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "The Silent Hour",
+      "url": "https://open.spotify.com/track/0iz5jxtFFoFRt0L4U8oJ81"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "pop music \ud83c\udf1f kim petras on the cover",
+  "description": "pop's R&D department \ud83c\udf80 \ncover: AMARA ctk100",
   "name": "Evolver",
   "tracks": [
     {
@@ -28022,10 +28022,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176028,
       "name": "Next to U",
       "url": "https://open.spotify.com/track/0Iv843yoJKRzslYIPlYTv2"
+    },
+    {
+      "album": {
+        "name": "Next to U",
+        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176028,
+      "name": "Next to U",
+      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
     },
     {
       "album": {

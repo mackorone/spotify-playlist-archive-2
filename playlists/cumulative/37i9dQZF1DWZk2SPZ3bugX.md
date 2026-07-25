@@ -4,7 +4,7 @@
 
 > 🍾
 
-296 songs - 16 hr 53 min
+297 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:31 | 2024-09-20 | 2025-05-17 |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-03-14 |
 | [Heal Tomorrow](https://open.spotify.com/track/3h7eMylOrv17N8f1RlTom0) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4), [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [A la folie](https://open.spotify.com/album/7G1A4q4iZs7nqKeORKHlW2) | 3:36 | 2022-12-08 | 2023-09-23 |
+| [Heartbeat](https://open.spotify.com/track/0LF31JzVi4GSthMthWoHIE) | [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu), [Quiet Blue](https://open.spotify.com/artist/2Wid46wTM2efkNxWhmVqpf) | [Fallin'](https://open.spotify.com/album/2ckOSr74FyVnYd6a4nsXyY) | 4:00 | 2026-07-24 |  |
 | [Heartstrings](https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Heartstrings](https://open.spotify.com/album/6kTo4iuBmoNfHO0yEpLWDs) | 3:48 | 2025-06-05 | 2025-06-21 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-12-08 | 2023-03-25 |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2023-09-22 |  |
@@ -159,7 +160,7 @@
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-12-06 | 2025-09-12 |
 | [Lemon Lime](https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [WANDER](https://open.spotify.com/album/6x8LZr9QKEG7IP4eAcxEQf) | 2:20 | 2025-05-02 | 2025-08-15 |
 | [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 | 2025-11-14 | 2026-02-28 |
-| [Les Oiseaux](https://open.spotify.com/track/41aCuTJDjLaNKD4uazONsr) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [sasu](https://open.spotify.com/artist/7vBnksH16ohbDKutDVUdEN) | [Les Oiseaux](https://open.spotify.com/album/1ugE4GUX1UjfYkAjQI9Snj) | 2:41 | 2026-06-26 |  |
+| [Les Oiseaux](https://open.spotify.com/track/41aCuTJDjLaNKD4uazONsr) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [sasu](https://open.spotify.com/artist/7vBnksH16ohbDKutDVUdEN) | [Les Oiseaux](https://open.spotify.com/album/1ugE4GUX1UjfYkAjQI9Snj) | 2:41 | 2026-06-26 | 2026-07-25 |
 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 | 2023-01-04 | 2024-06-22 |
 | [Like It](https://open.spotify.com/track/0nm3gH1gu9bN2GzCdWwyUQ) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Like It](https://open.spotify.com/album/4Nt5y1U7xts2pRHobWBOis) | 4:26 | 2026-05-14 |  |
 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 | 2022-12-08 | 2023-06-10 |

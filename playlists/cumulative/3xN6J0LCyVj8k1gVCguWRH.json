@@ -18588,7 +18588,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158506,
       "name": "Cherry Lip Balm",
       "url": "https://open.spotify.com/track/5nd1Vp01yVEazPl8Qy7MFw"
@@ -28581,6 +28581,24 @@
     },
     {
       "album": {
+        "name": "Dream Dance",
+        "url": "https://open.spotify.com/album/4Ard2IrmkvUtQGSrS4O7sz"
+      },
+      "artists": [
+        {
+          "name": "Terrence Paul & Cocoa Boy Toyz",
+          "url": "https://open.spotify.com/artist/3YaWabbjgNa6IIPIenOjGW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "Dream Dance",
+      "url": "https://open.spotify.com/track/2RX2jQAWkGbbkCnI8UVRrb"
+    },
+    {
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6"
       },
@@ -38410,7 +38428,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185020,
       "name": "Future Trip",
       "url": "https://open.spotify.com/track/5L3HFkKeQ4qGhIA5wwS2iX"

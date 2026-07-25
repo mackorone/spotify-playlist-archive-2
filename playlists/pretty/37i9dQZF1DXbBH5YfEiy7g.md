@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,526 likes - 100 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,553 likes - 100 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 4 | [Galalela \(Live\)](https://open.spotify.com/track/2GE8CsW01WAlA0RGdYIdAS) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Let There Be Light \(Live\)](https://open.spotify.com/album/4OzEgIBnM0dFFfNGyLoo8W) | 5:11 |
 | 5 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 | 6 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
-| 7 | [Track 1](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 0:00 |
+| 7 | [Ufanelwe](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 2:55 |
 | 8 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 |
 | 9 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |
 | 10 | [Ivangeli](https://open.spotify.com/track/3Dty5aNckcIkJdBhBl81ml) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Ivangeli](https://open.spotify.com/album/249JJMW3R8hNiFgOzpkCTz) | 5:25 |

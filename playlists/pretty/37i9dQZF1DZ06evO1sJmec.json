@@ -1,33 +1,13 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2121975,
+  "num_followers": 2122065,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACNDzDEtoehEu3bolZsfcxJ",
+  "snapshot_id": "amFZgAAAAACg43DoeQ2Z7i347cXWzqMA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReLoad (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "name": "Greg Brimstone",
-          "url": "https://open.spotify.com/artist/6uhZvVv7oGdy8Tu7luZqjt"
-        }
-      ],
-      "duration_ms": 309066,
-      "name": "The Unforgiven - Unreleased Whipping Boy Mix",
-      "url": "https://open.spotify.com/track/5a0NlRiSRacCsKlTPpq6ub"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -88,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 309973,
-      "name": "For Whom The Bell Tolls - Remastered",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
+      "duration_ms": 387160,
+      "name": "The Unforgiven - Remastered 2021",
+      "url": "https://open.spotify.com/track/5lqyqPU3JkpCbUbLmTVQPW"
     },
     {
       "added_at": null,
@@ -107,6 +87,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters - Remastered 2021",
       "url": "https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
     },
     {
       "added_at": null,
@@ -143,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 414720,
-      "name": "Seek & Destroy - Remastered",
-      "url": "https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
       },
@@ -171,6 +151,22 @@
       "duration_ms": 324600,
       "name": "Sad But True - Remastered 2021",
       "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 414720,
+      "name": "Seek & Destroy - Remastered",
+      "url": "https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU"
     },
     {
       "added_at": null,
@@ -355,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -364,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Whiplash - Remastered",
-      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
+      "duration_ms": 227573,
+      "name": "Holier Than Thou - Remastered 2021",
+      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
     },
     {
       "added_at": null,
@@ -387,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
       "artists": [
         {
@@ -396,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 227573,
-      "name": "Holier Than Thou - Remastered 2021",
-      "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
+      "duration_ms": 248546,
+      "name": "Whiplash - Remastered",
+      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
     },
     {
       "added_at": null,
@@ -415,6 +411,22 @@
       "duration_ms": 345283,
       "name": "Harvester of Sorrow",
       "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man - Remastered 2021",
+      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
     },
     {
       "added_at": null,
@@ -451,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man - Remastered 2021",
-      "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
@@ -479,6 +475,22 @@
       "duration_ms": 201760,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 240160,
+      "name": "Don't Tread on Me - Remastered 2021",
+      "url": "https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6"
     },
     {
       "added_at": null,
@@ -515,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 240160,
-      "name": "Don't Tread on Me - Remastered 2021",
-      "url": "https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -563,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "Hero of the Day - Remastered",
-      "url": "https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill 'Em All (Remastered)",
         "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
@@ -591,6 +571,22 @@
       "duration_ms": 432546,
       "name": "The Four Horsemen - Remastered",
       "url": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Hero of the Day - Remastered",
+      "url": "https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4"
     },
     {
       "added_at": null,
@@ -627,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Mama Said - Remastered",
-      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride The Lightning (Remastered)",
         "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
@@ -655,6 +635,22 @@
       "duration_ms": 284506,
       "name": "Fight Fire With Fire - Remastered",
       "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Mama Said - Remastered",
+      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
     },
     {
       "added_at": null,
@@ -723,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
       "artists": [
         {
@@ -732,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 308506,
-      "name": "The God That Failed - Remastered 2021",
-      "url": "https://open.spotify.com/track/6SUS59EDam0USXk05d9ZAH"
+      "duration_ms": 385986,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,
@@ -751,22 +747,6 @@
       "duration_ms": 507226,
       "name": "Orion",
       "url": "https://open.spotify.com/track/2HD5BWFthrNf2uFyEhi53d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 343200,
       "name": "No Leaf Clover - Live",
       "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     },
     {
       "added_at": null,

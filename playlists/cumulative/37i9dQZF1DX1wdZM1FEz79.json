@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: 10CM) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: HOA) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 195882,
       "name": "EVEREST (with Sam Kim)",
       "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
@@ -9892,6 +9892,24 @@
       "duration_ms": 266985,
       "name": "The Galaxy",
       "url": "https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6"
+    },
+    {
+      "album": {
+        "name": "The Great Hazby",
+        "url": "https://open.spotify.com/album/4g0dflhZXyNLBe0WnECAsL"
+      },
+      "artists": [
+        {
+          "name": "HOA",
+          "url": "https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "The Great Hazby",
+      "url": "https://open.spotify.com/track/3SdLsEXat6fpXaegKktrBe"
     },
     {
       "album": {

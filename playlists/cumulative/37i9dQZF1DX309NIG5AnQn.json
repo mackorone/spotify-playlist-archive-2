@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Mis peores enemigos",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Buenos Vampiros",
   "name": "alt.rock",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173023,
       "name": "ajedrez",
       "url": "https://open.spotify.com/track/4lx8pUmMsRKVReSnixvHUb"
@@ -3857,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/3Z6BE2pzQ3wSV7UmrBAYvH"
+      },
+      "artists": [
+        {
+          "name": "Los Magos",
+          "url": "https://open.spotify.com/artist/2zg8HO2cZlSowR4L16SBho"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168646,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/2QIzLrFFIAq0WMG16BmgyJ"
+    },
+    {
+      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -4042,6 +4060,24 @@
       "duration_ms": 123359,
       "name": "Mundo actual",
       "url": "https://open.spotify.com/track/5hiK6Jj3cbhAKbChvmBfr1"
+    },
+    {
+      "album": {
+        "name": "Mundo raro / Morir en mi tierra",
+        "url": "https://open.spotify.com/album/1sH74113UEJpmQzRER43LJ"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199935,
+      "name": "Mundo raro",
+      "url": "https://open.spotify.com/track/7tGaGxmH1CRusf4bCkb8qK"
     },
     {
       "album": {
@@ -6050,7 +6086,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 275285,
       "name": "Todo el D\u00eda Pensando",
       "url": "https://open.spotify.com/track/3yv4sHt4vjAWdBKn2Sxb5I"

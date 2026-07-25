@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Lindo Lindo",
+        "url": "https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Bonita pero descarada",
+      "url": "https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY"
+    },
+    {
+      "album": {
         "name": "Borracha (Remix)",
         "url": "https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD"
       },
@@ -2890,6 +2908,28 @@
       "duration_ms": 166920,
       "name": "En Este Amor",
       "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "album": {
+        "name": "En Manos Ajenas",
+        "url": "https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187578,
+      "name": "En Manos Ajenas",
+      "url": "https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2"
     },
     {
       "album": {

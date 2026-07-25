@@ -1,52 +1,28 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 112749,
+  "num_followers": 112775,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqp/avGPN9JecizHZJTAl+aZfxQ",
+  "snapshot_id": "AAAAAG4gdba2aTIe7vezAQ/xvxGgiHys",
   "tracks": [
     {
-      "added_at": "2026-07-20 14:30:57",
+      "added_at": "2026-07-24 04:00:33",
       "album": {
-        "name": "Secret Comes Out",
-        "url": "https://open.spotify.com/album/1FIS1oNTz6WBXu2XdlTQ4J"
+        "name": "The Lost Boys (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/235gR56E3a2MzDyCap8qUW"
       },
       "artists": [
-        {
-          "name": "Ali Louis Bourzgui",
-          "url": "https://open.spotify.com/artist/715DWWVfEfMl8tYCtJDNK3"
-        },
-        {
-          "name": "Maria Wirries",
-          "url": "https://open.spotify.com/artist/7EpkGE77bqXVmWcpyMJPq9"
-        },
-        {
-          "name": "LJ Benet",
-          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
-        },
-        {
-          "name": "Brian Flores",
-          "url": "https://open.spotify.com/artist/2JVlAKAoehJSirFodroVZ9"
-        },
-        {
-          "name": "Sean Grandillo",
-          "url": "https://open.spotify.com/artist/2OEM7AG50pTr5lOyHizV7q"
-        },
-        {
-          "name": "Dean Maupin",
-          "url": "https://open.spotify.com/artist/3lqbkXEzOxo2z7YqDCGG0A"
-        },
         {
           "name": "Original Broadway Cast of The Lost Boys",
           "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
         }
       ],
-      "duration_ms": 229227,
-      "name": "Secret Comes Out",
-      "url": "https://open.spotify.com/track/0ehOUvtjmiTFKLpcvSJS7L"
+      "duration_ms": 188531,
+      "name": "If We Make It Through the Night",
+      "url": "https://open.spotify.com/track/2UPr1MeaynVKRPE5lIXA7m"
     },
     {
       "added_at": "2026-07-20 14:30:57",
@@ -155,6 +131,46 @@
     {
       "added_at": "2026-07-20 14:30:57",
       "album": {
+        "name": "Secret Comes Out",
+        "url": "https://open.spotify.com/album/1FIS1oNTz6WBXu2XdlTQ4J"
+      },
+      "artists": [
+        {
+          "name": "Ali Louis Bourzgui",
+          "url": "https://open.spotify.com/artist/715DWWVfEfMl8tYCtJDNK3"
+        },
+        {
+          "name": "Maria Wirries",
+          "url": "https://open.spotify.com/artist/7EpkGE77bqXVmWcpyMJPq9"
+        },
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Brian Flores",
+          "url": "https://open.spotify.com/artist/2JVlAKAoehJSirFodroVZ9"
+        },
+        {
+          "name": "Sean Grandillo",
+          "url": "https://open.spotify.com/artist/2OEM7AG50pTr5lOyHizV7q"
+        },
+        {
+          "name": "Dean Maupin",
+          "url": "https://open.spotify.com/artist/3lqbkXEzOxo2z7YqDCGG0A"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        }
+      ],
+      "duration_ms": 229227,
+      "name": "Secret Comes Out",
+      "url": "https://open.spotify.com/track/0ehOUvtjmiTFKLpcvSJS7L"
+    },
+    {
+      "added_at": "2026-07-20 14:30:57",
+      "album": {
         "name": "The Jack of Hearts Club (Original Cast Recording)",
         "url": "https://open.spotify.com/album/02uBhwW4i1Qe9o2sIZerqI"
       },
@@ -217,7 +233,7 @@
         },
         {
           "name": "Caroline Pernick",
-          "url": "https://open.spotify.com/artist/0jTTuc8A3W3Cg6EIlq20hh"
+          "url": "https://open.spotify.com/artist/4P68LVRLlAxmKXaFHWthj9"
         },
         {
           "name": "Keaton Whittaker",
@@ -1159,30 +1175,6 @@
       "duration_ms": 257545,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl"
-    },
-    {
-      "added_at": "2026-07-20 14:30:57",
-      "album": {
-        "name": "Playing With Fire (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY"
-      },
-      "artists": [
-        {
-          "name": "JC Chasez",
-          "url": "https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00"
-        },
-        {
-          "name": "Jimmy Harry",
-          "url": "https://open.spotify.com/artist/6mj5tiQROS79JXR9cfODHv"
-        },
-        {
-          "name": "Cardamon Rozzi",
-          "url": "https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu"
-        }
-      ],
-      "duration_ms": 235923,
-      "name": "How Do You Sleep",
-      "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
     }
   ],
   "unique_name": "Broadway Rising",

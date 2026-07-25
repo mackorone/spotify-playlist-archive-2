@@ -2755,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: String Quartet No. 2, Op. 13, MWV R 22: III. Intermezzo. Allegretto con moto - Allegro di molto",
+        "url": "https://open.spotify.com/album/72Yt3r5HNzkaWwyrtVZkVR"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Opus13",
+          "url": "https://open.spotify.com/artist/3gLX5Zi0G5p7Dum7xIMqcv"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284786,
+      "name": "String Quartet No. 2, Op. 13, MWV R 22: III. Intermezzo. Allegretto con moto - Allegro di molto",
+      "url": "https://open.spotify.com/track/1FgnGYBr5ZEKMDstVkJWJ0"
+    },
+    {
+      "album": {
         "name": "Dvorak, A.: String Quartets, Vol. 6 (Vlach Quartet) - Nos. 5, 7",
         "url": "https://open.spotify.com/album/06Sw3yH2kTQD2XOt2aMnev"
       },

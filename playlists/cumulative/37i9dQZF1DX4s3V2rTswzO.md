@@ -4,7 +4,7 @@
 
 > Set the scene for romance with beautiful classical music.
 
-136 songs - 9 hr 36 min
+137 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Préludes, Book 1: VIII\. La Fille Aux Cheveux de Lin](https://open.spotify.com/track/0g6Lm1d1FcfzV7ZkCzy8aP) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [The Complete Debussy: Préludes pour solo piano](https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX) | 2:45 | 2025-01-31 |  |
 | [Richter: Written on the Sky](https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Max Richter: Written on the Sky](https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm) | 1:49 | 2025-03-12 | 2025-07-05 |
 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano\)](https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Handel Variations](https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q) | 4:28 | 2023-03-28 |  |
+| [Romeo & Juliet: Love Theme](https://open.spotify.com/track/4c5aNQ9PtLe984W0ibPf5E) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Irene Delgado\-Jiménez](https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9) | [Romeo & Juliet: Love Theme](https://open.spotify.com/album/6O2TYgMqSnpeLOWVpGfB44) | 3:18 | 2026-07-24 |  |
 | [Rêverie, CD 76](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 | 2021-12-20 |  |
 | [Salut d'Amour, Op\. 12](https://open.spotify.com/track/0P7UwPB9vL74bD6gzYaKIu) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:44 | 2023-03-28 | 2024-04-19 |
 | [Salut d'Amour, Op\. 12](https://open.spotify.com/track/5OigTASX169BEeARWXTT1y) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2M5Ld3m3sIZcquMo7zMKIR) | 2:44 | 2023-07-14 | 2025-03-05 |

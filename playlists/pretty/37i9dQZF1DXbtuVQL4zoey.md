@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Feel\-good summer vibes for poolside hangs, long drives, or slow golden afternoons 🌞✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,709 likes - 195 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,780 likes - 195 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

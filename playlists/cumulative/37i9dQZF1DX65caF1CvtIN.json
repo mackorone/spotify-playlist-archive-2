@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "My Quiet Space",
+        "url": "https://open.spotify.com/album/30xDwD3DptaFLKP3A8LPwd"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133070,
+      "name": "My Quiet Space",
+      "url": "https://open.spotify.com/track/2OfkVvRee6b3Q49xTGyWp0"
+    },
+    {
+      "album": {
         "name": "Nayarit",
         "url": "https://open.spotify.com/album/2Rf5sGCzqXeeQZMn98orMF"
       },
@@ -4998,6 +5016,24 @@
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
+    },
+    {
+      "album": {
+        "name": "Where Has She Gone",
+        "url": "https://open.spotify.com/album/1DySoz9gO9Equg23zVLDJa"
+      },
+      "artists": [
+        {
+          "name": "melodious monk",
+          "url": "https://open.spotify.com/artist/41ROkiY5iBv0FueTcFeXHb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Where Has She Gone",
+      "url": "https://open.spotify.com/track/1wZR8JCD9Td83WcOyJN4eL"
     },
     {
       "album": {

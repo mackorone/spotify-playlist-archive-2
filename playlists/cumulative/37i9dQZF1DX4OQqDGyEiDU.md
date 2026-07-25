@@ -4,7 +4,7 @@
 
 > Explore the current wave of VOCALOID culture\. Cover: NAKISO
 
-733 songs - 1 day 16 hr 48 min
+734 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [ターミナル](https://open.spotify.com/track/1eX9qVhcMGAPpmvBVXW9oq) | [Kijibato](https://open.spotify.com/artist/0Nu6ol0k7wvv19hjtMK5f5), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ターミナル](https://open.spotify.com/album/7lDlYfShmNv6ucZYq0lriV) | 2:15 | 2022-06-28 | 2022-07-07 |
 | [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 | 2025-04-18 |  |
 | [ダウナーウィッチ](https://open.spotify.com/track/2A8iKOvDG8ZCd8rgN6tPmE) | [廉](https://open.spotify.com/artist/7yDJ7xS3dASPaycSUqRy9G) | [ダウナーウィッチ](https://open.spotify.com/album/4suGRNsYYdIruxNhF2yXTP) | 3:33 | 2022-06-09 | 2022-07-28 |
+| [ダミーロマンス](https://open.spotify.com/track/7whlwTE5UoGiYLW30zTb9H) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ダミーロマンス](https://open.spotify.com/album/16SvnBKXEzmtM4k52ffSEW) | 2:37 | 2026-07-14 |  |
 | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/track/7lYWkuKy5wbrMX1p6pq6RW) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [ダメージ!ダメージ!ダメージ!](https://open.spotify.com/album/7LGHG815QRONhUpzP06Jyk) | 1:16 | 2023-03-09 | 2023-04-12 |
 | [ダーリンダンス](https://open.spotify.com/track/6MJFNhbXbqXCbHP24yLltO) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [ダーリンシンドローム](https://open.spotify.com/album/7ueq6H27BiLvciTTUytEp7) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [チチンプイプイ](https://open.spotify.com/track/5tJkOlhd09g4yU2exmQMCf) | [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow) | [チチンプイプイ](https://open.spotify.com/album/7rhO10isTJrfFxRaLuZSkm) | 3:07 | 2022-06-09 | 2022-06-17 |
@@ -416,7 +417,7 @@
 | [デイバイデイズ](https://open.spotify.com/track/516VOCrYMVailWonQYvlXB) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [デイバイデイズ](https://open.spotify.com/album/6nhA9TfMKJdKAhg1upHyd1) | 2:09 | 2022-06-09 | 2022-07-29 |
 | [デウスエクスマキナ](https://open.spotify.com/track/6d0MEF5nYQ9x3On2Eib3LS) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [白雨の下](https://open.spotify.com/album/6I1yhPOU0KTelD1s6MaV65) | 4:22 | 2023-12-19 | 2023-12-21 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-10-13 | 2022-12-14 |
-| [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 |  |
+| [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 | 2026-07-25 |
 | [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 | 2026-04-09 | 2026-05-13 |
 | [デーモンロード](https://open.spotify.com/track/6ZZdq51TOnLbSAUDhTvVPB) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [デーモンロード](https://open.spotify.com/album/0bGiqwbKQFu9GQy6UL6cjK) | 2:38 | 2024-06-18 | 2024-12-27 |
 | [ドクター=ファンクビート](https://open.spotify.com/track/10aURDc5wCO14NOKOHeBC0) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:30 | 2022-06-09 | 2022-07-04 |

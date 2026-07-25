@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-122 songs - 8 hr 6 min
+123 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Hummel: Trumpet Concerto In E Flat \- Iii Rondo](https://open.spotify.com/track/246ntJR3A2s7B5E40FTCLf) | [Johann Nepomuk Hummel](https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg), [Tine Thing Helseth](https://open.spotify.com/artist/6FbYyIZHMrBfvFJ8bidDcQ) | [Trumpet Concertos](https://open.spotify.com/album/4wL0H6UyrYeyRk4Sg9kARN) | 3:44 | 2021-07-02 | 2022-01-06 |
 | [I\. Allegro](https://open.spotify.com/track/2pj4GiibjHoev36KPWCuxY) | [Johann Heinrich Rolle](https://open.spotify.com/artist/4f96JORRKkvRwz22xlzMur), [Kölner Akademie](https://open.spotify.com/artist/2EuaWz2LnVKvUcygvMhBnw), [Michael Alexander Willens](https://open.spotify.com/artist/57Gzkes3RHKDd60RYVEEGL) | [Johann Heinrich Rolle: Allegro \(from: Sinfonia in D major\)](https://open.spotify.com/album/6MrLQ8WD80lzFwhZelgKYr) | 4:07 | 2025-09-12 |  |
 | [Il Tempo delle Cose](https://open.spotify.com/track/6hIAiqwxWaqdCzm1KjxfGv) | [Alberto Giurioli](https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU), [Geoff Lawson](https://open.spotify.com/artist/0I31OVqRo3WbwwX6gBj6nm) | [Il Tempo delle Cose](https://open.spotify.com/album/3HN1KEM9HJuwZWRaq4pGmI) | 6:04 | 2022-06-10 |  |
+| [In Flight](https://open.spotify.com/track/6AtV5pSPVCvupoZV1e9JfI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [In Flight](https://open.spotify.com/album/0nkGH1t4qg6esTbB3nVke9) | 3:47 | 2026-07-24 |  |
 | [Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/track/2xuyyzPiDlUPZH9kJyVeO3) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Janáček: Jenůfa \(Její pastorkyňa\), JW I/4, Act III Scene 1: Prelude](https://open.spotify.com/album/2pACZH9nLzJVyBVkxvcJG6) | 1:43 | 2025-09-12 |  |
 | [Julie\-O](https://open.spotify.com/track/36JkWJ7xUPQXqGUOcnL05o) | [Mark Summer](https://open.spotify.com/artist/4dFOqKphNlCG3nR7J6WYx4), [Sharon Grigoryan](https://open.spotify.com/artist/1V7VCZHLtMbbG4CGitP9nq), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Julie\-O](https://open.spotify.com/album/1YyVWc7cAsrxh57bw6mbOi) | 4:43 | 2021-07-02 |  |
 | [Julie\-O](https://open.spotify.com/track/6j9TguoEZb0cxR2RBfZKJG) | [Mark Summer](https://open.spotify.com/artist/4dFOqKphNlCG3nR7J6WYx4), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG), [Sharon Grigoryan](https://open.spotify.com/artist/1V7VCZHLtMbbG4CGitP9nq) | [Our Place](https://open.spotify.com/album/5oJVzaD9SedxjHDAbznIQA) | 4:43 | 2022-06-10 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131408,
+  "num_followers": 131406,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 234236,
-      "name": "\u5927\u4eba",
-      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
         "url": "https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 280992,
       "name": "Special Night\uff08\u7535\u89c6\u5267\u300a\u8f67\u620f\u300b\u5bc6\u8bed\u4e3b\u9898\u66f2\uff09",
       "url": "https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 234236,
+      "name": "\u5927\u4eba",
+      "url": "https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "DEPART",
         "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 250898,
       "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
       "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
         "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 164658,
       "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
       "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
-        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 349541,
-      "name": "\u82ac\u862d\u8ddd\u96e2",
-      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u82e6\u7684\u751c",
+        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 255023,
+      "name": "\u82e6\u7684\u751c",
+      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "Same Stories, Different Narratives",
         "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 272424,
       "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
       "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u82e6\u7684\u751c",
-        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "\u82e6\u7684\u751c",
-      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

@@ -2,7 +2,7 @@
 
 ### [Baile Campero](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> Para que duelan los pies y no el corazón\. Foto: Lázaro Caballero
+> El campo suena fuerte\. Sumate a la fiesta\. Foto: Lázaro Caballero
 
 225 songs - 12 hr 34 min
 

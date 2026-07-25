@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3634,
+  "num_followers": 3633,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAA1OJEWwGrS4xJ7YTtJ0os4",
+  "snapshot_id": "amFZgAAAAABuAfFyapTAg1R1dhi5w7gz",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
       },
       "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 244560,
-      "name": "The World Will Sing Our Song",
-      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
       "added_at": null,
@@ -191,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
       "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+      "duration_ms": 244560,
+      "name": "The World Will Sing Our Song",
+      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 281280,
-      "name": "I Just Love the Man",
-      "url": "https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt"
+      "duration_ms": 259146,
+      "name": "Let's Celebrate (Sittin' on Top of the World)",
+      "url": "https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Let's Celebrate (Sittin' on Top of the World)",
-      "url": "https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY"
+      "duration_ms": 281280,
+      "name": "I Just Love the Man",
+      "url": "https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections: In Loving Memory",
-        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "Baby Don't Go Yet",
-      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 231053,
       "name": "You're the Only Bargain I've Got",
       "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflections: In Loving Memory",
+        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "Baby Don't Go Yet",
+      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
       "duration_ms": 218493,
       "name": "Sweet Ecstasy",
       "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Soul Explosion",
+        "url": "https://open.spotify.com/album/5bR86gp44joAmGDZzb4qqx"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Learn How to Love",
+      "url": "https://open.spotify.com/track/07WCzcje2yuT61ID8bqqib"
     }
   ],
   "unique_name": "This Is The Jones Girls",

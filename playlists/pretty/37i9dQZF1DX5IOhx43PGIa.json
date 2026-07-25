@@ -1,13 +1,45 @@
 {
-  "description": "Illuminating Asian artists everywhere. Cover: sunkis & FLO",
-  "num_followers": 364564,
+  "description": "Illuminating Asian artists everywhere. Cover: JENNIE",
+  "num_followers": 364569,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8qXVWwwPAq1m56UK6CTpRErNsX",
+  "snapshot_id": "AAAAADNo/rrOUfChFwTd+50/OkFHAJh6",
   "tracks": [
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "FOREVERMORE",
+        "url": "https://open.spotify.com/album/3EaDdJ617d0q6uLifk3klX"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 182290,
+      "name": "FOREVERMORE",
+      "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
+    },
     {
       "added_at": "2026-07-17 04:01:14",
       "album": {
@@ -45,6 +77,42 @@
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
     },
     {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
+    },
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
       "added_at": "2026-07-17 04:01:14",
       "album": {
         "name": "Soarin'",
@@ -75,6 +143,22 @@
       "duration_ms": 299000,
       "name": "Lima",
       "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
+    },
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "A Parallel World (from Forgotten Island)",
+        "url": "https://open.spotify.com/album/1fpU3p9VuH941YMEVXaiqE"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "A Parallel World (from Forgotten Island)",
+      "url": "https://open.spotify.com/track/5B7Aeln3v0fMgJh8MhxTw0"
     },
     {
       "added_at": "2026-07-17 04:01:14",
@@ -173,6 +257,22 @@
       "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "Ain't No Party",
+        "url": "https://open.spotify.com/album/2fy9STAEXigXFiAP5A5eMG"
+      },
+      "artists": [
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ain't No Party",
+      "url": "https://open.spotify.com/track/53Clg1wqIoVvjydOW6UjqA"
+    },
+    {
       "added_at": "2026-07-10 04:01:26",
       "album": {
         "name": "Angel(s)",
@@ -203,6 +303,22 @@
       "duration_ms": 171958,
       "name": "CHAT",
       "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
+    },
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "From Tokyo with Love",
+        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 217751,
+      "name": "TTTTOKYO",
+      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
     },
     {
       "added_at": "2026-07-10 04:01:26",
@@ -575,6 +691,30 @@
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "added_at": "2026-07-24 04:01:43",
+      "album": {
+        "name": "UNA UNA",
+        "url": "https://open.spotify.com/album/4mu4ocN6f2RAzAgIS4bsjS"
+      },
+      "artists": [
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        },
+        {
+          "name": "CURE97",
+          "url": "https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO"
+        },
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "UNA UNA",
+      "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
     },
     {
       "added_at": "2026-07-10 04:01:26",
@@ -1359,46 +1499,6 @@
     {
       "added_at": "2026-07-10 04:01:26",
       "album": {
-        "name": "Sun Goes Down (feat. Camden Cox)",
-        "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 346904,
-      "name": "Sun Goes Down (feat. Camden Cox)",
-      "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "Lonely Touch",
-        "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "Lonely Touch",
-      "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
         "name": "winter's excuse",
         "url": "https://open.spotify.com/album/7idz6eKECr06U892s0lwek"
       },
@@ -1463,54 +1563,6 @@
       "duration_ms": 218430,
       "name": "Bones",
       "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "LOCKED IN",
-        "url": "https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 131707,
-      "name": "LOCKED IN",
-      "url": "https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Trauma Olympics",
-      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "FLAMES",
-        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 180727,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
     },
     {
       "added_at": "2026-07-10 04:01:26",
@@ -1639,54 +1691,6 @@
       "duration_ms": 147000,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5DHncTNEtkj14A5JZ9f0oz"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "When Are You Leaving?",
-        "url": "https://open.spotify.com/album/4dN47zvKtBGFJhQDi4G8jA"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "You're No Man",
-      "url": "https://open.spotify.com/track/0RAmpaRTVnIMbojrCc3vTu"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
-    },
-    {
-      "added_at": "2026-07-10 04:01:26",
-      "album": {
-        "name": "Mine All Mine",
-        "url": "https://open.spotify.com/album/5Wla8HqUkxzrwvyiatVUPZ"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 206887,
-      "name": "Mine All Mine",
-      "url": "https://open.spotify.com/track/1NMGJFPevd4upOnRqarTeI"
     }
   ],
   "unique_name": "Jasmine",

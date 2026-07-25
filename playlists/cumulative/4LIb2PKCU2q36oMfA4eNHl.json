@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2.22pm wishyouwerestillhere",
+        "url": "https://open.spotify.com/album/5HQAp8WbHDAdmTj1gabQtf"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "2.22pm wishyouwerestillhere",
+      "url": "https://open.spotify.com/track/0guXPm7tAdyI4sFypu0zYM"
+    },
+    {
+      "album": {
         "name": "76:14",
         "url": "https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 231206,
       "name": "Before We Drown",
       "url": "https://open.spotify.com/track/0eGVf0SuQ7dY6loPLl6vGL"
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 248565,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/60uqJM2KVqJ8gLX7mTvIO1"
@@ -7413,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "#Ibiza 2026",
+        "url": "https://open.spotify.com/album/0AkuU7D0ekqA7ZlMCYwtOJ"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Ria Hanley",
+          "url": "https://open.spotify.com/artist/3nQXZxVsg75T2NFCTu59hG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255683,
+      "name": "The High",
+      "url": "https://open.spotify.com/track/7MfV7AoXl8ilSitsw4Aetj"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC"
       },
@@ -8293,6 +8333,28 @@
     },
     {
       "album": {
+        "name": "Yellow and White",
+        "url": "https://open.spotify.com/album/0Nhau8DcB5QU0oFCWfIeNO"
+      },
+      "artists": [
+        {
+          "name": "Esteble",
+          "url": "https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp"
+        },
+        {
+          "name": "Joram Feitsma",
+          "url": "https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "Yellow and White",
+      "url": "https://open.spotify.com/track/4rZ7QD0aRnQHKWT90Ozdzr"
+    },
+    {
+      "album": {
         "name": "Yi\u00e1sou",
         "url": "https://open.spotify.com/album/27yFV8LovYjYRT9OmHcTPu"
       },
@@ -8384,7 +8446,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 201320,
       "name": "You Left Me",
       "url": "https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq"

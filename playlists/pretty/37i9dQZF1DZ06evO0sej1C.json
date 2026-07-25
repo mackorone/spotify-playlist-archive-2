@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46081,
+  "num_followers": 46085,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACa37i9PdgiO7U9Cg+EIMqc",
+  "snapshot_id": "amFZgAAAAAC2RJyb/CWNfkLsDj8AqkjB",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7 A.M.",
-        "url": "https://open.spotify.com/album/0djNKES5A8bGlA332XDGd3"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "7 A.M.",
-      "url": "https://open.spotify.com/track/2dmOGfBzb1vRD4jM7uUc0t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Dijeron",
         "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 187768,
       "name": "No Me Dijeron",
       "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 A.M.",
+        "url": "https://open.spotify.com/album/0djNKES5A8bGlA332XDGd3"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "7 A.M.",
+      "url": "https://open.spotify.com/track/2dmOGfBzb1vRD4jM7uUc0t"
     },
     {
       "added_at": null,

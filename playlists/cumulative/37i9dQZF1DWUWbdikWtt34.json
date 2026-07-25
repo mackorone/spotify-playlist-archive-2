@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: April DA7",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Selfi Yamma",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -4304,6 +4304,24 @@
       "duration_ms": 309032,
       "name": "Samira",
       "url": "https://open.spotify.com/track/2UNIOm160O0c3EHq3kKy2I"
+    },
+    {
+      "album": {
+        "name": "Sampaikan Rindu",
+        "url": "https://open.spotify.com/album/0zv1e65HKj9sMCg4moxYER"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Sampaikan Rindu",
+      "url": "https://open.spotify.com/track/7Jm8ej988fDt4n1ZxqWHEc"
     },
     {
       "album": {

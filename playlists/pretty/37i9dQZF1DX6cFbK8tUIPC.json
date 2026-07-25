@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 560648,
+  "num_followers": 560642,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Above the Clouds of Pompeii",
-      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Hey Ma",
         "url": "https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 240123,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Above the Clouds of Pompeii",
+      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 224410,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Iceberg",
-      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Lovers to Strangers",
         "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 174086,
       "name": "Lovers to Strangers",
       "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
     },
     {
-      "added_at": "2025-10-17 10:54:21",
-      "album": {
-        "name": "I hate goodbyes",
-        "url": "https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb"
-      },
-      "artists": [
-        {
-          "name": "Maddie Ashman",
-          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
-        }
-      ],
-      "duration_ms": 229484,
-      "name": "I hate goodbyes",
-      "url": "https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV"
-    },
-    {
       "added_at": "2025-09-23 14:16:54",
       "album": {
         "name": "Is What It Is",
@@ -1347,6 +1331,22 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2025-10-17 10:54:21",
+      "album": {
+        "name": "I hate goodbyes",
+        "url": "https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "I hate goodbyes",
+      "url": "https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Sahar",
-        "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 170315,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 269440,
       "name": "Deep End (Paul's in Pieces)",
       "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Sahar",
+        "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "duration_ms": 170315,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
     },
     {
       "added_at": "2025-09-23 14:16:54",

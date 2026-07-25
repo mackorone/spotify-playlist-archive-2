@@ -1,15 +1,31 @@
 {
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Tulus",
-  "num_followers": 1513498,
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: BTS",
+  "num_followers": 1513737,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0zEkBfL4IkOnEJJltXwPA9T2l3",
+  "snapshot_id": "AAAAALdKA/joYmKvpdi83tc+fm0lhuQS",
   "tracks": [
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "NORMAL",
+        "url": "https://open.spotify.com/album/41K5jLsbiHSIneJHTkcaar"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "NORMAL",
+      "url": "https://open.spotify.com/track/1FnbkQ5WqapDIp0GOVufpO"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Teh Hijau",
         "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Astaga Bercanda",
         "url": "https://open.spotify.com/album/03NBHdtrGXlm3VHkjFAiSY"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "MMG (My Mine Gueh)",
         "url": "https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM"
@@ -61,7 +77,23 @@
       "url": "https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Foto kita blur",
         "url": "https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Sesi Potret",
         "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
@@ -129,27 +161,7 @@
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
-      "album": {
-        "name": "Sumpah Mati",
-        "url": "https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8"
-      },
-      "artists": [
-        {
-          "name": "Celyna Grace",
-          "url": "https://open.spotify.com/artist/7ofzlcvCaN0u5naaoIiPKi"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 240034,
-      "name": "Sumpah Mati",
-      "url": "https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6"
-    },
-    {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -165,7 +177,27 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "iqro'",
         "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/1sVQuuvFDKu6vklPVeiUXT"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "rollerblade remix (Jebung)",
         "url": "https://open.spotify.com/album/1MVP9xMh8dr5wXEdwu0qtr"
@@ -201,23 +233,27 @@
       "url": "https://open.spotify.com/track/4kLQd1onq9VkWAme7VOG8b"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:26:13",
       "album": {
-        "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
-        "url": "https://open.spotify.com/album/65lCSVpAKhnJeOqQtKsWEZ"
+        "name": "Terbelah Jadi Dua",
+        "url": "https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P"
       },
       "artists": [
         {
-          "name": "Calvilas",
-          "url": "https://open.spotify.com/artist/0AwvxxxlxPwObczyyPiP1i"
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
         }
       ],
-      "duration_ms": 199285,
-      "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
-      "url": "https://open.spotify.com/track/1BrTZQ0KscBhBblQAQO3Du"
+      "duration_ms": 255000,
+      "name": "Terbelah Jadi Dua",
+      "url": "https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Lemon Tang - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Mbak Billie",
         "url": "https://open.spotify.com/album/0GMZI9zMpfryW7Sc3r7dGa"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/3lGPSS7Q9Npu81v4RZcvdp"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
@@ -265,7 +301,39 @@
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
+        "url": "https://open.spotify.com/album/65lCSVpAKhnJeOqQtKsWEZ"
+      },
+      "artists": [
+        {
+          "name": "Calvilas",
+          "url": "https://open.spotify.com/artist/0AwvxxxlxPwObczyyPiP1i"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
+      "url": "https://open.spotify.com/track/1BrTZQ0KscBhBblQAQO3Du"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Jangan Paksa Rindu (Beda)",
         "url": "https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn"
@@ -281,7 +349,7 @@
       "url": "https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "EUNOIA",
         "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
@@ -329,7 +397,7 @@
       "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/4Aobf2Roz9dxfaA2Vsj88X"
@@ -345,7 +413,7 @@
       "url": "https://open.spotify.com/track/6Sxc16RahhmIrVsN34uPUm"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "rollerblade",
         "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
@@ -361,27 +429,7 @@
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
-      "album": {
-        "name": "Sumpah Mati",
-        "url": "https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h"
-      },
-      "artists": [
-        {
-          "name": "Niki Becker",
-          "url": "https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 208970,
-      "name": "Sumpah Mati",
-      "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
-    },
-    {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Devaki",
         "url": "https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Penyangkalan",
         "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "1000X",
         "url": "https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Merry Christmas, Please Don't Call",
         "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Terpukau",
         "url": "https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "2001x",
         "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Im Sorry Mom",
         "url": "https://open.spotify.com/album/5KbP8U5V9ghMQUkbtcozfQ"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/50tTFMbM8n9Ztbngn9tV6q"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Berapa Kali Kita Akan Saling Memaafkan",
         "url": "https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -605,7 +653,23 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:26:13",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Melompat Lebih Tinggi",
         "url": "https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "the cure",
         "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
@@ -637,7 +701,7 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
@@ -701,7 +765,7 @@
       "url": "https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/61tVy2ZZsuPVN517VPSiXH"
@@ -717,7 +781,7 @@
       "url": "https://open.spotify.com/track/6XD6sH8A7G4NiuKVuaI5yw"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Sempurnanya Aku",
         "url": "https://open.spotify.com/album/3rq58ZVUSgptnwT3aqqqKR"
@@ -733,7 +797,7 @@
       "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Say No",
         "url": "https://open.spotify.com/album/0SuU1lu4vJImcCotDdVa7a"
@@ -749,7 +813,7 @@
       "url": "https://open.spotify.com/track/6ICEluTQZZwk1Id0XpavZy"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -769,7 +833,7 @@
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -785,7 +849,7 @@
       "url": "https://open.spotify.com/track/3BnMfPPWs59CVfcQ8CcdfR"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Hati & Cinta",
         "url": "https://open.spotify.com/album/6Irfq3zJ8q2tSo4Jipiywo"
@@ -801,7 +865,7 @@
       "url": "https://open.spotify.com/track/6G7dG0nZN4I9LRGVzKNVQQ"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Yang No.1",
         "url": "https://open.spotify.com/album/5rlPkZwe6EZ019sAoGadne"
@@ -817,7 +881,7 @@
       "url": "https://open.spotify.com/track/2zZZQM87GupPuk78UofvFr"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -833,7 +897,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "LAB SONGS NG MGA TANGA",
         "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
@@ -849,23 +913,7 @@
       "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
-      "album": {
-        "name": "Kita Lewati Berdua",
-        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
-      },
-      "artists": [
-        {
-          "name": "Overnight",
-          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
-        }
-      ],
-      "duration_ms": 239629,
-      "name": "Kita Lewati Berdua",
-      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
-    },
-    {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Hompimpa",
         "url": "https://open.spotify.com/album/05IfOdDr0KqGCW80njvArX"
@@ -881,7 +929,7 @@
       "url": "https://open.spotify.com/track/5Nk61wJGbPJNBIbnQG9vNl"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -897,7 +945,7 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Merry Christmas, i miss you",
         "url": "https://open.spotify.com/album/1JrnkLclHl6rgCZ6blcaRp"
@@ -913,7 +961,7 @@
       "url": "https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Iqro'",
         "url": "https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC"
@@ -929,7 +977,7 @@
       "url": "https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
@@ -945,7 +993,7 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Dehumanized",
         "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
@@ -961,7 +1009,7 @@
       "url": "https://open.spotify.com/track/69hnN62W706AbF4y8cORae"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Platinum Collection Rossa",
         "url": "https://open.spotify.com/album/5qU82fNj884qgKrfk77oX6"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1XYFuCKBnWOBapFnOhuD1N"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
@@ -993,7 +1041,7 @@
       "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Kita Buat Menyenangkan",
         "url": "https://open.spotify.com/album/57chfzR7TAIGbjPtZVEl9x"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Rabun Jauh",
         "url": "https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM"
@@ -1025,7 +1073,7 @@
       "url": "https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Berusaha di Bawah Hujan",
         "url": "https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/060z6NmZPv7YJWpQYYKTcs"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
@@ -1061,7 +1109,27 @@
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 180822,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -1077,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
@@ -1101,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Jantung Aman Kan?",
         "url": "https://open.spotify.com/album/73Y7wzyF59nD3mObgkIcxu"
@@ -1117,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0MhLGM30nBiaRdpAdpxHi0"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "berlin",
         "url": "https://open.spotify.com/album/1mXjIwi4b31mObcZ5Mr0s8"
@@ -1133,7 +1201,7 @@
       "url": "https://open.spotify.com/track/716EFADuhOuYUCLRltcwnC"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Ada Untukmu",
         "url": "https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9"
@@ -1149,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "rombak",
         "url": "https://open.spotify.com/album/3gCYKx8ycJ82m6yDA5eGPu"
@@ -1165,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3UqvqIAj7mfd8pBBnxJWhb"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -1185,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -1201,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Memorandum",
         "url": "https://open.spotify.com/album/5kMUjEYuu9ms8xLlk2b0V4"
@@ -1217,7 +1285,27 @@
       "url": "https://open.spotify.com/track/6v5RJuJ9yhvaXkMXMeMZBw"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "Aku Harus Pergi",
+        "url": "https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe"
+      },
+      "artists": [
+        {
+          "name": "Whisnu Santika",
+          "url": "https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Aku Harus Pergi",
+      "url": "https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Nafas",
         "url": "https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN"
@@ -1237,7 +1325,7 @@
       "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Coboy Junior",
         "url": "https://open.spotify.com/album/1qc0sadKhvsDc8w9uu7r69"
@@ -1253,7 +1341,7 @@
       "url": "https://open.spotify.com/track/7HMLzHU05zxsOXV71XFIak"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Bulan Bintang, Garis Menyilang",
         "url": "https://open.spotify.com/album/2yz71Y5q037CryRvOsILS9"
@@ -1273,7 +1361,7 @@
       "url": "https://open.spotify.com/track/4XjtlZNz9eOA55q3Em4P3B"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
         "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
@@ -1293,7 +1381,7 @@
       "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Keliling",
         "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
@@ -1309,7 +1397,7 @@
       "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -1325,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
@@ -1341,7 +1429,7 @@
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "SUPER EKSIS",
         "url": "https://open.spotify.com/album/7q6KTNDz0hFOyCe6IUTJrO"
@@ -1357,7 +1445,7 @@
       "url": "https://open.spotify.com/track/1OJgIOexFa1aIp33EH8BF6"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Never Say Never - The Remixes",
         "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
@@ -1377,7 +1465,7 @@
       "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Celah Hati",
         "url": "https://open.spotify.com/album/75oe7dblGQr9KbKKk1Zggz"
@@ -1393,7 +1481,7 @@
       "url": "https://open.spotify.com/track/5gvSgp1iKPkdTq6kNzvKv2"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "EUNOIA",
         "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
@@ -1409,7 +1497,23 @@
       "url": "https://open.spotify.com/track/3pPtbTaTyh6zGJjAYT8Crr"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 219924,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
+    },
+    {
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "SUPER EKSIS",
         "url": "https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG"
@@ -1425,7 +1529,7 @@
       "url": "https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Dalam Dinamika",
         "url": "https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv"
@@ -1441,7 +1545,7 @@
       "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Gurun Hujan",
         "url": "https://open.spotify.com/album/6nKmMv7wQ37UCC7NrgnlTR"
@@ -1457,7 +1561,7 @@
       "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Mati Bersemi",
         "url": "https://open.spotify.com/album/2oJFJ9wTEMV6xT0kpeTEf0"
@@ -1473,7 +1577,7 @@
       "url": "https://open.spotify.com/track/3iC60wudai0qrFnkFUDHSs"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Negoro Angin",
         "url": "https://open.spotify.com/album/473skY7alrmJfasO5CIeDm"
@@ -1489,7 +1593,7 @@
       "url": "https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -1509,7 +1613,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -1525,7 +1629,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Hatchu!!",
         "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
@@ -1541,7 +1645,7 @@
       "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/35XKlAPheGcZUQ2nh7eKtw"
@@ -1557,7 +1661,7 @@
       "url": "https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ"
     },
     {
-      "added_at": "2026-07-16 17:00:38",
+      "added_at": "2026-07-24 06:14:26",
       "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rach",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: SeinsSucrer",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "Chil-p",
+          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "AMBITION",
+      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
+    },
+    {
+      "album": {
         "name": "GrandBazaar (03)",
         "url": "https://open.spotify.com/album/4wT3teHjdpYuRwPh7agzay"
       },
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 197540,
       "name": "Aucun XO",
       "url": "https://open.spotify.com/track/0L4KLnqNwACrRtkWqoTGuh"
@@ -3141,6 +3163,36 @@
     },
     {
       "album": {
+        "name": "BIG STEPPA",
+        "url": "https://open.spotify.com/album/7Ech1xQEc9ZYfirUXA8T2C"
+      },
+      "artists": [
+        {
+          "name": "6SIX6",
+          "url": "https://open.spotify.com/artist/01tlG3DUicHTHqFsGYwDeg"
+        },
+        {
+          "name": "FAY",
+          "url": "https://open.spotify.com/artist/3VzB446tjIMeJ1A0bYRTug"
+        },
+        {
+          "name": "INSa",
+          "url": "https://open.spotify.com/artist/2sOWLpJuMr0aumqSOKqTde"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "BIG STEPPA",
+      "url": "https://open.spotify.com/track/1BMP3fdeCc0wVIVgOTEOEg"
+    },
+    {
+      "album": {
         "name": "Big Wop - Mile-End sur la map",
         "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
       },
@@ -4118,7 +4170,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 92846,
       "name": "C'est NOUS",
       "url": "https://open.spotify.com/track/3dQSSvT5ZieTQJM2TPVIgg"
@@ -4202,7 +4254,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 152500,
       "name": "C.O.D",
       "url": "https://open.spotify.com/track/5ItuZvd3f1hymqNWd5TIGl"
@@ -5326,7 +5378,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190000,
       "name": "Civilis\u00e9, Pt. III",
       "url": "https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP"
@@ -6699,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "DEMBELE",
+        "url": "https://open.spotify.com/album/4BySCvNgvCDkTe1BxvyzVS"
+      },
+      "artists": [
+        {
+          "name": "NANII",
+          "url": "https://open.spotify.com/artist/1Srwnwnweg4tOoujcFXD1W"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166368,
+      "name": "DEMBELE",
+      "url": "https://open.spotify.com/track/2dZeEVecQ2Wo6LZ79iXKL8"
+    },
+    {
+      "album": {
         "name": "Des inc et des comptables",
         "url": "https://open.spotify.com/album/5lbziSlBFCC7wJknLTYtO1"
       },
@@ -7032,6 +7102,36 @@
       "duration_ms": 156135,
       "name": "dis moi o\u00f9, dis moi quand (feat. Hubert Lenoir)",
       "url": "https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK"
+    },
+    {
+      "album": {
+        "name": "Discontinu\u00e9",
+        "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175476,
+      "name": "Discontinu\u00e9",
+      "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
     },
     {
       "album": {
@@ -11450,7 +11550,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 160578,
       "name": "INSOMNIE, Vol. 5",
       "url": "https://open.spotify.com/track/3qkYGTiwiERMoq06es7uC6"
@@ -13074,7 +13174,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 109714,
       "name": "LA TEMPE",
       "url": "https://open.spotify.com/track/0YYQ89ecrZkCvhr5qEmEU9"
@@ -14000,7 +14100,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176000,
       "name": "LITT\u00c9RALEMENT",
       "url": "https://open.spotify.com/track/2he65BbozStaAsrV6XBTg2"
@@ -14240,7 +14340,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153019,
       "name": "Love ou la monnaie",
       "url": "https://open.spotify.com/track/168wDKskq9yL9n0DusSy4X"
@@ -19122,7 +19222,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 106627,
       "name": "Poutine",
       "url": "https://open.spotify.com/track/6GEwQ2hv6gXZFNolHOKhuo"
@@ -20122,7 +20222,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 138000,
       "name": "Rap \u00c9rudit",
       "url": "https://open.spotify.com/track/7sAy7In2ZATfBoRJiXvDUg"
@@ -22151,6 +22251,24 @@
     },
     {
       "album": {
+        "name": "SOLO SOLO",
+        "url": "https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq"
+      },
+      "artists": [
+        {
+          "name": "KDS Requinzer",
+          "url": "https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152225,
+      "name": "SOLO SOLO",
+      "url": "https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ByO7HcUu9087121xRfMbm"
       },
@@ -22224,6 +22342,28 @@
       "duration_ms": 181132,
       "name": "Soroche - Remix",
       "url": "https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc"
+    },
+    {
+      "album": {
+        "name": "SORRY C BUSINESS",
+        "url": "https://open.spotify.com/album/31HGOeBqPSjku2sL21UMgg"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        },
+        {
+          "name": "d\u00f8nnyr2k\u00e9bb",
+          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153563,
+      "name": "Sorry c Business",
+      "url": "https://open.spotify.com/track/6n5IeMTNWr4c1UKgiFjM90"
     },
     {
       "album": {
@@ -24870,7 +25010,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 146100,
       "name": "Vrais joueurs",
       "url": "https://open.spotify.com/track/4hPkHbG4PeNT1BsSylo4aY"
@@ -25558,7 +25698,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175022,
       "name": "\u00c0 c\u0153ur ouvert",
       "url": "https://open.spotify.com/track/0bjsa6H3BEjcsXkw0nmUR8"

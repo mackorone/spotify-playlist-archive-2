@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-259 songs - 11 hr 1 min
+262 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [And There You Were](https://open.spotify.com/track/2ij4ApQBRFmf6ohJVWcogb) | [John Othmar](https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2) | [And There You Were](https://open.spotify.com/album/6eWZ48kGoExcasNAVjvmlE) | 2:38 | 2026-07-10 |  |
 | [Anemone](https://open.spotify.com/track/5pmQLEt0f2PWwoQWGMdRax) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Anemone](https://open.spotify.com/album/28dwyOwoO2S9wGxfz7ci3u) | 2:14 | 2026-07-10 |  |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-08-15 |  |
+| [Arc of petals](https://open.spotify.com/track/2KrhI86yeHlKJMTwOwbXgs) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Arc of petals](https://open.spotify.com/album/2EdGKeAotoopbtYlyNbOz4) | 2:16 | 2026-07-24 |  |
 | [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 | 2025-08-04 |  |
 | [At Last](https://open.spotify.com/track/1BXxytSL9ItPhYnKInkIR9) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [At Last](https://open.spotify.com/album/04FNQVQyO3rQAHToWkVVqp) | 2:35 | 2026-05-22 | 2026-05-30 |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-28 | 2025-05-15 |
@@ -137,6 +138,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-04-28 | 2026-07-11 |
 | [Momentum](https://open.spotify.com/track/4wl7uUDTzJZ4nl8655DOfo) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Momentum](https://open.spotify.com/album/6yLmEfUZKrE6I8qAinNFWw) | 2:32 | 2026-06-12 |  |
 | [Morgenruhe](https://open.spotify.com/track/2e8OVZGHC6WrmxrYLu37lW) | [Maro Dalle](https://open.spotify.com/artist/4hgi2ec4zj7KQnrfzYCD8e) | [Morgenruhe](https://open.spotify.com/album/2xBc2qg7Z3Dt38uI7KqHFp) | 2:37 | 2026-07-03 |  |
+| [Morning Echoes](https://open.spotify.com/track/76cen8fzMdZIvYCGYc9GRO) | [Herman Schirmer](https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm) | [Morning Echoes](https://open.spotify.com/album/20MD9CDfbhbzS7prUm7Wtv) | 2:41 | 2026-07-24 |  |
 | [Morning Solitude](https://open.spotify.com/track/40mRl3Zp3irGRnQxOhWt4V) | [Julian North](https://open.spotify.com/artist/4fzhFLI71Hrc3ONAwaiK4a) | [Morning Solitude](https://open.spotify.com/album/3aVRCLjuSZPGZ9OFp0867g) | 2:10 | 2026-07-03 |  |
 | [Moss](https://open.spotify.com/track/44rpdWxWd9Y6jTth7KTJuU) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Moss](https://open.spotify.com/album/6Fwj10SLezxRhQUIdOsPAl) | 2:22 | 2022-04-28 | 2026-07-04 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-04-28 | 2025-05-03 |
@@ -186,6 +188,7 @@
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2022-04-28 | 2025-06-11 |
 | [Sapiens](https://open.spotify.com/track/5w32YiZfjZ0vC3Y1bYs62i) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 3:05 | 2022-04-28 | 2025-04-17 |
 | [Satori](https://open.spotify.com/track/6Zmhxmb4cIZnrrbHfBsVKZ) | [Christian Vey](https://open.spotify.com/artist/34oi16MBJNFMwdyDqIlMXL) | [Satori](https://open.spotify.com/album/60pPe1OEiOxmAz5p4Kr9J2) | 3:00 | 2026-07-03 |  |
+| [Seconds From Us](https://open.spotify.com/track/1uFJV18jiitCG65g8ErvCl) | [John Fletcher\-Smith](https://open.spotify.com/artist/76h4yIYvagDl743JAWdgXz) | [Seconds From Us](https://open.spotify.com/album/6uToDp8dCWlQJwYS76Xo9K) | 2:09 | 2026-07-24 |  |
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-07-25 | 2026-07-04 |
 | [Seraphine](https://open.spotify.com/track/1N3PTgf9qyKxCH3DwgEuKG) | [Ignacio Montoya](https://open.spotify.com/artist/4XBctiZfMg9kgOPlqfLgFA) | [Seraphine](https://open.spotify.com/album/5MuHGnIj46ga3xOmhP8VQI) | 2:37 | 2026-07-17 |  |
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-28 | 2025-05-03 |
@@ -199,7 +202,7 @@
 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-21 |  |
 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 | 2026-05-30 |
 | [Something Almost Still](https://open.spotify.com/track/3xeTOKiHv8AOTNC3Xuzo1Z) | [Elian Morel](https://open.spotify.com/artist/1ipmhTUevpHeyRQPbrugqC) | [Something Almost Still](https://open.spotify.com/album/7Abr6xIA8E0qKrD2ikox7G) | 2:37 | 2026-07-03 |  |
-| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-04 | 2026-07-25 |
 | [Somewhere Further](https://open.spotify.com/track/1UEgJDZMb79E2gnrnwyqTz) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Somewhere Further](https://open.spotify.com/album/2LaiM63ax9AjOOKArUpMXT) | 2:25 | 2026-07-10 |  |
 | [Sparrow](https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Sparrow](https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM) | 2:10 | 2022-04-28 | 2025-05-03 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-20 | 2024-04-19 |
@@ -236,7 +239,7 @@
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-28 | 2026-05-30 |
 | [Tomorrow's Dreams](https://open.spotify.com/track/2aj7eNHqMG4SeF5sBG7idE) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Tomorrow's Dreams](https://open.spotify.com/album/3rEzNYYShOCnaUy8zVa0pA) | 2:44 | 2022-04-28 | 2026-07-11 |
 | [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2022-04-28 | 2025-04-17 |
-| [Training Wheels](https://open.spotify.com/track/4SwoHJ6WZtsX4Uv9ro5BfH) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Training Wheels](https://open.spotify.com/album/5pBxsJkcluC0rriObZFAQ4) | 3:03 | 2022-04-28 |  |
+| [Training Wheels](https://open.spotify.com/track/4SwoHJ6WZtsX4Uv9ro5BfH) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Training Wheels](https://open.spotify.com/album/5pBxsJkcluC0rriObZFAQ4) | 3:03 | 2022-04-28 | 2026-07-25 |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-28 | 2025-06-11 |
 | [Traumtänzer](https://open.spotify.com/track/07cIvi3D7cHWRkJLTY0JCh) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Traumtänzer](https://open.spotify.com/album/4uSHjDIZrc1wxbZmlIQUEE) | 2:02 | 2023-06-27 |  |
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-04-28 | 2025-04-17 |

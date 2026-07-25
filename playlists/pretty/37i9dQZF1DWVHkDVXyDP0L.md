@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Radio Free Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,413 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,414 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 9 | [Pandemonium](https://open.spotify.com/track/6wgcjO8cMqlgl5pMlOrKBn) | [Pamela.](https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE) | [IT'S NICE TO SEE YOU HERE](https://open.spotify.com/album/2G3JhMS6F7u6VabvD5tN9A) | 2:33 |
 | 10 | [life](https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [life](https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ) | 2:58 |
 | 11 | [LUCID](https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LUCID](https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL) | 3:08 |
-| 12 | [Track 3](https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [This Will End](https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb) | 0:00 |
+| 12 | [Burial](https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [This Will End](https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb) | 3:58 |
 | 13 | [Mr Speers](https://open.spotify.com/track/7ofOtpABcrftHcY4eVvDXf) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Mr Speers](https://open.spotify.com/album/0d1ZECj939rayDEx2bnj0J) | 2:57 |
 | 14 | [It's getting hotti](https://open.spotify.com/track/6WaRBMDoRqJyRsjKObbEO2) | [Greatsouth](https://open.spotify.com/artist/39mSHxPg5MiolYsL4lUsRU) | [It's getting hotti](https://open.spotify.com/album/2extpIeU0aNmlJX8lpgnk2) | 4:50 |
 | 15 | [Lady](https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Naked At Your Door](https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4) | 2:31 |

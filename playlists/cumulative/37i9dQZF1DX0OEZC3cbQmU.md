@@ -2,9 +2,9 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: MORADA
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-216 songs - 22 hr 34 min
+217 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 | 2023-02-24 | 2025-05-03 |
 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 | 2022-09-02 | 2023-02-07 |
 | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo) | 5:09 | 2025-10-24 | 2026-05-30 |
-| [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 | 2025-08-11 |  |
+| [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 | 2025-08-11 | 2026-07-25 |
 | [Melhor Lugar \- Ao Vivo](https://open.spotify.com/track/6NroUAhj3hIfz80cQqM8t0) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [O Maior Amor \(Ao Vivo\)](https://open.spotify.com/album/6QXJWHHtoOU2cU2a6ZwT9x) | 5:40 | 2026-02-06 |  |
 | [Mesmo Sem Entender](https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE) | 3:40 | 2022-09-02 | 2026-01-15 |
 | [Mesmo Sem Entender](https://open.spotify.com/track/6KDsJnkSLvgIKgDxLa2fza) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 3:40 | 2024-01-05 | 2024-09-05 |
@@ -155,6 +155,7 @@
 | [Ousado Amor](https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc) | 5:33 | 2022-09-02 | 2024-04-19 |
 | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \- Ao Vivo](https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Outro Igual Não Há \(Ao Rei Nós Coroamos\) \[Ao Vivo\]](https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66) | 6:30 | 2025-02-21 |  |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-28 |  |
+| [Palavras](https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Palavras](https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625) | 5:17 | 2026-07-24 |  |
 | [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-23 |  |
 | [Pertinho \- Live](https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Pertinho \(Live\)](https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO) | 3:54 | 2022-09-02 | 2023-03-18 |
 | [Pode Morar Aqui](https://open.spotify.com/track/3SSb1jUojmZLbml3S3f9bN) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui](https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI) | 9:26 | 2023-06-23 | 2026-02-14 |

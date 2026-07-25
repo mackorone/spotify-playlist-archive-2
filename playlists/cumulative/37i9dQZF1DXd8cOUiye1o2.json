@@ -378,6 +378,22 @@
         {
           "name": "Jatin-Lalit",
           "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "Mohsin Shaikh",
+          "url": "https://open.spotify.com/artist/1iIb9xv4HoY94O9IJWAFUj"
         }
       ],
       "date_added": "2026-07-22",
@@ -3899,6 +3915,32 @@
     },
     {
       "album": {
+        "name": "For The Record Sessions",
+        "url": "https://open.spotify.com/album/612wdnD2KDjhVwPSfA4BX4"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142465,
+      "name": "Dariyo",
+      "url": "https://open.spotify.com/track/2qdZkHswQP4Ke2bJ5OeXHy"
+    },
+    {
+      "album": {
         "name": "Darmiyaan (From \"Musafir Cafe\")",
         "url": "https://open.spotify.com/album/3GE8PVCSO32TjZYzDDcIzZ"
       },
@@ -5293,6 +5335,36 @@
     },
     {
       "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/0PYvcQL3tYympM9MgOcSOX"
+      },
+      "artists": [
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "Shafaat Ali",
+          "url": "https://open.spotify.com/artist/0yo4hq252dnqbVxVU7RGrT"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/2wrmQ6sj8IJxJ5nrZc1bvU"
+    },
+    {
+      "album": {
         "name": "Duhaai",
         "url": "https://open.spotify.com/album/76Uu2pZ7VkG0dF5zUj0F7W"
       },
@@ -6544,6 +6616,36 @@
       "duration_ms": 195951,
       "name": "Haaniya",
       "url": "https://open.spotify.com/track/5hNHQtDLSMbQ8pjmYjTI7u"
+    },
+    {
+      "album": {
+        "name": "Haare",
+        "url": "https://open.spotify.com/album/35fFRdOzfCxCUZrPmkhuvf"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        },
+        {
+          "name": "DEVM",
+          "url": "https://open.spotify.com/artist/63pRfyoFG1zPRQsASFo2dr"
+        },
+        {
+          "name": "Piyush Ambhore",
+          "url": "https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s"
+        },
+        {
+          "name": "Yuved",
+          "url": "https://open.spotify.com/artist/36kt1UCR2g6KUnQHqDKMe8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Haare",
+      "url": "https://open.spotify.com/track/6gNBwLDbm1KaQZRRzCJYWu"
     },
     {
       "album": {
@@ -8098,6 +8200,28 @@
       "duration_ms": 145350,
       "name": "Jaadu (From \"Hello Bachhon\")",
       "url": "https://open.spotify.com/track/1qNy6lumbs7h0Tx2oL8lZ2"
+    },
+    {
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/42qNEkPRgQy5un38YJuvGF"
+      },
+      "artists": [
+        {
+          "name": "Mohshin Raza",
+          "url": "https://open.spotify.com/artist/2GPmBEKL2DzmsM7yiOwyZc"
+        },
+        {
+          "name": "Dj AYnik",
+          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170788,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/119abbnMCguI7lD6m5IPKg"
     },
     {
       "album": {
@@ -10913,6 +11037,24 @@
     },
     {
       "album": {
+        "name": "Kya Teri",
+        "url": "https://open.spotify.com/album/64a3cu86DLYBJ9DjIXcGtM"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176315,
+      "name": "Kya Teri",
+      "url": "https://open.spotify.com/track/1GqdVMXmJaE1AEasYF7K7u"
+    },
+    {
+      "album": {
         "name": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE"
       },
@@ -12574,6 +12716,28 @@
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
+    },
+    {
+      "album": {
+        "name": "Meri Jagah",
+        "url": "https://open.spotify.com/album/4Ke9HX7WrMIGZeDy2eZsAY"
+      },
+      "artists": [
+        {
+          "name": "Prateek Harbola",
+          "url": "https://open.spotify.com/artist/4ClKqeMmijLcawoVzg8ZGC"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Meri Jagah",
+      "url": "https://open.spotify.com/track/232jlF7aML1WNSkhd0HY6E"
     },
     {
       "album": {
@@ -15276,7 +15440,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 410625,
       "name": "Qaraar",
       "url": "https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc"
@@ -18730,7 +18894,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 226650,
       "name": "Tera Paisa Mera Paisa (From \"Welcome To The Jungle\")",
       "url": "https://open.spotify.com/track/5Yo7OLqljiSCo2IYfQBJbV"
@@ -19248,7 +19412,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 239410,
       "name": "Teri Umeed - Aaj Bhi",
       "url": "https://open.spotify.com/track/5pE1cy4IXmXlQWvxD94iLs"
@@ -20136,7 +20300,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189096,
       "name": "Tu Mileya",
       "url": "https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ"
@@ -20240,7 +20404,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 342400,
       "name": "Tujhko - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"

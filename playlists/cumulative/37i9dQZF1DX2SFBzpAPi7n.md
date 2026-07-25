@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: MRCH\(윤마치\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: tokai\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,210 songs - 3 day 1 hr 34 min
+1,212 songs - 3 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Do\-re\-mi\-fa](https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Present](https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq) | 3:07 | 2024-01-05 | 2024-05-10 |
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
-| [documentary](https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:16 | 2026-07-14 |  |
+| [documentary](https://open.spotify.com/track/171mGT1HdxM2HdqZrWNY31) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Mutualism](https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1) | 3:16 | 2026-07-14 | 2026-07-25 |
 | [Doll](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:33 | 2024-05-09 | 2024-11-07 |
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 | 2024-11-07 |
@@ -339,6 +339,7 @@
 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-26 | 2023-07-05 |
 | [Freddy](https://open.spotify.com/track/4NCukrisJy9l4ZMDEkBnn2) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [And yet, We still](https://open.spotify.com/album/59ZIOlyrgX38hQTdZnOcfC) | 3:57 | 2024-08-12 | 2024-09-03 |
 | [Freedom](https://open.spotify.com/track/0C64OAzFqP8d3s14qf1p9Q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0LJz8YtfJoqzsW2sL3CIh1) | 3:47 | 2022-06-18 | 2022-07-20 |
+| [Friends and Lovers \(Feat\. KYLY\)](https://open.spotify.com/track/0nnI7Iy21rFhIS5ug7lSM0) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kyly](https://open.spotify.com/artist/66U03MVaRg1TJExKgbRdWU) | [The Legacy 26](https://open.spotify.com/album/1lpAjKWTLa1af5gHvOe0BC) | 4:34 | 2026-07-24 |  |
 | [From You](https://open.spotify.com/track/34qvU10EU2RsoBRX5qYlpb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Alice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1pmEVARxxmA6polrjOqREk) | 3:47 | 2022-04-22 | 2022-07-16 |
 | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 | 2025-05-08 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
@@ -839,6 +840,7 @@
 | [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 | 2023-04-26 | 2023-05-13 |
 | [Romantist](https://open.spotify.com/track/2O043aP6XbrMNW0N00jtGj) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Romantist](https://open.spotify.com/album/0jl2ykzcUXPu6LZ8lZcrgv) | 5:30 | 2026-01-28 | 2026-02-13 |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2022-04-12 |  |
+| [round](https://open.spotify.com/track/1NaDBli5yq02ienC980KcK) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [Comikai](https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B) | 3:21 | 2026-07-24 |  |
 | [Ruby](https://open.spotify.com/track/1pha3bEl2w7TmudxbEq9rN) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Red Signal](https://open.spotify.com/album/1lxMHSVNpocUb4ls28XvET) | 4:43 | 2025-08-12 | 2025-08-27 |
 | [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 | 2025-10-06 |  |
 | [Rules](https://open.spotify.com/track/6b8PDqaWAwX7aZ2f5wO2Tr) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [Rules](https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz) | 3:57 | 2025-02-25 | 2025-04-12 |
@@ -957,7 +959,7 @@
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-30 | 2025-10-11 |
 | [Sunburn](https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [Sunburn](https://open.spotify.com/album/4NopJoIie2kGycobjMxg1u) | 3:59 | 2024-04-09 | 2024-05-10 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |
-| [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-03 |  |
+| [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-03 | 2026-07-25 |
 | [Sunshine Bless You](https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 3:51 | 2026-04-09 | 2026-06-13 |
 | [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 | 2025-07-31 | 2025-08-22 |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2024-10-25 |

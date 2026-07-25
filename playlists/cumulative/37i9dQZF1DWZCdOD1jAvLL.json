@@ -9689,6 +9689,32 @@
     },
     {
       "album": {
+        "name": "I Like You A Lot (feat. WEiRD GRRL)",
+        "url": "https://open.spotify.com/album/1eSuc0v6KF2XqQpcpboKnD"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "Vanrip",
+          "url": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
+        },
+        {
+          "name": "WEiRD GRRL",
+          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "I Like You A Lot (feat. WEiRD GRRL)",
+      "url": "https://open.spotify.com/track/7nP9J6MXXAQk84LAMgymVT"
+    },
+    {
+      "album": {
         "name": "I Only Smoke When I Drink Remixes",
         "url": "https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd"
       },
@@ -9920,6 +9946,24 @@
       "duration_ms": 210923,
       "name": "In This Bih'",
       "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "album": {
+        "name": "Inconvenient",
+        "url": "https://open.spotify.com/album/2ytfet1wqsnrdvehfmDlI2"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "Inconvenient",
+      "url": "https://open.spotify.com/track/6NdMuMddcN1WN4ui6gVNGa"
     },
     {
       "album": {
@@ -17160,7 +17204,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 159821,
       "name": "Screen Time",
       "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
@@ -21862,7 +21906,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 129920,
       "name": "Without You",
       "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"

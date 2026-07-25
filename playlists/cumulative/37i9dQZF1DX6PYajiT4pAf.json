@@ -1428,10 +1428,6 @@
         {
           "name": "M\u00eda Berl\u00edn",
           "url": "https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX"
-        },
-        {
-          "name": "Hoonine",
-          "url": "https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp"
         }
       ],
       "date_added": "2026-07-23",
@@ -8058,6 +8054,24 @@
       "duration_ms": 143157,
       "name": "Angelitos",
       "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "album": {
@@ -35323,6 +35337,28 @@
     },
     {
       "album": {
+        "name": "El Suerte",
+        "url": "https://open.spotify.com/album/7fBWD3RRp04COdXAOdfLcI"
+      },
+      "artists": [
+        {
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "BASS.SEISMIC",
+          "url": "https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "El Suerte",
+      "url": "https://open.spotify.com/track/6hJtxZmZ5tVVoacLqjmrm9"
+    },
+    {
+      "album": {
         "name": "El sue\u00f1o dura una semana",
         "url": "https://open.spotify.com/album/7bKHcGcrUqX7NGE6pYH3Ol"
       },
@@ -59888,6 +59924,24 @@
       "duration_ms": 181211,
       "name": "Les Llevar\u00e9 Mi Cruz",
       "url": "https://open.spotify.com/track/6QIODBpsQuCjIrHZHJIhbF"
+    },
+    {
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "album": {
@@ -102759,6 +102813,24 @@
     },
     {
       "album": {
+        "name": "Afro Pal Cora",
+        "url": "https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR"
+      },
+      "artists": [
+        {
+          "name": "Kenneth",
+          "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
+    },
+    {
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/2SVzqGebFLxRrKjxrAEPqP"
       },
@@ -114022,24 +114094,6 @@
       "duration_ms": 191944,
       "name": "track 1",
       "url": "https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046"
-    },
-    {
-      "album": {
-        "name": "Afro Pal Cora",
-        "url": "https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR"
-      },
-      "artists": [
-        {
-          "name": "Kenneth",
-          "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
     },
     {
       "album": {

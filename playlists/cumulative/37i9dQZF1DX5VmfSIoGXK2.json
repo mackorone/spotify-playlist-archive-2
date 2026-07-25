@@ -1094,10 +1094,32 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 248397,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1xJkH2q9mG9f9zkaiPfzEJ"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/7j4mwG9YbL2uOLUbStN1pe"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Pont Neuf Records",
+          "url": "https://open.spotify.com/artist/7H8xmIsqR1CDy2RS0QKH6J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224622,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/1zKWhcQGThVeNvN8t4WMNC"
     },
     {
       "album": {
@@ -1909,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Jazz Is The Mattress",
+        "url": "https://open.spotify.com/album/6ChrScnB5DfJolm2TUy4Jw"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "I Love Lucid",
+      "url": "https://open.spotify.com/track/0VAd5XbJ8zR2YayYNdlz1w"
+    },
+    {
+      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -2556,7 +2596,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234105,
       "name": "Love is Here",
       "url": "https://open.spotify.com/track/6HLEYfLDzrhy720GRlQ5sA"

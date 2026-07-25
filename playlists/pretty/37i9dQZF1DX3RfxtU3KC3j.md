@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pinhani
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,707 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,699 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Olduğu Kadar](https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6) | 0:00 |
+| 1 | [Beni Çağır](https://open.spotify.com/track/16ij1AnlYuBWHMPQTJClBQ) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Olduğu Kadar](https://open.spotify.com/album/4TTHN0JYyFPwNtQS0UbDV6) | 3:01 |
 | 2 | [Ölürüm Daha İyi](https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Ölürüm Daha İyi](https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT) | 4:08 |
 | 3 | [Saat 03:00](https://open.spotify.com/track/47zV5DqclxWs3Yt4GAUvBL) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Saat 03:00](https://open.spotify.com/album/5ii4rIsN2qWA0DxVAPVInJ) | 3:24 |
 | 4 | [Öyle kolay aşık olmam \- Live @Bostancı Gösteri Merkezi 2024](https://open.spotify.com/track/21xuB62RVcjBvORTJGc3jZ) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [Live @ Bostancı Gösteri Merkezi 2024](https://open.spotify.com/album/3E5FrOiaGIAWexdy2DqLVp) | 3:28 |

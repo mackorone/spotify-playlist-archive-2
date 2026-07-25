@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,756 songs - 7 day 1 hr 56 min
+2,757 songs - 7 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2636,6 +2636,7 @@
 | [蒼穹のファンファーレ](https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [蒼穹のファンファーレ](https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ) | 5:18 | 2022-10-27 | 2023-01-13 |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-05 | 2024-07-19 |
 | [薄采ディスプレイ](https://open.spotify.com/track/5JwzDohzOAaz4ybdjc7p2Z) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [薄采ディスプレイ](https://open.spotify.com/album/7KAvTv1lGGFLGwXiYpYf6V) | 3:07 | 2025-06-24 | 2025-07-18 |
+| [螺旋 \- RASEN](https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [螺旋 \- RASEN](https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3) | 3:10 | 2026-07-24 |  |
 | [衝動](https://open.spotify.com/track/0jNLIKbHWdxhFlzNjSPkwg) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [衝動](https://open.spotify.com/album/1M0EikxMaRjQDfSxRXVdMm) | 4:08 | 2025-05-21 | 2025-07-09 |
 | [衝天](https://open.spotify.com/track/2q8MqgPevufTYXjFamHIuw) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [衝天](https://open.spotify.com/album/42tl64WVINS2Gj6bHBMMIc) | 4:17 | 2024-01-09 | 2024-03-27 |
 | [表情差分](https://open.spotify.com/track/4LO8CQz1adoWx0BbXopJb8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [表情差分](https://open.spotify.com/album/2Y7SRpiQObxi8VlGjHACTe) | 3:26 | 2024-10-08 | 2025-01-08 |

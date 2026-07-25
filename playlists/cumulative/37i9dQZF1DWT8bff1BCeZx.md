@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,060 songs - 2 day 22 hr 20 min
+1,061 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 | 2023-04-06 | 2023-05-16 |
 | [After The Storm](https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ) | [After The Storm](https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4) | 2:48 | 2026-03-27 |  |
 | [AGABA](https://open.spotify.com/track/5hXAJRds3U5MG6yxLuJoXp) | [Austin Ikpe King](https://open.spotify.com/artist/7u3fwJ5NE0zgHcwZwPIEa0), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz) | [AGABA](https://open.spotify.com/album/3pGN2oHv8WlKUWk8nm80nt) | 3:36 | 2025-02-14 | 2025-06-06 |
+| [AGABA](https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [AGABA](https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT) | 2:43 | 2026-07-24 |  |
 | [Agaba\(My daddy run it\)](https://open.spotify.com/track/1VGKNlz85roTgKnG24GXAJ) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye) | [A New Season](https://open.spotify.com/album/6LsiBRcp2nAtCSaD2ZRt4Q) | 3:03 | 2025-07-25 | 2025-08-22 |
 | [AGAIN](https://open.spotify.com/track/6bVjIiz5rcNW4RC3JHu4cy) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AGAIN](https://open.spotify.com/album/5KH83znc2361YpGjZjBwyw) | 3:18 | 2025-01-10 | 2025-02-28 |
 | [Again](https://open.spotify.com/track/3dasDAxhQpUu7OPQL1tOye) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Again](https://open.spotify.com/album/0dXEeBNXzUCMCrCdFfbe3P) | 2:51 | 2025-06-20 | 2025-11-14 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,185 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,165 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Dance Dance](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
+| 1 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 2 | [ENERGY](https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [ENERGY](https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P) | 3:35 |
 | 3 | [Dance Through The Night](https://open.spotify.com/track/5XwAMETdShq8LGnhYH6J6F) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Cherry](https://open.spotify.com/album/4vXwpz82nAfH45EFhT7UIq) | 4:23 |
 | 4 | [Wait a Minute](https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E) | [Wait a Minute](https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84) | 3:11 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Dongker
 
-1,644 songs - 4 day 8 hr 13 min
+1,645 songs - 4 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Di Akhir Perang](https://open.spotify.com/track/1tqPw8Hf88h24Bpt2SzuYE) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 3:58 | 2024-07-25 | 2024-09-27 |
 | [Di Bawah Hujan](https://open.spotify.com/track/5oDusjhp2lzjKsalkYH17T) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Di Bawah Hujan](https://open.spotify.com/album/6GbZiCFwMS9zDVrdhkXQsC) | 4:15 | 2025-01-23 | 2025-05-09 |
 | [Di Depan Mata](https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Di Depan Mata](https://open.spotify.com/album/6Ryjq3Sbvru0bQhzPZQRwC) | 2:37 | 2024-09-19 | 2024-11-15 |
+| [Di Garis Senja](https://open.spotify.com/track/3ch30lUlPPCHNn1n6wUA3A) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Di Garis Senja](https://open.spotify.com/album/29R6JbQWVPgB4epP6sbNSu) | 4:15 | 2026-07-24 |  |
 | [Di Luar Nalar](https://open.spotify.com/track/3urqoUNbUZ9a3ennQi4Pic) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Di Luar Nalar](https://open.spotify.com/album/6uPS33Zxd1eLzoP21DIsMj) | 3:03 | 2025-09-05 | 2025-10-17 |
 | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/track/10JW9o9lfFSTG7NDek5uRs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/album/4s7CBBNisdAhUM963JCduC) | 4:51 | 2025-09-11 | 2025-10-10 |
 | [Di Seberang](https://open.spotify.com/track/09ETXH3zL7XQfNwekbdoW1) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Di Seberang](https://open.spotify.com/album/5JaGAfCsaZgwjCKN5sVFvi) | 3:53 | 2026-07-16 |  |
@@ -1420,7 +1421,7 @@
 | [Sunda Strait](https://open.spotify.com/track/0ZwEdpsUqKOIkp0L8k4LB0) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Sunda Strait](https://open.spotify.com/album/5LDr3yKUSs94bs9QWgZTXR) | 4:48 | 2024-12-19 | 2025-02-14 |
 | [Sunny](https://open.spotify.com/track/3xDn55ZJ7rLVRHatqgLnKe) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Bapak](https://open.spotify.com/album/2UYAW0k92IScW5aI0ulo1E) | 4:25 | 2024-12-12 | 2025-02-14 |
 | [Sunyi Sepi](https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r) | [Sunyi Sepi](https://open.spotify.com/album/4dLOnpFp2eCcLZAObRKNce) | 4:20 | 2024-01-18 | 2024-02-09 |
-| [SUPER EKSIS](https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG) | 2:37 | 2026-03-26 |  |
+| [SUPER EKSIS](https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG) | 2:37 | 2026-03-26 | 2026-07-25 |
 | [Superstar Energy](https://open.spotify.com/track/2UYmdrge419TwaNMZbewoo) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Superstar](https://open.spotify.com/album/2XV8ANcTWdKw4KOU408W4L) | 2:50 | 2026-04-09 | 2026-05-08 |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-08-30 |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2024-01-18 | 2024-02-16 |

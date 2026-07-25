@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.",
-  "num_followers": 203380,
+  "num_followers": 203378,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQr352Kx54MmNR9TDHeQ871m6vl",
+  "snapshot_id": "AAAAAMxiB94MeoSokOsGer5EkeIJ9DJT",
   "tracks": [
     {
       "added_at": "2026-06-12 13:00:07",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-06-12 13:00:07",
       "album": {
-        "name": "Black Panther: Wakanda Forever (Original Score)",
-        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "We Know What You Whisper",
-      "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"
-    },
-    {
-      "added_at": "2026-06-12 13:00:07",
-      "album": {
         "name": "WandaVision: Episode 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N"
       },
@@ -1215,6 +1195,22 @@
       "duration_ms": 265760,
       "name": "Civil War",
       "url": "https://open.spotify.com/track/5UUZRLyBE80HsJWmnLM7A4"
+    },
+    {
+      "added_at": "2026-07-24 07:00:16",
+      "album": {
+        "name": "Logan (From \"Marvel's Wolverine\")",
+        "url": "https://open.spotify.com/album/1UljqvpAOZtw0vkAda75VG"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "duration_ms": 390773,
+      "name": "Logan - From \"Marvel's Wolverine\"",
+      "url": "https://open.spotify.com/track/38jLY8almdujt5nZy8rseO"
     },
     {
       "added_at": "2026-06-12 13:00:07",
@@ -1359,22 +1355,6 @@
       "duration_ms": 87746,
       "name": "Showtime, A-holes",
       "url": "https://open.spotify.com/track/35RaFNWvYLgutIP2sO8axR"
-    },
-    {
-      "added_at": "2026-06-12 13:00:07",
-      "album": {
-        "name": "Marvel Ambient",
-        "url": "https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV"
-      },
-      "artists": [
-        {
-          "name": "Disney Ambient",
-          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
-        }
-      ],
-      "duration_ms": 324042,
-      "name": "The Avengers",
-      "url": "https://open.spotify.com/track/50kH6x4oHnoYvbR84mmZrv"
     },
     {
       "added_at": "2026-06-12 13:00:07",

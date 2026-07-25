@@ -1583,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Midland - Country Night Remixes",
+        "url": "https://open.spotify.com/album/5f76YO2fVNooew3UEuoSBB"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        {
+          "name": "Country Night",
+          "url": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Drinkin\u2019 Problem - Country Night Remix",
+      "url": "https://open.spotify.com/track/4S7VVsQ9pUyelFuAfV3KlY"
+    },
+    {
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home) (feat. Miranda Lambert) [GOLDHOUSE Remix]",
         "url": "https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg"
       },

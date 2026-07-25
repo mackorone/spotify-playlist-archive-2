@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,384 likes - 1,773 songs - 4 day 3 hr 9 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,381 likes - 1,773 songs - 4 day 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 44 | [Solitude](https://open.spotify.com/track/5dvhzBH07dg8ouXgqEUP6s) | [Fraternal Twin](https://open.spotify.com/artist/3Q9iGL0GMpQIIr9iZKo8wQ) | [Solitude](https://open.spotify.com/album/0GEoTBIoqND2ZFPT3eXQwl) | 3:18 |
 | 45 | [weapon of light](https://open.spotify.com/track/2Zg6aCIr5ikRbOc5ommbAj) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i am your defender](https://open.spotify.com/album/0VjohUQgeXa1AiZTi2DRqv) | 3:02 |
 | 46 | [upside frown](https://open.spotify.com/track/0lMLxjZGoEh7dYcrG3rFoW) | [lor2mg](https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh), [Lilyotv](https://open.spotify.com/artist/76TGC6j5RSWafmbhmSaVOe) | [dinner and a movie](https://open.spotify.com/album/1TZJVFPeHQ1gvD8U2fBO1W) | 3:31 |
-| 47 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [No Other \- Loukeman Mix](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
+| 47 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU), [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [No Other \(Loukeman Mix\)](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
 | 48 | [White Claw Addict](https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [White Claw Addict](https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH) | 3:07 |
 | 49 | [Faded baby](https://open.spotify.com/track/60JSAFzEtIJF6QjdX7mTMs) | [ALLERGi](https://open.spotify.com/artist/7HTPju4hkpRIxnUY1dZglR) | [Faded baby](https://open.spotify.com/album/1rKAoaFEuQGKmt2R2JNSZD) | 2:29 |
 | 50 | [Sword](https://open.spotify.com/track/2a7zylxn8AhPOcBjAZs6mY) | [Lover](https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z) | [Sword](https://open.spotify.com/album/60nQ5fU7alFF9KrgymLwmM) | 3:19 |
@@ -111,9 +111,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 101 | [Roll Your Eyes](https://open.spotify.com/track/2BKBRG5McepdMMujdNLKZO) | [Dystopian Novels](https://open.spotify.com/artist/4g7ihrnl3RSAHuIyj4OuZg) | [Roll Your Eyes](https://open.spotify.com/album/6iI0Mw0rrBTLMxuzCoBAkh) | 3:35 |
 | 102 | [crumble](https://open.spotify.com/track/6d6iRsjVGz0JCKPeLAHP9m) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 4:50 |
 | 103 | [Unapologetic](https://open.spotify.com/track/6sRbfUtoczdWHnCSbFC60I) | [Cutie](https://open.spotify.com/artist/2tiGbTMtnhSD8axcCMoQHr) | [What, When, Why?](https://open.spotify.com/album/2bShhgVNmHvlZWgcvQDkO1) | 3:31 |
-| 104 | [Deep Side of Happiness](https://open.spotify.com/track/7cYwgujH4ojPVVeEQqKhRE) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:50 |
-| 105 | [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 |
-| 106 | [Mount Zero](https://open.spotify.com/track/2TvMDOgXSMEiOtB5U2YCHT) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Mount Zero](https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ) | 4:08 |
+| 104 | [Mount Zero](https://open.spotify.com/track/2TvMDOgXSMEiOtB5U2YCHT) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Mount Zero](https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ) | 4:08 |
+| 105 | [Deep Side of Happiness](https://open.spotify.com/track/7cYwgujH4ojPVVeEQqKhRE) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:50 |
+| 106 | [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 |
 | 107 | [Come Have Fun](https://open.spotify.com/track/0ACDDq0KldXwlaxkU3Av5U) | [Tran Uy Duc](https://open.spotify.com/artist/5YC6fY48HB7QIokxiFAN0B) | [ByyShh](https://open.spotify.com/album/7CUG4Qbwu2xTrNujefW6Hj) | 2:37 |
 | 108 | [Rubber](https://open.spotify.com/track/5uVZ5jHknYuCIqjEMprVED) | [Catherine Moan](https://open.spotify.com/artist/1j3eSDACLPhrEDYDkHYF9I) | [CM Ultra](https://open.spotify.com/album/6fBKWpcwyQpy1isSUxuQQi) | 3:18 |
 | 109 | [COMMANDO](https://open.spotify.com/track/4sXzWNUPmRsZSjyuHjd14W) | [geckoboy](https://open.spotify.com/artist/1jYptskqFddnS8OO8Izewj) | [COMMANDO](https://open.spotify.com/album/6LyL34vXT6zb6ZmdMvqQnN) | 3:00 |
@@ -126,13 +126,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 116 | [The Edge](https://open.spotify.com/track/3fun7B2a5JPq9DSi9Qe6vt) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Away](https://open.spotify.com/album/04kdpQjlvd44D63zSQ6PDi) | 3:07 |
 | 117 | [4 AM](https://open.spotify.com/track/3h8MEnX7yRyiBOzy2dGd44) | [Academie](https://open.spotify.com/artist/3vqiGqcA9RVxBV3vIjg2wg) | [4 AM](https://open.spotify.com/album/0oIzio1olXKhamTXEmTiIs) | 2:52 |
 | 118 | [A Million and One](https://open.spotify.com/track/1gFmDi1mjysyAkA7ho5nL6) | [tuftyhead](https://open.spotify.com/artist/0XdAZm6bPa9e2r1hN9PXit) | [A Million and One](https://open.spotify.com/album/0iGNVhcYQLWbckVCPv1yyd) | 3:33 |
-| 119 | [The Contender](https://open.spotify.com/track/7lk0n06ZRr5TQ58GkmMnDa) | [Far From It](https://open.spotify.com/artist/1KK0wshEe4sow1lbtDHBI2) | [The Contender](https://open.spotify.com/album/7potXX8bTPEIzi1meVJhVq) | 5:11 |
-| 120 | [I Really Got This](https://open.spotify.com/track/6ebMcsI0dGp0W0INZ45nvf) | [Nitzani](https://open.spotify.com/artist/6zfDyMuKSwogX6AP6M3lKY) | [I Really Got This](https://open.spotify.com/album/0yAW8cMS3ME0v4egDxFIIw) | 3:35 |
-| 121 | [Mermaid, Destroyed](https://open.spotify.com/track/1i07BkSYltQW0JBK3vc3AG) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 2:05 |
-| 122 | [Gallo Pinto](https://open.spotify.com/track/1tT0O8qhzKUEIkC8kKcnNG) | [Sooj](https://open.spotify.com/artist/517LeoSaavDbo5iyirBjBh) | [Crusher](https://open.spotify.com/album/4VN09iwXJc7pfKaEdGosru) | 2:10 |
-| 123 | [Wasted on the Real Thing](https://open.spotify.com/track/5a8khnHlRpxH3Uz0dH1eXu) | [DVC Refreshments](https://open.spotify.com/artist/7blHMuc0CaAXrklhsXbiDM) | [Hits Only](https://open.spotify.com/album/2Q1TneZZpJGVh8pK7jQsHA) | 2:43 |
-| 124 | [CHERRY](https://open.spotify.com/track/1yU2GzfkV1LkDrKdlhEApL) | [jasper dean](https://open.spotify.com/artist/1ouW7JSkh2PUybGJAoKGQ9) | [TOY COLLAGES](https://open.spotify.com/album/5H4oNyWj9uAk5TvEVvJB31) | 3:04 |
-| 125 | [My Time](https://open.spotify.com/track/6vLuAlznlR05Wo8J5RaLNq) | [Munroe](https://open.spotify.com/artist/4Mbdax3M77vU8I0mfH9Xa6) | [My Time](https://open.spotify.com/album/3kpQSN0Tr0kwyRcqodbX34) | 3:08 |
+| 119 | [I Really Got This](https://open.spotify.com/track/6ebMcsI0dGp0W0INZ45nvf) | [Nitzani](https://open.spotify.com/artist/6zfDyMuKSwogX6AP6M3lKY) | [I Really Got This](https://open.spotify.com/album/0yAW8cMS3ME0v4egDxFIIw) | 3:35 |
+| 120 | [Mermaid, Destroyed](https://open.spotify.com/track/1i07BkSYltQW0JBK3vc3AG) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V) | [The Voices Became Louder](https://open.spotify.com/album/7k459NSQumr4hllwcUKrJf) | 2:05 |
+| 121 | [Gallo Pinto](https://open.spotify.com/track/1tT0O8qhzKUEIkC8kKcnNG) | [Sooj](https://open.spotify.com/artist/517LeoSaavDbo5iyirBjBh) | [Crusher](https://open.spotify.com/album/4VN09iwXJc7pfKaEdGosru) | 2:10 |
+| 122 | [Wasted on the Real Thing](https://open.spotify.com/track/5a8khnHlRpxH3Uz0dH1eXu) | [DVC Refreshments](https://open.spotify.com/artist/7blHMuc0CaAXrklhsXbiDM) | [Hits Only](https://open.spotify.com/album/2Q1TneZZpJGVh8pK7jQsHA) | 2:43 |
+| 123 | [CHERRY](https://open.spotify.com/track/1yU2GzfkV1LkDrKdlhEApL) | [jasper dean](https://open.spotify.com/artist/1ouW7JSkh2PUybGJAoKGQ9) | [TOY COLLAGES](https://open.spotify.com/album/5H4oNyWj9uAk5TvEVvJB31) | 3:04 |
+| 124 | [My Time](https://open.spotify.com/track/6vLuAlznlR05Wo8J5RaLNq) | [Munroe](https://open.spotify.com/artist/4Mbdax3M77vU8I0mfH9Xa6) | [My Time](https://open.spotify.com/album/3kpQSN0Tr0kwyRcqodbX34) | 3:08 |
+| 125 | [The Contender](https://open.spotify.com/track/7lk0n06ZRr5TQ58GkmMnDa) | [Far From It](https://open.spotify.com/artist/1KK0wshEe4sow1lbtDHBI2) | [The Contender](https://open.spotify.com/album/7potXX8bTPEIzi1meVJhVq) | 5:11 |
 | 126 | [Sway](https://open.spotify.com/track/0ezB319p4GtRufunQzDxyY) | [teargloss](https://open.spotify.com/artist/7rih8AwOU2YqXNaciEFOYF) | [Sway](https://open.spotify.com/album/3ZlnnQGO40RgSL9VmG8CZ5) | 3:42 |
 | 127 | [Ash & Ink](https://open.spotify.com/track/17umtgxjmC7F8gLucMfIET) | [Pen Name](https://open.spotify.com/artist/6GA2JiwtXXJx5DlW9jlWj5) | [Ash & Ink](https://open.spotify.com/album/5wZH2cnbxUkNldhVFnlFjS) | 2:39 |
 | 128 | [Teen \(Cult\) Song](https://open.spotify.com/track/4oroeoHKTgDagNJhxgVnNW) | [Cel Ray](https://open.spotify.com/artist/4fXpuyGYwMlp3rhbAfKaXp) | [Teen \(Cult\) Song](https://open.spotify.com/album/4ZbdAa4Q47Oqq7TSU4fmHO) | 2:16 |
@@ -1782,4 +1782,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1772 | [i can't see enough of you](https://open.spotify.com/track/7oQqne3UbHEtkNA9Mwf7yv) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [i can't see enough of you](https://open.spotify.com/album/4eqqpCisNuftclFSmMHADa) | 3:04 |
 | 1773 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABMb0ol18h24pU3Bcaz10S+Udl2Dq5q`
+Snapshot ID: `AABMcVwVebS/9YYROc0uS7mboModQXMM`

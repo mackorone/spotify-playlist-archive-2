@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,994 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,016 likes - 64 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 52 | [Druga Sonata Za Violinu Solo U A\-Molu](https://open.spotify.com/track/3K7YkHqCJHA7OTPvdHeA1i) | [Ana Vidović](https://open.spotify.com/artist/7yXC9t8JOSJx6TkLZsl4sE) | [Gitara](https://open.spotify.com/album/2DKwha77ngWfSgAHmCxplF) | 21:27 |
 | 53 | [The Frog Galliard](https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Christoph Denoth](https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B) | [Mister Dowland's Midnight](https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd) | 2:10 |
 | 54 | [Hymne à l'amour](https://open.spotify.com/track/7233BUcS5dQ65F2b5pNMXN) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi) | [Chansons françaises \(Paris guitare\)](https://open.spotify.com/album/6Zp3lHvX486zv8iDPeeXR7) | 3:04 |
-| 55 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
+| 55 | [Jobim: Estrada do sol \(Arr\. Barbosa\-Lima for Guitar\)](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
 | 56 | [Concerto for Lute, 2 Violins and Continuo in D Major, RV 93 \- Arr\. for 4 Guitars: II\. Largo](https://open.spotify.com/track/0g3yuLnrlrpjgLe2xuxm5g) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Angel Romero](https://open.spotify.com/artist/6qqiGoXhL3gjX1QH6MgmdT), [Celedonio Romero](https://open.spotify.com/artist/3MrHF5OuH8MoEuzMI50rUf), [Celin Romero](https://open.spotify.com/artist/2gn4g9mmcTLNbHxTZCJs2n), [Pepe Romero](https://open.spotify.com/artist/2uaXicUC7B0nIKCFaxlTHj) | [Vivaldi: Guitar Concertos](https://open.spotify.com/album/0gAYmLP8jf2qhn3SNVMvy1) | 3:40 |
 | 57 | [Canciones Castellanas](https://open.spotify.com/track/3KgdTCMN9V5XPX7icisnyf) | [Regino Sáinz de la Maza](https://open.spotify.com/artist/4IDnRdiIVKS0ylECWh8t2V), [Franz Halász](https://open.spotify.com/artist/6u7TanQ3Tv1dx5RmaERfdV) | [Sáinz de la Maza: Guitar Music](https://open.spotify.com/album/3rMQ4eOWBraORsb3rCrN2z) | 5:20 |
 | 58 | [5 Preludes, W419, A419: No\. 3 in A Minor \(Homage to Bach\)](https://open.spotify.com/track/7padhK8jinHE5Fqup9iVgW) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Villa\-Lobos: 5 Preludes, W419, A419: No\. 3 in A Minor \(Homage to Bach\)](https://open.spotify.com/album/2AAoWsgK17tVxYCoGWOhXS) | 3:53 |

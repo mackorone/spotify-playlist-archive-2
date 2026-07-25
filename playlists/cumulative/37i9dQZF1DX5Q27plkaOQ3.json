@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 134400,
       "name": "AUTOPSY BUFFET",
       "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 144000,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/3yyM82APRc7v9P2jp4zjLE"
@@ -4764,6 +4764,24 @@
       "duration_ms": 267000,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/4w830kkbNwoqRJmHjYOObf"
+    },
+    {
+      "album": {
+        "name": "CAN'T STOP",
+        "url": "https://open.spotify.com/album/33ZnYAhSXClO7zAeO7xcN7"
+      },
+      "artists": [
+        {
+          "name": "MACHAKI",
+          "url": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157183,
+      "name": "CAN'T STOP",
+      "url": "https://open.spotify.com/track/7rqKlUgJtkENoL3zrDosq9"
     },
     {
       "album": {
@@ -7389,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "DEMONS",
+        "url": "https://open.spotify.com/album/5Rgk1I9d4fyLn2LtuHh8m1"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136137,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/4JygRQeEUffMc6oqn30sLK"
+    },
+    {
+      "album": {
         "name": "Deranged / Monster",
         "url": "https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd"
       },
@@ -7844,7 +7880,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 187428,
       "name": "DISAPPEAR",
       "url": "https://open.spotify.com/track/3UIEDcSUInPVybvw1Nb8S9"
@@ -11277,6 +11313,28 @@
     },
     {
       "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/2RvSm6uftORfVfSG5m7s8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Capochino",
+          "url": "https://open.spotify.com/artist/70qOCKE1NFO6q1a1pC0KRE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/66Eui7XZNesyQqYp4ilRci"
+    },
+    {
+      "album": {
         "name": "Fuckin' EP",
         "url": "https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6"
       },
@@ -11616,6 +11674,28 @@
       "duration_ms": 198400,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/3AcT4pRaCvKj6sDW57sgIS"
+    },
+    {
+      "album": {
+        "name": "GAME OVER",
+        "url": "https://open.spotify.com/album/2o3bJR5ZrLG1ssOLcOYyFY"
+      },
+      "artists": [
+        {
+          "name": "Ruvlo",
+          "url": "https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW"
+        },
+        {
+          "name": "DEADPAN",
+          "url": "https://open.spotify.com/artist/04Q7JlLCEGCDAO704OX1PA"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144214,
+      "name": "GAME OVER",
+      "url": "https://open.spotify.com/track/7AXFLGN486Pb4mrlGYLNqM"
     },
     {
       "album": {
@@ -15547,6 +15627,24 @@
     },
     {
       "album": {
+        "name": "KEY BINDZ EP",
+        "url": "https://open.spotify.com/album/6aFazRjmHYE8EzfH1GzvnO"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "KEY BINDZ",
+      "url": "https://open.spotify.com/track/4H1s29WgZoBscMwtkA7Ad3"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/4c2I0lXb3Elwvu0VmXV5Yl"
       },
@@ -17310,7 +17408,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -17690,6 +17788,24 @@
       "duration_ms": 185973,
       "name": "Militia",
       "url": "https://open.spotify.com/track/0uLNQ37cxlLaPBsbcgIpF3"
+    },
+    {
+      "album": {
+        "name": "Mince Machine",
+        "url": "https://open.spotify.com/album/4ETjarcP6dFPToSbIIEHJO"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123441,
+      "name": "Mince Machine",
+      "url": "https://open.spotify.com/track/2XsWJoUaTQPOpKAdALzU5Y"
     },
     {
       "album": {
@@ -18463,6 +18579,28 @@
     },
     {
       "album": {
+        "name": "Nekro",
+        "url": "https://open.spotify.com/album/7yThPuaDOoWUOa21M8w7il"
+      },
+      "artists": [
+        {
+          "name": "Dack Janiels",
+          "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0"
+        },
+        {
+          "name": "PYKE",
+          "url": "https://open.spotify.com/artist/0Gph5nn0pLUR8oT8t4j41d"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Nekro",
+      "url": "https://open.spotify.com/track/48YnJLdCqFsk5M9tebdiLE"
+    },
+    {
+      "album": {
         "name": "NEMESIS",
         "url": "https://open.spotify.com/album/2IFyAjow9cJ4Yl8AVa5Riz"
       },
@@ -19194,7 +19332,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 145655,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/2KESWHoHbeCKFia0mpEypg"
@@ -20706,7 +20844,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212173,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/7vVB0xtiC7aMcKXZS1RjaD"
@@ -21872,6 +22010,24 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "album": {
+        "name": "CHASING BUTTERFLIES",
+        "url": "https://open.spotify.com/album/0Te3lak8zKGWqxhrjq4XCC"
+      },
+      "artists": [
+        {
+          "name": "BLOSSM",
+          "url": "https://open.spotify.com/artist/3Mf2YIEhgMC2LXFVvxMtq1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190600,
+      "name": "PUT YOUR SOUL INTO IT",
+      "url": "https://open.spotify.com/track/0f3RGcfqEr3VLV8FUUUlps"
     },
     {
       "album": {
@@ -25265,6 +25421,28 @@
     },
     {
       "album": {
+        "name": "Smoke A Blunt",
+        "url": "https://open.spotify.com/album/5uqAel5S3BRtOuev1qjSX3"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Smoke A Blunt",
+      "url": "https://open.spotify.com/track/5GxEzGQRFTLfviMBRDGNXC"
+    },
+    {
+      "album": {
         "name": "Snake Plant",
         "url": "https://open.spotify.com/album/7ax6cMTG4sWOzPbSy5whCf"
       },
@@ -26190,7 +26368,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 200727,
       "name": "STAXX",
       "url": "https://open.spotify.com/track/080h3c3ydKABbGMbXuYF0r"
@@ -27092,6 +27270,28 @@
       "duration_ms": 193714,
       "name": "Symphony of the Dead",
       "url": "https://open.spotify.com/track/6xaRlWKa6wPQX2PqYFaD0z"
+    },
+    {
+      "album": {
+        "name": "Zero-G (remix album)",
+        "url": "https://open.spotify.com/album/1wni2CsfyjzpcwKkUD51hr"
+      },
+      "artists": [
+        {
+          "name": "The Widdler",
+          "url": "https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p"
+        },
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "System Failure - Ganja White Night remix",
+      "url": "https://open.spotify.com/track/2SKjbwzxy4t4mUbIGXM9qZ"
     },
     {
       "album": {
@@ -29944,7 +30144,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 198000,
       "name": "UNORTHODOX",
       "url": "https://open.spotify.com/track/1X1mMPPNA1Zs4s2oCImVBR"
@@ -29984,7 +30184,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"
@@ -30454,7 +30654,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209142,
       "name": "Walk With Giants",
       "url": "https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT"

@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-511 songs - 22 hr 14 min
+512 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [As You Are](https://open.spotify.com/track/51KaUzLKNm24PSwdK8MhVY) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [As You Are](https://open.spotify.com/album/3O9SKAOz5YQ95vIl6Z61xQ) | 2:21 | 2023-05-09 |  |
 | [Ashes](https://open.spotify.com/track/4Kplx8WHmzw9LQf1KJ5wsn) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Ashes](https://open.spotify.com/album/0oSLWXxvaW6B5aGlsiztAO) | 2:33 | 2023-01-19 |  |
 | [Assembly](https://open.spotify.com/track/7zlQxXh8k8p8eYDTG8Y14F) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Assembly](https://open.spotify.com/album/15PKjNUkwUcr8pm63ptaNz) | 2:36 | 2025-03-05 | 2025-04-05 |
+| [Atreyu](https://open.spotify.com/track/1VJXijBVp3uIY9JKNcu2cb) | [La Pix](https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD) | [Atreyu](https://open.spotify.com/album/4PmqHxy7yWp5tv3ThKivRf) | 3:11 | 2026-07-24 |  |
 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 | 2022-06-06 | 2025-11-06 |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2021-12-14 | 2025-07-09 |
 | [Autunno](https://open.spotify.com/track/43dynqhubswFLD0ymj7nDh) | [Henry Diamante](https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7) | [Autunno](https://open.spotify.com/album/0wsTch5IGxZ6JtG46Tu5ZO) | 2:23 | 2025-11-05 |  |

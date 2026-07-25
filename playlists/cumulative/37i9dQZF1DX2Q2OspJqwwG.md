@@ -2,9 +2,9 @@
 
 ### [Viral în România](https://open.spotify.com/playlist/37i9dQZF1DX2Q2OspJqwwG)
 
-> Un playlist \(foarte\) divers, cu tot ce e trending\. Alex Stamate, ce\-ai facut?!
+> Un playlist \(foarte\) divers, cu tot ce e viral și trending în România.
 
-546 songs - 1 day 3 hr 26 min
+547 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2024-07-01 | 2024-07-30 |
 | [Aladam](https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Aladam](https://open.spotify.com/album/1Z3urgmnh6CcrQVJU6xLtQ) | 2:12 | 2026-01-12 |  |
 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 | 2025-11-18 | 2025-11-25 |
-| [Alex Stamate](https://open.spotify.com/track/5efezXAjrQ7UnxzLXaOlXF) | [Laura Bălan](https://open.spotify.com/artist/0cNiZVWC2LrcN7aJFXefQS) | [Alex Stamate](https://open.spotify.com/album/0cgZ81xWRRfAafwTFrovtI) | 2:22 | 2026-07-08 |  |
+| [Alex Stamate](https://open.spotify.com/track/5efezXAjrQ7UnxzLXaOlXF) | [Laura Bălan](https://open.spotify.com/artist/0cNiZVWC2LrcN7aJFXefQS) | [Alex Stamate](https://open.spotify.com/album/0cgZ81xWRRfAafwTFrovtI) | 2:22 | 2026-07-08 | 2026-07-25 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-08 | 2026-05-27 |
 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 | 2025-07-15 |
 | [ALTCEVA](https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79) | [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ALTCEVA](https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo) | 3:06 | 2025-09-22 | 2025-09-30 |
@@ -434,6 +434,7 @@
 | [SELFWASH](https://open.spotify.com/track/61GJk5rl09EB2I0emL23Op) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [SELFWASH](https://open.spotify.com/album/6HT52mdjH6W85Ops4jxy5r) | 2:39 | 2025-04-28 | 2025-07-08 |
 | [Sexy Mama](https://open.spotify.com/track/4z5h3fgUkdoi6wDZ2UdwUD) | [Narcisa](https://open.spotify.com/artist/74orozagOAzYG0QOWrl4WV) | [Sexy Mama](https://open.spotify.com/album/76VQ3UlrG8JDAApoLcNIDO) | 2:54 | 2025-03-24 | 2025-04-08 |
 | [SHAKE IT TO THE MAX \(FLY\) \- REMIX](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [SHAKE IT TO THE MAX \(FLY\) \(REMIX\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-09-08 |  |
+| [She Loves Me](https://open.spotify.com/track/1urinBludWkonEVzM3coXh) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [Reggae Gold 2008](https://open.spotify.com/album/3GWkEWyR2VYVRodMfcPxbD) | 3:05 | 2026-07-20 |  |
 | [SHE WANNA DANCE](https://open.spotify.com/track/017lLMCoXyiJrwhu9DfqiQ) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB) | [SHE WANNA DANCE](https://open.spotify.com/album/5AGYEzwSZi1V753Cg17MmO) | 2:37 | 2025-11-10 | 2025-12-03 |
 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 | 2024-09-09 | 2024-10-23 |
 | [Show cu Banii](https://open.spotify.com/track/4tdmnkmIO0CC9XYfOjcJ6R) | [Luis Gabriel](https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82) | [Show cu Banii](https://open.spotify.com/album/0fR9ISgufBFlAS5ULYcuzp) | 2:36 | 2024-11-11 | 2024-11-26 |

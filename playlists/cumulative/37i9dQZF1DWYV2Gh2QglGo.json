@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Noah Bridgen",
+  "description": "The home of Canadian country music. Cover: Shania Twain",
   "name": "North Country",
   "tracks": [
     {
@@ -182,6 +182,44 @@
       "duration_ms": 181389,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
+    },
+    {
+      "album": {
+        "name": "Ah qu'on est ben icitte",
+        "url": "https://open.spotify.com/album/0oCiUimVaaN8JzhX0pFsL1"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Ah qu'on est ben icitte (feat. Olivier Couture)",
+      "url": "https://open.spotify.com/track/6AHJ086lGZXsp0tv9NCH5n"
     },
     {
       "album": {
@@ -1777,6 +1815,28 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232225,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K"
+    },
+    {
+      "album": {
         "name": "Chase My Whiskey",
         "url": "https://open.spotify.com/album/3KGPA5z9ScGNxZKvyoax1G"
       },
@@ -1936,6 +1996,24 @@
       "duration_ms": 238165,
       "name": "Coast to Coast",
       "url": "https://open.spotify.com/track/18fqq295kEELwCmgky7y9a"
+    },
+    {
+      "album": {
+        "name": "Coffee and Sleeping Pills",
+        "url": "https://open.spotify.com/album/04updCr8hscofd5QXfUtNc"
+      },
+      "artists": [
+        {
+          "name": "Cameron Nickerson",
+          "url": "https://open.spotify.com/artist/6GrNz0Cuzpd36vJflYPfIr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153042,
+      "name": "Coffee and Sleeping Pills",
+      "url": "https://open.spotify.com/track/6hGICwvDQylZO2cTr04Kzu"
     },
     {
       "album": {
@@ -4228,6 +4306,24 @@
       "duration_ms": 216477,
       "name": "Good Run",
       "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
+    },
+    {
+      "album": {
+        "name": "Wherever You Are Tonight",
+        "url": "https://open.spotify.com/album/2WIGWbniyxgcWmQsexir7F"
+      },
+      "artists": [
+        {
+          "name": "Pretty Archie",
+          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/48ZWvMokjKbGHpqL5DGWYF"
     },
     {
       "album": {
@@ -10821,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Spin Me Like a Record",
+        "url": "https://open.spotify.com/album/1DPDyhj2Rx2hwmvBUUX7Sn"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Spin Me Like a Record",
+      "url": "https://open.spotify.com/track/2o9MXcSYfubOQuqfxsLHlp"
+    },
+    {
+      "album": {
         "name": "Spiraling",
         "url": "https://open.spotify.com/album/1kQKRGY4GbruO2Ha1aIKOM"
       },
@@ -10951,6 +11065,24 @@
     },
     {
       "album": {
+        "name": "Stoned On You",
+        "url": "https://open.spotify.com/album/3h1ZdoAXhBhIXWu3mMwv8p"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205775,
+      "name": "Stoned On You",
+      "url": "https://open.spotify.com/track/4uOeXIgzdSjVKh5RZxoIOv"
+    },
+    {
+      "album": {
         "name": "Stop The Bleeding",
         "url": "https://open.spotify.com/album/790pZAVns4b9VzBL51NXfy"
       },
@@ -10984,6 +11116,24 @@
       "duration_ms": 169261,
       "name": "STRANGE",
       "url": "https://open.spotify.com/track/3br7VTxoKuhGTlWMQj1eLn"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
     },
     {
       "album": {
@@ -11867,6 +12017,24 @@
     },
     {
       "album": {
+        "name": "Three Long Hauls",
+        "url": "https://open.spotify.com/album/5QzcUoI5PLZMGJmxuyJbZR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Lindsay",
+          "url": "https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Three Long Hauls",
+      "url": "https://open.spotify.com/track/4q04AWjC1gGpuG2h1zpQD7"
+    },
+    {
+      "album": {
         "name": "TICKET TO RIDE",
         "url": "https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0"
       },
@@ -12092,6 +12260,24 @@
       "duration_ms": 164526,
       "name": "too hot to be sad",
       "url": "https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es"
+    },
+    {
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
     },
     {
       "album": {
@@ -12330,6 +12516,24 @@
       "duration_ms": 160730,
       "name": "Upside of Being Down",
       "url": "https://open.spotify.com/track/2qJN9RuKAZYXfMRynYMuXN"
+    },
+    {
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/5Qj5cxKct49whzhPBjWOkY"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190806,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5ErDbyx09sTi9WPXBgtaUT"
     },
     {
       "album": {

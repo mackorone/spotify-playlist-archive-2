@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190619,
+  "num_followers": 190609,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Room Of Love",
-        "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 299559,
-      "name": "Room Of Love",
-      "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Biotope",
         "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 168000,
       "name": "Biotope",
       "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Room Of Love",
+        "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 299559,
+      "name": "Room Of Love",
+      "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 345040,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "What Takes You Back",
-        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
       },
       "artists": [
         {
-          "name": "Zachary Bloemperk",
-          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
         }
       ],
-      "duration_ms": 275166,
-      "name": "What Takes You Back",
-      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+        "name": "What Takes You Back",
+        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
       "artists": [
         {
-          "name": "DeNohr",
-          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+          "name": "Zachary Bloemperk",
+          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
         }
       ],
-      "duration_ms": 160031,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
+      "duration_ms": 275166,
+      "name": "What Takes You Back",
+      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Never Again",
         "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 215253,
       "name": "walk the line",
       "url": "https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "So do I",
-        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
-      },
-      "artists": [
-        {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "So do I",
-      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+        "name": "i will be dead",
+        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
       },
       "artists": [
         {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+          "name": "sura sol",
+          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
         }
       ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
+      "duration_ms": 170500,
+      "name": "dance & giggle",
+      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "i will be dead",
-        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
       },
       "artists": [
         {
-          "name": "sura sol",
-          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
         }
       ],
-      "duration_ms": 170500,
-      "name": "dance & giggle",
-      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 160523,
       "name": "Something Ain't Right - Acoustic",
       "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "An Hour Per Day",
         "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 217646,
       "name": "An Hour Per Day",
       "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Silver Linings (Unplugged)",
+        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
+      },
+      "artists": [
+        {
+          "name": "Roufaida",
+          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Silver Linings - Unplugged",
+      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Silver Linings (Unplugged)",
-        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
-      },
-      "artists": [
-        {
-          "name": "Roufaida",
-          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Silver Linings - Unplugged",
-      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
-        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
-      },
-      "artists": [
-        {
-          "name": "Cero Ismael",
-          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
-        }
-      ],
-      "duration_ms": 217949,
-      "name": "EMBERS",
-      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 225595,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
+        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        }
+      ],
+      "duration_ms": 217949,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Kaleidoscope Eyes",
-        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
       "artists": [
         {
-          "name": "Kiki Annette",
-          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
         }
       ],
-      "duration_ms": 238542,
-      "name": "Kaleidoscope Eyes",
-      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1391,6 +1375,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Kaleidoscope Eyes",
+        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+      },
+      "artists": [
+        {
+          "name": "Kiki Annette",
+          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+        }
+      ],
+      "duration_ms": 238542,
+      "name": "Kaleidoscope Eyes",
+      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
       "artists": [
         {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
         }
       ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+      },
+      "artists": [
+        {
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
       },
       "artists": [
         {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
         }
       ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-07-17 14:00:09",

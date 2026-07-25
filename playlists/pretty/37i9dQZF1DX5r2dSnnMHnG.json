@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 15806,
+  "num_followers": 15809,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
+        "name": "Spring Is Gone by chance (2021)",
+        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Spring Is Gone by chance (2021)",
+      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 211000,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
-        "name": "Spring Is Gone by chance (2021)",
-        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Spring Is Gone by chance (2021)",
-      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "\uc0ac\ub791\ud55c\ub300",
-        "url": "https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 291902,
-      "name": "\uc0ac\ub791\ud55c\ub300",
-      "url": "https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
         "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 204266,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "\uc0ac\ub791\ud55c\ub300",
+        "url": "https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 291902,
+      "name": "\uc0ac\ub791\ud55c\ub300",
+      "url": "https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq"
     },
     {
       "added_at": "2026-04-25 04:24:32",

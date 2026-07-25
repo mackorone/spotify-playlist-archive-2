@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Lily Meola",
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
   "name": "Renegades",
   "tracks": [
     {
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 186680,
       "name": "Build It Up",
       "url": "https://open.spotify.com/track/4yezCs6aM4dTqIzP8C9Co9"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210650,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
@@ -4278,6 +4278,24 @@
       "duration_ms": 203859,
       "name": "False Start",
       "url": "https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq"
+    },
+    {
+      "album": {
+        "name": "Famous to You",
+        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216261,
+      "name": "Famous to You",
+      "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
     },
     {
       "album": {
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209748,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
@@ -7550,7 +7568,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 215182,
       "name": "Lose A Friend",
       "url": "https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk"
@@ -8794,6 +8812,24 @@
       "duration_ms": 287999,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
+      "album": {
+        "name": "The Nomad",
+        "url": "https://open.spotify.com/album/6OSGtvY63VG5S2s444EkBo"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223299,
+      "name": "Not Apart",
+      "url": "https://open.spotify.com/track/57yByCEjVUxaLzmZdf7Kyr"
     },
     {
       "album": {
@@ -10086,6 +10122,24 @@
       "duration_ms": 281853,
       "name": "Rise from the Wreck",
       "url": "https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt"
+    },
+    {
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/3Mw5K8ByhIiVND1nC4Zlga"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107847,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/0EiVdlkNK8fgHVFrgkBxsY"
     },
     {
       "album": {
@@ -12248,6 +12302,24 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
     },
     {
       "album": {

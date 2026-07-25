@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like sad hour, with panicbaby",
+  "description": "heartbreak feels good in a place like sad hour, with Lexi Jayde",
   "name": "sad hour",
   "tracks": [
+    {
+      "album": {
+        "name": "\"forever\"",
+        "url": "https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK"
+      },
+      "artists": [
+        {
+          "name": "Alicia Moffet",
+          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210263,
+      "name": "\"forever\"",
+      "url": "https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW"
+    },
     {
       "album": {
         "name": "$82 at Erewhon",
@@ -258,7 +276,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194474,
       "name": "29",
       "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
@@ -1483,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39"
+    },
+    {
+      "album": {
         "name": "Best Friend Breakup",
         "url": "https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL"
       },
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 231724,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
@@ -1906,6 +1942,24 @@
       "duration_ms": 213583,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY"
+    },
+    {
+      "album": {
+        "name": "spilling my guts",
+        "url": "https://open.spotify.com/album/7phn0SadS5635xhyXthk02"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148304,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton"
     },
     {
       "album": {
@@ -2270,7 +2324,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 253874,
       "name": "Broke Your Heart",
       "url": "https://open.spotify.com/track/3INVv3fgwpvj123CokTuYD"
@@ -2696,7 +2750,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153666,
       "name": "Castle in Hollywood",
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
@@ -3454,6 +3508,24 @@
       "duration_ms": 193471,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/2hMWi3NNNyQbXo0MtrC1ST"
+    },
+    {
+      "album": {
+        "name": "TRISTAN1",
+        "url": "https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2"
+      },
+      "artists": [
+        {
+          "name": "Tristan",
+          "url": "https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237663,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/4oT51TvKioioao01lzE8vO"
     },
     {
       "album": {
@@ -4362,7 +4434,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
@@ -5242,7 +5314,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
@@ -5318,7 +5390,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
@@ -5870,7 +5942,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 226977,
       "name": "GET OVER YOU",
       "url": "https://open.spotify.com/track/7nHpagU4k99UCyPHpoQxed"
@@ -7106,7 +7178,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 231267,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
@@ -8810,7 +8882,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 287500,
       "name": "I'm Glad We Met",
       "url": "https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh"
@@ -8925,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "i've missed you longer",
+        "url": "https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "i've missed you longer",
+      "url": "https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj"
+    },
+    {
+      "album": {
         "name": "if depression gets the best of me",
         "url": "https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE"
       },
@@ -9026,7 +9116,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190998,
       "name": "If I Had Never Lost My Mind...",
       "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
@@ -9152,7 +9242,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
@@ -9806,7 +9896,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
@@ -9954,6 +10044,24 @@
       "duration_ms": 198053,
       "name": "Just Married",
       "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
+    },
+    {
+      "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "album": {
@@ -10484,7 +10592,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176253,
       "name": "Liar Out Of Me",
       "url": "https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE"
@@ -11444,7 +11552,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
@@ -11466,6 +11574,24 @@
       "duration_ms": 148151,
       "name": "Lovesong 2",
       "url": "https://open.spotify.com/track/1PoE4D8hQ6zwQrTvlH2OTp"
+    },
+    {
+      "album": {
+        "name": "loving you is",
+        "url": "https://open.spotify.com/album/6odnsiI90CwKQEduRA4Cek"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204763,
+      "name": "loving you is",
+      "url": "https://open.spotify.com/track/7KbwHZgHU3aBGbAVQ7mbzM"
     },
     {
       "album": {
@@ -11714,7 +11840,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
@@ -12017,6 +12143,24 @@
     },
     {
       "album": {
+        "name": "Miss Us",
+        "url": "https://open.spotify.com/album/63vG8L5oT4GogDnlMqXbQv"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Miss Us",
+      "url": "https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc"
+    },
+    {
+      "album": {
         "name": "MISS YOU TONIGHT",
         "url": "https://open.spotify.com/album/7MgFA0gthBUiUERfWt78lD"
       },
@@ -12082,7 +12226,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 201083,
       "name": "Moral of the Story",
       "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
@@ -13196,7 +13340,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 195149,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9"
@@ -13416,7 +13560,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 229346,
       "name": "Over (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
@@ -14050,7 +14194,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 178000,
       "name": "Pray",
       "url": "https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV"
@@ -14180,6 +14324,24 @@
       "duration_ms": 150840,
       "name": "Recover From",
       "url": "https://open.spotify.com/track/3Owg4E2Liitys4sz447Szf"
+    },
+    {
+      "album": {
+        "name": "relapse",
+        "url": "https://open.spotify.com/album/3Xlls9vCfkFRNgvTrqk1zZ"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203211,
+      "name": "relapse",
+      "url": "https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T"
     },
     {
       "album": {
@@ -15334,7 +15496,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217263,
       "name": "Some Protector",
       "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
@@ -16280,7 +16442,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 299306,
       "name": "The Cycle",
       "url": "https://open.spotify.com/track/7Gpy68Fv4rO62Q8S0zCcR3"
@@ -16584,7 +16746,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -16782,7 +16944,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
@@ -17994,7 +18156,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 149562,
       "name": "walking contradiction",
       "url": "https://open.spotify.com/track/1M9ojFPLrZO5AdoZzaOI2Q"
@@ -18102,7 +18264,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
@@ -18138,7 +18300,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175075,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
@@ -18344,7 +18506,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 234080,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
@@ -18456,6 +18618,24 @@
       "duration_ms": 176456,
       "name": "When I Hate Myself",
       "url": "https://open.spotify.com/track/4UHp0zxbh8ft26PSigDO0f"
+    },
+    {
+      "album": {
+        "name": "When I Lose You",
+        "url": "https://open.spotify.com/album/7ep9mk1hkx3ACOwyFFwQTk"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "When I Lose You",
+      "url": "https://open.spotify.com/track/0B95pBce3F6JJS0EnasNYZ"
     },
     {
       "album": {
@@ -19130,7 +19310,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
@@ -19314,7 +19494,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
@@ -19350,7 +19530,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 163850,
       "name": "You Don't Look At Me The Same",
       "url": "https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN"

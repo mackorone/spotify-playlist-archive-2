@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover:  Madeline Edwards\n",
+  "description": "Rising voices, enduring roots. Cover:  Fabrizio",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 164901,
       "name": "Adam Up There - acoustic",
       "url": "https://open.spotify.com/track/1b8EmfBy831Vf70wBXtPJd"
@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "CAN'T HIDE",
+        "url": "https://open.spotify.com/album/5kbOA6kdpu31amOOWIrcq5"
+      },
+      "artists": [
+        {
+          "name": "May Erlewine",
+          "url": "https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW"
+        },
+        {
+          "name": "10 Good Songs",
+          "url": "https://open.spotify.com/artist/0ZHYWjY4CjSi7BHBiuw3QN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241557,
+      "name": "CAN'T HIDE",
+      "url": "https://open.spotify.com/track/1Ru1bqn4oqkrgKA7GiBovn"
+    },
+    {
+      "album": {
         "name": "Can't Hold A Candle To",
         "url": "https://open.spotify.com/album/58XxW10On4MrmgPyxARAyx"
       },
@@ -1350,6 +1372,24 @@
       "duration_ms": 160000,
       "name": "Deland",
       "url": "https://open.spotify.com/track/2ogQbcBM3mlIAWsgAfkxdI"
+    },
+    {
+      "album": {
+        "name": "Deportee",
+        "url": "https://open.spotify.com/album/4c2iBfpwmcm5OmqTYHPFZP"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277800,
+      "name": "Deportee",
+      "url": "https://open.spotify.com/track/1gnAsfDVhlNeUq2A8o9S7f"
     },
     {
       "album": {
@@ -2633,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Heard",
+        "url": "https://open.spotify.com/album/5FB8eDiVg9m6k7omAJLvML"
+      },
+      "artists": [
+        {
+          "name": "Jacob Sharp",
+          "url": "https://open.spotify.com/artist/7rAqCeLrJNATPpQ0uc3Y4S"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306346,
+      "name": "Heard",
+      "url": "https://open.spotify.com/track/6XvVa3yz4hSlHNqts58tFE"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/53hx8BfYkI2rtwvPApz28E"
       },
@@ -3066,7 +3124,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 217593,
       "name": "I Went to the Levee",
       "url": "https://open.spotify.com/track/3muN3Ligfjws6oPgUtTpAQ"
@@ -3601,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "RECOVERY",
+        "url": "https://open.spotify.com/album/4ePLNi3bmKTJAYvAgcZc8l"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio",
+          "url": "https://open.spotify.com/artist/0PFfIFgLmqHJOlRocks9Cr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Let Being Sober Be Your Cure",
+      "url": "https://open.spotify.com/track/22fHxcpB9XDGw0o2asLdgm"
+    },
+    {
+      "album": {
         "name": "Let's Get Stoned",
         "url": "https://open.spotify.com/album/5DHSZKoCNfSpBn3HL8hwnn"
       },
@@ -3692,6 +3768,24 @@
       "duration_ms": 205108,
       "name": "Little Birds",
       "url": "https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr"
+    },
+    {
+      "album": {
+        "name": "Little Boxes",
+        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273241,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
     },
     {
       "album": {
@@ -4990,7 +5084,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 180736,
       "name": "Pink Anymore",
       "url": "https://open.spotify.com/track/4LIyYGfH1cXmzkwT9gV15P"
@@ -5012,6 +5106,24 @@
       "duration_ms": 210733,
       "name": "Playing Fetch",
       "url": "https://open.spotify.com/track/5FSdDpJ2O30Jp7Ec8JYKR2"
+    },
+    {
+      "album": {
+        "name": "Ponte Vedra Sunrise",
+        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Ponte Vedra Sunrise",
+      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
     },
     {
       "album": {
@@ -6212,7 +6324,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204165,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/20CO59KPZJyGljPDqUgZOw"
@@ -6490,7 +6602,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 213880,
       "name": "The Way I Remember You",
       "url": "https://open.spotify.com/track/5BWZekLzOuISSPWBXr94Rc"
@@ -7036,7 +7148,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 224466,
       "name": "We're All Good",
       "url": "https://open.spotify.com/track/5OwsUX0ycNCeY39sxp0c81"

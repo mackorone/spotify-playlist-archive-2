@@ -1,13 +1,133 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: MORTEN &amp; David Guetta",
-  "num_followers": 31481,
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Gryffin, BUNT., In\u00e9z",
+  "num_followers": 31480,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwuBt60KQec2cMTNyjoh2zfBzobfyt",
+  "snapshot_id": "AAAww0x0WwPRsx1Pzfbepaorg7nNlz5m",
   "tracks": [
+    {
+      "added_at": "2026-07-24 06:39:57",
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-07-24 06:39:57",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 179531,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
+    },
+    {
+      "added_at": "2026-07-24 06:39:57",
+      "album": {
+        "name": "Only Us",
+        "url": "https://open.spotify.com/album/7c6BZ3cZFucSffhgOTyzuj"
+      },
+      "artists": [
+        {
+          "name": "Deco (BE)",
+          "url": "https://open.spotify.com/artist/4gOdhyPkfWcGe3T5r0Y0fP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/2WvM5UGJzzCCvgYSLBr3ut"
+    },
+    {
+      "added_at": "2026-07-24 06:40:51",
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/2u5EOlY8jtEvnbkoGnqDaS"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        }
+      ],
+      "duration_ms": 188260,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/4Z1iYzw4E1OOsJlESasSdc"
+    },
+    {
+      "added_at": "2026-07-24 06:40:22",
+      "album": {
+        "name": "THE SYMPHONY IS ALIVE",
+        "url": "https://open.spotify.com/album/6p3Szf8xMWUB9zHInaqT4N"
+      },
+      "artists": [
+        {
+          "name": "TWIIG",
+          "url": "https://open.spotify.com/artist/3CShHu0KxcIhKMmg6IaXN0"
+        },
+        {
+          "name": "LYNDO",
+          "url": "https://open.spotify.com/artist/2kcD7cVLNL083jM1gk3g58"
+        }
+      ],
+      "duration_ms": 124503,
+      "name": "THE SYMPHONY IS ALIVE",
+      "url": "https://open.spotify.com/track/6hwhXsW4vcqTZ6YgfFxf4w"
+    },
+    {
+      "added_at": "2026-07-24 06:40:34",
+      "album": {
+        "name": "Techno Shaman",
+        "url": "https://open.spotify.com/album/3X49dzYMuNh0OI9LSbJPqq"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Techno Shaman",
+      "url": "https://open.spotify.com/track/6PGIRm9qOP11mvZ9BjECLX"
+    },
     {
       "added_at": "2026-07-17 06:41:17",
       "album": {

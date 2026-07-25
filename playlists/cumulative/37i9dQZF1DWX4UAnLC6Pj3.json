@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! To\u00f1o Lizarraga \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva y Xavi \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 128409,
       "name": "Agu\u00e1ntame",
       "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
@@ -508,6 +508,24 @@
       "duration_ms": 190767,
       "name": "Alergico Al Amor",
       "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+    },
+    {
+      "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145562,
+      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
     },
     {
       "album": {
@@ -2631,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
+      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+    },
+    {
+      "album": {
         "name": "Cuando Estuvo Entre Mis Brazos",
         "url": "https://open.spotify.com/album/3qzTvQTBG1HEQPM1tBZ71p"
       },
@@ -3347,6 +3383,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jese Querer",
+        "url": "https://open.spotify.com/album/1LBfSR6f9VY1Q6pPaALXW3"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132722,
+      "name": "D\u00e9jese Querer",
+      "url": "https://open.spotify.com/track/21MStpNy1zVsIhpizMuoPW"
+    },
+    {
+      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -3365,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Ebrio de amor",
+        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Ebrio de amor",
+      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
+    },
+    {
+      "album": {
         "name": "Que Empiece La Borrachera (En Vivo)",
         "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
       },
@@ -3376,7 +3452,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 175250,
       "name": "Ebrio De Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k"
@@ -3630,7 +3706,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189637,
       "name": "El Borrego Cacheton",
       "url": "https://open.spotify.com/track/5ZUAFgO70n1A5Qm9e8GV7s"
@@ -4233,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "El Mando De Los Aretes",
+        "url": "https://open.spotify.com/album/7EWoxgO1BkEc0r3Tb9VoLz"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133984,
+      "name": "El Mando De Los Aretes",
+      "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
+    },
+    {
+      "album": {
         "name": "El Moyo",
         "url": "https://open.spotify.com/album/3EMeK6okfqjkFsbv9kezf9"
       },
@@ -4630,7 +4724,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 827509,
       "name": "El Sinaloense, La cuichi, Tamarindo, Camaron Pelado - En Vivo",
       "url": "https://open.spotify.com/track/4ETP4mqFWC9BYdphJXGJsc"
@@ -5635,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131645,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
+    },
+    {
+      "album": {
         "name": "Hola Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
@@ -6452,7 +6564,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 170468,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
@@ -6692,7 +6804,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 131015,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo"
@@ -7016,6 +7128,24 @@
       "duration_ms": 174760,
       "name": "Lo Que No Es Pa' Uno",
       "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
+    },
+    {
+      "album": {
+        "name": "Lo Reconozco",
+        "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
+      },
+      "artists": [
+        {
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190482,
+      "name": "Lo Reconozco",
+      "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
     },
     {
       "album": {
@@ -7774,7 +7904,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223829,
       "name": "Mente Ocupada",
       "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
@@ -8293,6 +8423,24 @@
     },
     {
       "album": {
+        "name": "Mira Beb\u00e9",
+        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161797,
+      "name": "Mira Beb\u00e9",
+      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
+    },
+    {
+      "album": {
         "name": "Sin Miedo Al \u00c9xito",
         "url": "https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i"
       },
@@ -8380,7 +8528,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 225170,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
@@ -8779,6 +8927,24 @@
     },
     {
       "album": {
+        "name": "No He Avanzado Nada",
+        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160605,
+      "name": "No He Avanzado Nada",
+      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
+    },
+    {
+      "album": {
         "name": "No Le Digas",
         "url": "https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd"
       },
@@ -8882,6 +9048,24 @@
       "duration_ms": 213762,
       "name": "No Me Aprovechaste",
       "url": "https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD"
+    },
+    {
+      "album": {
+        "name": "No Me Conoces A\u00fan",
+        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
     },
     {
       "album": {
@@ -9988,7 +10172,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
@@ -11162,7 +11346,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr"
@@ -12596,7 +12780,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209548,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24"
@@ -14880,6 +15064,28 @@
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
+      },
+      "artists": [
+        {
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219922,
+      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
     },
     {
       "album": {

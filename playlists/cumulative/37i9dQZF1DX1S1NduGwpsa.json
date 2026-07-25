@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: aron!",
+  "description": "The best jazz new releases. Cover: Branford Marsalis & Dianne Reeves",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -116,6 +116,24 @@
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/3qQ3aaXoYtgZhlAUdds7Ce"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "74",
+      "url": "https://open.spotify.com/track/0Q3OH3cBM3pZLU8vaPtsL6"
     },
     {
       "album": {
@@ -1454,6 +1472,28 @@
       "duration_ms": 266719,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
+    },
+    {
+      "album": {
+        "name": "azur",
+        "url": "https://open.spotify.com/album/4tTpPeS7Iw6mWbDd6FNF2r"
+      },
+      "artists": [
+        {
+          "name": "cezanne",
+          "url": "https://open.spotify.com/artist/4bNudtyn4yd44nhew3jnJS"
+        },
+        {
+          "name": "Sabres",
+          "url": "https://open.spotify.com/artist/2ICOorx8dIb9Fq4pIHSNcm"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136217,
+      "name": "azur",
+      "url": "https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz"
     },
     {
       "album": {
@@ -5572,7 +5612,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 307161,
       "name": "Eternal Child",
       "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
@@ -8290,7 +8330,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 220240,
       "name": "I'm In Trouble (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP"
@@ -9924,7 +9964,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 169793,
       "name": "Le Bracelet",
       "url": "https://open.spotify.com/track/4qaRroBSIJYMYtJvJ9rwKY"
@@ -11280,7 +11320,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
@@ -18733,6 +18773,28 @@
     },
     {
       "album": {
+        "name": "They Say It\u2019s Wonderful",
+        "url": "https://open.spotify.com/album/2iBKWX5liHaLZg39QeARBW"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388556,
+      "name": "They Say It\u2019s Wonderful",
+      "url": "https://open.spotify.com/track/5u87O1gmKcbUUrbskpaC5K"
+    },
+    {
+      "album": {
         "name": "This Can\u2019t Be Love",
         "url": "https://open.spotify.com/album/4xgokFaDIEPv71Wq8D36u7"
       },
@@ -19714,6 +19776,24 @@
       "duration_ms": 352160,
       "name": "Venezuela",
       "url": "https://open.spotify.com/track/5MiroiiGhMht59cRjD3Ldj"
+    },
+    {
+      "album": {
+        "name": "Vi M\u00f6ts I Parken",
+        "url": "https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Vi M\u00f6ts I Parken",
+      "url": "https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9"
     },
     {
       "album": {

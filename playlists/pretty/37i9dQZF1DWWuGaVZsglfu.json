@@ -1,12 +1,12 @@
 {
-  "description": "The best tracks from the world of music. Cover: no na",
-  "num_followers": 470525,
+  "description": "The best tracks from the world of music. Cover: Aziz Harun",
+  "num_followers": 470474,
   "original_name": "Hot Hits Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVCPSYQ5kLdHa4el91o4zDpvDcE",
+  "snapshot_id": "AAAAAEydNJ1B4Zncdu6hINO32N9NuNH3",
   "tracks": [
     {
       "added_at": "2026-07-17 04:01:51",
@@ -75,6 +75,38 @@
     {
       "added_at": "2026-07-17 04:01:51",
       "album": {
+        "name": "Telepati",
+        "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Telepati",
+      "url": "https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB"
+    },
+    {
+      "added_at": "2026-07-17 04:01:51",
+      "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
+    },
+    {
+      "added_at": "2026-07-17 04:01:51",
+      "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
       },
@@ -121,6 +153,22 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
+      "added_at": "2026-07-24 04:01:58",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
       "added_at": "2026-07-17 04:01:51",
       "album": {
         "name": "the cure",
@@ -151,22 +199,6 @@
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
-      "added_at": "2026-07-17 04:01:51",
-      "album": {
-        "name": "Telepati",
-        "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
-      },
-      "artists": [
-        {
-          "name": "Aziz Harun",
-          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
-        }
-      ],
-      "duration_ms": 246903,
-      "name": "Telepati",
-      "url": "https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB"
     },
     {
       "added_at": "2026-07-17 04:01:51",
@@ -203,6 +235,22 @@
     {
       "added_at": "2026-07-17 04:01:51",
       "album": {
+        "name": "Surat",
+        "url": "https://open.spotify.com/album/0GvXoWLm3nHmhdRRGU5Va2"
+      },
+      "artists": [
+        {
+          "name": "DUKES",
+          "url": "https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER"
+        }
+      ],
+      "duration_ms": 244347,
+      "name": "Surat",
+      "url": "https://open.spotify.com/track/6j8RydwEuVXo6sm37vzsKn"
+    },
+    {
+      "added_at": "2026-07-17 04:01:51",
+      "album": {
         "name": "iqro'",
         "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
       },
@@ -219,18 +267,22 @@
     {
       "added_at": "2026-07-17 04:01:51",
       "album": {
-        "name": "Surat",
-        "url": "https://open.spotify.com/album/0GvXoWLm3nHmhdRRGU5Va2"
+        "name": "Adek Saye Abe Sore",
+        "url": "https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf"
       },
       "artists": [
         {
-          "name": "DUKES",
-          "url": "https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER"
+          "name": "Eda Ezrin",
+          "url": "https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W"
+        },
+        {
+          "name": "Den Manjo",
+          "url": "https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9"
         }
       ],
-      "duration_ms": 244347,
-      "name": "Surat",
-      "url": "https://open.spotify.com/track/6j8RydwEuVXo6sm37vzsKn"
+      "duration_ms": 253941,
+      "name": "Adek Saye Abe Sore",
+      "url": "https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm"
     },
     {
       "added_at": "2026-07-17 04:01:51",
@@ -259,26 +311,6 @@
     {
       "added_at": "2026-07-17 04:01:51",
       "album": {
-        "name": "Adek Saye Abe Sore",
-        "url": "https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf"
-      },
-      "artists": [
-        {
-          "name": "Eda Ezrin",
-          "url": "https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W"
-        },
-        {
-          "name": "Den Manjo",
-          "url": "https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9"
-        }
-      ],
-      "duration_ms": 253941,
-      "name": "Adek Saye Abe Sore",
-      "url": "https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm"
-    },
-    {
-      "added_at": "2026-07-17 04:01:51",
-      "album": {
         "name": "\u50cf\u6c34\u4e00\u6837",
         "url": "https://open.spotify.com/album/1EPbDAs94C0h5WcfQb8g7t"
       },
@@ -299,6 +331,22 @@
     {
       "added_at": "2026-07-17 04:01:51",
       "album": {
+        "name": "Gila Bayang",
+        "url": "https://open.spotify.com/album/7kK3k9vMCTC3XIvVqitUD2"
+      },
+      "artists": [
+        {
+          "name": "Ammar Haikal",
+          "url": "https://open.spotify.com/artist/6vBShxc5LR2M7DS6YYk9Yh"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Gila Bayang",
+      "url": "https://open.spotify.com/track/2IuAckXwlp3GUOD812FDSC"
+    },
+    {
+      "added_at": "2026-07-17 04:01:51",
+      "album": {
         "name": "Look at My Life",
         "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
       },
@@ -311,22 +359,6 @@
       "duration_ms": 190533,
       "name": "Look at My Life",
       "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-07-17 04:01:51",
-      "album": {
-        "name": "Teh Hijau",
-        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 212879,
-      "name": "Teh Hijau",
-      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
     },
     {
       "added_at": "2026-07-17 04:01:51",
@@ -391,22 +423,6 @@
       "duration_ms": 253043,
       "name": "Cuba Jadi Aku",
       "url": "https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm"
-    },
-    {
-      "added_at": "2026-07-17 04:01:51",
-      "album": {
-        "name": "Gila Bayang",
-        "url": "https://open.spotify.com/album/7kK3k9vMCTC3XIvVqitUD2"
-      },
-      "artists": [
-        {
-          "name": "Ammar Haikal",
-          "url": "https://open.spotify.com/artist/6vBShxc5LR2M7DS6YYk9Yh"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Gila Bayang",
-      "url": "https://open.spotify.com/track/2IuAckXwlp3GUOD812FDSC"
     },
     {
       "added_at": "2026-07-17 04:01:51",
@@ -699,26 +715,6 @@
       "duration_ms": 230130,
       "name": "Sedia Aku Sebelum Hujan",
       "url": "https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT"
-    },
-    {
-      "added_at": "2026-07-17 04:01:51",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "added_at": "2026-07-17 04:01:51",

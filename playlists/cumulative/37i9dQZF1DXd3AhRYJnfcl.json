@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Habeitek",
+        "url": "https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169828,
+      "name": "Habeitek",
+      "url": "https://open.spotify.com/track/6SBni17Jkrxzkc27ufK0Ec"
+    },
+    {
+      "album": {
         "name": "Habitha Ya Nas (From Bhabak)",
         "url": "https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS"
       },

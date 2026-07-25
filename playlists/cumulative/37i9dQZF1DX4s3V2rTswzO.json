@@ -1905,6 +1905,40 @@
     },
     {
       "album": {
+        "name": "Romeo & Juliet: Love Theme",
+        "url": "https://open.spotify.com/album/6O2TYgMqSnpeLOWVpGfB44"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198443,
+      "name": "Romeo & Juliet: Love Theme",
+      "url": "https://open.spotify.com/track/4c5aNQ9PtLe984W0ibPf5E"
+    },
+    {
+      "album": {
         "name": "Debussy: Complete Works for Solo Piano, Vol.1",
         "url": "https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l"
       },

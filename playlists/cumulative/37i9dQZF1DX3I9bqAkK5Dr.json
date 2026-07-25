@@ -4751,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25qBsDI0xxSzyGuoQKJmjG"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4RPrGHAfx79zn877n2DHKw"
+    },
+    {
+      "album": {
         "name": "Maguva",
         "url": "https://open.spotify.com/album/2DKW5XKHCVKC94w7VgY7gg"
       },
@@ -8330,6 +8348,24 @@
     {
       "album": {
         "name": "Prashna",
+        "url": "https://open.spotify.com/album/3VC4bpJZnkU5Lz6QO9FlDN"
+      },
+      "artists": [
+        {
+          "name": "Akash Ravuru",
+          "url": "https://open.spotify.com/artist/4zUfIdjKDNUaA4gehoRnu8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233921,
+      "name": "Prashna",
+      "url": "https://open.spotify.com/track/3U2HEZDjXZQ98WHFzmSyOg"
+    },
+    {
+      "album": {
+        "name": "Prashna",
         "url": "https://open.spotify.com/album/7AN1mmLPdb1e1xWd05VhQA"
       },
       "artists": [
@@ -8722,7 +8758,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236738,
       "name": "Premincha",
       "url": "https://open.spotify.com/track/7ChBMFeJTlOUztlRcolGfh"
@@ -9831,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Singari",
+        "url": "https://open.spotify.com/album/5VKdfFDU0Wg4wCT6WoFwBQ"
+      },
+      "artists": [
+        {
+          "name": "C Shor",
+          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139644,
+      "name": "Singari",
+      "url": "https://open.spotify.com/track/0hdL2onCuiBZ5xoxqLHwmD"
+    },
+    {
+      "album": {
         "name": "Sinnadhani Soopule",
         "url": "https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL"
       },
@@ -10904,7 +10958,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 278500,
       "name": "Tuneega Tuneega",
       "url": "https://open.spotify.com/track/46dcXainXvcAaiC2FZdrOD"
@@ -11582,7 +11636,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 151576,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/2TeuvUYuC77Q55IGOQV6yj"

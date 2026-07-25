@@ -2479,6 +2479,32 @@
     },
     {
       "album": {
+        "name": "Trenet & Eiger: En avril \u00e0 Paris",
+        "url": "https://open.spotify.com/album/7780kt0BpqI0h14WsOylEj"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        },
+        {
+          "name": "Walter Eiger",
+          "url": "https://open.spotify.com/artist/4Xn9ScC6D14GWO2bGc75w7"
+        },
+        {
+          "name": "Saehyun Kim",
+          "url": "https://open.spotify.com/artist/1JiZGgjMlMtfpKeSgMN7YQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222981,
+      "name": "Trenet: En avril \u00e0 Paris (Arr. Weissenberg for Piano Solo)",
+      "url": "https://open.spotify.com/track/2jAgACFmGydTmXnwPyw2GZ"
+    },
+    {
+      "album": {
         "name": "Anne With An E (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM"
       },
@@ -2596,6 +2622,40 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "album": {
+        "name": "Wordless Farewell",
+        "url": "https://open.spotify.com/album/2ZpsL1JLnGgX1cJg0BERMl"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Philipp Schupelius",
+          "url": "https://open.spotify.com/artist/5GVDvbvOn2HQ6dcKLXohKT"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        },
+        {
+          "name": "Liang Zhang",
+          "url": "https://open.spotify.com/artist/2ps20TD19WuTC4OwEETvqf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Wordless Farewell",
+      "url": "https://open.spotify.com/track/65eEAIFRT8S13VrK4W3hNo"
     },
     {
       "album": {

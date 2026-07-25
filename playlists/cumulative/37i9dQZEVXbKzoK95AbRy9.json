@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -3839,6 +3839,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -4144,7 +4166,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 195365,
       "name": "Deixo",
       "url": "https://open.spotify.com/track/5kMu03BQiBZwg2urpihT9H"
@@ -4624,7 +4646,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 198823,
       "name": "Direitos Iguais - Ao Vivo",
       "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
@@ -4898,7 +4920,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 191154,
       "name": "Dois Gumes (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
@@ -5784,7 +5806,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 215040,
       "name": "Eu Te Esperarei",
       "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
@@ -5928,6 +5950,36 @@
       "duration_ms": 154734,
       "name": "Eu Vou Sentar - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2pilqAMqJMjbIQSnQVNdMv"
+    },
+    {
+      "album": {
+        "name": "EXAGERADO",
+        "url": "https://open.spotify.com/album/5IborVrA7dbZRiZCMqWu7Y"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "EXAGERADO",
+      "url": "https://open.spotify.com/track/4rfkoY5a4JzRmQSOQHAVsr"
     },
     {
       "album": {
@@ -6452,7 +6504,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
@@ -9248,7 +9300,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 161862,
       "name": "Mo\u00e7a Pra Casar - Ao Vivo",
       "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
@@ -9322,6 +9374,32 @@
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
+    },
+    {
+      "album": {
+        "name": "MTG Pra Ficar Legal",
+        "url": "https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3"
+      },
+      "artists": [
+        {
+          "name": "DJ JZ",
+          "url": "https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB"
+        },
+        {
+          "name": "Mc Fael Halls",
+          "url": "https://open.spotify.com/artist/3GXvEIDsldUNbsvypttNd2"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "MTG Pra Ficar Legal",
+      "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
     },
     {
       "album": {
@@ -9822,7 +9900,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 142286,
       "name": "Nem Pagando",
       "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
@@ -9906,7 +9984,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -11820,7 +11898,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
@@ -15082,7 +15160,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
@@ -15760,7 +15838,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,436 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,219 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 37 | [Is This Real?](https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Is This Real?](https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen) | 3:36 |
 | 38 | [Anything He Was](https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Anything He Was](https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV) | 3:59 |
 | 39 | [ZEN](https://open.spotify.com/track/7yD6lpfVNDV8L37M7NTAqT) | [Molly and the Dolly Shop](https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs) | [ZEN](https://open.spotify.com/album/3lk4XgGxF9v1XKkIHTsLql) | 2:18 |
-| 40 | [Track 4](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 0:00 |
+| 40 | [Royal Courts \(Great Misfortune\)](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 3:54 |
 | 41 | [Babe, We've Run Out Of Time](https://open.spotify.com/track/423dHXd6YCagGTj1IBLSBg) | [Little Grandad](https://open.spotify.com/artist/1Mgr4JJnFwPk3FHbu09wAl) | [Babe, We've Run Out Of Time](https://open.spotify.com/album/3pB7766ZX1iAbRal0SIyEp) | 4:49 |
 | 42 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 |
 | 43 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
 | 44 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
 | 45 | [Hell For Leather](https://open.spotify.com/track/3emgzRa8ojyoB90K2QM57Y) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Hell For Leather](https://open.spotify.com/album/1DO1AMN9xBpPs1a84GZ7Xm) | 2:53 |
 | 46 | [pick me up](https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [pick me up](https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS) | 2:40 |
-| 47 | [Track 6](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 0:00 |
+| 47 | [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 |
 | 48 | [In Motion](https://open.spotify.com/track/2D7XbB8lwQDil7ot7UG5f0) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [In Motion](https://open.spotify.com/album/0A9yLCxgbRcInKCj6p1gW1) | 3:15 |
 | 49 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 | 50 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |

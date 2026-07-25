@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "AGABA",
+        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
+      },
+      "artists": [
+        {
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163215,
+      "name": "AGABA",
+      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
+    },
+    {
+      "album": {
         "name": "A New Season",
         "url": "https://open.spotify.com/album/6LsiBRcp2nAtCSaD2ZRt4Q"
       },

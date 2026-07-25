@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Cozy Book",
+        "url": "https://open.spotify.com/album/4quDqRYc7WnLpAiTHMeM2R"
+      },
+      "artists": [
+        {
+          "name": "Hearth Mason",
+          "url": "https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154404,
+      "name": "Cozy Book",
+      "url": "https://open.spotify.com/track/10ZghCbHdFoeu0kRIvQWFR"
+    },
+    {
+      "album": {
         "name": "Credo",
         "url": "https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9"
       },
@@ -3342,6 +3360,24 @@
       "duration_ms": 131146,
       "name": "Romanze",
       "url": "https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1"
+    },
+    {
+      "album": {
+        "name": "R\u00eave d\u2019aube",
+        "url": "https://open.spotify.com/album/50rfVMpUOKT2TvxTEIrZ1f"
+      },
+      "artists": [
+        {
+          "name": "Aube Claire",
+          "url": "https://open.spotify.com/artist/4Dc7RNmmvZKaf7XQfrs3R5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "R\u00eave d\u2019aube",
+      "url": "https://open.spotify.com/track/0pUvTAOwVWAPATaq7n9Bc7"
     },
     {
       "album": {

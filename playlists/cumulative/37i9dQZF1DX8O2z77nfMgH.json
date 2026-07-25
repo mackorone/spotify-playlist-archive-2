@@ -245717,6 +245717,24 @@
     },
     {
       "album": {
+        "name": "Afro Pal Cora",
+        "url": "https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR"
+      },
+      "artists": [
+        {
+          "name": "Kenneth",
+          "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Sin Querer",
+      "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
+    },
+    {
+      "album": {
         "name": "Sin querer queri\u00e9ndonos",
         "url": "https://open.spotify.com/album/42sZWz7RWR2rTAAZ0wkOMW"
       },
@@ -268336,24 +268354,6 @@
       "duration_ms": 191944,
       "name": "track 1",
       "url": "https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046"
-    },
-    {
-      "album": {
-        "name": "Afro Pal Cora",
-        "url": "https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR"
-      },
-      "artists": [
-        {
-          "name": "Kenneth",
-          "url": "https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy"
     },
     {
       "album": {

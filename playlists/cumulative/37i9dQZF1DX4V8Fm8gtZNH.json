@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427407,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
+    },
+    {
+      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
@@ -666,6 +684,24 @@
       "duration_ms": 240048,
       "name": "Black Bottles (Remaster)",
       "url": "https://open.spotify.com/track/3EK3QCNivbBj1sSOSuOfXa"
+    },
+    {
+      "album": {
+        "name": "Mista",
+        "url": "https://open.spotify.com/album/61insst0BvcvgyswJFk4kd"
+      },
+      "artists": [
+        {
+          "name": "Mista",
+          "url": "https://open.spotify.com/artist/4uX071Qr9VaAsJz7hpAv7s"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Blackberry Molasses",
+      "url": "https://open.spotify.com/track/0a25e134ccYhXxC2ajoyQr"
     },
     {
       "album": {
@@ -1232,6 +1268,24 @@
       "duration_ms": 250266,
       "name": "Caught up In the Rapture",
       "url": "https://open.spotify.com/track/5z1Yde01fIsC6NaswUXbDI"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387493,
+      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
+      "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
     },
     {
       "album": {
@@ -3163,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be",
+        "url": "https://open.spotify.com/album/2smbIfqbwwkFl6RpjjZZpX"
+      },
+      "artists": [
+        {
+          "name": "Chey.",
+          "url": "https://open.spotify.com/artist/26K4V3x5QjbI8NfQLmImGZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221857,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/3SaZ5nUQPDreVPK41y5kZo"
+    },
+    {
+      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
@@ -4565,6 +4637,28 @@
     },
     {
       "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
+    },
+    {
+      "album": {
         "name": "No More Sin",
         "url": "https://open.spotify.com/album/1f89jv1X322QhDiSutM5qe"
       },
@@ -5331,6 +5425,28 @@
     },
     {
       "album": {
+        "name": "RIGHT THERE",
+        "url": "https://open.spotify.com/album/5E2Q5mKxcKxSrGpca7bKNK"
+      },
+      "artists": [
+        {
+          "name": "Nwaneri",
+          "url": "https://open.spotify.com/artist/1KICe4XIQhTTwHhb7vObMp"
+        },
+        {
+          "name": "Wakil",
+          "url": "https://open.spotify.com/artist/04lEXhANwPuqA12qlW8uyu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "RIGHT THERE",
+      "url": "https://open.spotify.com/track/0GjUGBNc298i0fNJcmQmA2"
+    },
+    {
+      "album": {
         "name": "Little Sound Boy",
         "url": "https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k"
       },
@@ -5689,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "Songs About Us",
+        "url": "https://open.spotify.com/album/5vHbxFqZfAjvpyezS2jR4H"
+      },
+      "artists": [
+        {
+          "name": "Breana Marin",
+          "url": "https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182150,
+      "name": "Skin Deep",
+      "url": "https://open.spotify.com/track/1gJESDq8tkbDjLlRGTQqZU"
+    },
+    {
+      "album": {
         "name": "Sleepless (feat. Taylor Bennett)",
         "url": "https://open.spotify.com/album/4fj6gCXesfcem3EDaDJqpH"
       },
@@ -5806,6 +5940,24 @@
       "duration_ms": 164650,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/0Se3DavMzjJ9RYcDxBk9Nf"
+    },
+    {
+      "album": {
+        "name": "Extension of a Man",
+        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "Someday We'll All Be Free",
+      "url": "https://open.spotify.com/track/0iJP3XxZNE8tP7YnB23J1r"
     },
     {
       "album": {
@@ -6213,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "VEDO",
+        "url": "https://open.spotify.com/album/2bIFtqMOh5jjfmqUO7DDDR"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176378,
+      "name": "Take It There",
+      "url": "https://open.spotify.com/track/1yy0HTOZveGCAwzjKd4L32"
+    },
+    {
+      "album": {
         "name": "Southern Delicacy",
         "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },
@@ -6533,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "To the Ones",
+        "url": "https://open.spotify.com/album/1C0GPBK2r18L4wKswB5Cgp"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214849,
+      "name": "To the Ones",
+      "url": "https://open.spotify.com/track/4nYoTcWQpSQp7BIBYSWVnE"
+    },
+    {
+      "album": {
         "name": "A Christmas to Remember",
         "url": "https://open.spotify.com/album/6ELeLZNIIa0atcFhRnX5uz"
       },
@@ -6744,6 +6932,24 @@
       "duration_ms": 233163,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/7BTt5fCGD9RCNrXYU6pc5k"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/65ofSg7tkL2AZgD381PSq3"
+      },
+      "artists": [
+        {
+          "name": "Ace Malik",
+          "url": "https://open.spotify.com/artist/6iSqxjDemlwmF0NvNkg8Nn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "TURNING ME ON",
+      "url": "https://open.spotify.com/track/6I0RxOmWuKCSUN3ToPrrXf"
     },
     {
       "album": {
@@ -7433,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/647D8WS57rPpIM1AXXHpHJ"
+    },
+    {
+      "album": {
         "name": "Never My Love: The Anthology",
         "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
@@ -7470,6 +7694,24 @@
       "duration_ms": 94065,
       "name": "You Were You",
       "url": "https://open.spotify.com/track/7tlMhfiNa0DEoxn7D1pEIV"
+    },
+    {
+      "album": {
+        "name": "Your Jam (a holiday song)",
+        "url": "https://open.spotify.com/album/6nqrbYaBUl9SMO9HhuunGZ"
+      },
+      "artists": [
+        {
+          "name": "Kory Leigh",
+          "url": "https://open.spotify.com/artist/4lv2pd5mTkTk8vJwf77LQ5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142245,
+      "name": "Your Jam (a holiday song)",
+      "url": "https://open.spotify.com/track/4ujTMUs3bDOFXjAq7Wun9w"
     },
     {
       "album": {

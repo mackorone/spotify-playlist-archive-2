@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 103867,
+  "num_followers": 103919,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADF+dar6Yb1tgrQQeI4i4ku",
+  "snapshot_id": "amFZgAAAAACMdSfewg/B0u40W738hWXz",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 204923,
-      "name": "De Helft Van Mij",
-      "url": "https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj"
+      "duration_ms": 176166,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 176166,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
+      "duration_ms": 204923,
+      "name": "De Helft Van Mij",
+      "url": "https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj"
     },
     {
       "added_at": null,

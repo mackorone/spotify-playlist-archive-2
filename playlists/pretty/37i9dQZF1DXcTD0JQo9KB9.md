@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 個個都係大人，個個都想做大人咩...無論你係咩階段嘅大人，都要好好努力生活！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,923 likes - 66 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,924 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

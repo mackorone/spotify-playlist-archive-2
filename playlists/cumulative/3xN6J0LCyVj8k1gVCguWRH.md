@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,300 songs - 14 day 16 hr 10 min
+6,301 songs - 14 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,7 +984,7 @@
 | [Chemo Sabe](https://open.spotify.com/track/1IzchvogI03bAjWRWbNRPC) | [Isaai](https://open.spotify.com/artist/7hIednWP0x0FWs2e15rQeS) | [I Left My Brain In 2012](https://open.spotify.com/album/6NnOtfk6HnmQlefd4Br6UQ) | 2:02 | 2026-03-23 | 2026-04-25 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-07-26 | 2024-04-30 |
 | [Cherry Cola](https://open.spotify.com/track/13CpUgTna92Bq5qK6MZYZ5) | [John Morrison](https://open.spotify.com/artist/0COowP6QRfbigsfu0wPxY5) | [Cherry Cola](https://open.spotify.com/album/2DcyRENkHLyweUTfCm0DXc) | 3:14 | 2025-07-25 | 2025-08-11 |
-| [Cherry Lip Balm](https://open.spotify.com/track/5nd1Vp01yVEazPl8Qy7MFw) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS), [K\-Riz](https://open.spotify.com/artist/7taGhYCU1crVeYfrKhWF50) | [Redecorating My Mind](https://open.spotify.com/album/3EfdFRyxtZlOcEPlMeMuVp) | 2:38 | 2026-06-23 |  |
+| [Cherry Lip Balm](https://open.spotify.com/track/5nd1Vp01yVEazPl8Qy7MFw) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS), [K\-Riz](https://open.spotify.com/artist/7taGhYCU1crVeYfrKhWF50) | [Redecorating My Mind](https://open.spotify.com/album/3EfdFRyxtZlOcEPlMeMuVp) | 2:38 | 2026-06-23 | 2026-07-25 |
 | [Cherry Tree](https://open.spotify.com/track/3dPvIz40hyu20YTcIHudlk) | [Kyra Fields](https://open.spotify.com/artist/0LMYV3YXFzMMZ3T2Lu8NYQ) | [Cherry Tree](https://open.spotify.com/album/2dhczEHV8QQ69G2G95rhdk) | 2:44 | 2024-04-04 | 2024-04-22 |
 | [CHEW ON THIS](https://open.spotify.com/track/2mrkK3X2xpHfDlT6RCVqn1) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [CHEW ON THIS](https://open.spotify.com/album/4Vofg4EDlI37O82dyursWR) | 2:35 | 2024-07-27 | 2024-08-10 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-08 |  |
@@ -1512,6 +1512,7 @@
 | [Drawn 2 you](https://open.spotify.com/track/1qGxdmbdr9KJsexsEKIp92) | [Boukmanflow](https://open.spotify.com/artist/0pMNcq4OeQy6afIqsQkFT3) | [Sankofa \(spotify version\)](https://open.spotify.com/album/3NbOCbmI6s0WZrSBWSfxYe) | 2:12 | 2025-10-21 | 2025-11-02 |
 | [Dream](https://open.spotify.com/track/37CdCdasQ8YPSzs0tAWqeQ) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Dream](https://open.spotify.com/album/5EjNnUjVvOjijI81s37aUh) | 4:23 | 2022-05-31 | 2022-06-18 |
 | [Dream Anthem](https://open.spotify.com/track/2RuY8gcyPushMXOc5mTDec) | [ATELLER](https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi) | [Dream Anthem](https://open.spotify.com/album/5W0xdULVsNvNflVYo2OarI) | 3:14 | 2024-06-02 | 2024-06-14 |
+| [Dream Dance](https://open.spotify.com/track/2RX2jQAWkGbbkCnI8UVRrb) | [Terrence Paul & Cocoa Boy Toyz](https://open.spotify.com/artist/3YaWabbjgNa6IIPIenOjGW) | [Dream Dance](https://open.spotify.com/album/4Ard2IrmkvUtQGSrS4O7sz) | 4:44 | 2026-07-24 |  |
 | [Dream Girl](https://open.spotify.com/track/2Gew97fJbolz5D9jiwPqCz) | [Lenny Gazebo](https://open.spotify.com/artist/6xieypSypSPfO5qdlZFMXG), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Girl](https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6) | 2:10 | 2024-06-08 | 2024-06-20 |
 | [Dream House](https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Dream House](https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur) | 2:50 | 2024-01-27 | 2024-02-11 |
 | [Dream I'm In](https://open.spotify.com/track/7gfjlLvQxV9JVXl7aaGobq) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Dream I'm In](https://open.spotify.com/album/4XkvRbodE4RcJcoSiK6kZX) | 3:21 | 2025-04-18 | 2025-04-30 |
@@ -2027,7 +2028,7 @@
 | [Further](https://open.spotify.com/track/5smeYjQ6i8SSKdbW2Hknrp) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Further](https://open.spotify.com/album/0c2CX0YVhH1DhCAp3IsIip) | 3:44 | 2024-11-09 | 2026-01-01 |
 | [Further Away](https://open.spotify.com/track/1lvZILzA50uGrxy2rm2rlT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Dangerous Diversion](https://open.spotify.com/album/3mTehsa895REJQ7XceuU3a) | 4:56 | 2020-05-22 | 2020-06-10 |
 | [Future](https://open.spotify.com/track/1du59daS2oeY8medsWkMV5) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Future](https://open.spotify.com/album/0QcIvjkrT35gQpcGA1fBo3) | 2:40 | 2023-08-30 | 2023-09-26 |
-| [Future Trip](https://open.spotify.com/track/5L3HFkKeQ4qGhIA5wwS2iX) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK) | [Tonight In My Dreams](https://open.spotify.com/album/5GCJN8LOWo4jci6nEOIDAr) | 3:05 | 2026-06-23 |  |
+| [Future Trip](https://open.spotify.com/track/5L3HFkKeQ4qGhIA5wwS2iX) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK) | [Tonight In My Dreams](https://open.spotify.com/album/5GCJN8LOWo4jci6nEOIDAr) | 3:05 | 2026-06-23 | 2026-07-25 |
 | [Future Trippin](https://open.spotify.com/track/7jd54mRRWwXItPL324Luj0) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn) | [Future Trippin](https://open.spotify.com/album/2kaN4d2PpiKEfXpJBnoxkd) | 3:05 | 2025-08-22 | 2025-09-22 |
 | [Future Trippin](https://open.spotify.com/track/7qCv1lilDoVJUynmWyXUNP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Future Trippin](https://open.spotify.com/album/5KuErZHMYkPyseDHHCdc2y) | 3:15 | 2020-06-10 | 2020-07-02 |
 | [Future You](https://open.spotify.com/track/1pTuQlC7RG08TFSDXHR1PP) | [Many Words](https://open.spotify.com/artist/2x0QUmQILWL5fwJ8gmkRRb) | [EXPLORATIONS 001 // Weekends: Austin](https://open.spotify.com/album/6v6Rs5Cn9Srabwe3CUaWw3) | 0:48 | 2024-03-18 | 2024-03-29 |

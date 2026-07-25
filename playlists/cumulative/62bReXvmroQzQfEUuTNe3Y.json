@@ -5871,6 +5871,28 @@
     },
     {
       "album": {
+        "name": "Look into My Eyes",
+        "url": "https://open.spotify.com/album/0mRPXpX27bh6m7oaJcbMDx"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147926,
+      "name": "Look into My Eyes",
+      "url": "https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ"
+    },
+    {
+      "album": {
         "name": "Loosen Up",
         "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
@@ -11842,6 +11864,24 @@
       "duration_ms": 204361,
       "name": "Wild Skies",
       "url": "https://open.spotify.com/track/5yHdAaKkFknPlSYcEUwAfp"
+    },
+    {
+      "album": {
+        "name": "wildfire",
+        "url": "https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC"
+      },
+      "artists": [
+        {
+          "name": "origins",
+          "url": "https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200312,
+      "name": "wildfire",
+      "url": "https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI"
     },
     {
       "album": {

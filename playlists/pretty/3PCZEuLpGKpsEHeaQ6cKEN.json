@@ -1,13 +1,33 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | ",
-  "num_followers": 258356,
+  "num_followers": 258331,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADWJdduewYdJxozn8mCdTo7MDwCuFY0",
+  "snapshot_id": "AADWJxEDVPmJz0aTSnen7qvys23s36ah",
   "tracks": [
+    {
+      "added_at": "2026-07-24 11:48:29",
+      "album": {
+        "name": "Turn The Tide",
+        "url": "https://open.spotify.com/album/4YPWLIpNZOmcHyVhqq1gUU"
+      },
+      "artists": [
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 179938,
+      "name": "Turn The Tide",
+      "url": "https://open.spotify.com/track/5oZ1UaNmhcW6u5RbN1QxJT"
+    },
     {
       "added_at": "2026-07-24 02:00:23",
       "album": {

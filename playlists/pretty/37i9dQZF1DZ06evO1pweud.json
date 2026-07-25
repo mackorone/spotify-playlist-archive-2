@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 139375,
+  "num_followers": 139427,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAADpj2TWt+K4kO/DwTs/6qaB",
+  "snapshot_id": "amFZgAAAAACdQpY75Gh4Ggx36tafnVAR",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Love You Anyway",
-      "url": "https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO"
+      "duration_ms": 237133,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA"
     },
     {
       "added_at": null,

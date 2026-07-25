@@ -1,28 +1,28 @@
 {
-  "description": "Soul to brighten up your day. Cover: Latanya Alberto",
-  "num_followers": 1009796,
+  "description": "Soul to brighten up your day. Cover: Leon Bridges",
+  "num_followers": 1009757,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv",
+  "snapshot_id": "AAAAAG3i96WBTqVUdjJ1BysXYgSqTtTX",
   "tracks": [
     {
-      "added_at": "2026-06-19 08:55:53",
+      "added_at": "2026-07-24 17:45:10",
       "album": {
-        "name": "Seen",
-        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
       },
       "artists": [
         {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 133265,
-      "name": "Purify",
-      "url": "https://open.spotify.com/track/0LU8SUaU3RNhts5NeIdX9v"
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-06-19 08:55:53",
@@ -333,20 +333,20 @@
       "url": "https://open.spotify.com/track/6scAxpEPBWSJAEs8DGhW9x"
     },
     {
-      "added_at": "2026-01-23 07:00:24",
+      "added_at": "2026-06-19 08:55:53",
       "album": {
-        "name": "BREATHE!",
-        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
         }
       ],
-      "duration_ms": 209395,
-      "name": "BREATHE!",
-      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
+      "duration_ms": 133265,
+      "name": "Purify",
+      "url": "https://open.spotify.com/track/0LU8SUaU3RNhts5NeIdX9v"
     },
     {
       "added_at": "2025-09-05 04:13:32",
@@ -1453,6 +1453,22 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
+      "added_at": "2026-01-23 07:00:24",
+      "album": {
+        "name": "BREATHE!",
+        "url": "https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 209395,
+      "name": "BREATHE!",
+      "url": "https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "True to Myself",
@@ -1469,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
-      "added_at": "2025-09-05 04:13:32",
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "LOVE!",
-      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
-    },
-    {
       "added_at": "2026-03-20 23:51:54",
       "album": {
         "name": "such is life",
@@ -1499,6 +1499,22 @@
       "duration_ms": 233453,
       "name": "such is life",
       "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
+    },
+    {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
     },
     {
       "added_at": "2025-06-27 04:00:46",
@@ -1683,22 +1699,6 @@
       "duration_ms": 200536,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
-    },
-    {
-      "added_at": "2025-06-14 14:56:22",
-      "album": {
-        "name": "Kill Switch",
-        "url": "https://open.spotify.com/album/2jESbKIGLtz7rRO38a9SFi"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 184259,
-      "name": "Kill Switch",
-      "url": "https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88"
     }
   ],
   "unique_name": "Soulful Day",

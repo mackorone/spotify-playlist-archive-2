@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-584 songs - 1 day 7 hr 57 min
+586 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Loneliness](https://open.spotify.com/track/3pQHlRvlWeFxClCKo0cTw0) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa) | [Loneliness](https://open.spotify.com/album/0T0U2nxtvqZlH142fMTRCs) | 2:44 | 2021-01-18 | 2021-03-06 |
 | [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-07-07 | 2024-02-24 |
 | [Look into My Eyes](https://open.spotify.com/track/30OO2ybk8qPzgy5H8P4NeU) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look into My Eyes](https://open.spotify.com/album/5kfjwMJQlgtWpXJ6XWJp2m) | 2:34 | 2021-07-24 | 2021-11-11 |
+| [Look into My Eyes](https://open.spotify.com/track/7I8dFCZqKldByzJVMFLkNZ) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Look into My Eyes](https://open.spotify.com/album/0mRPXpX27bh6m7oaJcbMDx) | 2:27 | 2026-07-24 |  |
 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 | 2025-07-30 | 2026-01-24 |
 | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7HQsaFGNwdn1DagZm6lfqV) | 2:46 | 2021-06-05 | 2021-07-17 |
 | [Losing Focus](https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [David Pietras](https://open.spotify.com/artist/4gzWHCBn6PjkGbWUp0kmEc) | [Losing Focus](https://open.spotify.com/album/7sXrMnaxr95R2q5ihxC4zu) | 2:30 | 2021-03-06 | 2021-04-24 |
@@ -572,6 +573,7 @@
 | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/track/0OblbHqdzBaTNHxkRuWBDN) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/album/41qEwNJHSvXISCQ7Zqtrxw) | 2:22 | 2020-09-13\* | 2021-03-14 |
 | [Wild Girl \- Paul Woolford Remix](https://open.spotify.com/track/7ETxvXQ5oWFRfAfaIEimAG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Wild Girl \(Paul Woolford Remix\)](https://open.spotify.com/album/5gGNajbpAtIuDaNOIoJmXr) | 3:41 | 2021-06-05 | 2021-10-23 |
 | [Wild Skies](https://open.spotify.com/track/5yHdAaKkFknPlSYcEUwAfp) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Carbon](https://open.spotify.com/album/7fIXaVoKlDTrJN95srql4E) | 3:24 | 2021-06-12 | 2021-10-02 |
+| [wildfire](https://open.spotify.com/track/5eyQtnfJVtgH4dJR6IzgNI) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [wildfire](https://open.spotify.com/album/0XnVPjjPkA3nFCJ5KAUCtC) | 3:20 | 2026-07-24 |  |
 | [Wildfire](https://open.spotify.com/track/7iIzan4uOlOeXZ8iE3b91F) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Wildfire](https://open.spotify.com/album/2M11Hf6KSCa9s9bktPApRW) | 3:11 | 2024-03-08 | 2026-01-06 |
 | [Wildflowers](https://open.spotify.com/track/5xl0p7WkEry8QAOxTs28kY) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Zimmer](https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO) | 3:37 | 2024-02-23 | 2025-09-27 |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2021-08-21 | 2021-10-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 7376,
+  "num_followers": 7377,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAArqeBq/4oCPMcIWm+cnHdg",
+  "snapshot_id": "amFZgAAAAABre0dgQgy2/bdCQb4NSkFR",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Banana",
         "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
       "artists": [
         {
@@ -504,25 +488,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Ode La Alaga",
-      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 212775,
-      "name": "Komi Komi",
-      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -543,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Ode La Alaga",
+      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153306,
       "name": "Ariya 'O Gbodo Pin",
       "url": "https://open.spotify.com/track/7hW3aVAnVVxBT21tXarIlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 212775,
+      "name": "Komi Komi",
+      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 236771,
-      "name": "Eni Jesu We",
-      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+      "duration_ms": 464549,
+      "name": "Chief George Oyedele",
+      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 464549,
-      "name": "Chief George Oyedele",
-      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+      "duration_ms": 236771,
+      "name": "Eni Jesu We",
+      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Nazz
+> Best of Hindi Hip\-Hop! Cover: Poet Shaf
 
-334 songs - 16 hr 57 min
+335 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [It's About Time](https://open.spotify.com/track/1ZG8BI4Mdgdgg1g4KgBikU) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV) | [It's About Time](https://open.spotify.com/album/5Y1poQGKqhVmKt05GccZwg) | 4:19 | 2026-05-08 |  |
 | [JAANE JAA](https://open.spotify.com/track/59UjekP5VpkJBxVkWIeOaW) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [JAANE JAA](https://open.spotify.com/album/2BirRj76HwJSkwTqkZi1bC) | 3:00 | 2026-05-01 | 2026-06-13 |
 | [JAANEJAANA](https://open.spotify.com/track/2T6twxFVaatlhg5Ocz08Bw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [JAANEJAANA](https://open.spotify.com/album/3QU9SPkAgpuBQMAGnuAPwN) | 2:35 | 2024-09-17 | 2024-12-15 |
-| [JAB TAK MEIN ZINDA HU](https://open.spotify.com/track/3iKnnfDTKmhHWUXf1OCDPV) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [CNSTNCY](https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T) | 4:08 | 2026-06-12 |  |
+| [JAB TAK MEIN ZINDA HU](https://open.spotify.com/track/3iKnnfDTKmhHWUXf1OCDPV) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [CNSTNCY](https://open.spotify.com/album/5KHA0yCtqnwGn4vX5Z9a2T) | 4:08 | 2026-06-12 | 2026-07-25 |
 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2023-03-10 | 2025-05-24 |
 | [Jawab De](https://open.spotify.com/track/6jOdcTcVmg9WD5y92fSY0s) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:15 | 2025-01-17 |  |
 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 | 2024-01-19 | 2024-04-19 |
@@ -192,6 +192,7 @@
 | [LIFESTYLE](https://open.spotify.com/track/4jHJq2kE3nqF6djDzeZGFg) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [LIFESTYLE](https://open.spotify.com/album/3OVLSxqoWeSoNvW9KVBR25) | 2:41 | 2023-03-10 | 2023-04-22 |
 | [Lil Bunty](https://open.spotify.com/track/1MGvSryQcSR7zsNG4lQOjN) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Lil Bunty](https://open.spotify.com/album/6XdkAvpVluO8BFG2RkOC1p) | 3:12 | 2023-03-10 | 2024-06-29 |
 | [Living Legend](https://open.spotify.com/track/5jaV01AxZDomsbwVAAZfxN) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Living Legend](https://open.spotify.com/album/79PNgqOT4JNsbXbIKoDhOJ) | 3:48 | 2023-03-10 | 2023-10-12 |
+| [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 | 2026-07-24 |  |
 | [Maa Ka Call](https://open.spotify.com/track/30J1YSP7njH6AqPpGTNQuW) | [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Maa Ka Call](https://open.spotify.com/album/0ao10oa3mdiFfPfRhS5rrH) | 2:52 | 2024-10-23 | 2025-01-07 |
 | [Maar Kaat](https://open.spotify.com/track/4pEGr8rZ6w5NplICrHxcOh) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 1:04 | 2025-05-16 | 2026-03-14 |
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-10 | 2024-10-01 |

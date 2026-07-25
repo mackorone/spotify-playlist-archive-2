@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Adek Saye Abe Sore",
+        "url": "https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf"
+      },
+      "artists": [
+        {
+          "name": "Eda Ezrin",
+          "url": "https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W"
+        },
+        {
+          "name": "Den Manjo",
+          "url": "https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253941,
+      "name": "Adek Saye Abe Sore",
+      "url": "https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm"
+    },
+    {
+      "album": {
         "name": "Adiwira",
         "url": "https://open.spotify.com/album/7wi8NeAyOByese2502QHTO"
       },
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 196216,
       "name": "Ayah",
       "url": "https://open.spotify.com/track/05V8ZigLaKKHP02kM1rtmj"
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 255319,
       "name": "Bertahan Denganmu",
       "url": "https://open.spotify.com/track/5WQ6UHJqNA8mF3Q2onUuOO"
@@ -4021,6 +4043,28 @@
     },
     {
       "album": {
+        "name": "Ceritaku Ceritamu",
+        "url": "https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO"
+      },
+      "artists": [
+        {
+          "name": "Katyana",
+          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Ceritaku Ceritamu",
+      "url": "https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz"
+    },
+    {
+      "album": {
         "name": "Cerminan",
         "url": "https://open.spotify.com/album/4F3Apii1InZP5X1LTkCkPw"
       },
@@ -5268,7 +5312,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 242340,
       "name": "Doa Sang Anak",
       "url": "https://open.spotify.com/track/76Fix8CpEoxDa5dKnbzldH"
@@ -8189,6 +8233,28 @@
     },
     {
       "album": {
+        "name": "Jiwa Yang Mengalah",
+        "url": "https://open.spotify.com/album/1qqs1JVX9tUPRN1Qrnklt5"
+      },
+      "artists": [
+        {
+          "name": "Bellestrelle",
+          "url": "https://open.spotify.com/artist/0PI1yTew40WSJ35CpEDGxY"
+        },
+        {
+          "name": "Harry Azrul Rupin",
+          "url": "https://open.spotify.com/artist/4Ei8OJJvzXmHNkjrMQMBnx"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134831,
+      "name": "Jiwa Yang Mengalah",
+      "url": "https://open.spotify.com/track/5pqh7t3u55buLeYgE9eXgz"
+    },
+    {
+      "album": {
         "name": "Jodoh Lebaran",
         "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
       },
@@ -8262,7 +8328,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 212444,
       "name": "Jurang Derita",
       "url": "https://open.spotify.com/track/6Cdqka0eVVbM7G0JEvEi6U"
@@ -8704,7 +8770,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 223819,
       "name": "Kau Dan Aku Kita Kekal",
       "url": "https://open.spotify.com/track/7K3fB5uHV99QfximYJXWVo"
@@ -9462,6 +9528,24 @@
       "duration_ms": 269989,
       "name": "Kita Ditakdirkan Jatuh Cinta",
       "url": "https://open.spotify.com/track/6hiwvUonVohLBioSRNBy0A"
+    },
+    {
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
     },
     {
       "album": {
@@ -11972,7 +12056,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 242105,
       "name": "Merindu (Feat. Imran Ajmain)",
       "url": "https://open.spotify.com/track/3fonpik08uK3ZGVmCbD0O2"
@@ -12905,6 +12989,24 @@
     },
     {
       "album": {
+        "name": "ONE ON ONE",
+        "url": "https://open.spotify.com/album/2qJjugXrbiE5R8kBO8hVmt"
+      },
+      "artists": [
+        {
+          "name": "Ismail Izzani",
+          "url": "https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "ONE ON ONE",
+      "url": "https://open.spotify.com/track/2k8ROUJHJcdV3mpkA8rVHq"
+    },
+    {
+      "album": {
         "name": "OR7",
         "url": "https://open.spotify.com/album/2wNGcMa8TAJO7D5kPiryox"
       },
@@ -13748,6 +13850,24 @@
       "duration_ms": 281250,
       "name": "Puas Sudah",
       "url": "https://open.spotify.com/track/4Smpf6t91GtnwgT1PwfJak"
+    },
+    {
+      "album": {
+        "name": "Pugar",
+        "url": "https://open.spotify.com/album/3sTxFKkv1lfHDNQPEGWywH"
+      },
+      "artists": [
+        {
+          "name": "Umairah",
+          "url": "https://open.spotify.com/artist/6qIDCzCk27YtmOVGAllzpa"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244015,
+      "name": "Pugar",
+      "url": "https://open.spotify.com/track/3eo26uAD9G5raiXXXpABFQ"
     },
     {
       "album": {
@@ -14940,7 +15060,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 232407,
       "name": "Sadis",
       "url": "https://open.spotify.com/track/71glSZUO4wGGGCrLvLPXaq"
@@ -15132,7 +15252,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
@@ -15528,6 +15648,28 @@
       "duration_ms": 247993,
       "name": "Sang Dewi",
       "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
+    },
+    {
+      "album": {
+        "name": "Sang Penikam 2026",
+        "url": "https://open.spotify.com/album/5UCmJPDYgmKNRnzm7vWAUy"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        },
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344090,
+      "name": "Sang Penikam 2026",
+      "url": "https://open.spotify.com/track/6JUiXGuIM4xVf56nivKJ9K"
     },
     {
       "album": {
@@ -17688,7 +17830,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 188012,
       "name": "Tak Adil",
       "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"

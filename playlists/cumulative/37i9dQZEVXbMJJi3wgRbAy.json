@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 188423,
       "name": "Amor de Vago",
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 159196,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/75Xgi3loGDYfeeeQnj8GyJ"
@@ -24030,7 +24030,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
@@ -27252,6 +27252,36 @@
       "duration_ms": 154800,
       "name": "UN SIGLO SIN TI",
       "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
+    },
+    {
+      "album": {
+        "name": "Un Tin",
+        "url": "https://open.spotify.com/album/09O95K9qFd4XjwXbNBGL2p"
+      },
+      "artists": [
+        {
+          "name": "Payaso x Ley",
+          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
+        },
+        {
+          "name": "ROWELL URBAN",
+          "url": "https://open.spotify.com/artist/3U7jalS24p7JJRJs95Sktl"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Befocus Music",
+          "url": "https://open.spotify.com/artist/6ovtk2HgICEX3iFpQrw4rn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209342,
+      "name": "Un Tin",
+      "url": "https://open.spotify.com/track/07Q92PJZXSZrdwM0Xm5aBd"
     },
     {
       "album": {

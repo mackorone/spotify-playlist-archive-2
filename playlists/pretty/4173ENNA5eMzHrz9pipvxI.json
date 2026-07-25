@@ -1,13 +1,77 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gryffin, BUNT., In\u00e9z",
   "num_followers": 118018,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhx1Cw2GRkdnXWyx0tFRyRFOOoPkMN",
+  "snapshot_id": "AAAhzdnfQoQZdl1tJmWHv6Mp1Dx0UhV2",
   "tracks": [
+    {
+      "added_at": "2026-07-24 06:36:43",
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-07-24 06:36:28",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 179531,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
+    },
+    {
+      "added_at": "2026-07-24 06:36:18",
+      "album": {
+        "name": "Only Us",
+        "url": "https://open.spotify.com/album/7c6BZ3cZFucSffhgOTyzuj"
+      },
+      "artists": [
+        {
+          "name": "Deco (BE)",
+          "url": "https://open.spotify.com/artist/4gOdhyPkfWcGe3T5r0Y0fP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/2WvM5UGJzzCCvgYSLBr3ut"
+    },
     {
       "added_at": "2026-07-17 06:39:58",
       "album": {

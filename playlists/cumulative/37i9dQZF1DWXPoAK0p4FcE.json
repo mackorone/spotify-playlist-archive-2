@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Television off",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: mute.",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e1e\u0e39\u0e14\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01 (Begging)",
+        "url": "https://open.spotify.com/album/4BWLXhmcuiqOH1neP2MVZb"
+      },
+      "artists": [
+        {
+          "name": "mute.",
+          "url": "https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e1e\u0e39\u0e14\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01 (Begging)",
+      "url": "https://open.spotify.com/track/2M3ks2bl5SS5DPS1CNBVFd"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e19\u0e31\u0e49\u0e19 ( Hide & Seek )",
         "url": "https://open.spotify.com/album/5aY6Oq8K1ooeV6KijIpfXs"
       },
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 308531,
       "name": "\u0e25\u0e21\u0e23\u0e49\u0e2d\u0e19 (Blow Away)",
       "url": "https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF"

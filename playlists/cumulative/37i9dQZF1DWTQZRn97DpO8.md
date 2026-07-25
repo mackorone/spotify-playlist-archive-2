@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯<br/>Photo : Jäde
 
-626 songs - 1 day 6 hr 50 min
+626 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,6 @@
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 | 2025-12-19 |
 | [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 | 2026-02-06 |
 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 | 2025-10-02 | 2026-03-06 |
-| [Track 5](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 0:00 | 2026-07-23 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trigger](https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Trigger](https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu) | 2:16 | 2025-11-20 | 2025-12-19 |
 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 | 2024-04-25 | 2024-06-28 |
@@ -616,6 +615,7 @@
 | [Venin](https://open.spotify.com/track/4ByBthTRGalb1uTx7YEgVM) | [Äzy](https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF) | [Venin](https://open.spotify.com/album/7yTzCNaW0vZZj0IA6umIZR) | 2:50 | 2024-02-15 | 2024-04-19 |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2023-09-28 | 2023-11-17 |
 | [Viano](https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Viano](https://open.spotify.com/album/7dpcQRInh1WFjqcE3Llvtb) | 2:46 | 2023-10-12 | 2024-01-26 |
+| [Vibe](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 2:07 | 2026-07-23 |  |
 | [Vide](https://open.spotify.com/track/14fGCCjD2CDIcS2DAIyBCj) | [Tizzy Miller](https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj) | [Vide](https://open.spotify.com/album/24IP5rWcn1SY1xhkEHBnOc) | 2:01 | 2024-06-27 | 2024-08-16 |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 | 2024-02-02 |
 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 | 2024-01-25 | 2024-03-29 |

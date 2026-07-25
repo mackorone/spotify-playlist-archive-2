@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: PEGGY",
+  "description": "Feeling dramatic? All eyes on you. Cover: VANITY",
   "name": "Limelight",
   "tracks": [
     {
@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -7681,6 +7681,24 @@
     },
     {
       "album": {
+        "name": "Pre-Raphaelite",
+        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262794,
+      "name": "Pre-Raphaelite",
+      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
+    },
+    {
+      "album": {
         "name": "prom",
         "url": "https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA"
       },
@@ -8484,6 +8502,24 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "album": {
+        "name": "Size Two",
+        "url": "https://open.spotify.com/album/0oth0n1YNG0uCaCRrWS8oh"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171714,
+      "name": "Size Two",
+      "url": "https://open.spotify.com/track/3ZioR8GLXGtoILTI0zyqhC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3O66k5Ivui.md) - [plain]
 
 > Enjoy the BTS "NORMAL" music video and spend a normal day with BTS! This playlist features the top 3 tracks voted by fans for each member's "NORMAL Day" playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,955 likes - 23 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,400 likes - 23 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3O66k5Ivui.md) - [plain]
 | 22 | [Outro: Tear](https://open.spotify.com/track/27yKZtF7WLdmlLoW8qMssq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:44 |
 | 23 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 |
 
-Snapshot ID: `AAAAAGNTtqHM5FdNA9DTJkn5d/SnamZj`
+Snapshot ID: `AAAAANpD7oPoDTU+9XjB3yqq82GleSoQ`

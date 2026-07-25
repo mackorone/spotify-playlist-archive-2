@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002 Charli xcx, Tyla, The\u00a0Strokes, WILLOW and more!",
+  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002 Charli xcx, Tyla, The Strokes, WILLOW, JENNIE and more!",
   "name": "New Music Friday Japan",
   "tracks": [
     {
@@ -8733,6 +8733,24 @@
     },
     {
       "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
+      },
+      "artists": [
+        {
+          "name": "TOAST CLUB",
+          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
+    },
+    {
+      "album": {
         "name": "ALGO T\u00da",
         "url": "https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo"
       },
@@ -13648,6 +13666,24 @@
       "duration_ms": 243057,
       "name": "Animal",
       "url": "https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "album": {
@@ -31695,6 +31731,24 @@
     },
     {
       "album": {
+        "name": "<Born Stunner>",
+        "url": "https://open.spotify.com/album/6mMi0vUd09pzEFMCLHkKF9"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Born Stunner",
+      "url": "https://open.spotify.com/track/2XvgkULpvqf4UW4YZIFnRf"
+    },
+    {
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
       },
@@ -35898,6 +35952,28 @@
       "duration_ms": 211618,
       "name": "Burn it (feat. DEAN)",
       "url": "https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT"
+    },
+    {
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "album": {
@@ -52591,7 +52667,7 @@
     },
     {
       "album": {
-        "name": "Dance Dance Dance",
+        "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
@@ -52604,7 +52680,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217797,
-      "name": "Dance Dance Dance",
+      "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
@@ -131907,6 +131983,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "album": {
         "name": "lesson learned",
         "url": "https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN"
       },
@@ -166842,6 +166936,24 @@
       "duration_ms": 235312,
       "name": "OB PKWY",
       "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
+    },
+    {
+      "album": {
+        "name": "Paradise Lost",
+        "url": "https://open.spotify.com/album/4iKcjf9i38SIi4mvFgfNLp"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Object",
+      "url": "https://open.spotify.com/track/7olB8cNg8HLuoog23S3qzv"
     },
     {
       "album": {
@@ -239015,42 +239127,6 @@
     },
     {
       "album": {
-        "name": "Paradise Lost",
-        "url": "https://open.spotify.com/album/4iKcjf9i38SIi4mvFgfNLp"
-      },
-      "artists": [
-        {
-          "name": "Hunter As a Horse",
-          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7olB8cNg8HLuoog23S3qzv"
-    },
-    {
-      "album": {
-        "name": "Lift",
-        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
-      },
-      "artists": [
-        {
-          "name": "TOAST CLUB",
-          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -285638,6 +285714,24 @@
       "duration_ms": 220633,
       "name": "\u8718\u86db\u306e\u7cf8",
       "url": "https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk"
+    },
+    {
+      "album": {
+        "name": "\u87ba\u65cb - RASEN",
+        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190421,
+      "name": "\u87ba\u65cb - RASEN",
+      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "album": {

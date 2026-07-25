@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: N NAO",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 184487,
       "name": "Animal imberbe",
       "url": "https://open.spotify.com/track/6F1rqilX9K5oZ85F6brq0Q"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 228566,
       "name": "Chevaux fant\u00f4mes",
       "url": "https://open.spotify.com/track/0YMRyg8uhvvhrhD7nbp0Io"
@@ -1644,6 +1644,28 @@
       "duration_ms": 200040,
       "name": "Corail",
       "url": "https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm"
+    },
+    {
+      "album": {
+        "name": "Nouveaux Langages",
+        "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Corps (feat. Lou-Adriane Cassidy)",
+      "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
     },
     {
       "album": {
@@ -2261,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+    },
+    {
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa"
       },
@@ -2630,6 +2670,24 @@
       "duration_ms": 197145,
       "name": "Excuse-moi",
       "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
+    },
+    {
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+      },
+      "artists": [
+        {
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "album": {
@@ -3961,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Je t'oublie quand m\u00eame pas",
+        "url": "https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh"
+      },
+      "artists": [
+        {
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210258,
+      "name": "Je t'oublie quand m\u00eame pas",
+      "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
+    },
+    {
+      "album": {
         "name": "Je te dirai tout",
         "url": "https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2"
       },
@@ -4196,6 +4272,24 @@
       "duration_ms": 181480,
       "name": "L'amour des autres",
       "url": "https://open.spotify.com/track/3r4qVYEOtbKCxrkphXpkn6"
+    },
+    {
+      "album": {
+        "name": "L'amour enterr\u00e9 vivant",
+        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "L'amour enterr\u00e9 vivant",
+      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
     },
     {
       "album": {
@@ -5799,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "Ma Chance",
+        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+      },
+      "artists": [
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Ma Chance",
+      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
+    },
+    {
+      "album": {
         "name": "Urubu, gospel d\u2019un charognard",
         "url": "https://open.spotify.com/album/1xfBlC6rPqHUiB5ezMkOEz"
       },
@@ -6110,7 +6222,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 177213,
       "name": "Mes joues",
       "url": "https://open.spotify.com/track/4cUN9JWxHrJeLdkywDGefx"
@@ -7142,7 +7254,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 126496,
       "name": "Partout",
       "url": "https://open.spotify.com/track/79R6VQlKDZtCJbuFMpWXDe"
@@ -7746,7 +7858,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202821,
       "name": "Quel tourment !",
       "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
@@ -7912,7 +8024,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 236551,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"
@@ -8056,7 +8168,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 213599,
       "name": "Roi de verre",
       "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
@@ -9724,6 +9836,24 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
+    {
+      "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
       "album": {

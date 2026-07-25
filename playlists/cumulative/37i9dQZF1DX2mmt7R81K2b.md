@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-155 songs - 12 hr 35 min
+156 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mysticism Of Money \(Fugue in D Minor\)](https://open.spotify.com/track/4dkdCxXB0hTmHJEOPUlTy3) | [Mathis Picard](https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR) | [Mysticism Of Money \(Fugue in D Minor\)](https://open.spotify.com/album/60sYuof0g8tWJBRv5JMS9J) | 5:45 | 2026-01-30 | 2026-06-19 |
 | [Nature Boy \(Arr\. for Trumpet & Piano by Roland Pöntinen\)](https://open.spotify.com/track/3wQtbWvJ4rOSD6o40bOzPs) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS), [Håkan Hardenberger](https://open.spotify.com/artist/4XHFkMzjD64NA1jaVKDJvI), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Eden Ahbez: Nature Boy \(Arr\. for Trumpet & Piano by Roland Pöntinen\)](https://open.spotify.com/album/557jroIso2zHR46t84dw1F) | 4:41 | 2025-12-12 |  |
 | [Night 'n' Day \(Arr\. for 4 Pianos by Gershwin Piano Quartet\)](https://open.spotify.com/track/6kygwZuZtwF8pLaxxIkKaP) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Gershwin Piano Quartet](https://open.spotify.com/artist/1vSBe5nEIu4j9wZ5AkvAgI) | [Porter: Night 'n' Day \(Arr\. for 4 Pianos by Gershwin Piano Quartet\)](https://open.spotify.com/album/2Xjxw6fcYkmo1UjqEndUVm) | 7:21 | 2025-04-25 |  |
+| [Nightride](https://open.spotify.com/track/7rgXADUmIekpqucA6TWdgh) | [Eskil Roos](https://open.spotify.com/artist/2dCZsKYSV49Kf7mshUtF2F), [Gustav Sundquist](https://open.spotify.com/artist/18knGnoxBZ5ijrMQGQRHfk), [Hampus Petersson](https://open.spotify.com/artist/0N5d7hYHM7OGobB5QMio8O) | [Nightride](https://open.spotify.com/album/2BOl24gQPuws4HcFJmKtsP) | 5:00 | 2026-07-24 |  |
 | [Nine Lights](https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb) | [Leif Kaner\-Lidström](https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC) | [In Search Of Beauty](https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL) | 2:33 | 2026-06-26 |  |
 | [Nine on Blue](https://open.spotify.com/track/16Ke0Ui7f8y0qti3apCEIX) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Nine on Blue](https://open.spotify.com/album/1h2StLeVmSrnDOHTHZ2Dt6) | 2:45 | 2026-06-26 |  |
 | [Nocturne No\. 20 In C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE) | [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Impressions On Chopin's Nocturnes](https://open.spotify.com/album/6NMAG8fSNPjlWjcuwEJj46) | 1:56 | 2023-01-04 | 2024-04-19 |

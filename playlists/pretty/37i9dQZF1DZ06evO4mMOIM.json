@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAAANnrMdv41iTxT2QVgMRpWe",
+  "snapshot_id": "amFZgAAAAAAApD/GE8bgSiDNKpkH7QIH",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
+      "duration_ms": 141759,
+      "name": "citizen",
+      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 141759,
-      "name": "citizen",
-      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -531,6 +531,38 @@
       "duration_ms": 415613,
       "name": "Stations of the New Cross",
       "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Rabbits",
+        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
+      },
+      "artists": [
+        {
+          "name": "Bad Rabbits",
+          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        },
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        },
+        {
+          "name": "Justin Beck",
+          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
+        },
+        {
+          "name": "Dres",
+          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "The Choice Is Yours",
+      "url": "https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s"
     },
     {
       "added_at": null,

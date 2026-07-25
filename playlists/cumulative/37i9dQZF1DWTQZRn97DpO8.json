@@ -10925,24 +10925,6 @@
     },
     {
       "album": {
-        "name": "Sexe & the city",
-        "url": "https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS"
-      },
-      "artists": [
-        {
-          "name": "J\u00e4de",
-          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
-        }
-      ],
-      "date_added": "2026-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf"
-    },
-    {
-      "album": {
         "name": "Tranquille",
         "url": "https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG"
       },
@@ -11406,6 +11388,24 @@
       "duration_ms": 166831,
       "name": "Viano",
       "url": "https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf"
+    },
+    {
+      "album": {
+        "name": "Sexe & the city",
+        "url": "https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf"
     },
     {
       "album": {

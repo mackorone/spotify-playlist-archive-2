@@ -2,13 +2,13 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Skillet
+> Listen to the recent hits of Christian Rock\.  Cover: bodie
 
-312 songs - 19 hr 53 min
+315 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A HOLY MESS](https://open.spotify.com/track/0tY7GdyvPaZOnqSuNKqpiu) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [A HOLY MESS](https://open.spotify.com/album/1A2MbKMJBqtU6OI3NsuD0I) | 4:05 | 2025-10-24 |  |
+| [A HOLY MESS](https://open.spotify.com/track/0tY7GdyvPaZOnqSuNKqpiu) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [A HOLY MESS](https://open.spotify.com/album/1A2MbKMJBqtU6OI3NsuD0I) | 4:05 | 2025-10-24 | 2026-07-25 |
 | [A Symphony](https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [A Symphony](https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD) | 3:28 | 2026-06-26 |  |
 | [Absolution](https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Absolution](https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9) | 4:05 | 2026-05-23 |  |
 | [Acts of Piety](https://open.spotify.com/track/0a5ecbwi5na0yP5dhF1VVJ) | [amen](https://open.spotify.com/artist/4oYfyBavNX48RqJIPLbIsP) | [Acts of Piety](https://open.spotify.com/album/0k7oPFu3vU71na759mh0zu) | 4:07 | 2026-05-23 |  |
@@ -97,6 +97,7 @@
 | [Everything You Ever Wanted](https://open.spotify.com/track/7p7qgUCeFGKs3KKI73UKuF) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Audiophile](https://open.spotify.com/artist/1WzHgbLRerusCquTLsOq2T) | [Everything You Ever Wanted](https://open.spotify.com/album/0xriOiFfYg15JlgpCCkDXA) | 3:44 | 2025-09-26 | 2026-03-30 |
 | [Exile](https://open.spotify.com/track/5Wv0yx3Q5KrOzKQnxA46W6) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Exile](https://open.spotify.com/album/5Iu0iD1eNXus3IwYhc0m6R) | 4:23 | 2026-05-23 |  |
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
+| [Face It](https://open.spotify.com/track/4UHk0JM93vwLf6YBt7JMOk) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Face It](https://open.spotify.com/album/1Ad1kibu2S1aLgwDevPXb3) | 3:30 | 2026-07-24 |  |
 | [Faith Over Fear](https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC) | [Aaron Michaels](https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd) | [Faith Over Fear](https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0) | 3:14 | 2023-07-28 |  |
 | [False Teacher](https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF) | [False Teacher](https://open.spotify.com/album/3PRPXE54dzg139VheNYLXN) | 4:20 | 2025-02-28 | 2025-10-25 |
 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 | 2021-05-28 | 2024-06-29 |
@@ -170,7 +171,7 @@
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 | 2026-04-26 |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 | 2024-11-02 |
 | [Look At God](https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Look At God](https://open.spotify.com/album/2C4wpKm09OICCnMbJE05KS) | 2:55 | 2025-05-31 |  |
-| [Losing It](https://open.spotify.com/track/4ky05C3dLT1bmwAQZ76Qu4) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Losing It](https://open.spotify.com/album/39GDvPBRFkksacIUmQhMJz) | 3:29 | 2026-06-12 |  |
+| [Losing It](https://open.spotify.com/track/4ky05C3dLT1bmwAQZ76Qu4) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Losing It](https://open.spotify.com/album/39GDvPBRFkksacIUmQhMJz) | 3:29 | 2026-06-12 | 2026-07-25 |
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 | 2025-03-01 |
 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 | 2022-03-11 | 2024-04-19 |
 | [Lower East Side](https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/2NkJ9lEGNMiqftqoyjO80G) | 3:31 | 2021-05-28 | 2025-03-01 |
@@ -204,7 +205,7 @@
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2022-03-11 | 2024-04-19 |
 | [Paper Doll](https://open.spotify.com/track/40fDHX0Ac4NPheT1Dys5md) | [ALTIRA](https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs) | [Death Of Fear](https://open.spotify.com/album/2WZBkPF4cXKEpTEJfye0dj) | 3:31 | 2026-06-12 |  |
 | [Paper Tiger](https://open.spotify.com/track/1U0ht67MsghfYWitY8MFhz) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1) | [Paper Tiger](https://open.spotify.com/album/2SqRtIyFdU5kspGaayuyhQ) | 2:49 | 2025-11-21 | 2026-05-12 |
-| [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 | 2024-11-01 |  |
+| [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 | 2024-11-01 | 2026-07-25 |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-03-11 | 2024-06-29 |
 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 | 2022-01-14 |  |
 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 | 2026-02-14 |  |
@@ -236,6 +237,7 @@
 | [Scarlet](https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Scarlet](https://open.spotify.com/album/5Co6yLI3KGvUphFbkt4nRM) | 2:59 | 2024-11-01 | 2024-11-14 |
 | [Scream](https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Scream](https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj) | 3:26 | 2026-07-11 |  |
 | [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 | 2022-10-29 | 2024-06-29 |
+| [SELLOUT](https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SELLOUT](https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG) | 2:35 | 2026-07-24 |  |
 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 | 2022-01-14 | 2024-08-31 |
 | [SEVENS](https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVENS](https://open.spotify.com/album/5e5OdQvdEb6hzOvTwMbjM6) | 4:21 | 2025-05-31 |  |
 | [Shadows](https://open.spotify.com/track/1wZAsmtqWDw7Sr9rw9e8Pj) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Shadows](https://open.spotify.com/album/3r5fXhEb4rpSXMNGtCu9hA) | 3:23 | 2022-01-14 | 2022-03-12 |
@@ -304,6 +306,7 @@
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2021-05-28 | 2025-11-22 |
 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 | 2021-05-28 | 2025-11-22 |
 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 | 2021-05-28 | 2024-06-29 |
+| [Whatever That Means](https://open.spotify.com/track/2BfyCEjBgohXNFRmPO9lW3) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1) | [Whatever That Means](https://open.spotify.com/album/7cgnmlDORnvn0M0RFu5Lov) | 3:26 | 2026-07-24 |  |
 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 | 2022-10-29 |  |
 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 | 2023-08-04 | 2024-04-19 |
 | [When We Were Kings](https://open.spotify.com/track/47c3g3qZVvf1myrVQZTnrf) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [When We Were Kings](https://open.spotify.com/album/60NOmOYT5j53Nh3z7Fl3DE) | 4:01 | 2024-08-30 | 2024-11-02 |

@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 192173,
       "name": "A.L.O.T",
       "url": "https://open.spotify.com/track/7FRcnkdWjdBHxwlaWZuChq"
@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "WHAT IF I SAY NO?",
+        "url": "https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180442,
+      "name": "LYRIC BOOK BOY",
+      "url": "https://open.spotify.com/track/0jxCmJPFoIWePWnXTgAGHk"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 104605,
       "name": "MR DND",
       "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 151200,
       "name": "PLACES AND FACES",
       "url": "https://open.spotify.com/track/7kvq9zMWTSiyc1Up5ZtMIo"
@@ -3119,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Same Faces",
+        "url": "https://open.spotify.com/album/0akyXqQKud4LzxU1Lx2m1W"
+      },
+      "artists": [
+        {
+          "name": "deed0t",
+          "url": "https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Same Faces",
+      "url": "https://open.spotify.com/track/7lLhC95zgD2NDhiQ7k0jmc"
+    },
+    {
+      "album": {
         "name": "Sonny Fodera",
         "url": "https://open.spotify.com/album/6hRXvCc6qTduHw94ySMqSy"
       },
@@ -3290,6 +3326,24 @@
       "duration_ms": 122720,
       "name": "Ten (feat. Skepta)",
       "url": "https://open.spotify.com/track/2Zej1ZTJJNDcRj8e8iWUUo"
+    },
+    {
+      "album": {
+        "name": "WHAT IF I SAY NO?",
+        "url": "https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68959,
+      "name": "THE SHOWTIME INTRO",
+      "url": "https://open.spotify.com/track/7nR9J9jzO2FsXHHZx6gBVQ"
     },
     {
       "album": {

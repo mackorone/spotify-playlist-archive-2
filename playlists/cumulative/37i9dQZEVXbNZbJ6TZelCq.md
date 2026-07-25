@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-2,554 songs - 5 day 13 hr 1 min
+2,555 songs - 5 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Balans](https://open.spotify.com/track/26vg12nptZ2J3W7LYgGP6u) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [El Dios Del Trap](https://open.spotify.com/album/3YaKO8Onav9mtrTUQE0tjX) | 2:57 | 2022-08-02 | 2022-08-06 |
 | [BALENCI](https://open.spotify.com/track/0ohMA6mLmyRCmjAf3ZwNAL) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [FLAWLE$$ \- EP](https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY) | 1:42 | 2023-12-29 | 2024-01-01 |
 | [Balenciaga](https://open.spotify.com/track/0DC15gtBUKpv4hh1kScGIY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:32 | 2022-11-26 | 2022-12-10 |
-| [Balerina mea](https://open.spotify.com/track/5tfszTkoWCOrF9xjwynpDQ) | [Nikolas Sax](https://open.spotify.com/artist/6wmhL3W02zIheXny7qPWES) | [Balerina mea](https://open.spotify.com/album/7yA1hJ8nFTg7nirEaCXsuU) | 2:44 | 2026-07-09 |  |
+| [Balerina mea](https://open.spotify.com/track/5tfszTkoWCOrF9xjwynpDQ) | [Nikolas Sax](https://open.spotify.com/artist/6wmhL3W02zIheXny7qPWES) | [Balerina mea](https://open.spotify.com/album/7yA1hJ8nFTg7nirEaCXsuU) | 2:44 | 2026-07-09 | 2026-07-25 |
 | [BALI](https://open.spotify.com/track/3hoCtPKGTfEtVnQfpsBEUz) | [Mobtrap](https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl), [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq) | [BALI](https://open.spotify.com/album/3nbleWYGqaHVLppuarAWsw) | 2:28 | 2021-11-07 | 2022-03-13 |
 | [Balkan](https://open.spotify.com/track/2TrBuJ5xBxYG2x4vSS040S) | [EVT](https://open.spotify.com/artist/3oTsS14vV1ikrANlkKSndj) | [Balkan](https://open.spotify.com/album/69CHNhN4CrQcKyBmn49lxk) | 3:18 | 2024-01-17 | 2024-01-21 |
 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 | 2024-12-03 | 2024-12-22 |
@@ -1462,6 +1462,7 @@
 | [Molotov](https://open.spotify.com/track/3rukzF9QVHpdIUDjYpczRX) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Molotov](https://open.spotify.com/album/43uxNjHNBIaaEfMWTKa9BF) | 2:35 | 2024-06-18 | 2025-05-24 |
 | [Momentu](https://open.spotify.com/track/2Jy3xAK0bcDtDa8C2icPnT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo Chronicles, Vol\. I](https://open.spotify.com/album/36IxAFv88GZe1xhF3H0GnS) | 2:08 | 2025-05-24 | 2025-05-28 |
 | [Mommanem](https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 1:15 | 2025-07-22 | 2025-07-24 |
+| [MON BÉBÉ](https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:10 | 2026-07-24 |  |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-22 | 2025-06-07 |
 | [Monalisa](https://open.spotify.com/track/0eNEHzEWdGZE8iHqzzbME2) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:32 | 2022-06-24 | 2022-07-01 |
 | [Money](https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Money](https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD) | 2:34 | 2024-02-04 | 2024-04-29 |
@@ -1536,7 +1537,7 @@
 | [Necesar](https://open.spotify.com/track/0nkeV4kaa4xvifptkypzDY) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Renvto](https://open.spotify.com/artist/2JrQ0o2hziS7Io5XRiVP6W) | [Necesar](https://open.spotify.com/album/2BaVgV8nOEbHRETHWHm2Le) | 3:08 | 2022-06-08 | 2022-10-23 |
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-14 | 2021-06-20 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-06-27 | 2022-01-05 |
-| [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 |  |
+| [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 | 2026-07-25 |
 | [Neiubita ta](https://open.spotify.com/track/30ez5ibqjbK1AySCZBFKax) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Neiubita ta](https://open.spotify.com/album/2S2ROlqR75qyK9juZymOIG) | 2:49 | 2023-03-01 | 2023-03-27 |
 | [NETFLIX & CHILL](https://open.spotify.com/track/3QU5eXxZW0R9G9gAh0AFRP) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:39 | 2021-12-12 | 2021-12-13 |
 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-07 | 2024-09-09 |
@@ -2166,7 +2167,7 @@
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |
 | [Sweet Talk](https://open.spotify.com/track/4qYIoc9oI6E95LfAyxy3iu) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [Sweet Talk](https://open.spotify.com/album/3YdIeguoqu8B2m1BeffKVw) | 2:20 | 2023-10-03 | 2023-10-08 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 | 2026-03-23 |
-| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 | 2026-07-18 |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2021-12-29 | 2025-01-15 |
 | [Sânge](https://open.spotify.com/track/3YnZem5WS2yN0Tj1AMCKoD) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Voodoo](https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV) | 2:15 | 2022-02-21 | 2022-02-28 |
 | [Sânge pe pat și pe podea](https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:49 | 2022-11-26 | 2023-07-16 |

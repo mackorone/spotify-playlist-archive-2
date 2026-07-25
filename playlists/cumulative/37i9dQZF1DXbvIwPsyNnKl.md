@@ -4,7 +4,7 @@
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: kiddotin
 
-452 songs - 1 day 0 hr 55 min
+454 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-04 | 2025-01-30 |
 | [SAPATOS KO](https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [SAPATOS KO](https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS) | 3:09 | 2024-12-18 | 2025-03-14 |
 | [SASAMA KA BA?](https://open.spotify.com/track/5OBmTGkTUBcBWRe1ep6kfs) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL), [WY](https://open.spotify.com/artist/6lsvM1KsDaX0fq7GouKIXQ) | [SASAMA KA BA?](https://open.spotify.com/album/6wPjG0DPUxcqqlHFDBHPiu) | 2:41 | 2025-11-19 | 2026-02-20 |
+| [Sayang](https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Contrast](https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq) | 3:05 | 2026-07-24 |  |
 | [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 | 2024-06-13 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |
 | [SHAKE](https://open.spotify.com/track/4NnmCGyfZYE50geEwOUoo7) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [SHAKE](https://open.spotify.com/album/57kIwmgt1i3V2KpC1dKtTY) | 2:01 | 2025-01-01 | 2025-06-05 |
@@ -428,6 +429,7 @@
 | [ULAP](https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [ULAP](https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c) | 4:50 | 2026-07-10 |  |
 | [ULE](https://open.spotify.com/track/4wM6llqPg29vBCDbHOqAL7) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [ULE](https://open.spotify.com/album/40kaswSyuvhlmFH4FDIIJU) | 1:21 | 2026-03-11 | 2026-06-11 |
 | [Umaga \- Spotify Singles](https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm), [Ramdiss](https://open.spotify.com/artist/6Tfk9MrJjusZ8mvmwHegR6) | [Umaga \- Spotify Singles](https://open.spotify.com/album/6d5kDZ9af7LFXe4UcAazj1) | 4:03 | 2023-11-01 | 2024-01-18 |
+| [UP](https://open.spotify.com/track/2VyoHPK5c8MMRJzKoCPXuP) | [Joseph Ama](https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz) | [UP](https://open.spotify.com/album/2VI6Mv326jCXPB2lftW1ky) | 2:45 | 2026-07-24 |  |
 | [Usok](https://open.spotify.com/track/1DgAcp83SL4Hjqylu0U7YL) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Usok](https://open.spotify.com/album/5Ka2DuvLqn9a19MMe6sfeg) | 2:55 | 2026-02-20 | 2026-04-23 |
 | [UZI NI LUCKY](https://open.spotify.com/track/1FttSFLE8KumSjYCwMYKNJ) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Godd Patron](https://open.spotify.com/artist/4Rn9rDVPtPwhQns97r95JO), [R to the L](https://open.spotify.com/artist/72LR6kFt7R1AO8sGz40Pm4), [Cozy Wrld](https://open.spotify.com/artist/7j78RtM1knwwcgsZ4bPpFG), [Wing Goods](https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2) | [UZI NI LUCKY](https://open.spotify.com/album/596jTjeeQSaWTOaaXMoBn7) | 4:48 | 2025-06-18 | 2025-07-31 |
 | [Vertigo](https://open.spotify.com/track/2RlMqLQHI2TcHxZ0fjJmZR) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Vertigo](https://open.spotify.com/album/37QgURYpAO5OrHte70dtQW) | 2:45 | 2026-07-03 |  |

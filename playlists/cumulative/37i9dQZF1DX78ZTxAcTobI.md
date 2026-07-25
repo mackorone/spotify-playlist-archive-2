@@ -4,7 +4,7 @@
 
 > Love and adventure under the Texas sun\. Listen to the music from, and inspired by, Ransom Canyon, now streaming on Netflix.
 
-114 songs - 6 hr 14 min
+117 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Hurting](https://open.spotify.com/track/1Tr1aFBfV5lyFYRy3bEJ4A) | [Livingmore](https://open.spotify.com/artist/4b9RSRAYiQR7Ok3PQoBJf8) | [Hurting](https://open.spotify.com/album/2oEYiT6hWTnPHWZDhicAkG) | 3:14 | 2026-07-23 |  |
 | [I Fear You](https://open.spotify.com/track/62G3XoCbuPuZeG3lGYJnhh) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [I Fear You](https://open.spotify.com/album/6CCTSRlllecizZtIIcpOyB) | 4:15 | 2026-07-23 |  |
 | [I Got You](https://open.spotify.com/track/65AyDpUaTptiLJ3iqOXkb6) | [Brophy](https://open.spotify.com/artist/7q8ZVPuRHnOHmkTdtELNmm), [Josh Johnson](https://open.spotify.com/artist/763gVqfkTxYhbkyfl9Siij) | [I Got You](https://open.spotify.com/album/48W4tYsfyvGoUUnT276Juq) | 3:29 | 2025-04-28 |  |
+| [I Just Burn](https://open.spotify.com/track/77rg0UJnfspsNgu3QnLzId) | [Dunsun](https://open.spotify.com/artist/4Y6vi6z9cgdF3DUvN2laGm) | [I Just Burn](https://open.spotify.com/album/4TIfTWjni8nLJndgTVp4T2) | 2:51 | 2026-07-24 |  |
 | [I Need Your Love](https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:21 | 2025-04-28 |  |
 | [I'M BACK](https://open.spotify.com/track/6EUv00j75lwbGTAG0s1FUe) | [Sherilyn](https://open.spotify.com/artist/51l9gzk537IShDzGBfLxSp) | [I'M BACK](https://open.spotify.com/album/1Ps8v4nuT3S9Px9X99I0IM) | 2:35 | 2025-04-28 |  |
 | [I'm Still Cryin'](https://open.spotify.com/track/2nZtvajgxFVhZhnItKjFX0) | [Mike Goudreau](https://open.spotify.com/artist/7frI06yrq8JdMudQyA5ytr) | [Blues Et Cetera](https://open.spotify.com/album/5u7H6wl89BTYMFavdADMmW) | 3:45 | 2026-07-23 |  |
@@ -77,6 +78,7 @@
 | [Keep Burning](https://open.spotify.com/track/2pFFO2rRKv1TEmYndrBdhD) | [Grand Am](https://open.spotify.com/artist/7up6cEVTOosSVMkik86Fzx) | [Sweet Tooth](https://open.spotify.com/album/14KvN5mRVwcH0RKeC18oLa) | 3:13 | 2025-04-28 |  |
 | [Kissing Cowboys](https://open.spotify.com/track/1OMKyVwpJLBKhi7ySwqP5d) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Love & Light](https://open.spotify.com/album/6HX6IOpNWjIVoctAFCe1CW) | 3:02 | 2026-07-23 |  |
 | [Lean In](https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Lean In](https://open.spotify.com/album/3Ye8tnkENwAK80262hRjVQ) | 3:10 | 2025-04-28 |  |
+| [Let Me Be Your Home](https://open.spotify.com/track/2MjoyIN5C6eM3rUTJNkTkC) | [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC) | [Let Me Be Your Home](https://open.spotify.com/album/5DMXiu9dwyFh5KdHr7rfYw) | 4:05 | 2026-07-24 |  |
 | [Let Me Take You](https://open.spotify.com/track/1HJkMSpfAGKVi0rKP87XAD) | [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC) | [Let Me Take You](https://open.spotify.com/album/7lRBcKG3Lc6TZj6471bxeH) | 3:26 | 2025-04-28 |  |
 | [Like A Bull](https://open.spotify.com/track/42NVxtBau7bqYgRAtlZfui) | [Bavoh](https://open.spotify.com/artist/3V5j3Jv69A9FxH9XfTxjOD), [Pynk Beard](https://open.spotify.com/artist/7arsY1oYkvANg3CNAxdp9Y) | [Like A Bull](https://open.spotify.com/album/6FyoqYmYFkrcTinmnuP8Ea) | 3:18 | 2026-07-23 |  |
 | [Livin' Like A Rock Star](https://open.spotify.com/track/0gZ2w7wsnO1oqbdKqmEgiy) | [Kevin Shaffer Schuhmacher](https://open.spotify.com/artist/5AKsV2F7fJAX5BoUSXDuUo) | [Livin' Like A Rock Star](https://open.spotify.com/album/4K8XOelwCWfC9RnZTEoL3R) | 2:31 | 2025-04-28 |  |
@@ -116,6 +118,7 @@
 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 | 2025-04-28 |  |
 | [West of Lonesome](https://open.spotify.com/track/1qh6To7Z0nZ4lnKcxnCTwK) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/2037mw8neL72exAlwyoCSc) | 4:20 | 2025-04-28 |  |
 | [When I Was In New York](https://open.spotify.com/track/73FQTnW0NYtdOsFp6YH0nG) | [Jeff Cardoni](https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0) | [Ransom Canyon: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1) | 2:46 | 2026-07-23 |  |
+| [White Lightning](https://open.spotify.com/track/1WZFlawJ6873OKkKLiIUiF) | [Elijah Honey](https://open.spotify.com/artist/0dnyPqQd1IgnlGpM3VOVEJ) | [White Lightning](https://open.spotify.com/album/4vigviMNnjmzIg1cO7tAhk) | 2:45 | 2026-07-24 |  |
 | [White Trash Weekend](https://open.spotify.com/track/7LNNOSB5zQ1GxYah2qSJnh) | [Jason & The Haymakers](https://open.spotify.com/artist/4Q9ALIOkg3gjoFd0sq7roG) | [True, Original, American Country](https://open.spotify.com/album/6fFHKi3syBebO5BvVFIdDp) | 4:38 | 2025-04-28 |  |
 | [who are you](https://open.spotify.com/track/3lyJMafyQjqx0qnILMzRq7) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 4:10 | 2025-04-28 |  |
 | [With Fire](https://open.spotify.com/track/3devm77MWRBUs0mJOrqrw4) | [Katie Sevigny](https://open.spotify.com/artist/3GaayQX2b2zv8gIX5i3eiL) | [With Fire](https://open.spotify.com/album/6JR9Hqa8slZUkMeKwreKYf) | 2:51 | 2025-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Voici les hits du moment avec Céline Dion
 
-726 songs - 1 day 14 hr 15 min
+727 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-13 | 2023-07-15 |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-07-09 | 2023-01-14 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-09-01 | 2024-05-25 |
+| [VAISSEAU](https://open.spotify.com/track/23yAISMj2p7m9oGDkyITmM) | [Jgamalielz Official](https://open.spotify.com/artist/1C4WMvh3mxQKt1KGZo7AlO), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [VAISSEAU](https://open.spotify.com/album/1QstXo6Qdpkmg3v74b7jgR) | 2:58 | 2026-07-24 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 | 2024-03-02 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-14 | 2023-09-11 |
 | [Vraiment](https://open.spotify.com/track/7J3cONRfk18KhNX08k8Ydk) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Vraiment](https://open.spotify.com/album/6H4NS2GCkvTMRQNUdtj8bY) | 2:47 | 2022-07-09 | 2022-10-09 |
@@ -731,7 +732,7 @@
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2023-01-28 |
 | [Zendaya](https://open.spotify.com/track/5FK0U9DnJ8UEJNkwUuUL74) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Zendaya](https://open.spotify.com/album/3FKIScubGhjN8tUjWCDCuf) | 2:35 | 2026-03-10 | 2026-07-18 |
 | [À ce que je sache](https://open.spotify.com/track/6EQmn1vi8v7z4nkcq1cVwf) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [À ce que je sache](https://open.spotify.com/album/7irQltiqhqRTJEgCVfqwPM) | 2:28 | 2025-12-19 | 2026-03-11 |
-| [À l'aise](https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:59 | 2026-07-17 |  |
+| [À l'aise](https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:59 | 2026-07-17 | 2026-07-25 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-02-24 | 2024-04-19 |
 | [Évidemment](https://open.spotify.com/track/1c6zwsXfULeO1c6MysHcn2) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/0GUO9m33TcH1dQsVBTe9ih) | 3:01 | 2024-04-19 | 2024-05-11 |
 

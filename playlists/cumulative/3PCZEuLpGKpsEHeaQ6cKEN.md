@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,858 songs - 4 day 2 hr 27 min
+1,859 songs - 4 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1703,6 +1703,7 @@
 | [Truths \(Making Moves\)](https://open.spotify.com/track/1hW08wZIIk8wkaHRwBkLyw) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 2:56 | 2023-07-31 | 2023-09-01 |
 | [Turn Around \(Hey What's Wrong With You\) \- Les Bisous Remix](https://open.spotify.com/track/2vtUH9XfiMNdqXm8tPmoh3) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Turn Around \(Hey What's Wrong With You\) \[Les Bisous Remix\]](https://open.spotify.com/album/4dVjv3aXTYydV3xZvAyS2i) | 2:51 | 2022-09-08 | 2022-10-28 |
 | [Turn Around \(Hey What's Wrong With You\) \- Paco Osuna Remix](https://open.spotify.com/track/53Lvu571F1IRjb6Kae8fJu) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3) | [Turn Around \(Hey What's Wrong With You\) \[Paco Osuna Remix\]](https://open.spotify.com/album/2Nq5jyuzvNjaGLYWNxRnqi) | 2:34 | 2025-08-22 |  |
+| [Turn The Tide](https://open.spotify.com/track/5oZ1UaNmhcW6u5RbN1QxJT) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/4YPWLIpNZOmcHyVhqq1gUU) | 2:59 | 2026-07-24 |  |
 | [Turpentine](https://open.spotify.com/track/4R6o0SuGIlPyfGeMmSHkcR) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Turpentine](https://open.spotify.com/album/0fjen72OCfY4eKqPUhYxTR) | 3:53 | 2024-03-21 | 2024-10-04 |
 | [Turtulleshë \- Kingja Remix](https://open.spotify.com/track/3hJudw7SmFpeZyOgIjM4o5) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD), [Kingja](https://open.spotify.com/artist/3D28WlYwddq9DmCxVJ3QZ0) | [Turtulleshë \(Kingja Remix\)](https://open.spotify.com/album/6GhGZpMtqpvORpSoXvj19V) | 3:26 | 2023-05-25 | 2023-12-14 |
 | [Two Caps](https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Two Caps](https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA) | 3:03 | 2022-08-25 | 2023-01-20 |

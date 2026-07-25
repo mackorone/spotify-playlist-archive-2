@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Joey Alexander",
+  "description": "New jazz for open minds. Cover: Nicholas Payton & Butcher Brown",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -884,6 +884,28 @@
       "duration_ms": 264692,
       "name": "Achilles Heel - Subharmonic Version",
       "url": "https://open.spotify.com/track/5kOkyjSGWwJCdlu9PuI5Ln"
+    },
+    {
+      "album": {
+        "name": "A Supreme Blue",
+        "url": "https://open.spotify.com/album/6g0hUzE7MozpOpJR0Y8uuk"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466786,
+      "name": "Acknowledgement",
+      "url": "https://open.spotify.com/track/4IjZDtzKy4udPAXl8t8NqL"
     },
     {
       "album": {
@@ -4559,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Sangam & Friends",
+        "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486226,
+      "name": "Bharati\u2019s Dance, Tempo Divine",
+      "url": "https://open.spotify.com/track/5ttXh7cGOjCE8QxPK3bI5u"
+    },
+    {
+      "album": {
         "name": "BIG",
         "url": "https://open.spotify.com/album/0sLWffIotCNNIvcStSlkQa"
       },
@@ -5330,7 +5370,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 374466,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z"
@@ -6522,6 +6562,32 @@
       "duration_ms": 77086,
       "name": "Calling Dreams (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN"
+    },
+    {
+      "album": {
+        "name": "Camellia",
+        "url": "https://open.spotify.com/album/05ovVPEjKBCGj8F1ZSRFBf"
+      },
+      "artists": [
+        {
+          "name": "Milan93",
+          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/76rPVDRzBRrdlIcuu7WyHW"
     },
     {
       "album": {
@@ -23321,6 +23387,32 @@
     },
     {
       "album": {
+        "name": "Mameya",
+        "url": "https://open.spotify.com/album/12BWRqfqWyK3cgwhnZlpGK"
+      },
+      "artists": [
+        {
+          "name": "Dan White",
+          "url": "https://open.spotify.com/artist/5qgSeztKtoZPWSpRJalkZr"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Scott Amendola",
+          "url": "https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267704,
+      "name": "Mameya",
+      "url": "https://open.spotify.com/track/2UDf5oZY5qgwUATAElcd26"
+    },
+    {
+      "album": {
         "name": "Our Community Will Not Be Erased",
         "url": "https://open.spotify.com/album/2tEfIZ3BGDlXSmEhLGUzre"
       },
@@ -25881,6 +25973,36 @@
     },
     {
       "album": {
+        "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+        "url": "https://open.spotify.com/album/3OGYyHdEKhbiaPrpXDIxgd"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Tony Stone",
+          "url": "https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200569,
+      "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+      "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
+    },
+    {
+      "album": {
         "name": "Behind the Tea Chronicles",
         "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
       },
@@ -26422,7 +26544,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 204137,
       "name": "North London Pace",
       "url": "https://open.spotify.com/track/361AnXfEJHmjvDpTlJ7VpB"
@@ -28741,6 +28863,40 @@
     },
     {
       "album": {
+        "name": "Peace of Mind (feat. 9th Wonder)",
+        "url": "https://open.spotify.com/album/13MkqHdMyvgZD1DDC8iNYR"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210430,
+      "name": "Peace of Mind (feat. 9th Wonder)",
+      "url": "https://open.spotify.com/track/21EuwZ7A0SxwVKNHXNF7ed"
+    },
+    {
+      "album": {
         "name": "Berlin Baritone",
         "url": "https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ"
       },
@@ -29940,7 +30096,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 642113,
       "name": "Promise of Fellowship Kept",
       "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
@@ -30170,7 +30326,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 322813,
       "name": "Pursuance",
       "url": "https://open.spotify.com/track/0adIBPfUdFtCT2cEuHt0px"
@@ -30732,7 +30888,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
@@ -32120,7 +32276,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 431266,
       "name": "Sam on the Ganges",
       "url": "https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l"
@@ -32625,7 +32781,7 @@
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 135499,
+      "duration_ms": 135504,
       "name": "Sentimental Things",
       "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
     },

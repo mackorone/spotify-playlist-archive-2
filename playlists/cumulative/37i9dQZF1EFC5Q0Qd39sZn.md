@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-694 songs - 1 day 23 hr 56 min
+695 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 | 2023-12-30 |  |
 | [No Puedo Vivir \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/2xzrLeRAQ7bpIhjx8mIHfM) | [Orlando](https://open.spotify.com/artist/4CFVwKkEV3fPV2hr6ISfPH) | [Sus Exitos](https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E) | 4:39 | 2023-12-30 | 2024-07-11 |
 | [No Quiero Estar Solo \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/045UJJgTyiur8Nb43cgHdB) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Tesoros De Colección](https://open.spotify.com/album/4FXrmGk8amalcdXTBy33Il) | 3:50 | 2023-12-30 |  |
-| [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/25sP6BIhxLceApCIjdlwN0) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/07wUCc2JLgKnza6uGJUqW4) | 3:58 | 2024-07-10 |  |
+| [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/25sP6BIhxLceApCIjdlwN0) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/07wUCc2JLgKnza6uGJUqW4) | 3:58 | 2024-07-10 | 2026-07-25 |
+| [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/2ISatZqzqX4VzDvTtwzT3O) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/0AD2gqC2HMW3KVb63Huony) | 3:58 | 2026-07-24 |  |
 | [Not A Dry Eye In The House](https://open.spotify.com/track/6c0DXVlFO5blfmDoke22rB) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 5:54 | 2023-12-30 |  |
 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 | 2023-12-30 |  |
 | [Not Prepared For You](https://open.spotify.com/track/2cY9Hz1bihEOxPkUx3oFCA) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:52 | 2026-05-19 |  |

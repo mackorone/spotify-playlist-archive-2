@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 269002,
+  "num_followers": 269038,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 164792,
+      "name": "Drag Me Back In",
+      "url": "https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "The Lily",
         "url": "https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
+        "name": "Ain't Got No Troubles",
+        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
       "artists": [
         {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
         }
       ],
-      "duration_ms": 164792,
-      "name": "Drag Me Back In",
-      "url": "https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd"
+      "duration_ms": 232600,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -283,22 +299,6 @@
       "duration_ms": 230533,
       "name": "Fish Outta Water",
       "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Ain't Got No Troubles",
-        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "The Beautiful Bones",
-        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
-      },
-      "artists": [
-        {
-          "name": "Kelley Hunt",
-          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "Release and Be Free",
-      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Letters from a Black Widow",
         "url": "https://open.spotify.com/album/4YJpoX2zeOy7maGeN2Sa14"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 255084,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/7eslw47vXY57xEdehPU8RO"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "The Beautiful Bones",
+        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
+      },
+      "artists": [
+        {
+          "name": "Kelley Hunt",
+          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Release and Be Free",
+      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2024-08-13 17:16:13",

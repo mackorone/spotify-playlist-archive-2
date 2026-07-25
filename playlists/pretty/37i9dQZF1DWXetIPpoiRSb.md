@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> pop music 🌟 kim petras on the cover
+> pop's R&D department 🎀 <br/>cover: AMARA ctk100
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,379 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,367 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 8 | [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 |
 | 9 | [The Peace](https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 2:49 |
 | 10 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
-| 11 | [Next to U](https://open.spotify.com/track/0Iv843yoJKRzslYIPlYTv2) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hardcore Software](https://open.spotify.com/album/5OFEtLZrp06iFWsYRduwEp) | 2:56 |
+| 11 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 | 12 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 13 | [pictures](https://open.spotify.com/track/3DRd90F0ZQUqykRyygDMja) | [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [pictures](https://open.spotify.com/album/5MT18i1LkPsKk76ZeH2Tz8) | 2:52 |
 | 14 | [SEXUALITY](https://open.spotify.com/track/1A1wzR1nOo0J2e6y1P4TpT) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [GLAMOUR IN A BURNING WORLD](https://open.spotify.com/album/0CR8Kha8SuzJKCZeRainkt) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [THONG](https://open.spotify.com/track/5r1D9DtMEElNntJiidxjHG) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [THONG](https://open.spotify.com/album/0vVInRXzDq970OkAn1GMZg) | 2:32 |
 | 80 | [Simple Solution](https://open.spotify.com/track/69sfdnccdv6qGt8lguf0En) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Us Forever](https://open.spotify.com/album/2eLMyVmP9ywXfYMT1PA645) | 3:32 |
 
-Snapshot ID: `AAAAAFYqkRbjjCw0phfk96DJRf3Vrlrm`
+Snapshot ID: `AAAAACU7WlQGDRBDJyua/f2s/hHk1hBH`

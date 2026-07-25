@@ -4,7 +4,7 @@
 
 > for the late nights
 
-106 songs - 5 hr 47 min
+107 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2025-08-07 |  |
 | [Blue Stripes](https://open.spotify.com/track/4LIHG1NG2MniJdicvCEg9X) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 3:15 | 2025-08-07 |  |
 | [Braid It Back](https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:20 | 2025-08-07 |  |
+| [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 | 2025-08-07 |  |
 | [Button Up](https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Frederick James](https://open.spotify.com/artist/2RnIV6LQZJMcJHTkMCxmq4) | [Button Up](https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L) | 2:37 | 2025-08-07 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2025-08-07 |  |
 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 | 2025-08-07 |  |
@@ -100,7 +101,7 @@
 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 | 2025-08-07 |  |
 | [Stay](https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Stay](https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe) | 2:55 | 2025-08-07 |  |
 | [Stay Up](https://open.spotify.com/track/1j2nst74Fri33ZcEP3tbaP) | [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [Stay Up](https://open.spotify.com/album/05iSw1a8uWIchW2ntRaEVE) | 2:14 | 2025-08-07 |  |
-| [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-08-07 |  |
+| [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-08-07 | 2026-07-25 |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2025-08-07 |  |
 | [The Invisible Man](https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [The Invisible Man](https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ) | 6:05 | 2025-08-07 |  |
 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 | 2025-08-07 |  |

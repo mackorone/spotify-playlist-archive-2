@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "Bruckner: Symphony No. 4 in E-Flat Major, WAB 104 \"Romantic\" (1878/1881 Version)",
+        "url": "https://open.spotify.com/album/72uN6vjeSKDN2dSzimA6cW"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruckner",
+          "url": "https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2"
+        },
+        {
+          "name": "Nathalie Stutzmann",
+          "url": "https://open.spotify.com/artist/01nToDFj9swyFm6Pm3H2EL"
+        },
+        {
+          "name": "Atlanta Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4Ty9IkZ89a93AEwhLGTjo6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Bruckner: Symphony No. 4 in E-Flat Major, WAB 104 \"Romantic\": II. (a) Andante quasi allegretto (1878/1881 Version)",
+      "url": "https://open.spotify.com/track/34iCLrdwN9Ub8e2blx4UMT"
+    },
+    {
+      "album": {
         "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci (2CDs)",
         "url": "https://open.spotify.com/album/7zWTySsAL1CsAci1rJbUkY"
       },
@@ -1974,6 +2000,28 @@
       "duration_ms": 302666,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
       "url": "https://open.spotify.com/track/5UkbwAMingVKxFmagDPlxs"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Opp. 109, 110 & 111 (Live at Suntory Hall, Tokyo, 2025)",
+        "url": "https://open.spotify.com/album/4O9pZRZ6zUuiv3GmSn295G"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438520,
+      "name": "Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile molto espressivo - Live at Suntory Hall, Tokyo, 2025",
+      "url": "https://open.spotify.com/track/6QCvbFdLmpdWIcTe2XlIs2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Kygo ",
+  "description": "The hottest new pop with all the drops. Cover: Martin Garrix & U2 ",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -444,6 +444,24 @@
       "duration_ms": 136642,
       "name": "24k Heart Of Gold",
       "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/1HG5GUskLA8v9zMPqgAXHU"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168375,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/18IcMSwjYvrFi9oKSNl9iL"
     },
     {
       "album": {
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 189852,
       "name": "Apocalypto",
       "url": "https://open.spotify.com/track/099LZcgh0TDUaEV1RY5ayn"
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 115966,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/6QyCxKdH6n2bfV49UI9pmC"
@@ -10512,7 +10530,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 184285,
       "name": "Dream Out Loud",
       "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
@@ -11004,6 +11022,28 @@
       "duration_ms": 168902,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/4KETt1cheIlCStKidaRQMh"
+    },
+    {
+      "album": {
+        "name": "Dumb Decisions",
+        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118119,
+      "name": "Dumb Decisions",
+      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
     },
     {
       "album": {
@@ -11696,7 +11736,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 177344,
       "name": "Euphoria - Radio Edit",
       "url": "https://open.spotify.com/track/4AlcZ3atk5vbFsbTdVkqTt"
@@ -12591,6 +12631,28 @@
     },
     {
       "album": {
+        "name": "Feel It (Oh My Days)",
+        "url": "https://open.spotify.com/album/0OWsNw2vvlZob0ltVjr9Eb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wudhouse",
+          "url": "https://open.spotify.com/artist/2wsmSvLq3FeM5elwxYOv8F"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Feel It (Oh My Days)",
+      "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
+    },
+    {
+      "album": {
         "name": "Feel it in My",
         "url": "https://open.spotify.com/album/0Pkd9QUxE3g1sXJtkSIJ9w"
       },
@@ -13212,6 +13274,28 @@
       "duration_ms": 123624,
       "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
     },
     {
       "album": {
@@ -14082,7 +14166,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 210249,
       "name": "Free to Love - Harrison Remix",
       "url": "https://open.spotify.com/track/5cS3rCcqTbw5rOJNJeiiDF"
@@ -21769,6 +21853,28 @@
     },
     {
       "album": {
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/5230mkvEzWhiy0tlzWz5v9"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX"
+    },
+    {
+      "album": {
         "name": "last night i dreamt i fell in love",
         "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
@@ -29127,6 +29233,24 @@
     },
     {
       "album": {
+        "name": "ONE CALL AWAY.",
+        "url": "https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176050,
+      "name": "ONE CALL AWAY.",
+      "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
+    },
+    {
+      "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
       },
@@ -32752,7 +32876,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 113618,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk"
@@ -33506,7 +33630,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
@@ -33708,6 +33832,24 @@
       "duration_ms": 186500,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+    },
+    {
+      "album": {
+        "name": "Brace Yourself",
+        "url": "https://open.spotify.com/album/6K6TUKKDuyi5JtRn3qpK0q"
+      },
+      "artists": [
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268341,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/15TaBpXonkkLMRBw6Nxy55"
     },
     {
       "album": {
@@ -38520,7 +38662,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 167000,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu"
@@ -39726,7 +39868,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 162346,
       "name": "The One",
       "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"
@@ -40762,7 +40904,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 202248,
       "name": "Torture of the Heart",
       "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
@@ -43725,6 +43867,28 @@
     },
     {
       "album": {
+        "name": "Where She Come From",
+        "url": "https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150245,
+      "name": "Where She Come From",
+      "url": "https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd"
+    },
+    {
+      "album": {
         "name": "Where We Go",
         "url": "https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE"
       },
@@ -44468,7 +44632,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176258,
       "name": "Without You (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
@@ -44746,6 +44910,32 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
     },
     {
       "album": {
@@ -45412,6 +45602,28 @@
       "duration_ms": 127653,
       "name": "You Don't Really Wanna",
       "url": "https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5"
+    },
+    {
+      "album": {
+        "name": "You Don't Want To Think About It",
+        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "You Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
     },
     {
       "album": {

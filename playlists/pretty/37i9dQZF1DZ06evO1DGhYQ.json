@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9695,
+  "num_followers": 9698,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amAIAAAAAACnpTDd0c7SHWEygc77dIAQ",
+  "snapshot_id": "amFZgAAAAAChQsqO/Mywj+LdNHKcSSn1",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus Funk",
-        "url": "https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u53d6\u614e\u543e",
-          "url": "https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx"
-        },
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 283347,
-      "name": "SURVIVE\uff08feat. LEO from ALI\uff09",
-      "url": "https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE IS KILLING ME",
         "url": "https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 209433,
       "name": "LOVE IS KILLING ME",
       "url": "https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus Funk",
+        "url": "https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u53d6\u614e\u543e",
+          "url": "https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 283347,
+      "name": "SURVIVE\uff08feat. LEO from ALI\uff09",
+      "url": "https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD"
     },
     {
       "added_at": null,

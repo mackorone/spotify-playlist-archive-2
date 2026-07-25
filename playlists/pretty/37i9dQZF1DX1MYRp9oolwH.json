@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
-  "num_followers": 171191,
+  "num_followers": 171210,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPTk3f3fU0Wjv5rAeiVthnKITNm1",
+  "snapshot_id": "AAAAAIV2aI62b9pwVzUes2DI8NOr9dRH",
   "tracks": [
     {
       "added_at": "2026-07-20 06:30:37",
@@ -295,6 +295,34 @@
       "duration_ms": 222501,
       "name": "Ee Vayase (From \"Gurthukosthunnayi\")",
       "url": "https://open.spotify.com/track/622AYDOXY2oQvzeGcoUX0X"
+    },
+    {
+      "added_at": "2026-07-24 06:05:02",
+      "album": {
+        "name": "Madhurama (From \"Adhey Neevu Adhey Nenu\")",
+        "url": "https://open.spotify.com/album/7EYlP2sdF6eVQ95Vp8P8Dp"
+      },
+      "artists": [
+        {
+          "name": "Kanishka",
+          "url": "https://open.spotify.com/artist/2Gmx9pLTDcl1XWU0r8vWI2"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Jayashree",
+          "url": "https://open.spotify.com/artist/2liDNxL91IGXPHp5rJKF3M"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Madhurama (From \"Adhey Neevu Adhey Nenu\")",
+      "url": "https://open.spotify.com/track/06YR4KuSDsNPhLuo3FzMke"
     },
     {
       "added_at": "2026-07-23 07:50:23",
@@ -1159,34 +1187,6 @@
       "duration_ms": 185138,
       "name": "Manga Manga (From \"Srinivasa Mangapuram\")",
       "url": "https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC"
-    },
-    {
-      "added_at": "2026-04-06 04:36:35",
-      "album": {
-        "name": "BIKER",
-        "url": "https://open.spotify.com/album/1orPs3If0nlStixmpnC8nE"
-      },
-      "artists": [
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        },
-        {
-          "name": "Raghu Ram",
-          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Emaindo",
-      "url": "https://open.spotify.com/track/09bFApsztN37dcVl3aYxVC"
     },
     {
       "added_at": "2026-05-21 08:04:42",

@@ -4443,6 +4443,28 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa"
+    },
+    {
+      "album": {
         "name": "So H\u00ef (VIP Mix)",
         "url": "https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae"
       },

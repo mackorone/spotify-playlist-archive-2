@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: El Rabbanito",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Natanael Cano",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156283,
       "name": "4x4",
       "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 139692,
       "name": "A La Orden",
       "url": "https://open.spotify.com/track/5ERFjbUT2UNZ2PrVl1tTW2"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 140880,
       "name": "Chalito",
       "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219605,
       "name": "CUANDO FUERA GRANDE",
       "url": "https://open.spotify.com/track/7CB0RrvVDm3hLF7mElg6er"
@@ -2896,6 +2896,24 @@
       "duration_ms": 169760,
       "name": "Culiac\u00e1n Vs. Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr"
+    },
+    {
+      "album": {
+        "name": "Cumplo La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/03PwzVf8sqYheJQ4koAFt1"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196167,
+      "name": "Cumplo La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/3aXEcY9p5q8UOToHBMdY6A"
     },
     {
       "album": {
@@ -4112,6 +4130,24 @@
       "duration_ms": 167132,
       "name": "El B\u00e9lico",
       "url": "https://open.spotify.com/track/3Aa53BCQxLcCQ5wscC0KuC"
+    },
+    {
+      "album": {
+        "name": "El Caballero",
+        "url": "https://open.spotify.com/album/6yzbOTfkRmfZU6lqEynB46"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180912,
+      "name": "El Caballero",
+      "url": "https://open.spotify.com/track/108fKCiefzast0veFseUc0"
     },
     {
       "album": {
@@ -5654,7 +5690,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 263111,
       "name": "El Ni\u00f1o Sicario",
       "url": "https://open.spotify.com/track/1bDQbuDh588gw9zxRaQzWI"
@@ -5862,7 +5898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 178536,
       "name": "El Precio",
       "url": "https://open.spotify.com/track/1eJGR5UCd3a4Vur1Y6pfB0"
@@ -8439,6 +8475,24 @@
     },
     {
       "album": {
+        "name": "La Birria de Estela",
+        "url": "https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176722,
+      "name": "La Birria de Estela",
+      "url": "https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL"
+    },
+    {
+      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -8810,7 +8864,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203710,
       "name": "La Opini\u00f3n",
       "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
@@ -9908,7 +9962,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 178750,
       "name": "LUCID DREAMS",
       "url": "https://open.spotify.com/track/0Ep9mfByYoxK6iCW3gnTI1"
@@ -10220,7 +10274,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 134581,
       "name": "Maldito el Hombre",
       "url": "https://open.spotify.com/track/7hslTSzvoa1Zs0S0jjtd5E"
@@ -10478,6 +10532,28 @@
       "duration_ms": 174174,
       "name": "Me Met\u00ed en el Ruedo - Remix",
       "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
+    },
+    {
+      "album": {
+        "name": "ME MIRAN",
+        "url": "https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "ME MIRAN",
+      "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"
     },
     {
       "album": {
@@ -10769,6 +10845,24 @@
     },
     {
       "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+    },
+    {
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -10838,7 +10932,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 149351,
       "name": "Mil x Hora",
       "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
@@ -11440,7 +11534,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
@@ -11578,6 +11672,32 @@
       "duration_ms": 166670,
       "name": "Oveja O Lobo",
       "url": "https://open.spotify.com/track/6TJllRhfOe6cDW3NvDLMiJ"
+    },
+    {
+      "album": {
+        "name": "Pa la Ma\u00f1a",
+        "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159937,
+      "name": "Pa la Ma\u00f1a",
+      "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
     },
     {
       "album": {
@@ -12767,6 +12887,28 @@
     },
     {
       "album": {
+        "name": "Rolex En Mano",
+        "url": "https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Rolex En Mano",
+      "url": "https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt"
+    },
+    {
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -13816,7 +13958,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 214500,
       "name": "Soy De Agiabampo",
       "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60384,
+  "num_followers": 60381,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABMb0ol18h24pU3Bcaz10S+Udl2Dq5q",
+  "snapshot_id": "AABMcVwVebS/9YYROc0uS7mboModQXMM",
   "tracks": [
     {
       "added_at": "2026-07-22 13:02:49",
@@ -771,13 +771,17 @@
     {
       "added_at": "2026-07-22 13:02:49",
       "album": {
-        "name": "No Other - Loukeman Mix",
+        "name": "No Other (Loukeman Mix)",
         "url": "https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE"
       },
       "artists": [
         {
           "name": "LST",
           "url": "https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU"
+        },
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
         }
       ],
       "duration_ms": 225198,
@@ -1695,6 +1699,22 @@
     {
       "added_at": "2026-07-22 13:02:49",
       "album": {
+        "name": "Mount Zero",
+        "url": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 248176,
+      "name": "Mount Zero",
+      "url": "https://open.spotify.com/track/2TvMDOgXSMEiOtB5U2YCHT"
+    },
+    {
+      "added_at": "2026-07-22 13:02:49",
+      "album": {
         "name": "Deep Side of Happiness",
         "url": "https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe"
       },
@@ -1723,22 +1743,6 @@
       "duration_ms": 219360,
       "name": "Ambulance!",
       "url": "https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j"
-    },
-    {
-      "added_at": "2026-07-22 13:02:49",
-      "album": {
-        "name": "Mount Zero",
-        "url": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 248176,
-      "name": "Mount Zero",
-      "url": "https://open.spotify.com/track/2TvMDOgXSMEiOtB5U2YCHT"
     },
     {
       "added_at": "2026-07-22 13:02:49",
@@ -1971,22 +1975,6 @@
     {
       "added_at": "2026-07-22 13:02:49",
       "album": {
-        "name": "The Contender",
-        "url": "https://open.spotify.com/album/7potXX8bTPEIzi1meVJhVq"
-      },
-      "artists": [
-        {
-          "name": "Far From It",
-          "url": "https://open.spotify.com/artist/1KK0wshEe4sow1lbtDHBI2"
-        }
-      ],
-      "duration_ms": 311144,
-      "name": "The Contender",
-      "url": "https://open.spotify.com/track/7lk0n06ZRr5TQ58GkmMnDa"
-    },
-    {
-      "added_at": "2026-07-22 13:02:49",
-      "album": {
         "name": "I Really Got This",
         "url": "https://open.spotify.com/album/0yAW8cMS3ME0v4egDxFIIw"
       },
@@ -2083,6 +2071,22 @@
       "duration_ms": 188449,
       "name": "My Time",
       "url": "https://open.spotify.com/track/6vLuAlznlR05Wo8J5RaLNq"
+    },
+    {
+      "added_at": "2026-07-22 13:02:49",
+      "album": {
+        "name": "The Contender",
+        "url": "https://open.spotify.com/album/7potXX8bTPEIzi1meVJhVq"
+      },
+      "artists": [
+        {
+          "name": "Far From It",
+          "url": "https://open.spotify.com/artist/1KK0wshEe4sow1lbtDHBI2"
+        }
+      ],
+      "duration_ms": 311144,
+      "name": "The Contender",
+      "url": "https://open.spotify.com/track/7lk0n06ZRr5TQ58GkmMnDa"
     },
     {
       "added_at": "2026-07-22 13:02:49",

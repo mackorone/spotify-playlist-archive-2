@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Sing along with Moana and Maui to "How Far I'll Go," "You're Welcome" and other Disney favorites! Disney's Moana, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,439 likes - 79 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,622 likes - 79 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

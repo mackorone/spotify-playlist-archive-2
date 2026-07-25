@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,719 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,673 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 0:00 |
+| 1 | [Vibe](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 2:07 |
 | 2 | [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 |
 | 3 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |
 | 4 | [NANANERE](https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [4PLAY](https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD) | 2:35 |

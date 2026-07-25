@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷<br/>cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,539 likes - 110 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,536 likes - 110 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 24 | [Asteroid](https://open.spotify.com/track/6hugJArY6CCwT6iuXA5O3d) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Asteroid](https://open.spotify.com/album/3qHuza8G6g3jfhOlYn84vL) | 2:15 |
 | 25 | [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 |
 | 26 | [Underwater](https://open.spotify.com/track/0uX5BUyybJR2FGUN0CAhsD) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Underwater](https://open.spotify.com/album/2cV8Eo0qF0MZZt0kl3STkH) | 4:05 |
-| 27 | [days end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [days end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
+| 27 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 28 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 29 | [So Perfect](https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:18 |
 | 30 | [the street](https://open.spotify.com/track/1pcjh360q7cRkPJ9JIPAbl) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [AngelPink \(no halo\)](https://open.spotify.com/album/78wkgP8mEp8lOohpRundaM) | 3:18 |

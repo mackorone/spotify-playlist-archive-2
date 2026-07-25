@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Nia Archives",
+  "description": "Genre-less. Quality first always. Cover: Portraits Of Tracy",
   "name": "POLLEN",
   "tracks": [
     {
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 161375,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 145714,
       "name": "AMERICAN EAGLE",
       "url": "https://open.spotify.com/track/6FnQf9NNBkZFEHGMNYT8AJ"
@@ -6235,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252144,
+      "name": "Barii",
+      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+    },
+    {
+      "album": {
         "name": "Barrons Hotel/Yellow Bones",
         "url": "https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y"
       },
@@ -6250,7 +6268,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 354461,
       "name": "Barrons Hotel (I, To, Thee.)",
       "url": "https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k"
@@ -7074,7 +7092,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
@@ -8162,7 +8180,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 166733,
       "name": "BLUE SASHIKO",
       "url": "https://open.spotify.com/track/48q6ydWwv9T8To52lHrkzL"
@@ -8492,6 +8510,24 @@
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
+    {
+      "album": {
+        "name": "Bond Girl",
+        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151003,
+      "name": "Bond Girl",
+      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
     },
     {
       "album": {
@@ -14658,7 +14694,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 279346,
       "name": "Dammi dammi",
       "url": "https://open.spotify.com/track/27xvqzA4XdoEZ1zGpaQKAX"
@@ -15410,7 +15446,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 148500,
       "name": "decay",
       "url": "https://open.spotify.com/track/4GYZEN4NiA8IUdken1XdR7"
@@ -18642,7 +18678,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155039,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
@@ -20536,6 +20572,24 @@
       "duration_ms": 267522,
       "name": "Far From Here",
       "url": "https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9"
+    },
+    {
+      "album": {
+        "name": "Far From Home",
+        "url": "https://open.spotify.com/album/4i2aJ3CzXyzpgODwXmYPDi"
+      },
+      "artists": [
+        {
+          "name": "Sultan D\u00e8",
+          "url": "https://open.spotify.com/artist/7rT4m0RF7s7OlYhCAdGPQD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182929,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4rPVuTzLBhCMDIj7OfXtlr"
     },
     {
       "album": {
@@ -24199,6 +24253,24 @@
     },
     {
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4"
+      },
+      "artists": [
+        {
+          "name": "Sekko",
+          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113544,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
+    },
+    {
+      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
@@ -27157,6 +27229,24 @@
     },
     {
       "album": {
+        "name": "Hell of a time",
+        "url": "https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223658,
+      "name": "Hell of a time",
+      "url": "https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp"
+    },
+    {
+      "album": {
         "name": "Hell suite, Pt. II",
         "url": "https://open.spotify.com/album/1HxBc72oKXrhIo1O61oDC6"
       },
@@ -29688,7 +29778,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 134400,
       "name": "I Guess We Don't Have a Choice",
       "url": "https://open.spotify.com/track/1qyWpuawnzrKNV38YvjSPt"
@@ -34521,6 +34611,24 @@
     },
     {
       "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189342,
+      "name": "LANGUAGES",
+      "url": "https://open.spotify.com/track/3KG6r8zmc3KrNxub0qxGFb"
+    },
+    {
+      "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
@@ -38908,7 +39016,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 153888,
       "name": "Mask On",
       "url": "https://open.spotify.com/track/1b5DLiOTtF2MORXJz6dyJQ"
@@ -40932,7 +41040,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 169846,
       "name": "most of me (is elsewhere)",
       "url": "https://open.spotify.com/track/2YisZHJZM6Zix26Qb8VwxK"
@@ -45486,7 +45594,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 251173,
       "name": "outta time",
       "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
@@ -49011,6 +49119,32 @@
     },
     {
       "album": {
+        "name": "Rabbit",
+        "url": "https://open.spotify.com/album/3wnttB1pXHezmp05emenyE"
+      },
+      "artists": [
+        {
+          "name": "Cyst",
+          "url": "https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "daisy",
+          "url": "https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157085,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T"
+    },
+    {
+      "album": {
         "name": "Heaven Is a Junkyard",
         "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
       },
@@ -50110,7 +50244,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 232373,
       "name": "Rest of Your Life",
       "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
@@ -51326,6 +51460,24 @@
       "duration_ms": 158797,
       "name": "Round Me",
       "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
+    },
+    {
+      "album": {
+        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "Royal Courts (Great Misfortune)",
+      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
     },
     {
       "album": {
@@ -52665,6 +52817,28 @@
     },
     {
       "album": {
+        "name": "See Me (Max Tundra Remix)",
+        "url": "https://open.spotify.com/album/1JaB1fSkBcOP9GVM0MvBA5"
+      },
+      "artists": [
+        {
+          "name": "Gemma",
+          "url": "https://open.spotify.com/artist/0aSXz49xJK9JAz8U6d3FVy"
+        },
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251739,
+      "name": "See Me (Max Tundra Remix)",
+      "url": "https://open.spotify.com/track/2siynSZ5RH2sInOxDwqtje"
+    },
+    {
+      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -53266,6 +53440,28 @@
       "duration_ms": 216480,
       "name": "Shaking Things Up",
       "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0"
     },
     {
       "album": {
@@ -56526,7 +56722,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
@@ -56580,7 +56776,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 167674,
       "name": "SS26",
       "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
@@ -57052,7 +57248,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 203817,
       "name": "stick to me like glue",
       "url": "https://open.spotify.com/track/18PNwB15m5RdHri6nUofMc"
@@ -57482,7 +57678,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 209436,
       "name": "STORM I",
       "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
@@ -59520,7 +59716,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 158117,
       "name": "tangerine!",
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
@@ -59786,7 +59982,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 207310,
       "name": "Telephone (ft. 070 Shake)",
       "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
@@ -60160,7 +60356,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 170326,
       "name": "That Kind Of Girl",
       "url": "https://open.spotify.com/track/4aZxidLJDO5Hed8WQI3jgM"
@@ -61354,7 +61550,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206060,
-      "name": "the truth at a distance FEAT NALI & HAWA",
+      "name": "the truth at a distance",
       "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
     },
     {

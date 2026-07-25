@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11834930,
+  "num_followers": 11836750,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPyCQ3zcUds1DNdc//kOuApUorqc",
+  "snapshot_id": "AAAAAG5PV3ORtgOBAyry5PCzek9KTdMM",
   "tracks": [
     {
       "added_at": "2026-03-22 01:21:26",
@@ -157,6 +157,38 @@
       "url": "https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT"
     },
     {
+      "added_at": "2026-07-24 15:50:04",
+      "album": {
+        "name": "PARTY FUNK",
+        "url": "https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9"
+      },
+      "artists": [
+        {
+          "name": "Young Madz",
+          "url": "https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF"
+        }
+      ],
+      "duration_ms": 132990,
+      "name": "Party Funk",
+      "url": "https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "GOZALO",
+        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 120263,
+      "name": "GOZALO - Slowed",
+      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
+    },
+    {
       "added_at": "2025-11-17 15:48:56",
       "album": {
         "name": "NO BATID\u00c3O",
@@ -175,6 +207,26 @@
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
+    {
+      "added_at": "2026-07-17 04:04:29",
+      "album": {
+        "name": "MONTAGEM GUERREIRO",
+        "url": "https://open.spotify.com/album/28wmQqRGFXtdqg0FqgSsG9"
+      },
+      "artists": [
+        {
+          "name": "Avenxir",
+          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
+        },
+        {
+          "name": "SUNJI",
+          "url": "https://open.spotify.com/artist/0ju8Ftgs8pyGCOliHyGY8r"
+        }
+      ],
+      "duration_ms": 74634,
+      "name": "MONTAGEM GUERREIRO - Slowed",
+      "url": "https://open.spotify.com/track/0paFptRuPw7IOyyRS5TjAh"
     },
     {
       "added_at": "2025-08-01 17:05:50",
@@ -245,6 +297,22 @@
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
+      "added_at": "2026-07-17 04:04:29",
+      "album": {
+        "name": "MONTAGEM DEL\u00cdRIO",
+        "url": "https://open.spotify.com/album/6EyppOUKzHlBAwB62ClQB5"
+      },
+      "artists": [
+        {
+          "name": "ZXVREN",
+          "url": "https://open.spotify.com/artist/4jDmNbUXa1sKqBuETMJvpQ"
+        }
+      ],
+      "duration_ms": 125051,
+      "name": "MONTAGEM DEL\u00cdRIO - Super Slowed",
+      "url": "https://open.spotify.com/track/1O6LIybBwZr2q9YoveyLWf"
+    },
+    {
       "added_at": "2025-08-29 15:35:59",
       "album": {
         "name": "NO ERA AMOR",
@@ -305,22 +373,6 @@
       "url": "https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A"
     },
     {
-      "added_at": "2026-02-06 17:42:53",
-      "album": {
-        "name": "GOZALO",
-        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 120263,
-      "name": "GOZALO - Slowed",
-      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
-    },
-    {
       "added_at": "2025-08-22 16:56:16",
       "album": {
         "name": "ACELERADA",
@@ -359,26 +411,6 @@
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
-    },
-    {
-      "added_at": "2026-07-17 04:04:29",
-      "album": {
-        "name": "MONTAGEM GUERREIRO",
-        "url": "https://open.spotify.com/album/28wmQqRGFXtdqg0FqgSsG9"
-      },
-      "artists": [
-        {
-          "name": "Avenxir",
-          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
-        },
-        {
-          "name": "SUNJI",
-          "url": "https://open.spotify.com/artist/0ju8Ftgs8pyGCOliHyGY8r"
-        }
-      ],
-      "duration_ms": 74634,
-      "name": "MONTAGEM GUERREIRO - Slowed",
-      "url": "https://open.spotify.com/track/0paFptRuPw7IOyyRS5TjAh"
     },
     {
       "added_at": "2026-03-06 14:00:09",
@@ -489,6 +521,30 @@
       "url": "https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj"
     },
     {
+      "added_at": "2026-07-24 15:50:04",
+      "album": {
+        "name": "X-COOL!",
+        "url": "https://open.spotify.com/album/3PCH80fzGQH5i7YB4wvEc2"
+      },
+      "artists": [
+        {
+          "name": "tienanh109",
+          "url": "https://open.spotify.com/artist/2cEiz8Q3ZntEQl2rJr1An7"
+        },
+        {
+          "name": "HDN",
+          "url": "https://open.spotify.com/artist/2VeycUHUfDjoYqpkOSllnn"
+        },
+        {
+          "name": "MC K3",
+          "url": "https://open.spotify.com/artist/1w1IS5ufNR3HLQ0tMWYyGc"
+        }
+      ],
+      "duration_ms": 115976,
+      "name": "X-COOL! - Slowed",
+      "url": "https://open.spotify.com/track/3Yju0AQsjm06w7Q53xt4Ht"
+    },
+    {
       "added_at": "2026-07-03 12:00:24",
       "album": {
         "name": "FUNK TAKA",
@@ -543,6 +599,34 @@
       "duration_ms": 122924,
       "name": "LUZ ROJA - Slowed",
       "url": "https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce"
+    },
+    {
+      "added_at": "2026-06-26 11:00:14",
+      "album": {
+        "name": "BREGA DO LOVE",
+        "url": "https://open.spotify.com/album/0leOIFJ5Rge5578dESCyNt"
+      },
+      "artists": [
+        {
+          "name": "Nxxkz",
+          "url": "https://open.spotify.com/artist/5AEQFkU5i6WoB4OkHb32Eb"
+        },
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        },
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/1fcxLeCKcWWSgJ4QYiyxbn"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 120334,
+      "name": "BREGA DO LOVE (SLOWED)",
+      "url": "https://open.spotify.com/track/69KiHpC4uBEDbFgIxuHeoR"
     },
     {
       "added_at": "2026-05-08 11:59:14",
@@ -699,22 +783,6 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
-    },
-    {
-      "added_at": "2026-07-17 04:04:29",
-      "album": {
-        "name": "MONTAGEM DEL\u00cdRIO",
-        "url": "https://open.spotify.com/album/6EyppOUKzHlBAwB62ClQB5"
-      },
-      "artists": [
-        {
-          "name": "ZXVREN",
-          "url": "https://open.spotify.com/artist/4jDmNbUXa1sKqBuETMJvpQ"
-        }
-      ],
-      "duration_ms": 125051,
-      "name": "MONTAGEM DEL\u00cdRIO - Super Slowed",
-      "url": "https://open.spotify.com/track/1O6LIybBwZr2q9YoveyLWf"
     },
     {
       "added_at": "2026-06-26 11:00:14",
@@ -1071,34 +1139,6 @@
       "duration_ms": 77206,
       "name": "FINA LANA",
       "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
-    },
-    {
-      "added_at": "2026-06-26 11:00:14",
-      "album": {
-        "name": "BREGA DO LOVE",
-        "url": "https://open.spotify.com/album/0leOIFJ5Rge5578dESCyNt"
-      },
-      "artists": [
-        {
-          "name": "Nxxkz",
-          "url": "https://open.spotify.com/artist/5AEQFkU5i6WoB4OkHb32Eb"
-        },
-        {
-          "name": "-Prey",
-          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
-        },
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/1fcxLeCKcWWSgJ4QYiyxbn"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 120334,
-      "name": "BREGA DO LOVE (SLOWED)",
-      "url": "https://open.spotify.com/track/69KiHpC4uBEDbFgIxuHeoR"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -1685,22 +1725,6 @@
       "url": "https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh"
     },
     {
-      "added_at": "2024-10-25 15:19:02",
-      "album": {
-        "name": "UH VEI VEI",
-        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
-      },
-      "artists": [
-        {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "UH VEI VEI",
-      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
-    },
-    {
       "added_at": "2025-02-07 17:17:30",
       "album": {
         "name": "EVOLUTION FUNK VOL. II",
@@ -1727,22 +1751,6 @@
       "duration_ms": 113161,
       "name": "SLAVA FUNK!",
       "url": "https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme"
-    },
-    {
-      "added_at": "2024-08-30 14:16:34",
-      "album": {
-        "name": "FUNK UNIVERSO",
-        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
-      },
-      "artists": [
-        {
-          "name": "Irokz",
-          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "FUNK UNIVERSO",
-      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
       "added_at": "2025-05-02 15:58:53",

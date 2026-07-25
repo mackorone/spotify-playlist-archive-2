@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Logan (From \"Marvel's Wolverine\")",
+        "url": "https://open.spotify.com/album/1UljqvpAOZtw0vkAda75VG"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390773,
+      "name": "Logan - From \"Marvel's Wolverine\"",
+      "url": "https://open.spotify.com/track/38jLY8almdujt5nZy8rseO"
+    },
+    {
+      "album": {
         "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 324042,
       "name": "The Avengers",
       "url": "https://open.spotify.com/track/50kH6x4oHnoYvbR84mmZrv"
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 155480,
       "name": "We Know What You Whisper",
       "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"

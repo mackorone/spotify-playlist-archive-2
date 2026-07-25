@@ -4,7 +4,7 @@
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Tame Impala &amp; JENNIE
 
-914 songs - 2 day 0 hr 21 min
+916 songs - 2 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 | 2023-12-08 | 2025-03-21 |
 | [Looking For Love \- Tommy Villiers Remix](https://open.spotify.com/track/1RXvSjC8JwTKpjWnEBTxf0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Looking For Love \(Tommy Villiers Remix\)](https://open.spotify.com/album/1g1g7SJac2MFEgtqIjFF9j) | 3:34 | 2023-12-08 | 2025-03-21 |
 | [Lord It's a Feeling \- goddard\. Remix](https://open.spotify.com/track/6u7zWn5zHYD1HKrgAgKnCF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Lord It's a Feeling \(goddard\. Remix\)](https://open.spotify.com/album/1soCU3H4eASjprAAToH4a4) | 3:34 | 2023-05-26 | 2023-12-14 |
+| [Lose Control](https://open.spotify.com/track/4AayMvfW5LMJnjWxuVNLGs) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Lose Control](https://open.spotify.com/album/2JU7dJD4YtlkI7xM8TQt85) | 3:33 | 2026-07-24 |  |
 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 | 2023-06-30 | 2024-07-27 |
 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 | 2023-04-28 | 2023-12-14 |
 | [Lose My Mind \- Passion Edit](https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind \(Passion Edit\)](https://open.spotify.com/album/2yLv6nYrTXJMrwFLY6uhEe) | 2:23 | 2023-07-14 | 2024-07-27 |
@@ -497,6 +498,7 @@
 | [Ma Baker](https://open.spotify.com/track/7pGiiHmMfOPHVEXNnfqw00) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Ma Baker](https://open.spotify.com/album/0hWvJRAX4Di5ImH3BI06vK) | 2:26 | 2022-08-12 | 2022-11-19 |
 | [Machine](https://open.spotify.com/track/5XuZZistISlMXMfYC2ME3V) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Machine](https://open.spotify.com/album/4lYlLN1hkJZbut9ZSPqxFL) | 2:24 | 2025-10-24 | 2026-05-09 |
 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 | 2025-03-14 | 2025-09-06 |
+| [MADEIRA PXTA](https://open.spotify.com/track/7iqsERTxbpOdCm8QK5GkYF) | [beaszty](https://open.spotify.com/artist/0CHmYnYjl14snoTcqHpHB0), [FRVGME](https://open.spotify.com/artist/5THhuqmUaFoBApCAowoYXQ), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [MADEIRA PXTA](https://open.spotify.com/album/0Rgx3Ar93TNsIF2jwJX24R) | 1:42 | 2026-07-24 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-06-03 | 2023-02-05 |
 | [Magic City \- Vip Mix](https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Magic City \(Vip Mix\)](https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q) | 2:51 | 2023-06-09 | 2023-12-14 |
 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 | 2023-02-04 | 2023-12-14 |

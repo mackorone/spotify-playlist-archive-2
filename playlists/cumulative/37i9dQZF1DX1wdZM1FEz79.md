@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 10CM\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: HOA\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-686 songs - 1 day 16 hr 17 min
+687 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 | 2026-04-03 |
-| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 |  |
+| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2026-07-25 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 | 2023-01-14 | 2023-01-26 |
 | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/track/0Q1vY2GRzE5hzTQBvEkOr3) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/album/7FJFPX2OyP0IS4koeEEEI1) | 3:52 | 2022-03-07 | 2022-04-21 |
@@ -539,6 +539,7 @@
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
 | [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 | 2024-04-10 |
+| [The Great Hazby](https://open.spotify.com/track/3SdLsEXat6fpXaegKktrBe) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [The Great Hazby](https://open.spotify.com/album/4g0dflhZXyNLBe0WnECAsL) | 2:17 | 2026-07-24 |  |
 | [The Light and Dance Within Us](https://open.spotify.com/track/7o9tc25rXr8AJ0OKr2hlUJ) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [The Light and Dance Within Us](https://open.spotify.com/album/7xGIdGeWZTxKTBsADPBI9P) | 3:40 | 2024-10-25 | 2024-11-07 |
 | [the little bird](https://open.spotify.com/track/4gCFdnWECBfGMEsd4SIRZf) | [손지연](https://open.spotify.com/artist/6HRhT5r6vw4OVYvpewi9h5) | [synch breath](https://open.spotify.com/album/3Mw6KU6lx6BoiGTcQzUF0C) | 4:17 | 2025-07-11 | 2025-07-18 |
 | [the moment i see you](https://open.spotify.com/track/6KHoFpqwiy8W6yUTrLFXFl) | [Park Bo\-young](https://open.spotify.com/artist/0jMuf24m4Bn1vcdQmvGp3z) | [the moment i see you](https://open.spotify.com/album/6JIcH9zOzvROTIe7PtqgLq) | 3:22 | 2025-06-13 | 2025-07-24 |

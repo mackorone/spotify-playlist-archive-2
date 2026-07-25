@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Link do Zap
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,574 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,605 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 75 | [MARATONA](https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MARATONA](https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs) | 3:22 |
 | 76 | [Malandro Erudito](https://open.spotify.com/track/25HLJoNerrT00EMH6VL8qc) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Do Suburbio à Central](https://open.spotify.com/album/6mqBX9NdvQnkw4sHEB2b2N) | 2:32 |
 
-Snapshot ID: `AAAAAKZNL8X7WChKPkOC5uqJhHsLm8KO`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

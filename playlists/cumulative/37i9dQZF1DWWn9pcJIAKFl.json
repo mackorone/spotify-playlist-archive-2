@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
+    },
+    {
+      "album": {
         "name": "Alameyo",
         "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
       },
@@ -86,7 +104,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 190013,
       "name": "Awake Tonight",
       "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
@@ -335,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/5diSoMB7UWDj8UImE0XyPD"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/2fh8i1nUA0zZgW9SykfT43"
+    },
+    {
+      "album": {
         "name": "Dreaming & Breathing",
         "url": "https://open.spotify.com/album/6Ezhr8VCYlVGutTXINUZqS"
       },
@@ -358,6 +394,28 @@
       "duration_ms": 163432,
       "name": "Dreaming & Breathing",
       "url": "https://open.spotify.com/track/6MKiPmkj1j3fdRA3oaGEvs"
+    },
+    {
+      "album": {
+        "name": "Dumb Decisions",
+        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118119,
+      "name": "Dumb Decisions",
+      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
     },
     {
       "album": {
@@ -420,7 +478,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 123504,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT"
@@ -442,10 +500,32 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
+    },
+    {
+      "album": {
+        "name": "Feel It (Oh My Days)",
+        "url": "https://open.spotify.com/album/0OWsNw2vvlZob0ltVjr9Eb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wudhouse",
+          "url": "https://open.spotify.com/artist/2wsmSvLq3FeM5elwxYOv8F"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Feel It (Oh My Days)",
+      "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
     },
     {
       "album": {
@@ -464,6 +544,28 @@
       "duration_ms": 192096,
       "name": "FF",
       "url": "https://open.spotify.com/track/2SAHdtlsnoPrsidwL6HWOg"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
     },
     {
       "album": {
@@ -500,7 +602,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 219200,
       "name": "G-Step Frequency",
       "url": "https://open.spotify.com/track/1BAYf8iw6YaujZmAz1alUK"
@@ -518,7 +620,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 150200,
       "name": "Get Buck",
       "url": "https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0"
@@ -566,6 +668,24 @@
       "duration_ms": 149774,
       "name": "Heaven (feat. Yousra)",
       "url": "https://open.spotify.com/track/2NPOfAcuPVBilgRETr0qJq"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/7nelv3ZYPwq30wiugEJkJr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199864,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4lGvzUh0fApdiJ4hMPvkF5"
     },
     {
       "album": {
@@ -792,7 +912,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 262556,
       "name": "In My Mind - Symphony of Unity Orchestral Rework",
       "url": "https://open.spotify.com/track/5q8NalPQ5KKffo1pjMPSkK"
@@ -836,10 +956,32 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "album": {
@@ -1060,10 +1202,36 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
       "album": {
@@ -1213,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Pulse React",
+        "url": "https://open.spotify.com/album/57BUAD3aZq1bTB8H6JezV2"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111090,
+      "name": "Pulse React",
+      "url": "https://open.spotify.com/track/45DOs7rSokdaiUDehMUyeS"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
       },
@@ -1344,7 +1530,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 179076,
       "name": "Silence",
       "url": "https://open.spotify.com/track/1t0HDXFC1yeCKKxWfbZ5Go"
@@ -1395,6 +1581,32 @@
     },
     {
       "album": {
+        "name": "Solar Skin (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Solar Skin (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
+    },
+    {
+      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/1407RKhcxe58TPTwOtp9vF"
       },
@@ -1436,6 +1648,32 @@
       "duration_ms": 162727,
       "name": "Take U",
       "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
+    },
+    {
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
     },
     {
       "album": {
@@ -1656,7 +1894,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 176718,
       "name": "Walking On A Dream (Resurrection)",
       "url": "https://open.spotify.com/track/2RtqJsB923RiOCwK4hdHyn"
@@ -1788,7 +2026,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 194337,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY"

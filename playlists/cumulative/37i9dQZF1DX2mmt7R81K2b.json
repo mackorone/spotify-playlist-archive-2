@@ -1907,6 +1907,32 @@
     },
     {
       "album": {
+        "name": "Nightride",
+        "url": "https://open.spotify.com/album/2BOl24gQPuws4HcFJmKtsP"
+      },
+      "artists": [
+        {
+          "name": "Eskil Roos",
+          "url": "https://open.spotify.com/artist/2dCZsKYSV49Kf7mshUtF2F"
+        },
+        {
+          "name": "Gustav Sundquist",
+          "url": "https://open.spotify.com/artist/18knGnoxBZ5ijrMQGQRHfk"
+        },
+        {
+          "name": "Hampus Petersson",
+          "url": "https://open.spotify.com/artist/0N5d7hYHM7OGobB5QMio8O"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300333,
+      "name": "Nightride",
+      "url": "https://open.spotify.com/track/7rgXADUmIekpqucA6TWdgh"
+    },
+    {
+      "album": {
         "name": "In Search Of Beauty",
         "url": "https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL"
       },

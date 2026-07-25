@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Ferran Torres and Lamine Yamal
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Joel Embiid and LeBron James
 
-924 songs - 1 day 22 hr 55 min
+925 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 | 2022-12-02 | 2023-03-15 |
 | [No No No \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/3TFO78JhsoNbQUrfKfGdIo) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [No No No \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/6GL2N8tHwIQDWSMuHsrKWL) | 3:41 | 2021-09-02 | 2023-03-14 |
 | [No Weakness](https://open.spotify.com/track/6kwz9zbK7jHImhFwy25yn2) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:24 | 2023-03-31 | 2023-06-09 |
+| [Nobody \(feat\. Monaleo & G Herbo\) \- Remix](https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Nobody \(feat\. Monaleo & G Herbo\) \[Remix\]](https://open.spotify.com/album/4ESOFve49SESHhgattAwIr) | 2:53 | 2026-07-24 |  |
 | [Nobody \(feat\. Monaleo\) \- Remix](https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Nobody \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9) | 2:29 | 2026-06-26 |  |
 | [Nobody Knows My Struggle](https://open.spotify.com/track/7nQXU7lu0RhVOSmsa3teKj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:25 | 2024-04-12 | 2024-04-27 |
 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 | 2022-10-21 | 2024-08-03 |
@@ -745,7 +746,7 @@
 | [Slime\-U\-Out \(feat\. 21 Savage\)](https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slime\-U\-Out \(feat\. 21 Savage\)](https://open.spotify.com/album/1oXlAZaZNjJRc2wGi0W6Wk) | 2:41 | 2022-12-09 | 2023-02-18 |
 | [Slimed In](https://open.spotify.com/track/2GLWhy9iiO1wrLUF5l4FtJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:14 | 2024-04-26 | 2024-11-09 |
 | [Smoking Gun](https://open.spotify.com/track/1AzJdVsBVczV2ou3Ds9pDr) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Last Kiss](https://open.spotify.com/album/5iTDN1BwQ6JdiHD9onpfg0) | 3:42 | 2024-10-25 | 2024-11-02 |
-| [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 | 2024-01-12 |  |
+| [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 | 2024-01-12 | 2026-07-25 |
 | [So High](https://open.spotify.com/track/5qtUKYu1bBe0U7SoANInou) | [Tm88](https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [So High](https://open.spotify.com/album/3X42cq0ppTHylj6NVb6vGw) | 1:54 | 2021-09-02 | 2022-06-25 |
 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 | 2023-10-11 |  |
 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 1:54 | 2024-07-12 | 2024-07-19 |

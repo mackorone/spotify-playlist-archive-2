@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Atreyu",
+        "url": "https://open.spotify.com/album/4PmqHxy7yWp5tv3ThKivRf"
+      },
+      "artists": [
+        {
+          "name": "La Pix",
+          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191509,
+      "name": "Atreyu",
+      "url": "https://open.spotify.com/track/1VJXijBVp3uIY9JKNcu2cb"
+    },
+    {
+      "album": {
         "name": "Au lecteur curieux",
         "url": "https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu"
       },

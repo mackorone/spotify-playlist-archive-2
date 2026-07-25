@@ -2,9 +2,9 @@
 
 ### [LE SSERAFIM WORLD TOUR \[PUREFLOW\]](https://open.spotify.com/playlist/37i9dQZF1DWXGByiSGmD4c)
 
-> Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] BEST SET for the upcoming concert! \(다가오는 르세라핌의 투어를 준비하며 히트곡  BEST SET을 즐겨보세요!\)
+> Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] LIVE set including the voices from stage! ! \(르세라핌 맴버들의 무대 멘트가 포함된 \[PUREFLOW\] 투어  LIVE SET을 즐겨보세요!\)
 
-25 songs - 1 hr 8 min
+33 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,24 +13,32 @@
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2026-07-08 |  |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-07-08 |  |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-07-08 |  |
-| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2026-07-08 |  |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2026-07-08 | 2026-07-25 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2026-07-08 |  |
-| [DIFFERENT](https://open.spotify.com/track/4dtmokCqndq7CLaYsgAJlR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/7kEtCtHsaRjz0fIXbmUFNt) | 2:21 | 2026-07-08 |  |
+| [Creatures](https://open.spotify.com/track/0HsgIz531mkdxly35wKcwj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 3:08 | 2026-07-24 |  |
+| [DIFFERENT](https://open.spotify.com/track/4dtmokCqndq7CLaYsgAJlR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/7kEtCtHsaRjz0fIXbmUFNt) | 2:21 | 2026-07-08 | 2026-07-25 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2026-07-08 |  |
+| [Encore Talk](https://open.spotify.com/track/2ZodUljrELrtA1hACbChfa) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM TOUR PUREFLOW Audio Liners](https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef) | 12:47 | 2026-07-24 |  |
+| [Ending Talk Pt.1](https://open.spotify.com/track/51TjBTozd1LnY3MWVCdHnx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM TOUR PUREFLOW Audio Liners](https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef) | 2:29 | 2026-07-24 |  |
+| [Ending Talk Pt.2](https://open.spotify.com/track/7ccVHdYMz4q7JVllSg8xV4) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM TOUR PUREFLOW Audio Liners](https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef) | 2:07 | 2026-07-24 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2026-07-08 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2026-07-08 |  |
 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 | 2026-07-08 |  |
 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2026-07-08 |  |
 | [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 | 2026-07-08 |  |
+| [Intro Talk](https://open.spotify.com/track/0xLemUoKoqsEqEHLO0BhbQ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM TOUR PUREFLOW Audio Liners](https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef) | 2:40 | 2026-07-24 |  |
 | [Irony](https://open.spotify.com/track/49CeyCugXaZV05J82ejVQh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:24 | 2026-07-08 |  |
 | [Need Your Company](https://open.spotify.com/track/5JDDrQN4rzCOo6UniZEwq0) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 1:58 | 2026-07-08 |  |
-| [Pearlies \(My oyster is the world\)](https://open.spotify.com/track/2CfVDYfw0B4WUHaWxyjsU3) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 3:07 | 2026-07-08 |  |
+| [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2026-07-24 |  |
+| [Pearlies \(My oyster is the world\)](https://open.spotify.com/track/2CfVDYfw0B4WUHaWxyjsU3) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 3:07 | 2026-07-08 | 2026-07-25 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2026-07-08 |  |
+| [Pureflow](https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 1:49 | 2026-07-24 |  |
 | [Saki \(feat\. Aliyah's Interlude\)](https://open.spotify.com/track/7r2SJUMWUwghdXczQDSYST) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:44 | 2026-07-08 |  |
+| [SAKI Intro](https://open.spotify.com/track/07kqr0jfjwwPzQx8R0fKAE) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM TOUR PUREFLOW Audio Liners](https://open.spotify.com/album/2lKaerMMx2SzcPaQaqjDef) | 0:31 | 2026-07-24 |  |
 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2026-07-08 |  |
 | [Sonder](https://open.spotify.com/track/6dPtt7EhUj8YQQ0IFVCQRm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:46 | 2026-07-08 |  |
 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2026-07-08 |  |
-| [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2026-07-08 |  |
+| [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2026-07-08 | 2026-07-25 |
 | [Trust Exercise](https://open.spotify.com/track/3GY9Xp0U5rb7qYQVRSQqwh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:23 | 2026-07-08 |  |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2026-07-08 |  |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Debbii Dawson",
+  "description": "Featuring that new vintage. Cover: Matilda Mann",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220708,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+    },
+    {
+      "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt"
       },
@@ -224,6 +242,24 @@
       "duration_ms": 199173,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1"
+    },
+    {
+      "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK"
+      },
+      "artists": [
+        {
+          "name": "TOAST CLUB",
+          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Alexandria",
+      "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
     },
     {
       "album": {
@@ -2559,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "easier said than done",
+        "url": "https://open.spotify.com/album/1QX7GT1FwzqpmJQXNGaOMp"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172222,
+      "name": "easier said than done",
+      "url": "https://open.spotify.com/track/02SCt5Kbhrhz0ow6brrxMA"
+    },
+    {
+      "album": {
         "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
       },
@@ -2960,6 +3014,24 @@
       "duration_ms": 247588,
       "name": "For You",
       "url": "https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ"
+    },
+    {
+      "album": {
+        "name": "FOREVERMORE",
+        "url": "https://open.spotify.com/album/3EaDdJ617d0q6uLifk3klX"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182290,
+      "name": "FOREVERMORE",
+      "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
     },
     {
       "album": {
@@ -4578,7 +4650,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 243063,
       "name": "I Stood My Ground",
       "url": "https://open.spotify.com/track/4JRuQ22xck5DCfkQXRPnF6"
@@ -5029,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "just my luck",
+        "url": "https://open.spotify.com/album/197RAVKRGjYZAA4ylb1Uv2"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149740,
+      "name": "just my luck",
+      "url": "https://open.spotify.com/track/09YSyefcTSh7sajvodaDcQ"
+    },
+    {
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar"
       },
@@ -5076,7 +5166,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 173656,
       "name": "KODACHROMATIC",
       "url": "https://open.spotify.com/track/2O8AJk9ggC9ZGQgX2gWE8i"
@@ -6040,7 +6130,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 226000,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN"
@@ -6874,7 +6964,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 185992,
       "name": "Nothing Like Hollywood",
       "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
@@ -9558,7 +9648,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-25",
       "duration_ms": 160869,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8"
