@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63139,
+  "num_followers": 63147,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Trickstar \u300cCELEBRATE!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 246375,
       "name": "CELEBRATE!!",
       "url": "https://open.spotify.com/track/4uRZvH0o2HyGswFQOWDA23"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
-      },
-      "artists": [
-        {
-          "name": "Jin & Akiomi",
-          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
-      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u30d5\u30e9\u30b8\u30fc\u30eb (feat. \u6771\u96f2\u5f70\u4eba & \u9752\u67f3\u51ac\u5f25) [Cover]",
         "url": "https://open.spotify.com/album/3KM5OtuX96tlIwmzt0GKTI"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 270354,
       "name": "\u30d5\u30e9\u30b8\u30fc\u30eb - Cover",
       "url": "https://open.spotify.com/track/1vywsFdOWEVvP6JkDOuUbU"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
+      },
+      "artists": [
+        {
+          "name": "Jin & Akiomi",
+          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
+      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
-      },
-      "artists": [
-        {
-          "name": "MaM",
-          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 230317,
-      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
-      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 200280,
       "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
+      },
+      "artists": [
+        {
+          "name": "MaM",
+          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 230317,
+      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "THE GENESIS",
+      "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
         "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
       },
       "artists": [
         {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
         }
       ],
-      "duration_ms": 248840,
-      "name": "THE GENESIS",
-      "url": "https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev"
+      "duration_ms": 180760,
+      "name": "Believe 4 leaves",
+      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Dance in the Apocalypse",
+      "url": "https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
         "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
       },
@@ -1567,22 +1599,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Dance in the Apocalypse",
-      "url": "https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Ra*bits (2023 Ver.)",
         "url": "https://open.spotify.com/album/6FpqpP6ul7m73EYsowIWqH"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 213033,
       "name": "\u30d1\u30e9\u30ec\u30eb\u30e1\u30a4\u30ba - 2023 Ver.",
       "url": "https://open.spotify.com/track/6V6CxHrz0hKelXiSVggLf9"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
-        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
-        }
-      ],
-      "duration_ms": 289253,
-      "name": "Gate of the Abyss",
-      "url": "https://open.spotify.com/track/5Dmq5J2N2vhNj6bRggGYbq"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

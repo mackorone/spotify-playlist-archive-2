@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 771641,
+  "num_followers": 771871,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "3 AM",
-        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 196015,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "Netflix and Chill",
         "url": "https://open.spotify.com/album/6vVSLf4DTywrY9r8dtgnEc"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 224571,
       "name": "Netflix and Chill",
       "url": "https://open.spotify.com/track/2l5EWb5ThVJGWltu7R3uAs"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 196015,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "El R2",
         "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 152351,
       "name": "EL R2",
       "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
@@ -1603,22 +1583,6 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1647,6 +1611,42 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -1667,34 +1667,6 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Angel Almaguer",
-          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
-        },
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
-        }
-      ],
-      "duration_ms": 288671,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1755,6 +1727,34 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "duration_ms": 288671,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "Mis Compas Vol. 1",
         "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "Desde El Expendio (En Vivo)",
-        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 187372,
-      "name": "El Compa Lonche",
-      "url": "https://open.spotify.com/track/4DS2qYSS7H4i19ZYMf09Dp"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "Desde El Expendio (En Vivo)",
+        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 187372,
+      "name": "El Compa Lonche",
+      "url": "https://open.spotify.com/track/4DS2qYSS7H4i19ZYMf09Dp"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "La Ciudad del Sol",
-        "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "La Ciudad del Sol",
-      "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "El Nini",
         "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "El Gato Y Su Manada",
+        "url": "https://open.spotify.com/album/7MGqVYOksj8IiBfGaFDreQ"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "El Gato Y Su Manada",
+      "url": "https://open.spotify.com/track/0SWmdFAbhEwWF0IGmb1G7H"
     }
   ],
   "unique_name": "Ruteando",

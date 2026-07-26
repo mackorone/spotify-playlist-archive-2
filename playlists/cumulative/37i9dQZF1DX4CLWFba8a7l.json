@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
+      "album": {
         "name": "Piss In The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
       },
@@ -8099,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Okarena",
+        "url": "https://open.spotify.com/album/1RQisl8XADZWUdDJ7PBb8M"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250453,
+      "name": "Okarena",
+      "url": "https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK"
+    },
+    {
+      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
       },
@@ -8352,7 +8392,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 284339,
       "name": "Over You",
       "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
@@ -8890,7 +8930,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 178455,
       "name": "Quiet When You\u2019re Listening",
       "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"

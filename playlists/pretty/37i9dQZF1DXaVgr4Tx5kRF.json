@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666648,
+  "num_followers": 666651,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Be A Girl",
-        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
-      },
-      "artists": [
-        {
-          "name": "The Wannadies",
-          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "You & Me Song",
-      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "International Velvet",
         "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 308386,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Be A Girl",
+        "url": "https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI"
+      },
+      "artists": [
+        {
+          "name": "The Wannadies",
+          "url": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "You & Me Song",
+      "url": "https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "This Is My Truth Tell Me Yours",
-        "url": "https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "You Stole the Sun from My Heart",
-      "url": "https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "International Velvet",
         "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 251266,
       "name": "Mulder and Scully",
       "url": "https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "This Is My Truth Tell Me Yours",
+        "url": "https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "You Stole the Sun from My Heart",
+      "url": "https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Everything Must Go 20 (Remastered)",
-        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "A Design for Life - 2016 Remastered Version",
-      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Ready To Go",
         "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 301533,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Everything Must Go 20 (Remastered)",
+        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "A Design for Life - 2016 Remastered Version",
+      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 322946,
+      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "James: The Best Of",
         "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 258533,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 322946,
-      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 125763,
+  "num_followers": 125771,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADYm5ZzqZynHYpEHhhF6P00",
+  "snapshot_id": "amKrAAAAAADYEqbB0GkcksBPQ80FeB/u",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 240189,
-      "name": "P\u00e1nico",
-      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
+      "duration_ms": 271866,
+      "name": "Yo No Nac\u00ed Para Amar",
+      "url": "https://open.spotify.com/track/36yZWXnrRJnxScVITAwcFl"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta, Vol.1",
-        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Yo No Nac\u00ed Para Amar",
-      "url": "https://open.spotify.com/track/36yZWXnrRJnxScVITAwcFl"
+      "duration_ms": 240189,
+      "name": "P\u00e1nico",
+      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
     },
     {
       "added_at": null,

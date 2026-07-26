@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,174 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,291 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 55 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 |
 | 56 | [Party So Hard](https://open.spotify.com/track/4cVy5JeJst4DxracwylORB) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Party So Hard](https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa) | 2:55 |
 | 57 | [Crazy People 2026](https://open.spotify.com/track/4yqOK3jja63u5BRT2tRBWb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS) | [Crazy People 2026](https://open.spotify.com/album/1B8Vuct1eCGz5UWP7FlLIW) | 3:03 |
-| 58 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
-| 59 | [Euphoria](https://open.spotify.com/track/3dL80LEvdLfZllIKdCeGFN) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Nasha](https://open.spotify.com/artist/4rjMrD55Od3MSYRyl3xt6n) | [Euphoria](https://open.spotify.com/album/0QJZAHxcKEhpQPkBgiCwX4) | 3:58 |
+| 58 | [Euphoria](https://open.spotify.com/track/3dL80LEvdLfZllIKdCeGFN) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Nasha](https://open.spotify.com/artist/4rjMrD55Od3MSYRyl3xt6n) | [Euphoria](https://open.spotify.com/album/0QJZAHxcKEhpQPkBgiCwX4) | 3:58 |
+| 59 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
 | 60 | [Mouth Go LaLa](https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Mouth Go LaLa](https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI) | 2:41 |
 | 61 | [Rave Master](https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Rave Master](https://open.spotify.com/album/2olvWqtqMwCMQaadIgie9w) | 2:16 |
 | 62 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [I Want You \- 2026 Mix](https://open.spotify.com/track/0UOFrlPU6jXhTGIZZLje9o) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You \(2026 Mix\)](https://open.spotify.com/album/7GHCY3oblxWdQRw42zibkI) | 2:48 |
 | 80 | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S) | 3:22 |
 
-Snapshot ID: `AAAAAOmVDovkuPMDpSx8aKzNheYxejDe`
+Snapshot ID: `AAAAAJVpXosoIE8L7Vk0fuikE7JfZvhs`

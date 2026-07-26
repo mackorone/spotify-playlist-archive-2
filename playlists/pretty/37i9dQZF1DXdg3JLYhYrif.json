@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 378842,
+  "num_followers": 378860,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Na Ponta Ela Fica",
-        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
-      },
-      "artists": [
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Na Ponta Ela Fica",
-      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 174653,
       "name": "10% - Ao Vivo",
       "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Na Ponta Ela Fica",
+        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
+      },
+      "artists": [
+        {
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Na Ponta Ela Fica",
+      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
     },
     {
       "added_at": "2022-03-24 13:07:25",

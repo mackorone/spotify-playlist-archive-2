@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 145512,
+  "num_followers": 145533,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADAcmkrUoaxD64GWyA7/GsH",
+  "snapshot_id": "amKrAAAAAABnTEaakONq463pcxb0rB1R",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "State Of Unrest",
-        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
         }
       ],
-      "duration_ms": 187894,
-      "name": "State Of Unrest",
-      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
+      "duration_ms": 299557,
+      "name": "Resurrection Man",
+      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
     },
     {
       "added_at": null,
@@ -451,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+        "name": "State Of Unrest",
+        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
       },
       "artists": [
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
         }
       ],
-      "duration_ms": 299557,
-      "name": "Resurrection Man",
-      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
+      "duration_ms": 187894,
+      "name": "State Of Unrest",
+      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
     },
     {
       "added_at": null,

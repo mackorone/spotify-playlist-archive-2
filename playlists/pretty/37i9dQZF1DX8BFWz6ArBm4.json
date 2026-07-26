@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giannis Ploutarhos",
-  "num_followers": 39436,
+  "num_followers": 39439,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,22 @@
     {
       "added_at": "2026-07-23 21:00:32",
       "album": {
-        "name": "Den Apantas",
-        "url": "https://open.spotify.com/album/1vfjKo8jo84sTAiI5ciu5m"
+        "name": "Siopi Sti Diapason",
+        "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
       },
       "artists": [
         {
-          "name": "Giorgos Livanis",
-          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
         },
         {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
         }
       ],
-      "duration_ms": 161785,
-      "name": "Den Apantas",
-      "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
+      "duration_ms": 190030,
+      "name": "Siopi Sti Diapason",
+      "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
     },
     {
       "added_at": "2026-07-23 21:00:32",
@@ -599,22 +599,22 @@
     {
       "added_at": "2026-07-23 21:00:32",
       "album": {
-        "name": "Siopi Sti Diapason",
-        "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
+        "name": "Den Apantas",
+        "url": "https://open.spotify.com/album/1vfjKo8jo84sTAiI5ciu5m"
       },
       "artists": [
         {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
         },
         {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
         }
       ],
-      "duration_ms": 190030,
-      "name": "Siopi Sti Diapason",
-      "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
+      "duration_ms": 161785,
+      "name": "Den Apantas",
+      "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
     },
     {
       "added_at": "2026-07-23 21:00:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-23 21:00:32",
       "album": {
-        "name": "Epiptoseis",
-        "url": "https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 196778,
-      "name": "Epiptoseis",
-      "url": "https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP"
-    },
-    {
-      "added_at": "2026-07-23 21:00:32",
-      "album": {
         "name": "Kala Na Pernate",
         "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 186428,
       "name": "Kala Na Pernate",
       "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
+    },
+    {
+      "added_at": "2026-07-23 21:00:32",
+      "album": {
+        "name": "Epiptoseis",
+        "url": "https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 196778,
+      "name": "Epiptoseis",
+      "url": "https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP"
     },
     {
       "added_at": "2026-07-23 21:00:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-07-23 21:00:32",
       "album": {
-        "name": "Na M' Agapas",
-        "url": "https://open.spotify.com/album/46U7QZidges6iCwapYS8Gj"
-      },
-      "artists": [
-        {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Na M' Agapas",
-      "url": "https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO"
-    },
-    {
-      "added_at": "2026-07-23 21:00:32",
-      "album": {
         "name": "Mavra Feggaria",
         "url": "https://open.spotify.com/album/4itX5qMwCqZv3yaOFfYAdJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 182928,
       "name": "Mavra Feggaria",
       "url": "https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm"
+    },
+    {
+      "added_at": "2026-07-23 21:00:32",
+      "album": {
+        "name": "Na M' Agapas",
+        "url": "https://open.spotify.com/album/46U7QZidges6iCwapYS8Gj"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Na M' Agapas",
+      "url": "https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO"
     }
   ],
   "unique_name": "Laika tou Simera",

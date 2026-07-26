@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2182909,
+  "num_followers": 2182865,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADPot+EIvtT6WMyx1fxdI1mUhgcv",
+  "snapshot_id": "AAAAABbqOQH3Hu0pbq563sCVZAy9mDem",
   "tracks": [
     {
       "added_at": "2026-07-17 09:18:30",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
+        "name": "Where moments wait",
+        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 204198,
+      "name": "Where moments wait",
+      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 383851,
       "name": "MoonDial",
       "url": "https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
-        "name": "Where moments wait",
-        "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 204198,
-      "name": "Where moments wait",
-      "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "as day breaks",
-        "url": "https://open.spotify.com/album/5zLxmVdpkM751V3eGhxPOc"
-      },
-      "artists": [
-        {
-          "name": "Jerk",
-          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "still dreaming",
-      "url": "https://open.spotify.com/track/0pW8IdLC9IqYGeN4Wk33Fr"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
         "name": "Love & Life",
         "url": "https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl"
       },
@@ -907,18 +891,22 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "El Bazita",
-        "url": "https://open.spotify.com/album/4tj3ZFELcUVaTuc1oqw8BY"
+        "name": "Fainted Light",
+        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
       },
       "artists": [
         {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+          "name": "Indra Lesmana",
+          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
+        },
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
         }
       ],
-      "duration_ms": 241303,
-      "name": "El Bazita",
-      "url": "https://open.spotify.com/track/4DD7TxEznG8QclshuPIbxv"
+      "duration_ms": 407910,
+      "name": "Fainted Light",
+      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -939,22 +927,34 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "Fainted Light",
-        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
+        "name": "as day breaks",
+        "url": "https://open.spotify.com/album/5zLxmVdpkM751V3eGhxPOc"
       },
       "artists": [
         {
-          "name": "Indra Lesmana",
-          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
-        },
-        {
-          "name": "Maurice Mobetta Brown",
-          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+          "name": "Jerk",
+          "url": "https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf"
         }
       ],
-      "duration_ms": 407910,
-      "name": "Fainted Light",
-      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
+      "duration_ms": 266181,
+      "name": "still dreaming",
+      "url": "https://open.spotify.com/track/0pW8IdLC9IqYGeN4Wk33Fr"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
+        "name": "El Bazita",
+        "url": "https://open.spotify.com/album/4tj3ZFELcUVaTuc1oqw8BY"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "duration_ms": 241303,
+      "name": "El Bazita",
+      "url": "https://open.spotify.com/track/4DD7TxEznG8QclshuPIbxv"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 270896,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
         "name": "This Is The Day",
         "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 297546,
       "name": "Trilly - Variation",
       "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 270896,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "Live At Bird's Eye",
-        "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
-      },
-      "artists": [
-        {
-          "name": "Harry Allen",
-          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        }
-      ],
-      "duration_ms": 319468,
-      "name": "When October Goes - Live",
-      "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
         "name": "Apr\u00e8s Un R\u00eave",
         "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 268565,
       "name": "Apr\u00e8s Un R\u00eave",
       "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
+        "name": "Live At Bird's Eye",
+        "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        }
+      ],
+      "duration_ms": 319468,
+      "name": "When October Goes - Live",
+      "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
-      },
-      "artists": [
-        {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
         "name": "Dialect",
         "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 222858,
       "name": "Road to Eden",
       "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -2019,26 +2019,34 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "The Wayfarers",
-        "url": "https://open.spotify.com/album/41k2ttC9wqYEpzSjJnfGaf"
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
         }
       ],
-      "duration_ms": 207306,
-      "name": "A Blacksmith's Tale",
-      "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "added_at": "2026-07-17 09:18:30",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2026-07-17 09:18:30",
@@ -2071,34 +2079,26 @@
     {
       "added_at": "2026-07-17 09:18:30",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+        "name": "The Wayfarers",
+        "url": "https://open.spotify.com/album/41k2ttC9wqYEpzSjJnfGaf"
       },
       "artists": [
         {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
-    },
-    {
-      "added_at": "2026-07-17 09:18:30",
-      "album": {
-        "name": "Outside Introspections",
-        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
-      },
-      "artists": [
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
         {
-          "name": "Federica Lorusso",
-          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
         }
       ],
-      "duration_ms": 309960,
-      "name": "Just Go Ahead",
-      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+      "duration_ms": 207306,
+      "name": "A Blacksmith's Tale",
+      "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
     },
     {
       "added_at": "2026-07-17 09:18:30",

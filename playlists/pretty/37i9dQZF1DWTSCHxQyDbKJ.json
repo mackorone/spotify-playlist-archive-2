@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Jodie Harsh",
-  "num_followers": 34857,
+  "num_followers": 34889,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
         "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
         "url": "https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
       "url": "https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 215693,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 264591,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
         "name": "Everything Is Beautiful",
         "url": "https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 198986,
       "name": "Everything Is Beautiful",
       "url": "https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
-        "name": "Hex So Heavy",
-        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Hex So Heavy",
-      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
         "name": "heaven/jealous",
         "url": "https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 176718,
       "name": "heaven/jealous",
       "url": "https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
+        "name": "Hex So Heavy",
+        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Hex So Heavy",
+      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
+        "name": "Cowboys!",
+        "url": "https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS"
+      },
+      "artists": [
+        {
+          "name": "Chubby Cat",
+          "url": "https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ"
+        }
+      ],
+      "duration_ms": 174558,
+      "name": "Cowboys!",
+      "url": "https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps"
+    },
+    {
+      "added_at": "2026-07-13 23:00:03",
+      "album": {
         "name": "grit",
         "url": "https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2026-07-13 23:00:03",
       "album": {
-        "name": "DONT MAKE THIS WEIRD",
-        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
+        "name": "Isn't he pretty",
+        "url": "https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF"
       },
       "artists": [
         {
-          "name": "DONT MAKE THIS WEIRD",
-          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
         }
       ],
-      "duration_ms": 170905,
-      "name": "DONT MAKE THIS WEIRD",
-      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
+      "duration_ms": 175941,
+      "name": "Isn't he pretty",
+      "url": "https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj"
     },
     {
       "added_at": "2026-07-13 23:00:03",
@@ -1707,22 +1723,6 @@
       "duration_ms": 211469,
       "name": "go!",
       "url": "https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka"
-    },
-    {
-      "added_at": "2026-07-13 23:00:03",
-      "album": {
-        "name": "Isn't he pretty",
-        "url": "https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF"
-      },
-      "artists": [
-        {
-          "name": "Aidan Jones",
-          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
-        }
-      ],
-      "duration_ms": 175941,
-      "name": "Isn't he pretty",
-      "url": "https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

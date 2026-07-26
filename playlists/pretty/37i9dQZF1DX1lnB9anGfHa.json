@@ -1,6 +1,6 @@
 {
   "description": "a journey into the unknown, dark, and experimental \ud83c\udf11 Cover: Chelsea Wolfe.",
-  "num_followers": 252177,
+  "num_followers": 252203,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2vkqn0lgjSVpEdVE1RRRCA"
+      },
+      "artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        }
+      ],
+      "duration_ms": 388706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/5uJWzxAUwEqfwhQiIWXBZJ"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
-        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
-        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
-      },
-      "artists": [
-        {
-          "name": "Dagmar Zuniga",
-          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
-        }
-      ],
-      "duration_ms": 121228,
-      "name": "Plenty For All The Masses",
-      "url": "https://open.spotify.com/track/6DHV44sKNB0hchQaGCq4Hv"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -267,6 +267,22 @@
       "duration_ms": 243466,
       "name": "Illa Sera",
       "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
+        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
+        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Zuniga",
+          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
+        }
+      ],
+      "duration_ms": 121228,
+      "name": "Plenty For All The Masses",
+      "url": "https://open.spotify.com/track/6DHV44sKNB0hchQaGCq4Hv"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -307,6 +323,22 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
+        "name": "R\u00c0RECHE",
+        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "R\u00c0RECHE",
+      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
         "name": "Great Doubt EDITS",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
@@ -327,18 +359,18 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "R\u00c0RECHE",
-        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
+        "name": "Lauda",
+        "url": "https://open.spotify.com/album/2k8PnWL7bidqIWzi4v4ZuZ"
       },
       "artists": [
         {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
         }
       ],
-      "duration_ms": 171360,
-      "name": "R\u00c0RECHE",
-      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
+      "duration_ms": 330480,
+      "name": "Lauda",
+      "url": "https://open.spotify.com/track/7cmI7fqL8FodgrCyvlLLrU"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -359,18 +391,18 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Lauda",
-        "url": "https://open.spotify.com/album/2k8PnWL7bidqIWzi4v4ZuZ"
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
       "artists": [
         {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
         }
       ],
-      "duration_ms": 330480,
-      "name": "Lauda",
-      "url": "https://open.spotify.com/track/7cmI7fqL8FodgrCyvlLLrU"
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -391,34 +423,18 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "Vanities",
+        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/2vkqn0lgjSVpEdVE1RRRCA"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        }
-      ],
-      "duration_ms": 388706,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/5uJWzxAUwEqfwhQiIWXBZJ"
+      "duration_ms": 296000,
+      "name": "Watching People Die",
+      "url": "https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -439,38 +455,6 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Vanities",
-        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Watching People Die",
-      "url": "https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 308186,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
         "name": "trip9love...???",
         "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
       },
       "artists": [
         {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+      "duration_ms": 308186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Tunnel Lights",
-        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 247664,
-      "name": "Tunnel Lights",
-      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
+        "name": "Tunnel Lights",
+        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 247664,
+      "name": "Tunnel Lights",
+      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        },
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 240508,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
         "name": "thieves",
         "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 240508,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-07-24 00:01:52",
       "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
         "name": "I'm A Man",
         "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 271693,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
-    },
-    {
-      "added_at": "2026-07-24 00:01:52",
-      "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2026-07-24 00:01:52",
@@ -887,6 +871,22 @@
       "duration_ms": 300000,
       "name": "The Order of the Rain",
       "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "added_at": "2026-07-24 00:01:52",
+      "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
     },
     {
       "added_at": "2026-07-24 00:01:52",

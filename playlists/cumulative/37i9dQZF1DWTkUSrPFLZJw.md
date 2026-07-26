@@ -4,7 +4,7 @@
 
 > atopa risers
 
-105 songs - 5 hr 4 min
+106 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 | 2025-11-07 |  |
 | [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 | 2026-04-17 | 2026-06-28 |
 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 | 2025-10-24 | 2025-12-18 |
-| [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 | 2025-10-24 |  |
+| [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 | 2025-10-24 | 2026-07-26 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2025-10-24 |  |
 | [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 | 2026-03-06 | 2026-04-21 |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2025-10-24 | 2025-12-19 |
@@ -92,6 +92,7 @@
 | [Signature \(with Lasmid\)](https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Signature \(with Lasmid\)](https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO) | 2:42 | 2026-05-01 |  |
 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 | 2025-10-24 |  |
 | [STARLIFE](https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [STARLIFE](https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM) | 2:22 | 2026-05-08 |  |
+| [Stopit](https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Stopit](https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o) | 2:30 | 2026-07-17 |  |
 | [Stranger](https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:55 | 2026-05-01 |  |
 | [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 | 2025-10-24 |  |
 | [Sunshine](https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sunshine](https://open.spotify.com/album/3ttyIYcR7OfQn7fzrdLJrM) | 3:39 | 2026-05-15 | 2026-07-17 |

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195251,
+  "num_followers": 195248,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Midsummer",
-        "url": "https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac"
-      },
-      "artists": [
-        {
-          "name": "Mondo",
-          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Midsummer",
-      "url": "https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Jag fick andas den tunna luften",
         "url": "https://open.spotify.com/album/2i8RBUG1MJ7TP02SKWDAoC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 209974,
       "name": "Jag fick andas den tunna luften",
       "url": "https://open.spotify.com/track/52KmKPexchX9q9wD3fd1hw"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Midsummer",
+        "url": "https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac"
+      },
+      "artists": [
+        {
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Ett hj\u00e4rta utan adress",
-        "url": "https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 196901,
-      "name": "H\u00e4lsa satan",
-      "url": "https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "NOLLPUNKT",
         "url": "https://open.spotify.com/album/0yjjB9JRGuVXAThPbaGTb6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 193026,
       "name": "Nollpunkt",
       "url": "https://open.spotify.com/track/072OSFoPMNlQoKaGvv27ii"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Ett hj\u00e4rta utan adress",
+        "url": "https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 196901,
+      "name": "H\u00e4lsa satan",
+      "url": "https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 214778,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Higher Calling",
         "url": "https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 223143,
       "name": "Higher Calling",
       "url": "https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 214778,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "WILDFIRE",
-        "url": "https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "embraced for a second as we die",
         "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Aldrig ensam igen",
         "url": "https://open.spotify.com/album/1JmwKuLFZ5q1vMtp2rSkUd"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 217903,
       "name": "Aldrig ensam igen",
       "url": "https://open.spotify.com/track/4sJQnRoQgcyju6a5ALVZvI"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "WILDFIRE",
+        "url": "https://open.spotify.com/album/7rg0Uyz5QcUSBDRpzHAbQN"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0HQQ4wZ15cWmW5jMFKLNgs"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
+        "name": "Fotografi",
+        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Fotografi",
+      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
         "name": "Eld fire fogo",
         "url": "https://open.spotify.com/album/3FvqIdXrAw1CSKnLqXwWDq"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Fotografi",
-        "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
+        "name": "Te Dua",
+        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
       },
       "artists": [
         {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Fotografi",
-      "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+      "duration_ms": 169297,
+      "name": "Te Dua",
+      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1407,22 +1423,6 @@
       "duration_ms": 216933,
       "name": "Sick Of Love",
       "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
-        "name": "Te Dua",
-        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 169297,
-      "name": "Te Dua",
-      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Hela v\u00e4rlden",
-        "url": "https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP"
-      },
-      "artists": [
-        {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Hela v\u00e4rlden",
-      "url": "https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/3KmGtcCu9snknpRPf4llbD"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 192047,
       "name": "Always You",
       "url": "https://open.spotify.com/track/2U9JkUqGUrF3EWzzhLPoKu"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Hela v\u00e4rlden",
+        "url": "https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Hela v\u00e4rlden",
+      "url": "https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Mina b\u00e4sta jeans",
-        "url": "https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Mina b\u00e4sta jeans",
-      "url": "https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "\u00d6ver",
         "url": "https://open.spotify.com/album/6Rj381d50c8zjs37wts189"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 229146,
       "name": "\u00d6ver",
       "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Mina b\u00e4sta jeans",
+        "url": "https://open.spotify.com/album/6MlAT6gxFoloQZU4EjeF6M"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Mina b\u00e4sta jeans",
+      "url": "https://open.spotify.com/track/735Hwnau3dlQtzLtE1vCRn"
     },
     {
       "added_at": "2026-07-23 22:00:34",

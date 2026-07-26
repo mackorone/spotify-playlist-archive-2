@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-151 songs - 10 hr 33 min
+152 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Extrañarte](https://open.spotify.com/track/0DzIgI6SSaFr3Ge53FxWNh) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:50 | 2025-04-12 | 2025-05-07 |
 | [Extrañarte](https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:50 | 2022-09-16 | 2025-04-12 |
 | [Extrañarte](https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:52 | 2025-05-07 |  |
+| [Frente a Frente](https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Frente a Frente](https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615) | 4:29 | 2026-07-26 |  |
 | [Fui feliz](https://open.spotify.com/track/0buViP262fsSDIWeIxDOaM) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 3:56 | 2025-04-14 | 2025-05-07 |
 | [Fui feliz](https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:56 | 2022-09-16 | 2025-04-14 |
 | [Fui feliz](https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:58 | 2025-05-07 |  |

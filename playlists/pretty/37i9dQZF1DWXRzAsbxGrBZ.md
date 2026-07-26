@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Fatso 98
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,740 likes - 70 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,798 likes - 70 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 24 | [Heal My Soul](https://open.spotify.com/track/34VuOjQPe2QGQpjnGgsxBy) | [8nine Muzique](https://open.spotify.com/artist/47Htt5Zm9p72oZH0DcItjx), [Kevin BlaQue](https://open.spotify.com/artist/67wuqraVDJe6PGUnZzCjyW) | [Heal My Soul](https://open.spotify.com/album/6smt3JphGsqMUe493eyf7R) | 6:41 |
 | 25 | [Yebo! \(feat\. Dj Xivo\)](https://open.spotify.com/track/2191d9q8ELxARX4Ei92ltj) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Dj Xivo](https://open.spotify.com/artist/3FQ0rSSQdBSz58KxGts86A) | [Yebo! \(feat\. Dj Xivo\)](https://open.spotify.com/album/2t9nUvhEf1ijG3kF575tk2) | 6:00 |
 | 26 | [Emotions](https://open.spotify.com/track/3FfXoHWckfGVVZnCnEDOF0) | [CreatunEdeep](https://open.spotify.com/artist/2QeGksNDUg9v3PhGJm7Jwu), [The iRish SA](https://open.spotify.com/artist/3DsO29Y03mSSoqsDe2SqGb) | [Emotions](https://open.spotify.com/album/76DWW0o5Cpb2M88c4b3iVg) | 7:02 |
-| 27 | [Healing](https://open.spotify.com/track/7I2USjkJAM5WpJ6YIfIueF) | [Megamind Nova](https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC), [MacD](https://open.spotify.com/artist/6EHxhQc96hohyNYKijed8d) | [Healing](https://open.spotify.com/album/2WAgzVTyoBOXFcFXdR0Aws) | 7:18 |
+| 27 | [Healing](https://open.spotify.com/track/7I2USjkJAM5WpJ6YIfIueF) | [Megamind Nova](https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC), [MacD](https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh) | [Healing](https://open.spotify.com/album/2WAgzVTyoBOXFcFXdR0Aws) | 7:18 |
 | 28 | [It Is Well](https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [It Is Well](https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa) | 7:10 |
 | 29 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee\-Bar](https://open.spotify.com/artist/3qb1QRGW4Fg2Z5tL1RpEbJ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 |
 | 30 | [Nothingness](https://open.spotify.com/track/5Tqu6AEe9N4Cudb7Z0siVh) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [Grounded](https://open.spotify.com/album/2KQKlBWvfHORHPixtI048Z) | 6:34 |

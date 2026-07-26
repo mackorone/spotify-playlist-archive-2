@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
-      },
-      "artists": [
-        {
-          "name": "Ikuko Harada",
-          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
-      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
-    },
-    {
       "added_at": "2025-12-19 02:48:54",
       "album": {
         "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
@@ -1463,6 +1447,22 @@
       "duration_ms": 218622,
       "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
       "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
+      },
+      "artists": [
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
+      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
       "added_at": "2025-12-11 02:28:39",

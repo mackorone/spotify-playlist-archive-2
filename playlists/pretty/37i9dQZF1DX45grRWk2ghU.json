@@ -1,6 +1,6 @@
 {
   "description": "Pinky up!",
-  "num_followers": 859490,
+  "num_followers": 859729,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Love. Angel. Music. Baby. (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Johnny Vulture",
-          "url": "https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Bubble Pop Electric",
-      "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Love. Angel. Music. Baby. (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Johnny Vulture",
+          "url": "https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Bubble Pop Electric",
+      "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
     },
     {
       "added_at": "2024-10-11 04:00:00",

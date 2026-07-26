@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,128 likes - 145 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,150 likes - 145 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 4 | [Love You Day One](https://open.spotify.com/track/2PXMK8yPrTgxxdkZvNHfyi) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Love You Day One](https://open.spotify.com/album/2SaXBSwJrEQbDRRgawIxiB) | 6:14 |
 | 5 | [Moon](https://open.spotify.com/track/4k4b3dlB5BLD7gqqsYYscq) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Moon](https://open.spotify.com/album/7GoHOv6OdZgBObc5SNnrp7) | 5:18 |
 | 6 | [Condor](https://open.spotify.com/track/6gNTVY3wKITCGEOxvJ12Lo) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Condor](https://open.spotify.com/album/6ia9QEtiiVRKE1Jzl9t5wW) | 6:00 |
-| 7 | [Falling Into Time \(Migs Vocal Revision\)](https://open.spotify.com/track/3EFlkm1QdnDfCBRf96BAmK) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Lisa Shaw](https://open.spotify.com/artist/36AfPbkMSwrFoWMQ9sUARb) | [Sound Vault, Pt\. 4](https://open.spotify.com/album/3vCsEwSmU9pmRNR1PjEHHH) | 5:42 |
+| 7 | [Falling Into Time \- \(Migs Vocal Revision\)](https://open.spotify.com/track/3EFlkm1QdnDfCBRf96BAmK) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Lisa Shaw](https://open.spotify.com/artist/36AfPbkMSwrFoWMQ9sUARb) | [The Sound Vault, Pt\. 4](https://open.spotify.com/album/3vCsEwSmU9pmRNR1PjEHHH) | 5:42 |
 | 8 | [Man Of Soul, Pt\. 2](https://open.spotify.com/track/03M4l3mt1lbNJvStjEAGuz) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Man Of Soul, Pt\. 2](https://open.spotify.com/album/4crgRfwrpOelhXRiLzRsYG) | 3:12 |
 | 9 | [Kerriousity](https://open.spotify.com/track/0UD514lKUYatjWSWhBhmcd) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Kerriousity](https://open.spotify.com/album/1DRDvdXVJgByKpoa4vxqcu) | 4:49 |
 | 10 | [Crispy Pancakes](https://open.spotify.com/track/2BwKVfq5bkg7oalYGAxfmm) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Crispy Pancakes](https://open.spotify.com/album/3IbFm9W1TcJKKo8wAnD4Is) | 5:02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 18025,
+  "num_followers": 18050,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACd+rRebBPYcou4UdRPfRpy",
+  "snapshot_id": "amKrAAAAAAD+zXJX/EhePsuaxvuQAquX",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back In Office",
-        "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
     },
     {
       "added_at": null,
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
         }
       ],
-      "duration_ms": 212041,
-      "name": "Ludo",
-      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
+      "duration_ms": 158833,
+      "name": "Pier 46",
+      "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
     },
     {
       "added_at": null,
@@ -528,13 +528,13 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 158833,
-      "name": "Pier 46",
-      "url": "https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl"
+      "duration_ms": 212041,
+      "name": "Ludo",
+      "url": "https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD"
     },
     {
       "added_at": null,
@@ -575,26 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
-        {
-          "name": "S high",
-          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 206821,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -615,18 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
       "artists": [
+        {
+          "name": "S high",
+          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+      "duration_ms": 206821,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
     },
     {
       "added_at": null,

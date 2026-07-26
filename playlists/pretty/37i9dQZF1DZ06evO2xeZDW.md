@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,430 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,431 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 | 29 | [Cast of Cooks](https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:41 |
 | 30 | [Can't Fight City Halloween](https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 4:04 |
 | 31 | [The Imperial Suite](https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:29 |
-| 32 | [Star Trek](https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 1:01 |
-| 33 | [Hot Fursuit](https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 2:55 |
+| 32 | [The Break Of Dawn](https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Let Him Go \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis) | 1:49 |
+| 33 | [Star Trek](https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 1:01 |
 | 34 | [Catwoman](https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 3:03 |
-| 35 | [The Break Of Dawn](https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Let Him Go \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis) | 1:49 |
+| 35 | [Hot Fursuit](https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 2:55 |
 | 36 | [London Calling](https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 2:10 |
 | 37 | [Up With Titles](https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:52 |
 | 38 | [Funeral and Far Between](https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 1:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xeZDW.md) - [plain]
 | 46 | [All's Well That Ends Farewell](https://open.spotify.com/track/3OUzsBpHB4fkdaRy14IcWx) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 2:41 |
 | 47 | [The Turbomater \- From "Cars 2"/Score](https://open.spotify.com/track/6dtH3YqfLqPM3OIlYQ9CwE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:50 |
 | 48 | [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 |
-| 49 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 |
-| 50 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 |
+| 49 | [Episode 2](https://open.spotify.com/track/2EmihuJbmXOcfN3QafNIkJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 0:50 |
+| 50 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 |
 
-Snapshot ID: `amFZgAAAAADhZUFoff9si6odgyVPWL9M`
+Snapshot ID: `amKrAAAAAABC18c9Tt3ztuI5N1NZu1wS`

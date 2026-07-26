@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Alonzo, SAF, Lebeey, Le Bigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,700 likes - 86 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,712 likes - 86 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

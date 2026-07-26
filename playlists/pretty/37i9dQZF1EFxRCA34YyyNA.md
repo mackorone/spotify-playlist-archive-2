@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 62 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 7 | [Sunrise \- Pillows](https://open.spotify.com/track/1p7rbu7NGRN5hm5eJVP4YF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Nocturne](https://open.spotify.com/album/7KEhJz1ps7Ia0COtbMFoIC) | 2:54 |
 | 8 | [Copy & Paste Interlude](https://open.spotify.com/track/4dPqeQTjLeNDhHRBZCCocQ) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/0ND38ppWFNafGtohUhFULG) | 2:49 |
 | 9 | [OOPS](https://open.spotify.com/track/69tpm46QnpzuiqqPVw0Nai) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Arran Kent](https://open.spotify.com/artist/7pYWAem9URTWlaPG1nTulZ) | [OOPS](https://open.spotify.com/album/3rLdTuIBWDXBEpa9KRaCHG) | 3:41 |
-| 10 | [Insomnia](https://open.spotify.com/track/32YG0ebw6qlgiLohLucdJW) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 3:31 |
-| 11 | [Easily, I Forget](https://open.spotify.com/track/5rERYuoG0D2vsgxwB5gsZ4) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 2:45 |
+| 10 | [Easily, I Forget](https://open.spotify.com/track/5rERYuoG0D2vsgxwB5gsZ4) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 2:45 |
+| 11 | [Insomnia](https://open.spotify.com/track/32YG0ebw6qlgiLohLucdJW) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 3:31 |
 | 12 | [No Need to Wait](https://open.spotify.com/track/1MfXHGGG7ml1HMBSTiUNRk) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 4:19 |
 | 13 | [You Love Em](https://open.spotify.com/track/0ARFUAfMjqmBxuE2ihycXT) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Soulection White Label \- ROM](https://open.spotify.com/album/1y5Jjodlso3W48xSORn1tz) | 2:39 |
 | 14 | [No, Don't Incomplete](https://open.spotify.com/track/4G4ZwjYA1aXYuqhgQ6mSfh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 5:01 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 61 | [Porridge](https://open.spotify.com/track/1VUmV4rdl3xvgWWNAxj4BL) | [BR!DGE](https://open.spotify.com/artist/66Bbc1SY66jhHPGL6Bxi3M) | [Porridge](https://open.spotify.com/album/2eT03IF6xJ0468g7CM3yc7) | 2:06 |
 | 62 | [In Charge](https://open.spotify.com/track/2Le8ZZfiAX6qBCKC8LJc6u) | [Kelly Nova](https://open.spotify.com/artist/5b6PgL3qbqScpDZ2qM8aQr) | [Kelly Nova](https://open.spotify.com/album/6TLzKBLO1nHKUqq9dOeyXt) | 2:38 |
 
-Snapshot ID: `AcXvqAAAAAAxrusPfvjK4ahT21+aI7XD`
+Snapshot ID: `AcX1SAAAAACsfiiFAZVPPA/GaL2slin8`

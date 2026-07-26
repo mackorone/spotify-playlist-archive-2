@@ -12019,6 +12019,32 @@
     },
     {
       "album": {
+        "name": "Have Moicy!",
+        "url": "https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd"
+      },
+      "artists": [
+        {
+          "name": "Michael Hurley",
+          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+        },
+        {
+          "name": "Unholy Modal Rounders",
+          "url": "https://open.spotify.com/artist/6Q5S79gQdzhWg7M4JnN020"
+        },
+        {
+          "name": "Jeffrey Frederick & The Clamtones",
+          "url": "https://open.spotify.com/artist/4EcAdmBYoJcCKPazSjp2n1"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Midnight In Paris",
+      "url": "https://open.spotify.com/track/6ymzeC4hAANuO98puy82eA"
+    },
+    {
+      "album": {
         "name": "Solo For Wounded",
         "url": "https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 280165,
+  "num_followers": 280202,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 359480,
       "name": "Future Sand",
       "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Finding Calmness",
-        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
-      },
-      "artists": [
-        {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
-        }
-      ],
-      "duration_ms": 241212,
-      "name": "Breathing Deeper",
-      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
+        "name": "Finding Calmness",
+        "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "Breathing Deeper",
+      "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Changes in Air",
-        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 277750,
-      "name": "Boundlessness",
-      "url": "https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 268051,
       "name": "Dissolving Clouds",
       "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
+        "name": "Changes in Air",
+        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 277750,
+      "name": "Boundlessness",
+      "url": "https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Golden Pear",
-        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
-      },
-      "artists": [
-        {
-          "name": "Omni Gardens",
-          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Wild Marionberries",
-      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
         "name": "\u4e4b / OF",
         "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
+        "name": "Golden Pear",
+        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
+      },
+      "artists": [
+        {
+          "name": "Omni Gardens",
+          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Wild Marionberries",
+      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 255795,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/0giFRlECatzUl0T0iBMyhP"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
         "name": "Espiral (\u51a5\u4e01 Remix)",
         "url": "https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 270870,
       "name": "Wake Me Softly",
       "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
-        "name": "Tragic Magic",
-        "url": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        },
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 255795,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/0giFRlECatzUl0T0iBMyhP"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "I Miss The Way You Swim",
-        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 584013,
-      "name": "I Miss The Way You Swim",
-      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
         "name": "Music for Tomato Plants",
         "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 219820,
       "name": "Melodica",
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
+        "name": "I Miss The Way You Swim",
+        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 584013,
+      "name": "I Miss The Way You Swim",
+      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Watermelon Well",
-        "url": "https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
       "artists": [
         {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
-        },
-        {
-          "name": "John Thayer",
-          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 221647,
-      "name": "Watermelon Well",
-      "url": "https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3"
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+        "name": "Watermelon Well",
+        "url": "https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        },
+        {
+          "name": "John Thayer",
+          "url": "https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+      "duration_ms": 221647,
+      "name": "Watermelon Well",
+      "url": "https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
-        "name": "Smoke Rings",
-        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 486000,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 444800,
       "name": "Yo Soy - (Versi\u00f3n Instrumental)",
       "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 486000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
         "name": "R\u00e9gate",
         "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2026-07-13 13:55:13",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-13 13:55:13",
       "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
+    },
+    {
+      "added_at": "2026-07-13 13:55:13",
+      "album": {
         "name": "A Cat b/w Aran in Repose",
         "url": "https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 256000,
       "name": "Claro de Luna",
       "url": "https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r"
-    },
-    {
-      "added_at": "2026-07-13 13:55:13",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 230309,
-      "name": "Two Halves Touching",
-      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2026-07-13 13:55:13",

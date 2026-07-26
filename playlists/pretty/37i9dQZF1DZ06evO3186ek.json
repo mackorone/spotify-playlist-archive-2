@@ -1,37 +1,13 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166071,
+  "num_followers": 166077,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACbpTCL+1SqzAwu/vvK/T50",
+  "snapshot_id": "amKrAAAAAAC6fnAMktwTpWMRCLo+0ll0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 380453,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
-    },
     {
       "added_at": null,
       "album": {
@@ -391,6 +367,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 380453,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 2",
         "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 263786,
       "name": "Great Are You Lord - Instrumental Worship",
       "url": "https://open.spotify.com/track/5aAJngHe0aRjP57uSby8ag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Was Made To Glorify Your Name",
-        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 346056,
-      "name": "I Was Made To Glorify Your Name",
-      "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 226773,
       "name": "Worthy Of It All - Instrumental Worship",
       "url": "https://open.spotify.com/track/01inNw5R0q2qDZrktc0qUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Was Made To Glorify Your Name",
+        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 346056,
+      "name": "I Was Made To Glorify Your Name",
+      "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
     },
     {
       "added_at": null,
@@ -787,34 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
-        }
-      ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -855,6 +827,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 272348,
       "name": "Bless Me",
       "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way Reimagined",
-        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 177345,
-      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
-      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
     },
     {
       "added_at": null,
@@ -916,9 +896,29 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 249152,
-      "name": "What A Beautiful Name - Instrumental Worship",
-      "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
+      "duration_ms": 301760,
+      "name": "Trust In God - Instrumental Worship",
+      "url": "https://open.spotify.com/track/0MsduWkDk18iIFAIV6v10C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Maverick Way Reimagined",
+        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 177345,
+      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
+      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
     },
     {
       "added_at": null,
@@ -1179,6 +1179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 515963,
       "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
       "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     }
   ],
   "unique_name": "This Is Maverick City Music",

@@ -1,41 +1,13 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 125989,
+  "num_followers": 126003,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAC3kO/TFtEE+hT8xUXrG9jo",
+  "snapshot_id": "amKrAAAAAADgtlAw5+kDVygUdDXlgs5J",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "There Will Never Be Another You (Ornithology & Braxton Cook & Henry Wine Remix)",
-        "url": "https://open.spotify.com/album/1d6m1lVZcYuHcdmjO4CNkJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        },
-        {
-          "name": "Henry Wine",
-          "url": "https://open.spotify.com/artist/2RTkC61cDWN6dAQn29mqXo"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "There Will Never Be Another You - Ornithology & Braxton Cook & Henry Wine Remix",
-      "url": "https://open.spotify.com/track/3t3shoqk3pJlAaRC37iZR7"
-    },
     {
       "added_at": null,
       "album": {
@@ -431,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet (Keepnews Collection)",
         "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
       },
@@ -459,6 +415,22 @@
       "duration_ms": 185706,
       "name": "September Song",
       "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
     },
     {
       "added_at": null,
@@ -579,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 424493,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
         "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
       },
@@ -607,6 +563,22 @@
       "duration_ms": 400426,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5HVdNDqhK8hvEXm0OWEoGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 424493,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,549 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 88 | [Pretty Thing](https://open.spotify.com/track/2akDcoPwGl4175JFmQdqGb) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:16 |
 | 89 | [Make Me Feel](https://open.spotify.com/track/1xajUPr86m2Ge25UPxwJGA) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:09 |
 | 90 | [Too Proud](https://open.spotify.com/track/4AhMh0i9mBTXpfg35u1YQQ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 3:09 |
-| 91 | [Aerial Love](https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:34 |
-| 92 | [Don't Say That](https://open.spotify.com/track/7ncgSRdJ2GFM2EyJhKMSFs) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:30 |
+| 91 | [Don't Say That](https://open.spotify.com/track/7ncgSRdJ2GFM2EyJhKMSFs) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:30 |
+| 92 | [Aerial Love](https://open.spotify.com/track/355787LU9T5PxFX4BJQ4Xr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:34 |
 | 93 | [Killing You](https://open.spotify.com/track/7rOPsPvih0DakVEkHWC8ae) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:33 |
 | 94 | [Where Is Home \(feat\. Twin Shadow\)](https://open.spotify.com/track/7p5WNhM1wIyzW82a9KPfRe) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:20 |
 | 95 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
@@ -136,10 +136,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 126 | [Late Night Drive](https://open.spotify.com/track/049qupjx7ZcU17cs3DFuOY) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Aerial Love \- EP](https://open.spotify.com/album/0iaeHGOjhOFF8b1oESwHIB) | 3:05 |
 | 127 | [My Only \- Australian Version](https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:32 |
 | 128 | [Universe](https://open.spotify.com/track/4fQdAobfVctSk2ktC3zCS4) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills EP](https://open.spotify.com/album/1G9NhKyIZ3aFL3eoLr1C5s) | 3:25 |
-| 129 | [Miracles](https://open.spotify.com/track/4PHMdyklCcSlTCOvW4sJN5) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:24 |
-| 130 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 |
-| 131 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
-| 132 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 129 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 130 | [Miracles](https://open.spotify.com/track/4PHMdyklCcSlTCOvW4sJN5) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:24 |
+| 131 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 132 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 |
 | 133 | [Can't Help Myself](https://open.spotify.com/track/7IwihaZkKuKGB4UkzL4TPY) | [The V Motion Project](https://open.spotify.com/artist/0hrAoynZTWGkQTuFrmguc8) | [Can't Help Myself](https://open.spotify.com/album/3tF2Cjls2RsgUG4szvpCZz) | 2:57 |
 | 134 | [It's Nice to Feel This Way Again](https://open.spotify.com/track/59tXrequSEaYqew4Ho1BR5) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:25 |
 | 135 | [Death Goes to Disco](https://open.spotify.com/track/6pahHXIyqb8ZHHxiggzcKu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:34 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcXvqAAAAAA7oZ5puTsJG7pm4V51uBzP`
+Snapshot ID: `AcX1SAAAAADychYjt456Nd59KfOCOd1E`

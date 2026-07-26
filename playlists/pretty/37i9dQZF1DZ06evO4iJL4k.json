@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 325898,
+  "num_followers": 325934,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABxSorzvZHAhgqHhwvCwWt6",
+  "snapshot_id": "amKrAAAAAABjqWfxhJQnYGVoO200mcGU",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Da Onde Eu Venho",
-      "url": "https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 250775,
       "name": "Libert\u00e1rios N\u00e3o Morrem",
       "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Da Onde Eu Venho",
+      "url": "https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s"
     },
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NUME",
         "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 150000,
       "name": "Acima De Mim S\u00f3 Deus",
       "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 176000,
       "name": "F* F* M*",
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap da Lealdade",
-        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
       "artists": [
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
         }
       ],
-      "duration_ms": 181417,
-      "name": "Rap da Lealdade",
-      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+        "name": "Rap da Lealdade",
+        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
       },
       "artists": [
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
         }
       ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
+      "duration_ms": 181417,
+      "name": "Rap da Lealdade",
+      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "Fa\u00e7a Voc\u00ea Mesmo",
-      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 214235,
       "name": "Me Sinto Aben\u00e7oado",
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 210943,
-      "name": "Louco Pra Voltar",
-      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAL\u00c1CIO DE LONA",
         "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 189692,
       "name": "ELENCO FABULOSO",
       "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 210943,
+      "name": "Louco Pra Voltar",
+      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
     },
     {
       "added_at": null,
@@ -979,34 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "EU SOU O TREM",
-      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
@@ -1031,6 +1003,34 @@
       "duration_ms": 205746,
       "name": "PARAN\u00d3IAS",
       "url": "https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
     },
     {
       "added_at": null,
@@ -1099,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Direto da Selva Deluxe",
-        "url": "https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        }
-      ],
-      "duration_ms": 256618,
-      "name": "N\u00e3o Temos Medo - Remix",
-      "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 258782,
       "name": "KGL's",
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Direto da Selva Deluxe",
+        "url": "https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "duration_ms": 256618,
+      "name": "N\u00e3o Temos Medo - Remix",
+      "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
     },
     {
       "added_at": null,

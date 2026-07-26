@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-834 songs - 3 day 0 hr 18 min
+835 songs - 3 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,7 @@
 | [Pamper](https://open.spotify.com/track/1pULwRUwuK7xx8iCRomQ8V) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Pamper](https://open.spotify.com/album/0c02LRMPa9oZmkTO5z9vUY) | 2:07 | 2025-06-06 | 2025-06-27 |
 | [Peace of Mind](https://open.spotify.com/track/14rTJai9DTIgVBm716yimG) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Aeno](https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh) | [Peace of Mind](https://open.spotify.com/album/1LoDCE8grlVw2RQbhakX9g) | 2:07 | 2025-06-13 | 2025-06-20 |
 | [Pentecost](https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Pentecost](https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx) | 11:23 | 2025-04-25 |  |
-| [Power Of My Own](https://open.spotify.com/track/5Xa0EL9BMheLI9r5ivZ4yA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Power Of My Own](https://open.spotify.com/album/4IoNSQp9DhL7KbpR823WPW) | 2:49 | 2026-06-19 |  |
+| [Power Of My Own](https://open.spotify.com/track/5Xa0EL9BMheLI9r5ivZ4yA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Power Of My Own](https://open.spotify.com/album/4IoNSQp9DhL7KbpR823WPW) | 2:49 | 2026-06-19 | 2026-07-26 |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-09-15 | 2024-03-16 |
 | [PRAISE \(RENDITION\)](https://open.spotify.com/track/5dvsH15ks1ngWGKV1Uv2sB) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [PRAISE \(RENDITION\)](https://open.spotify.com/album/1h5eWQ63x30HlC6XCY2DuF) | 4:18 | 2025-08-01 | 2025-10-03 |
 | [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 |  |
@@ -780,6 +780,7 @@
 | [What I Need](https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [What I Need](https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q) | 2:51 | 2026-02-27 | 2026-05-22 |
 | [What Kind of Love \- Flow Mix](https://open.spotify.com/track/3Jwg37On8OhLaWEyUArEpM) | [Boye Ray](https://open.spotify.com/artist/08Bv8fWux8twM4sfzSzSf9) | [What Kind of Love \(Flow Mix\)](https://open.spotify.com/album/6XoNkMXFjnVmnygBujYar1) | 3:22 | 2024-01-26 | 2024-03-17 |
 | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX) | 6:26 | 2025-08-01 |  |
+| [When I Have You](https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW) | [Minister Rachel K](https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl) | [When I Have You](https://open.spotify.com/album/70bzK3vtHYnZTPHhn58cZa) | 4:34 | 2026-07-17 |  |
 | [When I Rise](https://open.spotify.com/track/6Vcb3GG1I9Chhwcc4OFEVS) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Find Me](https://open.spotify.com/album/2i6vGDEC1cSBDqNOanDu5b) | 2:54 | 2023-10-20 | 2023-11-03 |
 | [When You Are There \- Piano Ballad](https://open.spotify.com/track/2YhDgRSPNjwttKOLLcwkoQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [When You Are There \(Piano Ballad\)](https://open.spotify.com/album/5CiQkbQmr7rtnjgK1p808b) | 5:09 | 2024-10-11 | 2025-06-20 |
 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 |  |

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Karuppu
 
-298 songs - 17 hr 28 min
+299 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Thangarathinamey \(From "Manithan Deivamagalam"\)](https://open.spotify.com/track/53qYRSzDVci8J2NDkLjRsV) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Jothy](https://open.spotify.com/artist/6OV52EA4LuuA3cvChyqJQz), [Mu.Vi](https://open.spotify.com/artist/6kebCqkJdouIiat13Vd9fN) | [Thangarathinamey \(From "Manithan Deivamagalam"\)](https://open.spotify.com/album/0xuypn3OKaUyX0Zu43WZCy) | 3:02 | 2026-03-19 |  |
 | [Thannila Kandam \- Vengeance](https://open.spotify.com/track/0rBS6dyYZ0WVG54rw5qPO6) | [Karthik Raja](https://open.spotify.com/artist/0jXtd5NqfXiq9aT87f0GeX), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Thannila Kandam \(Vengeance\)](https://open.spotify.com/album/6J5kbTi2mqJKoIkaa04XeG) | 4:19 | 2026-02-19 |  |
 | [The One](https://open.spotify.com/track/12zT7djETGfDeL6JIVjM2b) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Retro \[TAMIL\]](https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q) | 3:59 | 2025-06-03 | 2026-03-25 |
+| [The Wedding Song \(From "Vishwanath & Sons"\)\(Tamil\)](https://open.spotify.com/track/0Y8hFPjJk8Kh4gJnfbYg1j) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP), [Ken Karunaas](https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA) | [The Wedding Song \(From "Vishwanath & Sons"\)\(Tamil\)](https://open.spotify.com/album/7yVsvUZ3J2EYeM1CI7y8y8) | 3:15 | 2026-07-25 |  |
 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 | 2022-12-04 | 2025-01-10 |
 | [Theekuchi](https://open.spotify.com/track/11ktAtbN1lp3aTvvbhDWi3) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:53 | 2023-11-09 | 2025-01-25 |
 | [Ther Thiruvizha \(From "Lal Salaam"\)](https://open.spotify.com/track/7yIRHn8EnQ0MuEOw1ephk7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Ther Thiruvizha \(From "Lal Salaam"\)](https://open.spotify.com/album/6LNwOQhulT2KCVNq3pyBxi) | 7:46 | 2023-12-18 | 2024-03-13 |

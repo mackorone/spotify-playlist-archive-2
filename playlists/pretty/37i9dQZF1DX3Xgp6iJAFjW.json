@@ -611,22 +611,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "Abreme La Puerta",
-      "url": "https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Lleg\u00f3 Navidad",
         "url": "https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 285545,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "Abreme La Puerta",
+      "url": "https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Cumbi\u00f3n Navide\u00f1o",
-        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Navidad de la Casa",
         "url": "https://open.spotify.com/album/4bB4B7b3B7qQoHeAc8kBtH"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 203109,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/3AknclWyWPLqIyUEyLPmKi"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Cumbi\u00f3n Navide\u00f1o",
+        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
       },
       "artists": [
         {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
+      "duration_ms": 199000,
+      "name": "Trulla Pa' Ti",
+      "url": "https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1187,18 +1187,34 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
       },
       "artists": [
         {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Trulla Pa' Ti",
-      "url": "https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8"
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
+        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
+        }
+      ],
+      "duration_ms": 362786,
+      "name": "Hay Mucha Alegria",
+      "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
-        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Hay Mucha Alegria",
-      "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Estrellas de Navidad",
         "url": "https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU"
       },
@@ -1263,38 +1263,6 @@
       "duration_ms": 198533,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/6zpp925GKli7ewqZ7EsuSv"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Duelo Cumbiambero En Navidad",
-        "url": "https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Jerry Christmas",
-        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "El Mejor D\u00eda Del A\u00f1o",
-      "url": "https://open.spotify.com/track/1O4oJxeeu5alzp2MLBDn65"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1320,22 +1288,6 @@
       },
       "artists": [
         {
-          "name": "Darlyn y Los Herederos",
-          "url": "https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Estas Navidades",
-      "url": "https://open.spotify.com/track/5qpk1hG83n2PGTzoJQRVK3"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
-        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
-      },
-      "artists": [
-        {
           "name": "Ca\u00f1a Brava",
           "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
         }
@@ -1343,6 +1295,38 @@
       "duration_ms": 323466,
       "name": "A Beber To' el Mundo",
       "url": "https://open.spotify.com/track/5omSkTlNd7p7g7rSa7HqQL"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Jerry Christmas",
+        "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "El Mejor D\u00eda Del A\u00f1o",
+      "url": "https://open.spotify.com/track/1O4oJxeeu5alzp2MLBDn65"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Duelo Cumbiambero En Navidad",
+        "url": "https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1359,6 +1343,42 @@
       "duration_ms": 201213,
       "name": "Navidad Con Pique",
       "url": "https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
+        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
+      },
+      "artists": [
+        {
+          "name": "Darlyn y Los Herederos",
+          "url": "https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Estas Navidades",
+      "url": "https://open.spotify.com/track/5qpk1hG83n2PGTzoJQRVK3"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Salsa Gorda... En Navidad",
+        "url": "https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Charlie Aponte",
+          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lamento J\u00edbaro",
+      "url": "https://open.spotify.com/track/03oKH38TtT7vfyRfgZVRBE"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1403,22 +1423,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Salsa Gorda... En Navidad",
-        "url": "https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF"
+        "name": "Fiesta en Navidad 35 Exitos",
+        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Charlie Aponte",
-          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+          "name": "Jorge Morel",
+          "url": "https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lamento J\u00edbaro",
-      "url": "https://open.spotify.com/track/03oKH38TtT7vfyRfgZVRBE"
+      "duration_ms": 282920,
+      "name": "Alegre Vengo",
+      "url": "https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1439,38 +1455,6 @@
       "duration_ms": 253506,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Fiesta en Navidad 35 Exitos",
-        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
-      },
-      "artists": [
-        {
-          "name": "Jorge Morel",
-          "url": "https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Alegre Vengo",
-      "url": "https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Evolucion",
-        "url": "https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Llego Navidad",
-      "url": "https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1527,22 +1511,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Versos de Nuestra Cultura",
-        "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
+        "name": "Evolucion",
+        "url": "https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Nogueras",
-          "url": "https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D"
-        },
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
         }
       ],
-      "duration_ms": 230840,
-      "name": "Alegre Vengo Cantando",
-      "url": "https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu"
+      "duration_ms": 306200,
+      "name": "Llego Navidad",
+      "url": "https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1563,6 +1543,26 @@
       "duration_ms": 213826,
       "name": "Esta Parranda Te la Deb\u00eda",
       "url": "https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Versos de Nuestra Cultura",
+        "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Nogueras",
+          "url": "https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "Alegre Vengo Cantando",
+      "url": "https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
+        "name": "Tarjeta de Navidad III",
+        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Tan Pronto Llegan los Reyes",
+      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
         "name": "Salsa Gorda... En Navidad",
         "url": "https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 482946,
       "name": "La Papa Caliente",
       "url": "https://open.spotify.com/track/6JvveQNekakCeboK5QN9Wv"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
-        "name": "Tarjeta de Navidad III",
-        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Tan Pronto Llegan los Reyes",
-      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
     },
     {
       "added_at": "2025-12-05 16:12:43",

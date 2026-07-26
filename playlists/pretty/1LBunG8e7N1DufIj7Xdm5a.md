@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,629 songs - 10 day 8 hr 15 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,630 songs - 10 day 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4637,5 +4637,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4627 | [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 |
 | 4628 | [Like A Child](https://open.spotify.com/track/0FhUm7tj0cphEFXzeOMUpE) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [Like A Child](https://open.spotify.com/album/0Jh9kFZ1Ww2f56St5rvw1L) | 2:23 |
 | 4629 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
+| 4630 | [Morphine](https://open.spotify.com/track/0aimF5BdTRPvyLMMHB3nI5) | [Joey Godfrey](https://open.spotify.com/artist/5Q87v9OdeOSyhAo2H6OFCc) | [Morphine](https://open.spotify.com/album/2fgTJDXR6qrwNJyqDneRP6) | 2:30 |
 
-Snapshot ID: `AAAJVskqCdsmuCWObmnIkgcdjfIgJiWM`
+Snapshot ID: `AAAJV1wug9er+7QUfrtweGINqWktGP1G`

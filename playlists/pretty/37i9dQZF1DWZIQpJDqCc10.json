@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 774118,
+  "num_followers": 774210,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 140626,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "SO MUCH HAS CHANGED",
-        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 294626,
       "name": "We're In Love",
       "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Every Shade of Blue",
-        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Tiebreaker",
-      "url": "https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 179083,
       "name": "Paper Mache World",
       "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Tiebreaker",
+      "url": "https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 435080,
-      "name": "yellow is the color of her eyes",
-      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 222426,
       "name": "From Eden",
       "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 435080,
+      "name": "yellow is the color of her eyes",
+      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Crazy For Your Love",
-        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
+        "name": "Not High On Drugz",
+        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
         }
       ],
-      "duration_ms": 141918,
-      "name": "Crazy For Your Love",
-      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
+      "duration_ms": 252372,
+      "name": "Not High On Drugz",
+      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     }
   ],
   "unique_name": "Indie Love Songs",

@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32707,
+  "num_followers": 32711,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "SZABADS\u00c1G, SZERELEM",
         "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
@@ -719,22 +699,6 @@
       "duration_ms": 171692,
       "name": "BOSZORK\u00c1NY",
       "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "D\u00c9RYN\u00c9",
-        "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "D\u00c9RYN\u00c9",
-      "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -763,6 +727,42 @@
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "D\u00c9RYN\u00c9",
+        "url": "https://open.spotify.com/album/3MJhjKloPuhFD6D75aJsYk"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "D\u00c9RYN\u00c9",
+      "url": "https://open.spotify.com/track/0oDmYaiTVDwZ9VBmprkKYE"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "STRESSZ",
-        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 168738,
-      "name": "STRESSZ",
-      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "PLETYKA",
         "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 155121,
       "name": "PLETYKA",
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "STRESSZ",
+        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 168738,
+      "name": "STRESSZ",
+      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
     },
     {
       "added_at": "2026-07-20 14:25:42",

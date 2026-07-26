@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23335,
+  "num_followers": 23336,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "PR\u00caMIO",
-        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "PR\u00caMIO",
-      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Ela Erra",
         "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 93714,
       "name": "Ela Erra",
       "url": "https://open.spotify.com/track/79vdtGxxlcfXP8vhrM0jtL"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "PR\u00caMIO",
+        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "PR\u00caMIO",
+      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Ol\u00e9, Ol\u00e9!",
-        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 164016,
-      "name": "Ol\u00e9, Ol\u00e9!",
-      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "Ol\u00e9, Ol\u00e9!",
+        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 164016,
+      "name": "Ol\u00e9, Ol\u00e9!",
+      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
     },
     {
       "added_at": "2026-07-03 14:08:59",

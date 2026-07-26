@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066 likes - 164 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 164 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 92 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 |
 | 93 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 |
 | 94 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
-| 95 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 |
-| 96 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 |
+| 95 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 |
+| 96 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 |
 | 97 | [PAZZIA v1](https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:51 |
 | 98 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
 | 99 | [Soliloquio \(feat\. Vale LP\)](https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:01 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 163 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 164 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcXvqAAAAAAeDaYSrwF34syqCs8IwEYN`
+Snapshot ID: `AcX1SAAAAABAP+HVtaIZInZSWDmIbU3h`

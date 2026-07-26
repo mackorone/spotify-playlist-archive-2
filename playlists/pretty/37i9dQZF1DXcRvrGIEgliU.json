@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 18544,
+  "num_followers": 18558,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/3gO7CwBn2Q4ujc1vRsRQ8j"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/3bWEONUAlVrGAB4NqQiT2R"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A Jaguar's Dream",
-        "url": "https://open.spotify.com/album/3gO7CwBn2Q4ujc1vRsRQ8j"
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/3bWEONUAlVrGAB4NqQiT2R"
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "My Liver Will Handle What My Heart Can't",
         "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 150186,
       "name": "Fuckthepopulation",
       "url": "https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Get In With Me",
-        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 120792,
-      "name": "Get In With Me",
-      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 173619,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Get In With Me",
+        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 120792,
+      "name": "Get In With Me",
+      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Dhak Dhak",
         "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 202105,
       "name": "Dhak Dhak",
       "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "CHATO",
         "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 162178,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 196352,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 196352,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Second hand embarrassment",
-      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Second hand embarrassment",
+      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2323,38 +2323,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Headz Gone West",
-        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Headz Gone West",
-      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Shotta Flow 2",
         "url": "https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2"
       },
@@ -2371,6 +2339,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Headz Gone West",
+        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Headz Gone West",
+      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",

@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78440,
+  "num_followers": 78443,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Roll the Dice (Konstantin Sibold Remix)",
         "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Under Tangled Silence",
         "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 310814,
       "name": "Waxcap",
       "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Ooo",
-        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 239823,
-      "name": "Ooo",
-      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "FTRW!",
-        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 251322,
-      "name": "FTRW!",
-      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
+        "name": "FTRW!",
+        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
       },
       "artists": [
         {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
         }
       ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
+      "duration_ms": 251322,
+      "name": "FTRW!",
+      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
     },
     {
       "added_at": "2025-12-03 12:15:55",

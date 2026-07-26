@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 137131,
+  "num_followers": 137117,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Madrugadas de nada",
-        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
-      },
-      "artists": [
-        {
-          "name": "Isle\u00f1a Antumalen",
-          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Madrugadas de nada",
-      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+        "name": "Madrugadas de nada",
+        "url": "https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Isle\u00f1a Antumalen",
+          "url": "https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 187234,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+      "duration_ms": 217672,
+      "name": "Madrugadas de nada",
+      "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "no cambies tu andar",
         "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 196571,
       "name": "no cambies tu andar",
       "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Pa Tanto",
-        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Pa Tanto",
-      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -999,6 +979,26 @@
       "duration_ms": 288625,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Pa Tanto",
+        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "Pa Tanto",
+      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 232362,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2026-05-19 00:14:35",

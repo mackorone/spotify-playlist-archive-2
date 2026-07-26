@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        },
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269032,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v"
+    },
+    {
+      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD"
       },

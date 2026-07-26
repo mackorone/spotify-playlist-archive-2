@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-748 songs - 1 day 21 hr 8 min
+749 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Highway 87](https://open.spotify.com/track/0w1i4xOhV8GQEBxPU5itU3) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/6QRuQR6EyaLGWyuSr8ykd1) | 3:20 | 2024-07-05 | 2024-07-25 |
 | [Highway 87](https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:20 | 2023-04-21 | 2024-04-13 |
 | [Hold Me Down](https://open.spotify.com/track/4KXgHj2KEJNJQau1LWXgIa) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Tears You Hide](https://open.spotify.com/album/3mfbxfHcZ0moeI1W2ukCb8) | 3:17 | 2023-06-19 | 2023-07-01 |
+| [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 | 2026-07-24 |  |
 | [Home In Your Broken Heart](https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Home In Your Broken Heart](https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9) | 3:42 | 2026-07-10 |  |
 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 | 2025-07-25 |  |
 | [Homeland](https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc) | [School House](https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC) | [Homeland](https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL) | 3:37 | 2026-02-27 | 2026-05-09 |
@@ -650,7 +651,7 @@
 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 |  |
 | [the real deal](https://open.spotify.com/track/3zfwaCUZLnssBxfJg6E2n9) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [the real deal](https://open.spotify.com/album/4RStY3dfOtZFp1x1rqVxOt) | 2:30 | 2024-10-11 | 2025-04-20 |
 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-06-09 | 2025-08-08 |
-| [The Shadows \(feat\. Noah Cyrus\)](https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Darling Blue](https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A) | 4:07 | 2025-09-26 |  |
+| [The Shadows \(feat\. Noah Cyrus\)](https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Darling Blue](https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A) | 4:07 | 2025-09-26 | 2026-07-26 |
 | [The Way I Oughta Go](https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Way I Oughta Go](https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7) | 4:10 | 2022-08-05 | 2022-10-15 |
 | [Thief](https://open.spotify.com/track/4UPr9s5lDjjQHbA32uekzX) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Prophecies](https://open.spotify.com/album/6jxJiy3tnUX2kUpFecYXtS) | 4:10 | 2022-05-13 | 2022-08-20 |
 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 | 2022-05-13 | 2023-03-25 |

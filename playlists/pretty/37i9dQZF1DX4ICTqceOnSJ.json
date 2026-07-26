@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 400943,
+  "num_followers": 400806,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 145239,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rebeldes",
         "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 325933,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Por su Atenci\u00f3n, Gracias",
-        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Reina Japonesa",
-      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rebeldes",
         "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 238146,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Por su Atenci\u00f3n, Gracias",
+        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Reina Japonesa",
+      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Como puedes vivir contigo mismo",
-      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 194999,
       "name": "Hice Todo Mal",
       "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Como puedes vivir contigo mismo",
+      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Cae la Noche",
-      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Franco (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Isla de Oro",
-        "url": "https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8"
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 209577,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
+      "duration_ms": 265893,
+      "name": "Cae la Noche",
+      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 221394,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/01tX4yeCFgfcuR4YyLiV5F"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Isla de Oro",
+        "url": "https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

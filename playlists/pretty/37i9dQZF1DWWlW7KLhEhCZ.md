@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Druhh  e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,857 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,852 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Shittground \- Speed Up](https://open.spotify.com/track/76B5T1wzENCtJJUA4ANfnK) | [Esqueleteka](https://open.spotify.com/artist/25GNJviLRYFlTFrYSMLDIw), [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [DJ Fr3ak](https://open.spotify.com/artist/6tCCV9cWJI18HnddP1nQA5) | [Shittground \(Speed Up\)](https://open.spotify.com/album/16Emkmy6pWvSQE5PbUpF1W) | 3:19 |
 | 74 | [LX \- PENSE FORA DA CAIXA \#3](https://open.spotify.com/track/5hTEvX7IVOfGpmk5Nv3H3U) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [LX \- PENSE FORA DA CAIXA \#3](https://open.spotify.com/album/1rAYYlRuvQIrJj2s6RCMsE) | 2:31 |
 
-Snapshot ID: `AAAAAJUi9i5uy8dP6vxfQav48Gsfqkv9`
+Snapshot ID: `AAAAAOXDK0GyfnqL+E0WaIdV+7jSPuay`

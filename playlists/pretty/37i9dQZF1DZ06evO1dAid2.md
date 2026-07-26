@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,317 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,325 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
 | 50 | [All The Things You Are](https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Oscar Pettiford](https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS) | [Harlem Station](https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu) | 2:55 |
 
-Snapshot ID: `amFZgAAAAADjZncgGAztq8Ptjt31tJEg`
+Snapshot ID: `amKrAAAAAAD1GPdIOQl9+WpyI/vwEpdx`

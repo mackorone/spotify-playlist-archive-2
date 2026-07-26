@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 268640,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
@@ -3844,6 +3844,32 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
     },
     {
       "album": {
@@ -4168,6 +4194,24 @@
       "duration_ms": 171692,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/5BAgpDvIFoatAbV9Zcxaw3"
+    },
+    {
+      "album": {
+        "name": "Hey Everybody (Back In The Dance)",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156498,
+      "name": "Hey Everybody (Back In The Dance)",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
       "album": {
@@ -7870,7 +7914,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 199575,
       "name": "Rhythm Of The House",
       "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover:  Presley Haile",
-  "num_followers": 315332,
+  "num_followers": 315343,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPINzRnUMkhxeS/jbyoEcppUi91h",
+  "snapshot_id": "AAAAAFInd+tl3MHBNhrgfxEQY+OYgV6l",
   "tracks": [
     {
       "added_at": "2026-07-17 04:01:13",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
-      },
-      "artists": [
-        {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200933,
       "name": "Blue Kentucky Girl - 2003 Remaster",
       "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -811,34 +811,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
       "artists": [
         {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
         }
       ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
-      },
-      "artists": [
-        {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
-        }
-      ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -859,18 +843,34 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
       "artists": [
         {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Movin\u2019 Shoes",
-        "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 249734,
-      "name": "Home With My Dog",
-      "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Movin\u2019 Shoes",
+        "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 249734,
+      "name": "Home With My Dog",
+      "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Livin\u2019 In Shame",
-        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Livin\u2019 In Shame",
-      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 196339,
       "name": "I Thought You Were Somebody Else",
       "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "Adam Chaffins",
+          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
         }
       ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+      "duration_ms": 143386,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Lucky Me",
-        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
       },
       "artists": [
         {
-          "name": "Adam Chaffins",
-          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
         }
       ],
-      "duration_ms": 143386,
-      "name": "Lucky Me",
-      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "What Have I Done Wrong",
         "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 175562,
       "name": "What Have I Done Wrong",
       "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1671,22 +1687,6 @@
       "duration_ms": 210426,
       "name": "All Fifty States",
       "url": "https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     }
   ],
   "unique_name": "Vintage Vibes",

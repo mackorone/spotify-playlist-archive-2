@@ -2553,28 +2553,6 @@
     },
     {
       "album": {
-        "name": "Prelude II. Andante con moto e poco rubato",
-        "url": "https://open.spotify.com/album/78xhoX3XBfEw4vlVTXGCKL"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "date_added": "2026-06-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207640,
-      "name": "Prelude II. Andante con moto e poco rubato",
-      "url": "https://open.spotify.com/track/5myAoTjhdW27b3Ew2nUR4q"
-    },
-    {
-      "album": {
         "name": "BAYATI",
         "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
       },
@@ -3244,6 +3222,28 @@
       "duration_ms": 271120,
       "name": "Three for Two, Op. 145: III. Con moto",
       "url": "https://open.spotify.com/track/3kLhXzXsmZSBK1remWV4Zg"
+    },
+    {
+      "album": {
+        "name": "Three Preludes: II. Andante con moto e poco rubato",
+        "url": "https://open.spotify.com/album/78xhoX3XBfEw4vlVTXGCKL"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "Three Preludes: II. Andante con moto e poco rubato",
+      "url": "https://open.spotify.com/track/5myAoTjhdW27b3Ew2nUR4q"
     },
     {
       "album": {

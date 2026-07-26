@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: txc",
-  "num_followers": 228907,
+  "num_followers": 228977,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-07-24 00:01:47",
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2026-07-24 00:01:47",
+      "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 195692,
       "name": "BITCH & MONEY",
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": "2026-07-24 00:01:47",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
       "added_at": "2026-07-24 00:01:47",
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2026-07-24 00:01:47",
       "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
       "artists": [
         {
@@ -1384,13 +1384,13 @@
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 138208,
-      "name": "Jembe",
-      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
       "added_at": "2026-07-24 00:01:47",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2026-07-24 00:01:47",
       "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
       "artists": [
         {
@@ -1496,13 +1496,13 @@
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
     },
     {
       "added_at": "2026-07-24 00:01:47",

@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -8808,10 +8826,52 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 459212,
       "name": "Cuida do Pet",
       "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
+    },
+    {
+      "album": {
+        "name": "Cuida do Pet",
+        "url": "https://open.spotify.com/album/6vzfvxCFgDhWJdL2f2enCG"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459212,
+      "name": "Cuida do Pet",
+      "url": "https://open.spotify.com/track/1eQPyvKkbJgS7orgKr802Y"
     },
     {
       "album": {
@@ -11404,7 +11464,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -16218,7 +16278,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -23427,6 +23487,36 @@
     },
     {
       "album": {
+        "name": "Quem T\u00e1 Vivo, T\u00e1 Vivendo",
+        "url": "https://open.spotify.com/album/5bfMYcaucm6RfNqZZTFjo9"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "DJ Noiskita",
+          "url": "https://open.spotify.com/artist/3TYTLGZJkc58xamupVrfFl"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Mente Barulhenta",
+      "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
+    },
+    {
+      "album": {
         "name": "Arrocha Safad\u00e3o",
         "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
       },
@@ -30290,7 +30380,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 192755,
       "name": "Pra N\u00e3o Esquecer De Mim",
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
@@ -37986,7 +38076,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -38130,7 +38220,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -40989,6 +41079,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164511,
+      "name": "Voc\u00ea Ja Sabe",
+      "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"
+    },
+    {
+      "album": {
         "name": "Voil\u00e0",
         "url": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE"
       },
@@ -42338,7 +42450,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -42356,7 +42468,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,540 songs - 21 day 17 hr 27 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,545 songs - 21 day 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8548,5 +8548,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8538 | [Touch](https://open.spotify.com/track/6ZtKB29KXVcSnYvxoGwOhq) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Touch](https://open.spotify.com/album/1R5AS1CtX1SfzwogS8dmMG) | 3:28 |
 | 8539 | [All My Candles](https://open.spotify.com/track/11HRSkKS5nDZB0921Kwne1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:49 |
 | 8540 | [Mayonaka no Door\~stay with me](https://open.spotify.com/track/4J2oDU9oacz7lJ7H8A8P8v) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/2HkcpRkF6GvlILQzFayrss) | 5:12 |
+| 8541 | [You Are Stronger](https://open.spotify.com/track/42JySkX0qz4f7XamC4tzGy) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [Persona 5 Strikers: Original Soundtrack](https://open.spotify.com/album/2WZEYrTuMBIo2rYVcm4WHc) | 4:12 |
+| 8542 | [wish come true](https://open.spotify.com/track/62v7ugypiPfkdj4hFVZfwj) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 2:05 |
+| 8543 | [Lift Me Up to the Sky](https://open.spotify.com/track/0I9D8AG9brwrJESKosmA52) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF), [ディネッサ](https://open.spotify.com/artist/4gFugNNEclDPZjlUZ73NQC) | [JOY](https://open.spotify.com/album/2wDMiyjUzYo0gW96J3kcKl) | 3:45 |
+| 8544 | [What's Going On?](https://open.spotify.com/track/0E5xQjFiOXHd7SbWdkrix7) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:06 |
+| 8545 | [Kitsch](https://open.spotify.com/track/5q6A4nzo0VY57NjeMY6eZn) | [TEKKEN Project](https://open.spotify.com/artist/4jBUhTlqlLZtan3C1PCJSs), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TEKKEN 4 \(Original Soundtrack\)](https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd) | 3:49 |
 
-Snapshot ID: `AAAMccX4fgEjTzupMXqW9LlH/9418id7`
+Snapshot ID: `AAAMdivV4SJVhgQ5+oqZhc1bFWii77l8`

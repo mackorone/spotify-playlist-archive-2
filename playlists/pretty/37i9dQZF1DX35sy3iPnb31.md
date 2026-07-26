@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,100 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On Wires](https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [On Wires](https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH) | 3:22 |
 | 2 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 |
-| 3 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 |
-| 4 | [GTFU](https://open.spotify.com/track/7agzulCsMBrjFmxUwByrJb) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [GTFU](https://open.spotify.com/album/4ZTI2CeRFWD3lb5CMQREJw) | 3:46 |
+| 3 | [GTFU](https://open.spotify.com/track/7agzulCsMBrjFmxUwByrJb) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [GTFU](https://open.spotify.com/album/4ZTI2CeRFWD3lb5CMQREJw) | 3:46 |
+| 4 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 |
 | 5 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
 | 6 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |
 | 7 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 36 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
 | 37 | [after i left](https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [after i left](https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A) | 1:53 |
 | 38 | [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 |
-| 39 | [In The House](https://open.spotify.com/track/3EhJsEMhuTLPqdfuAqNjqC) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Chrome Maxell](https://open.spotify.com/album/2w3drgt7Ke9Z83ZFCLyOEb) | 2:34 |
-| 40 | [7ayati](https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [7ayati](https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms) | 2:31 |
+| 39 | [7ayati](https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [7ayati](https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms) | 2:31 |
+| 40 | [In The House](https://open.spotify.com/track/3EhJsEMhuTLPqdfuAqNjqC) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Chrome Maxell](https://open.spotify.com/album/2w3drgt7Ke9Z83ZFCLyOEb) | 2:34 |
 | 41 | [Nah Nah](https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Bingo!](https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC) | 2:07 |
 | 42 | [Time of Your Life](https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Four Days in June](https://open.spotify.com/album/0mESueswYCXof6azv7pUjs) | 3:44 |
 | 43 | [mess in a dress](https://open.spotify.com/track/5XKXxYFSMTstk992dG9gS3) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [it's all a mess!](https://open.spotify.com/album/6wPK2AZAx7gi2pGuL5CJ1V) | 3:29 |

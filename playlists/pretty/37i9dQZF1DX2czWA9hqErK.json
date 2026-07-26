@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1317347,
+  "num_followers": 1317249,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 205768,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "it's like I never left",
-        "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Ama said",
-      "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185826,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "it's like I never left",
+        "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Ama said",
+      "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Falling Into Place (ft. Debbie)",
-        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Falling Into Place (ft. Debbie)",
-      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Olive Tree",
         "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
@@ -991,18 +971,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+        "name": "Falling Into Place (ft. Debbie)",
+        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 171901,
-      "name": "Fade Into A Dream",
-      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+      "duration_ms": 200000,
+      "name": "Falling Into Place (ft. Debbie)",
+      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Hearts Break and People Change",
-        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Hearts Break and People Change",
-      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "I Can See The Future",
         "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 289653,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 148906,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1271,22 +1287,6 @@
       "duration_ms": 212043,
       "name": "Horses",
       "url": "https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Made It Happen",
-        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
-      },
-      "artists": [
-        {
-          "name": "Finn Mungo",
-          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Made It Happen",
-      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "the minute you're gone",
         "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183374,
       "name": "the minute you're gone",
       "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Made It Happen",
+        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
+      },
+      "artists": [
+        {
+          "name": "Finn Mungo",
+          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Made It Happen",
+      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "steal my soul",
-        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "steal my soul",
-      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "HEADPHONES",
         "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 196200,
       "name": "HEADPHONES",
       "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "steal my soul",
+        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 141320,
+      "name": "steal my soul",
+      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Everybody Needs a Hero",
-        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/7Mrm4nzcPAiYMQK3iewCRY"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Chloe Qisha",
         "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 164175,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7Mrm4nzcPAiYMQK3iewCRY"
     },
     {
       "added_at": "2026-04-16 23:00:52",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Ken Carson, Cuo Zay and more",
+  "description": "With Yeat, Ken Carson, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1347,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Digital",
+        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
+      },
+      "artists": [
+        {
+          "name": "Omari Lyseight",
+          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "East End",
+      "url": "https://open.spotify.com/track/7FUFhDdoIfkQZchG9nrujV"
+    },
+    {
+      "album": {
         "name": "Fireman",
         "url": "https://open.spotify.com/album/7J8do1aIQ3uMqHIVVh3y1f"
       },
@@ -1519,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "SLIME LIFE 4 (HOSTED BY DJGLORY)",
+        "url": "https://open.spotify.com/album/1ibEE36fnjrhulcCohpbST"
+      },
+      "artists": [
+        {
+          "name": "DTM Life",
+          "url": "https://open.spotify.com/artist/3TukMOhgJ76PtGYfIz4qKd"
+        },
+        {
+          "name": "Slime Dollaz",
+          "url": "https://open.spotify.com/artist/0RxF3eI6wUpQkw8D0jC2Px"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102625,
+      "name": "Faken",
+      "url": "https://open.spotify.com/track/3u6c9gV4rOYBj6WvDmY4LY"
+    },
+    {
+      "album": {
         "name": "Fan Of The Fuss",
         "url": "https://open.spotify.com/album/33w7jK8OpKUvWTIvly50Fm"
       },
@@ -1588,7 +1632,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2136,7 +2180,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 101198,
       "name": "I Love Freaks",
       "url": "https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6"
@@ -2407,6 +2451,28 @@
     },
     {
       "album": {
+        "name": "Jaw cracked",
+        "url": "https://open.spotify.com/album/4mxESW7ScoqZ7NcE1akzGe"
+      },
+      "artists": [
+        {
+          "name": "Bgone",
+          "url": "https://open.spotify.com/artist/2GTAkvuiIoVtAWxLkmMKXD"
+        },
+        {
+          "name": "Nilson's",
+          "url": "https://open.spotify.com/artist/7nLR7VC2evyTk9FZ103SNo"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164636,
+      "name": "Jaw cracked",
+      "url": "https://open.spotify.com/track/66ajLz4dOF7FrkPxdSoncd"
+    },
+    {
+      "album": {
         "name": "Out My Mind",
         "url": "https://open.spotify.com/album/51j5JJU5KmvQIomcpT3Tok"
       },
@@ -2588,7 +2654,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 108946,
       "name": "Leave the state",
       "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
@@ -3642,7 +3708,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"

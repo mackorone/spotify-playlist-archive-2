@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3529165,
+  "num_followers": 3530659,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAC39qE1OPR3jaOFx9U0dhvk",
+  "snapshot_id": "amKrAAAAAAB1Ll8IwROJ8xv4cpAWsu72",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pipes Of Peace (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Say Say Say - Remastered 2015",
-      "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -503,34 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Pipes Of Peace (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb"
       },
       "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 269041,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 419091,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/3u4RKvwDT3CKeYbjxqXEye"
+      "duration_ms": 235693,
+      "name": "Say Say Say - Remastered 2015",
+      "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
     },
     {
       "added_at": null,
@@ -551,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
@@ -560,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+      "duration_ms": 419091,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3u4RKvwDT3CKeYbjxqXEye"
     },
     {
       "added_at": null,
@@ -576,15 +544,15 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 277994,
-      "name": "Get on the Floor",
-      "url": "https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f"
+      "duration_ms": 269041,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
       "artists": [
         {
@@ -592,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 395285,
-      "name": "Who Is It",
-      "url": "https://open.spotify.com/track/4HWcWgleTuUAWnVPNwW4CM"
+      "duration_ms": 280546,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
       "added_at": null,
@@ -615,6 +583,38 @@
       "duration_ms": 277842,
       "name": "Scream",
       "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 395285,
+      "name": "Who Is It",
+      "url": "https://open.spotify.com/track/4HWcWgleTuUAWnVPNwW4CM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 277994,
+      "name": "Get on the Floor",
+      "url": "https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f"
     },
     {
       "added_at": null,

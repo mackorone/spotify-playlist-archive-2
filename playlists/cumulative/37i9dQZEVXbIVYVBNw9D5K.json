@@ -4171,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Ba\u015fa Bela",
+        "url": "https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154081,
+      "name": "Ba\u015fa Bela",
+      "url": "https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj"
+    },
+    {
+      "album": {
         "name": "Ba\u015fa Sar",
         "url": "https://open.spotify.com/album/7reVX131NVuP74udQg1LPs"
       },
@@ -8774,10 +8792,28 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 177733,
       "name": "Di\u011fer Yar\u0131m",
       "url": "https://open.spotify.com/track/1bnFgbm6n4r8dOfeYiXlgV"
+    },
+    {
+      "album": {
+        "name": "Yaral\u0131",
+        "url": "https://open.spotify.com/album/4ptp2toxCMCyhcFEhfYIbB"
+      },
+      "artists": [
+        {
+          "name": "Murat G\u00f6\u011febakan",
+          "url": "https://open.spotify.com/artist/2TUYtKan3NuDy9JexzL4db"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Di\u011fer Yar\u0131m",
+      "url": "https://open.spotify.com/track/4FXjHbm5lm43v2ID0cPGNn"
     },
     {
       "album": {
@@ -10088,7 +10124,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 178626,
       "name": "En B\u00fcy\u00fck A\u015fk\u0131m - Bir deli y\u00fcrek ac\u0131s\u0131nday\u0131m",
       "url": "https://open.spotify.com/track/1VAfqUV47v1csngOi0bvNb"
@@ -23333,6 +23369,32 @@
     },
     {
       "album": {
+        "name": "pVg (Manifest Live Remix)",
+        "url": "https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "pVg - Manifest Live Remix",
+      "url": "https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP"
+    },
+    {
+      "album": {
         "name": "CHORBA",
         "url": "https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg"
       },
@@ -24366,7 +24428,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 106105,
       "name": "Sakin Ol Champ",
       "url": "https://open.spotify.com/track/3USULTYXtx9vdFAgG6KfnY"
@@ -25722,7 +25784,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 172900,
       "name": "SEVMEY\u0130 DENEMED\u0130N",
       "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
@@ -27108,6 +27170,24 @@
       "duration_ms": 218106,
       "name": "Tamam A\u015fk\u0131m",
       "url": "https://open.spotify.com/track/2pqe4vRhVzf6lHN4rzOTiB"
+    },
+    {
+      "album": {
+        "name": "TAMPONTAMPONA",
+        "url": "https://open.spotify.com/album/5flqeedURwamU6B8An5lAb"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "TAMPONTAMPONA",
+      "url": "https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 311 songs - 19 hr 53 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 312 songs - 19 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,5 +319,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 309 | [\(And She Said\) Take Me Now](https://open.spotify.com/track/44FZ6TP6a75s7eU62nHBZ3) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 5:31 |
 | 310 | [\(And She Said\) Take Me Now](https://open.spotify.com/track/44FZ6TP6a75s7eU62nHBZ3) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 5:31 |
 | 311 | [\(Oh No\) What You Got](https://open.spotify.com/track/1iebvc2gYV8wni1jana3Uk) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:31 |
+| 312 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 |
 
-Snapshot ID: `AAAgm9C/X47qpB4pTeh0H+j0NhtRAYwJ`
+Snapshot ID: `AAAgnEdUT1XM+HUDR15lZcTFvJxRvloP`

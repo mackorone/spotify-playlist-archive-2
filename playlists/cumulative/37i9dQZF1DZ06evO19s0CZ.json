@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/1XNnPznoORAP2t1rFKnBhj"
+    },
+    {
+      "album": {
         "name": "Jealous Lover",
         "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 229994,
       "name": "Jealous Lover",
       "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 270570,
       "name": "Never Wanna Lose You",
       "url": "https://open.spotify.com/track/35lIzvRVigUkb830xs4bru"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 238150,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/4yOAYf9yYNT5Pq3iuuJcUa"

@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38822,
+  "num_followers": 38828,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAB72ySikfTGYf0YummYMP0n",
+  "snapshot_id": "amKrAAAAAACS7h9Xo1MXkr04YTeOL6Xb",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 348534,
       "name": "Sovereign Over Us",
       "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Draw Me Close",
-      "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 5",
-        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 228330,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
@@ -480,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 196022,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd"
+      "duration_ms": 354666,
+      "name": "Draw Me Close",
+      "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
     },
     {
       "added_at": null,
@@ -503,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Worship Initiative, Vol. 5",
+        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 228330,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 3",
         "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 342625,
       "name": "Before the Throne of God Above",
       "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 7",
-        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 337954,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 444314,
       "name": "Holy, Holy, Holy (We Bow Before Thee)",
       "url": "https://open.spotify.com/track/1e58fEprNEGwk1Btxmfaac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 7",
+        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 337954,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
     },
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 3",
-        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 271670,
-      "name": "Shout to the Lord",
-      "url": "https://open.spotify.com/track/5NUSjjLmbSZGJGbT7SFPYZ"
+      "duration_ms": 261229,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
     },
     {
       "added_at": null,
@@ -807,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 261229,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
+      "duration_ms": 271670,
+      "name": "Shout to the Lord",
+      "url": "https://open.spotify.com/track/5NUSjjLmbSZGJGbT7SFPYZ"
     },
     {
       "added_at": null,

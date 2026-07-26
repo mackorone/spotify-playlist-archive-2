@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130467,
+  "num_followers": 130474,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACb7muljTtyyKHgm5rqqSoP",
+  "snapshot_id": "amKrAAAAAAAqgWLsr6oUIngY9FI8Ydws",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MSD",
         "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
       },
@@ -807,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Toneladas",
-        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 206726,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Hasta Arriba Vol.2",
         "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
       },
@@ -834,15 +834,11 @@
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 149987,
-      "name": "Hablamos Rap",
-      "url": "https://open.spotify.com/track/5WgDOzT3dxNLbPk02RNBPI"
+      "duration_ms": 167741,
+      "name": "A La Verga Los Problemas",
+      "url": "https://open.spotify.com/track/2AcWfEjjRj9uuU213IyBAt"
     },
     {
       "added_at": null,
@@ -991,6 +987,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Troca Mamalona (feat. Eme Malafe)",
+        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 223565,
+      "name": "Troca Mamalona (feat. Eme Malafe)",
+      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Perdedor",
         "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
@@ -1035,34 +1059,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Troca Mamalona (feat. Eme Malafe)",
-        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
-      },
-      "artists": [
-        {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 223565,
-      "name": "Troca Mamalona (feat. Eme Malafe)",
-      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
     }
   ],
   "unique_name": "This Is Dharius",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,628 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,613 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 30 | [Sweet Nothing \- 2025 Edit](https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Sweet Nothing \(2025 Edit\)](https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p) | 3:22 |
 | 31 | [Blah Blah Blah](https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1) | [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Blah Blah Blah](https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU) | 1:40 |
 | 32 | [My Favourite Game](https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [My Favourite Game](https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309) | 3:23 |
-| 33 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
-| 34 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
+| 33 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
+| 34 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
 | 35 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
 | 36 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
 | 37 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 45 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 46 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
 | 47 | [Mirrors](https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Mirrors](https://open.spotify.com/album/5kHtzdMxZ2ubNUktPtHRV1) | 2:07 |
-| 48 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 |
-| 49 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
+| 48 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
+| 49 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 |
 | 50 | [Key To My Heart](https://open.spotify.com/track/2LEFdBlzEJQRKTjI47oHSS) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Key To My Heart](https://open.spotify.com/album/4t5Nw9T47UroEticHcuuF5) | 2:12 |
 
 Snapshot ID: `AAAAAERTxUqi4swo+1O3tYAlMJREJl1z`

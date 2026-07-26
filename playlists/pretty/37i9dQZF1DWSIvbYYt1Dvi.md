@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > estatística não esconde lírica comum // Rincon Sapiência
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,064 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,935 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |
 | 50 | [Selva Russa](https://open.spotify.com/track/21309SlGrywf6x8sy7lwRe) | [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q) | [Se Não Sabe Agora Sabe, Vol\. 1](https://open.spotify.com/album/0AmHaCOUrjzxA79wlb3Zao) | 2:39 |
 
-Snapshot ID: `AAAAAMlBhCb22+sR0fpCCY8XSgFwbcKC`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

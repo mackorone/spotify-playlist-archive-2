@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 169146,
+  "num_followers": 169199,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Dream Of A Lifetime",
-        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 325226,
-      "name": "Sanctified Lady",
-      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Sweet And Short",
         "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
@@ -839,22 +823,18 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Ce n'est q'un d\u00e9but (Remastered)",
-        "url": "https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs"
+        "name": "Dream Of A Lifetime",
+        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
       },
       "artists": [
         {
-          "name": "Alexander Robotnick",
-          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
-        },
-        {
-          "name": "Martine Michellod",
-          "url": "https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 270008,
-      "name": "Probl\u00e8mes d'Amour",
-      "url": "https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9"
+      "duration_ms": 325226,
+      "name": "Sanctified Lady",
+      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -871,6 +851,26 @@
       "duration_ms": 300773,
       "name": "Rock the Box",
       "url": "https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Ce n'est q'un d\u00e9but (Remastered)",
+        "url": "https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs"
+      },
+      "artists": [
+        {
+          "name": "Alexander Robotnick",
+          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
+        },
+        {
+          "name": "Martine Michellod",
+          "url": "https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE"
+        }
+      ],
+      "duration_ms": 270008,
+      "name": "Probl\u00e8mes d'Amour",
+      "url": "https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9"
     }
   ],
   "unique_name": "808 Classics",

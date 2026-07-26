@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,999 likes - 66 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,073 likes - 66 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 36 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 37 | [Arteries](https://open.spotify.com/track/1loKcR8dIFxjGwKUo1Gv1Q) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Arteries](https://open.spotify.com/album/6vxtYeDwJNK427fs3oCSV1) | 5:14 |
 | 38 | [Molly In The Club](https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Molly In The Club](https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw) | 3:36 |
-| 39 | [Nobody](https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb) | [prettifun](https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65) | [Nobody](https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K) | 2:58 |
-| 40 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
+| 39 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
+| 40 | [Nobody](https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb) | [prettifun](https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65) | [Nobody](https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K) | 2:58 |
 | 41 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
-| 42 | [Faster \(ft\. 3DDY\)](https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 4:19 |
-| 43 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |
-| 44 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
+| 42 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |
+| 43 | [Faster \(ft\. 3DDY\)](https://open.spotify.com/track/6HMEYb4ao9EmxZm64rzntC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 4:19 |
+| 44 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
 | 45 | [Training](https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Training / Great](https://open.spotify.com/album/1LLOCMDTbW4pgbZRKK2TJS) | 2:00 |
-| 46 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
+| 46 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
 | 47 | [Ruthless Remix \- feat\. Leon Thomas](https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [You Only Die 1nce \(Deluxe\)](https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq) | 4:00 |
 | 48 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
 | 49 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |

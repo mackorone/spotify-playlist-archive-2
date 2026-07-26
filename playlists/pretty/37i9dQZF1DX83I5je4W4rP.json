@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1052822,
+  "num_followers": 1052801,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Daytrippin",
+        "url": "https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Daytrippin",
+      "url": "https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 164000,
       "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/5FnqGGSJz7wccw4dywNfZI"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Daytrippin",
-        "url": "https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Daytrippin",
-      "url": "https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Everyday People (Remix with B-Real & G. Love)",
         "url": "https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 225080,
       "name": "Everyday People (Remix with B-Real & G.Love)",
       "url": "https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Makai",
-        "url": "https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Edley Shine",
-          "url": "https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi"
-        }
-      ],
-      "duration_ms": 269308,
-      "name": "Dancing on the Moon (feat. Edley Shine)",
-      "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Tangerine Skies",
         "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 181586,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Makai",
+        "url": "https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Edley Shine",
+          "url": "https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi"
+        }
+      ],
+      "duration_ms": 269308,
+      "name": "Dancing on the Moon (feat. Edley Shine)",
+      "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2223,26 +2223,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
+        "name": "Never There",
+        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
       },
       "artists": [
         {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        },
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
         }
       ],
-      "duration_ms": 125880,
-      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
+      "duration_ms": 174131,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2271,18 +2263,26 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Never There",
-        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
+        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
       },
       "artists": [
         {
-          "name": "Unified Highway",
-          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        },
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
         }
       ],
-      "duration_ms": 174131,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
+      "duration_ms": 125880,
+      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Endless Summer (Deluxe)",
         "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 248317,
       "name": "Wind On My Back - Endless Summer Edition",
       "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Welcome to Florida",
-        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Stayed",
-      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Ghost (with Collie Buddz)",
         "url": "https://open.spotify.com/album/75jp6XH8YOcaARVrljowUz"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 231100,
       "name": "Ghost (with Collie Buddz)",
       "url": "https://open.spotify.com/track/2BHvk7ix5EN21enDM49ZkN"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Welcome to Florida",
+        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
+      },
+      "artists": [
+        {
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
     },
     {
       "added_at": "2026-07-17 15:52:29",

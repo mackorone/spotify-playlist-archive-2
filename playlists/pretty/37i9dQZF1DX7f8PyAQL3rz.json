@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1440142,
+  "num_followers": 1440031,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -735,30 +735,6 @@
     {
       "added_at": "2026-07-17 18:44:41",
       "album": {
-        "name": "Meu Dinheiro, Minhas Regras (Lado B)",
-        "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
-      },
-      "artists": [
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Kiell",
-          "url": "https://open.spotify.com/artist/3jpsSxB4of8g21nPiFbYT0"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 136444,
-      "name": "Bebeto e Rom\u00e1rio House Mix",
-      "url": "https://open.spotify.com/track/2ACAmCTopxv5r8midi1z07"
-    },
-    {
-      "added_at": "2026-07-17 18:44:41",
-      "album": {
         "name": "Vit\u00f3ria Regia",
         "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
       },
@@ -791,34 +767,26 @@
     {
       "added_at": "2026-07-17 18:44:41",
       "album": {
-        "name": "BASE: Climinha",
-        "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
+        "name": "Meu Dinheiro, Minhas Regras (Lado B)",
+        "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Kiell",
+          "url": "https://open.spotify.com/artist/3jpsSxB4of8g21nPiFbYT0"
         },
         {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 217446,
-      "name": "Taca l\u00e1 dentro",
-      "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
+      "duration_ms": 136444,
+      "name": "Bebeto e Rom\u00e1rio House Mix",
+      "url": "https://open.spotify.com/track/2ACAmCTopxv5r8midi1z07"
     },
     {
       "added_at": "2026-07-17 18:44:41",
@@ -847,6 +815,38 @@
       "duration_ms": 199351,
       "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
       "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
+    },
+    {
+      "added_at": "2026-07-17 18:44:41",
+      "album": {
+        "name": "BASE: Climinha",
+        "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 217446,
+      "name": "Taca l\u00e1 dentro",
+      "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
     },
     {
       "added_at": "2026-07-17 18:44:41",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-07-17 18:44:41",
       "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
-    },
-    {
-      "added_at": "2026-07-17 18:44:41",
-      "album": {
         "name": "PEITO FALSO",
         "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 210461,
       "name": "PEITO FALSO",
       "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
+    },
+    {
+      "added_at": "2026-07-17 18:44:41",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-07-17 18:44:41",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-07-17 18:44:41",
       "album": {
+        "name": "CARA DI CRIA #9",
+        "url": "https://open.spotify.com/album/4PzYlcuQHHtsj2LsN67bAw"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        }
+      ],
+      "duration_ms": 145370,
+      "name": "CARA DI CRIA #9",
+      "url": "https://open.spotify.com/track/0rfCtJcklw0YJxn96wVW6W"
+    },
+    {
+      "added_at": "2026-07-17 18:44:41",
+      "album": {
         "name": "CAN'T TOUCH THIS (REMIX)",
         "url": "https://open.spotify.com/album/7GxEdpLHtlnIleMqwgv5P2"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 209142,
       "name": "CAN'T TOUCH THIS (REMIX)",
       "url": "https://open.spotify.com/track/7kxAU1jYYMnK13TUYLYSkV"
-    },
-    {
-      "added_at": "2026-07-17 18:44:41",
-      "album": {
-        "name": "CARA DI CRIA #9",
-        "url": "https://open.spotify.com/album/4PzYlcuQHHtsj2LsN67bAw"
-      },
-      "artists": [
-        {
-          "name": "Jenario Mc",
-          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
-        },
-        {
-          "name": "Abaddie",
-          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
-        }
-      ],
-      "duration_ms": 145370,
-      "name": "CARA DI CRIA #9",
-      "url": "https://open.spotify.com/track/0rfCtJcklw0YJxn96wVW6W"
     },
     {
       "added_at": "2026-07-17 18:44:41",
@@ -1499,34 +1499,6 @@
     {
       "added_at": "2026-07-17 18:44:41",
       "album": {
-        "name": "N\u00f3is Ta Diferente",
-        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
-      },
-      "artists": [
-        {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
-        },
-        {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
-        }
-      ],
-      "duration_ms": 162317,
-      "name": "Na Onde N\u00f3is Mora",
-      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
-    },
-    {
-      "added_at": "2026-07-17 18:44:41",
-      "album": {
         "name": "MANDAQUI MANDELA",
         "url": "https://open.spotify.com/album/5RnV1xTomy2Pd5AlfiBpWy"
       },
@@ -1555,6 +1527,34 @@
       "duration_ms": 126923,
       "name": "MANDAQUI MANDELA",
       "url": "https://open.spotify.com/track/4AsA4y2IXGDXGwrlcxGw2l"
+    },
+    {
+      "added_at": "2026-07-17 18:44:41",
+      "album": {
+        "name": "N\u00f3is Ta Diferente",
+        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
+      },
+      "artists": [
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        }
+      ],
+      "duration_ms": 162317,
+      "name": "Na Onde N\u00f3is Mora",
+      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
     },
     {
       "added_at": "2026-07-17 18:44:41",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACwwdXbc8sKWsM7DIDLK22J",
+  "snapshot_id": "amKrAAAAAAClj3yzb3xPuCECcEA7rUBe",
   "tracks": [
     {
       "added_at": null,
@@ -532,41 +532,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157070,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "What's Easy for Two Is so Hard for One",
-      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
+      "duration_ms": 169201,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     },
     {
       "added_at": null,
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
       "artists": [
         {
@@ -596,9 +564,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169201,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+      "duration_ms": 197026,
+      "name": "What's Easy for Two Is so Hard for One",
+      "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"
     },
     {
       "added_at": null,
@@ -612,9 +580,25 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 153786,
-      "name": "But You Belong to Me",
-      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 157070,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 130957,
-      "name": "Let Me In Your Mind",
-      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -676,9 +644,25 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 153786,
+      "name": "But You Belong to Me",
+      "url": "https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Bishop On Stage Live At The Nixon Theatre",
         "url": "https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx"
       },
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165813,
-      "name": "I'm Glad Your're My Girl",
-      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 136986,
-      "name": "I've Got Love for You",
-      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     }
   ],
   "unique_name": "This Is The Intruders",

@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mystery Jets",
-  "num_followers": 93587,
+  "num_followers": 93579,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
+        "name": "Monroe",
+        "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "Monroe",
+      "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Monroe",
-        "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 220290,
-      "name": "Monroe",
-      "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -383,22 +399,6 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 168265,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
     },
     {
+      "added_at": "2026-07-23 23:00:45",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
       "added_at": "2026-07-16 23:00:25",
       "album": {
         "name": "Get Up and Dance",
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Rock And Roll",
-      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Something Else to Give",
         "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 285183,
       "name": "Something Else to Give",
       "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -835,6 +851,22 @@
       "duration_ms": 282062,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
+    },
+    {
+      "added_at": "2026-07-23 23:00:45",
+      "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -971,18 +1003,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Stone Over Water",
-        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 194225,
-      "name": "Stone Over Water",
-      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1003,34 +1035,18 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+        "name": "Stone Over Water",
+        "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 334216,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1047,6 +1063,22 @@
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 334216,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1197,6 +1229,22 @@
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
+      "added_at": "2026-07-23 23:00:45",
+      "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+    },
+    {
       "added_at": "2026-07-16 23:00:25",
       "album": {
         "name": "To The Sandals",
@@ -1231,22 +1279,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Grenadine",
-        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 188777,
-      "name": "Grenadine",
-      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
       },
@@ -1259,6 +1291,22 @@
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 188777,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1391,22 +1439,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 218335,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Glamour Magick",
         "url": "https://open.spotify.com/album/7sClkddld26FI0xg2IFoND"
       },
@@ -1419,6 +1451,22 @@
       "duration_ms": 270785,
       "name": "Glamour Magick",
       "url": "https://open.spotify.com/track/3KQeQpVTNLgtLNwBBlYuuA"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 218335,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1437,6 +1485,22 @@
       "url": "https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm"
     },
     {
+      "added_at": "2026-07-23 23:00:45",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 147460,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol"
+    },
+    {
       "added_at": "2026-07-16 23:00:25",
       "album": {
         "name": "Come Over, Do Me Wrong",
@@ -1451,6 +1515,22 @@
       "duration_ms": 270319,
       "name": "Come Over, Do Me Wrong",
       "url": "https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "Fighting For You",
+        "url": "https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M"
+      },
+      "artists": [
+        {
+          "name": "Arab Strap",
+          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+        }
+      ],
+      "duration_ms": 186325,
+      "name": "Fighting For You",
+      "url": "https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1491,22 +1571,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "Fighting For You",
-        "url": "https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M"
-      },
-      "artists": [
-        {
-          "name": "Arab Strap",
-          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
-        }
-      ],
-      "duration_ms": 186325,
-      "name": "Fighting For You",
-      "url": "https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
@@ -1519,6 +1583,38 @@
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:45",
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
+    },
+    {
+      "added_at": "2026-07-16 23:00:25",
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "added_at": "2026-07-16 23:00:25",
@@ -1555,22 +1651,6 @@
     {
       "added_at": "2026-07-16 23:00:25",
       "album": {
-        "name": "100 Horses",
-        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "100 Horses",
-      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
       },
@@ -1583,86 +1663,6 @@
       "duration_ms": 159066,
       "name": "Of Amber",
       "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Dialing In",
-        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 280968,
-      "name": "Dialing In",
-      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Neon Grey Midnight Green",
-        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Wreck",
-      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "The Jamie Oliver Petrol Station",
-        "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 323960,
-      "name": "The Jamie Oliver Petrol Station",
-      "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Antidepressants",
-        "url": "https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 222031,
-      "name": "The Sound And The Summer",
-      "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
-    },
-    {
-      "added_at": "2026-07-16 23:00:25",
-      "album": {
-        "name": "Sliced by a Fingernail",
-        "url": "https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "Sliced by a Fingernail",
-      "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
     }
   ],
   "unique_name": "The Listening Post",

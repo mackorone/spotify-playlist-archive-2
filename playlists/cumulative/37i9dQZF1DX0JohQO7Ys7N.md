@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Njerae
+> Celebrate Nairobi's music, food and street culture through Greasy Tunes Nairobi\.  Cover: Bridget Blue
 
-366 songs - 20 hr 39 min
+368 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Everywhere \(Original Recording\)](https://open.spotify.com/track/277dO6aTPlt9aBGunY04iD) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Everywhere \(Original Recording\)](https://open.spotify.com/album/6Y3P6vyFq4PFQVObr83u33) | 4:25 | 2022-09-22 | 2023-12-16 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-12-28 | 2024-05-17 |
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2025-03-28 |
-| [Fake Love](https://open.spotify.com/track/3JPySkGDAyEFsotlFk0InK) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Fake Love](https://open.spotify.com/album/1jlhBAcbQVHp58jNfS5Ym7) | 3:41 | 2026-07-15 |  |
+| [Fake Love](https://open.spotify.com/track/3JPySkGDAyEFsotlFk0InK) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Fake Love](https://open.spotify.com/album/1jlhBAcbQVHp58jNfS5Ym7) | 3:41 | 2026-07-15 | 2026-07-26 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 | 2025-05-09 |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
 | [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 | 2026-02-20 | 2026-07-16 |
@@ -235,6 +235,7 @@
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 | 2023-07-28 |
 | [Ningelijua](https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ningelijua](https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H) | 3:57 | 2025-12-11 | 2026-05-08 |
 | [Nipe Nafasi](https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 4:34 | 2026-02-05 | 2026-07-16 |
+| [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 | 2026-07-25 |  |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2023-11-30 |  |
 | [NIRVANA LOVE](https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Darklorde](https://open.spotify.com/artist/2Bv5o0cYa1CQKrf2E72omo), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [NIRVANA LOVE](https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG) | 3:21 | 2024-03-22 | 2025-08-15 |
 | [Nita](https://open.spotify.com/track/6UpUt7zWqWGKidQhSTtwty) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 4:28 | 2025-01-23 | 2026-01-16 |
@@ -323,6 +324,7 @@
 | [Taabu \(Taboo\)](https://open.spotify.com/track/1bnwYLjmKP0rp4WPHy8xIV) | [phy](https://open.spotify.com/artist/2Cz9PbY2q1ZhikHGyS5Nul) | [Phylosophy](https://open.spotify.com/album/7DulnlGI524XoVlng5hmm9) | 3:47 | 2026-07-15 |  |
 | [Tabasamu](https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tabasamu](https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5) | 3:28 | 2026-02-20 |  |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 | 2025-02-14 |
+| [Tamu](https://open.spotify.com/track/7yMe9oKzF0MB40uvtYx8aX) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 3:00 | 2026-07-25 |  |
 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 | 2025-05-05 | 2026-07-16 |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-18 | 2024-02-02 |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 | 2022-08-27 |

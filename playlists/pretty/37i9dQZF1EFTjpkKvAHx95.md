@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 131 | [The Nightlife](https://open.spotify.com/track/3WPpAge1ccvc98BcSFLDPL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 2:49 |
 | 132 | [Better Sober](https://open.spotify.com/track/6KGZr7QHHthQmUCYmuQtvA) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:20 |
 | 133 | [CALL NOW \(504\-305\-8269\) \(feat\. Michael Batiste\)](https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Batiste](https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:19 |
-| 134 | [Wicked](https://open.spotify.com/track/2rrv9BBB2tL7Y2ToNdLOzg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 1:55 |
-| 135 | [Hurts So Good](https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:18 |
+| 134 | [Hurts So Good](https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:18 |
+| 135 | [Wicked](https://open.spotify.com/track/2rrv9BBB2tL7Y2ToNdLOzg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 1:55 |
 | 136 | [Closure](https://open.spotify.com/track/0Fsoo5wDEJ4Vs9Qn3r3ZrT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:33 |
 | 137 | [Tic Toc](https://open.spotify.com/track/2q0pAb1RdsYDO355DBR1xG) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Tic Toc](https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL) | 2:06 |
 | 138 | [Damage](https://open.spotify.com/track/02gFgSPCOx4q306IAji6gt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:55 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 170 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 171 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AcXvqAAAAAAQ9d7JWmC247pzzMRPdcgn`
+Snapshot ID: `AcX1SAAAAAAfJawzuojwcSEJAIDwiDaA`

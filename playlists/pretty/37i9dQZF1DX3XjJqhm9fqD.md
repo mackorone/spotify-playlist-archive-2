@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,367 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,378 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 37 | [Tick Tock Boom](https://open.spotify.com/track/3tegnAgLGsny5A9F04trQP) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9), [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [Tick Tock Boom](https://open.spotify.com/album/0T7e56yIFCMxvWIrfgLQlD) | 2:13 |
 | 38 | [Podyab Yo](https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8) | [Blondedy Ferdinand](https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr), [D\-Perfect](https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr) | [Podyab Yo](https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva) | 5:19 |
 | 39 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 |
-| 40 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
+| 40 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
 | 41 | [Bay Vag](https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Chante ap ret chante](https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7) | 4:13 |
-| 42 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
+| 42 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
 | 43 | [Hello](https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [PWOTEJE M](https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa) | 2:54 |
 | 44 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 45 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |

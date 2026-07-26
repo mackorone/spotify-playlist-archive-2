@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 169180,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/27niacZVlyFl35A1Tf9meg"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 133269,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/5XzMCiiAKfZAB6kNeoFOnK"
@@ -3829,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Can't Go Back",
+        "url": "https://open.spotify.com/album/3nni16gIBsyhLapHCvVQ8c"
+      },
+      "artists": [
+        {
+          "name": "lone tide",
+          "url": "https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136120,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/0AZFqucL3x8FipcUTCYXLK"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling In Love With You",
         "url": "https://open.spotify.com/album/04kFaB0aKstGtw6TrDqXC5"
       },
@@ -4366,6 +4384,28 @@
       "duration_ms": 151450,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117"
+    },
+    {
+      "album": {
+        "name": "City At Night",
+        "url": "https://open.spotify.com/album/7ADamDyHiyJ6FZgG7IyThk"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Angie Robba",
+          "url": "https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140911,
+      "name": "City At Night",
+      "url": "https://open.spotify.com/track/4E0DCejl5hZzjz40X7TjX3"
     },
     {
       "album": {
@@ -7604,6 +7644,28 @@
       "duration_ms": 151636,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k"
+    },
+    {
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2OzWAjIV7lT0WluL5NaF6z"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "Youngmin",
+          "url": "https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/131dlRDrIESXtbqj44YeRV"
     },
     {
       "album": {
@@ -11701,6 +11763,28 @@
     },
     {
       "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/5917PEousr7JVNkuNCy2PJ"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136271,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/52Ioc7pm55l5BuVUa55IVf"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1xdWkKNdbdGEtp4U7NZ09x"
       },
@@ -13016,7 +13100,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 157390,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/2acyuVQZGY9xXFHkWkYWAJ"
@@ -14756,6 +14840,28 @@
       "duration_ms": 168515,
       "name": "Kiss Of Life",
       "url": "https://open.spotify.com/track/6CtPNkELK4Y5UiFMR9tltU"
+    },
+    {
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4UjOTzz4ANRE7GcBhn6cGk"
+      },
+      "artists": [
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "Mayvee",
+          "url": "https://open.spotify.com/artist/4D0smowjJtRgd2t3OSgIzZ"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139672,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/7manRizgNrg5PFLHCiWYYw"
     },
     {
       "album": {
@@ -17806,7 +17912,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 172881,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0RJ1VlknsKw7WBOJRbfyXC"
@@ -20156,6 +20262,28 @@
       "duration_ms": 150000,
       "name": "Now I'm Gone",
       "url": "https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/5lUggocllJrb2SI9utRZOk"
+      },
+      "artists": [
+        {
+          "name": "Namic",
+          "url": "https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy"
+        },
+        {
+          "name": "Iggy",
+          "url": "https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151987,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/7GWpIb2mC8MGWiVfTvXStP"
     },
     {
       "album": {
@@ -25520,7 +25648,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 163000,
       "name": "Strobe Lights",
       "url": "https://open.spotify.com/track/5DGKPS4iLbaOJDcgiFiSMw"
@@ -26192,6 +26320,24 @@
       "duration_ms": 154615,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/243zvdGFWl6GurMRSp0XNQ"
+    },
+    {
+      "album": {
+        "name": "Sunlight Glow",
+        "url": "https://open.spotify.com/album/1gDFbXLAoM2sDiQvkVx2Fg"
+      },
+      "artists": [
+        {
+          "name": "Goldaine",
+          "url": "https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129468,
+      "name": "Sunlight Glow",
+      "url": "https://open.spotify.com/track/2cgL942vMAhRTYdcBDP67s"
     },
     {
       "album": {
@@ -28141,6 +28287,28 @@
     },
     {
       "album": {
+        "name": "Till Sunrise",
+        "url": "https://open.spotify.com/album/3xCmLx8v2W27v47pMl2btL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Felipe Allenn",
+          "url": "https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Till Sunrise",
+      "url": "https://open.spotify.com/track/7KeDvpAYTm9lEwOT3DhU4H"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2YrmNL9GzyBwCD0rvyTx6O"
       },
@@ -28567,6 +28735,24 @@
     },
     {
       "album": {
+        "name": "Truly Madly Deeply",
+        "url": "https://open.spotify.com/album/6WsH3PbEv43stnDSPzsSEd"
+      },
+      "artists": [
+        {
+          "name": "Fijy",
+          "url": "https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177542,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/1aa51vm7cHdEfHzljVelKG"
+    },
+    {
+      "album": {
         "name": "Tryin' To Know Ya",
         "url": "https://open.spotify.com/album/1QFMrTIJ1zFrJmO3pOHLXE"
       },
@@ -28616,7 +28802,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 186666,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/1F1Lz7v4ZIgUIvh4YUYh3h"
@@ -31304,7 +31490,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 128347,
       "name": "You'll Stay",
       "url": "https://open.spotify.com/track/4zsoGq0jlYwgphTSiNiEZ6"

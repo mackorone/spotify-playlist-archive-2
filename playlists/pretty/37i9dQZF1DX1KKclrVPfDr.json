@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11568,
+  "num_followers": 11566,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Angna Ke Namwa Haswala Ho",
-        "url": "https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL"
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
       },
       "artists": [
         {
-          "name": "KUMARI SONAL",
-          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
-        },
-        {
-          "name": "Ananyya Singhh",
-          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Angna Ke Namwa Haswala Ho",
-      "url": "https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw"
+      "duration_ms": 917893,
+      "name": "Vivah Geet (From \"Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka\")",
+      "url": "https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -511,22 +507,6 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 917893,
-      "name": "Vivah Geet (From \"Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka\")",
-      "url": "https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
         "name": "Senurwa Singar Hokhela",
         "url": "https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 220844,
       "name": "Senurwa Singar Hokhela",
       "url": "https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Angna Ke Namwa Haswala Ho",
+        "url": "https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL"
+      },
+      "artists": [
+        {
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
+        },
+        {
+          "name": "Ananyya Singhh",
+          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Angna Ke Namwa Haswala Ho",
+      "url": "https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Rajnish Mishra",
+          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
+        },
+        {
+          "name": "Rajesh Jha",
+          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
+        }
+      ],
+      "duration_ms": 271694,
+      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
+      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
         "name": "BIYAH WALI GAARI 4",
         "url": "https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 177600,
       "name": "BIYAH WALI GAARI 4",
       "url": "https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
-          "name": "Rajnish Mishra",
-          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
-        },
-        {
-          "name": "Rajesh Jha",
-          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
-        }
-      ],
-      "duration_ms": 271694,
-      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
-      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -743,18 +743,26 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "CHUTKI BHAR SENURA",
-        "url": "https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy"
+        "name": "Jiya Kare Dhaka Dhak",
+        "url": "https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4"
       },
       "artists": [
         {
           "name": "Mohini Dwivedi",
           "url": "https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO"
+        },
+        {
+          "name": "Ananyya Singhh",
+          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
+        },
+        {
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
         }
       ],
-      "duration_ms": 290400,
-      "name": "CHUTKI BHAR SENURA",
-      "url": "https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6"
+      "duration_ms": 206400,
+      "name": "Jiya Kare Dhaka Dhak",
+      "url": "https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -827,26 +835,18 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Jiya Kare Dhaka Dhak",
-        "url": "https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4"
+        "name": "CHUTKI BHAR SENURA",
+        "url": "https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy"
       },
       "artists": [
         {
           "name": "Mohini Dwivedi",
           "url": "https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO"
-        },
-        {
-          "name": "Ananyya Singhh",
-          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
-        },
-        {
-          "name": "KUMARI SONAL",
-          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Jiya Kare Dhaka Dhak",
-      "url": "https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr"
+      "duration_ms": 290400,
+      "name": "CHUTKI BHAR SENURA",
+      "url": "https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6"
     },
     {
       "added_at": "2026-05-22 10:52:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,411 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,585 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 31 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 32 | [wistful](https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY) | [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [wistful](https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ) | 1:58 |
 | 33 | [Rainy morning](https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO), [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [Rainy morning](https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH) | 1:55 |
-| 34 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
-| 35 | [distant, elsewhere](https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu) | [kurisu.](https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM) | [distant, elsewhere](https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5) | 2:30 |
-| 36 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
-| 37 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
+| 34 | [distant, elsewhere](https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu) | [kurisu.](https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM) | [distant, elsewhere](https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5) | 2:30 |
+| 35 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
+| 36 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
+| 37 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 38 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
 | 39 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
 | 40 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
-| 41 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
-| 42 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 41 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 42 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
 | 43 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 |
 | 44 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
 | 45 | [Displacement \- KMRU rework](https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Displacement \(KMRU rework\)](https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7) | 4:16 |

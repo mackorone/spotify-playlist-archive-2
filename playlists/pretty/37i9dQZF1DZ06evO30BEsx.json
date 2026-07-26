@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABhbx7rxK1HSl3WOQdL6Iaw",
+  "snapshot_id": "amKrAAAAAABEFY17xIcNqKg4v0FF1oOj",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plus d'\u00e9motions",
         "url": "https://open.spotify.com/album/4DtoVqfGAjvNcRIiwQzLbU"
       },
@@ -195,30 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
       },
       "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
         }
       ],
-      "duration_ms": 252360,
-      "name": "Pavane pour une infante d\u00e9funte, M. 19",
-      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -243,6 +215,34 @@
       "duration_ms": 256786,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7ke8Pw7yEqbGtgmoGiw4PD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
     },
     {
       "added_at": null,
@@ -567,34 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to School - Classics for Studying",
-        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 293640,
-      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
-      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -619,6 +591,34 @@
       "duration_ms": 372066,
       "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back to School - Classics for Studying",
+        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 293640,
+      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
     },
     {
       "added_at": null,
@@ -979,34 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
-      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elgar & Walton: Cello Concertos",
         "url": "https://open.spotify.com/album/0apsTmjAkVs4ks2tfXIDOs"
       },
@@ -1031,6 +1003,34 @@
       "duration_ms": 485026,
       "name": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
       "url": "https://open.spotify.com/track/1xF2NucEGH7ENxEyKXW2xk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
+      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
     },
     {
       "added_at": null,
@@ -1255,30 +1255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "La Boh\u00e8me",
-      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: String Quintet, Op. 163 & Lieder",
         "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 913335,
       "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
       "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "La Boh\u00e8me",
+      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
     },
     {
       "added_at": null,

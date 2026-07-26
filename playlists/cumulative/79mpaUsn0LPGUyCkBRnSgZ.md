@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,185 songs - 3 day 4 hr 33 min
+1,186 songs - 3 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [Michael Jordan of Drunk Driving](https://open.spotify.com/track/1ExEqqPOmKAa3iPEg8yEaq) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/6vl5MGvAtiwMKtFf3tr9u7) | 0:22 | 2026-03-23 |  |
 | [Michelin Star](https://open.spotify.com/track/4B5GEy5YcHMLcbRIGYEDcx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 1:55 | 2023-08-18 |  |
 | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/track/5FpMCPbmZIrVlf3zxC6eqV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 4:31 | 2023-04-24 |  |
+| [Midnight In Paris](https://open.spotify.com/track/6ymzeC4hAANuO98puy82eA) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz), [Unholy Modal Rounders](https://open.spotify.com/artist/6Q5S79gQdzhWg7M4JnN020), [Jeffrey Frederick & The Clamtones](https://open.spotify.com/artist/4EcAdmBYoJcCKPazSjp2n1) | [Have Moicy!](https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd) | 3:17 | 2026-07-26 |  |
 | [Minim: Part I](https://open.spotify.com/track/2eUc6nuQT2m0wJX8GjbzPL) | [Yasunao Tone](https://open.spotify.com/artist/452pwHumVmgYOV4tLv1F7N) | [Solo For Wounded](https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ) | 14:17 | 2024-10-27 | 2024-11-05 |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 | 2023-08-09 |

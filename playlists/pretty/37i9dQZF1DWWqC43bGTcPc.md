@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,461 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,500 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 25 | [等你等我](https://open.spotify.com/track/7DAfxIe4dYbg8EXWeuHC9j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [未完成的關係](https://open.spotify.com/album/700UtwY97ixDyGBea5GQD8) | 3:39 |
 | 26 | [靠關係](https://open.spotify.com/track/0FnMg583fEr89brx7iss5s) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [靠關係](https://open.spotify.com/album/72p6dLDiWFSwptAt1RZAaS) | 3:54 |
 | 27 | [當世界遺落你](https://open.spotify.com/track/6bwZmEzzlIYdQX3QOKvu2a) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [當世界遺落你](https://open.spotify.com/album/3DVZ6c6UyzcCC8xMqTvLKR) | 3:58 |
-| 28 | [不想再讓你哭](https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa) | [周祖安](https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6) | [不想再讓你哭](https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs) | 2:43 |
+| 28 | [不想再讓你哭](https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa) | [周祖安Zu An](https://open.spotify.com/artist/5ySCWe6X4L6doyQ71C6MO0) | [不想再讓你哭](https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs) | 2:43 |
 | 29 | [我獨自求救](https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我獨自求救](https://open.spotify.com/album/5vxba0YEJcbCWvnkPaH2jI) | 2:48 |
 | 30 | [總有一工](https://open.spotify.com/track/6a1Vc9cjuo3uir25udeagc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [總有一工](https://open.spotify.com/album/7eOa9KsdxugJDb7bflaVPr) | 4:08 |
 | 31 | [你沒等我去的舊金山](https://open.spotify.com/track/7xAxAHpkCfd6WG1lpKJFeS) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/5qCkFMavsFt9DbLxjk8snd) | 3:49 |

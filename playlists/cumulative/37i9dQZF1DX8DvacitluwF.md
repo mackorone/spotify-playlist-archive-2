@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: taves
 
-672 songs - 1 day 12 hr 14 min
+673 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [REASON](https://open.spotify.com/track/0YU3tKmhAAGdRErYXBTw1t) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [REASON](https://open.spotify.com/album/7nOblJNjKtScXRavdUPTkC) | 3:41 | 2024-05-16 | 2024-06-14 |
 | [REASON](https://open.spotify.com/track/2bGwOLQtWy18FzKrmNNFyw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [À Nu](https://open.spotify.com/album/1aJEZXVCfXrggxd5CrHMo8) | 3:41 | 2024-06-13 | 2024-09-03 |
 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-03 | 2025-07-26 |
+| [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 | 2026-07-23 |  |
 | [rendezvous](https://open.spotify.com/track/5RkjFUTvY5IisO2A2lTvHB) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [hold me when it's cold: a mixtape](https://open.spotify.com/album/5NLrPmYQnh3IAJBsfzVmOj) | 4:50 | 2024-02-14 | 2024-02-23 |
 | [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 | 2024-09-11 |  |
 | [Revelation](https://open.spotify.com/track/1BPafeKeNEIFrsLf6cm8rX) | [On Our Own Clock](https://open.spotify.com/artist/1OQvPdcUC8eNPYRUpq3PZM), [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Tarang Cissoko](https://open.spotify.com/artist/4a0AUS5fqYNFI4cMK50lfW), [Tebogo Austebza Sedumedi](https://open.spotify.com/artist/1Zvagd4zRf9DR19Afl3PF7), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Siya Makuzeni](https://open.spotify.com/artist/7JcSeSjhuxBOkhVULQhAjw), [Zoe Molelekwa](https://open.spotify.com/artist/3DJcHMfN5hF9f2RpHkXcHJ) | [On Our Own Clock](https://open.spotify.com/album/5HEoN384lweVQjmEsummJM) | 4:32 | 2025-06-13 | 2025-06-20 |
@@ -598,7 +599,7 @@
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 | 2024-01-26 |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2024-02-08 | 2024-04-26 |
 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 | 2025-11-07 | 2025-11-14 |
-| [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-10 |  |
+| [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-10 | 2026-07-26 |
 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-27 | 2024-09-03 |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 | 2024-03-01 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |

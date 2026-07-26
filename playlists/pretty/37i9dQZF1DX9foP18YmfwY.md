@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,136 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,154 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 22 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 |
 | 23 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
 | 24 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 |
-| 25 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
-| 26 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
+| 25 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
+| 26 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
 | 27 | [Eu Amo Teu Fogo \- Ao Vivo](https://open.spotify.com/track/7eSOw1wfGCCIdDMSSYcnM3) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu Amo Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/50aDOBi3i8BJjtj7P083fe) | 10:45 |
 | 28 | [Muito Mais pra Mim](https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf) | 5:34 |
 | 29 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Gba Stage \(Ao Vivo\)](https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ) | 5:03 |
-| 30 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
-| 31 | [És Digno](https://open.spotify.com/track/3lNyHQZiyfOrXfQ5aaG0mZ) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [És Digno](https://open.spotify.com/album/6f5pALU9zKCUqkb2X4k5Ca) | 5:51 |
+| 30 | [És Digno](https://open.spotify.com/track/3lNyHQZiyfOrXfQ5aaG0mZ) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [És Digno](https://open.spotify.com/album/6f5pALU9zKCUqkb2X4k5Ca) | 5:51 |
+| 31 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
 | 32 | [Todos os Minutos \- Ao Vivo](https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Todos os Minutos \(Ao Vivo\)](https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21) | 6:11 |
 | 33 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 34 | [Como És Lindo](https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gil Monteiro](https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:53 |

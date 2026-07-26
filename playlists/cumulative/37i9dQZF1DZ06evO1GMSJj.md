@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 15 min
+121 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 | 2022-05-29 | 2023-02-16 |
 | [Melissa Juice](https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 1:32 | 2023-02-15 | 2026-02-07 |
 | [Melissa Juice](https://open.spotify.com/track/782LcmOkkNn1dm083on9wF) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 1:32 | 2022-05-29 | 2023-02-16 |
-| [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 | 2026-05-31 |  |
+| [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 | 2026-05-31 | 2026-07-26 |
 | [Mr Mistake \- Boards of Canada Remix / Instrumental](https://open.spotify.com/track/2sCLqyzqJ1pXY7uE78pIIu) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Mr Mistake \(Boards of Canada Remix\)](https://open.spotify.com/album/0FZ3XnFYhGVjepxzYsbnQX) | 4:51 | 2026-06-03 | 2026-07-01 |
 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 | 2023-02-16 |  |
 | [Music Is Math](https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:21 | 2022-05-29 | 2023-02-17 |
@@ -102,6 +102,7 @@
 | [Skyliner](https://open.spotify.com/track/1EN3p7jO1shOkOEamkbyKQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:40 | 2022-08-04 | 2022-09-30 |
 | [Slow This Bird Down](https://open.spotify.com/track/3htO9aATRyGh3SC72v91hW) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 6:09 | 2022-05-29 | 2022-10-09 |
 | [Smokes Quantity / 1986 Summer Fire](https://open.spotify.com/track/5KtVHAt2t83LstAewziMLf) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 4:48 | 2022-05-29 | 2022-10-13 |
+| [Somewhere Right Now In The Future](https://open.spotify.com/track/2YOORTqQSXyjlo3Yvtk9F4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:26 | 2026-07-26 |  |
 | [Sundown](https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:16 | 2023-02-15 |  |
 | [Sundown](https://open.spotify.com/track/41inrFf4u5pmKmSBTN4PwQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:16 | 2022-10-12 | 2023-02-16 |
 | [Sunshine Recorder](https://open.spotify.com/track/0KrPPiJdAWrFIdn4pq3BZ2) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 6:12 | 2022-05-29 | 2022-10-13 |

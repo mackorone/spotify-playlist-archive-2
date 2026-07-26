@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,111,207 likes - 37 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,111,370 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 7 | [Calcinha de Renda \- Ao Vivo](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4) | 3:19 |
 | 8 | [Direitos Iguais \- Ao Vivo](https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [O Melhor De Mim \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4oI8F7EOFl92P3DnJ8QjgP) | 3:18 |
 | 9 | [Saudade Estranha \- Du Nada \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \- Du Nada \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
-| 10 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 |
+| 10 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Guilherme](https://open.spotify.com/artist/3nvjgKlhQ6FVnzHYLDtvLG), [Benuto](https://open.spotify.com/artist/5nFks3u2NaFS8BPWgEXg82) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 |
 | 11 | [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 |
 | 12 | [Cheiro De Culpado \- Ao Vivo](https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Cheiro De Culpado \(Ao Vivo\)](https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6) | 2:41 |
 | 13 | [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 |

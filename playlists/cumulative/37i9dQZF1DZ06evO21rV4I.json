@@ -2984,10 +2984,32 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 158171,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/2sSwn4lwZHh1cpvSxxvY1q"
+    },
+    {
+      "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158539,
+      "name": "Oshe",
+      "url": "https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho"
     },
     {
       "album": {

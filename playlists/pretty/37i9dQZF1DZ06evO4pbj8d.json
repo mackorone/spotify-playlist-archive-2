@@ -1,13 +1,29 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12144,
+  "num_followers": 12152,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAHJj1Ey6L0Z1oZk68/hDHo",
+  "snapshot_id": "amKrAAAAAACpiEFYv9rQxwHYCCOQvipl",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
+    },
     {
       "added_at": null,
       "album": {
@@ -119,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 185054,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 177478,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
     },
     {
       "added_at": null,
@@ -335,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "breathe again",
+      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -355,22 +387,6 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "breathe again",
-      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
     },
     {
       "added_at": null,
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
     },
     {
       "added_at": null,
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 242811,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
     },
     {
       "added_at": null,
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+      "duration_ms": 133679,
+      "name": "LETTER FROM A BLACKBIRD",
+      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
     },
     {
       "added_at": null,
@@ -868,29 +884,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 133679,
-      "name": "LETTER FROM A BLACKBIRD",
-      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortune Favors The Bold",
-        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
-        }
-      ],
-      "duration_ms": 218164,
-      "name": "Fortune Favors The Bold",
-      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

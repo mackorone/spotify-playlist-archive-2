@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 900251,
+  "num_followers": 900514,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,30 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Party Started (feat. French Caviar)",
         "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 143801,
       "name": "Party Started (feat. French Caviar)",
       "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -595,6 +595,30 @@
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -671,6 +695,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Like An Angel (Touch Me) / Word Play",
+        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 183636,
+      "name": "Like An Angel (Touch Me)",
+      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "I Never Knew",
         "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
       },
@@ -687,18 +727,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Like An Angel (Touch Me) / Word Play",
-        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
+        "name": "Oracle (feat. Jem Cooke)",
+        "url": "https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 183636,
-      "name": "Like An Angel (Touch Me)",
-      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+      "duration_ms": 217309,
+      "name": "Oracle (feat. Jem Cooke)",
+      "url": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -735,26 +779,6 @@
       "duration_ms": 155538,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Oracle (feat. Jem Cooke)",
-        "url": "https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 217309,
-      "name": "Oracle (feat. Jem Cooke)",
-      "url": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -823,6 +847,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Lemme Dance",
         "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
@@ -839,22 +879,6 @@
       "duration_ms": 223660,
       "name": "Lemme Dance",
       "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Love\u2019s Theme",
-        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "Love\u2019s Theme",
-      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1135,22 +1159,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 186776,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
       },
@@ -1163,6 +1171,22 @@
       "duration_ms": 239246,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1187,18 +1211,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
       },
       "artists": [
         {
           "name": "Chlo\u00e9 Caillet",
           "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
         }
       ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1219,26 +1247,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 236481,
-      "name": "Next Life",
-      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Too Bright",
         "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
       },
@@ -1255,6 +1263,26 @@
       "duration_ms": 213977,
       "name": "Too Bright",
       "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 236481,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1283,38 +1311,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
       "artists": [
         {
           "name": "Chlo\u00e9 Caillet",
           "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
         }
       ],
-      "duration_ms": 207764,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 137682,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1331,6 +1339,22 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1435,6 +1459,26 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Gator Boots",
+        "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 141309,
+      "name": "Gator Boots",
+      "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "CircoLoco",
         "url": "https://open.spotify.com/album/1tJaK909K2B286fMfOwQ6G"
       },
@@ -1451,22 +1495,6 @@
       "duration_ms": 239485,
       "name": "CircoLoco - Radio Edit",
       "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Close 2 U",
-        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 129097,
-      "name": "Close 2 U",
-      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1491,22 +1519,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Gator Boots",
-        "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
       },
       "artists": [
         {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
         }
       ],
-      "duration_ms": 141309,
-      "name": "Gator Boots",
-      "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1543,6 +1567,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Lease Of Life",
+        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 166073,
+      "name": "Lease Of Life",
+      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Back in the Streets",
         "url": "https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz"
       },
@@ -1559,6 +1599,22 @@
       "duration_ms": 298023,
       "name": "Back in the Streets",
       "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Soul Makossa",
+        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "duration_ms": 237084,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1583,22 +1639,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Lease Of Life",
-        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
-      },
-      "artists": [
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 166073,
-      "name": "Lease Of Life",
-      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Misbehave",
         "url": "https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU"
       },
@@ -1619,18 +1659,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Soul Makossa",
-        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
+        "name": "Blowin' Up The Spot",
+        "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
       },
       "artists": [
         {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
         }
       ],
-      "duration_ms": 237084,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
+      "duration_ms": 185806,
+      "name": "Blowin' Up The Spot",
+      "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1655,22 +1695,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Blowin' Up The Spot",
-        "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blowin' Up The Spot",
-      "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Drums Keep Calling",
         "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
       },
@@ -1687,26 +1711,6 @@
       "duration_ms": 227812,
       "name": "Drums Keep Calling",
       "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/6m7ecbmjXPDNVcPz5RYnAR"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 180875,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1735,6 +1739,26 @@
       "duration_ms": 155096,
       "name": "Activated (I Just Wanna)",
       "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/6m7ecbmjXPDNVcPz5RYnAR"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 180875,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1791,22 +1815,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Road To Miami EP",
-        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Poco Poco",
-      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
       },
@@ -1823,6 +1831,22 @@
       "duration_ms": 197829,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Road To Miami EP",
+        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Poco Poco",
+      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1879,6 +1903,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Superstitious",
+        "url": "https://open.spotify.com/album/4OFWmT2MVOf56J4u4WMe1b"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "duration_ms": 192383,
+      "name": "Superstitious",
+      "url": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Cult Of Bass",
         "url": "https://open.spotify.com/album/3h0pVTscQVD5mZCDfDuiSa"
       },
@@ -1899,42 +1939,6 @@
       "duration_ms": 188976,
       "name": "Cult Of Bass",
       "url": "https://open.spotify.com/track/6Tcp02SvY4ItFxMh40heHb"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/215WZfNf9jqBg9SDX0secV"
-      },
-      "artists": [
-        {
-          "name": "Luv Foundation (UK)",
-          "url": "https://open.spotify.com/artist/7wZMEsvxuWBZiMAqcy5BOP"
-        },
-        {
-          "name": "Ruff Loaderz",
-          "url": "https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/4B0VzHsM5uYLhq9C4Dw6W0"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 319882,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/68nYFINrWVFTJ23ukqGcPt"
     }
   ],
   "unique_name": "Ibiza 2026",

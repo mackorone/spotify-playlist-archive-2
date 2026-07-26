@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-801 songs - 1 day 14 hr 42 min
+802 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [AFRIKANA](https://open.spotify.com/track/64WCLvf2CC5u9YTP5sXH8s) | [BILO](https://open.spotify.com/artist/2mRpEmM3HN911HcNiDEsuT), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Sona](https://open.spotify.com/artist/0fZfg0q442duxzNdPCLOLa) | [AFRIKANA](https://open.spotify.com/album/3Xty3EB0LLI6AaDtvb49Bz) | 3:08 | 2024-07-05 | 2024-08-02 |
 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 | 2025-07-12 |
 | [Ahomatia](https://open.spotify.com/track/1T6b7Ob82PvofJgUifyIMf) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [The Nyamsheon Tape: 4 Girls](https://open.spotify.com/album/4YMPrZ5UArHWNKB3qvAxiN) | 3:27 | 2025-08-01 | 2025-09-05 |
+| [Ako \- Live in London](https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 4:04 | 2026-07-24 |  |
 | [Akorfa](https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Lighter Tod](https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk) | [Akorfa](https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk) | 3:04 | 2025-01-31 | 2025-03-22 |
 | [Alinko](https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Alinko](https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne) | 2:29 | 2023-09-29 | 2023-10-18 |
 | [Alive](https://open.spotify.com/track/0uh6nYYNadWJnos3Zg5aiM) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Freckles](https://open.spotify.com/album/6z5JNzljLRS4ZULgIrvv24) | 2:29 | 2023-08-10 | 2023-09-10 |
@@ -653,7 +654,7 @@
 | [Start Me Up](https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Start Me Up](https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ) | 3:03 | 2023-06-22 | 2023-08-11 |
 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 | 2026-05-19 |  |
 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2022-06-09 | 2023-10-18 |
-| [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 |  |
+| [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 | 2026-07-26 |
 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 | 2025-03-14 | 2025-06-25 |
 | [Streets](https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Streets](https://open.spotify.com/album/1goCePe21K8C2PtUJ5ylFa) | 2:46 | 2022-06-09 | 2023-03-04 |
 | [Streets](https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Happens After](https://open.spotify.com/album/374kRLUEswPACwvirpCPG1) | 2:30 | 2024-10-18 | 2025-01-17 |

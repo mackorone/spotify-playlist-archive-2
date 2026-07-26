@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Riaan Benad\u00e9",
-  "num_followers": 148676,
+  "num_followers": 148739,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Hier Waar Ek Nou Is",
-        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+        "name": "Vanaand",
+        "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
       },
       "artists": [
         {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Koue Hande",
-      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+      "duration_ms": 177820,
+      "name": "Vanaand",
+      "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"
     },
     {
       "added_at": "2026-06-19 08:30:41",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Vanaand",
-        "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
+        "name": "Hier Waar Ek Nou Is",
+        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
       },
       "artists": [
         {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
         }
       ],
-      "duration_ms": 177820,
-      "name": "Vanaand",
-      "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"
+      "duration_ms": 270000,
+      "name": "Koue Hande",
+      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -451,8 +451,8 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Vitamiene See",
-        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
+        "name": "Kattebak",
+        "url": "https://open.spotify.com/album/5vEWKuk2pCckRcHfR7WfzY"
       },
       "artists": [
         {
@@ -460,25 +460,9 @@
           "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 177096,
-      "name": "Vitamiene See",
-      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Boomhuis",
-        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 216795,
-      "name": "Vuur Op Die Water",
-      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
+      "duration_ms": 185179,
+      "name": "Kattebak",
+      "url": "https://open.spotify.com/track/2gdWXpSLeH61E68zch9c19"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -499,6 +483,22 @@
       "duration_ms": 192375,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Boomhuis",
+        "url": "https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 216795,
+      "name": "Vuur Op Die Water",
+      "url": "https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -535,8 +535,8 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Kattebak",
-        "url": "https://open.spotify.com/album/5vEWKuk2pCckRcHfR7WfzY"
+        "name": "Vitamiene See",
+        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 185179,
-      "name": "Kattebak",
-      "url": "https://open.spotify.com/track/2gdWXpSLeH61E68zch9c19"
+      "duration_ms": 177096,
+      "name": "Vitamiene See",
+      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Kyk",
+        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Kyk",
+      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Kyk",
-        "url": "https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Kyk",
-      "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
-      "added_at": "2026-05-28 22:01:39",
-      "album": {
-        "name": "Sink In Die Hemel In",
-        "url": "https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "Sink In Die Hemel In",
-      "url": "https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V"
-    },
-    {
       "added_at": "2026-05-21 22:02:06",
       "album": {
         "name": "Insomnia",
@@ -703,6 +687,22 @@
       "duration_ms": 191303,
       "name": "Toer Om Die Vloer",
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2026-05-28 22:01:39",
+      "album": {
+        "name": "Sink In Die Hemel In",
+        "url": "https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "Sink In Die Hemel In",
+      "url": "https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
-      "added_at": "2026-05-28 22:01:39",
-      "album": {
-        "name": "My Tipe",
-        "url": "https://open.spotify.com/album/7fKwFfj6hA9MWVScNwRteT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 183478,
-      "name": "My Tipe",
-      "url": "https://open.spotify.com/track/5q3nsm6eJMAowNf40etPEe"
-    },
-    {
       "added_at": "2026-05-21 22:02:06",
       "album": {
         "name": "Patriot",
@@ -939,6 +923,22 @@
       "duration_ms": 210322,
       "name": "My Bra",
       "url": "https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5"
+    },
+    {
+      "added_at": "2026-05-28 22:01:39",
+      "album": {
+        "name": "My Tipe",
+        "url": "https://open.spotify.com/album/7fKwFfj6hA9MWVScNwRteT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 183478,
+      "name": "My Tipe",
+      "url": "https://open.spotify.com/track/5q3nsm6eJMAowNf40etPEe"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Kom Klop Weer",
+        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
+        }
+      ],
+      "duration_ms": 175147,
+      "name": "Kom Klop Weer",
+      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Hemel Op Tafelberg",
         "url": "https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 224305,
       "name": "Hemel Op Tafelberg",
       "url": "https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Kom Klop Weer",
-        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
-        }
-      ],
-      "duration_ms": 175147,
-      "name": "Kom Klop Weer",
-      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Die Piesangskille",
+        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 246438,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
         "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 182927,
       "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
       "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Die Piesangskille",
-        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Dis Raak",
+        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Dis Raak",
+      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2026-05-28 22:01:39",
-      "album": {
-        "name": "Jag en Visvang",
-        "url": "https://open.spotify.com/album/4zsN7tmhEdMCzQHEpSVCNy"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Jag en Visvang",
-      "url": "https://open.spotify.com/track/0ffCJEVplm2kSYcYG8hsLO"
     }
   ],
   "unique_name": "Afrikaanse Hits",

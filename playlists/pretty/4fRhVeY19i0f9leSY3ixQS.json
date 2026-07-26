@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1577,
+  "num_followers": 1578,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASPlFtx1R5vdsB7PGndggNdRx9azBX",
+  "snapshot_id": "AAASQif4mnlOtia46lXZSTKdJeZ2cw0i",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -1303,22 +1303,6 @@
       "duration_ms": 153750,
       "name": "I Wanna Go Home",
       "url": "https://open.spotify.com/track/2mG7m9sKX5ztpWxQKClbF3"
-    },
-    {
-      "added_at": "2026-06-26 08:09:15",
-      "album": {
-        "name": "Meridian",
-        "url": "https://open.spotify.com/album/5DHESmi3JoPHNqNaPiknZR"
-      },
-      "artists": [
-        {
-          "name": "The Sky Forgets Us",
-          "url": "https://open.spotify.com/artist/68vKb32bM42SdIGvF6ad0T"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/72lnAyiO6SUCUCqVkJRYYD"
     },
     {
       "added_at": "2026-06-26 07:28:58",
@@ -5511,6 +5495,58 @@
       "duration_ms": 162911,
       "name": "Get Rad",
       "url": "https://open.spotify.com/track/5mldB7JJoRKyHyOgvypPqy"
+    },
+    {
+      "added_at": "2026-07-25 09:00:28",
+      "album": {
+        "name": "Scattered",
+        "url": "https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3"
+      },
+      "artists": [
+        {
+          "name": "Tess & The Details",
+          "url": "https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql"
+        }
+      ],
+      "duration_ms": 182811,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW"
+    },
+    {
+      "added_at": "2026-07-25 15:10:42",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "duration_ms": 230334,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8"
+    },
+    {
+      "added_at": "2026-07-25 15:12:39",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w"
+      },
+      "artists": [
+        {
+          "name": "SEY.MOUR.",
+          "url": "https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE"
+        },
+        {
+          "name": "The Misses",
+          "url": "https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8"
+        }
+      ],
+      "duration_ms": 142195,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm"
     }
   ],
   "unique_name": "Spotify Radio",

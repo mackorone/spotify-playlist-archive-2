@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Tssara, Die Mannequin, Jinx & The Royals and more",
+  "description": "With Die Mannequin, Gin Wigmore, Rebel Rebel Barbie and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Breakdown Love",
       "url": "https://open.spotify.com/track/0iPggvigBtlcgfD7q26tWR"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 212341,
       "name": "Fastball",
       "url": "https://open.spotify.com/track/208Sa3W9kqFpsZqRCPmjXb"
@@ -4058,7 +4058,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 164573,
       "name": "Hot Kiss",
       "url": "https://open.spotify.com/track/0VjSRHpGUhITXbtyC3GW3H"
@@ -4624,6 +4624,24 @@
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
+    },
+    {
+      "album": {
+        "name": "Hyenas",
+        "url": "https://open.spotify.com/album/4dnDNLp8zoaumZGLwQyzQB"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tribe",
+          "url": "https://open.spotify.com/artist/4wtC7WYVzgmmgBvDENda5N"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278857,
+      "name": "Hyenas",
+      "url": "https://open.spotify.com/track/1vL1SVefQNzQFc9JFtNE9T"
     },
     {
       "album": {
@@ -5522,7 +5540,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -5630,7 +5648,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -5774,7 +5792,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -7234,7 +7252,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 244586,
       "name": "Not For Me",
       "url": "https://open.spotify.com/track/3DVDV4iMaFQrnej5Dwz7ww"
@@ -7468,7 +7486,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/4v8kjJp1Edvtlimosy7nNF"
@@ -9252,7 +9270,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -9436,7 +9454,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 241000,
       "name": "Stuck Inside A Dream",
       "url": "https://open.spotify.com/track/7bAI4PaP79fqpN5wymZEDp"
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -9544,7 +9562,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 120959,
       "name": "Sunset Strip Fever Dream",
       "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
@@ -9836,7 +9854,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -10564,7 +10582,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -10744,7 +10762,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"

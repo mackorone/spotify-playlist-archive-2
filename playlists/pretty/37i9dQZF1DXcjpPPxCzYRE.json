@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443471,
+  "num_followers": 443513,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 194346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -783,6 +767,22 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
         "name": "I Had a Dream She Took My Hand",
         "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "KISS ME",
         "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "La quiero a morir",
         "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
       },
       "artists": [
         {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1403,6 +1387,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "201 - Directo en Casa Grito",
-        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
+        "name": "surub\u00ed",
+        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
       },
       "artists": [
         {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+          "name": "Daniel Boudzali",
+          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
         }
       ],
-      "duration_ms": 236494,
-      "name": "Cerrar los ojos - Directo en Casa Grito",
-      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
+      "duration_ms": 161680,
+      "name": "surub\u00ed",
+      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "surub\u00ed",
-        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
+        "name": "201 - Directo en Casa Grito",
+        "url": "https://open.spotify.com/album/1cXNOx12JrvNBNczLLq4Y0"
       },
       "artists": [
         {
-          "name": "Daniel Boudzali",
-          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
         }
       ],
-      "duration_ms": 161680,
-      "name": "surub\u00ed",
-      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
+      "duration_ms": 236494,
+      "name": "Cerrar los ojos - Directo en Casa Grito",
+      "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "Algo F\u00edsico",
         "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-06-26 09:24:05",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-06-26 09:24:05",
       "album": {
-        "name": "El Acabose/Ah! Ah! Ah!",
-        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 211272,
-      "name": "El Acabose",
-      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
-    },
-    {
-      "added_at": "2026-06-26 09:24:05",
-      "album": {
         "name": "No quiero olvidar",
         "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2026-06-26 09:24:05",
+      "album": {
+        "name": "El Acabose/Ah! Ah! Ah!",
+        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 211272,
+      "name": "El Acabose",
+      "url": "https://open.spotify.com/track/1mAkDhcYUHRv9eNVKDCiPe"
     },
     {
       "added_at": "2026-06-26 09:24:05",

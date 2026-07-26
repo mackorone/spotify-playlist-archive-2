@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 42945,
+  "num_followers": 42953,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Goodbye California",
-        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
-      },
-      "artists": [
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
-        }
-      ],
-      "duration_ms": 163010,
-      "name": "Goodbye California",
-      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Goodbye California",
+        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "duration_ms": 163010,
+      "name": "Goodbye California",
+      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
     },
     {
       "added_at": "2026-06-05 20:49:32",

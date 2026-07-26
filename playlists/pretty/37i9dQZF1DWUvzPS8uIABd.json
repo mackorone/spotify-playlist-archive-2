@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132494,
+  "num_followers": 132484,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Suomi Finland perkele",
+        "url": "https://open.spotify.com/album/3OEnpGBtLtzvP2kJWpnWcY"
+      },
+      "artists": [
+        {
+          "name": "Arttu Wiskari",
+          "url": "https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Suomi Finland perkele",
+      "url": "https://open.spotify.com/track/5VV9zMFwf0QMorDUKzPhZJ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Kui paljon (Remix)",
         "url": "https://open.spotify.com/album/4TebmnW0jxbBVKixLi2Xfi"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 160129,
       "name": "Kui paljon - Remix",
       "url": "https://open.spotify.com/track/2bBhjebWhLpeumAdojsJyO"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Suomi Finland perkele",
-        "url": "https://open.spotify.com/album/3OEnpGBtLtzvP2kJWpnWcY"
-      },
-      "artists": [
-        {
-          "name": "Arttu Wiskari",
-          "url": "https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Suomi Finland perkele",
-      "url": "https://open.spotify.com/track/5VV9zMFwf0QMorDUKzPhZJ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -831,8 +831,8 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "TEENAGE DREAM",
-        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
         }
       ],
-      "duration_ms": 147923,
-      "name": "TEENAGE DREAM",
-      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -919,8 +919,8 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+        "name": "TEENAGE DREAM",
+        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
         }
       ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+      "duration_ms": 147923,
+      "name": "TEENAGE DREAM",
+      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Satumaa",
-        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
-      },
-      "artists": [
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        },
-        {
-          "name": "Silja Kielo",
-          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Satumaa",
-      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Satumaa",
+        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        },
+        {
+          "name": "Silja Kielo",
+          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Satumaa",
+      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
     },
     {
       "added_at": "2026-06-25 21:00:30",

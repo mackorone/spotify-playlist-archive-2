@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 329789,
+  "num_followers": 329776,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "A Work of Art (feat. Shavo of System of a Down)",
-        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "SHAVO",
-          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "A Work of Art",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 263947,
       "name": "Slaughterhouse (feat. Bryan Garris)",
       "url": "https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "The Silver Scream",
-        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "The American Nightmare",
-      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212082,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "The American Nightmare",
+      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Neighborhoods (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 257519,
       "name": "Ghost On The Dance Floor",
       "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Ellipsis (Deluxe)",
-        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 248517,
-      "name": "Wolves of Winter",
-      "url": "https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Devils",
         "url": "https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 203186,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 248517,
+      "name": "Wolves of Winter",
+      "url": "https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4"
     },
     {
       "added_at": "2025-10-27 20:26:25",

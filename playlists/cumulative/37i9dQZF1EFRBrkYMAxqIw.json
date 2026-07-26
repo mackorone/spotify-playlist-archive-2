@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "& Again",
+        "url": "https://open.spotify.com/album/4dszGigMBycJHgS97H5Vqk"
+      },
+      "artists": [
+        {
+          "name": "Harvest Son",
+          "url": "https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179475,
+      "name": "& Again",
+      "url": "https://open.spotify.com/track/1fic03H9Wvu25Zi4sfEPUL"
+    },
+    {
+      "album": {
         "name": "Vulnerability1000",
         "url": "https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y"
       },
@@ -2940,6 +2962,28 @@
       "duration_ms": 154877,
       "name": "San Francisco (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/7y7fPt0Tbv7IW4NLjrIpG4"
+    },
+    {
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/1fNY3xOD9WUo98LE7WaUzu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/2h2JCZHRjC9dgVEAgNB6HS"
     },
     {
       "album": {

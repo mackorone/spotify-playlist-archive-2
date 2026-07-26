@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,759 songs - 6 day 1 hr 14 min
+2,760 songs - 6 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Angels Above Me](https://open.spotify.com/track/0HZFTqqGkiY37nlA8fltkN) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/6IoVnGrjEnICUH8KBZhS9t) | 4:22 | 2026-05-15 | 2026-05-17 |
 | [Angels Above Me](https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/3EKbjMsA0ERiC7skPiFGEn) | 4:22 | 2026-05-10 | 2026-05-16 |
 | [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:26 | 2026-05-27 | 2026-05-30 |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-25 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-08-08 | 2026-01-04 |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2024-10-04 | 2026-01-02 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 | 2026-01-01 |
@@ -669,7 +670,7 @@
 | [En Shot](https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [En Shot](https://open.spotify.com/album/2kEYdmpt1rOiQUmlfxPE01) | 2:24 | 2023-02-04 | 2023-07-02 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-24 | 2024-08-26 |
 | [En Solskinnsdag](https://open.spotify.com/track/3n3x4saKCr5Y6XTzXXpiM6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [En Solskinnsdag](https://open.spotify.com/album/3NPw9UKNxpe5sr9Z4EpZbB) | 2:28 | 2021-06-07 | 2021-07-25 |
-| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 |  |
+| [En Solskinnsdag](https://open.spotify.com/track/005cocyIL36CVjjtUEdVSq) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:06 | 2023-06-11 | 2026-07-26 |
 | [En stjerne skinner i natt](https://open.spotify.com/track/2IRqZ7br71fQXUzGMtWOeC) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emmas jul](https://open.spotify.com/album/00Kbu5e5FnlEJLKWtnNbxc) | 3:20 | 2025-12-14 | 2025-12-16 |
 | [En stjerne skinner i natt](https://open.spotify.com/track/7KT0MWuO7tQAdhqDXVjaHG) | [Oslo Gospel Choir](https://open.spotify.com/artist/4e2YUhdd1EKare0kqDSP8j), [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Lys imot mørketida](https://open.spotify.com/album/1xtTwWVr20DiG1KRj8ekX4) | 4:06 | 2022-12-05 | 2025-12-28 |
 | [En Stjerne Skinner I Natt](https://open.spotify.com/track/09ytvHTWKchLhLmyCW92nt) | [Storm Barnesanger](https://open.spotify.com/artist/17N09tl0uRemFaJRTAzTQf) | [En Stjerne Skinner I Natt](https://open.spotify.com/album/53iZgWJAiQdTverJS7YbrY) | 4:32 | 2022-11-28 | 2022-12-27 |
@@ -2716,8 +2717,8 @@
 | [Woman Like Me](https://open.spotify.com/track/2c6xRsQBv7pynuhYhWoHxo) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 5:00 | 2021-11-21 | 2021-11-22 |
 | [WONDER](https://open.spotify.com/track/0CiuZFNZwkuNt9HowIDXEg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:24 | 2026-06-15 | 2026-06-22 |
 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 | 2023-03-25 | 2023-09-10 |
-| [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2024-08-30 | 2026-07-24 |
-| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2026-07-13 |  |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2024-08-30 |  |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2026-07-13 | 2026-07-26 |
 | [Wood](https://open.spotify.com/track/0129EujhGkwtwTFADGem5P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 2:30 | 2025-10-08 | 2025-10-12 |
 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-04 | 2025-10-19 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-23 | 2023-01-07 |

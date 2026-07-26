@@ -1,12 +1,12 @@
 {
   "description": "Pongamonos sentimentales con las novedades de esta semana, Eden Mu\u00f1oz y Alfredito Olivas en portada.",
-  "num_followers": 1214268,
+  "num_followers": 1215203,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7Ic27LdHOkNXo42W/upgChvN77",
+  "snapshot_id": "AAAAACa8yQMBQvN1uGwpDPCeo8Wnd+pl",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:39",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/7K1xys7lxKtsUDvzNzvcVi"
     },
     {
+      "added_at": "2026-07-25 19:40:33",
+      "album": {
+        "name": "Patito Feo",
+        "url": "https://open.spotify.com/album/45IPQiM0fxJAxskPj19AFg"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "duration_ms": 154715,
+      "name": "Patito Feo",
+      "url": "https://open.spotify.com/track/0gcP9NuauYDnzE85BOBbCd"
+    },
+    {
       "added_at": "2026-07-24 06:00:39",
       "album": {
         "name": "ARDER",
@@ -1135,7 +1151,7 @@
     {
       "added_at": "2026-07-24 06:00:39",
       "album": {
-        "name": "La Hermosa Tortura de Vivir: Patio (En Vivo)",
+        "name": "La Hermosa Tortura De Vivir: Patio (En Vivo)",
         "url": "https://open.spotify.com/album/4r48wXn0AC4XI4Pfny6aL4"
       },
       "artists": [
@@ -1145,7 +1161,7 @@
         }
       ],
       "duration_ms": 216000,
-      "name": "Amor Desastre (En Vivo)",
+      "name": "Amor Desastre - (En Vivo)",
       "url": "https://open.spotify.com/track/1RZkg5ry7jpWrJS8Bkcycj"
     },
     {
@@ -1437,7 +1453,7 @@
       "artists": [
         {
           "name": "TINU",
-          "url": "https://open.spotify.com/artist/1vYjwBTHn7gnrddPgUfYoB"
+          "url": "https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8"
         }
       ],
       "duration_ms": 181309,

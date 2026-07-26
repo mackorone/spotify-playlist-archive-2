@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,671 likes - 588 songs - 1 day 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,677 likes - 588 songs - 1 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 214 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
 | 215 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
 | 216 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
-| 217 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
-| 218 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
+| 217 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
+| 218 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
 | 219 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
 | 220 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
 | 221 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
@@ -373,8 +373,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 363 | [I Want Somebody \(Bitch About\)](https://open.spotify.com/track/4jDX3Zk4eVsRGbXwmpBCqn) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:10 |
 | 364 | [Love Will Lead You Back](https://open.spotify.com/track/7g0HwJR6bTDafnWGYcTnmY) | [Dominique](https://open.spotify.com/artist/0sNNIBEGza7dI940L14LDj) | [Love Will Lead You Back](https://open.spotify.com/album/2dfgc5hkjQzRI5dpB2QLoM) | 4:36 |
 | 365 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 |
-| 366 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
-| 367 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
+| 366 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
+| 367 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
 | 368 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 |
 | 369 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 370 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
@@ -450,8 +450,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 440 | [Boardwalk Baby](https://open.spotify.com/track/2BlJkmdl1UqKdIMMU2lTzd) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Nothing to Lose](https://open.spotify.com/album/6gqWlgSc7BV8Dv5DSW6HNz) | 5:03 |
 | 441 | [I'm Only Wounded](https://open.spotify.com/track/5t61OJEBHtWKtYJ6aGGPPM) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 3:31 |
 | 442 | [Save Me](https://open.spotify.com/track/4Cg6KyUuFSzfMcZ6n7MN93) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Bitterblue](https://open.spotify.com/album/1v5QM7InRItBLO6JjrtigN) | 4:07 |
-| 443 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
-| 444 | [Just the Thought of You](https://open.spotify.com/track/2EbRYotlbA3ZDKIk300jAS) | [Tony Hadley](https://open.spotify.com/artist/0wHrpPuQ3Qea6UXAc06ocM) | [The State of Play](https://open.spotify.com/album/1BrylrchcrwAWtTqM8ZJ7x) | 3:44 |
+| 443 | [Just the Thought of You](https://open.spotify.com/track/2EbRYotlbA3ZDKIk300jAS) | [Tony Hadley](https://open.spotify.com/artist/0wHrpPuQ3Qea6UXAc06ocM) | [The State of Play](https://open.spotify.com/album/1BrylrchcrwAWtTqM8ZJ7x) | 3:44 |
+| 444 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
 | 445 | [Sheltered Heart](https://open.spotify.com/track/7JBrmDHQ0APUwQzGOJOK2W) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/5dT8wsoBrLfBkfsuBK4bLJ) | 4:44 |
 | 446 | [Where Is Your Heart](https://open.spotify.com/track/5k47CqRlcB7qtQolI3W8Zu) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:23 |
 | 447 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 |
@@ -597,4 +597,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 587 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 588 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcXvqAAAAAChkWTGdQJBh7dvlnPv8Mid`
+Snapshot ID: `AcX1SAAAAABYS8/pyKr4W2AXovtRRVuY`

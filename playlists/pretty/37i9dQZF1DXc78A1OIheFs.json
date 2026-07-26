@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19363,
+  "num_followers": 19364,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "Back In My Arms",
-        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        }
-      ],
-      "duration_ms": 225843,
-      "name": "Back In My Arms",
-      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "Hate My Guts",
         "url": "https://open.spotify.com/album/1Zv5VHbH8Zwtk6Sqb9dZkn"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 150407,
       "name": "Hate My Guts",
       "url": "https://open.spotify.com/track/0pVALDYiQjzXxzW99TC4Id"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "Have You Ever Seen the Rain",
-        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
-      },
-      "artists": [
-        {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
-        }
-      ],
-      "duration_ms": 193509,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
         "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 213409,
       "name": "halftime oranges",
       "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "Have You Ever Seen the Rain",
+        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+      },
+      "artists": [
+        {
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "duration_ms": 193509,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Sean Rii",
-          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 165000,
       "name": "Hyperreal (Middle of the Night)",
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Sean Rii",
+          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -723,38 +723,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "call me yours",
-        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "call me yours",
-      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
-        "name": "drag",
-        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 229683,
-      "name": "drag",
-      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "Troubles",
         "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
       },
@@ -775,6 +743,38 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
+        "name": "drag",
+        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 229683,
+      "name": "drag",
+      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 164070,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -827,6 +811,22 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "me > you",
-        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
-      },
-      "artists": [
-        {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "me > you",
-      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "me > you",
+        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
+      },
+      "artists": [
+        {
+          "name": "Imani-J",
+          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "me > you",
+      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186747,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-07-23 14:00:25",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-07-23 14:00:25",
       "album": {
+        "name": "The Drip",
+        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "What Would It Profit",
+      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+    },
+    {
+      "added_at": "2026-07-23 14:00:25",
+      "album": {
         "name": "Coats",
         "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 189473,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
-    },
-    {
-      "added_at": "2026-07-23 14:00:25",
-      "album": {
-        "name": "The Drip",
-        "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
-      },
-      "artists": [
-        {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "What Would It Profit",
-      "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
     },
     {
       "added_at": "2026-07-23 14:00:25",

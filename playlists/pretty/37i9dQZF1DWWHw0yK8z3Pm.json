@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
-  "num_followers": 70173,
+  "num_followers": 70196,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/7JxTS8CQYhbGWyKQGlODRX"
     },
     {
+      "added_at": "2026-07-17 04:02:58",
+      "album": {
+        "name": "if you wanna know",
+        "url": "https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 178095,
+      "name": "if you wanna know",
+      "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
+    },
+    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Borrowed Time",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 180459,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Light Over the Hill (from Reminders of Him)",
         "url": "https://open.spotify.com/album/3xMWMgRB83AwY5d4fDmTiX"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 283605,
       "name": "Light Over the Hill (from Reminders of Him)",
       "url": "https://open.spotify.com/track/1TYfVk1t85btBuBGqEnB4g"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
     },
     {
       "added_at": "2026-06-05 04:02:55",
@@ -715,22 +731,6 @@
       "duration_ms": 302023,
       "name": "Preacher\u2019s Kid",
       "url": "https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0"
-    },
-    {
-      "added_at": "2026-07-17 04:02:58",
-      "album": {
-        "name": "if you wanna know",
-        "url": "https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 178095,
-      "name": "if you wanna know",
-      "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
     },
     {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 202674,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
+    },
+    {
       "added_at": "2026-06-12 04:03:05",
       "album": {
         "name": "Rox in the Box",
@@ -795,38 +811,6 @@
       "duration_ms": 302592,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 202674,
-      "name": "Frostbite",
-      "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Goldie Boutilier Presents... Goldie Montana",
-        "url": "https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 189459,
-      "name": "Favorite Fear",
-      "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -867,6 +851,22 @@
       "duration_ms": 204603,
       "name": "A Lesson In Leavin\u2019",
       "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Goldie Boutilier Presents... Goldie Montana",
+        "url": "https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 189459,
+      "name": "Favorite Fear",
+      "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
     },
     {
       "added_at": "2026-06-05 04:02:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 223425,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 150668,
       "name": "Windy City",
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/7AsJDg1nrIoaFk7E18O2wv"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 174789,
-      "name": "Should\u2019ve Known Better",
-      "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Ain't As Pretty A Blue",
@@ -1119,6 +1103,38 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
+      "added_at": "2026-06-26 04:03:10",
+      "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 174789,
+      "name": "Should\u2019ve Known Better",
+      "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
+    },
+    {
+      "added_at": "2026-07-24 04:03:38",
+      "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1521,22 +1537,6 @@
       "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
-    },
-    {
       "added_at": "2026-07-03 04:03:22",
       "album": {
         "name": "Whole Lotta Talkin'",
@@ -1551,6 +1551,22 @@
       "duration_ms": 163133,
       "name": "Whole Lotta Talkin'",
       "url": "https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Weakened",
-        "url": "https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 337266,
-      "name": "Weakened",
-      "url": "https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "South of the Suburbs",
         "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 168000,
       "name": "South of the Suburbs",
       "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Weakened",
+        "url": "https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 337266,
+      "name": "Weakened",
+      "url": "https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1651,6 +1667,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
         "url": "https://open.spotify.com/album/7lfVMgxYRfFYOih7bPQcbp"
       },
@@ -1675,46 +1707,6 @@
       "duration_ms": 189253,
       "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
       "url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Darling Blue",
-        "url": "https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 247050,
-      "name": "The Shadows (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
     }
   ],
   "unique_name": "Renegades",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624,567 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,740 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 10 | [GLORY ARISE](https://open.spotify.com/track/3cdUWBYEYJakyDOBN7707K) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Grace Shuffitt](https://open.spotify.com/artist/616bHpVJW9TVUjh58t4S68) | [GLORY ARISE](https://open.spotify.com/album/0Ggj9Qaz10LMGYHPvaTf7L) | 7:06 |
 | 11 | [Hallowed Be Your Name](https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [The Chorus](https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz) | 6:33 |
 | 12 | [Spirit Of The Living God](https://open.spotify.com/track/4DsRVDm6Hid9Pp7m5dlfBf) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Spirit Of The Living God](https://open.spotify.com/album/13xnzlysbkbPkvD0OgfoYx) | 4:31 |
-| 13 | [What A Miracle Feels Like](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
+| 13 | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
 | 14 | [I Choose You](https://open.spotify.com/track/4ImYwWNSHx1jL4dbkTkBGq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I Choose You](https://open.spotify.com/album/4oQRJhp3GE6X6HS9r0LdIb) | 4:17 |
 | 15 | [WORD OF GOD](https://open.spotify.com/track/3lDzo0tVeR6nvS44hnhThS) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steph Wong](https://open.spotify.com/artist/3L1PkIj3jbF7jmRbKztyvd) | [IT NEEDS TO BE SAID SOME MORE](https://open.spotify.com/album/1fLp14hxMusqbqM9eAwncl) | 4:46 |
 | 16 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |

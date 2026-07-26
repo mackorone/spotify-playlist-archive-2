@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACh6QVeUpec9Pfx2wxQ2hCa",
+  "snapshot_id": "amKrAAAAAABT51yAMrDWWMQZf6vhlTwD",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Extrana Manera",
-      "url": "https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 183614,
       "name": "Charola de Plata",
       "url": "https://open.spotify.com/track/5wT6aZvQzOCrESPS34hrXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Extrana Manera",
+      "url": "https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 194037,
-      "name": "Para Morir Iguales",
-      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 157884,
       "name": "De la Tierra al Cielo",
       "url": "https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tus Ojos",
-        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 140936,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencibles",
         "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
       },
@@ -643,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Tus Ojos",
+        "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+      "duration_ms": 140936,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
     },
     {
       "added_at": null,
@@ -671,6 +655,38 @@
       "duration_ms": 191164,
       "name": "Amigo de la Luna",
       "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 187663,
-      "name": "Cuando Sola Estes",
-      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De La Tierra Al Cielo",
         "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
@@ -727,26 +727,6 @@
       "duration_ms": 157559,
       "name": "De La Tierra Al Cielo",
       "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Vamos A Olvidarnos De Ella",
-      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
     },
     {
       "added_at": null,
@@ -783,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion, Vol. 2",
-        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Amor de Ayer",
-      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
+      "duration_ms": 208480,
+      "name": "Vamos A Olvidarnos De Ella",
+      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 189546,
       "name": "De Cantina En Cantina",
       "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoros de Coleccion, Vol. 2",
+        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Amor de Ayer",
+      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,

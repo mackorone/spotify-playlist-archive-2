@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 61021,
+  "num_followers": 61052,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFZvpgs9vZW5IyDYvfWDq3qdafP",
+  "snapshot_id": "AAAAAPX0qzofD96WvjwctkRASIsiGIZX",
   "tracks": [
     {
       "added_at": "2026-07-16 18:46:17",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "Calculate (II)",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 180688,
       "name": "Calculate - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
-      },
-      "artists": [
-        {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 166442,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
         "name": "Rhythm",
         "url": "https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf"
       },
@@ -783,22 +763,22 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
         },
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+      "duration_ms": 166442,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -819,6 +799,26 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 170191,
       "name": "Luvaluvah",
       "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2026-06-25 22:33:06",
-      "album": {
-        "name": "MAGAA",
-        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 181289,
-      "name": "MAGAA",
-      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -875,22 +855,22 @@
     {
       "added_at": "2026-06-25 22:33:06",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+        "name": "MAGAA",
+        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
+      "duration_ms": 181289,
+      "name": "MAGAA",
+      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-06-25 22:33:06",
@@ -907,6 +887,26 @@
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-06-25 22:33:06",
+      "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": "2026-06-25 22:33:06",

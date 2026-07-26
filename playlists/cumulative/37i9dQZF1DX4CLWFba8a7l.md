@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vacations
 
-691 songs - 1 day 14 hr 39 min
+693 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bleed](https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Bleed](https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4) | 3:40 | 2026-03-05 | 2026-05-22 |
 | [Blink Twice](https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Blink Twice](https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5) | 3:22 | 2025-06-05 | 2025-06-13 |
 | [Blood on the Stage](https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Blood on the Stage](https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp) | 3:54 | 2024-08-30 | 2024-10-16 |
+| [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7) | 2:40 | 2026-07-23 |  |
 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 | 2026-06-11 |  |
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-30 | 2024-09-23 |
 | [Body Step](https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Body Step](https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA) | 5:07 | 2026-07-09 | 2026-07-17 |
@@ -437,6 +438,7 @@
 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 | 2025-10-16 | 2025-10-24 |
 | [NOTHING HURTS WHEN YOU'RE HOLLOW](https://open.spotify.com/track/44MISgVd512ly0OksnY6gI) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WAS HERE \(DELUXE\)](https://open.spotify.com/album/523LYAgoV9UDFtXg1hbT3B) | 2:47 | 2025-05-15 | 2025-05-23 |
 | [OH MYY! OH MYY!](https://open.spotify.com/track/0kU9P1Z0f9UwqdCBlHjc1r) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [I LEFT MYY HEART OUT WEST](https://open.spotify.com/album/6nwl0MVK57lBELY6Vloiz4) | 2:09 | 2025-05-08 | 2025-05-16 |
+| [Okarena](https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Okarena](https://open.spotify.com/album/1RQisl8XADZWUdDJ7PBb8M) | 4:10 | 2026-07-23 |  |
 | [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 | 2024-05-31 | 2025-04-25 |
 | [ONE MORE](https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb) | 2:49 | 2025-10-23 |  |
 | [One More Chance \(feat\. Savage\)](https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [One More Chance \(feat\. Savage\)](https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS) | 3:16 | 2024-08-15 | 2024-08-30 |
@@ -450,7 +452,7 @@
 | [Our Greats](https://open.spotify.com/track/4Uf9Ssmbrvdw7ZUaJgblNo) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [Our Greats](https://open.spotify.com/album/2p2GX5ISOGv4JRg7GJoapg) | 3:45 | 2025-07-03 | 2025-07-11 |
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-15 | 2024-11-21 |
 | [Outdone](https://open.spotify.com/track/24CtTaRliBIACacaUxHIwO) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/7cAXOEbTaUQTwTDoKk1ACY) | 3:35 | 2026-01-15 | 2026-01-23 |
-| [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 |  |
+| [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 | 2026-07-26 |
 | [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 | 2026-02-05 | 2026-03-14 |
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 | 2026-05-20 |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |
@@ -479,7 +481,7 @@
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2025-10-17 |
 | [Punch Drunk Love](https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY) | 3:17 | 2025-09-18 | 2025-09-26 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-11 |  |
-| [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-18 |  |
+| [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-18 | 2026-07-26 |
 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 | 2025-11-28 | 2025-12-05 |
 | [Rage Against The Fatigue](https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Fall From The Light](https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m) | 3:26 | 2025-07-31 | 2026-03-30 |
 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 | 2026-02-05 |  |

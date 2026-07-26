@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226534,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
+    },
+    {
+      "album": {
         "name": "P.S I Love You",
         "url": "https://open.spotify.com/album/0rOSkVbGUhgFTrpRJL6vqn"
       },
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 195320,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
@@ -4464,6 +4482,28 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "album": {

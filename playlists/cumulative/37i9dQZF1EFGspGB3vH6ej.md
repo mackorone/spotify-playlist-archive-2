@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-304 songs - 20 hr 36 min
+305 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-10-05 |  |
 | [Portrait](https://open.spotify.com/track/2flnYutr2WlFzi6ZpXz8ci) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 4:01 | 2024-01-29 |  |
 | [Prisoner](https://open.spotify.com/track/3bFxumQRhWqt1BiXLeVrKa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:22 | 2024-01-29 |  |
-| [Reflection](https://open.spotify.com/track/2UYJqlRkRKCTW4Su8iGucQ) | [Lesbian and Gay Chorus of Washington D.C.](https://open.spotify.com/artist/03tTu9o9v15C71Cx7n3mNO) | [LGCW Live!](https://open.spotify.com/album/3lbjGcuUj78QlhbriJFphs) | 4:36 | 2026-01-29 |  |
+| [Reflection](https://open.spotify.com/track/2UYJqlRkRKCTW4Su8iGucQ) | [Lesbian and Gay Chorus of Washington D.C.](https://open.spotify.com/artist/03tTu9o9v15C71Cx7n3mNO) | [LGCW Live!](https://open.spotify.com/album/3lbjGcuUj78QlhbriJFphs) | 4:36 | 2026-01-29 | 2026-07-26 |
+| [Reflections \(Care Enough\)](https://open.spotify.com/track/0sRVrExi0VM9NVFkKPCQku) | [JUNYA](https://open.spotify.com/artist/0hBvwKMwlbZ1xlTl2TZsny) | [迷惑なI Love You E.P.](https://open.spotify.com/album/6SBUfBR3bFEDHzd3HugVYJ) | 3:26 | 2026-07-25 |  |
 | [Reflections \(Care Enough\)](https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:20 | 2024-01-29 | 2026-01-30 |
 | [Ribbon](https://open.spotify.com/track/11NxKfNMz21t1HnvWsqwNv) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:21 | 2024-01-29 |  |
 | [Right To Dream](https://open.spotify.com/track/6fbMzo2JubJJH1xHYsCOpV) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Right To Dream \(from the movie "Tennessee"\)](https://open.spotify.com/album/5aZ6pruk8xRbZLoElrFavp) | 3:32 | 2024-01-29 |  |
@@ -270,7 +271,7 @@
 | [There's Got to Be a Way](https://open.spotify.com/track/4nrGqAXIwimqVx0T1ejUyP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:52 | 2024-01-29 |  |
 | [There's Got to Be a Way](https://open.spotify.com/track/2gkfRN2oSvjrueTbHQgQq0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [There's Got To Be A Way \(Official HD Video\)](https://open.spotify.com/album/0HA57Oi0aZHBv3lPfYZWHk) | 4:57 | 2024-01-31 | 2024-02-02 |
 | [Thirsty](https://open.spotify.com/track/6uK1iGVrmBP6UgsecrTFV3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:25 | 2024-01-29 |  |
-| [Through The Rain](https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:48 | 2024-01-29 |  |
+| [Through The Rain](https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:48 | 2024-01-29 | 2026-07-26 |
 | [Through The Rain \- Remix](https://open.spotify.com/track/5ERMAOOk9ez7FI1MmGK26B) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 3:32 | 2024-01-29 |  |
 | [Till the End of Time](https://open.spotify.com/track/7ALcAwIhNs3hmENPi6wcGI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:34 | 2024-01-29 |  |
 | [To Be Around You](https://open.spotify.com/track/3MRlyrcNvLflDJlIkrpRvG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:36 | 2024-01-29 |  |

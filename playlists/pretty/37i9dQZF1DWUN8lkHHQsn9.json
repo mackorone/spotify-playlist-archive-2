@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:4D2PCg640w5R8SGfAlO2ZR\">Kuba Kamik</a>",
-  "num_followers": 42304,
+  "num_followers": 42301,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+      },
+      "artists": [
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "BOJ\u0118 SI\u0118",
         "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 166333,
       "name": "BOJ\u0118 SI\u0118",
       "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
-      },
-      "artists": [
-        {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Uwaga (Id\u0119 do ciebie)",
         "url": "https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
       },
       "artists": [
         {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
         }
       ],
-      "duration_ms": 178167,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -543,26 +559,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Kumple <3 (MAVOOI Remix)",
-        "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        },
-        {
-          "name": "MAVOOI",
-          "url": "https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS"
-        }
-      ],
-      "duration_ms": 131661,
-      "name": "Kumple <3 - MAVOOI Remix",
-      "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -579,18 +575,22 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+        "name": "Kumple <3 (MAVOOI Remix)",
+        "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
       },
       "artists": [
         {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        },
+        {
+          "name": "MAVOOI",
+          "url": "https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS"
         }
       ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
+      "duration_ms": 131661,
+      "name": "Kumple <3 - MAVOOI Remix",
+      "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Redflag",
-        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Redflag",
-      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/25nHYMN19qwn9Vd6bAcMs0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 229000,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4lfKw5cYb0TCBipYFhwLyt"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Redflag",
+        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Redflag",
+      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Czer\u0144",
-        "url": "https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        },
-        {
-          "name": "Mikaela Sandell",
-          "url": "https://open.spotify.com/artist/6i5ROojnKVF1TYprq27TgU"
-        },
-        {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
-        }
-      ],
-      "duration_ms": 156443,
-      "name": "Czer\u0144",
-      "url": "https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
         "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Czer\u0144",
+        "url": "https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        },
+        {
+          "name": "Mikaela Sandell",
+          "url": "https://open.spotify.com/artist/6i5ROojnKVF1TYprq27TgU"
+        },
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "Czer\u0144",
+      "url": "https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1403,6 +1403,38 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "bia\u0142y szum",
+      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -1439,38 +1471,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "warszawa",
-        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "warszawa",
-      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "bia\u0142y szum",
-      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "Occultica",
         "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
       },
@@ -1487,50 +1487,6 @@
       "duration_ms": 209596,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "rom-com",
-        "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
-      },
-      "artists": [
-        {
-          "name": "Meg Mell",
-          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
-        },
-        {
-          "name": "izdeb",
-          "url": "https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e"
-        }
-      ],
-      "duration_ms": 268941,
-      "name": "rom-com",
-      "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Krasnoludki",
-        "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
-      },
-      "artists": [
-        {
-          "name": "vgtbl.pl",
-          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
-        },
-        {
-          "name": "Franek Warzywa",
-          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
-        },
-        {
-          "name": "M\u0142ody Budda",
-          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Krasnoludki",
-      "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1555,6 +1511,26 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "rom-com",
+        "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
+      },
+      "artists": [
+        {
+          "name": "Meg Mell",
+          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+        },
+        {
+          "name": "izdeb",
+          "url": "https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e"
+        }
+      ],
+      "duration_ms": 268941,
+      "name": "rom-com",
+      "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Kochany pami\u0119tniku",
         "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 189833,
       "name": "Kochany pami\u0119tniku",
       "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Krasnoludki",
+        "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
+      },
+      "artists": [
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        },
+        {
+          "name": "Franek Warzywa",
+          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
+        },
+        {
+          "name": "M\u0142ody Budda",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "Krasnoludki",
+      "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "Nice from Poland (DJ BLIK remix)",
+        "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        }
+      ],
+      "duration_ms": 236444,
+      "name": "Nice from Poland - DJ BLIK remix",
+      "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Biegn\u0119",
         "url": "https://open.spotify.com/album/51J98zaqTmcrQJbUJyXobQ"
       },
@@ -1643,22 +1663,18 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Nice from Poland (DJ BLIK remix)",
-        "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
+        "name": "b\u0105d\u017a g\u0142o\u015bno",
+        "url": "https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr"
       },
       "artists": [
         {
-          "name": "DJ BLIK",
-          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
-        },
-        {
-          "name": "vgtbl.pl",
-          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+          "name": "NATE",
+          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
         }
       ],
-      "duration_ms": 236444,
-      "name": "Nice from Poland - DJ BLIK remix",
-      "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
+      "duration_ms": 158677,
+      "name": "b\u0105d\u017a g\u0142o\u015bno",
+      "url": "https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "b\u0105d\u017a g\u0142o\u015bno",
-        "url": "https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr"
-      },
-      "artists": [
-        {
-          "name": "NATE",
-          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "b\u0105d\u017a g\u0142o\u015bno",
-      "url": "https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "W Pary\u017cu",
         "url": "https://open.spotify.com/album/1TdT7jaAZq2e4jP6S2lSrm"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Chwila",
-        "url": "https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Chwila",
-      "url": "https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "glorious",
         "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 200000,
       "name": "glorious",
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Chwila",
+        "url": "https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 364893,
+      "name": "Chwila",
+      "url": "https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr"
     }
   ],
   "unique_name": "GLOW Polska",

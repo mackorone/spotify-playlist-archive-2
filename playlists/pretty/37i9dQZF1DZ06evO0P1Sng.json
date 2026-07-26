@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8223,
+  "num_followers": 8222,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADaEuFPlb3SjcxUwKFcNXNh",
+  "snapshot_id": "amKrAAAAAAC3q502gz/0Ej8VPk0YKUTH",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Hora H",
+      "url": "https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUDO \u00c9 SOBRE M\u00daSICA",
         "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 163428,
       "name": "60K - Remix",
       "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 136874,
-      "name": "Hora H",
-      "url": "https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Intenso",
-        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
-      },
-      "artists": [
-        {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Kelwin Lopes",
-          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
-        }
-      ],
-      "duration_ms": 136022,
-      "name": "Amor Intenso",
-      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -719,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Intenso",
+        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kelwin Lopes",
+          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
+        }
+      ],
+      "duration_ms": 136022,
+      "name": "Amor Intenso",
+      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reverse",
         "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 133193,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Rapper Gangster",
+        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Dom do Toque",
+      "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 205576,
       "name": "BRONCA",
       "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uma Rapper Gangster",
-        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Dom do Toque",
-      "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
     },
     {
       "added_at": null,
@@ -947,6 +947,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desce & Sobe",
+        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Desce & Sobe",
+      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dif\u00edcil De Amar",
         "url": "https://open.spotify.com/album/7gWMmfxYPhUYvlzbpdFHDi"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 313823,
       "name": "Dif\u00edcil De Amar",
       "url": "https://open.spotify.com/track/6JnTVrSnN6p6Tp6j93xkfa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desce & Sobe",
-        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Desce & Sobe",
-      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
     },
     {
       "added_at": null,

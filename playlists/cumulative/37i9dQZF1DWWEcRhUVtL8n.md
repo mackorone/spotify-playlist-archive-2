@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,477 songs - 5 day 12 hr 3 min
+2,479 songs - 5 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-17 | 2024-10-26 |
 | [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 | 2024-01-20 |
 | [a House is not a Home](https://open.spotify.com/track/6lutezh0veNlcMaHyFId73) | [Luke Chappell](https://open.spotify.com/artist/4TDrPLkCWxWt7FRCZ9h10U) | [a House is not a Home](https://open.spotify.com/album/04ZoLXMOUKgANljo2EvIRQ) | 2:32 | 2022-03-18 | 2022-05-14 |
+| [A Little More Fun](https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:30 | 2026-07-17 |  |
 | [A Man Written by a Woman](https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [A Man Written by a Woman](https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E) | 2:47 | 2026-02-06 | 2026-06-20 |
 | [a message to myself](https://open.spotify.com/track/4IhZ4D5UMHq1CqjYPlXtlD) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [a message to myself](https://open.spotify.com/album/7tibvRsJAiviQUzI5TKUJI) | 2:08 | 2021-06-03 | 2021-06-04 |
 | [A Million Times](https://open.spotify.com/track/4pGoT7HzVjVZQ3VqHRV924) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2020-10-13\* | 2021-10-16 |
@@ -786,6 +787,7 @@
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-25 | 2022-05-20 |
 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-08 | 2026-02-14 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-04-13 |
+| [FLOWERS](https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [FLOWERS](https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4) | 3:14 | 2026-07-24 |  |
 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 | 2020-10-20 | 2020-10-21 |
 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-02-27 | 2026-06-20 |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 | 2022-07-29 |
@@ -891,7 +893,7 @@
 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 | 2022-02-25 | 2022-04-14 |
 | [Grown](https://open.spotify.com/track/3aS9G4mvV3a9Pb3ZvEpism) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [Grown](https://open.spotify.com/album/5X4TXjLJrF3p6O5EXRCoNJ) | 3:05 | 2022-01-07 | 2022-04-21 |
 | [GROWN UP](https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [GROWN UP](https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s) | 3:15 | 2022-08-12 | 2022-08-20 |
-| [Guard Dog](https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Sparkwheel](https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE) | 4:29 | 2026-07-03 |  |
+| [Guard Dog](https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Sparkwheel](https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE) | 4:29 | 2026-07-03 | 2026-07-26 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 | 2026-01-17 |
 | [Guess I'm Going To Hell](https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Guess I'm Going To Hell](https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD) | 4:15 | 2022-05-20 | 2022-07-27 |
 | [Guess I'm Jaded](https://open.spotify.com/track/2m5H5ixFhNzJ8cm0bReT7R) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Guess I'm Jaded](https://open.spotify.com/album/7kn5KwlDX7hBmN8JWb11rI) | 3:11 | 2021-02-23 | 2021-03-17 |
@@ -1051,7 +1053,7 @@
 | [i hate 1st dates](https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [i hate 1st dates](https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN) | 2:56 | 2022-10-21 | 2022-10-29 |
 | [I HATE SUNDAY](https://open.spotify.com/track/4yWwiHbmOkDCZpUw8SYCMF) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 2:45 | 2022-04-29 | 2022-05-07 |
 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 | 2023-08-18 | 2023-10-14 |
-| [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 | 2026-06-26 |  |
+| [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 | 2026-06-26 | 2026-07-26 |
 | [I Hope You Don't Remember Me](https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH) | 3:25 | 2026-01-30 | 2026-03-21 |
 | [I KINDA LIKE THAT](https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [EARWORM](https://open.spotify.com/album/0oJB399Gh1l7rlzJXbsF85) | 3:18 | 2025-10-10 | 2026-02-07 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2024-11-23 |

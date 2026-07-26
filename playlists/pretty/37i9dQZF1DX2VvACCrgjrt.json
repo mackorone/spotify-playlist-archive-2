@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1313197,
+  "num_followers": 1313194,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Grove St. Party",
         "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
       },
@@ -1475,22 +1495,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1515,22 +1531,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -1721,22 +1721,6 @@
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Somn Like Dis",
@@ -1751,6 +1735,22 @@
       "duration_ms": 153750,
       "name": "Somn Like Dis",
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
       "added_at": "2026-05-01 04:01:35",
@@ -1937,22 +1937,6 @@
       "url": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
     },
     {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Tease",
@@ -1993,6 +1977,22 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+    },
+    {
       "added_at": "2026-02-06 05:00:42",
       "album": {
         "name": "KODAK",
@@ -2011,38 +2011,6 @@
       "duration_ms": 173913,
       "name": "KODAK",
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "SHAKEUP",
-        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "SHAKEUP",
-      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2065,6 +2033,22 @@
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
+    },
+    {
       "added_at": "2026-05-22 04:01:19",
       "album": {
         "name": "The Heat",
@@ -2079,6 +2063,22 @@
       "duration_ms": 145036,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+    },
+    {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
     },
     {
       "added_at": "2026-06-19 04:01:19",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
       },
       "artists": [
         {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-01-16 05:00:37",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2229,20 +2229,24 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
-      "added_at": "2026-05-08 04:01:56",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/4DGYvXFnRNTQpPU3mp08L3"
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 198674,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/56IGqraB3HCjOi5PY4mHXn"
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2265,40 +2269,36 @@
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-05-08 04:01:56",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/4DGYvXFnRNTQpPU3mp08L3"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+      "duration_ms": 198674,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/56IGqraB3HCjOi5PY4mHXn"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-07-17 04:01:08",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+        "name": "Salt on my lips",
+        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+      "duration_ms": 219534,
+      "name": "Salt on my lips",
+      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
     },
     {
       "added_at": "2026-06-19 04:01:19",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
         }
       ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "BABYLON",
         "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
       },
@@ -2381,22 +2397,6 @@
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "Salt on my lips",
-        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Salt on my lips",
-      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Circus",
@@ -2413,24 +2413,24 @@
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
-      "added_at": "2026-05-15 15:18:31",
+      "added_at": "2026-07-10 04:01:45",
       "album": {
-        "name": "Oye Manita",
-        "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
+        "name": "Sexy Mami",
+        "url": "https://open.spotify.com/album/2blO1pGwiOdoE013Y9B7QP"
       },
       "artists": [
         {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
         },
         {
-          "name": "Haxhia",
-          "url": "https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Oye Manita",
-      "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
+      "duration_ms": 193846,
+      "name": "Sexy Mami",
+      "url": "https://open.spotify.com/track/34csoWNqakXDkiKzm6eisn"
     }
   ],
   "unique_name": "Nasty Bits",

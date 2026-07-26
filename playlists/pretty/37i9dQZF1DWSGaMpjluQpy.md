@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,827 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,906 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

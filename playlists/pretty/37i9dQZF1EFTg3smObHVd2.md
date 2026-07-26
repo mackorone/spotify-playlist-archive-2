@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 63 | [Strong Enough](https://open.spotify.com/track/14ZqDpSueF7QLPCXGdHoUC) | [J'Khai](https://open.spotify.com/artist/6fdldodPKWrfJs3H6uoDnd), [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Strong Enough \- Single](https://open.spotify.com/album/5byNQKNzQav1HCur1QfP46) | 2:59 |
 | 64 | [Good At Being Lonely](https://open.spotify.com/track/4DooiStKq9tcTKGuQiSvpA) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
 | 65 | [Brand New Day](https://open.spotify.com/track/5yHy4oEWtpuzacUY4pUcpV) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Love & Blood](https://open.spotify.com/album/6kNlBaFUALYiVCieaO3oqp) | 2:37 |
-| 66 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
-| 67 | [Fire](https://open.spotify.com/track/0nOqsRsL5YcbxiwbJ0gMjk) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8) | [Heartbreak On Hold \(Expanded Edition\)](https://open.spotify.com/album/37Kdd5ge3YN33y0jeudNOf) | 3:28 |
+| 66 | [Fire](https://open.spotify.com/track/0nOqsRsL5YcbxiwbJ0gMjk) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8) | [Heartbreak On Hold \(Expanded Edition\)](https://open.spotify.com/album/37Kdd5ge3YN33y0jeudNOf) | 3:28 |
+| 67 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
 | 68 | [The Wah Wah Song](https://open.spotify.com/track/0yuoixvhaxZBwQ5ksuOOGA) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 2:39 |
 | 69 | [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 |
 | 70 | [Remedy](https://open.spotify.com/track/6jFNglCTEcr05w28KLSy9F) | [All About She](https://open.spotify.com/artist/4v31ZbEICHeUehSZdcc4ga) | [Go Slow](https://open.spotify.com/album/2eNHUSSHfqSwPNny1YFmoT) | 3:17 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcXvqAAAAACdfJZg6FxsOoKUrL7X726q`
+Snapshot ID: `AcX1SAAAAABtckndpuYWI0CxPbmXyKWw`

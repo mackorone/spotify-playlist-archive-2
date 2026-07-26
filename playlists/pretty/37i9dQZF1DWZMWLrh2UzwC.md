@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from JENNIE, KATSEYE, charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,729 likes - 107 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,738 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

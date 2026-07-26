@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16139,
+  "num_followers": 16141,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACW5Yuvrl03aOXMx8JV8Fq/",
+  "snapshot_id": "amKrAAAAAAB5gNwR/QH2mn4xKP4wXHmv",
   "tracks": [
     {
       "added_at": null,
@@ -395,38 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Larga Essa Vida",
-        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Souza Beats",
-          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 119008,
-      "name": "Larga Essa Vida",
-      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -471,6 +439,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 187350,
       "name": "Maldita",
       "url": "https://open.spotify.com/track/5Ba9p1oenxnVkFosipeZQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AINDA NO MESMO BAIRRO",
-        "url": "https://open.spotify.com/album/0MgSMuYtpk9VLGrR5h3LcG"
-      },
-      "artists": [
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 151982,
-      "name": "Um Mano Discreto (feat. Mc Luanna)",
-      "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
     },
     {
       "added_at": null,
@@ -563,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "AINDA NO MESMO BAIRRO",
+        "url": "https://open.spotify.com/album/0MgSMuYtpk9VLGrR5h3LcG"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 151982,
+      "name": "Um Mano Discreto (feat. Mc Luanna)",
+      "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
@@ -579,30 +579,6 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/1Er6vUO8e9RFbmmmwpDecu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "N\u00e3o Adianta Me Ligar",
-      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
     },
     {
       "added_at": null,
@@ -647,6 +623,30 @@
       "duration_ms": 137239,
       "name": "Amiga Esse Homem Te Apaga",
       "url": "https://open.spotify.com/track/3X132cezrnJZioVApZ5Xef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "N\u00e3o Adianta Me Ligar",
+      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
     },
     {
       "added_at": null,
@@ -703,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "duration_ms": 194702,
+      "name": "Irrefre\u00e1vel",
+      "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
@@ -731,26 +755,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+        "name": "O Queridinho de Deus",
+        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
       "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
         },
         {
-          "name": "Maunatrack",
-          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
         }
       ],
-      "duration_ms": 194702,
-      "name": "Irrefre\u00e1vel",
-      "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
+      "duration_ms": 261463,
+      "name": "A Paz Que Eu Busco",
+      "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
     },
     {
       "added_at": null,
@@ -795,38 +827,6 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Queridinho de Deus",
-        "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        },
-        {
-          "name": "Correia",
-          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
-        }
-      ],
-      "duration_ms": 261463,
-      "name": "A Paz Que Eu Busco",
-      "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
     },
     {
       "added_at": null,
@@ -995,34 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes Que A Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Pav\u00e3o",
-      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1047,6 +1019,34 @@
       "duration_ms": 168205,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes Que A Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Pav\u00e3o",
+      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
     },
     {
       "added_at": null,
@@ -1183,6 +1183,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO PRIMEIRO ENCONTRO",
+        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "NO PRIMEIRO ENCONTRO",
+      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 163846,
       "name": "Rude",
       "url": "https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO PRIMEIRO ENCONTRO",
-        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "NO PRIMEIRO ENCONTRO",
-      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "description": "With MIK's Reaction, David Von Beahm, Captain Margaret and more",
+  "description": "With David Von Beahm, MIK's Reaction, Motor Ballet and more",
   "num_followers": 8,
   "original_name": "DePitcha Radio",
   "owner": {
@@ -47,6 +47,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sloppy Kisses",
+        "url": "https://open.spotify.com/album/0ShBJZEJy6phydTCvfBjrs"
+      },
+      "artists": [
+        {
+          "name": "Miles Mania",
+          "url": "https://open.spotify.com/artist/0WjP9dwk2MUGIy6SlZNy5w"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Sloppy Kisses",
+      "url": "https://open.spotify.com/track/1C1W7OEQSC4GvCyLKvN8FT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing Rainbows",
+        "url": "https://open.spotify.com/album/2HpWAxVhK41telabZlKSc3"
+      },
+      "artists": [
+        {
+          "name": "Monty Biggins",
+          "url": "https://open.spotify.com/artist/0TGGINUHkPNxm9sVp0TzKr"
+        }
+      ],
+      "duration_ms": 250341,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/1vku0myaLPI4EpYNyw29t8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World We've Made",
         "url": "https://open.spotify.com/album/6nZc8hw1CGxdVXnhrgLKE2"
       },
@@ -67,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' Out The Trash",
+        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Takin' Out The Trash",
+      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Looping Thought",
         "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
       },
@@ -79,42 +131,6 @@
       "duration_ms": 224304,
       "name": "Should Have Known",
       "url": "https://open.spotify.com/track/78etTYu7zW0Cwz5GK33spq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sloppy Kisses",
-        "url": "https://open.spotify.com/album/0ShBJZEJy6phydTCvfBjrs"
-      },
-      "artists": [
-        {
-          "name": "Miles Mania",
-          "url": "https://open.spotify.com/artist/0WjP9dwk2MUGIy6SlZNy5w"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Sloppy Kisses",
-      "url": "https://open.spotify.com/track/1C1W7OEQSC4GvCyLKvN8FT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Elegant Deal",
-        "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 187252,
-      "name": "This Elegant Deal",
-      "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
     },
     {
       "added_at": null,
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
-      },
-      "artists": [
-        {
-          "name": "David Von Beahm",
-          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
-        }
-      ],
-      "duration_ms": 232763,
-      "name": "I'll Go On",
-      "url": "https://open.spotify.com/track/5DvpZt0IAoxvLrsgHbJdYK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace the Condemnation",
         "url": "https://open.spotify.com/album/70CtmYAViawPqaK25n75lC"
       },
@@ -175,18 +175,106 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chasing Rainbows",
-        "url": "https://open.spotify.com/album/2HpWAxVhK41telabZlKSc3"
+        "name": "if you never say never",
+        "url": "https://open.spotify.com/album/2VZYtnyGjRCY5s5piREgc5"
       },
       "artists": [
         {
-          "name": "Monty Biggins",
-          "url": "https://open.spotify.com/artist/0TGGINUHkPNxm9sVp0TzKr"
+          "name": "paddy maloney",
+          "url": "https://open.spotify.com/artist/05zYPMjKzP2le8lWeni6dR"
         }
       ],
-      "duration_ms": 250341,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/1vku0myaLPI4EpYNyw29t8"
+      "duration_ms": 246990,
+      "name": "if you never say never",
+      "url": "https://open.spotify.com/track/3VXTEJ1fPgWUkLbR3SZyLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Elegant Deal",
+        "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 187252,
+      "name": "This Elegant Deal",
+      "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Darkness",
+        "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
+      },
+      "artists": [
+        {
+          "name": "Splitter Conspiracy",
+          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
+        }
+      ],
+      "duration_ms": 248956,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "duration_ms": 232763,
+      "name": "I'll Go On",
+      "url": "https://open.spotify.com/track/5DvpZt0IAoxvLrsgHbJdYK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakables",
+        "url": "https://open.spotify.com/album/2rEfTbbOFXynGBDWWpeSiY"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Collides",
+          "url": "https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34"
+        },
+        {
+          "name": "Maira 3",
+          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+        }
+      ],
+      "duration_ms": 383323,
+      "name": "Porcelain - White Remix",
+      "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solitude And I",
+        "url": "https://open.spotify.com/album/3ycd9mB6sGNvNF0ti0ya03"
+      },
+      "artists": [
+        {
+          "name": "Moth Slut",
+          "url": "https://open.spotify.com/artist/3TiOSpRNafnzFIjIe1r11P"
+        }
+      ],
+      "duration_ms": 264456,
+      "name": "Solitude And I",
+      "url": "https://open.spotify.com/track/57FXZ1jw6tha17ZYQb0MWc"
     },
     {
       "added_at": null,
@@ -215,54 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakables",
-        "url": "https://open.spotify.com/album/2rEfTbbOFXynGBDWWpeSiY"
+        "name": "Mental Health (MIK\u2019s Miasma)",
+        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
       },
       "artists": [
         {
-          "name": "Eleanor Collides",
-          "url": "https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34"
-        },
-        {
-          "name": "Maira 3",
-          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
         }
       ],
-      "duration_ms": 383323,
-      "name": "Porcelain - White Remix",
-      "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Admission",
-        "url": "https://open.spotify.com/album/35xtkvagX6MKRLk3KDXT4f"
-      },
-      "artists": [
-        {
-          "name": "ZEPHI",
-          "url": "https://open.spotify.com/artist/2muXl3JVWN4A6AuzvFxljm"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Admission",
-      "url": "https://open.spotify.com/track/7r824lDKVerZuHncaoMRpo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
-      },
-      "artists": [
-        {
-          "name": "David Von Beahm",
-          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
-        }
-      ],
-      "duration_ms": 290619,
-      "name": "Let the Rain Fall",
-      "url": "https://open.spotify.com/track/76uXX2bsvH6dDtsU3nSHG5"
+      "duration_ms": 340409,
+      "name": "Mental Health (MIK\u2019s Miasma)",
+      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
     },
     {
       "added_at": null,
@@ -283,74 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Out The Trash",
-        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Takin' Out The Trash",
-      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Darkness",
-        "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
-      },
-      "artists": [
-        {
-          "name": "Splitter Conspiracy",
-          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
-        }
-      ],
-      "duration_ms": 248956,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solitude And I",
-        "url": "https://open.spotify.com/album/3ycd9mB6sGNvNF0ti0ya03"
-      },
-      "artists": [
-        {
-          "name": "Moth Slut",
-          "url": "https://open.spotify.com/artist/3TiOSpRNafnzFIjIe1r11P"
-        }
-      ],
-      "duration_ms": 264456,
-      "name": "Solitude And I",
-      "url": "https://open.spotify.com/track/57FXZ1jw6tha17ZYQb0MWc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "InstantFamous",
-        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
-      },
-      "artists": [
-        {
-          "name": "SUGAR JUNKIES",
-          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "InstantFamous",
-      "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
       },
@@ -363,298 +347,6 @@
       "duration_ms": 308189,
       "name": "Requiem for My Memories",
       "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/0nrn0tOMLbItKkxGW3IB1n"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridge To Resolution",
-        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
-      },
-      "artists": [
-        {
-          "name": "Shane Embury",
-          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "How To Corrode Memories",
-      "url": "https://open.spotify.com/track/7AgedjQbTN2RVElOuXlbji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Looping Thought",
-        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
-      },
-      "artists": [
-        {
-          "name": "Motor Ballet",
-          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Plastic Time",
-      "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Your Way",
-        "url": "https://open.spotify.com/album/4MVmHRuhcD2zB2vXB1mR7Y"
-      },
-      "artists": [
-        {
-          "name": "OperaBabes",
-          "url": "https://open.spotify.com/artist/3ujLLiliLCsRHxS7B2kZ2U"
-        }
-      ],
-      "duration_ms": 228914,
-      "name": "On Your Way",
-      "url": "https://open.spotify.com/track/0drRHKIwH1MdX2cXrev92c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mental Health (MIK\u2019s Miasma)",
-        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
-      },
-      "artists": [
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
-        }
-      ],
-      "duration_ms": 340409,
-      "name": "Mental Health (MIK\u2019s Miasma)",
-      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3JGUAs4e5tsP0mpFP6r6p3"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        },
-        {
-          "name": "AGBAT",
-          "url": "https://open.spotify.com/artist/74ftJmv3itcB8rTgfLHuEL"
-        }
-      ],
-      "duration_ms": 192269,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Charm",
-        "url": "https://open.spotify.com/album/74JyTvjFZvFtWgA1zWEEZg"
-      },
-      "artists": [
-        {
-          "name": "Sugar Scars",
-          "url": "https://open.spotify.com/artist/3WCaN9QEGnSeC67w0n1LCQ"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Dark Charm",
-      "url": "https://open.spotify.com/track/1zjK2NHeqw2fUiOT0YAcrv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1985 Collection",
-        "url": "https://open.spotify.com/album/1UX9AV63AxrOnLpnf50Jwg"
-      },
-      "artists": [
-        {
-          "name": "Captain Margaret",
-          "url": "https://open.spotify.com/artist/0fDmBETTgWMuKjqQSjpqGi"
-        }
-      ],
-      "duration_ms": 446625,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/1XUxsV1zC9hcpcu7irLyUr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stray",
-        "url": "https://open.spotify.com/album/4fXwHeEOa7ruHBVJxBg7uy"
-      },
-      "artists": [
-        {
-          "name": "Borage",
-          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/7FJgXLgAj9dKf9Vm4fC2j2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "hands on the board",
-        "url": "https://open.spotify.com/album/41CMWBGQAxTmWEI331BUHF"
-      },
-      "artists": [
-        {
-          "name": "Hrafnsson",
-          "url": "https://open.spotify.com/artist/2pcLHa5go2bwjHcWCresoY"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "leaden coat",
-      "url": "https://open.spotify.com/track/4ro4DezuYlhKKpEPS3Dat7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Murmurs Under Memphis",
-        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "Louise",
-          "url": "https://open.spotify.com/artist/3FkEt8v3EuHSFYQ26d1nQC"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yielding And Melting",
-        "url": "https://open.spotify.com/album/6ENiqZfxDJvYk0vKez6UP8"
-      },
-      "artists": [
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
-        }
-      ],
-      "duration_ms": 199915,
-      "name": "Yielding And Melting",
-      "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Looping Thought",
-        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
-      },
-      "artists": [
-        {
-          "name": "Motor Ballet",
-          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
-        }
-      ],
-      "duration_ms": 227779,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridge To Resolution",
-        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
-      },
-      "artists": [
-        {
-          "name": "Shane Embury",
-          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
-        }
-      ],
-      "duration_ms": 333560,
-      "name": "Illusion Guillotine",
-      "url": "https://open.spotify.com/track/50FGQzrVa7XsEZfzIxZsVB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breaking Walls",
-        "url": "https://open.spotify.com/album/5Opz0Cgie6S9f3i47vxIlI"
-      },
-      "artists": [
-        {
-          "name": "Saint Junior",
-          "url": "https://open.spotify.com/artist/3YqfH2Bpl59G6QCy5I9CDW"
-        }
-      ],
-      "duration_ms": 278974,
-      "name": "Breaking Walls",
-      "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2bUpH20lfCVuMtmTFAMK6c"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadowplay",
-        "url": "https://open.spotify.com/album/6I0UQGx6c20hHqx346jeM7"
-      },
-      "artists": [
-        {
-          "name": "Fear Maintenance",
-          "url": "https://open.spotify.com/artist/3XIWqvj65qA56l8jauwNCQ"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Shadowplay",
-      "url": "https://open.spotify.com/track/2DHPhbTDMIcMBa6Nxrt3NC"
     },
     {
       "added_at": null,
@@ -683,34 +375,254 @@
     {
       "added_at": null,
       "album": {
-        "name": "Captive Youth",
-        "url": "https://open.spotify.com/album/2u0Bi2oiLHPmvdLmTWNFlb"
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/0nrn0tOMLbItKkxGW3IB1n"
       },
       "artists": [
         {
-          "name": "Crush of Souls",
-          "url": "https://open.spotify.com/artist/6lrYlq9d2alpuagPfXzSne"
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
         }
       ],
-      "duration_ms": 227746,
-      "name": "Dying to Stay Young",
-      "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
+      "duration_ms": 240000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "That Looping Thought",
-        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
       },
       "artists": [
         {
-          "name": "Motor Ballet",
-          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
         }
       ],
-      "duration_ms": 243142,
-      "name": "Superphotonics",
-      "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
+      "duration_ms": 206400,
+      "name": "InstantFamous",
+      "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breaking Walls",
+        "url": "https://open.spotify.com/album/5Opz0Cgie6S9f3i47vxIlI"
+      },
+      "artists": [
+        {
+          "name": "Saint Junior",
+          "url": "https://open.spotify.com/artist/3YqfH2Bpl59G6QCy5I9CDW"
+        }
+      ],
+      "duration_ms": 278974,
+      "name": "Breaking Walls",
+      "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 1985 Collection",
+        "url": "https://open.spotify.com/album/1UX9AV63AxrOnLpnf50Jwg"
+      },
+      "artists": [
+        {
+          "name": "Captain Margaret",
+          "url": "https://open.spotify.com/artist/0fDmBETTgWMuKjqQSjpqGi"
+        }
+      ],
+      "duration_ms": 446625,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/1XUxsV1zC9hcpcu7irLyUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "duration_ms": 290619,
+      "name": "Let the Rain Fall",
+      "url": "https://open.spotify.com/track/76uXX2bsvH6dDtsU3nSHG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/3FkEt8v3EuHSFYQ26d1nQC"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "How To Corrode Memories",
+      "url": "https://open.spotify.com/track/7AgedjQbTN2RVElOuXlbji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Charm",
+        "url": "https://open.spotify.com/album/74JyTvjFZvFtWgA1zWEEZg"
+      },
+      "artists": [
+        {
+          "name": "Sugar Scars",
+          "url": "https://open.spotify.com/artist/3WCaN9QEGnSeC67w0n1LCQ"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Dark Charm",
+      "url": "https://open.spotify.com/track/1zjK2NHeqw2fUiOT0YAcrv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stray",
+        "url": "https://open.spotify.com/album/4fXwHeEOa7ruHBVJxBg7uy"
+      },
+      "artists": [
+        {
+          "name": "Borage",
+          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/7FJgXLgAj9dKf9Vm4fC2j2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/7bB7J8T8dotnMCMFf5WvUq"
+      },
+      "artists": [
+        {
+          "name": "Return the Stone",
+          "url": "https://open.spotify.com/artist/4PwDzyP6M0n168Twn1Qgu5"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6rP5tdDnSJE5bA5xJQyYeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where The Bubbles Rise",
+        "url": "https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Where The Bubbles Rise",
+      "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "duration_ms": 303872,
+      "name": "Half Life",
+      "url": "https://open.spotify.com/track/6lOXF935I5fQaCHIW5zKXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Admission",
+        "url": "https://open.spotify.com/album/35xtkvagX6MKRLk3KDXT4f"
+      },
+      "artists": [
+        {
+          "name": "ZEPHI",
+          "url": "https://open.spotify.com/artist/2muXl3JVWN4A6AuzvFxljm"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Admission",
+      "url": "https://open.spotify.com/track/7r824lDKVerZuHncaoMRpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hands on the board",
+        "url": "https://open.spotify.com/album/41CMWBGQAxTmWEI331BUHF"
+      },
+      "artists": [
+        {
+          "name": "Hrafnsson",
+          "url": "https://open.spotify.com/artist/2pcLHa5go2bwjHcWCresoY"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "leaden coat",
+      "url": "https://open.spotify.com/track/4ro4DezuYlhKKpEPS3Dat7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yielding And Melting",
+        "url": "https://open.spotify.com/album/6ENiqZfxDJvYk0vKez6UP8"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "duration_ms": 199915,
+      "name": "Yielding And Melting",
+      "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"
     },
     {
       "added_at": null,
@@ -735,66 +647,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Darkest Of Eyes",
-        "url": "https://open.spotify.com/album/5MtfCMS1zRzrrVyztsEYoT"
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
       },
       "artists": [
         {
-          "name": "Medivh",
-          "url": "https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw"
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
         }
       ],
-      "duration_ms": 220010,
-      "name": "The Darkest Of Eyes",
-      "url": "https://open.spotify.com/track/4kiCtivuOkpBNtqQW9cqAP"
+      "duration_ms": 202927,
+      "name": "Rest Your Halo",
+      "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THE MESS",
-        "url": "https://open.spotify.com/album/1RPKQlBm0MrW2epZU0ukH6"
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
       },
       "artists": [
         {
-          "name": "Borage",
-          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
         }
       ],
-      "duration_ms": 248000,
-      "name": "THE MESS",
-      "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
+      "duration_ms": 333560,
+      "name": "Illusion Guillotine",
+      "url": "https://open.spotify.com/track/50FGQzrVa7XsEZfzIxZsVB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Not At All",
-        "url": "https://open.spotify.com/album/0SNbSvfU3rU7idZ70LQwd3"
+        "name": "Shadowplay",
+        "url": "https://open.spotify.com/album/6I0UQGx6c20hHqx346jeM7"
       },
       "artists": [
         {
-          "name": "Janosch Moldau",
-          "url": "https://open.spotify.com/artist/7naghQlIIFu19WUra3Dpiv"
+          "name": "Fear Maintenance",
+          "url": "https://open.spotify.com/artist/3XIWqvj65qA56l8jauwNCQ"
         }
       ],
-      "duration_ms": 229692,
-      "name": "Not At All",
-      "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
+      "duration_ms": 214344,
+      "name": "Shadowplay",
+      "url": "https://open.spotify.com/track/2DHPhbTDMIcMBa6Nxrt3NC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "BEWARE THE PROMISE",
-        "url": "https://open.spotify.com/album/7eyxZD10cwDWe5PPAGfd7y"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/3UqUSlyx80gQtadROIsJec"
       },
       "artists": [
         {
-          "name": "Silent WVLF",
-          "url": "https://open.spotify.com/artist/10bJE4lfBXFDoj5wxohpI1"
+          "name": "Cvlt Ov the Svn",
+          "url": "https://open.spotify.com/artist/2KVSnLE8OkCi50mbRsBtWU"
         }
       ],
-      "duration_ms": 262736,
-      "name": "BEWARE THE PROMISE",
-      "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
+      "duration_ms": 218008,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
     },
     {
       "added_at": null,
@@ -819,18 +731,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/6FscpJyuXHVhgiFvQgpiNe"
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/3TGnB9rvsiKi57tf68JsGK"
       },
       "artists": [
         {
-          "name": "Vampire Valentine",
-          "url": "https://open.spotify.com/artist/5IFOqHlbt37UXsz73a02og"
+          "name": "Return the Stone",
+          "url": "https://open.spotify.com/artist/4PwDzyP6M0n168Twn1Qgu5"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/2iIYo63gIFDOzZxszarzvE"
+      "duration_ms": 273345,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2J2hSMxK0E3nQikGpVbpyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything According To Plan... PART-2",
+        "url": "https://open.spotify.com/album/2cVUL5ebo2D0syGGT7jUfF"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "duration_ms": 257741,
+      "name": "Let Me Breathe - Kissed With A Lie",
+      "url": "https://open.spotify.com/track/4BCy3ZARSbTdEVrwc9Ey4q"
     },
     {
       "added_at": null,
@@ -851,6 +779,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just a Bunch of Words",
+        "url": "https://open.spotify.com/album/5kvaAdBbE3IHaDDse9bplC"
+      },
+      "artists": [
+        {
+          "name": "Matt Strader",
+          "url": "https://open.spotify.com/artist/6ZsJyXW6UUjqzofPtsNGx1"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Just a Bunch of Words",
+      "url": "https://open.spotify.com/track/5xiDKWKTsqAkWk6em6iDQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3JGUAs4e5tsP0mpFP6r6p3"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        },
+        {
+          "name": "AGBAT",
+          "url": "https://open.spotify.com/artist/74ftJmv3itcB8rTgfLHuEL"
+        }
+      ],
+      "duration_ms": 192269,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Looping Thought",
+        "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
+      },
+      "artists": [
+        {
+          "name": "Motor Ballet",
+          "url": "https://open.spotify.com/artist/3klfvl8JQrfbxtOfqrDrBY"
+        }
+      ],
+      "duration_ms": 243142,
+      "name": "Superphotonics",
+      "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/5HdiqiCxIGE7zy9Bs4Iolc"
+      },
+      "artists": [
+        {
+          "name": "Travis and The Blues",
+          "url": "https://open.spotify.com/artist/6ntj73zVgbAhrULBB8aGmk"
+        }
+      ],
+      "duration_ms": 325762,
+      "name": "Narcissus",
+      "url": "https://open.spotify.com/track/2J0ILp2whKIC6gZSc1U4xa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Melodies That Made Me",
         "url": "https://open.spotify.com/album/2L7h4FkhHza1cXMr2OIJa7"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where the Thunder Breaks",
-        "url": "https://open.spotify.com/album/2GARGVtwjuKpZDsT02VmkB"
+        "name": "It's Over Now",
+        "url": "https://open.spotify.com/album/6FLhqZhtAJYgntGeGB8MUe"
       },
       "artists": [
         {
-          "name": "David Von Beahm",
-          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+          "name": "Bruce Derby",
+          "url": "https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl"
         }
       ],
-      "duration_ms": 183192,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
+      "duration_ms": 167999,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/24AV8414NJqPMUvTmzFbqZ"
     }
   ],
   "unique_name": "DePitcha Radio",

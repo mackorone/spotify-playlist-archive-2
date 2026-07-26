@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Hanzel La H, Hades66,  Arcángel, Luar La L, Kendo Kaponi y Ñengo Flow plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,447 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,473 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 4 | [SOUR](https://open.spotify.com/track/4cpBRsvYsnYlo6o4XpJ3Wr) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [SOUR](https://open.spotify.com/album/4ONBfAkUyLIi7YxdvICTWH) | 2:48 |
 | 5 | [Verdadero Gangster](https://open.spotify.com/track/4YJTQHRFXLK5yBwSV2sThu) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 3:01 |
 | 6 | [INCORREGIBLE](https://open.spotify.com/track/0jmrsHG0pxBpotuLUAZgYQ) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [INCORREGIBLE](https://open.spotify.com/album/1oIEhqqrkXU6rY9jEY6oh6) | 2:49 |
-| 7 | [Galáctico](https://open.spotify.com/track/0HCDbojE5tb9fxMGoKPhoW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Galáctico](https://open.spotify.com/album/7j7i0rq6mlYJPINjyAUXau) | 3:06 |
+| 7 | [Galáctico](https://open.spotify.com/track/0HCDbojE5tb9fxMGoKPhoW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Galáctico](https://open.spotify.com/album/7j7i0rq6mlYJPINjyAUXau) | 3:06 |
 | 8 | [ESTA ENERGÍA](https://open.spotify.com/track/5B5QVDNWMCQREj7PuzTWzE) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Maggic](https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54) | [ESTA ENERGÍA](https://open.spotify.com/album/7kORV98udhkmoMsu3pc3MJ) | 3:05 |
 | 9 | [Bad News](https://open.spotify.com/track/2oakYiAht6JvQu8Ff2du6s) | [Genio La Musa](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [Bad News](https://open.spotify.com/album/5Uo328oq6tmHUu66yqm2MZ) | 3:25 |
 | 10 | [Loyalty 4 Ever](https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Loyalty 4 Ever](https://open.spotify.com/album/6paSdgWQaYeRJtvhiHdvg1) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Sung Si Kyung & Raisa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,685 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,679 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 46 | [You & Me](https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [You & Me](https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe) | 2:48 |
 | 47 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
 | 48 | [Seperation in the daytime](https://open.spotify.com/track/4R06C6ucEHnDv1MvVdc5ql) | [SUNYE](https://open.spotify.com/artist/5Vf5VWKvTmzz4tW3JvUcGX), [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [Seperation in the daytime](https://open.spotify.com/album/78IkyEsUA4O5vECAHhXU3K) | 4:30 |
-| 49 | [Glue stick \(Feat\. Hoody\)](https://open.spotify.com/track/5kTTqmMNRQRgtkol2iM2ir) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 3:14 |
-| 50 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
+| 49 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
+| 50 | [Glue stick \(Feat\. Hoody\)](https://open.spotify.com/track/5kTTqmMNRQRgtkol2iM2ir) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 3:14 |
 
 Snapshot ID: `AAAAAFseM4X9RhNin09TpsUMKlBM+sYB`

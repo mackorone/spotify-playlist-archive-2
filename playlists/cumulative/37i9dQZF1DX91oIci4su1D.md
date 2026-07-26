@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,333 songs - 3 day 7 hr 31 min
+1,334 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1998 \- Anfisa Letyago Remix](https://open.spotify.com/track/0J0FhbUPbiddqk4xbrIDrh) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [1998 \(Anfisa Letyago Remix\)](https://open.spotify.com/album/4eO1VRh3jrgJRDzNs3RE25) | 4:04 | 2024-07-26 |  |
 | [1998 \- Victor Ruiz Remix](https://open.spotify.com/track/3fnWgtjqolErwSW3XS0vy5) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [1998 \(Victor Ruiz Remix\)](https://open.spotify.com/album/1WYFR2jvaXaZ1DvlodiGuK) | 4:12 | 2024-01-19 | 2025-07-26 |
 | [2008](https://open.spotify.com/track/5Ig3vNOOWqu4DauHpT55K8) | [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Stefkoo](https://open.spotify.com/artist/59mpplQfhpO0dLMIjTz7j5), [CEA](https://open.spotify.com/artist/2UigI5MV3775YMLTOhiNyn) | [2008](https://open.spotify.com/album/36vQUG9rGJYeMtzw7MAxml) | 3:34 | 2021-12-17 | 2022-10-15 |
-| [40](https://open.spotify.com/track/1HuepUhvOtnDnp6mnioLhW) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Jasper Blunk](https://open.spotify.com/artist/4XwNMUcavKaSy2A8dIzgnB) | [40](https://open.spotify.com/album/1eyavWo18zCN5KIjfPgUU5) | 3:51 | 2025-04-04 |  |
+| [40](https://open.spotify.com/track/1HuepUhvOtnDnp6mnioLhW) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Jasper Blunk](https://open.spotify.com/artist/4XwNMUcavKaSy2A8dIzgnB) | [40](https://open.spotify.com/album/1eyavWo18zCN5KIjfPgUU5) | 3:51 | 2025-04-04 | 2026-07-26 |
 | [4U](https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [4U](https://open.spotify.com/album/4x0dpkxoEAYiqIKI3LAROt) | 3:38 | 2024-09-06 | 2025-09-27 |
 | [500](https://open.spotify.com/track/02Te4JcryBIoLvYTFEbWK5) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [500](https://open.spotify.com/album/5lrYnvJjQGGmu6GGLPHuvn) | 2:46 | 2023-05-19 | 2023-05-26 |
 | [500](https://open.spotify.com/track/5OVymDEf9BbTC1JRniCjnh) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/6KkjYQ6h1BIQE4LspVgQdh) | 2:46 | 2023-06-23 | 2023-12-09 |
@@ -311,6 +311,7 @@
 | [Don't Say Goodbye](https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Don't Say Goodbye](https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH) | 3:11 | 2024-09-27 | 2026-05-30 |
 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 | 2026-06-11 |  |
 | [Don't Stop \- drums & acid mix](https://open.spotify.com/track/3Lfuh4PLekVuYmEUmgRTgY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY) | 4:58 | 2024-07-22 | 2025-08-30 |
+| [Don't You Go Hard?!](https://open.spotify.com/track/5SyWrtM96kjUrzh23R89eP) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Don't You Go Hard?!](https://open.spotify.com/album/5MESnRNAp29gV9o7IyUhcA) | 2:22 | 2026-07-23 |  |
 | [Don't You Want Me \- KI/KI Remix](https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Don't You Want Me \(KI/KI Remix\)](https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ) | 3:47 | 2024-08-02 | 2026-05-16 |
 | [Dopex](https://open.spotify.com/track/2aWKb2LbwbdMQtwr7ogAE6) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Dopex](https://open.spotify.com/album/5PMU6pNV77eQ5ohtUVcq8j) | 3:56 | 2022-06-24 | 2024-02-17 |
 | [Doves](https://open.spotify.com/track/3uozEz2fryNaVqUO3C9GbP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Doves](https://open.spotify.com/album/1eGzCeKZjFMXeUA9xcxsLS) | 2:19 | 2026-07-16 |  |

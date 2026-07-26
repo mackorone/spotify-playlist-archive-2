@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316433,
+  "num_followers": 316428,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -159,7 +159,7 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "S'il Suffisait D'aimer",
+        "name": "S'il suffisait d'aimer",
         "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
       },
       "artists": [
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
-        "name": "Comic Strip",
-        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        },
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Je t'aime moi non plus",
-      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "added_at": "2026-04-15 08:53:32",

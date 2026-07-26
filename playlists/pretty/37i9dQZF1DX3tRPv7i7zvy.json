@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 21394,
+  "num_followers": 21409,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,18 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "EVERLASTING",
-        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 139487,
-      "name": "EVERLASTING",
-      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -259,18 +255,22 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "Ewor Me",
         "url": "https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 220927,
       "name": "Ewor Me",
       "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
+        "name": "Catching Glory",
+        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "duration_ms": 106997,
+      "name": "Catching Glory",
+      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Catching Glory",
-        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
-      },
-      "artists": [
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 106997,
-      "name": "Catching Glory",
-      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -723,6 +723,26 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "Stopit",
+        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Stopit",
+      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -787,26 +807,6 @@
       "duration_ms": 219428,
       "name": "Awurade Aye",
       "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
-        "name": "Stopit",
-        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Stopit",
-      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
     },
     {
       "added_at": "2026-07-17 00:01:30",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-07-17 00:01:30",
       "album": {
-        "name": "Sounds of the Diaspora 2",
-        "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Ayetian",
-          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BACKKA",
-      "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
-    },
-    {
-      "added_at": "2026-07-17 00:01:30",
-      "album": {
         "name": "Wonda Boy",
         "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 170295,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "added_at": "2026-07-17 00:01:30",
+      "album": {
+        "name": "Sounds of the Diaspora 2",
+        "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BACKKA",
+      "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
     },
     {
       "added_at": "2026-07-17 00:01:30",

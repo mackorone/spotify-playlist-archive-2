@@ -188,7 +188,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 134173,
       "name": "BARBAS",
       "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
@@ -1612,6 +1612,28 @@
       "duration_ms": 187904,
       "name": "MAKABELICOS",
       "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
+    },
+    {
+      "album": {
+        "name": "ME MIRAN",
+        "url": "https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "ME MIRAN",
+      "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"
     },
     {
       "album": {

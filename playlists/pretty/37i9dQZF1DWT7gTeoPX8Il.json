@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 170890,
+  "num_followers": 170892,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZvDVh0UFt7EpOk/42M1rDDIVgO",
+  "snapshot_id": "AAAAAPpUa7f4GN30uwteNWfKRuC/xoqj",
   "tracks": [
     {
       "added_at": "2026-07-17 07:14:07",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Sumpah Mati",
-        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
-      },
-      "artists": [
-        {
-          "name": "Rio Lahskart",
-          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Sumpah Mati",
-      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 236800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
+      },
+      "artists": [
+        {
+          "name": "Rio Lahskart",
+          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Angin Rindu",
-        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Angin Rindu",
-      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
         "name": "Katakan Saja",
         "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 236202,
       "name": "Katakan Saja",
       "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     },
     {
       "added_at": "2026-07-17 07:14:07",

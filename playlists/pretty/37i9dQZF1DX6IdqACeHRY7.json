@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158070,
+  "num_followers": 158071,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Just Two Girls",
-      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "r\u00f8r ved hinanden (feat. Chris Burton)",
-      "url": "https://open.spotify.com/track/50Kk0GqslIy4RnZ2ekLVog"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 158708,
       "name": "bl\u00e5 n\u00e6tter",
       "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "v\u00e5gner",
+        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "r\u00f8r ved hinanden (feat. Chris Burton)",
+      "url": "https://open.spotify.com/track/50Kk0GqslIy4RnZ2ekLVog"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "A Beautiful Real Life",
-        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "A Beautiful Real Life",
+        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
     },
     {
       "added_at": "2026-05-21 12:03:22",

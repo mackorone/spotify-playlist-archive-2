@@ -1,29 +1,13 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10996,
+  "num_followers": 11001,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACzR6Er2miRbOhjoFYa0Q0d",
+  "snapshot_id": "amKrAAAAAAAYPD8brUyTuEowXLibWnB3",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Handle",
-        "url": "https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Handle",
-      "url": "https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak"
     },
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whatever's Clever!",
-        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 135503,
-      "name": "New Jersey (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whatever's Clever!",
+        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 135503,
+      "name": "New Jersey (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reputation / Bobby",
-        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 211166,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 193760,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 211166,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 219051,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 233077,
       "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 219051,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Deep In The World",
-      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Deep In The World",
+      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soulection White Label - Monte Booker",
         "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 186647,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,

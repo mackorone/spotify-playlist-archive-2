@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,043 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,159 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
 | 50 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 
-Snapshot ID: `AAAAAFw8ggzK4i0AjYY8XVzqAtfgyMtl`
+Snapshot ID: `AAAAAM4JVGA3fOjUkrbOv4jNRbXRSE6D`

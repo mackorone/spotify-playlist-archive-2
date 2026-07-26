@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
-  "num_followers": 760191,
+  "num_followers": 760262,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Meu Forr\u00f3 \u00c9 Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3sC9tJZqJHFEwLeEMOLoyN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Rey Vaqueiro",
+          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
+        }
+      ],
+      "duration_ms": 158589,
+      "name": "Displicente - Ao Vivo",
+      "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Meu Forr\u00f3 \u00c9 Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3sC9tJZqJHFEwLeEMOLoyN"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Rey Vaqueiro",
-          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
-        }
-      ],
-      "duration_ms": 158589,
-      "name": "Displicente - Ao Vivo",
-      "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -175,6 +175,30 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
+        "url": "https://open.spotify.com/album/4aM3OuJD3Zcxvnv0zcpItK"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Rey Vaqueiro",
+          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 142030,
+      "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
+      "url": "https://open.spotify.com/track/3AREKkqAoBpFxD5Hm9Ip53"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
-        "url": "https://open.spotify.com/album/4aM3OuJD3Zcxvnv0zcpItK"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Rey Vaqueiro",
-          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 142030,
-      "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
-      "url": "https://open.spotify.com/track/3AREKkqAoBpFxD5Hm9Ip53"
     },
     {
       "added_at": "2026-06-26 03:00:56",

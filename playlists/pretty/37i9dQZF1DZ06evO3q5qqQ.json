@@ -1,13 +1,29 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118171,
+  "num_followers": 118176,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADsH7kLeoV4y9/cBm35YHJe",
+  "snapshot_id": "amKrAAAAAAC4mEoexZjQyAbCiPo6IXhE",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer & Hoy",
+        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155008,
+      "name": "Ayer & Hoy",
+      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
+    },
     {
       "added_at": null,
       "album": {
@@ -415,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Prohibido (En vivo)",
-      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a (En Vivo)",
         "url": "https://open.spotify.com/album/0bY6JTncnH4stX8lYaIru8"
       },
@@ -459,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo Por Bonita",
         "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
       },
@@ -491,6 +471,42 @@
       "duration_ms": 132711,
       "name": "Solo Por Bonita",
       "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Prohibido (En vivo)",
+      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
     },
     {
       "added_at": null,
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 208890,
-      "name": "Los Mitotes",
-      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+      "duration_ms": 180047,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
     },
     {
       "added_at": null,
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
+      "duration_ms": 208890,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 169318,
       "name": "La Muchacha Del Salado",
       "url": "https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "El 4x1 (En Vivo)",
-      "url": "https://open.spotify.com/track/5gFAmF8NOS3ZHLlVvC26LY"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

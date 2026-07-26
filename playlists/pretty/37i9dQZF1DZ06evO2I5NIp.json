@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACtlEXVI+7zbcljiepTPkai",
+  "snapshot_id": "amKrAAAAAADu6Yv/Dymy/DgkwQNC+2i1",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo"
+      "duration_ms": 243053,
+      "name": "Wine O'Clock",
+      "url": "https://open.spotify.com/track/38sN3PuhutkIeTsbVHcV8V"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 243053,
-      "name": "Wine O'Clock",
-      "url": "https://open.spotify.com/track/38sN3PuhutkIeTsbVHcV8V"
+      "duration_ms": 183857,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Beat Up Guitar",
-      "url": "https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi"
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/79SlwHe953CEa23taTs4lr"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/79SlwHe953CEa23taTs4lr"
+      "duration_ms": 267240,
+      "name": "Beat Up Guitar",
+      "url": "https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
       },
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
     },
     {
       "added_at": null,
@@ -783,6 +783,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Outskirts Of Love",
+      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 190310,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 308093,
       "name": "The Fool You're Looking For",
       "url": "https://open.spotify.com/track/2675ZmDMxL0AtwTNQ1TuCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Outskirts Of Love",
-      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 251397,
+  "num_followers": 251415,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAPB+uo1hIvH5Y84vVffuOI",
+  "snapshot_id": "amKrAAAAAAB41ZTdHnENAhZrAKez+Fpi",
   "tracks": [
     {
       "added_at": null,
@@ -328,21 +328,17 @@
       "added_at": null,
       "album": {
         "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/3DIwOiHhkuDYwpeeAlWpFQ"
+      "duration_ms": 245003,
+      "name": "Hacer volar la casa",
+      "url": "https://open.spotify.com/track/6HyeqJIQTIFM3IihkL0bxR"
     },
     {
       "added_at": null,
@@ -408,9 +404,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 245003,
-      "name": "Hacer volar la casa",
-      "url": "https://open.spotify.com/track/6HyeqJIQTIFM3IihkL0bxR"
+      "duration_ms": 311948,
+      "name": "Bruna",
+      "url": "https://open.spotify.com/track/30i8oNLgKLRlmHiMrdX3iW"
     },
     {
       "added_at": null,

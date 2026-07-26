@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,555 songs - 10 day 4 hr 21 min
+4,556 songs - 10 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2587,6 +2587,7 @@
 | [Morning day super](https://open.spotify.com/track/3Ph3scnAom0bTDZlUtTa2k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:55 | 2025-09-12 |  |
 | [Morning Feeling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0MfSBJIwFOBtMTRb8rjsBk) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Morning Feeling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4URFCPYfk8SRwsWOc3OSyZ) | 4:38 | 2025-06-04 |  |
 | [Morning Grace](https://open.spotify.com/track/5vvwZbxgHbHr78J9LoJwQj) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:38 | 2026-04-29 |  |
+| [Morphine](https://open.spotify.com/track/0aimF5BdTRPvyLMMHB3nI5) | [Joey Godfrey](https://open.spotify.com/artist/5Q87v9OdeOSyhAo2H6OFCc) | [Morphine](https://open.spotify.com/album/2fgTJDXR6qrwNJyqDneRP6) | 2:30 | 2026-07-25 |  |
 | [Morte ai Poveri](https://open.spotify.com/track/08AzEwn7ZCr3zwyy8NrM7b) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/album/1eq3D6TnLGA5ibwbzZU2Jk) | 4:03 | 2025-11-12 |  |
 | [Mos](https://open.spotify.com/track/03NXVg7TdF1PN8zOm99KlY) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 3:59 | 2026-02-01 |  |
 | [mosquito's wing](https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH) | [noha ichou](https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc) | [AREA 52](https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht) | 5:26 | 2025-05-09 |  |

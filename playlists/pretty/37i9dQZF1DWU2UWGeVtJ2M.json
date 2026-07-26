@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 167942,
+  "num_followers": 167937,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "I Don\u2019t Wanna",
+      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Baggy$$",
-        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "I Don\u2019t Wanna",
-      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Londinium",
+        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Londinium",
-        "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/0wjMOhITbtYN2n0WXU0MnJ"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 218627,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
+        "name": "seek",
+        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
       },
       "artists": [
         {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
         }
       ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+      "duration_ms": 170496,
+      "name": "seek",
+      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

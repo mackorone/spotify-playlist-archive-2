@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 65798,
+  "num_followers": 65814,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACXuOZQ6IXfHBQ0yYhZla/z",
+  "snapshot_id": "amKrAAAAAAAAkXX6yG3vwHuRhskfteq6",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 250066,
       "name": "Homesick For Heaven",
       "url": "https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": null,

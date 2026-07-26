@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2122065,
+  "num_followers": 2122180,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACg43DoeQ2Z7i347cXWzqMA",
+  "snapshot_id": "amKrAAAAAABbNXc1YGq9Z784LxkGTU4S",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "For Whom The Bell Tolls - Remastered",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 446145,
       "name": "One",
       "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395706,
-      "name": "Creeping Death - Remastered",
-      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 279173,
       "name": "The Memory Remains",
       "url": "https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395706,
+      "name": "Creeping Death - Remastered",
+      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+        "name": "Metallica (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 284506,
-      "name": "Fight Fire With Fire - Remastered",
-      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
+      "duration_ms": 244533,
+      "name": "Through the Never - Remastered 2021",
+      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 244533,
-      "name": "Through the Never - Remastered 2021",
-      "url": "https://open.spotify.com/track/5pPYLYTIBVJAz7iZRPufqw"
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire - Remastered",
+      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Motorbreath - Remastered",
-      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 385986,
       "name": "Eye of the Beholder",
       "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Motorbreath - Remastered",
+      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
     },
     {
       "added_at": null,

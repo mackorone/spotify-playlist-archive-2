@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 14198,
+  "num_followers": 14200,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABNHOmh4TXIMyphTCUxYh4H",
+  "snapshot_id": "amKrAAAAAAD/vaBMco4I3oyqyG1wDaNh",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes",
-        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -551,6 +535,38 @@
       "duration_ms": 212240,
       "name": "Let It Be You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Melvin & The Blue Notes",
+        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Reaching For The World",
+      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
     },
     {
       "added_at": null,
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 266106,
-      "name": "Reaching For The World",
-      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
+      "duration_ms": 221506,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
     },
     {
       "added_at": null,
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN"
       },
       "artists": [
         {
@@ -668,25 +684,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+      "duration_ms": 225666,
+      "name": "Ain't No Stoppin' Us Now - Rerecorded",
+      "url": "https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN"
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS"
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": null,

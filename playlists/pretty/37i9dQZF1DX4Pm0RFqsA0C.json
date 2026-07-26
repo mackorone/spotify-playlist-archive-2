@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 11001,
+  "num_followers": 11009,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Let's Go To My Star",
-        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
       },
       "artists": [
         {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 212400,
-      "name": "\uc640",
-      "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
+      "duration_ms": 250066,
+      "name": "Couple",
+      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
         }
       ],
-      "duration_ms": 250066,
-      "name": "Couple",
-      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
+      "duration_ms": 212400,
+      "name": "\uc640",
+      "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "All Details",
-        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
       "artists": [
         {
-          "name": "Uhm Jung Hwa",
-          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+          "name": "\ud669\ud61c\uc601",
+          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
         }
       ],
-      "duration_ms": 216224,
-      "name": "The Rose of Betrayal",
-      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
+      "duration_ms": 237029,
+      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
+      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -959,22 +963,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
-        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+        "name": "All Details",
+        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
       },
       "artists": [
         {
-          "name": "\ud669\ud61c\uc601",
-          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
-        },
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
         }
       ],
-      "duration_ms": 237029,
-      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
-      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+      "duration_ms": 216224,
+      "name": "The Rose of Betrayal",
+      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
     },
     {
       "added_at": "2024-04-04 20:06:12",

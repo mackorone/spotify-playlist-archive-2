@@ -1,41 +1,13 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16544,
+  "num_followers": 16545,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAABdYoL/F6janFajqTUkeWh",
+  "snapshot_id": "amKrAAAAAAAlwoxGDS5VHaDbC8LSFz1G",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural Vibration (Hawaiian Version)",
-        "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
-      },
-      "artists": [
-        {
-          "name": "Irie Love",
-          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "Gappy Ranks",
-          "url": "https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Natural Vibration (Hawaiian Version)",
-      "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
-    },
     {
       "added_at": null,
       "album": {
@@ -647,6 +619,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natural Vibration (Hawaiian Version)",
+        "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
+      },
+      "artists": [
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "Gappy Ranks",
+          "url": "https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Natural Vibration (Hawaiian Version)",
+      "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -778,15 +778,11 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -866,11 +862,31 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
     },
     {
       "added_at": null,
@@ -899,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+        "name": "Break Us Apart",
+        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
       },
       "artists": [
         {
@@ -908,9 +924,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 199516,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
+      "duration_ms": 220909,
+      "name": "Break Us Apart",
+      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
     },
     {
       "added_at": null,
@@ -931,22 +947,6 @@
       "duration_ms": 237307,
       "name": "Indigenous Life",
       "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Break Us Apart",
-        "url": "https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Break Us Apart",
-      "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
     },
     {
       "added_at": null,

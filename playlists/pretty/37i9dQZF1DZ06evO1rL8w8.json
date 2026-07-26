@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239611,
+  "num_followers": 239649,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAr4M+DeyCE2KoWL/YKNx+b",
+  "snapshot_id": "amKrAAAAAADd8PSzJFHss5H7b5tPigHH",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Quitaron la Vida a mi Padre",
-        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 162661,
-      "name": "Le Quitaron la Vida a mi Padre",
-      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
     },
     {
       "added_at": null,
@@ -215,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,
@@ -271,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+        "name": "Le Quitaron la Vida a mi Padre",
+        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+      "duration_ms": 162661,
+      "name": "Le Quitaron la Vida a mi Padre",
+      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 159306,
       "name": "100 Balazos Al Blindaje",
       "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,

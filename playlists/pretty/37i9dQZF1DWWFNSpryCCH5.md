@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > puras canciones desenchufadas\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,923 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,859 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 47 | [The Man Who Sold The World \- Live \- MTV Unplugged](https://open.spotify.com/track/5WcCCdW1cMzWpdfBm2RdyL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [The Man Who Sold The World \(Live \- MTV Unplugged\)](https://open.spotify.com/album/4DLEM1qia6R8KEm0VKohoc) | 3:36 |
 | 48 | [Cita En El Quirófano \- MTV Unplugged](https://open.spotify.com/track/7pxQFizSwS8IN39T0dlc2W) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:56 |
 | 49 | [Es Por Ti \- MTV Unplugged](https://open.spotify.com/track/3f5vubhmEGPL8JoVi49hm4) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:55 |
-| 50 | [Mentira \- Unplugged](https://open.spotify.com/track/0ZN94oWGDeX9GCLoYQvcOO) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Mentira \(Unplugged\) \- Video Oficial](https://open.spotify.com/album/0F09OsVhJbYnrK5AaF6O8D) | 4:48 |
+| 50 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 |
 
 Snapshot ID: `AAAAACZdaJ+xgjzfPkdBlx6sPghVaVdn`

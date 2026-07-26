@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28216,
+  "num_followers": 28218,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAARjmcKpGUBxZhpPYQWORwi",
+  "snapshot_id": "amKrAAAAAABGnI02NRQyv4MX930BT4HQ",
   "tracks": [
     {
       "added_at": null,
@@ -891,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "MADGRRL",
+          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
+      "duration_ms": 163479,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
     },
     {
       "added_at": null,
@@ -923,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "MADGRRL",
-          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
         }
       ],
-      "duration_ms": 163479,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP"
+      "duration_ms": 208240,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 277500,
-      "name": "War Forever",
-      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
+      "duration_ms": 219026,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     }
   ],
   "unique_name": "This Is Krewella",

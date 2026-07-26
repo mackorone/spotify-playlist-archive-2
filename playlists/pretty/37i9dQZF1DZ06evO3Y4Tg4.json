@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 273069,
+  "num_followers": 273112,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABh6AhgQrJb8qUx4hmpWRsx",
+  "snapshot_id": "amKrAAAAAADu1r4ytgVsz+omXYqlAg5u",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "how the f*** does everybody else manage?",
+        "url": "https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 166604,
+      "name": "the people that saved me",
+      "url": "https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -675,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "how the f*** does everybody else manage?",
-        "url": "https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV"
+        "name": "The Ends, Never Ends",
+        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
         },
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 166604,
-      "name": "the people that saved me",
-      "url": "https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9"
+      "duration_ms": 238693,
+      "name": "Same Emotions (feat. Dave)",
+      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ends, Never Ends",
-        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Same Emotions (feat. Dave)",
-      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samantha",
         "url": "https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 240160,
       "name": "Disaster (feat. J Hus)",
       "url": "https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crop Circle",
         "url": "https://open.spotify.com/album/4375umzAIqqlWI49eue7Na"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 141146,
       "name": "Venting",
       "url": "https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
     },
     {
       "added_at": null,

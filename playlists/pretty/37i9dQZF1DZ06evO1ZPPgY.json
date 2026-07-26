@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 235677,
+  "num_followers": 235681,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAD+L3rJYourcr0+vwO91ab1",
+  "snapshot_id": "amKrAAAAAADbX2aAxEIDt9fKLwxaELXd",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,

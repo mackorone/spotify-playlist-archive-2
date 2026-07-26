@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 57 min
+127 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Lightning](https://open.spotify.com/track/7wk2mXtIFJWJgUnFZmSq7I) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 5:12 | 2026-04-06 |  |
 | [Like You Do](https://open.spotify.com/track/6D3SReugBjKhaPsJJgg87F) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Megz](https://open.spotify.com/artist/1Cd7wXMk3X4WRiaztPFudG) | [Like You Do](https://open.spotify.com/album/2EvcvtCWyYHChps43j59sR) | 3:28 | 2026-04-06 |  |
 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 | 2026-04-06 |  |
-| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 | 2026-07-25 |
+| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 |  |
 | [Lose Myself](https://open.spotify.com/track/2bZzUbUt8cbt9gbnaRX2p3) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Happy Place](https://open.spotify.com/album/2GF4liPUbApWEsVd4mTlpR) | 3:25 | 2026-04-06 |  |
 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 | 2026-04-06 |  |
 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 | 2026-04-06 |  |
@@ -131,6 +131,7 @@
 | [Wish You Well](https://open.spotify.com/track/68P6gZls9CZDc5LMnjIj1A) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:25 | 2026-04-06 |  |
 | [Without You \(with HAYLA\)](https://open.spotify.com/track/6L9UuUMs32tHkwPufnmZee) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 4:23 | 2026-04-06 |  |
 | [Write Our Names](https://open.spotify.com/track/04L0p8GVp0O2OL8MXMjlsB) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 4:05 | 2026-04-06 |  |
+| [WRONG IMPRESSION](https://open.spotify.com/track/4rmKh6FRRvu8JN7j2RJYDk) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [WRONG IMPRESSION](https://open.spotify.com/album/2zIYuYZq8LxGEC2EkQqNWw) | 3:06 | 2026-07-25 |  |
 | [You Got Something](https://open.spotify.com/track/4K1atQYqkLTKgDIizEqSr1) | [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [\#Clubvibes](https://open.spotify.com/album/3Io7HqKhxzrSIIdXA9bGhX) | 3:03 | 2026-04-06 |  |
 | [Young Forever \- Radio Edit](https://open.spotify.com/track/2CW1akegXfl5zPtSI6lEDr) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Young Forever](https://open.spotify.com/album/0pdcUSc8IfilHXsY3U8EZz) | 3:42 | 2026-04-06 |  |
 | [Zizizaza](https://open.spotify.com/track/1tDTI35JPinbaP8lDXVkqm) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Megz](https://open.spotify.com/artist/6NIFwM18v2JV3Rf1HAjjRW) | [PYRAMIDE \(Version deluxe\)](https://open.spotify.com/album/6H9a8HgSJRhbDjrTcgcSSn) | 2:50 | 2026-04-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303650,
+  "num_followers": 303675,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAB5TALeLk3H73kgOr15Yhga",
+  "snapshot_id": "amKrAAAAAABVxQMVB7diFGA9+vJDwmKZ",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "You Keep On Moving - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head - 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/3XXboc1gvm976jCATDdunA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 378106,
       "name": "Smoke On the Water - 1997 Remix",
       "url": "https://open.spotify.com/track/2nILGstCPTvCM0RMeVa4Wu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "You Keep On Moving - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
     },
     {
       "added_at": null,

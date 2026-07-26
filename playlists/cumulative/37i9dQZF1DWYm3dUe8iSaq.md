@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-438 songs - 1 day 1 hr 57 min
+440 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Gloria](https://open.spotify.com/track/0zKdnh2MYbxhFpqZi2VprC) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 3:38 | 2025-11-21 |  |
 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 | 2024-10-06 |  |
 | [Glued](https://open.spotify.com/track/78qClqEjmVk8pn6hdiy32z) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Glued](https://open.spotify.com/album/1oxco2A76wN3FMT98QBbUS) | 3:16 | 2023-06-30 | 2024-03-07 |
+| [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 | 2026-07-23 |  |
 | [Gone](https://open.spotify.com/track/3LN4IPqwKfNaZh6eyc1arz) | [Jacob Cook](https://open.spotify.com/artist/5xLTivLR2tV4I9PX1n554k), [The Patch](https://open.spotify.com/artist/5xVEUK25VQi7wj4RQyFgqQ) | [Gone](https://open.spotify.com/album/3UzTNYbKZTzQgA3i0hqVUM) | 3:53 | 2023-05-19 | 2024-06-02 |
 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 | 2026-05-21 |  |
 | [grown](https://open.spotify.com/track/2N9TOirEXxxGhdDhpCvu76) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [grown](https://open.spotify.com/album/4IwhQvYD4sVDi06aYsYwkF) | 2:29 | 2026-01-30 | 2026-06-17 |
@@ -211,7 +212,7 @@
 | [Jacob](https://open.spotify.com/track/26qFewy8bvThU3YwLl4Gus) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:14 | 2023-08-11 | 2023-11-18 |
 | [James](https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [James](https://open.spotify.com/album/6HdqpAopizBzDcJXYw3I5v) | 3:10 | 2025-06-06 | 2025-08-29 |
 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 | 2023-11-17 | 2026-07-24 |
-| [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 | 2025-09-11 |  |
+| [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 | 2025-09-11 | 2026-07-26 |
 | [Karaoke Friday](https://open.spotify.com/track/1TXiuhwr1Ymqc08OFIC7NC) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Karaoke Friday](https://open.spotify.com/album/3MPoYDKXUpsqSujiKo8vgt) | 3:54 | 2026-02-27 | 2026-04-15 |
 | [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-10-06 | 2024-11-28 |
 | [Knock on a Hollow \- Alternative Version](https://open.spotify.com/track/7ylKBPnAcazcOBnBebVZgC) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Knock on a Hollow \(Alternative Version\)](https://open.spotify.com/album/61JuggFrlqJyrzg3m7wl5O) | 3:31 | 2022-04-08 | 2022-05-21 |
@@ -240,6 +241,7 @@
 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-26 | 2026-01-18 |
 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 | 2025-06-06 | 2026-02-27 |
 | [martingale](https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [martingale](https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9) | 4:17 | 2024-10-06 | 2025-08-13 |
+| [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 | 2026-07-23 |  |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-04-08 | 2023-08-12 |
 | [Message in a Bottle](https://open.spotify.com/track/5SwS67MTpN1WHX3GpaLe90) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Message in a Bottle](https://open.spotify.com/album/0L8bZJvJbaVCDw0WOMC8UY) | 4:00 | 2024-06-07 | 2024-10-07 |
 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 | 2022-04-08 | 2024-07-20 |
@@ -377,7 +379,7 @@
 | [the sum of the in\-between](https://open.spotify.com/track/3Slg6cDLMENij8JZ50F9SL) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 4:16 | 2022-07-01 | 2023-04-09 |
 | [the sum of the in\-between](https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/0dl6QSoT2Dxd14qHJF1dvS) | 4:16 | 2022-04-08 | 2022-07-29 |
 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 | 2026-06-16 |  |
-| [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 | 2025-06-06 |  |
+| [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 | 2025-06-06 | 2026-07-26 |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-19 |  |
 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 | 2026-05-21 |  |
 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 | 2024-02-09 | 2024-04-19 |

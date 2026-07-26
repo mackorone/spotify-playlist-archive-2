@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 611895,
+  "num_followers": 611845,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Hyper Romance",
@@ -233,22 +249,6 @@
       "url": "https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Life After",
-        "url": "https://open.spotify.com/album/2gnr57XaEBXSDlfbkowBP8"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 437577,
-      "name": "Heaven Up There",
-      "url": "https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM"
-    },
-    {
       "added_at": "2026-07-23 17:10:49",
       "album": {
         "name": "Whale Call",
@@ -263,6 +263,22 @@
       "duration_ms": 259503,
       "name": "Whale Call",
       "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Life After",
+        "url": "https://open.spotify.com/album/2gnr57XaEBXSDlfbkowBP8"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 437577,
+      "name": "Heaven Up There",
+      "url": "https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "All I Need To Hear",
         "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Someone To Stay (Acoustic)",
         "url": "https://open.spotify.com/album/4b9XvODq3fQ6xGTlmUpwQm"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 155000,
       "name": "Gospel Oak",
       "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
-    },
-    {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-07-23 17:10:49",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2024-08-29 19:59:48",
-      "album": {
-        "name": "Brooklyn Baby - Spotify Singles",
-        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 345600,
-      "name": "Brooklyn Baby - Spotify Singles",
-      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
-    },
-    {
       "added_at": "2026-07-23 17:10:49",
       "album": {
         "name": "swallowtail",
@@ -655,6 +639,22 @@
       "duration_ms": 166760,
       "name": "locket",
       "url": "https://open.spotify.com/track/3DXAC5bKciAE2hhGXX4GMc"
+    },
+    {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
     },
     {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "LOVE IS THE LAW",
+        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
+    },
+    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Moon Music",
@@ -927,6 +943,22 @@
       "duration_ms": 174972,
       "name": "Ain't It Easy",
       "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 328931,
-      "name": "Son",
-      "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 141940,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 328931,
+      "name": "Son",
+      "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1173,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
-      "added_at": "2025-02-28 15:54:30",
-      "album": {
-        "name": "Dumb Feeling",
-        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "Dumb Feeling",
-      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "In My Head",
@@ -1203,6 +1219,22 @@
       "duration_ms": 212625,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
+    },
+    {
+      "added_at": "2025-02-28 15:54:30",
+      "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1303,6 +1335,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Friends That Break Your Heart",
+        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 153238,
+      "name": "Foot Forward",
+      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -1331,22 +1379,6 @@
       "duration_ms": 162000,
       "name": "Wide Eyed",
       "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Friends That Break Your Heart",
-        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 153238,
-      "name": "Foot Forward",
-      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1623,38 +1655,6 @@
       "duration_ms": 236359,
       "name": "Mechanical Bull",
       "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
-    },
-    {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "feeling right by me",
-        "url": "https://open.spotify.com/album/3gvsyWq7Hf2NvKfVPOMNEt"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 222979,
-      "name": "feeling right by me",
-      "url": "https://open.spotify.com/track/6inEJlLxYLNmZbMobzAM7V"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     }
   ],
   "unique_name": "Gentle",

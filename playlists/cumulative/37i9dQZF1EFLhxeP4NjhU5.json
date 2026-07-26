@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 267950,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/3MurCbg19jNpV3QVaMwxuS"
@@ -4254,6 +4254,36 @@
       "duration_ms": 240860,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/0yYuQGascmjYFJLqI43UbG"
+    },
+    {
+      "album": {
+        "name": "Where Is The Wish",
+        "url": "https://open.spotify.com/album/3A6yM7o6SxWGWCO6gOsjnf"
+      },
+      "artists": [
+        {
+          "name": "vetlyx",
+          "url": "https://open.spotify.com/artist/6QrOzkgVIlUzGsF4yJzcvx"
+        },
+        {
+          "name": "rollies",
+          "url": "https://open.spotify.com/artist/2iiOOFfSgRC3glODSnpmIO"
+        },
+        {
+          "name": "Gizanar",
+          "url": "https://open.spotify.com/artist/7nONOT1bINbJPM0G3W91GX"
+        },
+        {
+          "name": "Tuszana",
+          "url": "https://open.spotify.com/artist/1K4Oh4kDV0V3dykTikXOYQ"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241020,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/30CiHSQbiGq4yD8S7NM5mi"
     },
     {
       "album": {

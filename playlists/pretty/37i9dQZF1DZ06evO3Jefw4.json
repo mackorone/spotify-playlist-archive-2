@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1221361,
+  "num_followers": 1221431,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACQaIaQxPaX13ApfOCPDg6i",
+  "snapshot_id": "amKrAAAAAACcACKXQ7PKNh8h5mfx7uxC",
   "tracks": [
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
+        "name": "The One That Got Away (feat. B.o.B)",
+        "url": "https://open.spotify.com/album/0hnaydjZUbzKPn4orAxzCL"
       },
       "artists": [
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         }
       ],
-      "duration_ms": 161962,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
+      "duration_ms": 262000,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/0YdcjSwXRXuGOkIW5sjJWE"
     },
     {
       "added_at": null,
@@ -871,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The One That Got Away (feat. B.o.B)",
-        "url": "https://open.spotify.com/album/0hnaydjZUbzKPn4orAxzCL"
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
       },
       "artists": [
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         }
       ],
-      "duration_ms": 262000,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/0YdcjSwXRXuGOkIW5sjJWE"
+      "duration_ms": 161962,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
     }
   ],
   "unique_name": "This Is Katy Perry",

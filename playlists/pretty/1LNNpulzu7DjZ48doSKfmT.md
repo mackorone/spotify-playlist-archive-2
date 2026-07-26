@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 469 likes - 254 songs - 13 hr 9 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 470 likes - 262 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,5 +262,13 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 252 | [Signed a Deal](https://open.spotify.com/track/2p0C7jHEmRT5oHyoqysm6A) | [BigDeuceFOF](https://open.spotify.com/artist/4BYXicIDugefWiCh5vzmiL) | [Signed a Deal](https://open.spotify.com/album/10I41VKHlXeXvo5OgJiBnY) | 1:33 |
 | 253 | [A Luz Do Luar](https://open.spotify.com/track/10WPN7B7VCLghDLNps9FJa) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [A Luz Do Luar](https://open.spotify.com/album/6u0bzUyQsA4chEgUQYQSjo) | 2:48 |
 | 254 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 |
+| 255 | [Shot Shot](https://open.spotify.com/track/4Mf3nj8FZSMIhSDxrOMAef) | [Danny Emdy](https://open.spotify.com/artist/3wYFs39IPAoIkuAaXISphc) | [El Paraíso](https://open.spotify.com/album/2lCh9MsuoP4Z8Yn6la1Uuq) | 3:02 |
+| 256 | [Cruisin in my ride](https://open.spotify.com/track/6GIyGSwCklaFhvgTApJRPO) | [The Austronartist](https://open.spotify.com/artist/2YVU5Lv7j4NrCqa9Una7xi) | [Cruisin in my ride](https://open.spotify.com/album/7Axhoez83X72HyojSbPOHU) | 2:11 |
+| 257 | [911](https://open.spotify.com/track/1Gieaf6O52yen8dye4sw7y) | [KKraze](https://open.spotify.com/artist/690LwUplW1SoVT3lvWSKmS), [Pika Boo](https://open.spotify.com/artist/0MrK0TYJKOyLSS0DJWsGlx) | [Better Than Before \(B.T.B\)](https://open.spotify.com/album/0NXdiK4TPLtqSGoIHmiJ7N) | 3:39 |
+| 258 | [Francis](https://open.spotify.com/track/3BgpaU8WboGe1Xlf9n51DM) | [Prai star](https://open.spotify.com/artist/3dPY7nra2sw8fbuF6ODK58) | [Francis](https://open.spotify.com/album/5voBcYBAaSpQcvowy9EjGK) | 4:16 |
+| 259 | [ti giuro](https://open.spotify.com/track/7FEZFJPCYmgZOh3tFCEtCE) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [ti giuro](https://open.spotify.com/album/3xZFYJLVVsP308UGQmWC5j) | 3:25 |
+| 260 | [Afterglow](https://open.spotify.com/track/6joZMaA0jgErUZYz4XATrs) | [Thyna](https://open.spotify.com/artist/6oI2fuOQd9B1Zd6RRhXGSs) | [Afterglow](https://open.spotify.com/album/4lGr5BV37Uhmt51OQqCdsV) | 4:01 |
+| 261 | [God & Man](https://open.spotify.com/track/5L4om6Aajeqw1osUWnh2OR) | [EMCKON](https://open.spotify.com/artist/2izdUHqabTlKjf3AnMuFNU) | [God & Man](https://open.spotify.com/album/4TjaWcZCZP4nHXf7jPf5hc) | 2:52 |
+| 262 | [GARDEN PARADISE \- Prod\. Marc Qzh](https://open.spotify.com/track/03LNDRC1VcAA7CofqOnisU) | [KING BALAM](https://open.spotify.com/artist/0QEjQD5QCqqLQmc77TdsHI), [Mc Foyeck](https://open.spotify.com/artist/1AdHO4SiLUjmczfkAgGCSI) | [GARDEN PARADISE \(Prod\. Marc Qzh\)](https://open.spotify.com/album/0YPcmdHiExeKyqq6ZfIElh) | 2:01 |
 
-Snapshot ID: `AAAeF3sEJOxeSupDYPi18QonHOJnxJw3`
+Snapshot ID: `AAAeHy4eDVzFUgzUfVMyxy9GY1Dx1S36`

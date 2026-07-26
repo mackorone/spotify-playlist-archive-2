@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 560642,
+  "num_followers": 560648,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Citrona",
-        "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 261734,
-      "name": "August",
-      "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3guGAtyo4OMdTZzOshIugb"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Citrona",
+        "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 261734,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "What A Relief",
-        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182110,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "The First Train Home",
         "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Heaven in the Right Light",
-        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 220955,
-      "name": "Heaven in the Right Light",
-      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1483,6 +1467,22 @@
       "duration_ms": 248000,
       "name": "Sleeping Sickness",
       "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Heaven in the Right Light",
+        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 220955,
+      "name": "Heaven in the Right Light",
+      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
     },
     {
       "added_at": "2025-09-23 14:16:54",

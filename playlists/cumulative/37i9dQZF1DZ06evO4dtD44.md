@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 17 min
+79 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 | 2025-12-20 | 2026-03-03 |
 | [Bim Bom](https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:17 | 2026-03-03 |  |
 | [Bim Bom](https://open.spotify.com/track/5H6vJoSdA1cru4kEhj1LWU) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 1:17 | 2025-07-20 | 2025-12-20 |
-| [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 | 2025-07-20 |  |
+| [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Summer Samba](https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc) | 2:09 | 2026-07-26 |  |
+| [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 | 2025-07-20 | 2026-07-26 |
 | [Brigas, Nunca Mais \- Ultimate Mix](https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 2:06 | 2026-07-03 |  |
 | [Chega de Saudade](https://open.spotify.com/track/6LCwCVq2PeDxNDf4yWaCv8) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 2:03 | 2025-07-20 | 2025-11-03 |
 | [Chega De Saudade \- Ultimate Mix](https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 2:03 | 2025-11-03 |  |

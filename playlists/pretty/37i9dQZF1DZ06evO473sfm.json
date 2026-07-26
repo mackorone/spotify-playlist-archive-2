@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 606217,
+  "num_followers": 606476,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABlM4M3yQFoiI2V7ysf1D2x",
+  "snapshot_id": "amKrAAAAAACViZrYOGZ0o5vGQehFHsxe",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Del Proceso",
-        "url": "https://open.spotify.com/album/1obGpTRjbhEqdlSL9tuXXq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 184050,
-      "name": "La Del Proceso",
-      "url": "https://open.spotify.com/track/3k1jhDqp4mVIVEoZg0bQED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Del Proceso",
+        "url": "https://open.spotify.com/album/1obGpTRjbhEqdlSL9tuXXq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/3k1jhDqp4mVIVEoZg0bQED"
     },
     {
       "added_at": null,

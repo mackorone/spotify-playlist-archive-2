@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 614082,
+  "num_followers": 614156,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "As Cores, as Curvas e as Dores do Mundo",
-        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 163185,
-      "name": "A Cidade",
-      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 189002,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
       "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "As Cores, as Curvas e as Dores do Mundo",
+        "url": "https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 163185,
+      "name": "A Cidade",
+      "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Te Fa\u00e7o um Cafun\u00e9",
+        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "duration_ms": 227604,
+      "name": "Te Fa\u00e7o um Cafun\u00e9",
+      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
-      },
-      "artists": [
-        {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dia Clarear",
-      "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 218604,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+      },
+      "artists": [
+        {
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dia Clarear",
+      "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "OutroEu",
-        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        }
-      ],
-      "duration_ms": 258720,
-      "name": "Ai de Mim",
-      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
         "name": "Ser\u00e1 Que \u00c9 Amor?",
         "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 234734,
       "name": "Ser\u00e1 Que \u00c9 Amor?",
       "url": "https://open.spotify.com/track/28PEXv20R3MetQYRdnMsSg"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
+        "name": "OutroEu",
+        "url": "https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "duration_ms": 258720,
+      "name": "Ai de Mim",
+      "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+        "name": "LAGUM AO VIVO",
+        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+      "duration_ms": 158295,
+      "name": "Outro Algu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1711,22 +1727,6 @@
       "duration_ms": 236495,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "LAGUM AO VIVO",
-        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "Outro Algu\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
     },
     {
       "added_at": "2026-06-19 03:00:16",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-06-19 03:00:16",
       "album": {
+        "name": "Nana, Tom, Vinicius",
+        "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
+      },
+      "artists": [
+        {
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Se Todos Fossem Iguais a Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
+    },
+    {
+      "added_at": "2026-06-19 03:00:16",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2026-06-19 03:00:16",
-      "album": {
-        "name": "Nana, Tom, Vinicius",
-        "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
-      },
-      "artists": [
-        {
-          "name": "Nana Caymmi",
-          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Se Todos Fossem Iguais a Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
     },
     {
       "added_at": "2026-06-19 03:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,426 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,422 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 58 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
 | 59 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 60 | [Sway \(with Pérez Prado y Su Orquesta\)](https://open.spotify.com/track/3WI631zHHQ5PuSMkywWHGT) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Entertaining Made Simple: Mojitos, Mariscos, and Mambo](https://open.spotify.com/album/5DiYz0awS3yRmk7e0K2KTG) | 2:38 |
-| 61 | [On ne change pas](https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 4:08 |
+| 61 | [On ne change pas](https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il suffisait d'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 4:08 |
 | 62 | [Meaning \- Choral Version](https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [The Human Octopus](https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0) | 2:57 |
 
 Snapshot ID: `AAAAAMpYGjUIWhPkSAsX6MzX9uHGVKBy`

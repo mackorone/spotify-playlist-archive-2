@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Tyla
 
-635 songs - 1 day 8 hr 48 min
+637 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2026-04-24 |
 | [ALT ELLER INGENTING \(feat\. Pikekyss\)](https://open.spotify.com/track/3gKOXVS2CZLIhEiVjuGHG2) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP), [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Pikekyss](https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho) | [ALT ELLER INGENTING \(feat\. Pikekyss\)](https://open.spotify.com/album/5XsiPai04xJrOwHKuU5gjy) | 2:13 | 2026-05-28 | 2026-06-12 |
 | [Alt til sin tid](https://open.spotify.com/track/6KXuQnp9OlSbxGqXccex47) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Alt til sin tid](https://open.spotify.com/album/5cA6qcqSAJJqyNOcZHuwb0) | 2:07 | 2025-08-14 | 2025-08-29 |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-24 |  |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-06-08 |
@@ -177,7 +178,7 @@
 | [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 | 2025-07-11 |
 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 | 2026-04-17 |  |
 | [Flere liv](https://open.spotify.com/track/3obSPly7GLEOJXBEZ08JBU) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Flere liv](https://open.spotify.com/album/4Yt9v8JhhSnnfvsKisgso0) | 2:59 | 2026-05-28 | 2026-06-12 |
-| [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 | 2026-04-17 |  |
+| [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 | 2026-04-17 | 2026-07-26 |
 | [FOR ALLTID TYPE TING](https://open.spotify.com/track/7lND8FyhsdYdxhOQVqFKoI) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [FOR ALLTID TYPE TING](https://open.spotify.com/album/0NxUxUgRsfAUUY0Ev27UUm) | 2:51 | 2026-05-07 | 2026-05-29 |
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-08 | 2024-11-09 |
 | [For evig og for alltid \(feat\. Amara\)](https://open.spotify.com/track/3slr3h3mV4aXcoDq85jRO1) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [For evig og for alltid \(feat\. Amara\)](https://open.spotify.com/album/76P8YWR2wCIhQ7U1lv1Opg) | 2:41 | 2026-06-05 | 2026-07-25 |
@@ -331,6 +332,7 @@
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-02-14 |
 | [Late Night Love](https://open.spotify.com/track/0QPRsrijnPglHJVEY6j3Xg) | [Emilia Ora](https://open.spotify.com/artist/6Mb37F5HQOpUlpWeAgA5uC) | [Late Night Love](https://open.spotify.com/album/54c6eyzQGcbOzJruK9Yfej) | 3:38 | 2026-03-12 | 2026-04-03 |
 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 | 2025-02-20 | 2025-03-06 |
+| [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-24 |  |
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-23 | 2026-04-24 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 | 2026-01-15 |
 | [Life Or Death](https://open.spotify.com/track/1Z6GBZOuKQIVGpb5An51Up) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Life Or Death](https://open.spotify.com/album/6vEjNyuLahcJWnPgsyz4g6) | 3:09 | 2025-05-22 | 2025-09-12 |
@@ -452,7 +454,7 @@
 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 | 2026-05-05 | 2026-05-22 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-01 | 2026-01-02 |
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-04-30 |  |
-| [Questions](https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:07 | 2026-05-21 |  |
+| [Questions](https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:07 | 2026-05-21 | 2026-07-26 |
 | [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-12-18 | 2026-02-06 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-06-27 | 2024-11-02 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2025-01-25 |

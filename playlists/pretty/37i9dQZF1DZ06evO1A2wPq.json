@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22055,
+  "num_followers": 22059,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAD6F7lxGU22oY7pgpjv7xtB",
+  "snapshot_id": "amKrAAAAAADP+Y+LOTcjt8/MaMYAk8Pf",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 182257,
       "name": "risk it all",
       "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
     },
     {
       "added_at": null,
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 238950,
-      "name": "'til u cry",
-      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
     },
     {
       "added_at": null,
@@ -166,15 +150,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 191032,
-      "name": "all fours (feat. DESTIN CONRAD)",
-      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
+      "duration_ms": 238950,
+      "name": "'til u cry",
+      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
     },
     {
       "added_at": null,
@@ -242,11 +222,15 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 326341,
-      "name": "rather never love again",
-      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
+      "duration_ms": 191032,
+      "name": "all fours (feat. DESTIN CONRAD)",
+      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
     },
     {
       "added_at": null,
@@ -306,15 +290,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 150447,
-      "name": "'til the room stinks (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
+      "duration_ms": 326341,
+      "name": "rather never love again",
+      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
     },
     {
       "added_at": null,
@@ -339,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wn way or another",
-        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 130932,
-      "name": "wn way or another",
-      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -375,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "wn way or another",
+        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
       },
       "artists": [
         {
@@ -384,9 +348,29 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 237618,
-      "name": "heaven's in your hands",
-      "url": "https://open.spotify.com/track/5VDi2Kj3krfXYqhliDXhEG"
+      "duration_ms": 130932,
+      "name": "wn way or another",
+      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "'til the room stinks (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
     },
     {
       "added_at": null,

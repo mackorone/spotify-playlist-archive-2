@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "album": {
         "name": "Darling I Do",
         "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "album": {
+        "name": "LOVE IS THE LAW",
+        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205497,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
     },
     {
       "album": {
@@ -484,7 +520,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 222979,
       "name": "feeling right by me",
       "url": "https://open.spotify.com/track/6inEJlLxYLNmZbMobzAM7V"
@@ -1498,7 +1534,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"

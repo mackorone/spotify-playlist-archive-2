@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,220 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,312 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Kolo Kolo](https://open.spotify.com/track/7AfXxreayzJaxxXAADKZkW) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Kolo Kolo](https://open.spotify.com/album/1aakaROZQUBca5tPJUAyXl) | 2:18 |
 | 40 | [L'ARGENT PROPRE](https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [DONI DONI](https://open.spotify.com/album/15Q3TClLlr3rurOsOAOksr) | 3:56 |
 
-Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`
+Snapshot ID: `AAAAAEwTFpa/lRR08A5bI0psnjfYk0M2`

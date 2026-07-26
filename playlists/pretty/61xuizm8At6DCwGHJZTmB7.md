@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,258 likes - 174 songs - 15 hr 58 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,245 likes - 174 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 7 | [Yahweh](https://open.spotify.com/track/3P3BpjuFi9R9wCg1cUoaUl) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Happy To Be Here](https://open.spotify.com/album/548SBeYbBBay8CuJSGgbfu) | 5:17 |
 | 8 | [Blessed Assurance \(I Will Praise You\)](https://open.spotify.com/track/0NUeirXItOmsaEetXfWU5t) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Mara Justine](https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw) | [Blessed Assurance \(I Will Praise You\)](https://open.spotify.com/album/0ihoBcuioyoGx6ZMdrLtss) | 2:59 |
 | 9 | [Just That Good](https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:18 |
-| 10 | [What A Miracle Feels Like](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
+| 10 | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A Miracle Feels Like \(with Naomi Raine\)](https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L) | 9:54 |
 | 11 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 12 | [This One Refrain](https://open.spotify.com/track/1DXxWdjoL08sA8IUQbGusb) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [This One Refrain \(Acoustic\)](https://open.spotify.com/album/4Lsag5qh6Y241LsHSur2Me) | 4:24 |
 | 13 | [No One Like The Lord](https://open.spotify.com/track/63PS63EkeqYJMTN7AFh65j) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Lily Hooten](https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim) | [House Church Vol\. 001](https://open.spotify.com/album/2wsjghItFIaMTy5mR0LfvJ) | 5:30 |

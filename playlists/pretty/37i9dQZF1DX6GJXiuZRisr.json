@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1616778,
+  "num_followers": 1616824,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
         "name": "After You (feat. FAANGS)",
         "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+        }
+      ],
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     },
     {
       "added_at": "2026-07-24 04:01:13",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
     },
     {
       "added_at": "2026-07-24 04:01:13",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
         "name": "Lost In The Crowd",
         "url": "https://open.spotify.com/album/6Xv6Rr5LkEMFVc6SEqzaou"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 153984,
       "name": "Lost In The Crowd",
       "url": "https://open.spotify.com/track/1lAtNae7Qg91eS3dsFE9Uz"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        }
-      ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
     },
     {
       "added_at": "2026-07-24 04:01:13",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
         "name": "Sirius",
         "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 168904,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
     },
     {
       "added_at": "2026-07-24 04:01:13",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1891,6 +1871,26 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
       },
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
-        "name": "God In You",
-        "url": "https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
-        }
-      ],
-      "duration_ms": 337734,
-      "name": "God In You",
-      "url": "https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA"
-    },
-    {
-      "added_at": "2026-07-24 04:01:13",
-      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 217523,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
+    },
+    {
+      "added_at": "2026-07-24 04:01:13",
+      "album": {
+        "name": "God In You",
+        "url": "https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+        }
+      ],
+      "duration_ms": 337734,
+      "name": "God In You",
+      "url": "https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA"
     },
     {
       "added_at": "2026-07-24 04:01:13",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2026-07-24 04:01:13",
       "album": {
-        "name": "Enjoy the Silence",
-        "url": "https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs"
+        "name": "It's All On You",
+        "url": "https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe"
       },
       "artists": [
         {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
         },
         {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 209508,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e"
+      "duration_ms": 223761,
+      "name": "It\u2019s All On You",
+      "url": "https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg"
     }
   ],
   "unique_name": "Night Rider",

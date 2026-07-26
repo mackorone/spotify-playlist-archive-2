@@ -15590,7 +15590,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 156500,
       "name": "King Cobra",
       "url": "https://open.spotify.com/track/0CDMKOeVYyWx4pYGNIahMk"
@@ -22756,6 +22756,24 @@
       "duration_ms": 212250,
       "name": "Realign",
       "url": "https://open.spotify.com/track/573HpBnNj6bFZ4YsH8F3TF"
+    },
+    {
+      "album": {
+        "name": "REALLY REALLY RAD",
+        "url": "https://open.spotify.com/album/0JeCy3iY1ZSf1215kW824R"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "REALLY REALLY RAD",
+      "url": "https://open.spotify.com/track/6lgT6kDLUpiCVReXcypnWM"
     },
     {
       "album": {

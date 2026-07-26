@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: FLO",
-  "num_followers": 4395,
+  "num_followers": 4405,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
-      "added_at": "2025-09-06 03:04:45",
-      "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 201119,
-      "name": "ALL THE WAY",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Alter Ego",
@@ -1899,6 +1883,22 @@
       "duration_ms": 172846,
       "name": "When I'm With You (feat. Tyla)",
       "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
+    },
+    {
+      "added_at": "2025-09-06 03:04:45",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 201119,
+      "name": "ALL THE WAY",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e"
     },
     {
       "added_at": "2026-02-06 08:23:32",
@@ -2021,6 +2021,26 @@
       "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Can't Explain It (with Girlfriend)",
+        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
+      },
+      "artists": [
+        {
+          "name": "Jermain Reese Jr.",
+          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
+        },
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Can't Explain It (with Girlfriend)",
+      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
+    },
+    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "Whatever's Clever!",
@@ -2041,24 +2061,56 @@
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Can't Explain It (with Girlfriend)",
-        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Jermain Reese Jr.",
-          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
-        },
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Can't Explain It (with Girlfriend)",
-      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2025-11-07 06:39:38",
+      "album": {
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2026-05-08 05:33:09",
+      "album": {
+        "name": "Ashin' the Blunt (with Young Thug)",
+        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
       "added_at": "2026-06-12 06:16:48",
@@ -2083,54 +2135,18 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 155563,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
-    },
-    {
-      "added_at": "2026-05-08 05:33:09",
-      "album": {
-        "name": "Ashin' the Blunt (with Young Thug)",
-        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Ashin' the Blunt (with Young Thug)",
-      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
-    },
-    {
-      "added_at": "2025-11-07 06:39:38",
-      "album": {
-        "name": "Out The Window",
-        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2026-02-20 18:30:52",
@@ -2151,22 +2167,6 @@
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2026-03-13 07:57:42",
@@ -2533,6 +2533,22 @@
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
+      "added_at": "2026-06-12 06:16:48",
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
+    },
+    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "Gas Station Love (remix)",
@@ -2551,22 +2567,6 @@
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
-    },
-    {
-      "added_at": "2026-06-12 06:16:48",
-      "album": {
-        "name": "FIRE BURNIN' THRU THE RAIN",
-        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "FIRE BURNIN' THRU THE RAIN",
-      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "added_at": "2026-02-01 02:45:05",
@@ -2629,22 +2629,6 @@
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
-      "added_at": "2026-05-08 05:33:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Loosies",
@@ -2659,6 +2643,22 @@
       "duration_ms": 136260,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
+    },
+    {
+      "added_at": "2026-05-08 05:33:09",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "added_at": "2025-10-03 04:48:40",
@@ -2705,20 +2705,20 @@
       "url": "https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie"
     },
     {
-      "added_at": "2026-03-27 06:15:19",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Up Out & Gone",
-        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Up Out & Gone",
-      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
     }
   ],
   "unique_name": "Channel-X",

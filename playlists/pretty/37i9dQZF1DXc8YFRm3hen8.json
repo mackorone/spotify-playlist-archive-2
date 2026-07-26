@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 Tomi Lago",
-  "num_followers": 195195,
+  "num_followers": 195211,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-07-24 19:41:14",
       "album": {
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 354746,
+      "name": "Ala Delta",
+      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
+    },
+    {
+      "added_at": "2026-07-24 19:41:14",
+      "album": {
         "name": "Nada Es Tarde",
         "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 295373,
       "name": "Fue Tan Bueno",
       "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
-    },
-    {
-      "added_at": "2026-07-24 19:41:14",
-      "album": {
-        "name": "Acariciando Lo Aspero",
-        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 354746,
-      "name": "Ala Delta",
-      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
     },
     {
       "added_at": "2026-07-24 19:41:14",

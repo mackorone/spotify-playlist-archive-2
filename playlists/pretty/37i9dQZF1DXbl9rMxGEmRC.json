@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks only. Cover: Witch Club Satan",
-  "num_followers": 463286,
+  "num_followers": 463268,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Circadian Promise",
-        "url": "https://open.spotify.com/album/3d4ZkH27U7QMrbzCqUcmeZ"
-      },
-      "artists": [
-        {
-          "name": "Fires in the Distance",
-          "url": "https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw"
-        }
-      ],
-      "duration_ms": 567637,
-      "name": "Of Radiance and Levitation",
-      "url": "https://open.spotify.com/track/5RIdBF2KrycV9DpYrbzpRt"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "DREAMCRUSH",
         "url": "https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 227346,
       "name": "Garland",
       "url": "https://open.spotify.com/track/1gebDSJQE2LV3DubLpg8KS"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Circadian Promise",
+        "url": "https://open.spotify.com/album/3d4ZkH27U7QMrbzCqUcmeZ"
+      },
+      "artists": [
+        {
+          "name": "Fires in the Distance",
+          "url": "https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw"
+        }
+      ],
+      "duration_ms": 567637,
+      "name": "Of Radiance and Levitation",
+      "url": "https://open.spotify.com/track/5RIdBF2KrycV9DpYrbzpRt"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Monolitt",
-        "url": "https://open.spotify.com/album/7IIXQwU0hxL4qkh82Vd8dW"
-      },
-      "artists": [
-        {
-          "name": "Mork",
-          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
-        }
-      ],
-      "duration_ms": 354513,
-      "name": "Under Vekten Av Verden",
-      "url": "https://open.spotify.com/track/34wRkh4XQdtlXFIQFF1v5R"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Amphibians",
         "url": "https://open.spotify.com/album/1w0yh993AM5YKhc6IyOk9D"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 260853,
       "name": "Amphibians",
       "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Monolitt",
+        "url": "https://open.spotify.com/album/7IIXQwU0hxL4qkh82Vd8dW"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "duration_ms": 354513,
+      "name": "Under Vekten Av Verden",
+      "url": "https://open.spotify.com/track/34wRkh4XQdtlXFIQFF1v5R"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
+        "name": "Cruel Face Of War",
+        "url": "https://open.spotify.com/album/29bmSJgxkO0WtgPQIuSRf5"
+      },
+      "artists": [
+        {
+          "name": "Jungle Rot",
+          "url": "https://open.spotify.com/artist/2kIYZ2eHRnAbaPYE860qNx"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Apocalyptic Dawn",
+      "url": "https://open.spotify.com/track/6ra0kJwQYrgLMKMGDaOWAm"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
         "name": "Necropalace",
         "url": "https://open.spotify.com/album/4zI7O4eE92cRjGLwXc3Y1c"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Cruel Face Of War",
-        "url": "https://open.spotify.com/album/29bmSJgxkO0WtgPQIuSRf5"
+        "name": "Slave Machine",
+        "url": "https://open.spotify.com/album/7qcPn8Xol83gBeBD2U3Td4"
       },
       "artists": [
         {
-          "name": "Jungle Rot",
-          "url": "https://open.spotify.com/artist/2kIYZ2eHRnAbaPYE860qNx"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Apocalyptic Dawn",
-      "url": "https://open.spotify.com/track/6ra0kJwQYrgLMKMGDaOWAm"
+      "duration_ms": 233886,
+      "name": "Slave Machine",
+      "url": "https://open.spotify.com/track/2Iif9vBdKfTByZ6Yv7CGMH"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -915,22 +931,6 @@
       "duration_ms": 231587,
       "name": "Neath Tacoma Asphalt",
       "url": "https://open.spotify.com/track/2eSeQNbo1YioiJd65YThYu"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
-        "name": "Slave Machine",
-        "url": "https://open.spotify.com/album/7qcPn8Xol83gBeBD2U3Td4"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 233886,
-      "name": "Slave Machine",
-      "url": "https://open.spotify.com/track/2Iif9vBdKfTByZ6Yv7CGMH"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Stack Overflow In Corpse Pile Interface",
-        "url": "https://open.spotify.com/album/0mlhi1whQOvQRCWFqCEn5T"
-      },
-      "artists": [
-        {
-          "name": "A Forest Of Stars",
-          "url": "https://open.spotify.com/artist/7CiWvN1gNzwW6eNxTAYhe2"
-        }
-      ],
-      "duration_ms": 545440,
-      "name": "Ascension of the Clowns",
-      "url": "https://open.spotify.com/track/1rZic6LLrFXiEB8a7ni4o5"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Advent of Wounds",
         "url": "https://open.spotify.com/album/5EznkIQj30NXQOqsuB5EQ0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 310840,
       "name": "Cremation of a Seraph",
       "url": "https://open.spotify.com/track/4cd7yyEr7wa3QTyhivkpKT"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Stack Overflow In Corpse Pile Interface",
+        "url": "https://open.spotify.com/album/0mlhi1whQOvQRCWFqCEn5T"
+      },
+      "artists": [
+        {
+          "name": "A Forest Of Stars",
+          "url": "https://open.spotify.com/artist/7CiWvN1gNzwW6eNxTAYhe2"
+        }
+      ],
+      "duration_ms": 545440,
+      "name": "Ascension of the Clowns",
+      "url": "https://open.spotify.com/track/1rZic6LLrFXiEB8a7ni4o5"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Entities",
-        "url": "https://open.spotify.com/album/26PFvrHcsd4CfPTgsuykfV"
+        "name": "Death Comes To All",
+        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
       },
       "artists": [
         {
-          "name": "Beyond Deviation",
-          "url": "https://open.spotify.com/artist/6bGhlZE9y0X5Gm8eJUbQP1"
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
         }
       ],
-      "duration_ms": 191216,
-      "name": "Entities",
-      "url": "https://open.spotify.com/track/04JiEFoMRu0uQprbSJeYGV"
+      "duration_ms": 117189,
+      "name": "21 Sacraments",
+      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Death Comes To All",
-        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
+        "name": "Entities",
+        "url": "https://open.spotify.com/album/26PFvrHcsd4CfPTgsuykfV"
       },
       "artists": [
         {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+          "name": "Beyond Deviation",
+          "url": "https://open.spotify.com/artist/6bGhlZE9y0X5Gm8eJUbQP1"
         }
       ],
-      "duration_ms": 117189,
-      "name": "21 Sacraments",
-      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
+      "duration_ms": 191216,
+      "name": "Entities",
+      "url": "https://open.spotify.com/track/04JiEFoMRu0uQprbSJeYGV"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Under The Under",
-        "url": "https://open.spotify.com/album/4PDgYRrTjQfc50lsX5fmve"
-      },
-      "artists": [
-        {
-          "name": "Growth",
-          "url": "https://open.spotify.com/artist/0vwmNSLfig7M1c8XE9NOJd"
-        }
-      ],
-      "duration_ms": 340680,
-      "name": "Remember Me As Fire",
-      "url": "https://open.spotify.com/track/3TNHQtRf8yl9WcDbZdC30v"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "The Land East Of Eden",
         "url": "https://open.spotify.com/album/2FUx7p9pSqFWwyFAX6XKoo"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Torden",
-        "url": "https://open.spotify.com/album/6j6giDWzoBuM8PLI04VCCJ"
+        "name": "Under The Under",
+        "url": "https://open.spotify.com/album/4PDgYRrTjQfc50lsX5fmve"
       },
       "artists": [
         {
-          "name": "Mork",
-          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+          "name": "Growth",
+          "url": "https://open.spotify.com/artist/0vwmNSLfig7M1c8XE9NOJd"
         }
       ],
-      "duration_ms": 234957,
-      "name": "Torden",
-      "url": "https://open.spotify.com/track/7IkZ4iWr9A6mIKZXkNeFTg"
+      "duration_ms": 340680,
+      "name": "Remember Me As Fire",
+      "url": "https://open.spotify.com/track/3TNHQtRf8yl9WcDbZdC30v"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1367,6 +1351,22 @@
       "duration_ms": 196354,
       "name": "Concrete Basin Bath",
       "url": "https://open.spotify.com/track/4Ja5RR6xc6w1wCu3igp8eP"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Torden",
+        "url": "https://open.spotify.com/album/6j6giDWzoBuM8PLI04VCCJ"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "duration_ms": 234957,
+      "name": "Torden",
+      "url": "https://open.spotify.com/track/7IkZ4iWr9A6mIKZXkNeFTg"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Liminal Shrines",
-        "url": "https://open.spotify.com/album/37VNpg5fKzSsZ84EZZbfYx"
+        "name": "Divided You'll Stand & United You'll Fall",
+        "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
       },
       "artists": [
         {
-          "name": "Gutvoid",
-          "url": "https://open.spotify.com/artist/5enSUzaSNiZEn8cSDP61vm"
+          "name": "Shining",
+          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
         }
       ],
-      "duration_ms": 163999,
-      "name": "Ruinous Gateways",
-      "url": "https://open.spotify.com/track/1vw1iGrilLiYJWUxgn35rM"
+      "duration_ms": 261320,
+      "name": "Chief Rebel Angel",
+      "url": "https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Divided You'll Stand & United You'll Fall",
-        "url": "https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P"
+        "name": "Liminal Shrines",
+        "url": "https://open.spotify.com/album/37VNpg5fKzSsZ84EZZbfYx"
       },
       "artists": [
         {
-          "name": "Shining",
-          "url": "https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya"
+          "name": "Gutvoid",
+          "url": "https://open.spotify.com/artist/5enSUzaSNiZEn8cSDP61vm"
         }
       ],
-      "duration_ms": 261320,
-      "name": "Chief Rebel Angel",
-      "url": "https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57"
+      "duration_ms": 163999,
+      "name": "Ruinous Gateways",
+      "url": "https://open.spotify.com/track/1vw1iGrilLiYJWUxgn35rM"
     },
     {
       "added_at": "2026-06-30 10:45:27",

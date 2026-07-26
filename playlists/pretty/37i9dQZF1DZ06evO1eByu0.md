@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,698 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,697 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tem Que Haver Mais](https://open.spotify.com/track/3W3ZsM73DdsgCUcIpMCtXe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tem Que Haver Mais](https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96) | 5:59 |
-| 2 | [Mil Gracias](https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Mil Gracias](https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl) | 7:50 |
-| 3 | [Jeová Jireh](https://open.spotify.com/track/1uoA57FMhP9QjZxIJZVEWo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 6:29 |
-| 4 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
-| 5 | [Casa do Pai \- Ao Vivo](https://open.spotify.com/track/5GojHmq2LmJRNOFlhe2D8O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinária Graça \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd) | 4:50 |
-| 6 | [Te Adorar \- Acústico](https://open.spotify.com/track/0AwC67lMYvENDvORGIb15B) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:43 |
-| 7 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:37 |
+| 1 | [Mil Gracias](https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Mil Gracias](https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl) | 7:50 |
+| 2 | [Jeová Jireh](https://open.spotify.com/track/1uoA57FMhP9QjZxIJZVEWo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 6:29 |
+| 3 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
+| 4 | [Casa do Pai \- Ao Vivo](https://open.spotify.com/track/5GojHmq2LmJRNOFlhe2D8O) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinária Graça \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd) | 4:50 |
+| 5 | [Te Adorar \- Acústico](https://open.spotify.com/track/0AwC67lMYvENDvORGIb15B) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:43 |
+| 6 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:37 |
+| 7 | [Tem Que Haver Mais](https://open.spotify.com/track/3W3ZsM73DdsgCUcIpMCtXe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tem Que Haver Mais](https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96) | 5:59 |
 | 8 | [Imensurável](https://open.spotify.com/track/3acR6F3KuMXVGTk9dwIrKB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Imensurável](https://open.spotify.com/album/4G9RmSVTkpZWqXjdX6l8tX) | 5:58 |
 | 9 | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/track/15BIjaacvCfjggc0PKu07B) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:35 |
 | 10 | [Renova\-Me \- Ao Vivo](https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 43 | [Casa de Deus](https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:40 |
 | 44 | [Eu Li na Bíblia](https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 4:10 |
 | 45 | [Hoje é tempo de louvar a Deus \- Ao Vivo](https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 3:53 |
-| 46 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
+| 46 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
 | 47 | [Vou Te Alegrar](https://open.spotify.com/track/3Y5ofuQLJolVcXYjCmoeSA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 4:19 |
 | 48 | [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 |
-| 49 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
-| 50 | [Louvar é Bom Demais](https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:57 |
+| 49 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
+| 50 | [Criança de Jesus](https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:33 |
 
-Snapshot ID: `amFZgAAAAAA9YSvSrmsWNiJYqsY9bGbr`
+Snapshot ID: `amKrAAAAAADQkG4nJUGAnuIV0BriB2mu`

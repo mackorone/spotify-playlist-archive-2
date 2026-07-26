@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,723 likes - 215 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,721 likes - 215 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 105 | [FOCUS](https://open.spotify.com/track/2q1v5If19rbzvqjsxRf2S2) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS](https://open.spotify.com/album/6rqaVRn04qfAhDIyhG2nbF) | 3:09 |
 | 106 | [BURNING UP](https://open.spotify.com/track/4vQvy3BbuPMSazfjXR2sar) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/5QVHgA8EsUSdEYHjLjQhWk) | 2:55 |
 | 107 | [Blue Valentine](https://open.spotify.com/track/3oW83DopZrJSdXG6T8FHJ8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx) | 3:14 |
-| 108 | [SPINNIN′ ON IT](https://open.spotify.com/track/1JSeYUstYyaHgO7zuuLt3s) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [SPINNIN′ ON IT](https://open.spotify.com/album/1MlEgnV5IDNYRUsY6HCfD4) | 3:26 |
+| 108 | [Blue Valentine Core: “SPINNIN’ ON IT”](https://open.spotify.com/track/1JSeYUstYyaHgO7zuuLt3s) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine Core: “SPINNIN’ ON IT”](https://open.spotify.com/album/1MlEgnV5IDNYRUsY6HCfD4) | 3:26 |
 | 109 | [CLUTCH](https://open.spotify.com/track/1ohqxGIHSLC7vZYoGROO6K) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [CLUTCH](https://open.spotify.com/album/1KNf2Iok5y5NPdA1aYId4f) | 2:15 |
 | 110 | [OVERDRIVE](https://open.spotify.com/track/4qBQc96BWeS8UdYxZCrr50) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [OVERDRIVE](https://open.spotify.com/album/6zDfiuOH3zkDuNsGk1CAeK) | 3:27 |
 | 111 | [OVERDRIVE](https://open.spotify.com/track/1pMb0T7UQJqw1PiOiPXK1O) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [OVERDRIVE](https://open.spotify.com/album/1cMDfnlB5We3HEJTD8iGxB) | 3:26 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 214 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/album/7bfjfcnBeCXsHXJcPr8q4o) | 3:27 |
 | 215 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 |
 
-Snapshot ID: `AAAAAFCeLJfFDnMPGFuewfmVdUBS3sm2`
+Snapshot ID: `AAAAAJdBwxF1rSGVeViEBi4/lcu9suZS`

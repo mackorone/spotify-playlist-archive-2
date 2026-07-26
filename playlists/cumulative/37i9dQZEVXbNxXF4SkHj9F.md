@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,142 songs - 4 day 21 hr 18 min
+2,143 songs - 4 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1008,7 +1008,7 @@
 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 | 2025-03-19 | 2025-04-10 |
 | [KNOW ABOUT ME](https://open.spotify.com/track/719MkAinn7QVNoibvtkSHW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w) | 2:45 | 2025-03-27 | 2025-03-29 |
 | [KOLOK COLOK](https://open.spotify.com/track/0z2KNZtMFEe1BvON8pT1Ay) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [KC3](https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G) | 1:31 | 2026-02-07 | 2026-03-22 |
-| [L\[ \]VE](https://open.spotify.com/track/4c9CHyzibRaogeupFGzsFW) | [CHOIJUNSEONG \(Jun S\)](https://open.spotify.com/artist/2RPo7pzzve2r1LufIxrPeR) | [L\[ \]VE](https://open.spotify.com/album/4tbCxd3tBDiJYNFHsr52B3) | 3:00 | 2026-06-04 |  |
+| [L\[ \]VE](https://open.spotify.com/track/4c9CHyzibRaogeupFGzsFW) | [CHOIJUNSEONG \(Jun S\)](https://open.spotify.com/artist/2RPo7pzzve2r1LufIxrPeR) | [L\[ \]VE](https://open.spotify.com/album/4tbCxd3tBDiJYNFHsr52B3) | 3:00 | 2026-06-04 | 2026-07-26 |
 | [LADYBIRD](https://open.spotify.com/track/4VW2faw4vUjufimoFzMzbI) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:27 | 2022-05-12 | 2022-05-14 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-16 |
 | [LALALI](https://open.spotify.com/track/45xiC13XQsLhV57FxQLlLV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 2:51 | 2024-05-01 | 2024-05-03 |
@@ -1033,13 +1033,14 @@
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-15 | 2025-06-21 |
 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 | 2026-06-23 |  |
 | [Lemon Tree](https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-04 | 2022-06-06 |
-| [LEMONADE](https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(NINGNING Special Version\)](https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi) | 3:07 | 2026-05-31 | 2026-07-25 |
+| [LEMONADE](https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(NINGNING Special Version\)](https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi) | 3:07 | 2026-05-31 |  |
 | [LEMONADE](https://open.spotify.com/track/1LAZOTFrPLrbnLQr96NMEM) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(WINTER Special Version\)](https://open.spotify.com/album/5YIVJ8XZbPpUuLRJ4eDX3m) | 3:07 | 2026-06-08 | 2026-06-10 |
 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-05-30 | 2026-06-01 |
-| [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 | 2026-07-24 |  |
+| [LEMONADE](https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk) | 3:07 | 2026-07-24 | 2026-07-26 |
 | [LEMONADE](https://open.spotify.com/track/7jx5CmnSDhVbLD9Eww6QLB) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album \(GISELLE Special Version\)](https://open.spotify.com/album/7ED3mOUgYLjyvtRDrrSyrn) | 3:07 | 2026-06-01 | 2026-06-08 |
 | [Lemonade](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:10 | 2021-09-19 | 2021-10-03 |
 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 | 2021-06-27 | 2021-06-28 |
+| [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-25 |  |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-19 |
 | [LET IT GO \(feat\. Justin Bieber & 21 Savage\)](https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 | 2021-05-05 | 2021-05-23 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-19 | 2025-12-28 |

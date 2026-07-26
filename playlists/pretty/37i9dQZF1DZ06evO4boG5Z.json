@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAWzL228eo4jBoZqmkl3HOU",
+  "snapshot_id": "amKrAAAAAACCPO3vtPq9vOUeAhHgbITH",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 79533,
-      "name": "Silent Suicide",
-      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
     },
     {
       "added_at": null,

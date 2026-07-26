@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93349,
+  "num_followers": 93352,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "t a l v e z : /",
-        "url": "https://open.spotify.com/album/32af1nLMntBhNyM2oH6iYs"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "t a l v e z : /",
-      "url": "https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 147453,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "t a l v e z : /",
+        "url": "https://open.spotify.com/album/32af1nLMntBhNyM2oH6iYs"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "t a l v e z : /",
+      "url": "https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -851,46 +851,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
-      },
-      "artists": [
-        {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
-        }
-      ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -915,6 +875,46 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        },
+        {
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+        }
+      ],
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
     },
     {
       "added_at": "2026-07-17 06:00:21",

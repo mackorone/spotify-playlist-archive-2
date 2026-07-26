@@ -3413,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223511,
+      "name": "Archive",
+      "url": "https://open.spotify.com/track/54li39300z0Rv2NZnFEUbq"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -11547,6 +11565,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/4EyoWcWJpxoldLndzZlinn"
+    },
+    {
+      "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
       },
@@ -17228,6 +17264,24 @@
       "duration_ms": 36935,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq"
+    },
+    {
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98812,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4fqNaxs5ufKslr7HYfDRko"
     },
     {
       "album": {
@@ -32818,7 +32872,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 161666,
       "name": "Sahran lil",
       "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
@@ -35292,7 +35346,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 224706,
       "name": "STALINE",
       "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
@@ -38220,7 +38274,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 147761,
       "name": "Tsswirtek",
       "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"

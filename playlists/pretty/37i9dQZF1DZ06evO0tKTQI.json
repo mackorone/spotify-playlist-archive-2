@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14027,
+  "num_followers": 14029,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAA924Y+2DD6/7mwxHAwPVZv",
+  "snapshot_id": "amKrAAAAAADvSkQRB0g4Sr/LpRZ3HFXe",
   "tracks": [
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 257773,
-      "name": "friend",
-      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
+      "duration_ms": 211746,
+      "name": "tarde",
+      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 155880,
-      "name": "Before Seeing Green",
-      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
+      "duration_ms": 193173,
+      "name": "Todo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Todo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
+      "duration_ms": 155880,
+      "name": "Before Seeing Green",
+      "url": "https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3"
     },
     {
       "added_at": null,

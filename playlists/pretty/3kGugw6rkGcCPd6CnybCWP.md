@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,164 likes - 61 songs - 3 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 71 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,15 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 59 | [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 |
 | 60 | [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 |
 | 61 | [disintegrate](https://open.spotify.com/track/4vCR8mID6JCGerquyqxjYQ) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [disintegrate](https://open.spotify.com/album/4qJbq0adz2S7Njd2aU5L6d) | 2:54 |
+| 62 | [Trojan Horses](https://open.spotify.com/track/2ujAwdsrBSX1NitqrQ94hw) | [Land Mass](https://open.spotify.com/artist/2j4cNGRXxeIa4jkdtXUSUp) | [Fading](https://open.spotify.com/album/2av6pKeqDPHk48R0KmmF1h) | 3:44 |
+| 63 | [HEADACHE](https://open.spotify.com/track/0uxA25mu2FM6JkfelSS5vp) | [Eupholia](https://open.spotify.com/artist/3RhXPJ65Q7cMFnJg0xUr9T) | [HEADACHE](https://open.spotify.com/album/7MUNZYkKHum6kVreJgeYnS) | 5:06 |
+| 64 | [THE TURN](https://open.spotify.com/track/7l49pim813SFWXYjO8Pq5B) | [ANIQO](https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB) | [THE TURN](https://open.spotify.com/album/20aKwJywAs1bKyXX2Rh8GH) | 4:42 |
+| 65 | [Ellie](https://open.spotify.com/track/3IQl7oDpRaNEn9rnUeve54) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ellie](https://open.spotify.com/album/1AK5BxiKKIloJmMRFPFvOz) | 3:22 |
+| 66 | [Over The Hills](https://open.spotify.com/track/383cNRaP2hFzlgi0i6WeDd) | [My Music Dream](https://open.spotify.com/artist/1bRUw1X8QpKUoU41X6BXiY) | [Over The Hills](https://open.spotify.com/album/755YVlJM0u1Qmpw1BN59q4) | 4:17 |
+| 67 | [Spacecat](https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Spacecat](https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6) | 4:18 |
+| 68 | [En tus llamas](https://open.spotify.com/track/5ARz9qDbeLMjWjoQh5sHZf) | [Nálie](https://open.spotify.com/artist/6yA6KOm5x5xf6Yi5CKT2to) | [En tus llamas](https://open.spotify.com/album/2AkXEw0ZOIIjQAMgehTiMd) | 3:38 |
+| 69 | [l e t y o u g o \- augy's version](https://open.spotify.com/track/1Kp74OD0EDhDsE1fkVuxmm) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [l e t y o u g o \(augy's version\)](https://open.spotify.com/album/3nLycWr2ivzzY4O701PfSy) | 2:52 |
+| 70 | [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 |
+| 71 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
 
-Snapshot ID: `AAAPqWthMhYNDOr+xGYxUs4WrPcrHg36`
+Snapshot ID: `AAAPs78ckN5SFRFeC7ppC6J33bsG5wvs`

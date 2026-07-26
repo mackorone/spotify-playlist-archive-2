@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 359720,
+  "num_followers": 359826,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196705,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "MIROTIC - The 4th Album",
         "url": "https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 208466,
       "name": "MIROTIC",
       "url": "https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Ma Boy",
-        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 196705,
-      "name": "Ma Boy",
-      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "2NE1 1st Mini Album",
         "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 222840,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "SHAKE IT",
         "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208506,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 218347,
       "name": "TTL (Time To Love)",
       "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 217887,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Lupin",
         "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 192440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 217887,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "\ubc18\uc9dd\ubc18\uc9dd",
-      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "No.1",
         "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 197825,
       "name": "Miss Right",
       "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "\ubc18\uc9dd\ubc18\uc9dd",
+      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
     },
     {
       "added_at": "2024-03-27 14:24:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla, Xduppy, Sam Smith, Blxckie, DJ Zinhle and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,560 likes - 96 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,622 likes - 96 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 77 | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/track/1t11AUjoBZNOALrDXCpvJa) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/album/1CcvgioY3omIjudg8ggWvF) | 3:10 |
 | 78 | [Catch Me](https://open.spotify.com/track/5X8Ljh79C7Z7EcFCpDQmhk) | [Kenton Lee](https://open.spotify.com/artist/6YBvH6Au8RM76TTcuTDA5h), [Orchid MusiQ](https://open.spotify.com/artist/6poHluhYcLIL6jomFHY5pD), [Geeflexx](https://open.spotify.com/artist/11fplL0XG6NKIHpz0n1jA9), [Feng Keys](https://open.spotify.com/artist/55JkYgzm6sR64cvLYrSAgi) | [Rooted: Red](https://open.spotify.com/album/4h8yp2O8zHqFROCrBBsFNA) | 5:54 |
 | 79 | [Stranger Things](https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:18 |
-| 80 | [Go Around \(Mpho.Wav Remix\)](https://open.spotify.com/track/7M8AxNEbOl9kv5mIPlZcNF) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Bongi Dube](https://open.spotify.com/artist/1cmefoTFnSOjtIB3GZWQdW) | [Go Around \(Mpho.Wav Remix\)](https://open.spotify.com/album/2zIHooqUfOD2tv5H6cgaGM) | 7:25 |
+| 80 | [Go Around \- \(Mpho.Wav Remix\)](https://open.spotify.com/track/7M8AxNEbOl9kv5mIPlZcNF) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Bongi Dube](https://open.spotify.com/artist/1cmefoTFnSOjtIB3GZWQdW) | [Go Around \(Mpho.Wav Remix\)](https://open.spotify.com/album/2zIHooqUfOD2tv5H6cgaGM) | 7:25 |
 | 81 | [Arcadia](https://open.spotify.com/track/1lRwCZWhXCfpPTpHX511ho) | [Umgido](https://open.spotify.com/artist/3Wf4yyq68bvmeajhLXETrt) | [Verdant EP](https://open.spotify.com/album/4mbufnpTqkx89S78AdZHHr) | 7:36 |
 | 82 | [Straata](https://open.spotify.com/track/1AnIeLX3vBtq4hrof1NE7A) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg) | [Straata](https://open.spotify.com/album/5bFORQWKJb6jG0PwzzQeNR) | 5:28 |
 | 83 | [Bigger Than Us](https://open.spotify.com/track/6JdJ823ZQ2102oQnFosjGa) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [Bigger Than Us](https://open.spotify.com/album/3ek3Xm3lvP5wyRQFOi8F8l) | 5:26 |

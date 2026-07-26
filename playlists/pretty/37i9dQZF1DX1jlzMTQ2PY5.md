@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,412 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,430 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 39 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
 | 40 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
 | 41 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
-| 42 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
+| 42 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 | 43 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
-| 44 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 44 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
 | 45 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 46 | [Where The Flowers Grow](https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Where The Flowers Grow](https://open.spotify.com/album/2mICl0woSF5tieybH5Theo) | 3:53 |
 | 47 | [Lawyer](https://open.spotify.com/track/56a2UyKtYKnHdKMPPPiAUR) | [Nixxy Rain](https://open.spotify.com/artist/4ZA9DE9Ka4DztcpHkiRaTf) | [Lawyer](https://open.spotify.com/album/5uy7TxhgdEPQFWAJs9eARR) | 4:17 |
-| 48 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 |
-| 49 | [Breathe](https://open.spotify.com/track/16rIY1qbudPY5bi827Zxuz) | [Gabriella Bongo](https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68), [TJ](https://open.spotify.com/artist/6QxCZdZiwzTlKMXxKYBdGs), [Jo](https://open.spotify.com/artist/6VrrHz8WTQs0zcGVgkHRVn) | [Breathe](https://open.spotify.com/album/1SZUNedwEiJrB14TTINzO3) | 2:39 |
+| 48 | [Breathe](https://open.spotify.com/track/16rIY1qbudPY5bi827Zxuz) | [Gabriella Bongo](https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68), [TJ](https://open.spotify.com/artist/6QxCZdZiwzTlKMXxKYBdGs), [Jo](https://open.spotify.com/artist/6VrrHz8WTQs0zcGVgkHRVn) | [Breathe](https://open.spotify.com/album/1SZUNedwEiJrB14TTINzO3) | 2:39 |
+| 49 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 |
 | 50 | [You](https://open.spotify.com/track/1ZXuKEuTuptd2iuJXPrEF5) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [You / Someday](https://open.spotify.com/album/5x08zzrVrfGVNIfbVa8OMB) | 4:38 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

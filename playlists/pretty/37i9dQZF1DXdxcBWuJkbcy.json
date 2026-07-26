@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7842781,
+  "num_followers": 7842515,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-07-24 19:15:40",
       "album": {
-        "name": "Dive Into Me",
-        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Dive Into Me",
-      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
-    },
-    {
-      "added_at": "2026-07-24 19:15:40",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2026-07-24 19:15:40",
+      "album": {
+        "name": "Dive Into Me",
+        "url": "https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Dive Into Me",
+      "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
     },
     {
       "added_at": "2026-07-24 19:15:40",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-07-24 19:15:40",
       "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2026-07-24 19:15:40",
+      "album": {
         "name": "Won\u2019t Be Possible",
         "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
       },
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2026-07-24 19:15:40",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2026-07-24 19:15:40",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2026-07-24 19:15:40",
       "album": {
-        "name": "Satisfaction (Hardwell & Maddix Remix)",
-        "url": "https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX"
+        "name": "I Don't Wanna Wait (Hardwell & Olly James Remix)",
+        "url": "https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4"
       },
       "artists": [
         {
@@ -1432,21 +1432,21 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         },
         {
           "name": "Hardwell",
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
         }
       ],
-      "duration_ms": 204436,
-      "name": "Satisfaction - Hardwell & Maddix Remix",
-      "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
+      "duration_ms": 183200,
+      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
+      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL"
     },
     {
       "added_at": "2026-07-24 19:15:40",
@@ -1467,6 +1467,26 @@
       "duration_ms": 188873,
       "name": "FATE",
       "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
+    },
+    {
+      "added_at": "2026-07-24 19:15:40",
+      "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
     },
     {
       "added_at": "2026-07-24 19:15:40",
@@ -1507,28 +1527,8 @@
     {
       "added_at": "2026-07-24 19:15:40",
       "album": {
-        "name": "La R\u00e9volution",
-        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 132492,
-      "name": "La R\u00e9volution",
-      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
-    },
-    {
-      "added_at": "2026-07-24 19:15:40",
-      "album": {
-        "name": "I Don't Wanna Wait (Hardwell & Olly James Remix)",
-        "url": "https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4"
+        "name": "Satisfaction (Hardwell & Maddix Remix)",
+        "url": "https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX"
       },
       "artists": [
         {
@@ -1536,21 +1536,41 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         },
         {
           "name": "Hardwell",
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 183200,
-      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
-      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL"
+      "duration_ms": 204436,
+      "name": "Satisfaction - Hardwell & Maddix Remix",
+      "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
+    },
+    {
+      "added_at": "2026-07-24 19:15:40",
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "added_at": "2026-07-24 19:15:40",
@@ -1595,26 +1615,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-07-24 19:15:40",
-      "album": {
-        "name": "Beautiful Places",
-        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Beautiful Places",
-      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "added_at": "2026-07-24 19:15:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,313 likes - 145 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,314 likes - 145 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 135 | [Intro \(Hope\)](https://open.spotify.com/track/6eo9xRtWnD9QCFYJ4IS7pa) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:28 |
 | 136 | [jazz burger](https://open.spotify.com/track/0LqqWpieFCkt7jtA6RafAG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 3:11 |
 | 137 | [Play Pretend](https://open.spotify.com/track/1US8tshuJbmSTfBgom1uaq) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:42 |
-| 138 | [Miami](https://open.spotify.com/track/4TcpNrmOpahEhYmMvsanMY) | [Noah Cunane](https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq) | [Miami](https://open.spotify.com/album/3sVBfbJbMxFhbWjYDC9yOP) | 2:59 |
-| 139 | [Mono No Aware](https://open.spotify.com/track/2FPhBLrCm34DPZhyKS4mAl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:15 |
+| 138 | [Mono No Aware](https://open.spotify.com/track/2FPhBLrCm34DPZhyKS4mAl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:15 |
+| 139 | [Miami](https://open.spotify.com/track/4TcpNrmOpahEhYmMvsanMY) | [Noah Cunane](https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq) | [Miami](https://open.spotify.com/album/3sVBfbJbMxFhbWjYDC9yOP) | 2:59 |
 | 140 | [Feel The Same](https://open.spotify.com/track/63g7NDleXanRh8ez3DPXKV) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3) | [Feel The Same](https://open.spotify.com/album/3Qut4cW4hwcIrVZTjwgJ1u) | 2:43 |
 | 141 | [Hate Me](https://open.spotify.com/track/2Ql5z64nrqdQba0fbuSNoi) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:13 |
 | 142 | [Don't Make Sense](https://open.spotify.com/track/0OAyR1f9JI7HGa0k10RrTf) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 2:45 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 144 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 145 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AcXvqAAAAACo00HqbQ3Q8+r64yzwSf+Q`
+Snapshot ID: `AcX1SAAAAAAlVgnkeGaiFQlCLfdYg+ml`

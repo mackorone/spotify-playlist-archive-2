@@ -1,18 +1,18 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 245842,
+  "num_followers": 245868,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MfbVIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MfgmoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-07-24 14:45:18",
       "album": {
         "name": "Cuida do Pet",
-        "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
+        "url": "https://open.spotify.com/album/6vzfvxCFgDhWJdL2f2enCG"
       },
       "artists": [
         {
@@ -28,10 +28,6 @@
           "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
         },
         {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
           "name": "DU'L",
           "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
         },
@@ -42,11 +38,15 @@
         {
           "name": "MC Willian",
           "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
         }
       ],
       "duration_ms": 459212,
       "name": "Cuida do Pet",
-      "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
+      "url": "https://open.spotify.com/track/1eQPyvKkbJgS7orgKr802Y"
     },
     {
       "added_at": "2026-07-24 14:45:18",
@@ -990,6 +990,14 @@
         {
           "name": "Diego & Victor Hugo",
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Diego",
+          "url": "https://open.spotify.com/artist/79XD2aBNfCvTZLF9cnsxSB"
+        },
+        {
+          "name": "Victor Hugo",
+          "url": "https://open.spotify.com/artist/0P5FjTy1hd0aSQGr5oRqPe"
         }
       ],
       "duration_ms": 162580,

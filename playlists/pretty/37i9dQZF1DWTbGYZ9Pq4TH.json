@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 188316,
+  "num_followers": 188338,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Canzoni",
         "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 241440,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Nessuno Vuole Essere Robin",
-      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Umanamente uomo: il sogno",
         "url": "https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 331434,
       "name": "I giardini di marzo - Remastered",
       "url": "https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Nessuno Vuole Essere Robin",
+      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 253733,
       "name": "Come Nelle Favole",
       "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Una Canzone D'Amore Buttata Via",
-        "url": "https://open.spotify.com/album/2dFdW3uioaAxAoRgSbhYBT"
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 271376,
-      "name": "Una Canzone D'Amore Buttata Via",
-      "url": "https://open.spotify.com/track/3hV8uIYz5D5orhpgqixZHj"
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2026-04-21 16:02:40",

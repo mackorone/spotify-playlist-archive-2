@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Worldpeace DMT
 
-926 songs - 2 day 5 hr 23 min
+928 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-11 | 2026-02-06 |
 | [Blue \(feat\. Tamzene\)](https://open.spotify.com/track/09sD40iBNjCrZQwr3UgQa2) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Blue \(feat\. Tamzene\)](https://open.spotify.com/album/5pYY6RqmUFW9qmgWNF1JWh) | 2:47 | 2025-01-17 | 2025-04-04 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 | 2024-08-09 |
+| [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7) | 2:40 | 2026-07-23 |  |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-03 | 2025-02-14 |
 | [Bluff](https://open.spotify.com/track/5LSkSH1ZlLydQwO6e2ZpNL) | [Theodor Black](https://open.spotify.com/artist/7e9wx93Dz1ZnFnhXFDWiJz), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Crash Out!](https://open.spotify.com/album/08PVx02QNag0E8xgPfPRu9) | 2:19 | 2024-11-15 | 2024-11-22 |
 | [bobinov](https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [bobinov](https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG) | 3:10 | 2026-07-23 |  |
@@ -217,6 +218,7 @@
 | [Don't Fight the Young](https://open.spotify.com/track/0c5rkpUD7WOQtAGX3yCDR6) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 2:27 | 2026-03-06 | 2026-04-14 |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-15 | 2024-11-29 |
 | [Don't Rush](https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0), [Chi\-chi](https://open.spotify.com/artist/0K6RidDQWBqLafRTP2GeMV) | [Don't Rush](https://open.spotify.com/album/32OPaZroLXHPY7orBxHmnD) | 4:02 | 2025-02-28 | 2025-05-30 |
+| [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 | 2026-07-23 |  |
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-04 | 2024-08-24 |
 | [Done.](https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Earcandy](https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0) | 2:35 | 2025-05-15 | 2025-08-01 |
 | [Don’t](https://open.spotify.com/track/1gORYTO60UOsWY6SfHzKfL) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [EXU](https://open.spotify.com/album/1ot0Meb4Br8LJqgnl9PFqm) | 2:46 | 2024-06-27 | 2024-07-12 |
@@ -232,7 +234,7 @@
 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 | 2025-05-15 | 2025-08-08 |
 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-28 |  |
 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 | 2026-02-20 |  |
-| [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-06 |  |
+| [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-06 | 2026-07-26 |
 | [easy to forget.](https://open.spotify.com/track/518XVmTTgQSOfVCZoEoKnI) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [Luna, easy to forget.](https://open.spotify.com/album/3OkfFjLwS32ExZx6Y5rQR4) | 2:44 | 2025-08-21 | 2026-01-16 |
 | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Eat Quiche, Sleep, Repeat](https://open.spotify.com/album/2S6TrWfjwEl2a47o5TMtqi) | 3:53 | 2025-05-01 | 2025-10-03 |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-27 | 2024-07-27 |
@@ -643,7 +645,7 @@
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-07 | 2025-11-28 |
 | [Post Romance](https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Post Romance](https://open.spotify.com/album/58PgUMhfc95w6sXHxLLIUc) | 3:55 | 2025-02-07 | 2025-03-28 |
 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 | 2025-08-14 | 2026-02-06 |
-| [praise](https://open.spotify.com/track/3albxuvvt3sQ8TxjUwiGbR) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [praise](https://open.spotify.com/album/4yQOS1843MpgLsxEOgG2Wp) | 3:24 | 2026-07-09 |  |
+| [praise](https://open.spotify.com/track/3albxuvvt3sQ8TxjUwiGbR) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [praise](https://open.spotify.com/album/4yQOS1843MpgLsxEOgG2Wp) | 3:24 | 2026-07-09 | 2026-07-26 |
 | [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-01-30 | 2026-02-13 |
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-23 | 2025-02-14 |
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-17 | 2025-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,378 likes - 288 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,380 likes - 288 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 217 | [Lady Of The Lake](https://open.spotify.com/track/6MwZbyLWRD6cSNzBZY0HSW) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 3:00 |
 | 218 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
 | 219 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
-| 220 | [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 |
-| 221 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
+| 220 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
+| 221 | [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 |
 | 222 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 223 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 224 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 287 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 288 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcXvigAAAAAleP0dUU69oPv+08/BaVjd`
+Snapshot ID: `AcX1ZgAAAADYpDRUsxNXKk6LQRYP+cSq`

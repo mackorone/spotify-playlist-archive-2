@@ -4,7 +4,7 @@
 
 > canciones para chillear con Dënver y Ruzzi
 
-244 songs - 13 hr 10 min
+245 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2023-10-17 | 2023-10-27 |
 | [mil veces mas](https://open.spotify.com/track/0Cs5I3C3Ob7ig7voahUUzO) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [mil veces mas](https://open.spotify.com/album/2HfOkfxmNSbTFG0huGbTR9) | 2:21 | 2026-07-03 |  |
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-12 |  |
-| [miradas](https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:30 | 2026-05-28 |  |
+| [miradas](https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [imbn](https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:30 | 2026-05-28 | 2026-07-26 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2023-10-17 | 2026-06-26 |
 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 | 2024-03-08 | 2024-03-30 |
 | [MUCHO CON DEMASIAO'](https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [MUCHO CON DEMASIAO'](https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu) | 2:19 | 2026-02-06 |  |
@@ -166,6 +166,7 @@
 | [Noches de Ciencia Ficción](https://open.spotify.com/track/3xeHdDEFA3sjH3s3EtS6vP) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Noches de Ciencia Ficción](https://open.spotify.com/album/6nU94RYAOrod1V98MfAERx) | 1:50 | 2026-04-24 | 2026-05-15 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2023-10-17 | 2024-04-19 |
 | [Nunca se termina](https://open.spotify.com/track/1PtpkGSyHOdM6K6UZNWhh4) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Nunca se termina](https://open.spotify.com/album/3TXQQ2M0qb9haDsS5RIVKh) | 4:20 | 2026-01-30 | 2026-02-28 |
+| [oda al canto](https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [Donttt](https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [QUIZÁS LAS HORAS SUMAN MESES](https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg) | 2:58 | 2026-07-24 |  |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-04 |  |
 | [ojos de video tape](https://open.spotify.com/track/5uSgQfJaYDyvC2zIMshIA4) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve](https://open.spotify.com/album/5XCFLm7l18vr7GWGHzkE3U) | 3:41 | 2025-04-11 | 2025-04-25 |
 | [Pa Ti Bb <3](https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Pa Ti Bb <3](https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK) | 3:16 | 2026-07-03 |  |

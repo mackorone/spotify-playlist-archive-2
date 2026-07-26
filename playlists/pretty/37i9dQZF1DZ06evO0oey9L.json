@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100992,
+  "num_followers": 100999,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAA6r4q3eR5VGr1vK1wcnkTt",
+  "snapshot_id": "amKrAAAAAADGiQU2U0BtKCme/lfdh1fZ",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "Ya La Conecte",
-      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
         "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 171743,
       "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
       "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "Ya La Conecte",
+      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 192395,
       "name": "Que Linda Se Le Ve",
       "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gwag",
+        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 146590,
+      "name": "La Gwag",
+      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De La Escuelita Graduado",
         "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 147480,
       "name": "Ni\u00f1as De Revista",
       "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gwag",
-        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 146590,
-      "name": "La Gwag",
-      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652 likes - 287 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 287 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 253 | [Der Schlumpfenbeat](https://open.spotify.com/track/21l8z5LyBjT0nfynKJfvtX) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Die Hits der Schlümpfe](https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS) | 3:13 |
 | 254 | [Final Warning](https://open.spotify.com/track/74T44FOeJJIQgaYtA5itIt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Global](https://open.spotify.com/album/1AAvLa465c3cBOaRBrOjw1) | 4:16 |
 | 255 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
-| 256 | [Neighborhood \(feat\. Kent Jamz & Nick Grant\)](https://open.spotify.com/track/6uZRRwpvuMP4jKo0O0FxRp) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Village Days](https://open.spotify.com/album/5UgntWXasSNmI0s3O8rS6b) | 5:00 |
-| 257 | [Goodmorning!](https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:18 |
+| 256 | [Goodmorning!](https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:18 |
+| 257 | [Neighborhood \(feat\. Kent Jamz & Nick Grant\)](https://open.spotify.com/track/6uZRRwpvuMP4jKo0O0FxRp) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Village Days](https://open.spotify.com/album/5UgntWXasSNmI0s3O8rS6b) | 5:00 |
 | 258 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
 | 259 | [Silhouettes](https://open.spotify.com/track/5aKRDpKlSC2pqttYNpRnJW) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Silhouettes](https://open.spotify.com/album/0IXu79KUBiVlBwg9W68Vgv) | 3:32 |
 | 260 | [Locked Away](https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD) | [The New Releases](https://open.spotify.com/artist/0KcrR46L75FgSR7uRuIwqB) | [Straight from the Studio: The Hits January 2016](https://open.spotify.com/album/3xpISCse4tIpurM2nfaQDu) | 3:47 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 286 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 287 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcXvqAAAAAA6ujs8YLkt0g+ek4IPK1td`
+Snapshot ID: `AcX1SAAAAACJodPk6eRQvuQ7s4PgMJQs`

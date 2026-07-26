@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 760904,
+  "num_followers": 760995,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACHuC2DSBKsmGuESybGEZN4",
+  "snapshot_id": "amKrAAAAAADil8QCM++vKzr+I/JlWZmc",
   "tracks": [
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avril Lavigne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Give You What You Like",
-      "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internet Killed The Rockstar",
         "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
@@ -767,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
       "artists": [
         {
@@ -776,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 168803,
-      "name": "Love Sux",
-      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
+      "duration_ms": 225266,
+      "name": "Give You What You Like",
+      "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
     },
     {
       "added_at": null,
@@ -792,9 +760,25 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 221866,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk"
+      "duration_ms": 242013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "Love Sux",
+      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     }
   ],
   "unique_name": "This Is Avril Lavigne",

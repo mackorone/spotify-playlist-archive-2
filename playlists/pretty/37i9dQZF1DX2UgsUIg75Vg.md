@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,365,922 likes - 255 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,366,051 likes - 255 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

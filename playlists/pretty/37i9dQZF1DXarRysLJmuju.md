@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,599 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,524 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

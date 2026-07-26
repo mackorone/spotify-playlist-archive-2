@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,764 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,776 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 63 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 |
 | 64 | [El Último Trago](https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR) | [Ramón Rimac](https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN) | [Me Voy a Emborrachar](https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW) | 2:40 |
 | 65 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 |
-| 66 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 |
-| 67 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 |
+| 66 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 |
+| 67 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 |
 | 68 | [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 |
 | 69 | [Golero Emparamao](https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [Golero Emparamao](https://open.spotify.com/album/35DKFImacmTdYePcu2utI7) | 4:28 |
 | 70 | [El Cocho](https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Cocho](https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl) | 3:15 |
 | 71 | [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 |
 | 72 | [Me Opongo](https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7) | [J Matt](https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96) | [Me Opongo](https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d) | 2:57 |
 | 73 | [La Porotera](https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Un Nuevo Estilo Campesino](https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy) | 3:38 |
-| 74 | [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 |
+| 74 | [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 |
 | 75 | [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 |
-| 76 | [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 |
+| 76 | [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 |
 | 77 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 |
 | 78 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 |
 | 79 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |

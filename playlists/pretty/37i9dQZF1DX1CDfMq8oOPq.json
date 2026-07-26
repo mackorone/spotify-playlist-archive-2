@@ -1,6 +1,6 @@
 {
   "description": "tuuudo conspirando a favor  \ud83c\udf13//  Amanda Sarmento",
-  "num_followers": 102639,
+  "num_followers": 102671,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -831,30 +831,6 @@
     {
       "added_at": "2026-07-03 20:55:51",
       "album": {
-        "name": "O bonde t\u00e1 no levan",
-        "url": "https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        }
-      ],
-      "duration_ms": 145511,
-      "name": "O bonde t\u00e1 no levan",
-      "url": "https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv"
-    },
-    {
-      "added_at": "2026-07-03 20:55:51",
-      "album": {
         "name": "O OURO",
         "url": "https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 152470,
       "name": "O OURO",
       "url": "https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq"
+    },
+    {
+      "added_at": "2026-07-03 20:55:51",
+      "album": {
+        "name": "O bonde t\u00e1 no levan",
+        "url": "https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        }
+      ],
+      "duration_ms": 145511,
+      "name": "O bonde t\u00e1 no levan",
+      "url": "https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv"
     },
     {
       "added_at": "2026-07-03 20:55:51",

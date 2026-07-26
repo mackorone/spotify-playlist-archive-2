@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116708,
+  "num_followers": 116714,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAkvnSpPgdVkdiXT904b8vD",
+  "snapshot_id": "amKrAAAAAAAYoKf1GfRRTf3akXhvKi3K",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 278800,
       "name": "Shatter Me",
       "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "Killing Ourselves to Live",
+      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 222010,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "White Dress",
-      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "White Dress",
+      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 207666,
       "name": "Sick Individual",
       "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "Killing Ourselves to Live",
-      "url": "https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-234 songs - 14 hr 12 min
+235 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [La Misma Mentira](https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg) | 3:48 | 2020-11-24 | 2024-04-19 |
 | [La Más Bella](https://open.spotify.com/track/5QDD1UPPDcwpB6u3Bk58lm) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR), [Helppi Smith](https://open.spotify.com/artist/5eWzXJ74xSwkO77fX2uvY4) | [La Más Bella](https://open.spotify.com/album/6Fqte0Leq97gCqN1I4TXoU) | 2:58 | 2024-12-11 | 2025-03-29 |
 | [La Puerta Jubilar](https://open.spotify.com/track/0XEv5UiFeT2HGv1sJ5RJuE) | [Marcela Gael](https://open.spotify.com/artist/3TifTnauGsDPu1cPGER7hv) | [La Puerta Jubilar](https://open.spotify.com/album/7fEHti6To6lppufr6Y5P71) | 3:24 | 2025-04-30 | 2026-05-23 |
-| [La Recompensa](https://open.spotify.com/track/02UFxcfHhdKiPQi0YTB4Cz) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Album 35th Aniversario](https://open.spotify.com/album/2EaNU6CUvJo9hn60ymsETU) | 3:17 | 2025-09-26 |  |
+| [La Recompensa](https://open.spotify.com/track/02UFxcfHhdKiPQi0YTB4Cz) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Album 35th Aniversario](https://open.spotify.com/album/2EaNU6CUvJo9hn60ymsETU) | 3:17 | 2025-09-26 | 2026-07-26 |
 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2020-11-24 |  |
 | [Lejos](https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi) | [Lejos](https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A) | 2:59 | 2025-03-28 |  |
 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 | 2020-11-24 | 2024-07-19 |
@@ -242,5 +242,6 @@
 | [Yo Te Prometo](https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr) | 3:44 | 2020-11-24 | 2024-04-19 |
 | [Yo Te Prometo](https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN) | 3:44 | 2020-11-24 | 2023-06-30 |
 | [Yo Te Prometo \- Remix](https://open.spotify.com/track/3dO8ScvlHx9OnnICsFCFHN) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Corazón](https://open.spotify.com/album/5HCC9IAXVCgxAY7vRnZdb0) | 3:48 | 2020-11-24 | 2022-07-25 |
+| [¿Donde Andarás? \- Acústico](https://open.spotify.com/track/5PK96HD0YYz6IgLg4e7fRn) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Nuestra Historia](https://open.spotify.com/album/2wOU5oe6u4X5TOr6THpoRL) | 3:13 | 2026-07-25 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

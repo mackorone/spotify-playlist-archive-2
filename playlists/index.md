@@ -1,4 +1,4 @@
-## Playlists \(9296\)
+## Playlists \(9297\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -3804,7 +3804,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Shakira y Burna Boy  en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Lola Índigo  &  Lucho RK en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)
@@ -7327,6 +7327,7 @@
 - [This Is Shreya Ghoshal](/playlists/pretty/37i9dQZF1DXc0BeAqkMlJ0.md)
 - [This Is Sia](/playlists/pretty/37i9dQZF1DZ06evO3vuU6c.md)
 - [This Is Sibelius](/playlists/pretty/37i9dQZF1DXcetdKlCf0VE.md)
+- [This Is Sick Of It All](/playlists/pretty/37i9dQZF1DZ06evO11PTZ7.md)
 - [This Is Silvana Estrada](/playlists/pretty/37i9dQZF1DZ06evO4aqrpS.md)
 - [This Is Silverchair](/playlists/pretty/37i9dQZF1DX9DuoVJ0dR3g.md)
 - [This Is Simon & Garfunkel](/playlists/pretty/37i9dQZF1DZ06evO48MYmY.md)

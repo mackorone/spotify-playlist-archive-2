@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACJ/uQqqCAs8dxI0JKt414q",
+  "snapshot_id": "amKrAAAAAABw/Um+xKRISGxaa8Gl2IWx",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireflight",
-        "url": "https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S"
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 184641,
-      "name": "Fireflight",
-      "url": "https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G"
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+        "name": "Fireflight",
+        "url": "https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+      "duration_ms": 184641,
+      "name": "Fireflight",
+      "url": "https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Suspension of Swallowed Earth",
-      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
+      "duration_ms": 212124,
+      "name": "In Charge of the Hour",
+      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
     },
     {
       "added_at": null,
@@ -379,70 +379,6 @@
       "duration_ms": 320000,
       "name": "X 4Ewi",
       "url": "https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Offload Flip",
-        "url": "https://open.spotify.com/album/7w864eA2lFKszD3Y3Jdhsz"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 134715,
-      "name": "Offload Flip",
-      "url": "https://open.spotify.com/track/4ZUrz0NlqXSMnheNUpoe62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Where You Came",
-        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 245311,
-      "name": "Problem of No Name",
-      "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Soft Fold 3/4",
-      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Splash 144",
-      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
     },
     {
       "added_at": null,
@@ -472,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 275332,
-      "name": "The Ceremonial Entrance of Colour",
-      "url": "https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q"
+      "duration_ms": 245311,
+      "name": "Problem of No Name",
+      "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
     },
     {
       "added_at": null,
@@ -488,9 +424,77 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 212124,
-      "name": "In Charge of the Hour",
-      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
+      "duration_ms": 213500,
+      "name": "Suspension of Swallowed Earth",
+      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Splash 144",
+      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 268181,
+      "name": "Territory of Subtle Entries",
+      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 131743,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Cumulative Resolution",
+      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
     },
     {
       "added_at": null,
@@ -524,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 268181,
-      "name": "Territory of Subtle Entries",
-      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+      "duration_ms": 227500,
+      "name": "Grigori in Jakarta",
+      "url": "https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg"
     },
     {
       "added_at": null,
@@ -556,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 102812,
-      "name": "Cumulative Resolution",
-      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
+      "duration_ms": 196374,
+      "name": "Soft Fold 3/4",
+      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
     },
     {
       "added_at": null,
@@ -575,26 +579,6 @@
       "duration_ms": 148204,
       "name": "Kvinne med gresskar",
       "url": "https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Grigori in Jakarta",
-      "url": "https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 1988392,
+  "num_followers": 1988093,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Pacific",
         "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 368493,
       "name": "There's A Place",
       "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "See the World",
-      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "IOWA",
+        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 275170,
+      "name": "IOWA",
+      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3"
       },
@@ -1279,6 +1299,38 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1331,22 +1383,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Lights Off",
-      "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1359,22 +1395,6 @@
       "duration_ms": 204120,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1471,6 +1475,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1631,22 +1651,6 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/66zVzafJU6HTogOQeeNv5y"
     }
   ],
   "unique_name": "Afternoon Acoustic",

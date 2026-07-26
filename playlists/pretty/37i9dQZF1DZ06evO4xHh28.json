@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 641806,
+  "num_followers": 641868,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABSx/jFG17COWBRywaVAnE/",
+  "snapshot_id": "amKrAAAAAABvQg2VKxLa2MywavHo93mx",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Zero Percent - 2026 Remaster",
+      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Zero Percent - 2026 Remaster",
-      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
     },
     {
       "added_at": null,

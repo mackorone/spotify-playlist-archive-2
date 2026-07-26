@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,872 likes - 199 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,298,119 likes - 199 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 198 | [Ease Up](https://open.spotify.com/track/5ncuMqqLJnYhmXrN49ok5z) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Ease Up](https://open.spotify.com/album/58UwGsqrnKFQChzau97DOS) | 2:50 |
 | 199 | [Wanderer](https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Wanderer](https://open.spotify.com/album/0oKlBmIeoGk6AcrieTkQ7s) | 3:19 |
 
-Snapshot ID: `AAAAALyAX+PCsbs7ayMiu3zIR1roL5FR`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

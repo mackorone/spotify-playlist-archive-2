@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,380 songs - 3 day 1 hr 45 min
+1,381 songs - 3 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-04-01 | 2022-07-29 |
 | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ) | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/album/0k5HLDaHBUT1fR8V6DeEoR) | 2:24 | 2021-10-16 | 2022-10-29 |
 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 | 2024-02-09 | 2024-03-09 |
+| [Good Girl](https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Good Girl](https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx) | 3:01 | 2026-07-24 |  |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 | 2023-07-29 |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2022-07-14 | 2022-07-30 |
 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 | 2023-07-28 | 2023-10-23 |
@@ -969,7 +970,7 @@
 | [Promises](https://open.spotify.com/track/4VWCn553TnAjZn7Vv57BWP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2vNOniF3jdNkIfW4B3A1P7) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-18 | 2022-01-29 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2020-12-27 | 2021-10-12 |
-| [Pull Up](https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Pull Up](https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma) | 2:51 | 2025-12-26 |  |
+| [Pull Up](https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Pull Up](https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma) | 2:51 | 2025-12-26 | 2026-07-26 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2020-05-22\* | 2026-01-15 |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 | 2024-04-06 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2021-05-11 | 2022-04-20 |

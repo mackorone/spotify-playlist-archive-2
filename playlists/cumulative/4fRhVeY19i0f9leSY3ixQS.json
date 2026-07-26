@@ -8711,6 +8711,28 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w"
+      },
+      "artists": [
+        {
+          "name": "SEY.MOUR.",
+          "url": "https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE"
+        },
+        {
+          "name": "The Misses",
+          "url": "https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142195,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm"
+    },
+    {
+      "album": {
         "name": "Drive Thru Deja Vu",
         "url": "https://open.spotify.com/album/53Wm0UfSUnWrhAD0m6cWHB"
       },
@@ -19186,7 +19208,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 210461,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/72lnAyiO6SUCUCqVkJRYYD"
@@ -24499,6 +24521,24 @@
     },
     {
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230334,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0c4irpy4JnvF1xd3EatVx5"
       },
@@ -25438,6 +25478,24 @@
       "duration_ms": 186226,
       "name": "Scared",
       "url": "https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW"
+    },
+    {
+      "album": {
+        "name": "Scattered",
+        "url": "https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3"
+      },
+      "artists": [
+        {
+          "name": "Tess & The Details",
+          "url": "https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182811,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW"
     },
     {
       "album": {

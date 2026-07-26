@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx, Sam Smith, Tyla, The Strokes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,550 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,535 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 68 | [On Your Mind](https://open.spotify.com/track/3ZYnpgImdmlKvOXLMm9dMX) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On Your Mind](https://open.spotify.com/album/5pK4zjoOm6dpoplv7iOyqP) | 3:17 |
 | 69 | [ROCKSTAR RIDER](https://open.spotify.com/track/5oLTmlAYDjBtJgjkkJGxGn) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ROCKSTAR RIDER](https://open.spotify.com/album/50hInZyNdoNvVSrp1V9viP) | 2:44 |
 | 70 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
-| 71 | [Bongos \(In The Morning\)](https://open.spotify.com/track/2MoUb7owaPQIdpTLylF8Tm) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2), [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongos \(In The Morning\)](https://open.spotify.com/album/6yTDfVNy7FWKTtYAwP4OA0) | 2:23 |
+| 71 | [Bongos \(In The Morning\)](https://open.spotify.com/track/2MoUb7owaPQIdpTLylF8Tm) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2), [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista Kazuko](https://open.spotify.com/artist/2FolG4F7PJKFEbG2cJ0Ncq) | [Bongos \(In The Morning\)](https://open.spotify.com/album/6yTDfVNy7FWKTtYAwP4OA0) | 2:23 |
 | 72 | [Behind](https://open.spotify.com/track/4AM4PderK5MCo35OZMvq0t) | [Alice Barlow](https://open.spotify.com/artist/7m2aLIvLQUQUvPZeFLIsfT) | [Behind](https://open.spotify.com/album/3cOeBPj0pBqJxGeanwCtMv) | 3:29 |
 | 73 | [Groovin'](https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [Groovin'](https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX) | 3:18 |
 | 74 | [DOING 2 MUCH](https://open.spotify.com/track/3mmDWqT80xqXOd5eb4RhKn) | [Layyah](https://open.spotify.com/artist/4dPLaOXT8fXdg8X0KSIMXF), [Yellows](https://open.spotify.com/artist/5a5kOuwKALscPyPxR35NvP) | [DOING 2 MUCH](https://open.spotify.com/album/6v0Xp5QtsaVkvYt9tHpFn4) | 2:49 |

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Taves",
-  "num_followers": 112339,
+  "num_followers": 112352,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "ghanamu$tgo",
+        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 117410,
+      "name": "ghanamu$tgo",
+      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "Ei voi (feat. Luwa.Mp4)",
         "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 190971,
       "name": "Ei voi (feat. Luwa.Mp4)",
       "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "ghanamu$tgo",
-        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
-      },
-      "artists": [
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 117410,
-      "name": "ghanamu$tgo",
-      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Stop It",
-        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 159344,
-      "name": "Stop It",
-      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "2 l1t",
         "url": "https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Stop It",
+        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 159344,
+      "name": "Stop It",
+      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "A Street Kid's Diary",
         "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Digga",
-        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f4rkk",
-          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 187736,
-      "name": "Digga",
-      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "TAKE RISKS AND PROSPER",
         "url": "https://open.spotify.com/album/0VkxkZMbjH8NrSLllbFUN7"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 155844,
       "name": "BURTI RIDDIM (RAGER 77)",
       "url": "https://open.spotify.com/track/2vH4kipt6yqoYnItS3MDRb"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Digga",
+        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f4rkk",
+          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 187736,
+      "name": "Digga",
+      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1071,6 +1071,42 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "The People",
+        "url": "https://open.spotify.com/album/2hooHrh3FfBGAwbXtknQSS"
+      },
+      "artists": [
+        {
+          "name": "Rigo Kamp",
+          "url": "https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "The People",
+      "url": "https://open.spotify.com/track/03JxBMz5guJWjiwOpU95CS"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Enemies Cry",
+        "url": "https://open.spotify.com/album/3C83IGMIxHuI0p2LADPncs"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 167031,
+      "name": "Enemies Cry",
+      "url": "https://open.spotify.com/track/0KBNrZg9LLaE92YpuTDMXV"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "Burtifly",
         "url": "https://open.spotify.com/album/0Dzx6g6v2rK8Pem6xfmZz5"
       },
@@ -1091,22 +1127,6 @@
       "duration_ms": 125538,
       "name": "Burtifly",
       "url": "https://open.spotify.com/track/0S5aODPPgma3x9nEfxfKS1"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "The People",
-        "url": "https://open.spotify.com/album/2hooHrh3FfBGAwbXtknQSS"
-      },
-      "artists": [
-        {
-          "name": "Rigo Kamp",
-          "url": "https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "The People",
-      "url": "https://open.spotify.com/track/03JxBMz5guJWjiwOpU95CS"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1167,6 +1187,34 @@
       "duration_ms": 145426,
       "name": "Yapa Yapa",
       "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Sunset Drive",
+        "url": "https://open.spotify.com/album/03XuTpwc98BUxIAGRumQcE"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Jimohsoundz",
+          "url": "https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ"
+        },
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Matcha Latte",
+      "url": "https://open.spotify.com/track/33mghr8JmQy7V0tyBVt1bv"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1243,26 +1291,18 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Green Light (feat. Brazy & Maleigh Zan)",
-        "url": "https://open.spotify.com/album/4K5dyyoPwTGgeMiTDIj3lO"
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
       "artists": [
         {
-          "name": "Sar\u00e0h Phenom",
-          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
-        },
-        {
-          "name": "Maleigh Zan",
-          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 154001,
-      "name": "Green Light (feat. Brazy & Maleigh Zan)",
-      "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1283,18 +1323,26 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+        "name": "Green Light (feat. Brazy & Maleigh Zan)",
+        "url": "https://open.spotify.com/album/4K5dyyoPwTGgeMiTDIj3lO"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Sar\u00e0h Phenom",
+          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
+        },
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+      "duration_ms": 154001,
+      "name": "Green Light (feat. Brazy & Maleigh Zan)",
+      "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1335,6 +1383,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "Sisi Eko",
+        "url": "https://open.spotify.com/album/3wDRYY88P1rIqM2iTKDTEa"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 159416,
+      "name": "Sisi Eko",
+      "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "Para Para",
         "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
       },
@@ -1351,22 +1415,6 @@
       "duration_ms": 147744,
       "name": "Para Para",
       "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "Sisi Eko",
-        "url": "https://open.spotify.com/album/3wDRYY88P1rIqM2iTKDTEa"
-      },
-      "artists": [
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 159416,
-      "name": "Sisi Eko",
-      "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1467,42 +1515,6 @@
       "duration_ms": 260000,
       "name": "Don't Chase Me Away",
       "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
-      },
-      "artists": [
-        {
-          "name": "Genio Bambino",
-          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

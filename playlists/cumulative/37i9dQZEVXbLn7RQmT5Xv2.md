@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,240 songs - 3 day 0 hr 56 min
+1,241 songs - 3 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-02-20 | 2022-08-31 |
 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 | 2025-09-27 | 2026-07-17 |
 | [SEBY NAFSEK KHALES](https://open.spotify.com/track/7dR4nnWzcUDpcW67jnOTfs) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [SEBY NAFSEK KHALES](https://open.spotify.com/album/6JcLDIgrEHF8u6D1K95acY) | 3:11 | 2026-06-06 | 2026-07-24 |
-| [Seket Leh](https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ramy Sabry Collection](https://open.spotify.com/album/1flhdVIthDKRZLuic50exZ) | 4:41 | 2024-10-24 |  |
+| [Seket Leh](https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ramy Sabry Collection](https://open.spotify.com/album/1flhdVIthDKRZLuic50exZ) | 4:41 | 2024-10-24 | 2026-07-26 |
 | [Seneen](https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Seneen](https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ) | 3:34 | 2026-01-15 |  |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-05-14 | 2026-02-23 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-28 |
@@ -724,6 +724,7 @@
 | [Shei2 Ghayrek](https://open.spotify.com/track/4YPA0Hn3l89uUXltOcu4vK) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:03 | 2023-02-18 | 2023-02-22 |
 | [Shitan](https://open.spotify.com/track/688F82dCi3uY3SjSgxb6nK) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:38 | 2022-07-07 | 2022-07-12 |
 | [Shoft kalam](https://open.spotify.com/track/4apva8lqiqPd4e7hnEWRFe) | [ABDOOO](https://open.spotify.com/artist/3nD1bucUTQraxXRNMhR4E0), [Marwann pablo](https://open.spotify.com/artist/7KP6zvmMflHeL4B0bws6mm), [Lege\-cyy](https://open.spotify.com/artist/6KX208OaU5dcVfRxzBWZxG) | [Shoft kalam](https://open.spotify.com/album/0XTIHRPYaZeq1ZXpZrPsuE) | 2:59 | 2026-07-23 |  |
+| [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 | 2026-07-25 |  |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-04-12 | 2022-06-26 |
 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 | 2023-11-04 | 2023-11-06 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-26 |

@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "anna teada",
         "url": "https://open.spotify.com/album/4Hn4w98tFssvlAYbRYwpNt"
       },
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -13726,7 +13744,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -16280,7 +16298,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -17478,7 +17496,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 188570,
       "name": "Full Send (WRC Rally Estonia Anthem)",
       "url": "https://open.spotify.com/track/7wGSfp3leisv33jvp6Wh3D"
@@ -23506,7 +23524,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -27838,7 +27856,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 260202,
       "name": "k\u00f5rvetab",
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
@@ -35642,7 +35660,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -56541,6 +56559,24 @@
     },
     {
       "album": {
+        "name": "Vaadi Hele (chug chug)",
+        "url": "https://open.spotify.com/album/7vLmFkzB0dklCpegSfSl68"
+      },
+      "artists": [
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Vaadi hele (chug chug)",
+      "url": "https://open.spotify.com/track/0neOGgUXx8onOu46hlXKNc"
+    },
+    {
+      "album": {
         "name": "Vaata mind",
         "url": "https://open.spotify.com/album/4ziDAGzHEGSqX3ijiyyIEC"
       },
@@ -57776,7 +57812,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 153703,
       "name": "WAIKUSE VALGE UDU",
       "url": "https://open.spotify.com/track/7LZFlYFtCNLAUlfHGhBZ26"

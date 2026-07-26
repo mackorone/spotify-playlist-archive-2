@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
       "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 206461,
       "name": "Come My Way (softer version)",
       "url": "https://open.spotify.com/track/331pu1rdL2Yn7Z3F1RNXBR"
@@ -6920,7 +6920,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 227458,
       "name": "DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/3x7Hh3zsE1wcXCU2G8l5tP"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -14345,6 +14345,24 @@
     },
     {
       "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
       },
@@ -17650,7 +17668,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 242144,
       "name": "Nguy\u1ec5n V\u0103n M\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/1ap1uhhvWmyZDJZ0HBWpvo"
@@ -19278,7 +19296,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -20746,7 +20764,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 266666,
       "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
       "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
@@ -24224,7 +24242,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"

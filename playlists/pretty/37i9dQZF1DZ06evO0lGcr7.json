@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46581,
+  "num_followers": 46580,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADTxgL83137a5ITsMa5zcB2",
+  "snapshot_id": "amKrAAAAAADac4uKuoeF1CIKzbwglCFZ",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 170025,
-      "name": "dramatic escape",
-      "url": "https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn"
+      "duration_ms": 224082,
+      "name": "just a little",
+      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158426,
-      "name": "dance (end of the world)",
-      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
+      "duration_ms": 187243,
+      "name": "temporary nothing",
+      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
     },
     {
       "added_at": null,
@@ -540,9 +540,25 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 224082,
-      "name": "just a little",
-      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
+      "duration_ms": 170025,
+      "name": "dramatic escape",
+      "url": "https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "dance (end of the world)",
+      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
     },
     {
       "added_at": null,
@@ -572,25 +588,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 187243,
-      "name": "temporary nothing",
-      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "plastic pony",
-      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
+      "duration_ms": 271914,
+      "name": "porcelain",
+      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
     },
     {
       "added_at": null,
@@ -611,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 183449,
-      "name": "sad disco",
-      "url": "https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 271914,
-      "name": "porcelain",
-      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -652,29 +620,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 209868,
-      "name": "the situation",
-      "url": "https://open.spotify.com/track/2e7kkDj5yIQFn4jRFP9vwM"
+      "duration_ms": 142573,
+      "name": "plastic pony",
+      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
     },
     {
       "added_at": null,
@@ -711,6 +659,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 209868,
+      "name": "the situation",
+      "url": "https://open.spotify.com/track/2e7kkDj5yIQFn4jRFP9vwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -720,25 +704,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 191706,
-      "name": "haze",
-      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "every wave",
-      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+      "duration_ms": 183449,
+      "name": "sad disco",
+      "url": "https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ"
     },
     {
       "added_at": null,
@@ -759,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "every wave",
+      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "myrtle ave.",
-      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -800,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 162266,
-      "name": "growing pains",
-      "url": "https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J"
+      "duration_ms": 191706,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
     },
     {
       "added_at": null,
@@ -823,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "myrtle ave.",
+      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 212093,
       "name": "lessons",
       "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "growing pains",
+      "url": "https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J"
     },
     {
       "added_at": null,

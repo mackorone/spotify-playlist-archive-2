@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: nina shezz
 
-8,582 songs - 26 day 16 hr 1 min
+8,583 songs - 26 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [AGABA](https://open.spotify.com/track/5hXAJRds3U5MG6yxLuJoXp) | [Austin Ikpe King](https://open.spotify.com/artist/7u3fwJ5NE0zgHcwZwPIEa0), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz) | [AGABA](https://open.spotify.com/album/3pGN2oHv8WlKUWk8nm80nt) | 3:36 | 2025-02-14 | 2025-03-08 |
 | [AGABA](https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [AGABA](https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT) | 2:43 | 2026-07-24 |  |
 | [Agaba Eehh](https://open.spotify.com/track/0UgjpenOKlnuIMsLHni103) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Agaba Eehh](https://open.spotify.com/album/1tisIXVXX3PpudBmry3b4r) | 6:03 | 2024-06-07 | 2024-06-21 |
+| [AGABA MUKE](https://open.spotify.com/track/7JqGMn4fTVgHUSDcy0s9kW) | [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [AGABA MUKE](https://open.spotify.com/album/7L2NJ29VFodHQZSiloY7kT) | 3:06 | 2026-07-24 |  |
 | [Agaba\(My daddy run it\)](https://open.spotify.com/track/1VGKNlz85roTgKnG24GXAJ) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye) | [A New Season](https://open.spotify.com/album/6LsiBRcp2nAtCSaD2ZRt4Q) | 3:03 | 2025-07-25 | 2025-08-08 |
 | [Agabaidu](https://open.spotify.com/track/22uv4mVTC9xXFSZSagDjH0) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Vera Enenche Shishi](https://open.spotify.com/artist/1o6cQ96mhNuwFbiw6vpKie) | [Agabaidu](https://open.spotify.com/album/6cQgIrOKzHTSevAizYWwjC) | 9:20 | 2023-06-30 | 2023-07-14 |
 | [Agabaidu \(Lion of Judah\)](https://open.spotify.com/track/2ySlAsOdBNm10mZL6XoCZE) | [Chris Mbarga](https://open.spotify.com/artist/5T6hfBwI6ZhEWCerWQjOfq), [Patience Tumba](https://open.spotify.com/artist/5rl5zLtbpyb9RQHAn2L31v) | [Agabaidu \(Lion of Judah\)](https://open.spotify.com/album/6FQQibf61HDHYxkNJjPkks) | 10:13 | 2024-12-20 | 2025-01-10 |

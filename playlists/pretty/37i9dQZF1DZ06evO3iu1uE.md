@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 
 > This is X\-Ray Spex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 16 songs - 44 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 16 songs - 44 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 | 15 | [Warrior in Woolworths](https://open.spotify.com/track/1euywBbU9IYRoT9qFOdUvr) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:07 |
 | 16 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
 
-Snapshot ID: `amFZgAAAAADCIIKSm1meqncbslnMg1F1`
+Snapshot ID: `amKrAAAAAABuC4HmtIN0w9ED/mzeXJTg`

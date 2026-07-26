@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136580,
+  "num_followers": 136584,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+        "name": "Feelin' Good Again",
+        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
       },
       "artists": [
         {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         },
         {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 219345,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
+      "duration_ms": 216502,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -671,22 +671,22 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Feelin' Good Again",
-        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
         },
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
         }
       ],
-      "duration_ms": 216502,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "added_at": "2026-07-23 22:45:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-07-23 22:45:25",
       "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
-    },
-    {
-      "added_at": "2026-07-23 22:45:25",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 186346,
       "name": "Wild And Blue",
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+      "added_at": "2026-07-23 22:45:25",
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2026-07-23 22:45:25",

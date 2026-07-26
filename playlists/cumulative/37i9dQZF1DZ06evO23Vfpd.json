@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251389,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+    },
+    {
+      "album": {
         "name": "Cabelas",
         "url": "https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61"
       },

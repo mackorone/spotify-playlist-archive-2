@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1646979,
+  "num_followers": 1647168,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 142053,
+      "name": "chess - slowed",
+      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 128477,
       "name": "HEAVENLY JUMPSTYLE - Slowed",
       "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "chess",
-        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
-      },
-      "artists": [
-        {
-          "name": "joyful",
-          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
-        }
-      ],
-      "duration_ms": 142053,
-      "name": "chess - slowed",
-      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
     },
     {
       "added_at": "2026-06-11 16:08:55",

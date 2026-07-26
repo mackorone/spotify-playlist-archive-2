@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346008,
+  "num_followers": 346003,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/0FI9YzwKRttLTCbYj4kHor"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 316343,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/3UTgRmOlROxB1Ly99MAMzv"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Yesterday, Today, & Tomorrow",
         "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202333,
       "name": "Yesterday, Today, & Tomorrow",
       "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/0FI9YzwKRttLTCbYj4kHor"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 316343,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/3UTgRmOlROxB1Ly99MAMzv"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Table for 2 - EP",
+        "url": "https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD"
+      },
+      "artists": [
+        {
+          "name": "Laura Ehio",
+          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
+        },
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "Zero Time",
+      "url": "https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Little Big Dreams",
         "url": "https://open.spotify.com/album/31kG968T4NmPlLaFynGNLz"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 266326,
       "name": "Little Big Dreams",
       "url": "https://open.spotify.com/track/7pJU4hwoSBRlQ2FaBcASK6"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Table for 2 - EP",
-        "url": "https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD"
-      },
-      "artists": [
-        {
-          "name": "Laura Ehio",
-          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
-        },
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "Zero Time",
-      "url": "https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Slow Burn (Take Your Time)",
+        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "duration_ms": 183205,
+      "name": "Slow Burn (Take Your Time)",
+      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Wait On You",
         "url": "https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 237792,
       "name": "Wait On You",
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Slow Burn (Take Your Time)",
-        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
-      },
-      "artists": [
-        {
-          "name": "darthy",
-          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
-        }
-      ],
-      "duration_ms": 183205,
-      "name": "Slow Burn (Take Your Time)",
-      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "MATIN: Love",
+        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Ninety One",
+      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "i love You",
         "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 268285,
       "name": "Worthy Of It All - Acoustic",
       "url": "https://open.spotify.com/track/0yC6Kov4I5J5tEDuph73HW"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "MATIN: Love",
-        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Ninety One",
-      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Give Me Rest",
+        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 243704,
+      "name": "Give Me Rest",
+      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Wonderful, Wonderful Lord (Ps 139)",
         "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Give Me Rest",
-        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 243704,
-      "name": "Give Me Rest",
-      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Do it Afraid",
         "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 164605,
       "name": "Do it Afraid",
       "url": "https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Jesus Cries",
         "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Where the Warfare Ends",
-        "url": "https://open.spotify.com/album/53Bpez88XLt8D0ifczO654"
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
       },
       "artists": [
         {
-          "name": "Amanda Janson",
-          "url": "https://open.spotify.com/artist/1hmExKU3SJa9jqgv2KKCuN"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 291590,
-      "name": "Where the Warfare Ends",
-      "url": "https://open.spotify.com/track/76uuVO1zARyQedDmhJJfdw"
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2207,18 +2191,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/7dQNytGm36FVwX005CcmzX"
+        "name": "Where the Warfare Ends",
+        "url": "https://open.spotify.com/album/53Bpez88XLt8D0ifczO654"
       },
       "artists": [
         {
-          "name": "Deborah Billyben",
-          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+          "name": "Amanda Janson",
+          "url": "https://open.spotify.com/artist/1hmExKU3SJa9jqgv2KKCuN"
         }
       ],
-      "duration_ms": 345999,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/1IwoLntlnhcvmJ5pdOGeo0"
+      "duration_ms": 291590,
+      "name": "Where the Warfare Ends",
+      "url": "https://open.spotify.com/track/76uuVO1zARyQedDmhJJfdw"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2255,6 +2239,22 @@
       "duration_ms": 214046,
       "name": "Who Is Greatest?",
       "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/7dQNytGm36FVwX005CcmzX"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "duration_ms": 345999,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/1IwoLntlnhcvmJ5pdOGeo0"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Like Everybody Else",
-        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Like Everybody Else",
-      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Precious Wine",
         "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 378181,
       "name": "Precious Wine",
       "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "I Choose To Love You",
-        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
-      },
-      "artists": [
-        {
-          "name": "Rivers Crossing Worship",
-          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
-        }
-      ],
-      "duration_ms": 344723,
-      "name": "I Choose To Love You",
-      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "The Way of Love",
         "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 231293,
       "name": "The Way of Love",
       "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "I Choose To Love You",
+        "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
+      },
+      "artists": [
+        {
+          "name": "Rivers Crossing Worship",
+          "url": "https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs"
+        }
+      ],
+      "duration_ms": 344723,
+      "name": "I Choose To Love You",
+      "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
     },
     {
       "added_at": "2026-04-17 06:49:13",

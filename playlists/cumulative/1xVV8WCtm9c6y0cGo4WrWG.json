@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "For the next 5 weeks, the Hoop Queens are taking over the Hip Hop Pulse Playlist\u2014curating the sounds that fuel their game on and off the court. It\u2019s not just a takeover. It\u2019s a full-court statement.  Curated by: Team Blaze",
+  "description": "The Hoop Queens are taking over the Hip Hop Pulse Playlist\u2014curating the sounds that fuel their game on and off the court. It\u2019s not just a takeover. It\u2019s a full-court statement.  Curated by: Team Blaze",
   "name": "Hip-Hop Pulse",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -2397,6 +2397,32 @@
     },
     {
       "album": {
+        "name": "Contra La Pared (Dom Da Bomb Remix)",
+        "url": "https://open.spotify.com/album/0F1etgW63qBgu6WTp8p98x"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dom Da Bomb",
+          "url": "https://open.spotify.com/artist/5yRQcUGG9sNL8Mo3z6JWAR"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Contra La Pared - Dom Da Bomb Remix",
+      "url": "https://open.spotify.com/track/1GejDZaQFo6vWH8uejXNk0"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
       },
@@ -3281,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/7LKevxlgs3jILWLe8VQlmW"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/3eRaxLLhyYHKr8oiR6NeYI"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -3686,7 +3734,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -4298,6 +4346,24 @@
       "duration_ms": 161259,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/5R994fpefPKtPR95kgWyDk"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
     },
     {
       "album": {
@@ -5007,6 +5073,28 @@
     },
     {
       "album": {
+        "name": "It Bend Like Banana",
+        "url": "https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174994,
+      "name": "It Bend Like Banana",
+      "url": "https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy"
+    },
+    {
+      "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
       },
@@ -5369,6 +5457,24 @@
     },
     {
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261878,
+      "name": "Let Em' Know",
+      "url": "https://open.spotify.com/track/5QDGKcQLqOJvoiu8eScEaM"
+    },
+    {
+      "album": {
         "name": "Let King Tonka Talk",
         "url": "https://open.spotify.com/album/4ZUrfmFr1nwn0IPu2bkDav"
       },
@@ -5724,6 +5830,24 @@
       "duration_ms": 210338,
       "name": "Long Story Short (with Lil Wayne)",
       "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "album": {
@@ -6117,6 +6241,28 @@
     },
     {
       "album": {
+        "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+        "url": "https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154304,
+      "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+      "url": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV"
+    },
+    {
+      "album": {
         "name": "MUDBOY",
         "url": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
       },
@@ -6369,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
+        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203114,
+      "name": "NARI NARI NARI / \u0646\u0627\u0631\u064a \u0646\u0627\u0631\u064a \u0646\u0627\u0631\u064a",
+      "url": "https://open.spotify.com/track/7zO8pvhMf6s1DzMMiV7CaU"
+    },
+    {
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -6580,6 +6744,24 @@
       "duration_ms": 252705,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
       "album": {
@@ -8685,6 +8867,28 @@
     },
     {
       "album": {
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
+    },
+    {
+      "album": {
         "name": "SOMEBODY LOVES ME PT. 2",
         "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
       },
@@ -8993,6 +9197,24 @@
     },
     {
       "album": {
+        "name": "Let Me Fly (Deluxe)",
+        "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150041,
+      "name": "Strippers Lives Matter",
+      "url": "https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz"
+    },
+    {
+      "album": {
         "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
@@ -9191,6 +9413,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "album": {
         "name": "Talk Truth",
         "url": "https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS"
       },
@@ -9384,6 +9632,32 @@
       "duration_ms": 248661,
       "name": "The Secret Recipe",
       "url": "https://open.spotify.com/track/5lcYNUreUk4OwC8AhfG8qu"
+    },
+    {
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "The Way I Are",
+      "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
       "album": {
@@ -10155,6 +10429,28 @@
     },
     {
       "album": {
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Tyson vs. Ali (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/004DJSek7Zd1dVNRHvHwrf"
+    },
+    {
+      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
       },
@@ -10539,6 +10835,24 @@
     },
     {
       "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/6c7wNxBe71RHzHlY1uqxgR"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/3DjMtj3Q1gUm1wIVnVekPC"
+    },
+    {
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -10896,6 +11210,24 @@
       "duration_ms": 181999,
       "name": "WOO [Feat. PlayThatBoiZay, Chief Pound]",
       "url": "https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu"
+    },
+    {
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "album": {

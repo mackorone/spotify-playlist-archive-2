@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,831 likes - 104 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,843 likes - 104 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 10 | [Nightride](https://open.spotify.com/track/7rgXADUmIekpqucA6TWdgh) | [Eskil Roos](https://open.spotify.com/artist/2dCZsKYSV49Kf7mshUtF2F), [Gustav Sundquist](https://open.spotify.com/artist/18knGnoxBZ5ijrMQGQRHfk), [Hampus Petersson](https://open.spotify.com/artist/0N5d7hYHM7OGobB5QMio8O) | [Nightride](https://open.spotify.com/album/2BOl24gQPuws4HcFJmKtsP) | 5:00 |
 | 11 | [The Inn Beneath the Starry Sky \- From “The Neverending Dream”](https://open.spotify.com/track/0xgDz6kiqn3Y0gd0zzSz9N) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8) | [The Inn Beneath the Starry Sky \(From “The Neverending Dream”\)](https://open.spotify.com/album/1OwCN32jbGiridEzLAd9zB) | 3:12 |
 | 12 | [Body and Soul \(arr\. for guitar by John W Duarte\)](https://open.spotify.com/track/3jXA6ACiDv08poLGFhrBAc) | [Francisco Correa](https://open.spotify.com/artist/65WOtC7egyj29dra8Q2Zt3) | [Songs from Beyond: jazz song arrangements by John W Duarte](https://open.spotify.com/album/6HKolwZp9ZJrQdejwvzOTD) | 3:58 |
-| 13 | [Prelude II\. Andante con moto e poco rubato](https://open.spotify.com/track/5myAoTjhdW27b3Ew2nUR4q) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Prelude II\. Andante con moto e poco rubato](https://open.spotify.com/album/78xhoX3XBfEw4vlVTXGCKL) | 3:27 |
+| 13 | [Three Preludes: II\. Andante con moto e poco rubato](https://open.spotify.com/track/5myAoTjhdW27b3Ew2nUR4q) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Three Preludes: II\. Andante con moto e poco rubato](https://open.spotify.com/album/78xhoX3XBfEw4vlVTXGCKL) | 3:27 |
 | 14 | [Águas de Março \(Arr\. for Two Pianos by Marco Bernardo\)](https://open.spotify.com/track/0KSWyDx0lONHhX4L8WC968) | [Fabio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH), [Marco Bernardo](https://open.spotify.com/artist/1oVhRtK3REXbLWiZdZ7aXB) | [Águas de Março \(Arr\. for Two Pianos by Marco Bernardo\)](https://open.spotify.com/album/2CUCsF84BXSFwrTA2pVQNh) | 3:52 |
 | 15 | [I Love Paris \(arr\. for guitar by John W Duarte\)](https://open.spotify.com/track/28TUnvxKMS1Y5zzrOrl1Vr) | [Francisco Correa](https://open.spotify.com/artist/65WOtC7egyj29dra8Q2Zt3) | [I Love Paris \(arr\. for guitar by John W Duarte\)](https://open.spotify.com/album/42YjOUFdo4MAVs58mVV2St) | 2:55 |
 | 16 | [Someone To Watch Over Me](https://open.spotify.com/track/5PGOVKDXfmD1pThMelvErR) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Niklas Walentin](https://open.spotify.com/artist/6lWotXEsU7enyhQ0BUmfdk), [Snorre Kirk Trio](https://open.spotify.com/artist/2x6GREKOITUhKYBBDXc8bx) | [Another June Night](https://open.spotify.com/album/6RcQwt7rOeR1uelV4pEbqg) | 5:33 |

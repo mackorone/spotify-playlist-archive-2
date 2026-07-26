@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,109 likes - 252 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 252 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 122 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 |
 | 123 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 124 | [Paris On a Sunny Day](https://open.spotify.com/track/2iWF723SL2T6qAW9RBls1c) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 5:07 |
-| 125 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 |
-| 126 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 |
+| 125 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 |
+| 126 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 |
 | 127 | [Deserve](https://open.spotify.com/track/4RuI0ItCK4wjtLJi9hhJEU) | [Teairra Marí](https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N) | [Deserve \- Single](https://open.spotify.com/album/5bvgBtWKI8bTsekfaFGeyM) | 3:17 |
 | 128 | [Just Like You](https://open.spotify.com/track/5ff9NJ1oh2PncBD8R00jJ6) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:52 |
 | 129 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 131 | [Lie to Me](https://open.spotify.com/track/5i0OHpGf0sBnQhxdpxHjwC) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [Flip](https://open.spotify.com/artist/1939X6ROqtaab8VT01Yaty) | [Coke Boys Tour](https://open.spotify.com/album/5OAG6xARCduo9svbhzuF0s) | 4:11 |
 | 132 | [Settle The Score \(with DUCKWRTH\)](https://open.spotify.com/track/5K7OgzqlXtwWb01MyrlqVO) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:29 |
 | 133 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 |
-| 134 | [Rick James](https://open.spotify.com/track/1KYLVGcz6tE9vc6APMKkXi) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 4:11 |
-| 135 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 134 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 135 | [Rick James](https://open.spotify.com/track/1KYLVGcz6tE9vc6APMKkXi) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 4:11 |
 | 136 | [Rebound \(feat\. Joey Bada$$\)](https://open.spotify.com/track/32HMtqbJcmTFgkGW3MoyDL) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 4:01 |
 | 137 | [Tiptoe](https://open.spotify.com/track/7jFqorrnHGQq2Kra5E5DSp) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Tiptoe](https://open.spotify.com/album/2ggfC4PIKJhmqp2ByVcihN) | 2:58 |
 | 138 | [Tennessee](https://open.spotify.com/track/06KKE7mSrJo1zpAxvKJYpk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tennessee](https://open.spotify.com/album/4TUWQbjGTrO3N2jdxWAj46) | 2:36 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 251 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 252 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcXvqAAAAACHsLZwiCNx0roFz5Uskk5K`
+Snapshot ID: `AcX1SAAAAABPhzaYRckgsrMNrEWjMEzR`

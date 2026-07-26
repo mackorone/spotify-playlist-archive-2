@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
+    },
+    {
+      "album": {
         "name": "Home In Your Broken Heart",
         "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
       },
@@ -11916,7 +11934,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 247050,
       "name": "The Shadows (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"

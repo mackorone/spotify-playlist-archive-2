@@ -4,7 +4,7 @@
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-123 songs - 11 hr 0 min
+124 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Madan](https://open.spotify.com/track/5siFgBbdKb7TwqXi1CzF3C) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Madan](https://open.spotify.com/album/2r095z3wi0vIxl5Yn990St) | 2:56 | 2026-03-15 |  |
 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 | 2021-12-28 | 2023-12-23 |
 | [Madan \- Remix](https://open.spotify.com/track/5h1xmefdnY2Y4zld4jnvoE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 3:13 | 2023-12-22 |  |
+| [Mandjou](https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Feki Station](https://open.spotify.com/artist/2LMUZc4VeAVjEG2BNMuL2L), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mandjou](https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K) | 4:34 | 2026-07-26 |  |
 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 | 2021-12-28 | 2026-07-02 |
 | [Mansa Fo La](https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 6:43 | 2021-12-28 |  |
 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 | 2022-10-12 | 2024-08-27 |
@@ -130,6 +131,6 @@
 | [Yamore \- Francis Mercier & André Soueid Remix](https://open.spotify.com/track/5Gh1sRSd3xCy60htr68h2P) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Andre Soueid](https://open.spotify.com/artist/0D2ke0lhGy6KJY9ING1BWt), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore \(Remix\)](https://open.spotify.com/album/37KUHRtoiijZAiHHCLfwDT) | 3:05 | 2024-10-20 | 2024-11-18 |
 | [Yamore \- Mrak & Armonica Remix](https://open.spotify.com/track/28KWF5pRAqsptzJeGZGUYg) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore \(Remix II\)](https://open.spotify.com/album/5XkuVY4hW5SZO32LSdVUiB) | 2:36 | 2024-11-18 | 2024-11-30 |
 | [Yamore \- Radio Edit](https://open.spotify.com/track/4bRHRO9c8Irm4WVp7foB2k) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Cesaria Evora &...](https://open.spotify.com/album/465DTu20b6QFSOmMRDcyhP) | 3:43 | 2022-11-03 | 2024-07-25 |
-| [Yele n Na](https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:13 | 2026-05-04 |  |
+| [Yele n Na](https://open.spotify.com/track/0e4Nz847n4DHLxEFQJWEpY) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:13 | 2026-05-04 | 2026-07-26 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

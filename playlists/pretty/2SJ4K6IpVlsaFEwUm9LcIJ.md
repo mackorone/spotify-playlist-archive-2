@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,362 likes - 32 songs - 2 hr 23 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,361 likes - 33 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,5 +40,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 30 | [About Her Eyes](https://open.spotify.com/track/7iFO7hNC6tDhTaaNyjGq1d) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Five Years Gone](https://open.spotify.com/album/2lRWTNRE1rBepK3kMhEW7h) | 2:46 |
 | 31 | [風をあつめて](https://open.spotify.com/track/4mDoYdwFGi5nPwwGIKqQnF) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 4:06 |
 | 32 | [暗闇坂むささび変化](https://open.spotify.com/track/60JZapt4cncqQ0xG1iM6nM) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 1:58 |
+| 33 | [To Sleep](https://open.spotify.com/track/4yHw6toZyUBFXPnqcq3NpE) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 5:44 |
 
-Snapshot ID: `AAAOo/zPfQWE84zvkqTbiV2zJHl6o9XC`
+Snapshot ID: `AAAOpEhqVEVV5kUbSbUib9B+htrBq5Bs`

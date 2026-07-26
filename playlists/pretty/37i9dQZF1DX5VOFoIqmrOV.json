@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 463186,
+  "num_followers": 463251,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -173,30 +173,6 @@
       "url": "https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4"
     },
     {
-      "added_at": "2026-04-17 11:03:44",
-      "album": {
-        "name": "Andhra King Taluka",
-        "url": "https://open.spotify.com/album/1PV2P1dasOI3eRMUgn8NrM"
-      },
-      "artists": [
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ram Pothineni",
-          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
-        }
-      ],
-      "duration_ms": 240101,
-      "name": "Nuvvunte Chaley",
-      "url": "https://open.spotify.com/track/5jK51FsM1NKphlwnFYBeKE"
-    },
-    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "V",
@@ -219,6 +195,30 @@
       "duration_ms": 267500,
       "name": "Manasu Maree",
       "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
+    },
+    {
+      "added_at": "2026-04-17 11:03:44",
+      "album": {
+        "name": "Andhra King Taluka",
+        "url": "https://open.spotify.com/album/1PV2P1dasOI3eRMUgn8NrM"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ram Pothineni",
+          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
+        }
+      ],
+      "duration_ms": 240101,
+      "name": "Nuvvunte Chaley",
+      "url": "https://open.spotify.com/track/5jK51FsM1NKphlwnFYBeKE"
     },
     {
       "added_at": "2025-03-18 08:31:58",
@@ -249,34 +249,6 @@
       "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
     },
     {
-      "added_at": "2025-05-09 09:57:39",
-      "album": {
-        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Nutana Mohan",
-          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
-    },
-    {
       "added_at": "2026-04-17 11:03:44",
       "album": {
         "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
@@ -303,6 +275,34 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+    },
+    {
+      "added_at": "2025-05-09 09:57:39",
+      "album": {
+        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
     },
     {
       "added_at": "2023-08-07 09:11:28",

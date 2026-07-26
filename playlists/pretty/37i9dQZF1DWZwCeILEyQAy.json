@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 454728,
+  "num_followers": 454681,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 192567,
       "name": "Finesse (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "No Statements",
-        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "No Statements",
-      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
     },
     {
       "added_at": "2025-06-20 04:00:58",

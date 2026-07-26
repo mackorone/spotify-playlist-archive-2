@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,152 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,158 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
 | 15 | [Bloco \#01 \- Jeito Sexy / Deixa em Off / So Sick](https://open.spotify.com/track/002DY6zVBD6MyNvGxrTknQ) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Bloco \#01 \- Jeito Sexy / Deixa em Off / So Sick](https://open.spotify.com/album/2QjUJrDA0KS0JYwSbl7LFc) | 6:55 |
 | 16 | [Fogueira de uma Paixão \- Ao Vivo](https://open.spotify.com/track/0iwQvF7iYRyIIp5gLW91kG) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Eu Sou Assim \(Ao Vivo\)](https://open.spotify.com/album/1qroRvkXKaPUrUU3glucgN) | 3:24 |
-| 17 | [AMANHÃ](https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:56 |
-| 18 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
+| 17 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
+| 18 | [AMANHÃ](https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:56 |
 | 19 | [Belém \- Ao Vivo](https://open.spotify.com/track/6hasWlKd0tNBlGoRFfV3CP) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Joyce Alane Ao Vivo no SALA](https://open.spotify.com/album/2uzda75zVsNRfwXi4jAweS) | 3:10 |
 | 20 | [Tua \- Ao Vivo](https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Tua \(Ao Vivo\)](https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW) | 2:50 |
 | 21 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |

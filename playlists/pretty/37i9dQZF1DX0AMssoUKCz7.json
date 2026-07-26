@@ -1,6 +1,6 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2351377,
+  "num_followers": 2351525,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
-      },
-      "artists": [
-        {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
-        }
-      ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1G0jW7eipMKCiiHml5Cwmq"
       },
@@ -1315,26 +1299,18 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Show Me Love (Remixes 2)",
-        "url": "https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb"
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Kimberly Anne",
-          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
         }
       ],
-      "duration_ms": 180336,
-      "name": "Show Me Love - EDX Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1431,6 +1407,30 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Show Me Love (Remixes 2)",
+        "url": "https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 180336,
+      "name": "Show Me Love - EDX Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Dream Dimension",
         "url": "https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 220000,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2vWWCxY9skwNkBujtM0R2G"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Lucas",
-          "url": "https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/2iEmvSAgiDs88DSYjvNsa2"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1479,6 +1463,22 @@
       "duration_ms": 167160,
       "name": "Ocean Quiet",
       "url": "https://open.spotify.com/track/6zFCci00787rGrLkWDwog8"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2vWWCxY9skwNkBujtM0R2G"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2iEmvSAgiDs88DSYjvNsa2"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Valerie",
-        "url": "https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD"
-      },
-      "artists": [
-        {
-          "name": "Paratone",
-          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/5F30EhA6VJC1Wzfux39cvE"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "I'll Be Alright",
         "url": "https://open.spotify.com/album/621vQENf53N8IYGxFashcT"
       },
@@ -1739,30 +1739,6 @@
       "duration_ms": 182268,
       "name": "I'll Be Alright",
       "url": "https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/4AmWFvDmAdJpZ5ssTsMXcN"
-      },
-      "artists": [
-        {
-          "name": "Curl",
-          "url": "https://open.spotify.com/artist/0Piu1e2BjLNbxYoRNlVu9i"
-        },
-        {
-          "name": "Jorm",
-          "url": "https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq"
-        },
-        {
-          "name": "Ludvigsson",
-          "url": "https://open.spotify.com/artist/3oa1ydh8eLVXesBUwIfBWQ"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7Avzm0jNcSsoJGKnqkTY4h"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1787,6 +1763,30 @@
       "duration_ms": 142499,
       "name": "What I Have with You",
       "url": "https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/4AmWFvDmAdJpZ5ssTsMXcN"
+      },
+      "artists": [
+        {
+          "name": "Curl",
+          "url": "https://open.spotify.com/artist/0Piu1e2BjLNbxYoRNlVu9i"
+        },
+        {
+          "name": "Jorm",
+          "url": "https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq"
+        },
+        {
+          "name": "Ludvigsson",
+          "url": "https://open.spotify.com/artist/3oa1ydh8eLVXesBUwIfBWQ"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7Avzm0jNcSsoJGKnqkTY4h"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Never Need",
+        "url": "https://open.spotify.com/album/2HgyYQ84KQgRK7TiN92iNI"
+      },
+      "artists": [
+        {
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+        },
+        {
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+        }
+      ],
+      "duration_ms": 197255,
+      "name": "Never Need",
+      "url": "https://open.spotify.com/track/7wDo3yDdE2pzHrhutOAPc1"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/3YvUQyqpSdmi8YME9BLRaU"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 165000,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/17Yg8QW4SDwjvmHikrrOre"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Never Need",
-        "url": "https://open.spotify.com/album/2HgyYQ84KQgRK7TiN92iNI"
-      },
-      "artists": [
-        {
-          "name": "Hogland",
-          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
-        },
-        {
-          "name": "Charlie South",
-          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
-        }
-      ],
-      "duration_ms": 197255,
-      "name": "Never Need",
-      "url": "https://open.spotify.com/track/7wDo3yDdE2pzHrhutOAPc1"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Nothing Better",
+        "url": "https://open.spotify.com/album/55OUdcRkbx2l1b2TM0UnDL"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/6ESPVLQpEGHoVgcOi8A4XB"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk"
       },
@@ -2571,22 +2587,6 @@
       "duration_ms": 212813,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Nothing Better",
-        "url": "https://open.spotify.com/album/55OUdcRkbx2l1b2TM0UnDL"
-      },
-      "artists": [
-        {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/6ESPVLQpEGHoVgcOi8A4XB"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/1DpfoXhv694J2YaGuHU6W7"
-      },
-      "artists": [
-        {
-          "name": "Alphajack",
-          "url": "https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/6fR6BGT2lk6GnOpPI9Z0n2"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78"
       },
@@ -2787,6 +2767,26 @@
       "duration_ms": 160200,
       "name": "Belong - Deepend Edit",
       "url": "https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/1DpfoXhv694J2YaGuHU6W7"
+      },
+      "artists": [
+        {
+          "name": "Alphajack",
+          "url": "https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/6fR6BGT2lk6GnOpPI9Z0n2"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2907,26 +2907,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Mouth Of Madness",
-        "url": "https://open.spotify.com/album/72pIluQXx9yA45d1kXsNfD"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "Ofelia K",
-          "url": "https://open.spotify.com/artist/29iw18MxnVp5gLozO7e2HE"
-        }
-      ],
-      "duration_ms": 245950,
-      "name": "Mouth Of Madness",
-      "url": "https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Which Way the Wind Blows",
         "url": "https://open.spotify.com/album/0YUpiepgMm6gqciQ8hu6nJ"
       },
@@ -2943,6 +2923,26 @@
       "duration_ms": 128852,
       "name": "Which Way the Wind Blows",
       "url": "https://open.spotify.com/track/7IFxw1VhX7IheTpBh7MDr1"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Mouth Of Madness",
+        "url": "https://open.spotify.com/album/72pIluQXx9yA45d1kXsNfD"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Ofelia K",
+          "url": "https://open.spotify.com/artist/29iw18MxnVp5gLozO7e2HE"
+        }
+      ],
+      "duration_ms": 245950,
+      "name": "Mouth Of Madness",
+      "url": "https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s"
     },
     {
       "added_at": "2026-07-10 04:00:55",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2026-07-06 |  |
+| [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2026-07-06 | 2026-07-26 |
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2026-06-16 |  |
 | [All My Girls](https://open.spotify.com/track/4eMJvvkRQuxLIuuO9m2kY8) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [All My Girls](https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB) | 2:11 | 2026-06-16 |  |
 | [Baddies](https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:53 | 2026-06-16 |  |
@@ -32,7 +32,7 @@
 | [feels](https://open.spotify.com/track/6k87vClVnH5LZnUSDjZYIG) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [feels](https://open.spotify.com/album/3bZ1hel9VzJZSe7tZ0P9NR) | 3:21 | 2026-06-28 | 2026-07-01 |
 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 | 2026-07-05 |  |
 | [Give Me 10's](https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Give Me 10's](https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji) | 1:56 | 2026-06-16 |  |
-| [GRACIAS \- Remix](https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GRACIAS \(Remix\)](https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS) | 2:26 | 2026-06-16 | 2026-07-23 |
+| [GRACIAS \- Remix](https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GRACIAS \(Remix\)](https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS) | 2:26 | 2026-06-16 |  |
 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 | 2026-06-16 |  |
 | [his sweater](https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [his sweater](https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV) | 2:41 | 2026-06-16 |  |
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2026-06-16 |  |

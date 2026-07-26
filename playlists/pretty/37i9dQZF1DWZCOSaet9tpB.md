@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,465 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,730 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Already](https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 2:35 |
 | 50 | [California Girls](https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:29 |
 
-Snapshot ID: `AAAAANW8PI/baudAw/8iSGJ73ht30cI8`
+Snapshot ID: `AAAAAKPeQ2LdpQmqo7tX0NhqG063WVBs`

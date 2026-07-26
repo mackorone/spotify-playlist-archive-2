@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,788 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 16 | [Burn Burn Burn](https://open.spotify.com/track/5iVh4MTn1n3mf2AScD4GFp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Burn Burn Burn](https://open.spotify.com/album/3YkwHZOU12OMiPyaYUxmLy) | 2:34 |
 | 17 | [Wake Me Up](https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:49 |
 | 18 | [Smoke Signals from My Couch](https://open.spotify.com/track/1dP8TNNzaK2CxQbCIZaEwD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Smoke Signals from My Couch](https://open.spotify.com/album/2TEGE4JfaDEY68YVBxk8dY) | 3:10 |
-| 19 | [I Know What You Did Last Summer](https://open.spotify.com/track/0azkwzAMADV1WZv8vvZ2du) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Know What You Did Last Summer](https://open.spotify.com/album/27qPcsIKGzmZvSkLjVGCqE) | 2:45 |
-| 20 | [When Both Sides Suck, We’re All Winners](https://open.spotify.com/track/5IyQS3m4KcqaGSD2V86EDO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:03 |
+| 19 | [When Both Sides Suck, We’re All Winners](https://open.spotify.com/track/5IyQS3m4KcqaGSD2V86EDO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt) | 3:03 |
+| 20 | [I Know What You Did Last Summer](https://open.spotify.com/track/0azkwzAMADV1WZv8vvZ2du) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Know What You Did Last Summer](https://open.spotify.com/album/27qPcsIKGzmZvSkLjVGCqE) | 2:45 |
 | 21 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
 | 22 | [Sink Like a Stone](https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Sink Like a Stone](https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc) | 3:07 |
 | 23 | [Check](https://open.spotify.com/track/4NAm3aWUkQlQcAll13HVEt) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 49 | [Do Your Worst](https://open.spotify.com/track/4PX9fC44anDaRqye46XyX3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:33 |
 | 50 | [A Long Way Down](https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:18 |
 
-Snapshot ID: `amFZgAAAAAAQJfyp3E/3cl5yJ+a6NwZX`
+Snapshot ID: `amKrAAAAAACFPUdUw5zLLznVZPGrSlhY`

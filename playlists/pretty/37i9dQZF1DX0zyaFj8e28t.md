@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,702 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,735 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 18 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
 | 19 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 20 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
-| 21 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
-| 22 | [Nuit de folie \- Version originale 1988](https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw) | [Début De Soirée](https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu) | [Best of Début de Soirée \(Le meilleur des années 80\)](https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L) | 4:13 |
+| 21 | [Nuit de folie \- Version originale 1988](https://open.spotify.com/track/2pXzTDfEoA19Fqhtl08Hiw) | [Début De Soirée](https://open.spotify.com/artist/3EeGYcRZaklMqgjWNhPrzu) | [Best of Début de Soirée \(Le meilleur des années 80\)](https://open.spotify.com/album/57LfHmeSkUoS4rImFooP0L) | 4:13 |
+| 22 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
 | 23 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 24 | [Mon mec à moi](https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 4:13 |
 | 25 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |

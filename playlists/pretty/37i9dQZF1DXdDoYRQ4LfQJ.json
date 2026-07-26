@@ -1,12 +1,12 @@
 {
   "description": "Bien Chaka con EL DE LA TINTA, Gabito Ballesteros & the hottest Corridos in the U.S.",
-  "num_followers": 344216,
+  "num_followers": 344245,
   "original_name": "Bien Chaka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQ6S3nUVM6Ocpy+YSxKvVK4iyEg",
+  "snapshot_id": "AAAAAFCFH5179Zj/KG/dcgye0nuejHI+",
   "tracks": [
     {
       "added_at": "2026-07-17 07:26:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-17 07:26:00",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
-    },
-    {
-      "added_at": "2026-07-17 07:26:00",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175514,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
+    },
+    {
+      "added_at": "2026-07-17 07:26:00",
+      "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2026-07-17 07:26:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-07-17 07:26:00",
       "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
+    },
+    {
+      "added_at": "2026-07-17 07:26:00",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2026-07-17 07:26:00",
-      "album": {
-        "name": "Arriba la Barbiza",
-        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Arriba la Barbiza",
-      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
     },
     {
       "added_at": "2026-07-17 07:26:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-07-17 07:26:00",
       "album": {
+        "name": "S\u00faper Snake",
+        "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146104,
+      "name": "S\u00faper Snake",
+      "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"
+    },
+    {
+      "added_at": "2026-07-17 07:26:00",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2026-07-17 07:26:00",
       "album": {
-        "name": "S\u00faper Snake",
-        "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 146104,
-      "name": "S\u00faper Snake",
-      "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"
-    },
-    {
-      "added_at": "2026-07-17 07:26:00",
-      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2026-07-17 07:26:00",
-      "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-07-17 07:26:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2026-07-17 07:26:00",
+      "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-07-17 07:26:00",

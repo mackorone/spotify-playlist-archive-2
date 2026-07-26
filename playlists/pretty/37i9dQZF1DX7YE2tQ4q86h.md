@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Beware laser beams 💞
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,992 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,114 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Struck](https://open.spotify.com/track/7tMK10zFkVYO9jEQIWh8d8) | [Charlotte MacInnes](https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb) | [Struck](https://open.spotify.com/album/3B0sdKkVWHf1g0dnbU3gSs) | 3:00 |
 | 100 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 
-Snapshot ID: `AAAAAHGsZGiZ1px9xhaexsKC7neGGWFG`
+Snapshot ID: `AAAAAA1pyaT9fmyXKTqJTPgM1ow+71vq`

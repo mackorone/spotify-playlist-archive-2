@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158361,
+  "num_followers": 158356,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,38 @@
     {
       "added_at": "2026-07-17 18:43:20",
       "album": {
+        "name": "Amor N\u00e3o Sai de Moda",
+        "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Malu Original",
+          "url": "https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY"
+        },
+        {
+          "name": "Arthur Martiins",
+          "url": "https://open.spotify.com/artist/5sKb333g6csR2GXkhyw0UX"
+        },
+        {
+          "name": "prodbyporto",
+          "url": "https://open.spotify.com/artist/7wHWyfKvRp2jNV7bOH6IyF"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Amor N\u00e3o Sai de Moda",
+      "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
+    },
+    {
+      "added_at": "2026-07-17 18:43:20",
+      "album": {
         "name": "Moz\u00e3o",
         "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
       },
@@ -1019,34 +1051,6 @@
       "duration_ms": 160500,
       "name": "Moz\u00e3o",
       "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-07-17 18:43:20",
-      "album": {
-        "name": "Amor N\u00e3o Sai de Moda",
-        "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Malu Original",
-          "url": "https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY"
-        },
-        {
-          "name": "Arthur Martiins",
-          "url": "https://open.spotify.com/artist/5sKb333g6csR2GXkhyw0UX"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Amor N\u00e3o Sai de Moda",
-      "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
     },
     {
       "added_at": "2026-07-17 18:43:20",
@@ -1299,30 +1303,6 @@
     {
       "added_at": "2026-07-17 18:43:20",
       "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2026-07-17 18:43:20",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1355,6 +1335,30 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "added_at": "2026-07-17 18:43:20",
+      "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     }
   ],
   "unique_name": "Resenha na Praia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,621 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,625 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 17 | [Molho](https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Molho](https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX) | 2:47 |
 | 18 | [Delírios de Amor](https://open.spotify.com/track/789Ahc0oXK0T7A5thPiMGH) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria é Quase Amor](https://open.spotify.com/album/3z0sI5o7xQItsnzEFWdVph) | 2:57 |
 | 19 | [Membros Humanos](https://open.spotify.com/track/6QXKsmOElNnJIxM5xrBCRa) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:39 |
-| 20 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
-| 21 | [MERCÚRIO EM CÂNCER](https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [MERCÚRIO EM CÂNCER](https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp) | 2:58 |
+| 20 | [MERCÚRIO EM CÂNCER](https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [MERCÚRIO EM CÂNCER](https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp) | 2:58 |
+| 21 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
 | 22 | [E.P.A.M.](https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:21 |
 | 23 | [GODZILLA](https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [GODZILLA](https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq) | 2:31 |
 | 24 | [Problemas de Confiança](https://open.spotify.com/track/2R3Wf9OHRwuFGVo3Cnez8e) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 49 | [Set Btrem \- As Minas do Rio](https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Mina Quente](https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i) | 3:53 |
 | 50 | [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 |
 
-Snapshot ID: `amFZgAAAAADpuuCpFf1RqxC9WJ/ILiNq`
+Snapshot ID: `amKrAAAAAAApVSKJTMgrp4cSNjQmY9dN`

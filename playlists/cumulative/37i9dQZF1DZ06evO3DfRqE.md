@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-125 songs - 8 hr 2 min
+126 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Wai\` Alae](https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 2:28 | 2024-01-29 |  |
 | [Wailau](https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:55 | 2026-02-01 |  |
 | [Waterfall](https://open.spotify.com/track/00Qj11ClumxCZEvfT7ZXnI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:08 | 2026-02-02 | 2026-03-24 |
+| [We Can't Be Friends](https://open.spotify.com/track/1QgG1FMeqMRKYdoeICpdg0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:38 | 2026-07-26 |  |
 | [When The Masks Come Down](https://open.spotify.com/track/7mTJIPUtg4TWGm3PiKvyh4) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:59 | 2025-02-19 | 2025-05-07 |
 | [Whiter Shade Of Pale](https://open.spotify.com/track/6lWAHVsfTiO6WFGv4qy6Ba) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 5:13 | 2024-11-11 | 2024-12-23 |
 | [Why Not](https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 |  |
@@ -127,7 +128,7 @@
 | [レッツ・ダンス \- Solo](https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 2:45 | 2024-01-29 | 2024-02-26 |
 | [ヴァリエーションズ・オン・ア・ダンス](https://open.spotify.com/track/6Np7BEc0F56BSFnbVvC5xA) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live & Let Live～Love for Japan](https://open.spotify.com/album/6RMhWS03tHCnnSAWKM038l) | 6:41 | 2024-02-08 | 2024-02-23 |
 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 | 2024-03-24 | 2024-11-19 |
-| [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 | 2024-11-19 |  |
+| [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 | 2024-11-19 | 2026-07-26 |
 | [渚](https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 4:09 | 2024-12-14 | 2026-07-07 |
 | [粛々楽々](https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp) | [BEGIN](https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [粛々楽々](https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f) | 2:54 | 2024-01-29 | 2026-01-23 |
 | [麒麟紀行 II](https://open.spotify.com/track/3Pod4WYXe26n9WsRg8hpQZ) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.2](https://open.spotify.com/album/2xmFyksW6zZ42keDRgw93N) | 1:37 | 2024-12-20 | 2024-12-25 |

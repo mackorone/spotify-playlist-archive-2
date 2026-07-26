@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,975 songs - 4 day 14 hr 24 min
+1,978 songs - 4 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Dream No More](https://open.spotify.com/track/58KJQcrCaxKS5eWsvfxjMG) | [Ryan Lord](https://open.spotify.com/artist/3JYAoQz9q15sPpfCTMU4ww) | [Dream No More](https://open.spotify.com/album/1wQz3IFrzcTSFRS3OjyMkH) | 4:09 | 2026-03-05 | 2026-03-31 |
 | [drink beer, hail satan](https://open.spotify.com/track/4fgUwLlbpgGGXCkBYWokai) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [drink beer, hail satan](https://open.spotify.com/album/4eKZhihizzJ7U1m5zqdnPs) | 4:48 | 2026-02-26 |  |
 | [Drink Fuck Live!](https://open.spotify.com/track/3d6DyD5Zuma3Cc5R90233u) | [Born of the Jackal](https://open.spotify.com/artist/59bRpRdWtUEeZx8TjBXuJZ) | [Drink Fuck Live](https://open.spotify.com/album/13SsBlUwa8lqg0PCsWRain) | 3:14 | 2026-05-12 | 2026-05-30 |
+| [Drive](https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8) | [Drive](https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w) | 2:22 | 2026-07-25 |  |
 | [Drive Thru Deja Vu](https://open.spotify.com/track/0zCDRsDDQDfJSlRexn8Hs0) | [TIFFY](https://open.spotify.com/artist/3VLrZbIaJxoo086s4l2tQd) | [Drive Thru Deja Vu](https://open.spotify.com/album/53Wm0UfSUnWrhAD0m6cWHB) | 2:25 | 2026-07-09 |  |
 | [Drone](https://open.spotify.com/track/0nnPnAzEAAClDDiMNYtNDp) | [No Heroes](https://open.spotify.com/artist/6Pkz22OR0gHZ9BP5nLmIga) | [Brood Eternal](https://open.spotify.com/album/4kh6JMt1hzHeAst4kAndp3) | 1:42 | 2026-01-15 | 2026-02-16 |
 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 | 2025-11-26 | 2025-12-24 |
@@ -1055,7 +1056,7 @@
 | [Mend](https://open.spotify.com/track/041405dXJvK89ymfLPwd3M) | [Great Escapes](https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG) | [Mend](https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9) | 2:42 | 2026-06-18 | 2026-07-18 |
 | [Menschen](https://open.spotify.com/track/0bDh1nbbOrsHOW4oxhNmXA) | [Maschinerie der Quälerei](https://open.spotify.com/artist/3Py65EHGqYsqxZZZD6iLBy) | [Verwelken, Vergehen, Verwesen](https://open.spotify.com/album/3Jqdjm1QDP3gtLp38Qk1Qm) | 4:09 | 2026-03-20 | 2026-04-17 |
 | [Mental Cure](https://open.spotify.com/track/3t4mRC249ldpH88JkBIgiO) | [Depths To Survive](https://open.spotify.com/artist/6McJfcuAmUFKizTUrYCWlO) | [Mental Cure](https://open.spotify.com/album/2gObuMey27FAMfVmoBvqxo) | 3:55 | 2026-05-26 | 2026-07-04 |
-| [Meridian](https://open.spotify.com/track/72lnAyiO6SUCUCqVkJRYYD) | [The Sky Forgets Us](https://open.spotify.com/artist/68vKb32bM42SdIGvF6ad0T) | [Meridian](https://open.spotify.com/album/5DHESmi3JoPHNqNaPiknZR) | 3:30 | 2026-06-26 |  |
+| [Meridian](https://open.spotify.com/track/72lnAyiO6SUCUCqVkJRYYD) | [The Sky Forgets Us](https://open.spotify.com/artist/68vKb32bM42SdIGvF6ad0T) | [Meridian](https://open.spotify.com/album/5DHESmi3JoPHNqNaPiknZR) | 3:30 | 2026-06-26 | 2026-07-26 |
 | [merry christmas little boy \- hypertechno](https://open.spotify.com/track/0mj5XecQvruMtWAS4vFCgf) | [Zapfhahnparty](https://open.spotify.com/artist/2oyb5tx0uO28TzbIFUh9Ak) | [merry christmas little boy \(hypertechno\)](https://open.spotify.com/album/79QYYk90ywcUuPl1qnB1uq) | 1:23 | 2025-12-23 | 2026-01-15 |
 | [Merry Christmas, I'm Over It](https://open.spotify.com/track/4W018YpRTgdiG2nl1cwZRC) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Putting The Ex In XMas](https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby) | 3:58 | 2025-12-04 | 2025-12-24 |
 | [Merula](https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Merula](https://open.spotify.com/album/4wCfPKK8IHafnFdJzOlU4M) | 5:05 | 2026-07-07 |  |
@@ -1347,6 +1348,7 @@
 | [Remember When](https://open.spotify.com/track/66aGIkDo3jxkc3hQjY5SjX) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It](https://open.spotify.com/album/5unfuX0hDVZMaitu4aUCH9) | 3:54 | 2026-01-13 | 2026-02-03 |
 | [Remember Who We Are](https://open.spotify.com/track/1etnBer7EWcoqZVlQV8CeZ) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Endless](https://open.spotify.com/album/5ejJOWoO9OmCQ1t9G9RkZO) | 4:48 | 2026-01-21 | 2026-02-12 |
 | [Remembrance in it's Heel Era](https://open.spotify.com/track/1bvunpbipReiNeLe4inmhf) | [HawkBit](https://open.spotify.com/artist/1rb1pOKkaUVriuvbYo6r60) | [Ain't No Peace Without Violence](https://open.spotify.com/album/57z4PY3H3jF9Nxuwj7pjzY) | 2:32 | 2026-01-24 | 2026-02-12 |
+| [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-07-25 |  |
 | [Resentment](https://open.spotify.com/track/0vagsWwL9sL9dO1v20DUH6) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Lost](https://open.spotify.com/album/0c4irpy4JnvF1xd3EatVx5) | 2:44 | 2025-10-24 | 2025-12-10 |
 | [Resistance](https://open.spotify.com/track/2MjWYeEx3LmtqihJjRRMw3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana](https://open.spotify.com/album/0eMRitbmy4cdRn4lHXTNdA) | 3:42 | 2025-08-03 | 2026-07-04 |
 | [Resistance \(remaster\)](https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:40 | 2025-09-22 |  |
@@ -1398,6 +1400,7 @@
 | [Say Less](https://open.spotify.com/track/7fonUxFqFluGESwOLaUZ2f) | [Color The Void](https://open.spotify.com/artist/5pmwfFkSo3nz3fuoDDw8Xx) | [FOREVERMORE](https://open.spotify.com/album/4lQSfwOBOKeQrEPqFEJlKT) | 3:34 | 2026-02-03 | 2026-03-07 |
 | [Say Now, See How](https://open.spotify.com/track/3gV5t4zD2fLROVReOVBwmH) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [Say Now, See How](https://open.spotify.com/album/60cSYdtXgX17GERstfxSSu) | 2:55 | 2026-02-04 | 2026-02-27 |
 | [Scared](https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW) | [NOTADOG](https://open.spotify.com/artist/0yhmmI36uKysaByptGU6Jn) | [Scared](https://open.spotify.com/album/7sCy6hCnSixbqRPQqrLqI7) | 3:06 | 2026-01-10 | 2026-02-11 |
+| [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 | 2026-07-25 |  |
 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 | 2026-05-27 | 2026-07-04 |
 | [scifi alibi](https://open.spotify.com/track/6T1ZgC455novi75pLjtStq) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [scifi alibi](https://open.spotify.com/album/3jJo3buqpkD6Ss2EUOhBZK) | 3:26 | 2026-05-14 | 2026-06-15 |
 | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/track/5Y8TNTSVJlieoTVpyqen40) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/album/2xval52WhfLtSOJXblynr7) | 4:03 | 2025-11-16 | 2025-12-10 |

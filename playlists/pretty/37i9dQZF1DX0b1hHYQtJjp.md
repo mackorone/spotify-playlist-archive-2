@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,325 likes - 82 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,364 likes - 82 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

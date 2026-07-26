@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,476 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,456 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,14 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 84 | [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 |
 | 85 | [WE X MAS](https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [SECRET SANTA](https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH) | 3:48 |
 | 86 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [Stupinuts](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 |
-| 87 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
+| 87 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
 | 88 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
 | 89 | [I Still Believe in Santa](https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:39 |
 | 90 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
 | 91 | [Christmas is Coming \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Christmas is Coming](https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH) | 3:26 |
-| 92 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
-| 93 | [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 |
-| 94 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 92 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
+| 93 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
+| 94 | [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 |
 | 95 | [Heart of Christmas](https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Heart of Christmas](https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P) | 3:31 |
 | 96 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 97 | [Merry Merry Christmas](https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd), [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [C9 Single Album '2022 C9 Christmas'](https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,862 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,858 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 | 100 | [Camilla](https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Camilla](https://open.spotify.com/album/014mbn2oZiArZavmho6hog) | 3:32 |
 
-Snapshot ID: `AAAAALLDpYt9TBJ/JprGjYvJqcQn4JL4`
+Snapshot ID: `AAAAAD7MapZHBYWQ0lNsDOwApBxD3MOS`

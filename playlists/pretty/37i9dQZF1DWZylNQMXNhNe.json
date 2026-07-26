@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bia Soull",
-  "num_followers": 249118,
+  "num_followers": 249115,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,42 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "Sua Preferida",
         "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
       },
@@ -351,22 +387,6 @@
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -611,6 +631,22 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 196455,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
@@ -679,30 +715,6 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
-        "name": "NAMORAR PELADO",
-        "url": "https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ"
-      },
-      "artists": [
-        {
-          "name": "Clementaum",
-          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
-        },
-        {
-          "name": "Lizz",
-          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 190499,
-      "name": "NAMORAR PELADO",
-      "url": "https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
         "name": "ESTA\u00c7\u00c3O DO PRAZER",
         "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
       },
@@ -727,18 +739,26 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38"
+        "name": "NAMORAR PELADO",
+        "url": "https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        },
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 196455,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"
+      "duration_ms": 190499,
+      "name": "NAMORAR PELADO",
+      "url": "https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -1551,26 +1571,6 @@
       "duration_ms": 178041,
       "name": "Calcinha",
       "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
     }
   ],
   "unique_name": "GLOW Brasil",

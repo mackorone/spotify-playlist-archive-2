@@ -267,6 +267,32 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/1tYBcgettNOMqx658UdDyV"
+      },
+      "artists": [
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "DPC",
+          "url": "https://open.spotify.com/artist/2xfRh1ugELbF7WtA6MkSu1"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc"
+    },
+    {
+      "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
       },
@@ -4655,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/5lqCu1rFWJGTP1fUI3qxK5"
+    },
+    {
+      "album": {
         "name": "CASUS BELLI",
         "url": "https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe"
       },
@@ -5756,7 +5804,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 141100,
       "name": "Asteria",
       "url": "https://open.spotify.com/track/1oYGhWA94grlWn5QQv9azt"
@@ -10454,7 +10502,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 196933,
       "name": "Cannes",
       "url": "https://open.spotify.com/track/6wDG7d2tf9FCIele4toCg3"
@@ -10996,6 +11044,32 @@
       "duration_ms": 201566,
       "name": "CASINO",
       "url": "https://open.spotify.com/track/7MiyM1iXoxZB6qqUWuwkiz"
+    },
+    {
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144124,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/0z0upHJWpIG4ZPkMpd9iYo"
     },
     {
       "album": {
@@ -12818,7 +12892,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 171433,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/5EeOJPGZHFoxGqGdGWKr3H"
@@ -13042,7 +13116,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 147692,
       "name": "DANCE WITH THE PLUG",
       "url": "https://open.spotify.com/track/2KWGY0NoPX8MBm3odIy8wy"
@@ -27410,7 +27484,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -29478,7 +29552,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 167166,
       "name": "Ki Esy Stin Paro?",
       "url": "https://open.spotify.com/track/41fePfhOqY09095sZxHUUS"
@@ -30506,6 +30580,36 @@
       "duration_ms": 289846,
       "name": "KOMPOI",
       "url": "https://open.spotify.com/track/3K2ZyExFUnmx4sCJW7Z9OY"
+    },
+    {
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "AIONI",
+          "url": "https://open.spotify.com/artist/2hsE30Xj8x86FtZJ6Ys2yF"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "KONOMAI",
+      "url": "https://open.spotify.com/track/1ooO74043ABPCDaUjetRYM"
     },
     {
       "album": {
@@ -32924,6 +33028,28 @@
       "duration_ms": 182796,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/1kaJpz5JMjmhByqAnvN90b"
+    },
+    {
+      "album": {
+        "name": "LOCA",
+        "url": "https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
     },
     {
       "album": {
@@ -36896,6 +37022,32 @@
       "duration_ms": 112211,
       "name": "MI TESORO",
       "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
+    },
+    {
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6tPJmvHpENCJTsp6zA13vT"
     },
     {
       "album": {
@@ -53506,7 +53658,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 191379,
       "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
       "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
@@ -56364,6 +56516,36 @@
       "duration_ms": 192000,
       "name": "Thalassa",
       "url": "https://open.spotify.com/track/3Z18wLiHatZoMOgxvWU36E"
+    },
+    {
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169485,
+      "name": "THALASSA AKRIVI",
+      "url": "https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6"
     },
     {
       "album": {
@@ -63017,6 +63199,32 @@
     },
     {
       "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "EVA",
+          "url": "https://open.spotify.com/artist/4T0tY83Ejj5CVfrx4ofrQJ"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172161,
+      "name": "YAMAS",
+      "url": "https://open.spotify.com/track/7gDcMIJpUEgVU9uLcQttTE"
+    },
+    {
+      "album": {
         "name": "YAYO",
         "url": "https://open.spotify.com/album/60aBoG9g01uv2EqQDaauDg"
       },
@@ -63228,7 +63436,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 155156,
       "name": "YING YANG",
       "url": "https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td"

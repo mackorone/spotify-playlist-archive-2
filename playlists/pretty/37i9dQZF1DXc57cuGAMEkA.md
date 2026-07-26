@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Charli xcx, Tyla, The Strokes, WILLOW, JENNIE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,099 likes - 92 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,107 likes - 92 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

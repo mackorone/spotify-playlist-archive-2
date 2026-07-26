@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > KAYTRANADA celebrates the release of his new album with a takeover with that bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,566 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,574 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 33 | [Keep Your Love Around](https://open.spotify.com/track/2lQkpY6mZry4fL0wgemVjh) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Love for Love](https://open.spotify.com/album/7AZlPEdXEeMxph8TZ7Q9y6) | 4:07 |
 | 34 | [Supa Star](https://open.spotify.com/track/2QECh0fEPnaTxRWsVBrUz7) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX) | [Livin' Proof](https://open.spotify.com/album/3fbcKscWKVKFcgdX1XaWFf) | 5:21 |
 | 35 | [My Star](https://open.spotify.com/track/7muPo1ABkveZGFC0uYcyxR) | [Sa\-ra Creative Partners](https://open.spotify.com/artist/5Tx9SammMKFG5aozuij1U1), [Erika Rose](https://open.spotify.com/artist/2d05jlCjw57IuiV7BtP70l) | [Nuclear Evolution: The Age of Love](https://open.spotify.com/album/2edhQA9vMUmo2e5Ls2MiDU) | 3:49 |
-| 36 | [Factory Beats](https://open.spotify.com/track/4aPGeTVKDSbMJbRNWmA9SJ) | [Earth To Mickey](https://open.spotify.com/artist/1M4lFiHX90xppEL4wwH6Nm) | [Brace & Bit](https://open.spotify.com/album/6biw2FDYME52QHZQfBuIBe) | 1:02 |
+| 36 | [Factory Beats](https://open.spotify.com/track/4aPGeTVKDSbMJbRNWmA9SJ) | [Earth To Mickey](https://open.spotify.com/artist/1M4lFiHX90xppEL4wwH6Nm), [Delroy Edwards](https://open.spotify.com/artist/683gIqfxdjjg2sowYxBHIQ) | [Brace & Bit](https://open.spotify.com/album/6biw2FDYME52QHZQfBuIBe) | 1:02 |
 | 37 | [Amazon](https://open.spotify.com/track/6jcL8BssybKVgr1Mchw4tw) | [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs), [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC), [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [Tony Dumas](https://open.spotify.com/artist/35FgDnSQkcVxgR4N2D0DCJ) | [Once More](https://open.spotify.com/album/2sbqEuRKKqTyLS6Q6OVJdF) | 6:22 |
 | 38 | [Fading Away](https://open.spotify.com/track/3Bxo37ejoaz4nPxBzEXLrb) | [Sjunne Ferger](https://open.spotify.com/artist/2yweM9aoLMrk1pnZqxUhvV) | [Mindgames](https://open.spotify.com/album/7iUEroP0jKpvT8PlDY4taI) | 2:51 |
 | 39 | [Get Up Remix](https://open.spotify.com/track/1iOFhpepFESMjZ4R40O8bo) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Lost & Found](https://open.spotify.com/album/2rgWCee7GYItQcX4GmuiB3) | 3:49 |

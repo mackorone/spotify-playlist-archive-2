@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 759 songs - 2 day 1 hr 2 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 760 songs - 2 day 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -767,5 +767,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 757 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 |
 | 758 | [Seremende](https://open.spotify.com/track/0EQ2CmWPsKqUcPHSvGLvVt) | [Sourakata Koité](https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX) | [en Hollande](https://open.spotify.com/album/2TavFn7bYedGdHDLhFFdJR) | 5:26 |
 | 759 | [Tche Belew](https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tche Belew](https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0) | 5:00 |
+| 760 | [Midnight In Paris](https://open.spotify.com/track/6ymzeC4hAANuO98puy82eA) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz), [Unholy Modal Rounders](https://open.spotify.com/artist/6Q5S79gQdzhWg7M4JnN020), [Jeffrey Frederick & The Clamtones](https://open.spotify.com/artist/4EcAdmBYoJcCKPazSjp2n1) | [Have Moicy!](https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd) | 3:17 |
 
-Snapshot ID: `AAAJW1L/O7SDgFfVK/sQLTQKMabG1Ld7`
+Snapshot ID: `AAAJXG6V2fDtoOfL7tJMJHJIXn5Axy0h`

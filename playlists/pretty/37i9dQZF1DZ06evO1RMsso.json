@@ -1,37 +1,13 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 232426,
+  "num_followers": 232451,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADPeao0B+lUVl76NLpNSmF5",
+  "snapshot_id": "amKrAAAAAAD4yy+MwdwFQLxmoHj+2xBg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Malice Toward None (from \"Lincoln\")",
-        "url": "https://open.spotify.com/album/56hHmrrgVph0AhY9gxbw8x"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "United States Marine Band",
-          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
-        },
-        {
-          "name": "Thomas Hooten",
-          "url": "https://open.spotify.com/artist/7um0HeeerdjKZiGD8kYxXO"
-        }
-      ],
-      "duration_ms": 325555,
-      "name": "With Malice Toward None from \"Lincoln\" - Live at the John F. Kennedy Center for the Performing Arts, 7/16/2023",
-      "url": "https://open.spotify.com/track/3TdEc9eAXaBBfq7dpYr6E0"
-    },
     {
       "added_at": null,
       "album": {

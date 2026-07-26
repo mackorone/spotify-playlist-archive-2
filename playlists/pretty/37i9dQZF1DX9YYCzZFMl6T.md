@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,074 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,080 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 38 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
 | 39 | [Auld Lang Syne](https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Auld Lang Syne](https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso) | 3:14 |
 | 40 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
-| 41 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
-| 42 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
+| 41 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
+| 42 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
 | 43 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 |
 | 44 | [Merry Christmas Darling](https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kate Bernhardt](https://open.spotify.com/artist/4tD1DjtxZogb0F6uRn2ty4), [Coco Reilly](https://open.spotify.com/artist/4B0rRuYqf9TbbnJSnGpW0Q) | [Merry Christmas Darling](https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4) | 3:11 |
 | 45 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
 | 46 | [Wrapping Presents For Myself](https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 3:44 |
 | 47 | [The Sweetest Season](https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Teddy Morgan](https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU) | [The Sweetest Season](https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj) | 2:48 |
-| 48 | [The Heartache Can Wait \- Brandi Carlile](https://open.spotify.com/track/60XIwRbygMJzZAD09LuaeG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Juvenile Diabetes Research Foundation: More Hope For The Holidays](https://open.spotify.com/album/1u0LAzvQ3znPUvdkg3s8ey) | 3:35 |
-| 49 | [Merry Christmas Asshole](https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Merry Christmas Asshole](https://open.spotify.com/album/5hw1XopOflGny25y4XchSo) | 3:05 |
-| 50 | [Is It Far To Bethlehem?](https://open.spotify.com/track/4ZnEbEj9GONWSV1WSRcvcD) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Is It Far To Bethlehem?](https://open.spotify.com/album/4X7AnDouIRYOU1vclZ7Nn5) | 3:22 |
+| 48 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
+| 49 | [The Heartache Can Wait \- Brandi Carlile](https://open.spotify.com/track/60XIwRbygMJzZAD09LuaeG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Juvenile Diabetes Research Foundation: More Hope For The Holidays](https://open.spotify.com/album/1u0LAzvQ3znPUvdkg3s8ey) | 3:35 |
+| 50 | [Merry Christmas Asshole](https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Merry Christmas Asshole](https://open.spotify.com/album/5hw1XopOflGny25y4XchSo) | 3:05 |
 
 Snapshot ID: `AAAAAFd8FvSfMIGyTQEI+5FlgvXgh5+n`

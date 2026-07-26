@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 805387,
+  "num_followers": 805495,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 222488,
-      "name": "There's A Reason Why (I Never Returned Your Calls)",
-      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "MoM & DaD",
         "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 323480,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 222488,
+      "name": "There's A Reason Why (I Never Returned Your Calls)",
+      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 243253,
       "name": "The Ghosts of Beverly Drive",
       "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "Our Own House",
         "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 232186,
       "name": "Our Own House",
       "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "J4eva",
+          "url": "https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW"
         }
       ],
-      "duration_ms": 280016,
-      "name": "Showtime",
-      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+      "duration_ms": 193066,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
       "artists": [
         {
-          "name": "J4eva",
-          "url": "https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts"
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
     },
     {
       "added_at": "2025-09-22 17:44:20",

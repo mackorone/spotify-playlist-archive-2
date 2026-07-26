@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Lauren Alaina and Kane Brown",
-  "num_followers": 254385,
+  "num_followers": 254448,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "Single Again",
-        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Single Again",
-      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
-    },
-    {
-      "added_at": "2026-07-17 04:01:29",
-      "album": {
         "name": "Keith",
         "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "added_at": "2026-07-17 04:01:29",
+      "album": {
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
+    },
+    {
+      "added_at": "2026-07-17 04:01:29",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2026-07-17 04:01:29",
-      "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "I Dare You",
-        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
-    },
-    {
-      "added_at": "2026-07-17 04:01:29",
-      "album": {
         "name": "Bulletproof (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 183919,
       "name": "Bulletproof (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
+    },
+    {
+      "added_at": "2026-07-17 04:01:29",
+      "album": {
+        "name": "I Dare You",
+        "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
       },
       "artists": [
         {
           "name": "Thomas Rhett",
           "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+      "duration_ms": 178336,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/130HPeTH6POyUbaGr3Su8p"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
       "artists": [
         {
           "name": "Thomas Rhett",
           "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 178336,
-      "name": "Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/130HPeTH6POyUbaGr3Su8p"
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2026-07-17 04:01:29",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-07-17 04:01:29",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+      "duration_ms": 198813,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
     }
   ],
   "unique_name": "Pop Country",

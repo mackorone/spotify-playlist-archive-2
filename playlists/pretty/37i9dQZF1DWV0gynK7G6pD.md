@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lavinia Meijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,681 likes - 88 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,701 likes - 88 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

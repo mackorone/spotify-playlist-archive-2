@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Erol Evgin
 
-672 songs - 1 day 10 hr 9 min
+673 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Kim Derdi Ki](https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Kim Derdi Ki](https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj) | 3:29 | 2026-01-15 | 2026-01-23 |
 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 | 2026-05-14 | 2026-06-26 |
 | [Kimi Seviyorsun / Yanmışım Ben / Romeo \- Mashup 2026](https://open.spotify.com/track/6wW7aAHWeryP7BCRaApdLL) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd), [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kimi Seviyorsun / Yanmışım Ben / Romeo \(Mashup 2026\)](https://open.spotify.com/album/0ZwTg5zMXKok2p3VbCAjsZ) | 3:03 | 2026-04-09 | 2026-05-22 |
+| [KISKANÇ](https://open.spotify.com/track/2AkNL74DBrtk8kezS12dei) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [KISKANÇ](https://open.spotify.com/album/6DGIjHeLqRiGAkuTTeaDdY) | 2:32 | 2026-07-23 |  |
 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 | 2026-07-09 |  |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
 | [Koca Dünya](https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Koca Dünya](https://open.spotify.com/album/5LFciOK381uamGyiw52mgF) | 2:29 | 2024-10-24 | 2024-12-20 |
@@ -549,7 +550,7 @@
 | [Teselli](https://open.spotify.com/track/5k43UsKtxkZNaHHBnqNk1R) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Teselli](https://open.spotify.com/album/6z6X2q7CXRAm3YAj44oLHf) | 3:06 | 2024-10-24 | 2024-12-02 |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-02 |  |
-| [Tutkunum Sana](https://open.spotify.com/track/4tP4rb8BhVm7cRtHpvbnx7) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Tutkunum Sana](https://open.spotify.com/album/3Y1ohxO11dCTKBL81lAKle) | 2:10 | 2026-07-09 |  |
+| [Tutkunum Sana](https://open.spotify.com/track/4tP4rb8BhVm7cRtHpvbnx7) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Tutkunum Sana](https://open.spotify.com/album/3Y1ohxO11dCTKBL81lAKle) | 2:10 | 2026-07-09 | 2026-07-26 |
 | [Tuttum Bırakmam](https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tuttum Bırakmam](https://open.spotify.com/album/0FfpBYgMBioNgoQUyWkJDH) | 2:28 | 2025-08-28 | 2025-09-05 |
 | [Tuz](https://open.spotify.com/track/56XsrlnUH5aA3TKK0cTkq3) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s), [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI), [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP), [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Chromas](https://open.spotify.com/artist/61hl6gWJtTmcffLcZJ0X0L) | [Tuz](https://open.spotify.com/album/3mpuuXe7GClX4wsGIQWfbl) | 4:57 | 2026-03-05 | 2026-03-20 |
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 | 2025-01-13 |

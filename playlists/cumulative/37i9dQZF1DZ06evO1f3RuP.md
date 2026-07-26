@@ -4,7 +4,7 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 3 min
+48 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 | 2025-11-20 |  |
 | [Enter The Chat](https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Whirlwind Of Malevolence](https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC) | 2:19 | 2025-11-20 |  |
 | [Ethical Plum](https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Ethical Plum](https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz) | 2:46 | 2025-11-20 |  |
-| [Everyone](https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Everyone](https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19) | 2:38 | 2026-05-29 |  |
+| [Everyone](https://open.spotify.com/track/0IrQ3RIBwQVKcNVkiZspUD) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY \(Nano Mixes\)](https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y) | 2:38 | 2026-07-26 |  |
+| [Everyone](https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Everyone](https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19) | 2:38 | 2026-05-29 | 2026-07-26 |
 | [fem\-onomics](https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 1:51 | 2025-11-20 |  |
 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 | 2025-11-20 |  |
 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 | 2025-11-20 |  |

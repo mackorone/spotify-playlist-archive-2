@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Keith Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,580 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,584 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 36 | [Still into You](https://open.spotify.com/track/2Cxo9xfuyaCdVxVdFsiYSl) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Still into You](https://open.spotify.com/album/2bMes0XVSc7GH1dX0EN5n0) | 4:12 |
 | 37 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:33 |
 | 38 | [Say You’ll Be There](https://open.spotify.com/track/120OFSsTEeENBSnp6bHrNs) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [BABY JAKE](https://open.spotify.com/album/3rClarwptOqh2A2oaWJEDx) | 3:16 |
-| 39 | [Time After Time](https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Time After Time](https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN) | 3:39 |
+| 39 | [Feelin' Good Again](https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Feelin' Good Again](https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND) | 3:36 |
 | 40 | [Complicated](https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Complicated](https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL) | 3:24 |
-| 41 | [Feelin' Good Again](https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Feelin' Good Again](https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND) | 3:36 |
+| 41 | [Time After Time](https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Time After Time](https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN) | 3:39 |
 | 42 | [Boston](https://open.spotify.com/track/4bStocfukU8QNoJaoeAVYL) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Boston](https://open.spotify.com/album/5Pz1XUoROtDn7FDFTDHJLv) | 3:51 |
 | 43 | [As It Was](https://open.spotify.com/track/1HGJ4GFxZ23X6o2aAivZsz) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [As It Was](https://open.spotify.com/album/75JYBozBzFe38f8w5wB1Vy) | 2:40 |
 | 44 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 75 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 |
 | 76 | [Walking In Memphis](https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Simply The Hits](https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv) | 4:17 |
 | 77 | [Believe \(with Jelly Roll\)](https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:56 |
-| 78 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
-| 79 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 78 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 79 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 80 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 |
 | 81 | [Valerie](https://open.spotify.com/track/2zWoXPulqjfGAJsUyRtxiq) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Valerie](https://open.spotify.com/album/7Dp9NAgApVaZeE5lWobWKm) | 3:58 |
 | 82 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |

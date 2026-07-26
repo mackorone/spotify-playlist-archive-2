@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-526 songs - 1 day 7 hr 52 min
+527 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2024-04-15 |  |
 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 | 2026-05-01 |
 | [I'll Never Love Again \- Film Version \- Radio Edit](https://open.spotify.com/track/3DKpA54hrFIdPN6AtL9HXa) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 4:41 | 2022-11-25 | 2023-01-28 |
-| [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 | 2026-07-23 |  |
+| [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 | 2026-07-23 | 2026-07-26 |
 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 | 2026-02-06 |  |
 | [If You Get Lonely](https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [If You Get Lonely](https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC) | 4:30 | 2025-04-17 | 2025-06-08 |
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-10-04 | 2024-10-26 |
@@ -297,6 +297,7 @@
 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2022-11-25 | 2023-02-03 |
 | [Mama's Boy](https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Mama's Boy](https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9) | 3:16 | 2023-09-28 | 2025-11-15 |
 | [Mana](https://open.spotify.com/track/5lWQqBmU15nYEhTR0y6kHC) | [Chloé Antoniotti](https://open.spotify.com/artist/4vDyelI0fvbfPTtaaRBe9B) | [Mana](https://open.spotify.com/album/4hyFJk1U1nY0tzD4mxTqen) | 3:14 | 2026-04-10 | 2026-05-16 |
+| [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 | 2026-07-23 |  |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-14 | 2023-09-29 |
 | [Maybe, Finally](https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd) | 3:05 | 2025-12-04 | 2025-12-19 |
 | [Mechanic](https://open.spotify.com/track/2i3iyyy30E5seBJpNpUeOy) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Mechanic](https://open.spotify.com/album/4UHg2EEr1xOgBz97W5aJJN) | 2:15 | 2024-05-13 | 2024-08-16 |

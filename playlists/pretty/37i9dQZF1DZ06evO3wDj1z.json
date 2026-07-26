@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 123291,
+  "num_followers": 123311,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACltHOqdIhY6w+5p+fv+dyl",
+  "snapshot_id": "amKrAAAAAADkyacwKshv3bZtXoknbGCP",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "La Maestra - Ranchera Version",
-      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 165053,
       "name": "La Mentada",
       "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,

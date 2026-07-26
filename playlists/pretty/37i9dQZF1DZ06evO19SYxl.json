@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 10253,
+  "num_followers": 10257,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAA6lHzaksiBO/LfyXlQVkpG",
+  "snapshot_id": "amKrAAAAAABbAKpvG563hpkI55ZeZJsB",
   "tracks": [
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 165480,
-      "name": "Esta en Su Mes",
-      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
+      "duration_ms": 196186,
+      "name": "Se Fue Con Otro",
+      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 196186,
-      "name": "Se Fue Con Otro",
-      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+      "duration_ms": 165480,
+      "name": "Esta en Su Mes",
+      "url": "https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 243760,
-      "name": "4to y 5to Paso",
-      "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
+      "duration_ms": 277556,
+      "name": "Tex Tex Boogie",
+      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 277556,
-      "name": "Tex Tex Boogie",
-      "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
+      "duration_ms": 243760,
+      "name": "4to y 5to Paso",
+      "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
     },
     {
       "added_at": null,

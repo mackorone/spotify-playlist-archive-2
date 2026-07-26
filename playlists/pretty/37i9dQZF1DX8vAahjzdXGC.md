@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari JENNIE, Charli xcx , Tyla, Daun Jatuh, The Jansen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,895 likes - 102 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,898 likes - 102 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 32 | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/track/1zNppYGgMBlJD8a9R4F9s1) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Made Mawut](https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe), [Anak\-anak](https://open.spotify.com/artist/4PA9rrzLGrHIAzgdd8lkTw) | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/album/2me9L3mF9C6T2SXabNgLNH) | 2:32 |
 | 33 | [Vespa](https://open.spotify.com/track/15Dkb35ekoZnOgeCSp4TzQ) | [Pierre Lynx](https://open.spotify.com/artist/1HS9VeljSUtqSwC079dRLw) | [散歩](https://open.spotify.com/album/1AxtF2HcjncIqxeJUpsXFF) | 2:27 |
 | 34 | [West Poppin \(feat\. Galang Kai, Ibel, Mister Nobody & Sun D\)](https://open.spotify.com/track/0eMu01KxpkgPSEVCJQAim4) | [Westwew](https://open.spotify.com/artist/1UmCyJRXp22Oev8dlzdLBI), [Poppin Class](https://open.spotify.com/artist/6dTCA1jkiCy6ZArcYGprzm), [Galang Kai](https://open.spotify.com/artist/3jlSW8kYQPrrDcUzARS7vt), [Ibel](https://open.spotify.com/artist/26TieX750vBUbd3hnPjDha), [Mister Nobody](https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z), [Sun D](https://open.spotify.com/artist/24J2rPxnR6It1aBDVsJnPE) | [West Poppin \(feat\. Galang Kai, Ibel, Mister Nobody & Sun D\)](https://open.spotify.com/album/5NvOGyQtVzu9FnLlX6poyC) | 2:28 |
-| 35 | [Sudahlah Sudah](https://open.spotify.com/track/4InVKsj49gfHmdEc1ik0bB) | [Beasy](https://open.spotify.com/artist/0FJMcWqpSJ2DFYi9TYL72y) | [Sudahlah Sudah](https://open.spotify.com/album/6JEJFSB0nsR8hGrJ3oy1A3) | 3:20 |
+| 35 | [Sudahlah Sudah](https://open.spotify.com/track/4InVKsj49gfHmdEc1ik0bB) | [beasy](https://open.spotify.com/artist/005ZRDWtitakDggcIQlSoR) | [Sudahlah Sudah](https://open.spotify.com/album/6JEJFSB0nsR8hGrJ3oy1A3) | 3:20 |
 | 36 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 | 37 | [F.A.C.E.](https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [F.A.C.E.](https://open.spotify.com/album/6pHEI6UgQrfYkCW6K0irla) | 2:29 |
 | 38 | [TTTTOKYO](https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:37 |

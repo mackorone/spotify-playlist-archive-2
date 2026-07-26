@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 141105,
+  "num_followers": 141098,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Disco Inferno",
-        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 659000,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Disco Inferno",
+        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 659000,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Can't Stop the Music (Original Soundtrack 1980)",
-        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Silver Collection",
         "url": "https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 476986,
       "name": "I Will Survive - Extended Version",
       "url": "https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Can't Stop the Music (Original Soundtrack 1980)",
+        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
     },
     {
       "added_at": "2025-08-29 16:41:35",

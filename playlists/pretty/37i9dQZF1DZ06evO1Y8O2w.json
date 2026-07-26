@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8386,
+  "num_followers": 8388,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADvs2jsEn4xxPXcLl4ku5Pb",
+  "snapshot_id": "amKrAAAAAABsUgrofSlUn7IiwPVO4pmU",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 328373,
+      "name": "I Don't Want to Lose You",
+      "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legacy Of Phyllis Hyman",
         "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 241573,
-      "name": "First Time Together",
-      "url": "https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prime Of My Life",
         "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
       },
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 328373,
-      "name": "I Don't Want to Lose You",
-      "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
+      "duration_ms": 241573,
+      "name": "First Time Together",
+      "url": "https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "The Love Too Good to Last",
-      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Will Find a Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
       },
@@ -483,6 +467,46 @@
       "duration_ms": 358093,
       "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
       "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "The Love Too Good to Last",
+      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Are My Starship",
+        "url": "https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU"
+      },
+      "artists": [
+        {
+          "name": "Norman Connors",
+          "url": "https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR"
+        },
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        }
+      ],
+      "duration_ms": 250427,
+      "name": "We Both Need Each Other (feat. Phyllis Hyman & Michael Henderson)",
+      "url": "https://open.spotify.com/track/30IeocGEafO6mJpVD5Wlvg"
     },
     {
       "added_at": null,
@@ -535,26 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My Starship",
-        "url": "https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
         {
-          "name": "Norman Connors",
-          "url": "https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR"
-        },
-        {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
         }
       ],
-      "duration_ms": 250427,
-      "name": "We Both Need Each Other (feat. Phyllis Hyman & Michael Henderson)",
-      "url": "https://open.spotify.com/track/30IeocGEafO6mJpVD5Wlvg"
+      "duration_ms": 297906,
+      "name": "Gonna Make Changes",
+      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
     },
     {
       "added_at": null,
@@ -575,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 297906,
-      "name": "Gonna Make Changes",
-      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somewhere In My Lifetime (Expanded)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 374693,
       "name": "Living Inside Your Love",
       "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
     },
     {
       "added_at": null,

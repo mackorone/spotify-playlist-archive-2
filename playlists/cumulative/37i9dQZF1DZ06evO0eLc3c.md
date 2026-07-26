@@ -4,7 +4,7 @@
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-82 songs - 6 hr 36 min
+83 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [About a Boy](https://open.spotify.com/track/0HdfLwXZOHeUUcO2maelzV) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 8:17 | 2025-03-08 | 2025-08-02 |
 | [After the Gold Rush](https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:13 | 2025-03-08 |  |
 | [Ain't It Strange](https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 6:36 | 2025-03-08 |  |
-| [Amerigo](https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:35 | 2025-03-08 |  |
+| [Amerigo](https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:35 | 2025-03-08 | 2026-07-26 |
 | [April Fool](https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:47 | 2025-03-08 |  |
 | [As The Night Goes By](https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:04 | 2025-03-08 | 2025-08-24 |
 | [Ask the Angels](https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:09 | 2025-03-08 |  |
@@ -74,6 +74,7 @@
 | [Snowball](https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 3:14 | 2025-12-28 | 2026-06-29 |
 | [Snowball](https://open.spotify.com/track/4idrWKpqjPzRBE4LLwhSpo) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Snowball](https://open.spotify.com/album/36qDPABaXGNyc4bdbWDjwL) | 3:14 | 2025-08-24 | 2025-12-28 |
 | [So You Want to Be](https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:20 | 2025-03-08 |  |
+| [Solstice](https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha) | [Lenny Kaye](https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5), [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [The Things You Leave Behind](https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ) | 4:53 | 2026-07-26 |  |
 | [Space Monkey](https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:08 | 2025-03-08 | 2025-06-16 |
 | [Summer Cannibals](https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:11 | 2025-08-02 |  |
 | [The Hunter Gets Captured by The Game](https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 2:54 | 2025-10-12 |  |

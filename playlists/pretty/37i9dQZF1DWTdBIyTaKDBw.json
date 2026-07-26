@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29405,
+  "num_followers": 29426,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 191470,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Back to Nature",
         "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 139636,
       "name": "Tiger Lily",
       "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -515,8 +515,8 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Blissful Dreams",
-        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Into the Reverie",
-      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
+      "duration_ms": 169714,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -599,8 +599,8 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+        "name": "Blissful Dreams",
+        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
+      "duration_ms": 156190,
+      "name": "Into the Reverie",
+      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Natsukashi",
-        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        }
-      ],
-      "duration_ms": 117108,
-      "name": "Natsukashi",
-      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Vanishing Journey",
         "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 146925,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Natsukashi",
+        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        }
+      ],
+      "duration_ms": 117108,
+      "name": "Natsukashi",
+      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
-      },
-      "artists": [
-        {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 186268,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1391,6 +1375,42 @@
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Tokyo Skyline",
+        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1443,22 +1463,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Tokyo Skyline",
-        "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
       },
       "artists": [
         {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+          "name": "Nuver",
+          "url": "https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh"
         },
         {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+          "name": "Naga",
+          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Silk Road",
-      "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
+      "duration_ms": 163092,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1479,26 +1499,6 @@
       "duration_ms": 77946,
       "name": "Gold Powder",
       "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
-      },
-      "artists": [
-        {
-          "name": "Nuver",
-          "url": "https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh"
-        },
-        {
-          "name": "Naga",
-          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
-        }
-      ],
-      "duration_ms": 163092,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Shinra",
         "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 137142,
       "name": "Shinra",
       "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2026-06-29 08:21:08",

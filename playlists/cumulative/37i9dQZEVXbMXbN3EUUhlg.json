@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/2UR43PuH6ySuNQjJGfF5zh"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 218107,
       "name": "Bala Alojada",
       "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
@@ -9158,10 +9158,52 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 459212,
       "name": "Cuida do Pet",
       "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
+    },
+    {
+      "album": {
+        "name": "Cuida do Pet",
+        "url": "https://open.spotify.com/album/6vzfvxCFgDhWJdL2f2enCG"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459212,
+      "name": "Cuida do Pet",
+      "url": "https://open.spotify.com/track/1eQPyvKkbJgS7orgKr802Y"
     },
     {
       "album": {
@@ -10968,7 +11010,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 198823,
       "name": "Direitos Iguais - Ao Vivo",
       "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
@@ -13651,6 +13693,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151342,
+      "name": "Eu N\u00e3o Sou Santa",
+      "url": "https://open.spotify.com/track/6kM46K16XcZDLxTHe13muK"
+    },
+    {
+      "album": {
         "name": "Alian\u00e7a - Vol.2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ejLnHri909csVlNncBvyD"
       },
@@ -15123,6 +15187,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173498,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/0lnSxqDmMSOZd64f1QPmc9"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3ximo Passo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9"
       },
@@ -15774,7 +15860,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/4H2uDcYZclBCRKhRCZWV9N"
@@ -15792,7 +15878,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
@@ -23116,7 +23202,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 179595,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
@@ -26115,6 +26201,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "N\u00e3o Me Cutuca",
+      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
+    },
+    {
+      "album": {
         "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
       },
@@ -27648,7 +27756,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/2hjbkQwkoj2aGm0y8Y14v1"
@@ -27670,7 +27778,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
@@ -28780,7 +28888,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 165685,
       "name": "Pena Que C\u00ea J\u00e1 Namora",
       "url": "https://open.spotify.com/track/2BIxaXyOICP5qPMo73IQey"
@@ -30069,6 +30177,24 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192295,
+      "name": "Ponta Do P\u00e9",
+      "url": "https://open.spotify.com/track/2Unp1euBlOC1PkhXwPPwGR"
+    },
+    {
+      "album": {
         "name": "Ponto G",
         "url": "https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R"
       },
@@ -30084,7 +30210,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
@@ -31174,7 +31300,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 167999,
       "name": "QUANDO EU TOMO GIN DE 10",
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"
@@ -32794,6 +32920,28 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN"
+    },
+    {
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "KBrum",
+          "url": "https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151596,
+      "name": "Sal Grosso",
+      "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
     },
     {
       "album": {
@@ -37428,7 +37576,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 129515,
       "name": "Texana 37",
       "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
@@ -39112,7 +39260,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"
@@ -41415,6 +41563,28 @@
     },
     {
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164511,
+      "name": "Voc\u00ea Ja Sabe",
+      "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"
+    },
+    {
+      "album": {
         "name": "Retr\u00f4, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0tlIwC64SXmEK3dR2fRnCc"
       },
@@ -41648,7 +41818,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 162858,
       "name": "Volt\u00e1vel",
       "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"

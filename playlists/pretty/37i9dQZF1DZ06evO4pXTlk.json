@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAwvHinD2v4WFItek3WBHcC",
+  "snapshot_id": "amKrAAAAAAAAVbg9A7lH37RUI42bbn2b",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Kids On Drugs",
-      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
+      "duration_ms": 190390,
+      "name": "Shaking In The Water",
+      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
       "duration_ms": 181040,
       "name": "bury you",
       "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -151,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 190390,
-      "name": "Shaking In The Water",
-      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
+      "duration_ms": 202550,
+      "name": "Kids On Drugs",
+      "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 168893,
-      "name": "losing it",
-      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
+      "duration_ms": 195760,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
+      "duration_ms": 168893,
+      "name": "losing it",
+      "url": "https://open.spotify.com/track/155fZiclWkb1BMRx3GlIwp"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195760,
-      "name": "do it to myself",
-      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/2DhfPBOUHdtu93QDCU29aq"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Nightschool",
-      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
+      "duration_ms": 192982,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 192982,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4"
+      "duration_ms": 170883,
+      "name": "Nightschool",
+      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
+      "duration_ms": 161733,
+      "name": "Car Crash Culture",
+      "url": "https://open.spotify.com/track/4k7X0geoLL1LQ1TnmZNt0z"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Car Crash Culture",
-      "url": "https://open.spotify.com/track/4k7X0geoLL1LQ1TnmZNt0z"
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 316893,
-      "name": "Cool Ethan",
-      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
+      "duration_ms": 165334,
+      "name": "Lust In Translation",
+      "url": "https://open.spotify.com/track/7KVn75EGzjgomi0hAKSHcU"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning How To Live And Let Go",
-        "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 165334,
-      "name": "Lust In Translation",
-      "url": "https://open.spotify.com/track/7KVn75EGzjgomi0hAKSHcU"
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202440,
-      "name": "I Scare Easy",
-      "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+      "duration_ms": 202440,
+      "name": "I Scare Easy",
+      "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
     },
     {
       "added_at": null,

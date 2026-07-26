@@ -1779,6 +1779,32 @@
     },
     {
       "album": {
+        "name": "Bounce (AX.HAWLEY Remix)",
+        "url": "https://open.spotify.com/album/4aALKy2nrL51hIpmAeeJ9i"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Toxinate",
+          "url": "https://open.spotify.com/artist/5UI7tSO6UvXv4N0ju1Vbyk"
+        },
+        {
+          "name": "AX.HAWLEY",
+          "url": "https://open.spotify.com/artist/4zkCResaOMHakA9jzXYe8X"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148114,
+      "name": "Bounce - AX.HAWLEY Remix",
+      "url": "https://open.spotify.com/track/29ripQEMq6jl9cEuhjGV9W"
+    },
+    {
+      "album": {
         "name": "Break It Down (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
       },
@@ -12474,7 +12500,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 154100,
       "name": "Subliminals",
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"

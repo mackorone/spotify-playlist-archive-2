@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers\. Cover: Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,506 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,613 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 47 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |
 | 48 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 49 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
-| 50 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
-| 51 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
+| 50 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
+| 51 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
 | 52 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 |
 | 53 | [Mijn Liefste](https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 3:16 |
 | 54 | [Liever Te Dik In De Kist](https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Liever Te Dik In De Kist](https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA) | 3:58 |

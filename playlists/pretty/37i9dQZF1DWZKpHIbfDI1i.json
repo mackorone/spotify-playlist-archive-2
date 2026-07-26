@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 859539,
+  "num_followers": 859707,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "Filoso",
         "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 166500,
       "name": "C Y Medio",
       "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "N\u00d3MADA",
-        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "WhyWhyWhy",
-        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 159178,
-      "name": "WhyWhyWhy",
-      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "SE LLEG\u00d3 EL VERANO",
         "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 177408,
       "name": "LA PLAYA",
       "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "Frostix",
         "url": "https://open.spotify.com/album/39X4kjbqYNcd95pnYdF9xA"
       },
@@ -1267,6 +1287,22 @@
       "duration_ms": 166000,
       "name": "Frostix",
       "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1291,38 +1327,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+        "name": "a\u00f1os, no meses",
+        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 171880,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+      "duration_ms": 162333,
+      "name": "a\u00f1os, no meses",
+      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1343,26 +1363,6 @@
       "duration_ms": 165162,
       "name": "Otro Abrigo",
       "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "a\u00f1os, no meses",
-        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "a\u00f1os, no meses",
-      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
         }
       ],
-      "duration_ms": 204849,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
+      "duration_ms": 213103,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
     }
   ],
   "unique_name": "Top M\u00e9xico",

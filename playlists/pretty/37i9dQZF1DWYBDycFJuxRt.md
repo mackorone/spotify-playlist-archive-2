@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: キタニタツヤ \*👉 <a href="https://spice.eplus.jp/articles/347739">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,949 likes - 82 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,951 likes - 82 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

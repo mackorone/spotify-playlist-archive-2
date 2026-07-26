@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 30616,
+  "num_followers": 30653,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-07-18 07:04:10",
       "album": {
+        "name": "Lost City Archives, Vol. 4",
+        "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "duration_ms": 294435,
+      "name": "Clockwork Dub",
+      "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
+    },
+    {
+      "added_at": "2026-07-18 07:04:10",
+      "album": {
         "name": "Iramante (feat. towa ainutoronica)",
         "url": "https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-07-18 07:04:10",
       "album": {
-        "name": "Lost City Archives, Vol. 4",
-        "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        }
-      ],
-      "duration_ms": 294435,
-      "name": "Clockwork Dub",
-      "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
-    },
-    {
-      "added_at": "2026-07-18 07:04:10",
-      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -703,6 +703,34 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
+    },
+    {
+      "added_at": "2026-07-18 07:04:10",
+      "album": {
+        "name": "Life, Dream, Love",
+        "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
+      },
+      "artists": [
+        {
+          "name": "Daishi Dance",
+          "url": "https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Oh Jieun",
+          "url": "https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU"
+        },
+        {
+          "name": "Himekami",
+          "url": "https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "Life, Dream, Love",
+      "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
     },
     {
       "added_at": "2026-07-18 07:04:10",
@@ -735,34 +763,6 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
-    },
-    {
-      "added_at": "2026-07-18 07:04:10",
-      "album": {
-        "name": "Life, Dream, Love",
-        "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
-      },
-      "artists": [
-        {
-          "name": "Daishi Dance",
-          "url": "https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ"
-        },
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Oh Jieun",
-          "url": "https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU"
-        },
-        {
-          "name": "Himekami",
-          "url": "https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "Life, Dream, Love",
-      "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
     },
     {
       "added_at": "2026-07-18 07:04:10",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-07-18 07:04:10",
       "album": {
-        "name": "Disappear | Between Thoughts",
-        "url": "https://open.spotify.com/album/20nwso1U6ydpaVXCPCvlZo"
+        "name": "Stomping Riddim",
+        "url": "https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke"
       },
       "artists": [
         {
-          "name": "Shinichi Atobe",
-          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+          "name": "JOMMY",
+          "url": "https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10"
         }
       ],
-      "duration_ms": 397964,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/0wS2lHu920Nm9G5Ee24mjW"
+      "duration_ms": 207761,
+      "name": "Stomping Riddim",
+      "url": "https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg"
     }
   ],
   "unique_name": "Tokyo Club Beat",

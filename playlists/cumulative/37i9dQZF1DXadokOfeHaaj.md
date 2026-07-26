@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Bonobo
 
-501 songs - 1 day 7 hr 25 min
+502 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-05-24 | 2025-02-19 |
 | [Birds Fly In](https://open.spotify.com/track/7zd6tFDXAMgKngvTmI7gs2) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Birds Fly In](https://open.spotify.com/album/0oh9LWYtmn6aaTczUdjDKG) | 4:58 | 2026-05-15 | 2026-05-30 |
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 | 2025-02-28 |
+| [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7) | 2:40 | 2026-07-23 |  |
 | [Boxing feat\. King Krule \- DJ Python Remix](https://open.spotify.com/track/6czf3lyVvUFkYYsFbJbafS) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Boxing feat\. King Krule \(DJ Python Remix\)](https://open.spotify.com/album/4c3ieE9hkCpGLuUL59MrE1) | 7:38 | 2025-03-07 | 2025-05-09 |
 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 | 2026-04-30 | 2026-05-08 |
 | [Brand New Me](https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Brand New Me](https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT) | 3:03 | 2025-10-03 | 2025-11-13 |
@@ -191,7 +192,7 @@
 | [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-12 | 2025-07-01 |
 | [hav u a sec](https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [hav u a sec](https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui) | 4:58 | 2026-07-23 |  |
 | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF) | 3:22 | 2025-03-21 | 2025-07-25 |
-| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-13 |  |
+| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-13 | 2026-07-26 |
 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 | 2024-10-24 | 2025-02-14 |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-24 | 2025-03-07 |
 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 | 2025-07-03 | 2025-08-28 |

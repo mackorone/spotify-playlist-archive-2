@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 151280,
       "name": "ASA",
       "url": "https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
@@ -4399,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Kick in the Shins",
+        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Kick in the Shins",
+      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
+    },
+    {
+      "album": {
         "name": "I Blow Out Big Candles",
         "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
       },
@@ -7022,6 +7040,24 @@
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "album": {
+        "name": "sucker punch !",
+        "url": "https://open.spotify.com/album/2u2RAhN8yXLb5P4Glbskgo"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124300,
+      "name": "sucker punch !",
+      "url": "https://open.spotify.com/track/0btEFu2NtMqxTdHwpp1svx"
     },
     {
       "album": {

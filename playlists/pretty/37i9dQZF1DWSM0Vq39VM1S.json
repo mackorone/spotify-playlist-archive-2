@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388420,
+  "num_followers": 388426,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-07-23 22:01:02",
       "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "added_at": "2026-07-23 22:01:02",
+      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2026-07-23 22:01:02",
-      "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-07-23 22:01:02",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-07-23 22:01:02",
       "album": {
-        "name": "Joy Will Find Its Way",
-        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
-      },
-      "artists": [
-        {
-          "name": "Penelope Antena",
-          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "The Bed Unfold",
-      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
-    },
-    {
-      "added_at": "2026-07-23 22:01:02",
-      "album": {
         "name": "Yours Or Mine",
         "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 230977,
       "name": "Yours Or Mine",
       "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
+    },
+    {
+      "added_at": "2026-07-23 22:01:02",
+      "album": {
+        "name": "Joy Will Find Its Way",
+        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
+      },
+      "artists": [
+        {
+          "name": "Penelope Antena",
+          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "The Bed Unfold",
+      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
     },
     {
       "added_at": "2026-07-23 22:01:02",

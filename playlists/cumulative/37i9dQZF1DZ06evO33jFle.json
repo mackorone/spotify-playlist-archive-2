@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 248000,
       "name": "El Amor (feat. Jenni Rivera)",
       "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
@@ -494,6 +494,28 @@
       "duration_ms": 211712,
       "name": "Enga\u00f1\u00e9moslo - Versi\u00f3n Mariachi - Versi\u00f3n Sencillo",
       "url": "https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj"
+    },
+    {
+      "album": {
+        "name": "If I Ain't Got You (Live)",
+        "url": "https://open.spotify.com/album/31bmsmqFwgF3BechKeG2XI"
+      },
+      "artists": [
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "If I Ain't Got You (Live)",
+      "url": "https://open.spotify.com/track/5gKzIRV1USc5xKRIQTbB6k"
     },
     {
       "album": {

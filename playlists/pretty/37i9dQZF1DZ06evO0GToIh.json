@@ -1,13 +1,33 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 371239,
+  "num_followers": 371409,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAA5RrUJBjwfizVYePzH/MHN",
+  "snapshot_id": "amKrAAAAAAAEc81HRhK5/kjWrCbiQ0r5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos en Com\u00fan",
+        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "Recuerdos en Com\u00fan",
+      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
+    },
     {
       "added_at": null,
       "album": {
@@ -815,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "C\u00f3mo Me Duele - En Vivo",
+      "url": "https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -835,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "C\u00f3mo Me Duele - En Vivo",
-      "url": "https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e1stima Que Seas Ajena",
         "url": "https://open.spotify.com/album/4Z0fQ6thGt7AGJqSImewMX"
       },
@@ -867,22 +887,6 @@
       "duration_ms": 266800,
       "name": "L\u00e1stima Que Seas Ajena",
       "url": "https://open.spotify.com/track/0ctFbTDnzFoWGZ07bNL2j0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 222571,
-      "name": "MX - MAD",
-      "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

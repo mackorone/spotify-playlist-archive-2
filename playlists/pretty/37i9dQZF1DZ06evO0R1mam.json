@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12761,
+  "num_followers": 12763,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACnvE4K4/vFftksceg7F5OG",
+  "snapshot_id": "amKrAAAAAADiabQdKqVFpPq3v3cD4h3t",
   "tracks": [
     {
       "added_at": null,
@@ -334,35 +334,11 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
-        },
-        {
-          "name": "Isaiah Templeton",
-          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        },
-        {
-          "name": "Tasha Page-Lockhart",
-          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
-        },
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 329730,
-      "name": "Anyhow Reprise",
-      "url": "https://open.spotify.com/track/3DvvqLfDgDnuHhm7NfgcNh"
+      "duration_ms": 283152,
+      "name": "Immanuel",
+      "url": "https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj"
     },
     {
       "added_at": null,
@@ -430,11 +406,35 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        },
+        {
+          "name": "Tasha Page-Lockhart",
+          "url": "https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 283152,
-      "name": "Immanuel",
-      "url": "https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj"
+      "duration_ms": 329730,
+      "name": "Anyhow Reprise",
+      "url": "https://open.spotify.com/track/3DvvqLfDgDnuHhm7NfgcNh"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+        "name": "Anyhow",
+        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
       },
       "artists": [
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Aaron Camper",
-          "url": "https://open.spotify.com/artist/6BX9j7UsymFKsVPpNy5PTP"
         }
       ],
-      "duration_ms": 406946,
-      "name": "Chasing After You (The Morning Song) (feat. Aaron Camper)",
-      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
+      "duration_ms": 324600,
+      "name": "Anyhow",
+      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyhow",
-        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Aaron Camper",
+          "url": "https://open.spotify.com/artist/6BX9j7UsymFKsVPpNy5PTP"
         }
       ],
-      "duration_ms": 324600,
-      "name": "Anyhow",
-      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
+      "duration_ms": 406946,
+      "name": "Chasing After You (The Morning Song) (feat. Aaron Camper)",
+      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Jalisa Faye",
-          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
-        },
-        {
-          "name": "Rone Grant",
-          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
-        }
-      ],
-      "duration_ms": 282888,
-      "name": "Look Up - Live In LA",
-      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 278952,
       "name": "Most High",
       "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Jalisa Faye",
+          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
+        },
+        {
+          "name": "Rone Grant",
+          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
+        }
+      ],
+      "duration_ms": 282888,
+      "name": "Look Up - Live In LA",
+      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
     },
     {
       "added_at": null,

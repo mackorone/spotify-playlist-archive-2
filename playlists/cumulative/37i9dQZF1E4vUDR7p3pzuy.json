@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, Captain Margaret and more",
+  "description": "With David Von Beahm, MIK's Reaction, Motor Ballet and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 183192,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 192000,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/2iIYo63gIFDOzZxszarzvE"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
@@ -6830,7 +6830,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 303872,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/6lOXF935I5fQaCHIW5zKXJ"
@@ -7999,6 +7999,24 @@
     },
     {
       "album": {
+        "name": "if you never say never",
+        "url": "https://open.spotify.com/album/2VZYtnyGjRCY5s5piREgc5"
+      },
+      "artists": [
+        {
+          "name": "paddy maloney",
+          "url": "https://open.spotify.com/artist/05zYPMjKzP2le8lWeni6dR"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246990,
+      "name": "if you never say never",
+      "url": "https://open.spotify.com/track/3VXTEJ1fPgWUkLbR3SZyLl"
+    },
+    {
+      "album": {
         "name": "Bridge To Resolution",
         "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
       },
@@ -8583,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "It's Over Now",
+        "url": "https://open.spotify.com/album/6FLhqZhtAJYgntGeGB8MUe"
+      },
+      "artists": [
+        {
+          "name": "Bruce Derby",
+          "url": "https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/24AV8414NJqPMUvTmzFbqZ"
+    },
+    {
+      "album": {
         "name": "Dead Stop",
         "url": "https://open.spotify.com/album/2Y00UxEKCViUJFXdCylSGS"
       },
@@ -8810,7 +8846,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Just a Bunch of Words",
       "url": "https://open.spotify.com/track/5xiDKWKTsqAkWk6em6iDQD"
@@ -9312,7 +9348,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 257741,
       "name": "Let Me Breathe - Kissed With A Lie",
       "url": "https://open.spotify.com/track/4BCy3ZARSbTdEVrwc9Ey4q"
@@ -9770,7 +9806,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 218008,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
@@ -10882,7 +10918,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 325762,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/2J0ILp2whKIC6gZSc1U4xa"
@@ -10900,7 +10936,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 231765,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6rP5tdDnSJE5bA5xJQyYeJ"
@@ -11298,7 +11334,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11522,7 +11558,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 228914,
       "name": "On Your Way",
       "url": "https://open.spotify.com/track/0drRHKIwH1MdX2cXrev92c"
@@ -11918,7 +11954,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 236826,
       "name": "Plastic Time",
       "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
@@ -12616,7 +12652,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -15686,7 +15722,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 220010,
       "name": "The Darkest Of Eyes",
       "url": "https://open.spotify.com/track/4kiCtivuOkpBNtqQW9cqAP"
@@ -16028,7 +16064,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 248000,
       "name": "THE MESS",
       "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
@@ -16154,7 +16190,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 227779,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
@@ -18552,7 +18588,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -18869,6 +18905,24 @@
     },
     {
       "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/3TGnB9rvsiKi57tf68JsGK"
+      },
+      "artists": [
+        {
+          "name": "Return the Stone",
+          "url": "https://open.spotify.com/artist/4PwDzyP6M0n168Twn1Qgu5"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273345,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2J2hSMxK0E3nQikGpVbpyS"
+    },
+    {
+      "album": {
         "name": "Death Knocks",
         "url": "https://open.spotify.com/album/7JAjGDhVAW3pcoHsTehLLZ"
       },
@@ -19082,7 +19136,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

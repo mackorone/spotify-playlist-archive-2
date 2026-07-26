@@ -4,7 +4,7 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-194 songs - 10 hr 40 min
+195 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chehal S3ib](https://open.spotify.com/track/2XwZYLH0bvpk3DanCENM00) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Chehal S3ib](https://open.spotify.com/album/5wZvCZrZHa7LiOpwkwoGty) | 3:15 | 2025-03-02 | 2026-02-25 |
 | [Chkoun Kan Ygoul](https://open.spotify.com/track/5AM9SDedaVbz0hbA4IDNTt) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Chkoun Kan Ygoul](https://open.spotify.com/album/4cQRws3OdhjIszeoHmDNXN) | 3:27 | 2024-03-12 | 2025-02-28 |
 | [Chou Nater \- ‘‘Bel Haram’’ Series Soundtrack](https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Chou Nater \(‘‘Bel Haram’’ Series Soundtrack\)](https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E) | 3:15 | 2026-02-13 |  |
+| [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2026-07-10 |  |
 | [Dmou3 Lawlia \- From The Original TV Series](https://open.spotify.com/track/26vxKduqnJoYGNmztuDcZA) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Dmou3 Lawlia \(From The Original TV Series\)](https://open.spotify.com/album/4rYMmaFYB5EYVFtdvpQG20) | 2:32 | 2024-03-21 | 2025-02-28 |
 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 | 2025-03-06 | 2026-02-19 |
 | [El Foundou](https://open.spotify.com/track/7aSuIwrwORkhgnASF69Uri) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [El Foundou](https://open.spotify.com/album/0HE2ooOyrWy46UafbdNXXw) | 3:08 | 2024-03-10 | 2024-04-19 |
@@ -184,7 +185,7 @@
 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 | 2024-03-29 | 2025-03-04 |
 | [كسبنا أيه \- تتر مسلسل رضا البحراوي](https://open.spotify.com/track/35PnrT6mRKSIfUwAw9j1gE) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [كسبنا أيه \(تتر مسلسل رضا البحراوي\)](https://open.spotify.com/album/3EzfDryvpT3OCFVXAlzbSE) | 3:05 | 2026-07-10 |  |
 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 | 2026-02-18 |  |
-| [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 |  |
+| [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 | 2026-07-26 |
 | [لقيناك حابس \- من مسلسل المداح, أسطورة العودة](https://open.spotify.com/track/3ZIr4yzxi06m9r1ZsXLV28) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z), [Henna](https://open.spotify.com/artist/0hBrkpgGQqYEbPX8BRpB41) | [لقيناك حابس \(من مسلسل المداح, أسطورة العودة\)](https://open.spotify.com/album/1IznaH2Mfz14uZ4ii4VXTg) | 3:41 | 2026-07-10 |  |
 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 | 2025-03-20 | 2026-02-11 |
 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 | 2026-02-13 |  |

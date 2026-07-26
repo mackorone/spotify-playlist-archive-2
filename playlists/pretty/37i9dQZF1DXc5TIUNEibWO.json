@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 9640,
+  "num_followers": 9652,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "A. B Crentsil, Vol. 1",
-        "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
-      },
-      "artists": [
-        {
-          "name": "A.B. Crentsil",
-          "url": "https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs"
-        }
-      ],
-      "duration_ms": 295145,
-      "name": "I Go Pay You Tomorrow",
-      "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Kabribi Kyere Me",
         "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 272800,
       "name": "Kabribi Kyere Me",
       "url": "https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "A. B Crentsil, Vol. 1",
+        "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
+      },
+      "artists": [
+        {
+          "name": "A.B. Crentsil",
+          "url": "https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs"
+        }
+      ],
+      "duration_ms": 295145,
+      "name": "I Go Pay You Tomorrow",
+      "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 351346,
-      "name": "Wodo Enda",
-      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Medo Hemaa",
         "url": "https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 360573,
       "name": "Atadwe",
       "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 351346,
+      "name": "Wodo Enda",
+      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Kabribi Kyere Me",
         "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 375573,
       "name": "Koyon So - Game",
       "url": "https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Fa Idi Bidim",
-        "url": "https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Wiredu & Frank Mensa",
-          "url": "https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Fa Odo Bodum",
-      "url": "https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "The Best of Charles Amoah Vol.1",
         "url": "https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 359955,
       "name": "Mene Wo Begoro",
       "url": "https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Fa Idi Bidim",
+        "url": "https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Wiredu & Frank Mensa",
+          "url": "https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7"
+        }
+      ],
+      "duration_ms": 330840,
+      "name": "Fa Odo Bodum",
+      "url": "https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Katamanto Highlife Orchestra",
-        "url": "https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs"
-      },
-      "artists": [
-        {
-          "name": "Katamanto Highlife Orchestra",
-          "url": "https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Maafio",
-      "url": "https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
         "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 381408,
       "name": "Fre Me (Call Me)",
       "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Katamanto Highlife Orchestra",
+        "url": "https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs"
+      },
+      "artists": [
+        {
+          "name": "Katamanto Highlife Orchestra",
+          "url": "https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Maafio",
+      "url": "https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w"
     },
     {
       "added_at": "2026-02-20 08:28:52",

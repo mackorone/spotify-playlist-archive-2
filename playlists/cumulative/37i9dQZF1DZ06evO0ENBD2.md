@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-181 songs - 11 hr 47 min
+182 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:37 | 2026-07-22 |  |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/3VYrW02CQhbkYAe4rpG297) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:37 | 2025-03-27 | 2026-05-11 |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 | 2022-09-17 | 2026-07-22 |
-| [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever \(Deluxe Edition\)](https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F) | 3:27 | 2026-05-24 |  |
+| [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever \(Deluxe Edition\)](https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F) | 3:27 | 2026-05-24 | 2026-07-26 |
+| [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/37wsnfOsPkbXkDMbVL242d) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever](https://open.spotify.com/album/44tpjRgHiOt5ByV2KESi6K) | 3:27 | 2026-07-26 |  |
 | [These Are The Days Of Our Lives](https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:15 | 2026-07-23 |  |
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 | 2022-10-12 | 2026-07-23 |
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/6L2zQunC8lImxNEH60yxaR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:15 | 2025-03-27 | 2026-05-11 |

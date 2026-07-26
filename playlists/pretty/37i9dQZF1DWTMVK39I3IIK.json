@@ -331,6 +331,22 @@
     {
       "added_at": "2026-07-10 08:29:11",
       "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
         "name": "Lille hus i Jylland (feat. Dahlin)",
         "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 164805,
       "name": "Lille hus i Jylland (feat. Dahlin)",
       "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-07-10 08:29:11",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-07-10 08:29:11",
       "album": {
-        "name": "Var det dig, der var derinde?",
-        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Sarah Wichmann",
-          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
-        }
-      ],
-      "duration_ms": 255223,
-      "name": "Var det dig, der var derinde?",
-      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
         "name": "Hygge & Hustle",
         "url": "https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
+        "name": "Var det dig, der var derinde?",
+        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Sarah Wichmann",
+          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+        }
+      ],
+      "duration_ms": 255223,
+      "name": "Var det dig, der var derinde?",
+      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
     },
     {
       "added_at": "2026-07-10 08:29:11",
@@ -659,54 +659,6 @@
     {
       "added_at": "2026-07-10 08:29:11",
       "album": {
-        "name": "Ring, n\u00e5r du har tid",
-        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Kristoffer Jessen",
-          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
-        },
-        {
-          "name": "Pernille Rosendahl",
-          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
-        },
-        {
-          "name": "Pia Raug",
-          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
-        },
-        {
-          "name": "S\u00f8ren Huss",
-          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
-        }
-      ],
-      "duration_ms": 394340,
-      "name": "Ring, n\u00e5r du har tid",
-      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
-        "name": "4CANTOS",
-        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 140676,
-      "name": "Ender Altid Hos Dig",
-      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -739,6 +691,54 @@
     {
       "added_at": "2026-07-10 08:29:11",
       "album": {
+        "name": "4CANTOS",
+        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 140676,
+      "name": "Ender Altid Hos Dig",
+      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
+        "name": "Ring, n\u00e5r du har tid",
+        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kristoffer Jessen",
+          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
+        },
+        {
+          "name": "Pernille Rosendahl",
+          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
+        },
+        {
+          "name": "Pia Raug",
+          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
+        },
+        {
+          "name": "S\u00f8ren Huss",
+          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
+        }
+      ],
+      "duration_ms": 394340,
+      "name": "Ring, n\u00e5r du har tid",
+      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
         "name": "Det sker alt for tit",
         "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 187422,
       "name": "Det sker alt for tit",
       "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
+        "name": "Ingen Bund",
+        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 219124,
+      "name": "Ingen Bund",
+      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
     },
     {
       "added_at": "2026-07-10 08:29:11",
@@ -783,22 +799,6 @@
       "duration_ms": 229000,
       "name": "Hvis jeg ku'",
       "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
-        "name": "Ingen Bund",
-        "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 219124,
-      "name": "Ingen Bund",
-      "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
     },
     {
       "added_at": "2026-07-10 08:29:11",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-07-10 08:29:11",
       "album": {
+        "name": "Going about my day",
+        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
+      },
+      "artists": [
+        {
+          "name": "Lola Hammerich",
+          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "Going about my day",
+      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "added_at": "2026-07-10 08:29:11",
+      "album": {
         "name": "Pisk",
         "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 230635,
       "name": "Klubben (feat. Choir Of Young Believers)",
       "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
-    },
-    {
-      "added_at": "2026-07-10 08:29:11",
-      "album": {
-        "name": "Going about my day",
-        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
-      },
-      "artists": [
-        {
-          "name": "Lola Hammerich",
-          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "Going about my day",
-      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
     },
     {
       "added_at": "2026-07-10 08:29:11",

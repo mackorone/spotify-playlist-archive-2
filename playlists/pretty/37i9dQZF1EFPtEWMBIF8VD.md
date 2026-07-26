@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 47 | [Heaven](https://open.spotify.com/track/47b7dsWV4a784Iv4wAI6GH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To](https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2) | 3:04 |
 | 48 | [Higher](https://open.spotify.com/track/7fEIwu2ldGCYeKYIAjT7qa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:53 |
 | 49 | [MIA](https://open.spotify.com/track/5tZRnfOdPZEc3mpXbw8gvq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:40 |
-| 50 | [Window](https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:23 |
-| 51 | [Stranger Phase](https://open.spotify.com/track/2ptNTumjhijReIvfU7EYLD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:55 |
+| 50 | [Stranger Phase](https://open.spotify.com/track/2ptNTumjhijReIvfU7EYLD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:55 |
+| 51 | [Window](https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:23 |
 | 52 | [Rosas](https://open.spotify.com/track/5foNspX05ryNh2LqKTz4nn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:02 |
 | 53 | [Speak Up](https://open.spotify.com/track/2JlFrcyUSZQw0iX6DK1pK5) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:07 |
 | 54 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
 | 55 | [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 |
 
-Snapshot ID: `AcXvigAAAAD+9b1f+oWuCQP6gsa+Zp4X`
+Snapshot ID: `AcX1ZgAAAABMLuGDCatCDNAYPks6Oujc`

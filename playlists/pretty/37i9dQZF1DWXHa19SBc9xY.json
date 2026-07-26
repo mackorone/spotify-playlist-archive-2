@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 128360,
+  "num_followers": 128381,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -371,38 +371,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "Vem de L\u00e1",
-      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Amei Te Ver",
         "url": "https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c"
       },
@@ -423,18 +391,34 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
+      "duration_ms": 180394,
+      "name": "Vem de L\u00e1",
+      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -451,6 +435,22 @@
       "duration_ms": 204998,
       "name": "O Amor Descansa Na Varanda",
       "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2026-06-17 15:55:41",

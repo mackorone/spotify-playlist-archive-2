@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jorsshh 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,040 likes - 57 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,079 likes - 57 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [La Vengaza De Mi Hermano](https://open.spotify.com/track/7gI7KmxN0jSgbWeaMDCNsC) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Los Empacadores De Durango](https://open.spotify.com/artist/0InFD0RuneGSJ93XyIuXY1) | [La Vengaza De Mi Hermano](https://open.spotify.com/album/6FzMT7hc3fB9t664WjDCYE) | 2:08 |
 | 18 | [El Leon](https://open.spotify.com/track/0396uLvDYh8Lu1yHdhLDhi) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche Vol\. 3](https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9) | 2:31 |
 | 19 | [Leña De Pirul](https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Leña De Pirul](https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f) | 2:46 |
-| 20 | [Orgulloso De Mí](https://open.spotify.com/track/2rfAcHfcc5rHZXi73bLsXX) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Blass Murrieta](https://open.spotify.com/artist/0kjzkLbSIaO5j55nWbljcU) | [Orgulloso De Mí](https://open.spotify.com/album/1bdjPvtOQrRIzpZtdVkAlc) | 2:27 |
+| 20 | [Orgulloso De Mí](https://open.spotify.com/track/2rfAcHfcc5rHZXi73bLsXX) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Orgulloso De Mí](https://open.spotify.com/album/1bdjPvtOQrRIzpZtdVkAlc) | 2:27 |
 | 21 | [La Cumbia del César](https://open.spotify.com/track/5KkzfswF1EiCJ2oiLcWBAi) | [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Paco M](https://open.spotify.com/artist/67fakNRwuy2Oefgvgyv9b6), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [La Cumbia del César](https://open.spotify.com/album/3e5DTfeSzuAvidRSGqRfHs) | 3:47 |
 | 22 | [El Caballero](https://open.spotify.com/track/108fKCiefzast0veFseUc0) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [El Caballero](https://open.spotify.com/album/6yzbOTfkRmfZU6lqEynB46) | 3:00 |
 | 23 | [Ebrio de amor](https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Ebrio de amor](https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV) | 3:08 |

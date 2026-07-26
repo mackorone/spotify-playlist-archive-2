@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance! The ultimate House Music playlist for high\-energy workouts &amp; unforgettable parties\. Featuring tracks from David Guetta, Calvin Harris, Fred again.., Peggy Gou, and rising stars\. Feel the beat with fresh Deep House, Tech House &amp; Club Anthems\. Updated Weekly! Like &amp; Save!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,311,704 likes - 100 songs - 5 hr 4 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,311,657 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

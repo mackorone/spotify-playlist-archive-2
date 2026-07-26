@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 155839,
+  "num_followers": 155855,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABt9OALnRw2VbZUb0o7Wz60",
+  "snapshot_id": "amKrAAAAAABdv8tk5Tbwp7OafFMqODMY",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pagan Poetry",
         "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
+      "duration_ms": 261826,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 253453,
       "name": "Declare Independence",
       "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
+      "duration_ms": 239826,
+      "name": "Mouth's Cradle",
+      "url": "https://open.spotify.com/track/2cyoqhQXL8HdbAydLtpUxZ"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

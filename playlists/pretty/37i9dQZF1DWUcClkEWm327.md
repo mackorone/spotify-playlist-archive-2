@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 
 > ディズニーの名曲をオルゴール・サウンドで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,962 likes - 169 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,965 likes - 169 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

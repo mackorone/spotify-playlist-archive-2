@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 291560,
+  "num_followers": 291538,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
+        "name": "Joderse La Vida",
+        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "duration_ms": 165838,
+      "name": "Joderse La Vida",
+      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
         "name": "M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "Joderse La Vida",
-        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
-        }
-      ],
-      "duration_ms": 165838,
-      "name": "Joderse La Vida",
-      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Ya No Te Vuelvo a Ver",
-      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 171945,
       "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
       "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Ya No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -683,6 +683,26 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
+        "name": "primera clase",
+        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "primera clase",
+      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
         "name": "Tajada",
         "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 250696,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "primera clase",
-        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "primera clase",
-      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
     },
     {
       "added_at": "2026-04-27 16:06:56",

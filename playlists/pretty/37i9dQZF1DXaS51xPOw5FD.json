@@ -1,6 +1,6 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 78642,
+  "num_followers": 78657,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/2qU64xyrto5ARW4Y9aSlJk"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/2CMZuUTbQ6chojKU64Z04Z"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "96 (feat. Shapes & Dada Jones)",
         "url": "https://open.spotify.com/album/7hyrq5IHLwnjBLvo9ZV7Cx"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 150408,
       "name": "96 (feat. Shapes & Dada Jones)",
       "url": "https://open.spotify.com/track/7dYnsb6ZIhKaxcrxgLnpHR"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Danger Zone",
-        "url": "https://open.spotify.com/album/2qU64xyrto5ARW4Y9aSlJk"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 158706,
-      "name": "Danger Zone",
-      "url": "https://open.spotify.com/track/2CMZuUTbQ6chojKU64Z04Z"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Slipping",
-        "url": "https://open.spotify.com/album/1uqT0geIDQB8aQWxBjwOgT"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/4qdc6nkTS4uzT9W7ml1GZr"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 204827,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Slipping",
+        "url": "https://open.spotify.com/album/1uqT0geIDQB8aQWxBjwOgT"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/4qdc6nkTS4uzT9W7ml1GZr"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/3LNYuJynQywTxfWZskP9ex"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Caleb Virgo",
+          "url": "https://open.spotify.com/artist/5oOhMCLwSFyyyLpc80aUVd"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/2XhvLFOQZzmnm1bl5y5fsu"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/1DPaEexteBEjBmUk8zVCuK"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 193103,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/2aUFuFkH7YirC6ER6yGit6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/3LNYuJynQywTxfWZskP9ex"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Caleb Virgo",
-          "url": "https://open.spotify.com/artist/5oOhMCLwSFyyyLpc80aUVd"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/2XhvLFOQZzmnm1bl5y5fsu"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Low Can U Go",
-        "url": "https://open.spotify.com/album/3aKfZALoyvkAbys8Ohdfi5"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        },
-        {
-          "name": "Blvk H3ro",
-          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
-        }
-      ],
-      "duration_ms": 211004,
-      "name": "Low Can U Go",
-      "url": "https://open.spotify.com/track/1HI4SW3MkyoVW2blKqxGZR"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
       },
@@ -1403,22 +1383,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "10FOOT",
-        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
+        "name": "Low Can U Go",
+        "url": "https://open.spotify.com/album/3aKfZALoyvkAbys8Ohdfi5"
       },
       "artists": [
         {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         },
         {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+          "name": "Blvk H3ro",
+          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
         }
       ],
-      "duration_ms": 115813,
-      "name": "10FOOT",
-      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
+      "duration_ms": 211004,
+      "name": "Low Can U Go",
+      "url": "https://open.spotify.com/track/1HI4SW3MkyoVW2blKqxGZR"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1439,6 +1419,26 @@
       "duration_ms": 205000,
       "name": "On My Way (feat. Children of Zeus)",
       "url": "https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "10FOOT",
+        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 115813,
+      "name": "10FOOT",
+      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/2BPl2kILbhjnb4VKJQnyDT"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/2ijL261X405FDR88YzpmIv"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1jtXnbroF5oAba0vxMUPHl"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 232400,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6JSuAOYpPpckpZIdh92Dz7"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "Soundboy Johnny",
-        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Soundboy Johnny",
-      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/2BPl2kILbhjnb4VKJQnyDT"
+        "name": "Soundboy Johnny",
+        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
       },
       "artists": [
         {
-          "name": "Harriet Jaxxon",
-          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         }
       ],
-      "duration_ms": 161961,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/2ijL261X405FDR88YzpmIv"
+      "duration_ms": 210500,
+      "name": "Soundboy Johnny",
+      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3XDqPUPVBg4YVbJq4nmQ4m"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
         "name": "Murdah",
         "url": "https://open.spotify.com/album/6UBbiZ6P485g4IioSnBvhi"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 177257,
       "name": "Murdah",
       "url": "https://open.spotify.com/track/3OxXvzgTWByimQ9CRFbqfB"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3XDqPUPVBg4YVbJq4nmQ4m"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1"
     },
     {
       "added_at": "2026-07-23 23:00:34",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
+        "name": "Amnesia (Bring It Back)",
+        "url": "https://open.spotify.com/album/4E5UQLD87nGuaEfrphtLVe"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Amnesia (Bring It Back)",
+      "url": "https://open.spotify.com/track/2rtt376bLjO6W2XpvGVgcR"
+    },
+    {
+      "added_at": "2026-07-23 23:00:34",
+      "album": {
         "name": "Skanga Riddim",
         "url": "https://open.spotify.com/album/10LM888Ma4mdLJKexUBQSI"
       },
@@ -2015,34 +2031,22 @@
     {
       "added_at": "2026-07-23 23:00:34",
       "album": {
-        "name": "Amnesia (Bring It Back)",
-        "url": "https://open.spotify.com/album/4E5UQLD87nGuaEfrphtLVe"
+        "name": "(I Don't Want To) Fly Away",
+        "url": "https://open.spotify.com/album/0wdPjxKxTv3lHGVUZ602vE"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Amnesia (Bring It Back)",
-      "url": "https://open.spotify.com/track/2rtt376bLjO6W2XpvGVgcR"
-    },
-    {
-      "added_at": "2026-07-23 23:00:34",
-      "album": {
-        "name": "stargirl",
-        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
-      },
-      "artists": [
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Liane Carroll",
+          "url": "https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk"
         }
       ],
-      "duration_ms": 174374,
-      "name": "stargirl",
-      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
+      "duration_ms": 264927,
+      "name": "(I Don't Want To) Fly Away",
+      "url": "https://open.spotify.com/track/62VKv8GzbonnW5AYayL9GA"
     }
   ],
   "unique_name": "Sunny dnb",

@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-124 songs - 8 hr 29 min
+125 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [It's Only Rock 'n' Roll \(But I Like It\) \- Live](https://open.spotify.com/track/1FW6PF2gswtHqcsjnDx5H1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'n' Roll \(But I Like It\) \[Live\]](https://open.spotify.com/album/1Es6jHVmRXPWcpMFz6exT4) | 4:37 | 2022-12-24 | 2023-01-17 |
 | [It's Only Rock'n'Roll \(But I Like It\) \- Remastered 2009](https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It's Only Rock 'N' Roll \(2009 Re\-Mastered\)](https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv) | 5:07 | 2022-01-09 |  |
 | [It’s Only Rock ’N’ Roll \(But I Like It\) \- Live At The El Mocambo 1977](https://open.spotify.com/track/1U4pHHISIyKRKFVLBBebau) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It’s Only Rock ’N’ Roll \(But I Like It\) / Rip This Joint \[Live At The El Mocambo 1977\]](https://open.spotify.com/album/1LNkP9TVG6KSk5wbXwbcM3) | 4:55 | 2022-04-01 | 2022-04-30 |
-| [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 | 2026-06-28 |  |
+| [Jealous Lover](https://open.spotify.com/track/1XNnPznoORAP2t1rFKnBhj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 3:49 | 2026-07-26 |  |
+| [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 | 2026-06-28 | 2026-07-26 |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/1uBsu3PbD2909UBIfEMLvK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jumpin' Jack Flash / Child Of The Moon](https://open.spotify.com/album/10OB4Z0KBJtCayAX7Gk57m) | 3:42 | 2022-01-09 |  |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 3:43 | 2023-12-13 | 2026-01-22 |
 | [Let It Bleed](https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 5:27 | 2022-01-09 |  |
@@ -81,7 +82,7 @@
 | [Moonlight Mile \- 2009 Mix](https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:57 | 2022-01-09 | 2026-07-12 |
 | [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 | 2022-01-09 | 2026-07-12 |
 | [Mr Charm](https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 | 2026-07-12 |  |
-| [Never Wanna Lose You](https://open.spotify.com/track/35lIzvRVigUkb830xs4bru) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:30 | 2026-07-12 |  |
+| [Never Wanna Lose You](https://open.spotify.com/track/35lIzvRVigUkb830xs4bru) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:30 | 2026-07-12 | 2026-07-26 |
 | [No Expectations \- 50th Anniversary Edition](https://open.spotify.com/track/49ScE2M6RIqfeHnnP4v94B) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:57 | 2025-02-25 | 2026-04-30 |
 | [Not Fade Away \- Mono Version](https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [England’s Newest Hitmakers](https://open.spotify.com/album/5efoVI6WIhxLCIrbZuxwBu) | 1:47 | 2023-02-07 | 2024-02-19 |
 | [Out Of Control](https://open.spotify.com/track/4cYixasStbsXGnhyKxHEFN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:43 | 2022-01-09 | 2022-09-18 |
@@ -125,7 +126,7 @@
 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 | 2022-01-09 |  |
 | [Ventilator Blues](https://open.spotify.com/track/74mpiRPDd2rFeBR1Yl60I3) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:24 | 2023-03-26 | 2023-11-11 |
 | [Waiting On A Friend \- Remastered 2009](https://open.spotify.com/track/4Wd9pEtEnZNDjgiswGOpJb) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 4:34 | 2022-01-09 |  |
-| [Whole Wide World](https://open.spotify.com/track/4yOAYf9yYNT5Pq3iuuJcUa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:58 | 2023-11-10 | 2025-01-22 |
+| [Whole Wide World](https://open.spotify.com/track/4yOAYf9yYNT5Pq3iuuJcUa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:58 | 2023-11-10 |  |
 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 | 2022-01-09 |  |
 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 | 2022-01-09 |  |
 | [You Got Me Rocking](https://open.spotify.com/track/0JTrB3fXGdyGcwxFFECsm1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Voodoo Lounge \(Remastered 2009\)](https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV) | 3:36 | 2023-05-07 | 2023-05-09 |

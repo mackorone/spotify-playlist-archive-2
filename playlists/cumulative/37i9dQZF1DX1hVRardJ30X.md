@@ -4,7 +4,7 @@
 
 > New music by Remers & Jay Wheeler, KAROL G, Lunay & Omar Courtz, Ryan Castro, ARIA VEGA & more.
 
-12,568 songs - 27 day 5 hr 47 min
+12,569 songs - 27 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7746,6 +7746,7 @@
 | [No Creo Nada](https://open.spotify.com/track/1uMWPVS8n43PyRyJ63B4Cv) | [Pia Paez](https://open.spotify.com/artist/2CDpO7G7EuC9zWtFEhrbeN) | [No Creo Nada](https://open.spotify.com/album/0rJhJ5qZa0tEIAjKV2Cm8c) | 3:20 | 2022-11-12 | 2022-11-19 |
 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 | 2022-01-21 | 2022-01-29 |
 | [No dejes que pase el tiempo](https://open.spotify.com/track/366vloqcbQ6nNj5TtBPEuw) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [No dejes que pase el tiempo](https://open.spotify.com/album/0ORYq69wwjlN5bUTYsdMsz) | 3:37 | 2022-03-25 | 2022-04-29 |
+| [NO DEJO LAS DROGAS](https://open.spotify.com/track/7lFaO9uDxYsDHVz0aVWc86) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [NO DEJO LAS DROGAS](https://open.spotify.com/album/6WvxZXKw3kDmha52b2U7GI) | 2:32 | 2026-07-25 |  |
 | [No Digas No](https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [No Digas No](https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH) | 2:49 | 2025-10-03 | 2025-10-11 |
 | [No Disparo](https://open.spotify.com/track/7Afr1arWtaONLJytrsCLLk) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [No Disparo](https://open.spotify.com/album/1xPoaS0GlmGAShrUWYa8e2) | 2:45 | 2022-02-04 | 2022-02-12 |
 | [No Era De Oro](https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [No Era De Oro](https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2) | 2:32 | 2026-07-24 |  |

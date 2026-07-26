@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,643 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,665 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 |
 | 70 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 |
 | 71 | [Ligado no Céu](https://open.spotify.com/track/4Y3SsEUcOVIU6iZS9AouYf) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Ligado no Céu](https://open.spotify.com/album/6dIALTE7fW6V1PWGDDDXuw) | 4:10 |
-| 72 | [Levanto Um Aleluia \- Ao Vivo](https://open.spotify.com/track/7Doq6g4EEIrpyoYP48jGzK) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Outra Vez \(Ao Vivo\)](https://open.spotify.com/album/25kW5U8Nn74M7DBoUzKLBc) | 6:08 |
-| 73 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
+| 72 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
+| 73 | [Levanto Um Aleluia \- Ao Vivo](https://open.spotify.com/track/7Doq6g4EEIrpyoYP48jGzK) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Outra Vez \(Ao Vivo\)](https://open.spotify.com/album/25kW5U8Nn74M7DBoUzKLBc) | 6:08 |
 | 74 | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Joelhos no Chão \(Ao Vivo\)](https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn) | 6:08 |
 | 75 | [Ele Não Se Esquece \- Ao Vivo](https://open.spotify.com/track/2sjtFZxsGIDkatkKR61QPA) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Se Esquece \(Ao Vivo\)](https://open.spotify.com/album/3ntcZXPwZzpTUwOe0vRNBs) | 6:14 |
 

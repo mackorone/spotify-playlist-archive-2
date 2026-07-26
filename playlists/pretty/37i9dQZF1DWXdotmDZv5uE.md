@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,488 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,466 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 36 | [Guadalajara](https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Guadalajara](https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow) | 3:49 |
 | 37 | [Guadalajara](https://open.spotify.com/track/35xHpveqPB1hlw6a1S7VWU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lo Mejor De La Baraja Con El Rey](https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs) | 4:37 |
 | 38 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
-| 39 | [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 |
-| 40 | [Vaquero Galáctico](https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 3:51 |
+| 39 | [Vaquero Galáctico](https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 3:51 |
+| 40 | [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 |
 | 41 | [Lumbares](https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Lumbares](https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx) | 3:22 |
 | 42 | [El Tapatío](https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:59 |
 | 43 | [Jarabe Tapatío](https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Numero 1 Del Mariachi Vargas De Tecalitlan](https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy) | 2:36 |
-| 44 | [Mermaid Sashimi](https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X) | 4:52 |
-| 45 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
+| 44 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
+| 45 | [Mermaid Sashimi](https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X) | 4:52 |
 | 46 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 47 | [El Jalisciense](https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 2:36 |
 | 48 | [Mucho Corazón \- Versión Radio](https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 4:06 |

@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-118 songs - 8 hr 39 min
+119 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Everlasting Love](https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 3:19 | 2022-10-24 | 2024-10-26 |
 | [Every Breaking Wave](https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:12 | 2022-10-24 |  |
 | [Evidence Of Life](https://open.spotify.com/track/07dFzyGKYuqyrRD6R30YMP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:06 | 2024-12-11 | 2024-12-23 |
+| [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-26 |  |
 | [Get Out Of Your Own Way](https://open.spotify.com/track/4nXYb4yc3c1a3NWqdpDrnd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:58 | 2022-10-24 | 2023-02-01 |
 | [Get Out Of Your Own Way \- Songs Of Surrender](https://open.spotify.com/track/5e3v1Ulz5O6j09dmry1KgB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 3:27 | 2023-03-20 | 2023-06-23 |
 | [Gloria \- Remastered 2008](https://open.spotify.com/track/2HAJf8ZoSXeHfmcC8mS7nj) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 4:12 | 2024-06-30 | 2024-07-21 |
@@ -123,7 +124,7 @@
 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 | 2022-10-24 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 | 2022-10-24 | 2025-06-01 |
 | [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 | 2026-02-21 |  |
-| [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2022-10-24 |  |
+| [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 | 2022-10-24 | 2026-07-26 |
 | [Zoo Station \- ZOO TV Live In Dublin, 1993](https://open.spotify.com/track/3PB7hZJSsVJga60q9gVIuT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [ZOO TV Live In Dublin 1993 EP](https://open.spotify.com/album/03qRoidfH8PEvybfKfWyZm) | 5:02 | 2024-09-16 | 2024-10-14 |
 | [Zooropa](https://open.spotify.com/track/0mGtbkb9zSSxZo1h3qXIDZ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 6:30 | 2024-07-08 | 2024-07-17 |
 

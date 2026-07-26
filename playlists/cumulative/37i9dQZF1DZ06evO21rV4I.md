@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-170 songs - 9 hr 38 min
+171 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [One Love \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [One Love \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2) | 3:04 | 2024-02-15 | 2024-06-25 |
 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 | 2021-12-28 | 2023-12-23 |
 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2021-12-28 | 2023-02-26 |
-| [Oshe](https://open.spotify.com/track/2sSwn4lwZHh1cpvSxxvY1q) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Oshe](https://open.spotify.com/album/48XRN9TdM0iZjtcsp3ltkT) | 2:38 | 2026-06-28 |  |
+| [Oshe](https://open.spotify.com/track/2sSwn4lwZHh1cpvSxxvY1q) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Oshe](https://open.spotify.com/album/48XRN9TdM0iZjtcsp3ltkT) | 2:38 | 2026-06-28 | 2026-07-26 |
+| [Oshe](https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 2:38 | 2026-07-26 |  |
 | [Pakurumo](https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:32 | 2022-06-20 | 2022-10-12 |
 | [Pakurumo](https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:32 | 2021-12-28 | 2022-06-20 |
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-09-10 |  |

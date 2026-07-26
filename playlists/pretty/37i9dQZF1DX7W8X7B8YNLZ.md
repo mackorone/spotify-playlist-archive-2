@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,553 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,587 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 25 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 26 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 27 | [Je survivrai](https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV) | [Regine](https://open.spotify.com/artist/2RhiWS0GZaDS22fguBZ1f2) | [Les 50 plus belles chansons](https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0) | 3:10 |
-| 28 | [Mamy Blue](https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f) | 3:52 |
-| 29 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
+| 28 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
+| 29 | [Mamy Blue](https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX) | [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Visage](https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f) | 3:52 |
 | 30 | [Monday, Tuesday..\. Laissez\-moi danser](https://open.spotify.com/track/22MpysBy1FI7PJpWAZnE23) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 3:53 |
 | 31 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
 | 32 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |

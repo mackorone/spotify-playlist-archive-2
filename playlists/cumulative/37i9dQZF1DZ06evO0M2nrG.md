@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 48 min
+115 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 | 2023-03-19 |  |
 | [Ay Amor](https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:29 | 2025-02-21 |  |
 | [Ay Amor](https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Ay Amor](https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron) | 3:29 | 2023-03-19 | 2025-02-21 |
+| [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 | 2026-07-26 |  |
 | [BEBE](https://open.spotify.com/track/6jhuprDoUF22u8UJLu0qth) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [BEBE](https://open.spotify.com/album/3U7vsq3icFfLPkEea20pti) | 3:20 | 2023-03-19 | 2023-04-30 |
 | [Bolerito](https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:47 | 2025-10-26 |  |
 | [Bolerito](https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Bolerito](https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL) | 2:47 | 2024-09-29 | 2025-10-26 |
@@ -46,7 +47,7 @@
 | [Desaparecida](https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desaparecida](https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz) | 2:58 | 2024-09-01 | 2025-01-30 |
 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 | 2023-03-19 |  |
 | [Dicen](https://open.spotify.com/track/4iVKMzCR2Hw4vAGGHPicVO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Soy](https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f) | 3:01 | 2023-03-19 | 2023-05-18 |
-| [Difícile](https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Difícile](https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY) | 2:32 | 2025-08-02 |  |
+| [Difícile](https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Difícile](https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY) | 2:32 | 2025-08-02 | 2026-07-26 |
 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 | 2023-03-19 |  |
 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 | 2023-03-19 | 2023-07-25 |
 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 | 2023-07-24 |  |

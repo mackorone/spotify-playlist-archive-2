@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112786,
+  "num_followers": 112777,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoWWvQjEJP1cM//zhOgj0I04XPG",
+  "snapshot_id": "AAAAAOW8jUUJmEM/XNUuFK+3+WVo0IlB",
   "tracks": [
     {
       "added_at": "2026-07-17 17:14:21",
@@ -27,26 +27,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Baena",
-          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
-        },
-        {
-          "name": "Anderson Feitosa",
-          "url": "https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj"
-        }
-      ],
-      "duration_ms": 250102,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Exaltado",
         "url": "https://open.spotify.com/album/4RysOxHBjUxOhxY7CLm8wZ"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 391267,
       "name": "Exaltado",
       "url": "https://open.spotify.com/track/65syH0P18vj4pWJZyTIYA8"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        },
+        {
+          "name": "Anderson Feitosa",
+          "url": "https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj"
+        }
+      ],
+      "duration_ms": 250102,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Te Encontrei",
-        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
       },
       "artists": [
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
         }
       ],
-      "duration_ms": 184252,
-      "name": "Te Encontrei",
-      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
+      "duration_ms": 685714,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Zoe",
-          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 685714,
-      "name": "Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 298703,
       "name": "Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
+      },
+      "artists": [
+        {
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "\u00c9 de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 196306,
       "name": "\u00c9 de Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2026-07-17 17:14:21",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-07-17 17:14:21",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2026-07-17 17:14:21",
+      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2026-07-17 17:14:21",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2026-07-17 17:14:21",

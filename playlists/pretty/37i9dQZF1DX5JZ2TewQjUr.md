@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: cehryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,531 likes - 117 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,533 likes - 117 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 2 | [仲夏小風波](https://open.spotify.com/track/77eNlDJ9d9h0nF9Hf0CQ9t) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [仲夏小風波](https://open.spotify.com/album/660wbGpLytrAJA55FXN3vO) | 3:15 |
 | 3 | [純](https://open.spotify.com/track/7p0dOTFAf1MxP0aYImwPv4) | [Lester Lam 藍奕持](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [純](https://open.spotify.com/album/5FUusEdFrIfoHLJ2iWiGpg) | 3:50 |
 | 4 | [等一等](https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [等一等](https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw) | 4:34 |
-| 5 | [Over The Bridge 過橋界線 \(feat\. Bernard Chan\)](https://open.spotify.com/track/38rmMuzNY2llYXMdoJryjK) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Bernard Chan](https://open.spotify.com/artist/06bjjuwhhzFUV3k96aoIeG) | [Over The Bridge 過橋界線](https://open.spotify.com/album/2HSd1nMmDC5RVK1TS4PYCe) | 4:02 |
+| 5 | [Over The Bridge 過橋界線 \(feat\. Bernard Chan\)](https://open.spotify.com/track/38rmMuzNY2llYXMdoJryjK) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Bernard Chan](https://open.spotify.com/artist/0D51EtztQap8W2CbAGaafe) | [Over The Bridge 過橋界線](https://open.spotify.com/album/2HSd1nMmDC5RVK1TS4PYCe) | 4:02 |
 | 6 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
 | 7 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
 | 8 | [FB愛不完](https://open.spotify.com/track/4Quwh4FUE0N9APHnIsLUul) | [床哥](https://open.spotify.com/artist/5tz6K8BYKfiVFB8yQRdGX8), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [FB愛不完](https://open.spotify.com/album/36RLX27ALeHuc0hG2apfF2) | 2:56 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 15 | [完全真空](https://open.spotify.com/track/68QFt8SNQziUZwussFlLSr) | [Kacey 陳凱琪](https://open.spotify.com/artist/3yd1vE8VmUGIYavgWsLb3u) | [完全真空](https://open.spotify.com/album/6cRyN1Q0uxI0LG8Fc902Ed) | 3:47 |
 | 16 | [wish u could](https://open.spotify.com/track/2LJO9MbWI7UUr6SXWkWyj0) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [wish u could](https://open.spotify.com/album/6MJIAUGXCVBUrCXjYVu6Hz) | 3:11 |
 | 17 | [蛻變中請勿打擾](https://open.spotify.com/track/2yaPUeFhwqczGGdURBzdLQ) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [蛻變中請勿打擾](https://open.spotify.com/album/4bKnNtSWDKCoTc4RE2JTFr) | 3:49 |
-| 18 | [在兩個心中間坐下 Two Worlds \(feat\. Ivana Wong\)](https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [在兩個心中間坐下 Two Worlds](https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o) | 4:12 |
+| 18 | [Two Worlds 在兩個心中間坐下 \(feat\. Ivana Wong\)](https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Two Worlds 在兩個心中間坐下](https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o) | 4:12 |
 | 19 | [block了](https://open.spotify.com/track/2n7fcu5t6cXjZrtLfIwOkv) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [block了](https://open.spotify.com/album/7uZIoIJvkpXJkavQmk79QC) | 3:33 |
 | 20 | [熱帶期](https://open.spotify.com/track/6UfrKZVwPTqWMYBw7xQXzh) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [熱帶期](https://open.spotify.com/album/6seEn1xsdfLj2VgtVahQLV) | 3:43 |
 | 21 | [10 Feet Tall](https://open.spotify.com/track/3Wbz6JRkIOv0tQgVGFzkIE) | [Mr Koo](https://open.spotify.com/artist/63Jj7uHeJZ9ygXaesiq6MF) | [10 Feet Tall](https://open.spotify.com/album/1Fl4U0Sl946aR4jIduAMbu) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234165,
+  "num_followers": 234160,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Heart Is A Drum",
+      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Heart Is A Drum",
-      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 251273,
       "name": "PUDDLE ( OF ME )",
       "url": "https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -751,6 +751,38 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
       },
@@ -767,18 +799,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -807,38 +839,6 @@
       "duration_ms": 195862,
       "name": "Accidental Tattoo",
       "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "From the Night",
-        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 251821,
-      "name": "From the Night",
-      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
         "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Wavepool",
+        "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        },
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Wavepool",
+      "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Please, Don't Wake Me",
         "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Wavepool",
-        "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
-      },
-      "artists": [
-        {
-          "name": "Hailaker",
-          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
-        },
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Wavepool",
-      "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
     },
     {
       "added_at": "2026-06-18 23:01:00",

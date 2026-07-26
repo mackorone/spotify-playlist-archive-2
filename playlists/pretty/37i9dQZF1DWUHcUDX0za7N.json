@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
-  "num_followers": 84841,
+  "num_followers": 84864,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Gbewa",
         "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 169655,
       "name": "Gbewa",
       "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Many People",
-        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Many People",
+        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -1143,6 +1143,66 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
       },
@@ -1171,62 +1231,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "JUJU (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 157756,
-      "name": "JUJU (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Baby Thug",
-        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Pami",
-      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -1251,42 +1271,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         },
         {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Understand Me",
-        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Understand Me",
-      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+      "duration_ms": 144000,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
     },
     {
       "added_at": "2026-07-24 00:01:49",

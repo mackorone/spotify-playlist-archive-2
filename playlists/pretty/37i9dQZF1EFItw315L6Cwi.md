@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 99 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 5 | [Fussballer ⚽️](https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Fussballer ⚽️](https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7) | 1:23 |
 | 6 | [Das ist Bonez 💀](https://open.spotify.com/track/6tJxEvSIBU46PrbcK5TDnM) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:23 |
 | 7 | [LOBSTER](https://open.spotify.com/track/06X1jf46YLupZP2dWHgmqX) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [LOBSTER](https://open.spotify.com/album/1hOfmAqTU8E3wQtb4sPyVn) | 2:20 |
-| 8 | [Tränen](https://open.spotify.com/track/653cdEL1j2MkpBYDUDuVz1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Tränen](https://open.spotify.com/album/2ky9BhNZIjorR4hQUCxF7b) | 2:34 |
-| 9 | [Maske weg](https://open.spotify.com/track/3eVgCJOjrVgBa087nZ7jWE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:58 |
+| 8 | [Maske weg](https://open.spotify.com/track/3eVgCJOjrVgBa087nZ7jWE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:58 |
+| 9 | [Tränen](https://open.spotify.com/track/653cdEL1j2MkpBYDUDuVz1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Tränen](https://open.spotify.com/album/2ky9BhNZIjorR4hQUCxF7b) | 2:34 |
 | 10 | [Unerlaubtes Fahren](https://open.spotify.com/track/4wiqWPFnkb3Y0ZOvpA0vFn) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:44 |
 | 11 | [Theorie und Praxis](https://open.spotify.com/track/3PTdT1lrROgSRZzHknt8x6) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:35 |
 | 12 | [GANGSIGNS](https://open.spotify.com/track/56RnsXj3ZH5VAElAo9H1ot) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [GANGSIGNS](https://open.spotify.com/album/1nOnATUcB6S7E6AHqQzFH8) | 1:48 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcXvqAAAAABR0oE7dQKRwXLcVAE+k18W`
+Snapshot ID: `AcX1SAAAAAAHRLbsEwraDg7/HsOvklsC`

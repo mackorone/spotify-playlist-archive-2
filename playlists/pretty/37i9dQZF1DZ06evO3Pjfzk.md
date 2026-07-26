@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,617 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,676 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
 | 50 | [Dead End Red Dirt Road \- From The Gray House Original Soundtrack](https://open.spotify.com/track/3E4CIrrbH6m5n6kevRkw4m) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Gray House \(Original Soundtrack From the Amazon Series\)](https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO) | 3:30 |
 
-Snapshot ID: `amFZgAAAAAB1V4m1eOKKKsI9eIHkEFNn`
+Snapshot ID: `amKrAAAAAABkVCWhS1LOWlWyuY52B3Hp`

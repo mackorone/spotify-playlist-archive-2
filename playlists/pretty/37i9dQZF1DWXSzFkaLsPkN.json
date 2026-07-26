@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- AtharvaMusic\n",
-  "num_followers": 135150,
+  "num_followers": 135165,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Ab Main Kya Karun",
+        "url": "https://open.spotify.com/album/2JNWOwxbfZF4sbXqVnODyp"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "duration_ms": 226428,
+      "name": "Ab Main Kya Karun",
+      "url": "https://open.spotify.com/track/4a8e7bDQwjKPVJcIn6RpOx"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "Pyar Se",
         "url": "https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 162845,
       "name": "Pyar Se",
       "url": "https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Ab Main Kya Karun",
-        "url": "https://open.spotify.com/album/2JNWOwxbfZF4sbXqVnODyp"
-      },
-      "artists": [
-        {
-          "name": "Last Minute India",
-          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
-        }
-      ],
-      "duration_ms": 226428,
-      "name": "Ab Main Kya Karun",
-      "url": "https://open.spotify.com/track/4a8e7bDQwjKPVJcIn6RpOx"
     },
     {
       "added_at": "2026-07-10 05:24:52",
@@ -631,22 +631,18 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Uljhan",
-        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+        "name": "Baawra Mann",
+        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
       },
       "artists": [
         {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
         }
       ],
-      "duration_ms": 134139,
-      "name": "Uljhan",
-      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+      "duration_ms": 252717,
+      "name": "Baawra Mann",
+      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -663,6 +659,26 @@
       "duration_ms": 166000,
       "name": "TERA PATA",
       "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -687,22 +703,6 @@
       "duration_ms": 174065,
       "name": "Better With You (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Baawra Mann",
-        "url": "https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN"
-      },
-      "artists": [
-        {
-          "name": "Shunya",
-          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
-        }
-      ],
-      "duration_ms": 252717,
-      "name": "Baawra Mann",
-      "url": "https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
+        "name": "Yeh Duniya Jala Do",
+        "url": "https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        }
+      ],
+      "duration_ms": 230443,
+      "name": "Yeh Duniya Jala Do",
+      "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"
+    },
+    {
+      "added_at": "2026-07-02 08:56:31",
+      "album": {
         "name": "MOON (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 183944,
       "name": "MOON (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ"
-    },
-    {
-      "added_at": "2026-07-02 08:56:31",
-      "album": {
-        "name": "Yeh Duniya Jala Do",
-        "url": "https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6"
-      },
-      "artists": [
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        }
-      ],
-      "duration_ms": 230443,
-      "name": "Yeh Duniya Jala Do",
-      "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"
     },
     {
       "added_at": "2026-07-10 05:24:52",
@@ -1153,26 +1153,6 @@
       "url": "https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A"
     },
     {
-      "added_at": "2026-07-10 05:24:52",
-      "album": {
-        "name": "Safar Khoobsurat",
-        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Shubham Agrawal",
-          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Safar Khoobsurat",
-      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
-    },
-    {
       "added_at": "2026-07-02 08:56:31",
       "album": {
         "name": "Dear Maahiya (From \"UR Debut\")",
@@ -1195,6 +1175,26 @@
       "duration_ms": 237300,
       "name": "Dear Maahiya (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
+    },
+    {
+      "added_at": "2026-07-10 05:24:52",
+      "album": {
+        "name": "Safar Khoobsurat",
+        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Safar Khoobsurat",
+      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
     },
     {
       "added_at": "2026-07-10 05:24:52",
@@ -1261,26 +1261,6 @@
       "url": "https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP"
     },
     {
-      "added_at": "2026-07-10 05:24:52",
-      "album": {
-        "name": "Khota",
-        "url": "https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X"
-      },
-      "artists": [
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        },
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Khota",
-      "url": "https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC"
-    },
-    {
       "added_at": "2026-07-02 08:56:31",
       "album": {
         "name": "Birha",
@@ -1299,6 +1279,26 @@
       "duration_ms": 157931,
       "name": "Birha",
       "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
+    },
+    {
+      "added_at": "2026-07-10 05:24:52",
+      "album": {
+        "name": "Khota",
+        "url": "https://open.spotify.com/album/0alinKnUVspdYqQiMhHr6X"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Khota",
+      "url": "https://open.spotify.com/track/44e9k4IgN9HjKbZfPMBRQC"
     },
     {
       "added_at": "2026-07-02 08:56:31",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-07-02 08:56:31",
       "album": {
-        "name": "Aakhri Baat",
-        "url": "https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu"
+        "name": "Aaye Re",
+        "url": "https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp"
       },
       "artists": [
         {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Aakhri Baat",
-      "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
+      "duration_ms": 240116,
+      "name": "Aaye Re",
+      "url": "https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n"
     }
   ],
   "unique_name": "hIndies",

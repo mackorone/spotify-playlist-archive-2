@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,388 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,396 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 16 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
 | 17 | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TRAPPERZ A Mafia Da Sicilia \(feat\. MC Davo & Fuego\)](https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon) | 5:02 |
 | 18 | [Me iré](https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:18 |
-| 19 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 |
-| 20 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
+| 19 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
+| 20 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 |
 | 21 | [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI) | 6:02 |
 | 22 | [LULULEMON](https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [LULULEMON](https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5) | 2:51 |
 | 23 | [Marybel \- Remix](https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Gaelo](https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [Marybel \(Remix\)](https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Andamos De Parranda](https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:41 |
 | 50 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
 
-Snapshot ID: `amFZgAAAAACARbgd+KPJ+ObL1MBdXaP8`
+Snapshot ID: `amKrAAAAAAAhB7T5cA2OQQwhGBf+rJ/a`

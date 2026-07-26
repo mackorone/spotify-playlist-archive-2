@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,369,251 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,368,995 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 69 | [Dior \(with Chrystal\) \- David Guetta Remix](https://open.spotify.com/track/5CboUpvvZdZRApvEVJppB3) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Dior \(with Chrystal\) \[David Guetta Remix\]](https://open.spotify.com/album/6UbRsSRjyIaCNvzJGmEQGO) | 2:26 |
 | 70 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 | 71 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
-| 72 | [Beep \(with Devault\)](https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD Forever \(Deluxe Edition\)](https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ) | 2:27 |
-| 73 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
-| 74 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
-| 75 | [It's ok I'm ok \- Ian Asher remix](https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [It's ok I'm ok \(remixes\)](https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ) | 2:46 |
+| 72 | [Underneath the Stars \- Eric Kupper Klassic Club Mix](https://open.spotify.com/track/3wbiLTriuvUIEtyD0rL1Rp) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Daydream \(30th Anniversary Edition\)](https://open.spotify.com/album/3KGlZ9YeHexP80A3scG86n) | 5:52 |
+| 73 | [Beep \(with Devault\)](https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD Forever \(Deluxe Edition\)](https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ) | 2:27 |
+| 74 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
+| 75 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
 
 Snapshot ID: `AAAAAK12gNFA4g+FqWjr9cN2jd7DaN+B`

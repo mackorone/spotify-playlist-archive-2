@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Listen to women at full volume! 本月有 Amy Lo 精選 5 首女歌手歌曲。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,640 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

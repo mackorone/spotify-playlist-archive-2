@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 130173,
+  "num_followers": 130162,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
-      },
-      "artists": [
-        {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Un Poco M\u00e1s de Luz",
         "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 344145,
       "name": "Fukushima",
       "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+      },
+      "artists": [
+        {
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Cosas Que Probablemente No Van a Pasar",
-        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Cosas que probablemente no van a pasar",
-      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Love is the Answer",
         "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 360259,
       "name": "Love is the Answer",
       "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Cosas Que Probablemente No Van a Pasar",
+        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cosas que probablemente no van a pasar",
+      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
     },
     {
       "added_at": "2024-07-12 23:20:36",

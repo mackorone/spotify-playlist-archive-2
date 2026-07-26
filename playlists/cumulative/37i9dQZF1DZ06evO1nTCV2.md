@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-304 songs - 18 hr 31 min
+306 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Eyes on the Door](https://open.spotify.com/track/2OWsyTqwcpdqcjlPN838pR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 3:14 | 2022-11-08 | 2023-02-06 |
 | [Fairweather](https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 4:38 | 2022-08-20 | 2022-11-02 |
 | [Famous Eyes](https://open.spotify.com/track/0GLY6XmfXXjhlqM96Glknx) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 2:19 | 2026-06-14 | 2026-07-24 |
-| [Famous Eyes](https://open.spotify.com/track/2oLb7LzMMQE7ViekuyJcp7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 2:19 | 2026-07-24 |  |
+| [Famous Eyes](https://open.spotify.com/track/2oLb7LzMMQE7ViekuyJcp7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 2:19 | 2026-07-24 | 2026-07-26 |
 | [Fantasy File](https://open.spotify.com/track/0QVJ3U1x68Hx0q3n0qkrDL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Fantasy File](https://open.spotify.com/album/6ckqpwPxYSKPHzYO1cKDbG) | 3:21 | 2022-08-04 | 2022-08-31 |
 | [Fantasy File](https://open.spotify.com/track/1tDM7TUApY5zJh5FBvxryc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:21 | 2022-10-27 | 2023-06-22 |
 | [Fantasy File](https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:21 | 2022-08-30 | 2022-10-28 |
@@ -208,7 +208,8 @@
 | [Please, Shut The Fuck Up](https://open.spotify.com/track/2yHsfeMrKZoSYcwnDl9Khu) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:56 | 2025-12-03 | 2026-03-30 |
 | [Poison & Pain](https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Another Wednesday](https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL) | 3:38 | 2025-02-16 | 2025-06-12 |
 | [Poor Connection](https://open.spotify.com/track/7Ddfa5uVpCRmj1tpcITo07) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:49 | 2022-05-16 | 2022-08-16 |
-| [Pretenders](https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:00 | 2026-06-14 |  |
+| [Pretenders](https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:00 | 2026-06-14 | 2026-07-26 |
+| [Pretenders](https://open.spotify.com/track/3kRTaRq5n2ffSDUQZ4c4Xv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:00 | 2026-07-26 |  |
 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
 | [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 | 2026-07-10 |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 | 2022-11-04 |
@@ -279,6 +280,7 @@
 | [Too Bored to Run](https://open.spotify.com/track/0t3eB48w37aqTPB7aGhlia) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 3:08 | 2022-11-06 | 2023-04-04 |
 | [Too Late](https://open.spotify.com/track/3BGW3cTO3TzxG5VojcA9Ge) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:55 | 2024-01-12 | 2024-01-23 |
 | [Too Old To Die Young](https://open.spotify.com/track/3IpPLOAeA3bseWabO6fX9S) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:09 | 2026-01-15 | 2026-02-13 |
+| [Touch, Feel & Lose](https://open.spotify.com/track/3XDaAJRBkyzDGZmCANjLZr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:46 | 2026-07-26 |  |
 | [Touch, Feel & Lose](https://open.spotify.com/track/6bNrYc4Xzw4Zd3LHS7FsLo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:46 | 2026-07-10 | 2026-07-22 |
 | [Trouble](https://open.spotify.com/track/7xfWkAqJiJOrtH6j8AbXlJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:47 | 2022-03-04 | 2022-05-04 |
 | [True Love](https://open.spotify.com/track/1stB2WWLzp7QIeT82T7ytU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:48 | 2024-01-08 | 2024-02-10 |

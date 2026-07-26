@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 260862,
+  "num_followers": 260893,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
+        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
+      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
-        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274064,
-      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
-      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
+        "name": "Sones Tradicionales (En Vivo)",
+        "url": "https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc"
       },
       "artists": [
         {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+          "name": "Banda La Maxima Escuela",
+          "url": "https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0"
         }
       ],
-      "duration_ms": 252107,
-      "name": "El Son Del Veneno",
-      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
+      "duration_ms": 191818,
+      "name": "11 Pueblos (Carlillos Guerrero) - En Vivo",
+      "url": "https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Sones Tradicionales (En Vivo)",
-        "url": "https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
       },
       "artists": [
         {
-          "name": "Banda La Maxima Escuela",
-          "url": "https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0"
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
         }
       ],
-      "duration_ms": 191818,
-      "name": "11 Pueblos (Carlillos Guerrero) - En Vivo",
-      "url": "https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW"
+      "duration_ms": 252107,
+      "name": "El Son Del Veneno",
+      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
     },
     {
       "added_at": "2025-09-01 20:36:31",

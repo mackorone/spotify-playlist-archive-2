@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 54959,
+  "num_followers": 54968,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAC7lV0JSUA8RKDuqk3auGaO",
+  "snapshot_id": "amKrAAAAAADN4/OQ/KzmJ9pFbF6zUCjd",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 129720,
-      "name": "Bim Bom - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -911,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Detour Ahead",
-      "url": "https://open.spotify.com/track/4VQjBT1aLYvEIdirwxxjvo"
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": null,
@@ -947,18 +923,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Jazz #14",
-        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+        "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+      "duration_ms": 218333,
+      "name": "Detour Ahead",
+      "url": "https://open.spotify.com/track/4VQjBT1aLYvEIdirwxxjvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recorded Fall '61",
+        "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 286893,
+      "name": "Who Could Care?",
+      "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
     }
   ],
   "unique_name": "This Is Stan Getz",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188059,
+  "num_followers": 188077,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
-        "name": "Old Lovers (feat. The Lumineers)",
-        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 213188,
-      "name": "Old Lovers (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-07-23 22:00:58",
-      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 219945,
       "name": "Steal",
       "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
+    },
+    {
+      "added_at": "2026-07-23 22:00:58",
+      "album": {
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
     },
     {
       "added_at": "2026-07-23 22:00:58",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
-        "name": "Quand on arrive en ville",
-        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
-      },
-      "artists": [
-        {
-          "name": "Fhin",
-          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
-        }
-      ],
-      "duration_ms": 218010,
-      "name": "Quand on arrive en ville",
-      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
-    },
-    {
-      "added_at": "2026-07-23 22:00:58",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+    },
+    {
+      "added_at": "2026-07-23 22:00:58",
+      "album": {
+        "name": "Quand on arrive en ville",
+        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        }
+      ],
+      "duration_ms": 218010,
+      "name": "Quand on arrive en ville",
+      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
     },
     {
       "added_at": "2026-07-23 22:00:58",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
+    },
+    {
+      "added_at": "2026-07-23 22:00:58",
+      "album": {
         "name": "lucius lullaby",
         "url": "https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr"
       },
@@ -1459,18 +1479,18 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
-        "name": "LOVE. HURT. REPEAT.",
-        "url": "https://open.spotify.com/album/6rrhjvEEHny6k5nybt2Wc3"
+        "name": "Everything All at Once",
+        "url": "https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI"
       },
       "artists": [
         {
-          "name": "Elephanz",
-          "url": "https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO"
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
         }
       ],
-      "duration_ms": 156066,
-      "name": "Streets of Rage",
-      "url": "https://open.spotify.com/track/4wlEaCubuqapwPLORGzF3q"
+      "duration_ms": 143171,
+      "name": "Everything All at Once",
+      "url": "https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU"
     },
     {
       "added_at": "2026-07-23 22:00:58",
@@ -1491,6 +1511,22 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
+        "name": "LOVE. HURT. REPEAT.",
+        "url": "https://open.spotify.com/album/6rrhjvEEHny6k5nybt2Wc3"
+      },
+      "artists": [
+        {
+          "name": "Elephanz",
+          "url": "https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "Streets of Rage",
+      "url": "https://open.spotify.com/track/4wlEaCubuqapwPLORGzF3q"
+    },
+    {
+      "added_at": "2026-07-23 22:00:58",
+      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -1507,18 +1543,18 @@
     {
       "added_at": "2026-07-23 22:00:58",
       "album": {
-        "name": "Everything All at Once",
-        "url": "https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
       },
       "artists": [
         {
-          "name": "Ashel",
-          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
         }
       ],
-      "duration_ms": 143171,
-      "name": "Everything All at Once",
-      "url": "https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU"
+      "duration_ms": 226534,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
     },
     {
       "added_at": "2026-07-23 22:00:58",
@@ -1659,42 +1695,6 @@
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
-    },
-    {
-      "added_at": "2026-07-23 22:00:58",
-      "album": {
-        "name": "Paradis bleu",
-        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
-      },
-      "artists": [
-        {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Matild",
-          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Paradis bleu",
-      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
-    },
-    {
-      "added_at": "2026-07-23 22:00:58",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I"
-      },
-      "artists": [
-        {
-          "name": "JESS REISS",
-          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
     }
   ],
   "unique_name": "D\u00eener entre amis",

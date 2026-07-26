@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40841,
+  "num_followers": 40844,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
+        "name": "A3! Blooming WINTER EP",
+        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4\u3068\u7a7a\u767d",
+      "url": "https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
         "name": "Act! Addict! Actors!",
         "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 224186,
       "name": "Act! Addict! Actors!",
       "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! First SPRING EP",
-        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "SICK SICK SICK",
-      "url": "https://open.spotify.com/track/3mJa4cWzm6jm0ixuE2T8vp"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! Blooming WINTER EP",
-        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
+        "name": "A3! First SPRING EP",
+        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
       },
       "artists": [
         {
-          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
         }
       ],
-      "duration_ms": 259133,
-      "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4\u3068\u7a7a\u767d",
-      "url": "https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp"
+      "duration_ms": 188240,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/3mJa4cWzm6jm0ixuE2T8vp"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -359,26 +359,34 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+        "name": "GOLDEN ENCORE!",
+        "url": "https://open.spotify.com/album/3Asr0w8ovcO63Nk4pceDmI"
       },
       "artists": [
         {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        },
-        {
-          "name": "\u9808\u7396\u30ad\u30a8\u30eb&\u5b87\u66fd\u30da\u30c6\u30f3",
-          "url": "https://open.spotify.com/artist/51yM8t8QYurzscTXnLUd7b"
+          "name": "BRBRookies!",
+          "url": "https://open.spotify.com/artist/1J51fE64FFrosV0OIf16zf"
         },
         {
           "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
           "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
+        },
+        {
+          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
+          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
+        },
+        {
+          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
+          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
+        },
+        {
+          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
+          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
         }
       ],
-      "duration_ms": 261986,
-      "name": "\u8703\u6c17\u697c\u306f\u5947\u8853\u306e\u591c\u306b",
-      "url": "https://open.spotify.com/track/0yLz8shFdFLZJiqTQQGocf"
+      "duration_ms": 280533,
+      "name": "GOLDEN ENCORE!",
+      "url": "https://open.spotify.com/track/5DMdNNSU4xLSTK1niFEaFS"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -419,38 +427,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "GOLDEN ENCORE!",
-        "url": "https://open.spotify.com/album/3Asr0w8ovcO63Nk4pceDmI"
-      },
-      "artists": [
-        {
-          "name": "BRBRookies!",
-          "url": "https://open.spotify.com/artist/1J51fE64FFrosV0OIf16zf"
-        },
-        {
-          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
-        },
-        {
-          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
-          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
-        },
-        {
-          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
-          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
-        },
-        {
-          "name": "\u30ac\u30a4(CV:\u65e5\u91ce\u8061)",
-          "url": "https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "GOLDEN ENCORE!",
-      "url": "https://open.spotify.com/track/5DMdNNSU4xLSTK1niFEaFS"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! Blooming WINTER EP",
         "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 227840,
       "name": "es\u306e\u6182\u9b31",
       "url": "https://open.spotify.com/track/1FELFRU0UWyem6p9xEcfEX"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        },
+        {
+          "name": "\u9808\u7396\u30ad\u30a8\u30eb&\u5b87\u66fd\u30da\u30c6\u30f3",
+          "url": "https://open.spotify.com/artist/51yM8t8QYurzscTXnLUd7b"
+        },
+        {
+          "name": "\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "\u8703\u6c17\u697c\u306f\u5947\u8853\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/0yLz8shFdFLZJiqTQQGocf"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
+        "name": "A3! Blooming AUTUMN EP",
+        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
         "name": "A3! Blooming WINTER EP",
         "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 186706,
       "name": "\u4e00\u591c\u9650\u308a\u306e\u76f8\u68d2",
       "url": "https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! Blooming AUTUMN EP",
-        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
-      },
-      "artists": [
-        {
-          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
     },
     {
       "added_at": "2025-04-22 19:04:27",

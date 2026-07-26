@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2376,
+  "num_followers": 2391,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACAbQsY4I+BZryBkM6TbG6D",
+  "snapshot_id": "amKrAAAAAABiORqUiO6lmm2+N/srFoav",
   "tracks": [
     {
       "added_at": null,
@@ -108,41 +108,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 196573,
-      "name": "Lo Nuestro Es un Error",
-      "url": "https://open.spotify.com/track/0JuxfeKIDbAkWc7BLVsd8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 147745,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Ya Ni Me Acuerdo",
-      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
+      "duration_ms": 169183,
+      "name": "Con Todo Respeto",
+      "url": "https://open.spotify.com/track/18XP44X50GLQotasWhpK0E"
     },
     {
       "added_at": null,
@@ -167,6 +135,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Ya Ni Me Acuerdo",
+      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 147745,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aunque Me Duela",
         "url": "https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30"
       },
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 169183,
-      "name": "Con Todo Respeto",
-      "url": "https://open.spotify.com/track/18XP44X50GLQotasWhpK0E"
+      "duration_ms": 196573,
+      "name": "Lo Nuestro Es un Error",
+      "url": "https://open.spotify.com/track/0JuxfeKIDbAkWc7BLVsd8b"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna de Octubre",
-        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 194932,
-      "name": "Luna de Octubre",
-      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 160589,
       "name": "Yo He Nacido Mexicana",
       "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna de Octubre",
+        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 194932,
+      "name": "Luna de Octubre",
+      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "El Amor Perfecto",
-      "url": "https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 186117,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "El Amor Perfecto",
+      "url": "https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz"
     },
     {
       "added_at": null,

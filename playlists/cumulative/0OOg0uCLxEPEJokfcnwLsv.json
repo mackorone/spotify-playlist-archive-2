@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "Never Trust A Pig",
+        "url": "https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216232,
+      "name": "Never Trust A Pig",
+      "url": "https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg"
+    },
+    {
+      "album": {
         "name": "Nie mehr halbe Wege",
         "url": "https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T"
       },

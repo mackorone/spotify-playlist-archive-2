@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABk3Pe9k719TPNFjMZBarOM",
+  "snapshot_id": "amKrAAAAAABE246vwlhFU3EZqAf8rZgH",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 351093,
-      "name": "Woven",
-      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
+      "duration_ms": 575320,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 575320,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
+      "duration_ms": 351093,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 435000,
-      "name": "Each Story",
-      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
+      "duration_ms": 292000,
+      "name": "Tokyo 2",
+      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Tokyo 2",
-      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
+      "duration_ms": 435000,
+      "name": "Each Story",
+      "url": "https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 
 > This is Alex Warren\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,392 likes - 24 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,542 likes - 24 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 | 9 | [Give You Love](https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Give You Love](https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG) | 3:03 |
 | 10 | [Before You Leave Me](https://open.spotify.com/track/792FHkvZbBQuWWM1a4TfL8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 2:56 |
 | 11 | [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
-| 12 | [One More I Love You](https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG) | 3:36 |
-| 13 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 12 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 13 | [One More I Love You](https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG) | 3:36 |
 | 14 | [Burning Down](https://open.spotify.com/track/6aybzjLxocD14YySwF3aus) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 2:59 |
 | 15 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
 | 16 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 | 23 | [Everything](https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:48 |
 | 24 | [Remember Me Happy](https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember Me Happy](https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq) | 2:21 |
 
-Snapshot ID: `amFZgAAAAACuUC5UOP2TUdYERx3jPEQL`
+Snapshot ID: `amKrAAAAAAC0buL01gpBtWMPmu72aqYH`

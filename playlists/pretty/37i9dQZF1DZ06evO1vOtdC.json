@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 467408,
+  "num_followers": 467376,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAD0VzDtukxwF6qSxlzbZrXz",
+  "snapshot_id": "amKrAAAAAADyBhByNmliL1LIye4kBN9r",
   "tracks": [
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Sin L\u00edmite",
-        "url": "https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN"
+        "name": "Pa Ti + Lonely",
+        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
       "artists": [
         {
@@ -776,13 +776,13 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Llegaste",
-      "url": "https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF"
+      "duration_ms": 230026,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Ti + Lonely",
-        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
+        "name": "Amor Sin L\u00edmite",
+        "url": "https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN"
       },
       "artists": [
         {
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+      "duration_ms": 236413,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Right",
-        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 176664,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/1TnHtrxIEhzanaRWoxbPVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 162802,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Right",
+        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 176664,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/1TnHtrxIEhzanaRWoxbPVb"
     },
     {
       "added_at": null,

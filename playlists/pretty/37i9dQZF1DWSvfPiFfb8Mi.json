@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 720295,
+  "num_followers": 720492,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,26 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Everything Glows",
-        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+      "duration_ms": 167514,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -455,26 +463,18 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "THEOS",
-          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
-        },
-        {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204230,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -1083,6 +1067,42 @@
       "duration_ms": 191802,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1123,26 +1143,6 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1243,22 +1263,46 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "The Bay (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
         }
       ],
-      "duration_ms": 223824,
-      "name": "The Bay - Purple Disco Machine Edit",
-      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "duration_ms": 233196,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1295,50 +1339,6 @@
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
-      },
-      "artists": [
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
-        }
-      ],
-      "duration_ms": 233196,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1667,58 +1667,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Ritmo Sabroso",
-        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        }
-      ],
-      "duration_ms": 767161,
-      "name": "Street Wave",
-      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "MAD (Mutually Assured Disco)",
-        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "MAD (Mutually Assured Disco)",
-      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1743,6 +1691,58 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        }
+      ],
+      "duration_ms": 767161,
+      "name": "Street Wave",
+      "url": "https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "Ritmo Sabroso",
+        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "MAD (Mutually Assured Disco)",
+        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "MAD (Mutually Assured Disco)",
+      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
         "name": "Know Me",
         "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
       },
@@ -1759,26 +1759,6 @@
       "duration_ms": 207561,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1819,6 +1799,26 @@
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 189190,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 226929,
       "name": "So High",
       "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Let It Go, Baby",
-        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        },
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "Let It Go, Baby",
-      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "SUBURBIA (after dark)",
         "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
       },
@@ -1991,6 +1971,22 @@
       "duration_ms": 208200,
       "name": "california",
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -2015,18 +2011,22 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+        "name": "Let It Go, Baby",
+        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        },
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+      "duration_ms": 149374,
+      "name": "Let It Go, Baby",
+      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
       },
@@ -2195,6 +2179,22 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
         "name": "Won't Let U Down",
         "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
       },
@@ -2211,6 +2211,30 @@
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "Looney Tunes",
+        "url": "https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx"
+      },
+      "artists": [
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "bankr",
+          "url": "https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Looney Tunes",
+      "url": "https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -2251,22 +2275,6 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
-      },
-      "artists": [
-        {
-          "name": "Moment in Time",
-          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
         "name": "Wish I Knew You (Poolside Remix)",
         "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
       },
@@ -2287,6 +2295,22 @@
     {
       "added_at": "2026-07-24 04:01:42",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
         "name": "Turning My Heart Blue",
         "url": "https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R"
       },
@@ -2299,30 +2323,6 @@
       "duration_ms": 234332,
       "name": "Turning My Heart Blue",
       "url": "https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "Looney Tunes",
-        "url": "https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx"
-      },
-      "artists": [
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "bankr",
-          "url": "https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Looney Tunes",
-      "url": "https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -2351,26 +2351,6 @@
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
-    },
-    {
-      "added_at": "2026-07-24 04:01:42",
-      "album": {
-        "name": "360 (feat. Barny Fletcher)",
-        "url": "https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        },
-        {
-          "name": "Barny Fletcher",
-          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
-        }
-      ],
-      "duration_ms": 194482,
-      "name": "360 (feat. Barny Fletcher)",
-      "url": "https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL"
     },
     {
       "added_at": "2026-07-24 04:01:42",
@@ -2407,6 +2387,26 @@
       "duration_ms": 174197,
       "name": "summer in the city",
       "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
+    },
+    {
+      "added_at": "2026-07-24 04:01:42",
+      "album": {
+        "name": "360 (feat. Barny Fletcher)",
+        "url": "https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        },
+        {
+          "name": "Barny Fletcher",
+          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
+        }
+      ],
+      "duration_ms": 194482,
+      "name": "360 (feat. Barny Fletcher)",
+      "url": "https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL"
     },
     {
       "added_at": "2026-07-24 04:01:42",

@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
+        "url": "https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
+      "url": "https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG"
+    },
+    {
+      "album": {
         "name": "Annie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW"
       },
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 190373,
       "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
       "url": "https://open.spotify.com/track/6x0v6SaLC9E4XY39efEeCs"

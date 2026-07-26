@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-234 songs - 7 hr 5 min
+235 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 | 2025-05-28 |
 | [Padaiyappa Theme](https://open.spotify.com/track/4CNDukte38IXyjvSFR55I3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Padaiyappa \(Original Background Score\)](https://open.spotify.com/album/6o4v88RU1YBb0mjjQPt83k) | 0:46 | 2025-12-10 |  |
 | [Party Dance Theme](https://open.spotify.com/track/1atGZUjXggmG1UANsJ51C6) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o) | [Ippadikku Kadhal](https://open.spotify.com/album/3mlUMYBxmBsdqATLB4GaqG) | 1:15 | 2024-02-12 | 2024-04-27 |
-| [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 | 2025-02-18 |  |
+| [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 | 2025-02-18 | 2026-07-26 |
 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 | 2021-11-01 | 2025-05-28 |
 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 | 2021-11-01 |  |
 | [Pokkiri Theme](https://open.spotify.com/track/72kMYIVcqEnJKCC9p4GH2d) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 2:37 | 2021-11-01 | 2023-03-11 |
@@ -195,6 +195,7 @@
 | [Sudden Delight](https://open.spotify.com/track/1ZJ9SPq4dBCuUB00uaNFbK) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Rob Mass](https://open.spotify.com/artist/3wqcLspE9PxAA8xtNySShF) | [Soodhu Kavvum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NuVIoxqbLTkRhEFiJYMb4) | 2:37 | 2021-11-01 | 2023-12-12 |
 | [Sunrise Theme](https://open.spotify.com/track/27wOzezIb5r7IHRtesOIiI) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 1:08 | 2021-11-01 | 2023-07-29 |
 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 | 2021-11-01 |  |
+| [Thaalam Trip \- Instrumental](https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shivapriya](https://open.spotify.com/artist/1ZNJgmNVon2tZK2UpmWMjH) | [DC \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ) | 2:20 | 2026-07-24 |  |
 | [Thalaivar Intro](https://open.spotify.com/track/66GwGKo3iBBEQ51sw1YFcj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:41 | 2021-11-01 | 2022-07-09 |
 | [Thalaivar Rampage Theme Music \- Instrumental](https://open.spotify.com/track/2UyVeBgW9G7NibqtFgZaoX) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Annaatthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2E3gGgI2ai0bdeHsMNHCN7) | 1:58 | 2021-11-01 | 2023-09-22 |
 | [Thalapathy Vetri Kondan](https://open.spotify.com/track/1UBTWr92y3Nh93TewXycYS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Jana Nayagan](https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso) | 1:42 | 2026-07-23 | 2026-07-25 |

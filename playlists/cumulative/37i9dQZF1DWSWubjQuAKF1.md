@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Barnim
 
-916 songs - 1 day 20 hr 38 min
+917 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Byleby](https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p) | [Evelina Ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Byleby](https://open.spotify.com/album/5L95XWMD5TGl8Yf8oxVdi2) | 4:13 | 2026-02-05 | 2026-05-01 |
 | [było minęło](https://open.spotify.com/track/1P0uvpP1yBNBs6RgVeuTB1) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [było minęło](https://open.spotify.com/album/7mUd8uGotZWdppu9HwWsnr) | 3:12 | 2024-06-28 | 2024-08-23 |
 | [Było Minęło](https://open.spotify.com/track/14kyTL37LotnttqD7X4rqS) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Było Minęło](https://open.spotify.com/album/2ehpPnrVRngjOKHZi2U5vp) | 3:11 | 2025-07-24 | 2025-08-01 |
+| [Bój się Boga dziewczyno](https://open.spotify.com/track/1RurdatzxyZO0FT0Su3p6P) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Bój się Boga dziewczyno](https://open.spotify.com/album/11tOYcKt5pyOhusrXg9YMM) | 2:44 | 2026-07-16 |  |
 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 | 2025-10-07 | 2025-10-21 |
 | [Bądź ze mną](https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Bądź ze mną // Mia Wallace](https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm) | 2:19 | 2026-05-29 |  |
 | [BĘDĘ KIMŚ](https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Propz](https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2) | [WARM UP](https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV) | 2:55 | 2026-01-16 | 2026-01-31 |
@@ -587,7 +588,7 @@
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-20 | 2025-06-06 |
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-28 | 2024-08-31 |
 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 | 2025-01-23 | 2025-02-28 |
-| [Perły za Kredensem](https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Perły za Kredensem](https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N) | 3:44 | 2026-06-18 |  |
+| [Perły za Kredensem](https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Perły za Kredensem](https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N) | 3:44 | 2026-06-18 | 2026-07-26 |
 | [piekło](https://open.spotify.com/track/1n93aFenBuJ2eSWfgH93J8) | [ksenia](https://open.spotify.com/artist/5R9yyFJL2NggWe7A5pmMRv) | [melancholia](https://open.spotify.com/album/2XPhlSY83K3ztLtov28468) | 3:20 | 2025-01-23 | 2025-03-03 |
 | [Pierwszy mit](https://open.spotify.com/track/67OsNKKQAYHgBcLfT1iPgD) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Pierwszy mit](https://open.spotify.com/album/5gtyQBfikKO7eMrNtQMAbK) | 3:52 | 2025-07-24 | 2025-10-01 |
 | [pijama party](https://open.spotify.com/track/5Lq1A1RyFYEMa08j7ynZJk) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [FREE WIFI](https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE) | 1:38 | 2025-02-27 | 2025-03-07 |

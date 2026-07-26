@@ -1260,10 +1260,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 122715,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/3Aa7Qg8fPWMbXhMBkusR18"
+    },
+    {
+      "album": {
+        "name": "Beyond Patina Jazz Masters: Ginger Rogers",
+        "url": "https://open.spotify.com/album/4Rt4zY0Ix1uNPqTpuUTAjV"
+      },
+      "artists": [
+        {
+          "name": "Ginger Rogers",
+          "url": "https://open.spotify.com/artist/2X9cM6kUDFCfEKcNEjlew2"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122715,
+      "name": "Carefree (Overture)",
+      "url": "https://open.spotify.com/track/1uDLqxRd587hKBm5IiYK8t"
     },
     {
       "album": {
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"

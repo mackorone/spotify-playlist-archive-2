@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 341,
+  "num_followers": 344,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAAtzl6CQoSfHGfprQtgcTwC",
+  "snapshot_id": "amKrAAAAAACV47SyEdibwxc6kN/JeDeb",
   "tracks": [
     {
       "added_at": null,
@@ -431,42 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
-        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 69346,
-      "name": "Piano Sonata in E Minor, D. 769a",
-      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supercalifragilisticexpialidocious (Arr. Hough for Piano) [From \"Mary Poppins\"]",
-        "url": "https://open.spotify.com/album/0Cxa5G932GY5wTzQne8rfs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Supercalifragilisticexpialidocious (Arr. Hough for Piano) - From \"Mary Poppins\"",
-      "url": "https://open.spotify.com/track/4HpJHD8XOh2Gpc00q9jhwq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Franck & Rachmaninoff: Cello Sonatas etc.",
         "url": "https://open.spotify.com/album/38H4oMTiHtbWpd3vUJ55kG"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 366946,
       "name": "Cello Sonata in G Minor, Op. 19: III. Andante",
       "url": "https://open.spotify.com/track/2xvenu1AxjHRuUBntQbxix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supercalifragilisticexpialidocious (Arr. Hough for Piano) [From \"Mary Poppins\"]",
+        "url": "https://open.spotify.com/album/0Cxa5G932GY5wTzQne8rfs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Supercalifragilisticexpialidocious (Arr. Hough for Piano) - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/4HpJHD8XOh2Gpc00q9jhwq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
+        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 69346,
+      "name": "Piano Sonata in E Minor, D. 769a",
+      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212053,
+  "num_followers": 212045,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Summer Sun",
-        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Today Is the Day",
-      "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "talking to flowers",
         "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 123047,
       "name": "talking to flowers",
       "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Today Is the Day",
+      "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Control (Remastered)",
-        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 344160,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Control (Remastered)",
+        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "The End Is Near",
-        "url": "https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS"
-      },
-      "artists": [
-        {
-          "name": "The New Year",
-          "url": "https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "The End's Not Near",
-      "url": "https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Let Me Go, Let Me Go, Let Me Go",
         "url": "https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 247133,
       "name": "Drinking At The Dam",
       "url": "https://open.spotify.com/track/7H2mfh89I55v2Rd81389fY"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "The End Is Near",
+        "url": "https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS"
+      },
+      "artists": [
+        {
+          "name": "The New Year",
+          "url": "https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "The End's Not Near",
+      "url": "https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb"
     }
   ],
   "unique_name": "slowcore",

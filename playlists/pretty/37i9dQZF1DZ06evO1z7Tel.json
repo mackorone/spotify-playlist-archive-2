@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 39838,
+  "num_followers": 39854,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAABAwqBsKic3b85NsXFvLBfH",
+  "snapshot_id": "amKrAAAAAABvmWAFMosacKayf+SsC9or",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "El Vengador de Federales",
-      "url": "https://open.spotify.com/track/4q3VFAaCGyMaQhjYEE5oR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1Ay Que Triste!",
         "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con",
-        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 180226,
-      "name": "Maquina 501",
-      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/4q3VFAaCGyMaQhjYEE5oR2"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 168386,
       "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
       "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 206184,
-      "name": "Paloma Piquito de Oro",
-      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 156746,
       "name": "Corrido De Gabino",
       "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Con Cartitas",
-      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Serena Y Obscura",
         "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros 15 Exitos",
-        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 191791,
-      "name": "La Noria Escondida",
-      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
+      "duration_ms": 206184,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo A Mi Lupe",
+        "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY"
     }
   ],
   "unique_name": "This Is Carlos Y Jose",

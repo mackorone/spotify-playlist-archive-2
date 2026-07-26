@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 16 min
+131 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Descontrolada \- Cyberkills Remix](https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:07 | 2023-10-10 |  |
 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 | 2023-10-10 |  |
 | [Energia \- Parte 2](https://open.spotify.com/track/4LDOAbqOhaAcY5ccwfIlJL) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Energia \(Parte 2\)](https://open.spotify.com/album/1emXHaHaPlW2hTTuYbgFQ9) | 4:29 | 2024-06-04 | 2024-06-06 |
-| [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo Music Team](https://open.spotify.com/artist/1rNMZ95C93Jm35B5dyRe2y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 | 2023-10-10 |  |
+| [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo Music Team](https://open.spotify.com/artist/1rNMZ95C93Jm35B5dyRe2y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 | 2023-10-10 | 2026-07-26 |
 | [Equalize](https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Equalize](https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf) | 3:38 | 2024-02-19 | 2024-07-30 |
 | [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 | 2023-10-10 | 2024-02-20 |
 | [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora \- PARTE 1](https://open.spotify.com/album/4LketVVipjzizVzYqTojSE) | 3:19 | 2024-04-07 | 2024-11-19 |
@@ -115,6 +115,7 @@
 | [que delícia o verão](https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [que delícia o verão](https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z) | 2:34 | 2026-05-28 |  |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-14 |  |
 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 | 2023-10-10 |  |
+| [ROCKSTAR](https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [ROCKSTAR](https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm) | 2:28 | 2026-07-26 |  |
 | [Rubi](https://open.spotify.com/track/3BCEDcGbeGpPeRcryMnbdR) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 2:13 | 2024-10-25 | 2024-12-04 |
 | [Rubi](https://open.spotify.com/track/5Ih7yhSHs3F0NY10Pvr7Xq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:13 | 2024-04-12 | 2024-10-25 |
 | [Rubi](https://open.spotify.com/track/6dIkrUW18wrp0402u2It44) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:13 | 2024-12-04 |  |

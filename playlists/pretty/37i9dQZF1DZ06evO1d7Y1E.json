@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117358,
+  "num_followers": 117361,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAAD+9miKelVyZrNSrtyTv+kj",
+  "snapshot_id": "amKrAAAAAAAhjTkd8mtvfBxmUvEHkaxZ",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Separa e Volta",
+        "url": "https://open.spotify.com/album/44Ux9yWZc4soJWgOFjC7pT"
+      },
+      "artists": [
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Separa e Volta",
+      "url": "https://open.spotify.com/track/32Qc8SvUBto0VK6prCdbUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
+        "url": "https://open.spotify.com/album/1dEBQ4Owx5ekDmpEaSbXDI"
+      },
+      "artists": [
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ AL4DDIN",
+          "url": "https://open.spotify.com/artist/32x7si7OXL4SMHBU25qRai"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
+      "url": "https://open.spotify.com/track/1QYZ2WDtbDVZdnT1K1qONE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -759,38 +827,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
-        "url": "https://open.spotify.com/album/1dEBQ4Owx5ekDmpEaSbXDI"
-      },
-      "artists": [
-        {
-          "name": "Boladin 211",
-          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "DJ AL4DDIN",
-          "url": "https://open.spotify.com/artist/32x7si7OXL4SMHBU25qRai"
-        },
-        {
-          "name": "Gibin",
-          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
-      "url": "https://open.spotify.com/track/1QYZ2WDtbDVZdnT1K1qONE"
     },
     {
       "added_at": null,
@@ -1119,86 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Separa e Volta",
-        "url": "https://open.spotify.com/album/44Ux9yWZc4soJWgOFjC7pT"
-      },
-      "artists": [
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
-        },
-        {
-          "name": "DJ Gu",
-          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Separa e Volta",
-      "url": "https://open.spotify.com/track/32Qc8SvUBto0VK6prCdbUw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "442",
-        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
-        }
-      ],
-      "duration_ms": 257622,
-      "name": "Seu Nome",
-      "url": "https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorrisin de Canto",
         "url": "https://open.spotify.com/album/4sIFl65wyn2kooQMj1lBFK"
       },
@@ -1255,38 +1211,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "XEQUE MATE",
-        "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
       "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
         },
         {
-          "name": "Mc Rodson",
-          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
         },
         {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         },
         {
-          "name": "Pedro Aurora",
-          "url": "https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5"
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
         },
         {
-          "name": "DJ GORDINHO DA VF",
-          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
         }
       ],
-      "duration_ms": 246918,
-      "name": "Sem Sentimento",
-      "url": "https://open.spotify.com/track/3TMoGTMkx0vqlI12KJQ5ef"
+      "duration_ms": 257622,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/5V3CmFA57izQ3cwZFEpmle"
     },
     {
       "added_at": null,
@@ -1319,6 +1283,42 @@
       "duration_ms": 276105,
       "name": "Fica \u00e0 Vontade",
       "url": "https://open.spotify.com/track/0Dqr7DChZi6MqEvpW7faLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XEQUE MATE",
+        "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Rodson",
+          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "Pedro Aurora",
+          "url": "https://open.spotify.com/artist/7HC52vDbtFRmiR7ObOY3M5"
+        },
+        {
+          "name": "DJ GORDINHO DA VF",
+          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        }
+      ],
+      "duration_ms": 246918,
+      "name": "Sem Sentimento",
+      "url": "https://open.spotify.com/track/3TMoGTMkx0vqlI12KJQ5ef"
     },
     {
       "added_at": null,
@@ -1367,6 +1367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 324919,
       "name": "\u00daltima Forma",
       "url": "https://open.spotify.com/track/1EIPpD1XZb1TCDr1jmxEoj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1491,6 +1491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Abre O Quarto",
+      "url": "https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/1YNqyFODkZFmei0q1a2Yps"
       },
@@ -1515,30 +1539,6 @@
       "duration_ms": 132975,
       "name": "Quando Come\u00e7a",
       "url": "https://open.spotify.com/track/4Krzqp47f1OVJjGUOcumTf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Abre O Quarto",
-      "url": "https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY"
     },
     {
       "added_at": null,

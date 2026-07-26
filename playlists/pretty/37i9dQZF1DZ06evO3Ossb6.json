@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 862400,
+  "num_followers": 862485,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADbN6rgYcg9LSSY0+ROyhno",
+  "snapshot_id": "amKrAAAAAABwShuMWkY3y5BxbEWYmTcs",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noche De Cuatro Lunas",
         "url": "https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 235493,
       "name": "Dos Corazones, Dos Historias (Dos Cora\u00e7\u00f5es E Uma Historia)",
       "url": "https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Mundos",
         "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198466,
       "name": "Cuando Digo Tu Nombre (Mejor)",
       "url": "https://open.spotify.com/track/5BmnwbpelhqAzcIhHxUJY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     }
   ],
   "unique_name": "This Is Alejandro Fern\u00e1ndez",

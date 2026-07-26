@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "DUMBLR",
+        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164549,
+      "name": "DUMBLR",
+      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
+    },
+    {
+      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/7iaqS5zgcPJsL5L0mLZ3uA"
       },
@@ -1614,7 +1640,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-26",
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"

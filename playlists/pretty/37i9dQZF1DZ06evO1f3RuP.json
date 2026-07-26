@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 315,
+  "num_followers": 316,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAADj5psaxrn83FgZDNPBeC6f",
+  "snapshot_id": "amKrAAAAAAAw/nUEuTTkFu8bSnA0HN5Z",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 135116,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everyone",
-        "url": "https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 158328,
-      "name": "Everyone",
-      "url": "https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n"
     },
     {
       "added_at": null,
@@ -83,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "sushi for breakfast",
+        "url": "https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 127037,
+      "name": "sushi for breakfast",
+      "url": "https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "sushi for breakfast",
-        "url": "https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy"
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 127037,
-      "name": "sushi for breakfast",
-      "url": "https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs"
+      "duration_ms": 158328,
+      "name": "Everyone",
+      "url": "https://open.spotify.com/track/0IrQ3RIBwQVKcNVkiZspUD"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+        "name": "16",
+        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/1JlBUmVN2rRyfJPaMfGyQz"
+      "duration_ms": 144637,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 144637,
-      "name": "16",
-      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/1JlBUmVN2rRyfJPaMfGyQz"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
       "artists": [
         {
@@ -208,13 +208,13 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         },
         {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
         }
       ],
-      "duration_ms": 154691,
-      "name": "Posh - MJ Nebreda Remix",
-      "url": "https://open.spotify.com/track/1PDZoDVGqDE5C4tzDJl6Hy"
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
       },
       "artists": [
         {
@@ -244,13 +244,13 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         },
         {
-          "name": "Banoffee",
-          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
         }
       ],
-      "duration_ms": 166688,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
+      "duration_ms": 154691,
+      "name": "Posh - MJ Nebreda Remix",
+      "url": "https://open.spotify.com/track/1PDZoDVGqDE5C4tzDJl6Hy"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
+        "name": "Whirlwind Of Malevolence",
+        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
       "artists": [
         {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
+      "duration_ms": 139090,
+      "name": "Enter The Chat",
+      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind Of Malevolence",
-        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
       },
       "artists": [
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 139090,
-      "name": "Enter The Chat",
-      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
     },
     {
       "added_at": null,

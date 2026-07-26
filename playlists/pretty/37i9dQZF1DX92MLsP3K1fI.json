@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Banda MS en portada \u2728",
-  "num_followers": 95458,
+  "num_followers": 95469,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -113,7 +113,7 @@
       "artists": [
         {
           "name": "TINU",
-          "url": "https://open.spotify.com/artist/1vYjwBTHn7gnrddPgUfYoB"
+          "url": "https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8"
         }
       ],
       "duration_ms": 181309,
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
+        "name": "SEGUNDO INTENTO",
+        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -511,38 +527,6 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "SEGUNDO INTENTO",
-        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
-        "name": "Estas Ganas",
-        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Estas Ganas",
-      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
         "name": "Aplauso",
         "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232153,
       "name": "Aplauso",
       "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
+        "name": "Estas Ganas",
+        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 166998,
+      "name": "Estas Ganas",
+      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
     },
     {
       "added_at": "2026-07-24 06:00:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "El Vuelo",
-        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 191892,
-      "name": "El Vuelo",
-      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 212852,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "added_at": "2026-07-24 06:00:30",

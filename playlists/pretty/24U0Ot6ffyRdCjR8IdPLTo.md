@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,657 likes - 100 songs - 5 hr 30 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,656 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

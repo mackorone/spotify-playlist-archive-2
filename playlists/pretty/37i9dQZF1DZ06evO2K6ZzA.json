@@ -1,29 +1,13 @@
 {
   "description": "This is sombr. The essential tracks, all in one playlist.",
-  "num_followers": 122058,
+  "num_followers": 122248,
   "original_name": "This Is sombr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amFZgAAAAACSyhp5MyfHhwiZn8vCOW0W",
+  "snapshot_id": "amKrAAAAAABsxTkOD8L6z44JrWovRXbE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "do i ever cross your mind",
-        "url": "https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 168856,
-      "name": "do i ever cross your mind",
-      "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "do i ever cross your mind",
+        "url": "https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 168856,
+      "name": "do i ever cross your mind",
+      "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in your arms",
-        "url": "https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "in your arms",
-      "url": "https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 196931,
       "name": "we never dated",
       "url": "https://open.spotify.com/track/0t1fdMrn7JOg9DDsT95bxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in your arms",
+        "url": "https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "in your arms",
+      "url": "https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "ivy",
-      "url": "https://open.spotify.com/track/4FViqA2oyyONDAvTs16Lvd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207334,
       "name": "crushing",
       "url": "https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "ivy",
+      "url": "https://open.spotify.com/track/4FViqA2oyyONDAvTs16Lvd"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "burner phone",
-      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "burner phone",
+      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "you're so pretty",
-      "url": "https://open.spotify.com/track/47blJgUlDKV0g1lBBQAO1y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fine",
         "url": "https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 232173,
       "name": "fine",
       "url": "https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "you're so pretty",
+      "url": "https://open.spotify.com/track/47blJgUlDKV0g1lBBQAO1y"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in another life",
-        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "don't let me down",
-      "url": "https://open.spotify.com/track/4zoE7mMAGOTbYFi4UmkTTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "alibi",
         "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 301828,
       "name": "alibi",
       "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "don't let me down",
+      "url": "https://open.spotify.com/track/4zoE7mMAGOTbYFi4UmkTTb"
     },
     {
       "added_at": null,

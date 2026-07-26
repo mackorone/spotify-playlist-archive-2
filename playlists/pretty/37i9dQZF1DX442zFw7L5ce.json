@@ -1,6 +1,6 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 62568,
+  "num_followers": 62584,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Thammudu",
-        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
-      },
-      "artists": [
-        {
-          "name": "Ramana Gogula",
-          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
-        }
-      ],
-      "duration_ms": 316656,
-      "name": "Vayari Bhama",
-      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
         "name": "Race Gurram",
         "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 265283,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Thammudu",
+        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
+      },
+      "artists": [
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        }
+      ],
+      "duration_ms": 316656,
+      "name": "Vayari Bhama",
+      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX"
     },
     {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
-    },
-    {
       "added_at": "2022-12-30 11:00:51",
       "album": {
         "name": "Geetha Govindam",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Attarrintiki Daaredi",
-        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Bapu Gari Bommo",
-      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
         "name": "Parugu",
         "url": "https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Attarrintiki Daaredi",
+        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Bapu Gari Bommo",
+      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Chandamama",
         "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 272759,
       "name": "Buggey Bangarama",
       "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 283207,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq"
     },
     {
       "added_at": "2024-10-04 05:05:53",
@@ -903,18 +919,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW"
+        "name": "Murari",
+        "url": "https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu"
       },
       "artists": [
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
         }
       ],
-      "duration_ms": 283207,
-      "name": "Beautiful Girl",
-      "url": "https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq"
+      "duration_ms": 371517,
+      "name": "Ekkada Ekkada",
+      "url": "https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT"
     },
     {
       "added_at": "2022-10-17 05:57:53",
@@ -939,26 +959,6 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Oke Okkadu",
-        "url": "https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "Harini",
-          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
-        }
-      ],
-      "duration_ms": 373826,
-      "name": "Andaala Raakshsive",
-      "url": "https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
         "name": "Chandralekha",
         "url": "https://open.spotify.com/album/0u0QnbKBaBNm3yRNps6KRl"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Oke Okkadu",
+        "url": "https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "duration_ms": 373826,
+      "name": "Andaala Raakshsive",
+      "url": "https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Adhurs",
         "url": "https://open.spotify.com/album/62IHYuxj0BTHw3BgrjRlQO"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 253360,
       "name": "Chandrakala",
       "url": "https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo"
-    },
-    {
-      "added_at": "2024-10-04 04:54:19",
-      "album": {
-        "name": "Rangasthalam",
-        "url": "https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 262122,
-      "name": "Yentha Sakkagunnave",
-      "url": "https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl"
     }
   ],
   "unique_name": "#GRWM Telugu",

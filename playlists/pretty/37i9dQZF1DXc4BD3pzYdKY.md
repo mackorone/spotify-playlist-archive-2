@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,729 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,760 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 |
 | 75 | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/track/0PgnIPWS1eQh1SbneVtFDB) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/album/73L8hD7WvFt2wqzvbxvyh5) | 2:38 |
 
-Snapshot ID: `AAAAAEhyBcanOwcB4dBbzvqv/LRER4HR`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

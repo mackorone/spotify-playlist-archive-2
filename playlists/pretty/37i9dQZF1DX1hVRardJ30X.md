@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Remers & Jay Wheeler, KAROL G, Lunay & Omar Courtz, Ryan Castro, ARIA VEGA & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,811 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,876 likes - 43 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,21 +34,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [ROCKSTAR](https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [ROCKSTAR](https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm) | 2:28 |
 | 25 | [M O D E L I T O](https://open.spotify.com/track/63pqlrTw4j8MGYNYKQTQK4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [I N D I R E C T A S](https://open.spotify.com/album/1pfhxl8u5Hx1toUeWqp8E1) | 1:50 |
 | 26 | [Q.E.P.D.](https://open.spotify.com/track/7LLea7R47xKkYpFU2af7Ie) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [Q.E.P.D.](https://open.spotify.com/album/60obrehwYp2YlLNl2TIF9N) | 5:42 |
-| 27 | [Tus Errores](https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Otra Que Arde](https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj) | 3:06 |
-| 28 | [HELADO DE VAINILLA](https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [HELADO DE VAINILLA](https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG) | 3:09 |
-| 29 | [blithe](https://open.spotify.com/track/1DiWwD4kB3ZFb1bmv7dtJ1) | [LUEME](https://open.spotify.com/artist/1diMKhdmi0zJTPLRr43vld) | [blithe](https://open.spotify.com/album/4EJsoPKZUfkfIFL8Cqs9Aj) | 2:45 |
-| 30 | [chikiBb](https://open.spotify.com/track/0QLaoJweWpOL1JKCwqo3Q8) | [Louie El Ser](https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7) | [Cerebral](https://open.spotify.com/album/05Z6kU389h7tfSdsXsFOTJ) | 2:56 |
-| 31 | [Me Dormí?](https://open.spotify.com/track/7y2Jef05qCfgGeuzVItVVN) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Me Dormí?](https://open.spotify.com/album/3Y4XwQ0u31NzQYS0utDD0V) | 3:08 |
-| 32 | [Algo Bien](https://open.spotify.com/track/44UxQFEHdNEJwqwt7eahOE) | [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Algo Bien](https://open.spotify.com/album/6XW5ip7CSfzj4goGAdwx5M) | 2:09 |
-| 33 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
-| 34 | [Moreno Fantasy](https://open.spotify.com/track/6lj6k0QsU4IMW9KXNBM62W) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Moreno Fantasy](https://open.spotify.com/album/1KCIhUBLwmGNIH4O50TGVA) | 2:27 |
-| 35 | [resaca](https://open.spotify.com/track/4DlpTcUY0Jenro4YSbZLWT) | [DEL TORO](https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU) | [QUE MIEDØ!](https://open.spotify.com/album/4AYUikhVCbU7CZgBgXJaAt) | 2:55 |
-| 36 | [Respuesta](https://open.spotify.com/track/0UzBRqMomE0jBSf4PmijSC) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Respuesta](https://open.spotify.com/album/647TK0vkqmTsYW5kfPJCBx) | 2:25 |
-| 37 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
-| 38 | [Trágico](https://open.spotify.com/track/12ggxs7hwbAEDVCFAHteP5) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875) | [Trágico](https://open.spotify.com/album/316qV4ZymtgepVK4uHgfTW) | 2:22 |
-| 39 | [No Era De Oro](https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [No Era De Oro](https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2) | 2:32 |
-| 40 | [va a pasar](https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [va a pasar](https://open.spotify.com/album/6HNw6oS7oQo1hlWPGJVT4n) | 3:31 |
-| 41 | [FKN VVS](https://open.spotify.com/track/6RbnaPSkff83NkW6o7mIE1) | [Jc Velasco](https://open.spotify.com/artist/4D8vBgk289zS9t66B82x5t) | [FKN VVS](https://open.spotify.com/album/1L385XIybtrDVcGBZsSEGb) | 2:47 |
-| 42 | [BANKOLOMBIA](https://open.spotify.com/track/4ltQWjxGTY14dBBQcd7reN) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [BANKOLOMBIA](https://open.spotify.com/album/71WMm3JbB2Hruqs5dG6eKT) | 2:49 |
+| 27 | [NO DEJO LAS DROGAS](https://open.spotify.com/track/7lFaO9uDxYsDHVz0aVWc86) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN) | [NO DEJO LAS DROGAS](https://open.spotify.com/album/6WvxZXKw3kDmha52b2U7GI) | 2:32 |
+| 28 | [Tus Errores](https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Otra Que Arde](https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj) | 3:06 |
+| 29 | [HELADO DE VAINILLA](https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [HELADO DE VAINILLA](https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG) | 3:09 |
+| 30 | [blithe](https://open.spotify.com/track/1DiWwD4kB3ZFb1bmv7dtJ1) | [LUEME](https://open.spotify.com/artist/1diMKhdmi0zJTPLRr43vld) | [blithe](https://open.spotify.com/album/4EJsoPKZUfkfIFL8Cqs9Aj) | 2:45 |
+| 31 | [chikiBb](https://open.spotify.com/track/0QLaoJweWpOL1JKCwqo3Q8) | [Louie El Ser](https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7) | [Cerebral](https://open.spotify.com/album/05Z6kU389h7tfSdsXsFOTJ) | 2:56 |
+| 32 | [Me Dormí?](https://open.spotify.com/track/7y2Jef05qCfgGeuzVItVVN) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Me Dormí?](https://open.spotify.com/album/3Y4XwQ0u31NzQYS0utDD0V) | 3:08 |
+| 33 | [Algo Bien](https://open.spotify.com/track/44UxQFEHdNEJwqwt7eahOE) | [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Algo Bien](https://open.spotify.com/album/6XW5ip7CSfzj4goGAdwx5M) | 2:09 |
+| 34 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
+| 35 | [Moreno Fantasy](https://open.spotify.com/track/6lj6k0QsU4IMW9KXNBM62W) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Moreno Fantasy](https://open.spotify.com/album/1KCIhUBLwmGNIH4O50TGVA) | 2:27 |
+| 36 | [resaca](https://open.spotify.com/track/4DlpTcUY0Jenro4YSbZLWT) | [DEL TORO](https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU) | [QUE MIEDØ!](https://open.spotify.com/album/4AYUikhVCbU7CZgBgXJaAt) | 2:55 |
+| 37 | [Respuesta](https://open.spotify.com/track/0UzBRqMomE0jBSf4PmijSC) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Respuesta](https://open.spotify.com/album/647TK0vkqmTsYW5kfPJCBx) | 2:25 |
+| 38 | [ZuZu](https://open.spotify.com/track/4VSUcUG17hJ3AGF582zQJz) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [ZuZu](https://open.spotify.com/album/0t43mV68ZPQmifBsBiBLf5) | 2:39 |
+| 39 | [Trágico](https://open.spotify.com/track/12ggxs7hwbAEDVCFAHteP5) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875) | [Trágico](https://open.spotify.com/album/316qV4ZymtgepVK4uHgfTW) | 2:22 |
+| 40 | [No Era De Oro](https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [No Era De Oro](https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2) | 2:32 |
+| 41 | [va a pasar](https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [va a pasar](https://open.spotify.com/album/6HNw6oS7oQo1hlWPGJVT4n) | 3:31 |
+| 42 | [FKN VVS](https://open.spotify.com/track/6RbnaPSkff83NkW6o7mIE1) | [Jc Velasco](https://open.spotify.com/artist/4D8vBgk289zS9t66B82x5t) | [FKN VVS](https://open.spotify.com/album/1L385XIybtrDVcGBZsSEGb) | 2:47 |
+| 43 | [BANKOLOMBIA](https://open.spotify.com/track/4ltQWjxGTY14dBBQcd7reN) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [BANKOLOMBIA](https://open.spotify.com/album/71WMm3JbB2Hruqs5dG6eKT) | 2:49 |
 
-Snapshot ID: `AAAAABg9uIAuq6kDu4gNuS+UX9gsVv4t`
+Snapshot ID: `AAAAAOW4ug0uCc2P7A70/9GmesDySagi`

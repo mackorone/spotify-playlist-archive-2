@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 38 min
+117 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [BackPackBoyz](https://open.spotify.com/track/2LnlPJBBbZaKOXohzNyhVU) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 | 2025-04-10 |  |
 | [BackPackBoyz](https://open.spotify.com/track/51dFvy2aDFHv5iGnrVWV6Q) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [BackPackBoyz](https://open.spotify.com/album/5h2mSQJw3R98F6aSt2pE6e) | 2:42 | 2025-03-25 | 2025-04-10 |
 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 | 2024-01-29 |  |
-| [BARBAS](https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [BARBAS](https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr) | 2:14 | 2026-03-08 |  |
+| [BARBAS](https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [BARBAS](https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr) | 2:14 | 2026-03-08 | 2026-07-26 |
 | [Barrios Bajos](https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:25 | 2024-01-29 | 2024-09-02 |
 | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE) | 2:39 | 2024-05-19 | 2025-12-07 |
 | [BIEN PALETAS](https://open.spotify.com/track/5um7sbeV4tt0gDU91fSp6W) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:09 | 2025-05-07 | 2025-05-08 |
@@ -85,6 +85,7 @@
 | [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A) | 3:19 | 2026-04-24 |  |
 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 | 2024-01-29 | 2024-04-03 |
 | [MAKABELICOS](https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MAKABELICOS](https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei) | 3:07 | 2024-04-15 | 2026-03-09 |
+| [ME MIRAN](https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ME MIRAN](https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G) | 2:43 | 2026-07-26 |  |
 | [ME VALE LO QUE DIGAN](https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:09 | 2025-04-23 | 2025-08-23 |
 | [MI LEGADO](https://open.spotify.com/track/0xBYSGk94rSLjMKYCQgAXZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:30 | 2025-04-24 | 2025-05-17 |
 | [Mi Talento](https://open.spotify.com/track/5AXJJsYCu7WafYOqM9gPom) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:29 | 2024-08-31 | 2025-02-04 |

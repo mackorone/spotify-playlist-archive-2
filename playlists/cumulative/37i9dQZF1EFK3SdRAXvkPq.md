@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 8 hr 13 min
+163 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [ME HIZO UN FAVOR](https://open.spotify.com/track/0bODyWeaMOm8tqlgFfx3E9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:36 | 2025-11-07 |  |
 | [ME SIENTO HIGH](https://open.spotify.com/track/69KQFggl5lJSDNT9fKBNCc) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 2:37 | 2025-11-07 |  |
 | [Melancolía](https://open.spotify.com/track/1DiEushlmN8kJZ2t2tywjU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:41 | 2025-11-07 |  |
+| [MENOS EL CORA](https://open.spotify.com/track/52XPchHAfaOGPSV3IdAPzb) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 3:30 | 2026-07-25 |  |
 | [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 | 2026-03-19 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2025-11-07 |  |
 | [Mi Favorita](https://open.spotify.com/track/4YTGpnKyqWeR1TnjYoEBdd) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Mi Favorita](https://open.spotify.com/album/6coF3KmIe24ZcGIucUMg5U) | 2:54 | 2025-11-07 |  |
@@ -155,6 +156,7 @@
 | [sí pero no](https://open.spotify.com/track/5u2zGzzdD2lYh5BaB3cln3) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [sí pero no](https://open.spotify.com/album/60KPn7JVQPekEWxc0lYbxw) | 4:22 | 2025-11-07 |  |
 | [Te Invito](https://open.spotify.com/track/4S9SliJ50W07B1bMhKGT2b) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:00 | 2025-11-07 |  |
 | [TE INVITO A COMER](https://open.spotify.com/track/6IJTP54hA3tyMhjcXptKdu) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:28 | 2025-11-07 |  |
+| [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2026-07-25 |  |
 | [Todavía](https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:23 | 2025-11-07 |  |
 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 | 2026-07-02 |  |
 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 | 2025-11-07 |  |
@@ -166,6 +168,7 @@
 | [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 | 2025-11-07 |  |
 | [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 | 2025-11-07 |  |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2025-11-07 |  |
+| [X TI](https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:35 | 2026-07-25 |  |
 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 | 2025-11-07 |  |
 | [Ya No](https://open.spotify.com/track/6mqvfFsfBvZW3gBMlc3Wxo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/4fMoPysL4trKxy38MC0Pkp) | 2:48 | 2025-11-20 |  |
 

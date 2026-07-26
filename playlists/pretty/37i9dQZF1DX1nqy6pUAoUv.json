@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170541,
+  "num_followers": 170536,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "L'air de rien",
-        "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9t\u00e9",
-          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "L'air de rien",
+        "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Come and Fill My Soul",
-        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
-      },
-      "artists": [
-        {
-          "name": "Samson For President",
-          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
-        }
-      ],
-      "duration_ms": 223418,
-      "name": "Come and Fill My Soul",
-      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Come and Fill My Soul",
+        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
+      },
+      "artists": [
+        {
+          "name": "Samson For President",
+          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
+        }
+      ],
+      "duration_ms": 223418,
+      "name": "Come and Fill My Soul",
+      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Music from The American Epic Sessions (Deluxe)",
-        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
-      },
-      "artists": [
-        {
-          "name": "Jerron Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Candy Man",
-      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 243026,
       "name": "IOU",
       "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
+      },
+      "artists": [
+        {
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Candy Man",
+      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
-      },
-      "artists": [
-        {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Manchester Air",
         "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 247328,
       "name": "Manchester Air",
       "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "From Where I Started",
+        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+      },
+      "artists": [
+        {
+          "name": "Sera Cahoone",
+          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Time to Give",
+      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
     }
   ],
   "unique_name": "Contemporary Folk",
