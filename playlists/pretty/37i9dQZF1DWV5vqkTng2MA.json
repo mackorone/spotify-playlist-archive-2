@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Luke Tyler Shelton",
-  "num_followers": 426792,
+  "num_followers": 426832,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOF3LfkgozC9K/ja38qox+cyE59b",
+  "snapshot_id": "AAAAAOCBRMMj93nj4ZdLYk5uyp2mrIOS",
   "tracks": [
     {
       "added_at": "2026-07-17 17:19:10",
@@ -803,18 +803,22 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "It's Been Too Long (Since I've Loved Someone)",
-        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+        "name": "She Don't Love Me Now",
+        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
       "artists": [
         {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 178081,
-      "name": "It's Been Too Long (Since I've Loved Someone)",
-      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+      "duration_ms": 207160,
+      "name": "She Don't Love Me Now",
+      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -835,22 +839,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "She Don't Love Me Now",
-        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
       },
       "artists": [
         {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
         }
       ],
-      "duration_ms": 207160,
-      "name": "She Don't Love Me Now",
-      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Darlin'",
-        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Darlin\u2019",
-      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "The Criminal Record",
         "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 248493,
       "name": "Funky Ghost",
       "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Darlin\u2019",
+      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5uVf4u9MmFPupC5OWAIO6c"
-      },
-      "artists": [
-        {
-          "name": "Bleau Otis",
-          "url": "https://open.spotify.com/artist/2pT5IVYUOWdwhtlNTPAmuM"
-        }
-      ],
-      "duration_ms": 236117,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2Sb97oqsd2gqUJ0lS24FAe"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "Test Your Love",
         "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
       },
@@ -1267,18 +1251,34 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5uVf4u9MmFPupC5OWAIO6c"
       },
       "artists": [
         {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+          "name": "Bleau Otis",
+          "url": "https://open.spotify.com/artist/2pT5IVYUOWdwhtlNTPAmuM"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
+      "duration_ms": 236117,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2Sb97oqsd2gqUJ0lS24FAe"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Hands on the Radio",
+        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
+      },
+      "artists": [
+        {
+          "name": "The Weeks",
+          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Hands on the Radio",
+      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Hands on the Radio",
-        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
       },
       "artists": [
         {
-          "name": "The Weeks",
-          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Hands on the Radio",
-      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Better Broken",
-      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
         "name": "Blind Ambition",
         "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Better Broken",
+      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Lost on the Young",
+      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+    },
+    {
+      "added_at": "2026-07-17 17:19:10",
+      "album": {
         "name": "Oporto-Madrid Blvd",
         "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2026-07-17 17:19:10",
-      "album": {
-        "name": "Cheap Champagne",
-        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 233159,
-      "name": "Cheap Champagne",
-      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2026-07-17 17:19:10",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-07-17 17:19:10",
       "album": {
-        "name": "Waterfallin'",
-        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
+        "name": "Cheap Champagne",
+        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
       },
       "artists": [
         {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Waterfallin'",
-      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+      "duration_ms": 233159,
+      "name": "Cheap Champagne",
+      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2026-07-17 17:19:10",

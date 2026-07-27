@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,978 songs - 4 day 14 hr 34 min
+1,982 songs - 4 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Free Ride](https://open.spotify.com/track/4iFc1NQnc1JD5qQVAHhB3g) | [Sima Galanti](https://open.spotify.com/artist/78cWEQ5eLVvwbQvsC5k3DD) | [Free Ride](https://open.spotify.com/album/0akz5x0b0WLNCF1yACe5lE) | 4:39 | 2026-05-18 | 2026-06-06 |
 | [Free the Noise](https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59) | [Luke, Im ur fuzzer](https://open.spotify.com/artist/4HPVFa8z0dRn18htOSCISy) | [Free the Noise](https://open.spotify.com/album/1MI6Ozaa89mEwbGaZ7EnU6) | 2:55 | 2026-05-18 |  |
 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-03-18 | 2026-04-07 |
+| [Freight Train](https://open.spotify.com/track/4or0yriYKsIKtl2X1oBWWX) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Primetime Illusion](https://open.spotify.com/album/6QLyW06Ak6SOBor0I8f2pA) | 3:40 | 2026-07-26 |  |
 | [Freiheit im Fall](https://open.spotify.com/track/5HphH0z58AioyX3TWvgvh1) | [nacht](https://open.spotify.com/artist/6q9I1nXX8L5UTkO6efRE9y) | [14 15 3 20 9 19](https://open.spotify.com/album/2bKVMKlbfWyeS7ZCzI2RWT) | 5:13 | 2026-02-26 | 2026-03-17 |
 | [Friend of a Friend](https://open.spotify.com/track/3Sn7VRb0YKSgejHb2GrNN2) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/1ZqmD4wXzSqAYbAcEsQiO2) | 3:48 | 2026-01-21 | 2026-02-12 |
 | [Friends Till The End \(Roadtripping\)](https://open.spotify.com/track/79BybXVjL9BYHwEahyjR8O) | [The Midlifers](https://open.spotify.com/artist/1VgYKnzsD1GdAhcnxsYeOD) | [Friends Till The End \(Roadtripping\)](https://open.spotify.com/album/2hibtrATNPRkyXzPDHdigx) | 2:28 | 2026-01-09 | 2026-01-29 |
@@ -1518,6 +1519,7 @@
 | [Something More](https://open.spotify.com/track/0KMHRjvXCXXCSqmG7KRPYi) | [Left to Nothing](https://open.spotify.com/artist/6xYZFCMIOhJSXQApvZIusH) | [Stolen Futures](https://open.spotify.com/album/78gZrHyZCJMW2MqY9PVT0b) | 2:59 | 2025-11-13 | 2025-12-10 |
 | [Something to Believe](https://open.spotify.com/track/1J4rPfNgavY56kbLpK3mEh) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Something to Believe](https://open.spotify.com/album/05cZtARQmJgtUC1SQTHbXk) | 3:29 | 2026-05-22 | 2026-06-11 |
 | [Something To Believe In](https://open.spotify.com/track/6fUPGgRSAZFWWv7KaK4f6q) | [Awake & Dreaming](https://open.spotify.com/artist/69l0PZ2GVnFBrLRmtaZMGc) | [Something To Believe In](https://open.spotify.com/album/11cfgh0urtJRClRcAAQyCp) | 3:39 | 2026-03-30 | 2026-05-01 |
+| [Sooner or Later](https://open.spotify.com/track/0146KIhplZ2hSvfx6NJyRf) | [Stealing Handshakes](https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ) | [Stealing Handshakes](https://open.spotify.com/album/7GpwIkQovatVexeuHCPoIK) | 3:43 | 2026-07-26 |  |
 | [Sorrow](https://open.spotify.com/track/48cLaWRmNedvte1QZ7NEyt) | [Eternal Rest Band](https://open.spotify.com/artist/4cTVqclMcvlOi4LZw0E43j) | [Sorrow](https://open.spotify.com/album/6yTBYciGZ7QsSBReCm5sJC) | 5:20 | 2026-05-20 | 2026-06-11 |
 | [SORRY NOT SORRY](https://open.spotify.com/track/0ynUNnv7dhPa4tv8TQReX2) | [Ellen and the Boyz](https://open.spotify.com/artist/1OHPJaybtKXTppv7gTwvmY) | [SORRY NOT SORRY](https://open.spotify.com/album/6RceDfzryPdZwtKLDnbN5r) | 3:18 | 2026-02-10 | 2026-03-14 |
 | [Sortie d'affaire](https://open.spotify.com/track/35r35o4C0imCTzV4IRELVn) | [No Vale Nada](https://open.spotify.com/artist/1Gft5nd0oUDibZnPMZhpkL) | [Sortie d'affaire](https://open.spotify.com/album/4xr2qeOlzhCFxYysy91Dpr) | 2:53 | 2026-06-04 | 2026-07-06 |
@@ -1579,6 +1581,7 @@
 | [Strong, Proud and Ignorant](https://open.spotify.com/track/3DpJLLh4fVgLCARmZrsAdd) | [Yovsaf](https://open.spotify.com/artist/2RfCvIEtLyG0sadpXkXFYl), [Yonks](https://open.spotify.com/artist/3uLbO9LqSALVEfIo3VjWyX) | [Strong, Proud and Ignorant](https://open.spotify.com/album/1y6BXEgfcWuHMRCDQUA6IH) | 2:36 | 2026-07-20 |  |
 | [Stuck In My Mind](https://open.spotify.com/track/60OpDkginDhlF7tCmT5aAe) | [kevkov](https://open.spotify.com/artist/1LH9tQJGSnlGQfMRqw7dKX) | [Stuck In My Mind](https://open.spotify.com/album/5HSepsyHalM3G7gZEYsTlJ) | 2:50 | 2025-12-29 | 2026-01-22 |
 | [Stuck In The Middle](https://open.spotify.com/track/0IoQKF7Rj5acnWP446CQmd) | [Bläck](https://open.spotify.com/artist/2o142txMGNsKmm3LAQEhYj), [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Stuck In The Middle](https://open.spotify.com/album/1K248OZ2tCaIpepBjHuuI2) | 3:04 | 2026-01-06 | 2026-02-07 |
+| [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-07-26 |  |
 | [Such a Burden](https://open.spotify.com/track/0AdM4ZxBcBbhwBArMGVkFy) | [BADSQUATCH](https://open.spotify.com/artist/4dh7Ueabu11duuGuITUWpx) | [Such a Burden](https://open.spotify.com/album/6Y9a5re3d3QMHmCH2w3efg) | 2:49 | 2026-03-11 | 2026-04-12 |
 | [Suffocate](https://open.spotify.com/track/1HKpxECheP56EpoEf2552h) | [Thryne](https://open.spotify.com/artist/1h0DVLrg1C8l3gUo0ZgFnT) | [Suffocate](https://open.spotify.com/album/2Lf5lv42euE8VEV1ypzDX3) | 4:16 | 2026-04-05 | 2026-04-24 |
 | [Suits & Ties](https://open.spotify.com/track/0xdGJHJZTsMiLPeOSdgw44) | [Arcane Bloom](https://open.spotify.com/artist/20ynOuSCxqxVr8Bp8NgUMy) | [ONE WAY TICKET](https://open.spotify.com/album/7273XFCUKmNqzJnU7h1d4V) | 4:12 | 2025-12-16 | 2026-01-06 |
@@ -1793,6 +1796,7 @@
 | [TV Technicolor](https://open.spotify.com/track/0kuw0IIdgLjQceO9CGNT1b) | [Playtime Rabbit](https://open.spotify.com/artist/2jABCTYYvOJbp97twDmS7k) | [TV Technicolor](https://open.spotify.com/album/1yhSoB68eJVz4f14T59kHX) | 2:59 | 2026-03-08 | 2026-03-31 |
 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 | 2026-01-06 | 2026-01-29 |
 | [Tyrant](https://open.spotify.com/track/6cYTIPWewJFKxIH8nmYxOq) | [New Modern](https://open.spotify.com/artist/2IarEJt3Swyk0jP38ARpPP) | [Tyrant](https://open.spotify.com/album/1OZnEr3yvpZv8CtbWmyrAS) | 4:03 | 2026-07-09 |  |
+| [U.S\. Soldier \- U.S\. Soldier Alternate](https://open.spotify.com/track/61tBAASH0ngAnzbndnRBii) | [Dark Lamb](https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx) | [The U.S\. Soldier](https://open.spotify.com/album/4RiUhyyiDgYwDMRT14QY6F) | 3:46 | 2026-07-26 |  |
 | [UN OSITO DE PELUCHE DE TAIWAN \- Cover](https://open.spotify.com/track/6N1AhDO4GHvZ0Z9BYNf33g) | [RÁU](https://open.spotify.com/artist/0vdkKp2Zn8X2Vi6VXo19iX) | [UN OSITO DE PELUCHE DE TAIWAN](https://open.spotify.com/album/4OsLrjWgSpPCcxNqNVrc0S) | 3:04 | 2026-03-27 | 2026-04-17 |
 | [Unbreakable](https://open.spotify.com/track/5D7RAguYiG8VYocqgaCt25) | [Backbite](https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL) | [Unbreakable](https://open.spotify.com/album/5mtDADisRmMc9JgCrEwQMO) | 4:00 | 2026-04-29 | 2026-05-22 |
 | [Unbreakable](https://open.spotify.com/track/1MER0YAsu55Gut37JVsPG8) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [Unbreakable](https://open.spotify.com/album/31F4H3iHdb2Tw5kpyoRHZN) | 3:28 | 2026-01-24 | 2026-02-25 |

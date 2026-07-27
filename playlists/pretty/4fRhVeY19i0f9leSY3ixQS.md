@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,578 likes - 339 songs - 18 hr 57 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,581 likes - 343 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,5 +347,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 337 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
 | 338 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 |
 | 339 | [Drive](https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0RyOXijFeQAqqfNms0RoA8) | [Drive](https://open.spotify.com/album/2ehRby9OP2wbq0uN7QYX4w) | 2:22 |
+| 340 | [Sooner or Later](https://open.spotify.com/track/0146KIhplZ2hSvfx6NJyRf) | [Stealing Handshakes](https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ) | [Stealing Handshakes](https://open.spotify.com/album/7GpwIkQovatVexeuHCPoIK) | 3:43 |
+| 341 | [Freight Train](https://open.spotify.com/track/4or0yriYKsIKtl2X1oBWWX) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Primetime Illusion](https://open.spotify.com/album/6QLyW06Ak6SOBor0I8f2pA) | 3:40 |
+| 342 | [U.S\. Soldier \- U.S\. Soldier Alternate](https://open.spotify.com/track/61tBAASH0ngAnzbndnRBii) | [Dark Lamb](https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx) | [The U.S\. Soldier](https://open.spotify.com/album/4RiUhyyiDgYwDMRT14QY6F) | 3:46 |
+| 343 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 |
 
-Snapshot ID: `AAASQif4mnlOtia46lXZSTKdJeZ2cw0i`
+Snapshot ID: `AAASRjpQ1sT9kJBN/al04NI63RRIX7gE`

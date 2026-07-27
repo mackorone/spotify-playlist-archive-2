@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Glocky, Charli xcx, JENNIE, G.Mineiro,  KATSEYE, 2hollis e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,845 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,828 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 36 likes - 11 songs - 54 min 15 sec
+[royva06](https://open.spotify.com/user/royva06) - 36 likes - 11 songs - 37 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
-| 2 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
-| 3 | [Crucified Son](https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 3:29 |
-| 4 | [Down With the King \(feat\. Pete Rock & C.L\. Smooth\)](https://open.spotify.com/track/2oSPru8bef0EMhF9tvMSLn) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb) | [Down With The King](https://open.spotify.com/album/26gFD7tL928WDDcse3rPls) | 5:02 |
-| 5 | [idkwntht](https://open.spotify.com/track/3AZyeUG0UUzENA5t0V9O09) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 |
-| 6 | [Ya Ya](https://open.spotify.com/track/2XUYTPkDrF0Qx9iGkOw4qA) | [Prism Bitch](https://open.spotify.com/artist/7ungoomfqCNHmx5No3a0py) | [The Getaway](https://open.spotify.com/album/0MxaxnSjmQAKW3buoBRKog) | 2:55 |
-| 7 | [Something On Your Mind](https://open.spotify.com/track/23KI77aH4TKcb3rOMsYiSg) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time](https://open.spotify.com/album/6Ai4Saejkb08NrsC7182Px) | 3:23 |
-| 8 | [black screen](https://open.spotify.com/track/0AUp2LQdUSJRtQa5rTx3fJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 12:05 |
-| 9 | [Negus](https://open.spotify.com/track/0oWcVb7OQ2ClG6iv8hwNrU) | [Sean Price](https://open.spotify.com/artist/4VMwZeCtQ2I9ne0bLvTqWw), [DOOM](https://open.spotify.com/artist/3IZVDB8rcinQTKxCjvMag6), [Ike Eyez](https://open.spotify.com/artist/4AzPDisIP1y4k9ezmQmByO) | [Imperius Rex](https://open.spotify.com/album/3xpY0WG5GkPed4rBYIbEMt) | 3:40 |
-| 10 | [I Never Could Get Enough](https://open.spotify.com/track/0GJQO6odBx7Ha2BjiyhlXo) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 8:16 |
-| 11 | [Know Better Learn Faster](https://open.spotify.com/track/6uNZ2ixwMy1fj7NOEEJEBA) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Know Better Learn Faster](https://open.spotify.com/album/1AkgsMneGDu0rLVeB4Gnwn) | 3:49 |
+| 1 | [Get By](https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Quality](https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg) | 3:47 |
+| 2 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
+| 3 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 |
+| 4 | [Fallin' Rain](https://open.spotify.com/track/64dByZjmB5NN5PiWZQdM2X) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Link Wray](https://open.spotify.com/album/6NYyr8iHYfYxCRrvFu0Xfi) | 3:45 |
+| 5 | [I Miss That Feeling](https://open.spotify.com/track/42XZcWNSbZCPQarEodiHbi) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [I Miss That Feeling](https://open.spotify.com/album/7JWXCrTzHgiGo95ZG5japE) | 3:22 |
+| 6 | [Chef Dreds](https://open.spotify.com/track/4jtkMB1q0M4icd8Xnwpiwx) | [Griselda](https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X) | [WWCD](https://open.spotify.com/album/13PxecK9Bart7ir6STafXP) | 2:48 |
+| 7 | [Rev\. John / Friend](https://open.spotify.com/track/7dn6wg1zv2QzMeFvPskCYy) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/7imr7TpCpeWy3JftL8nU1o) | 2:49 |
+| 8 | [Please Let Me Wonder \(Stereo\)](https://open.spotify.com/track/4XOMLnCpUmajrwd07JjIqf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Today! \(Mono & Stereo\)](https://open.spotify.com/album/03Uyb8VZwamvPv9z3WHwp0) | 2:48 |
+| 9 | [Again](https://open.spotify.com/track/4ccNZzUTggy51RFvIzYRhT) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 4:05 |
+| 10 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
+| 11 | [Light Upon the Lake](https://open.spotify.com/track/5vEL3EpvP50ynXJqLon8yv) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 3:09 |
 
-Snapshot ID: `AAALew13P+20wybCiHZ/lQPJ4/TWGejs`
+Snapshot ID: `AAALk0L5eZ33bkvI4wJxiVlD0GdxEx+Q`

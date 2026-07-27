@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Basketball Court",
       "url": "https://open.spotify.com/track/2Wrr8X4LvPFvucyaDxqs2q"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Belzec Extermination Camp",
       "url": "https://open.spotify.com/track/6TRDTNepSLMoCFr7XkW1ZY"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 60000,
       "name": "My Kitchen, Chicago",
       "url": "https://open.spotify.com/track/6rCcbBqBxLJgCq25LkOGXB"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 60000,
       "name": "Voting Line, Downtown Chicago",
       "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"

@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: TRADE L)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221932,
+  "num_followers": 221927,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -523,8 +523,8 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "Stuck (Feat. Yerin Baek)",
-        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
       "artists": [
         {
@@ -532,13 +532,13 @@
           "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Stuck (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -635,8 +635,8 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+        "name": "Stuck (Feat. Yerin Baek)",
+        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
       },
       "artists": [
         {
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+      "duration_ms": 168000,
+      "name": "Stuck (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -847,30 +847,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
-        "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
-      },
-      "artists": [
-        {
-          "name": "Molly Yam",
-          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "GGM LIL DRAGON",
-          "url": "https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
-      "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "Blow Your Mind",
         "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 215000,
       "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
       "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
+        "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
+      },
+      "artists": [
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "GGM LIL DRAGON",
+          "url": "https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
+      "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "LIVE FAST DIE SKRT",
         "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 227234,
       "name": "You're So Fine",
       "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Heartfall",
+      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Heartfall",
-      "url": "https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 137546,
+      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
+      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
         "name": "MELODY",
         "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
       },
@@ -1255,26 +1279,18 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "BLEND",
-        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
       "artists": [
         {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "rosy",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
-      "duration_ms": 137546,
-      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
-      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1295,22 +1311,6 @@
       "duration_ms": 162658,
       "name": "COT (feat. MILLI)",
       "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "rosy",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2026-07-22 13:51:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-07-22 13:51:42",
       "album": {
-        "name": "milli",
-        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
-      },
-      "artists": [
-        {
-          "name": "MilliMax",
-          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "INSTAGRAM",
-      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
-    },
-    {
-      "added_at": "2026-07-22 13:51:42",
-      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2026-07-22 13:51:42",
+      "album": {
+        "name": "milli",
+        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
+      },
+      "artists": [
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "INSTAGRAM",
+      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
     },
     {
       "added_at": "2026-07-22 13:51:42",

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-799 songs - 3 day 2 hr 6 min
+800 songs - 3 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,7 +703,7 @@
 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-06-30 | 2024-04-19 |
 | [The Swirming Mermish](https://open.spotify.com/track/2stBLOH64zWnvzBuZFyJpa) | [Hólmar](https://open.spotify.com/artist/2uO4JXiaYyivjpO9kHbFQV) | [The Mothership EP](https://open.spotify.com/album/6tkRzeR9mPxqRIU0LOyRBd) | 8:11 | 2019-08-06\* | 2019-12-07 |
 | [The Tide](https://open.spotify.com/track/3pMyZztzU35UqFtlUtbICr) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm), [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [The Tide](https://open.spotify.com/album/67bTGeT8r5hw625IOh6yEC) | 4:40 | 2021-11-24 | 2022-07-29 |
-| [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-05-30 |  |
+| [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 | 2025-05-30 | 2026-07-27 |
 | [The Unseen](https://open.spotify.com/track/1urNwF91sq26no4phIbJ1t) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [The Unseen / Banderas](https://open.spotify.com/album/4CzoCLWZ8b8fstvRxH8GKN) | 8:00 | 2019-08-06\* | 2020-06-10 |
 | [The Vision](https://open.spotify.com/track/6z3H6Mk3MWMpQXpfMAs0u6) | [DJ Boris](https://open.spotify.com/artist/0CwEv3FWLZi5UomNNYUn0u) | [The Vision](https://open.spotify.com/album/2PJqOxAEfY2jYEpOEog8cd) | 6:43 | 2019-08-15 | 2019-11-09 |
 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 | 2026-06-05 | 2026-06-26 |
@@ -785,6 +785,7 @@
 | [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 | 2022-10-07 | 2023-07-01 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-03-06 | 2022-10-17 |
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 | 2025-07-05 |
+| [Whisper To Me](https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k) | [Whisper To Me](https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv) | 3:46 | 2026-07-24 |  |
 | [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 | 2024-07-17 |
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-06-05 | 2023-09-02 |
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |

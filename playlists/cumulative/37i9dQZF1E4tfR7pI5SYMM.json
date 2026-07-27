@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Dan Fearon, The Charlie Marshall Effect and more",
+  "description": "With Jon Drake, HAM, Facula and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 246000,
       "name": "Bleeding Hearts",
       "url": "https://open.spotify.com/track/6h1tQ40ohFgYc7FYVjeuvf"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 220000,
       "name": "Cave Of Sorrows",
       "url": "https://open.spotify.com/track/0EGn0yNC0BCD8CsSLbMOhW"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 235589,
       "name": "Elden",
       "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 289258,
       "name": "From Out Of Nowhere",
       "url": "https://open.spotify.com/track/4n11EdStMQwFYN0fg884us"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -6518,7 +6518,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -6904,7 +6904,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 122666,
       "name": "Lies Behind The Afterlife - 2026 remastered version",
       "url": "https://open.spotify.com/track/3fneVquIhlM7TjjxckJ4jS"
@@ -8453,6 +8453,28 @@
     },
     {
       "album": {
+        "name": "Neskaries, neapdedzinies",
+        "url": "https://open.spotify.com/album/1TlfZeFICZqWIVwkHXLH0r"
+      },
+      "artists": [
+        {
+          "name": "\u010cipsis un Dullais",
+          "url": "https://open.spotify.com/artist/3atZpQ1ZVrjSW8o2Np61iW"
+        },
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/1l6tng50jqqSqcPGCe7R3b"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Neskaries, neapdedzinies",
+      "url": "https://open.spotify.com/track/3BojUaC5hi4R7SZCmLRaml"
+    },
+    {
+      "album": {
         "name": "Blazed Shades & Thorned Veils",
         "url": "https://open.spotify.com/album/7jdeolwRx2biiuRyQcq7EE"
       },
@@ -8800,7 +8822,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8894,7 +8916,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -9374,7 +9396,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 165205,
       "name": "Page # 1",
       "url": "https://open.spotify.com/track/3BdeGaAzZ5nK71nA2TUpdg"
@@ -9850,7 +9872,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Plastic Time",
       "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
@@ -10064,7 +10086,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 295200,
       "name": "Psycho Drill",
       "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
@@ -10702,7 +10724,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 224166,
       "name": "Shadow (Of Your Love)",
       "url": "https://open.spotify.com/track/0YTuV9Z17LxvzzYVtbwkn4"
@@ -11012,7 +11034,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -11138,7 +11160,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -11264,7 +11286,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 344139,
       "name": "Solitude/M\u00e4rk Hur V\u00e5r Skugga",
       "url": "https://open.spotify.com/track/5YRorSONmdeDIvCbcvwmhJ"
@@ -11336,7 +11358,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 161036,
       "name": "Song For The Hanged Man - 2023 Remaster",
       "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
@@ -11830,7 +11852,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 243142,
       "name": "Superphotonics",
       "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
@@ -12728,7 +12750,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -13130,7 +13152,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -14055,6 +14077,24 @@
     },
     {
       "album": {
+        "name": "Svik, harmur og dau\u00f0i",
+        "url": "https://open.spotify.com/album/3kAIugg0jMHnsOkYgwHTIG"
+      },
+      "artists": [
+        {
+          "name": "HAM",
+          "url": "https://open.spotify.com/artist/0oxFfQiaEinJbDSrTVB6c4"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212741,
+      "name": "Veisla hertogans",
+      "url": "https://open.spotify.com/track/5EKwK0SjNxxTAIOIUGdsGJ"
+    },
+    {
+      "album": {
         "name": "Venceremos",
         "url": "https://open.spotify.com/album/4QcGYsGrtp30XjPbX9UCI9"
       },
@@ -14066,7 +14106,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"
@@ -14900,7 +14940,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 192891,
       "name": "Wounded Not Broken",
       "url": "https://open.spotify.com/track/78sjWLKsG7P3E7hVhP1bO3"
@@ -15098,7 +15138,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 129210,
       "name": "You Wanted War",
       "url": "https://open.spotify.com/track/77IBEDDiQn7theCjCciL4v"
@@ -15362,6 +15402,24 @@
       "duration_ms": 229722,
       "name": "\u00c6 Flyt",
       "url": "https://open.spotify.com/track/2YaNoCGrZAkvbgeLkLMMrA"
+    },
+    {
+      "album": {
+        "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+        "url": "https://open.spotify.com/album/1A35bFBzpTOA3rbKZh6WR5"
+      },
+      "artists": [
+        {
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142321,
+      "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+      "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
     },
     {
       "album": {

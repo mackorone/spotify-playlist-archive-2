@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 113506,
       "name": "ABC You A G",
       "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
@@ -2044,6 +2044,28 @@
       "duration_ms": 145800,
       "name": "LOL LAUGH OUT LOUD",
       "url": "https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115106,
+      "name": "Look Around Look Around",
+      "url": "https://open.spotify.com/track/7DCaL9HkPOOs9kTg9R2r2A"
     },
     {
       "album": {

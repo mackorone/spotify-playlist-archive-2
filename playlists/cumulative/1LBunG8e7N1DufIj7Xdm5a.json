@@ -24673,6 +24673,24 @@
     },
     {
       "album": {
+        "name": "ENOUGH",
+        "url": "https://open.spotify.com/album/23EgnDr5j3rTfk8zqMOvkp"
+      },
+      "artists": [
+        {
+          "name": "Decybel",
+          "url": "https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232759,
+      "name": "ENOUGH",
+      "url": "https://open.spotify.com/track/0oIuU6cGOdJu5IHQWFiUPQ"
+    },
+    {
+      "album": {
         "name": "Enough is Never Enough",
         "url": "https://open.spotify.com/album/7LC6yVufogoGLT6lLNiFBL"
       },
@@ -54887,6 +54905,24 @@
     },
     {
       "album": {
+        "name": "Peace for Me",
+        "url": "https://open.spotify.com/album/2qqr0t67dtRtSnk0aqExTB"
+      },
+      "artists": [
+        {
+          "name": "Dark Lamb",
+          "url": "https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206856,
+      "name": "Peace for Me - Alternative Version",
+      "url": "https://open.spotify.com/track/2Rl49ClldbNcxIQYYEE8kN"
+    },
+    {
+      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ"
       },
@@ -75329,7 +75365,7 @@
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134439,
+      "duration_ms": 134440,
       "name": "tum tum switch 2",
       "url": "https://open.spotify.com/track/63N2zHOulZp2WqaRIvDLKM"
     },

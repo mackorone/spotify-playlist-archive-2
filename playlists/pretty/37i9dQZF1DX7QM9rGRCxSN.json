@@ -1,6 +1,6 @@
 {
   "description": "Tristeza latina ",
-  "num_followers": 39104,
+  "num_followers": 39111,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Principios Y Fundamentos De La Fauna Moderna",
-        "url": "https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK"
-      },
-      "artists": [
-        {
-          "name": "Incendios Forestales Del Viejo Continente",
-          "url": "https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ"
-        }
-      ],
-      "duration_ms": 325853,
-      "name": "Mera Telos & Letpig Adventure",
-      "url": "https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "lo que no tiene forma",
         "url": "https://open.spotify.com/album/3avJy5qJtoSHjiCndzhtGx"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 251894,
       "name": "lo que no tiene forma",
       "url": "https://open.spotify.com/track/5tcYqt8wdni44SB6vijp02"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Principios Y Fundamentos De La Fauna Moderna",
+        "url": "https://open.spotify.com/album/2QEPAzajwc62HOtrtEghxK"
+      },
+      "artists": [
+        {
+          "name": "Incendios Forestales Del Viejo Continente",
+          "url": "https://open.spotify.com/artist/2mwdGkikTTeufyEPUFRijJ"
+        }
+      ],
+      "duration_ms": 325853,
+      "name": "Mera Telos & Letpig Adventure",
+      "url": "https://open.spotify.com/track/3eUYUFu7PhhxWSIV8c3uX6"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Todo el Silencio",
-        "url": "https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL"
-      },
-      "artists": [
-        {
-          "name": "Inv\u00e1lido",
-          "url": "https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Estallar",
-      "url": "https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Principio de Siglo",
         "url": "https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180551,
       "name": "Principio de Siglo",
       "url": "https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Todo el Silencio",
+        "url": "https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL"
+      },
+      "artists": [
+        {
+          "name": "Inv\u00e1lido",
+          "url": "https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Estallar",
+      "url": "https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w"
     },
     {
       "added_at": "2026-06-19 06:00:24",

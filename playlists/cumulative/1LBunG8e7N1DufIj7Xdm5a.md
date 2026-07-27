@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,556 songs - 10 day 4 hr 24 min
+4,558 songs - 10 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1356,6 +1356,7 @@
 | [Enigma](https://open.spotify.com/track/1gbv892FWdLAot1OT5gAmH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [Quintale](https://open.spotify.com/album/2rWs38gmRLEsd506aLSJMe) | 2:50 | 2025-11-12 |  |
 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 | 2025-07-29 |  |
 | [ENKI](https://open.spotify.com/track/78aPKQHPUrYPXvA9XteGcv) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [The Sun In The 12th House](https://open.spotify.com/album/3bMk0D70P4yVp4Zmn6Dey7) | 4:48 | 2026-05-21 |  |
+| [ENOUGH](https://open.spotify.com/track/0oIuU6cGOdJu5IHQWFiUPQ) | [Decybel](https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb) | [ENOUGH](https://open.spotify.com/album/23EgnDr5j3rTfk8zqMOvkp) | 3:52 | 2026-07-26 |  |
 | [Enough is Never Enough](https://open.spotify.com/track/6H8z0N7iCbaYQUkb8yrI8r) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Enough is Never Enough](https://open.spotify.com/album/7LC6yVufogoGLT6lLNiFBL) | 2:47 | 2025-11-05 |  |
 | [Enter](https://open.spotify.com/track/0ViLc69ePmKeZaXCno3bMn) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [Enter](https://open.spotify.com/album/1ng4U7FXkuVl1ys4vD3Wul) | 2:43 | 2025-06-04 |  |
 | [ENTRE CRISTALES](https://open.spotify.com/track/244xnRPePKZLHNcJC5mb67) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x) | [ENTRE CRISTALES](https://open.spotify.com/album/6z4mLjPPHQHGLz9FJFfeiS) | 2:30 | 2025-06-16 |  |
@@ -2999,6 +3000,7 @@
 | [Patience](https://open.spotify.com/track/5j3ivBCTU5U4OBljFq8p9R) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Patience](https://open.spotify.com/album/03FHkDM2h58AFvohS2S8pw) | 4:05 | 2026-06-23 |  |
 | [PATOS CC](https://open.spotify.com/track/648C7TraL2tsvLeiCZSSOD) | [Mi novio dramático](https://open.spotify.com/artist/3VSmete7hOiLQadWOyyGf7) | [PATOS CC](https://open.spotify.com/album/1SvxwxVo127NT16QEji43F) | 2:52 | 2026-07-10 |  |
 | [PCC](https://open.spotify.com/track/0pbJZFqKWVBmpqqeta8yCg) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [ROM D\. ODSU](https://open.spotify.com/artist/3bHFJ6BT2BeXUSYq9Bqi2u) | [PCC](https://open.spotify.com/album/1rpolSpCnwHA214aX8RJGr) | 2:51 | 2025-06-05 |  |
+| [Peace for Me \- Alternative Version](https://open.spotify.com/track/2Rl49ClldbNcxIQYYEE8kN) | [Dark Lamb](https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx) | [Peace for Me](https://open.spotify.com/album/2qqr0t67dtRtSnk0aqExTB) | 3:26 | 2026-07-26 |  |
 | [Peacemakers](https://open.spotify.com/track/7K8F1C4dcNao9gJOUiR8mc) | [Miguel De La Wiest](https://open.spotify.com/artist/26hbbPnAg9VCscmcsIGXY6) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1k7DZX3OogiMcHFOjTOtFQ) | 4:38 | 2026-01-12 | 2026-01-26 |
 | [PEGGIOXTE](https://open.spotify.com/track/0bA7T5mSWQrpk9Pmml2UFD) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [PEGGIOXTE](https://open.spotify.com/album/5sqbsO1hpRKfaTtpvS1ufc) | 3:18 | 2025-06-24 |  |
 | [Pelo de mar](https://open.spotify.com/track/3vMmZnb3g5ML0K9w4PKoqM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:42 | 2026-03-15 |  |

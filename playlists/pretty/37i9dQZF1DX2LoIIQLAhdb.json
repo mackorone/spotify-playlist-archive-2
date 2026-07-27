@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9QUQ41dyMEZvjs/3KjMF8BYjjo",
+  "snapshot_id": "AAAAAIA/FF1Qpchipnk8QRLZiHZaFGF2",
   "tracks": [
+    {
+      "added_at": "2026-07-26 10:21:25",
+      "album": {
+        "name": "Oh my god",
+        "url": "https://open.spotify.com/album/3Md41qoyHYFo2uPS56SEud"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Oh my god",
+      "url": "https://open.spotify.com/track/32TyEa7PkqtZp7GMRaTO6k"
+    },
     {
       "added_at": "2026-07-23 22:00:14",
       "album": {

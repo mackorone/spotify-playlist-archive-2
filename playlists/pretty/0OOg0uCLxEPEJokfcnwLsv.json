@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1183,
+  "num_followers": 1186,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGs4FSh9OA9PQWPVAf5nWX/ZJClfip",
+  "snapshot_id": "AAAGtNneihLitmcA3aFc0QBbTqKbiSZd",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2291,6 +2291,22 @@
       "duration_ms": 216232,
       "name": "Never Trust A Pig",
       "url": "https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg"
+    },
+    {
+      "added_at": "2026-07-26 16:54:51",
+      "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 246646,
+      "name": "Sail Close To The Wind",
+      "url": "https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0"
     }
   ],
   "unique_name": "Unsigned Rock",

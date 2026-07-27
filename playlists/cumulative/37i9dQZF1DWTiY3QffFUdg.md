@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-346 songs - 17 hr 58 min
+347 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Acid Robot \- Original Mix](https://open.spotify.com/track/4FOx2og4wtYIvdq1clkNmK) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Acid Robot \(Original Mix\)](https://open.spotify.com/album/07rD4ZVsv1vBKfQFX2ClT2) | 5:13 | 2023-09-19 | 2023-10-27 |
 | [Adeste Fideles](https://open.spotify.com/track/3ufwBsrEH7Tg0ojkPTMKMc) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Adeste Fideles](https://open.spotify.com/album/1InCbTTa3j95HwmGnIeTn4) | 2:01 | 2023-12-08 | 2024-02-10 |
 | [Against The Wall](https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Against The Wall](https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4) | 3:25 | 2024-01-26 | 2024-02-17 |
+| [Ah Ah Ah](https://open.spotify.com/track/2WCdQPOg6vWU1mSb1ozqNc) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Ah Ah Ah](https://open.spotify.com/album/7rKCKT639yeCpA8MB7PHU5) | 3:59 | 2026-07-24 |  |
 | [All That She Wants](https://open.spotify.com/track/4ECNacdSKalElOM7Verr01) | [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI), [Raverol](https://open.spotify.com/artist/48jOVVYRDEU1U8gZ3PpZ7o) | [All That She Wants](https://open.spotify.com/album/2upe6SP1Ep2FjeqlO4klxf) | 2:11 | 2023-08-11 | 2023-08-28 |
 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 | 2024-04-26 |  |
 | [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/track/6pIYoy7IlgT5dk0K8XELVm) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/album/37gJAOQnqjgeqsZLMcRtmp) | 2:23 | 2025-10-17 | 2025-12-25 |
@@ -162,7 +163,7 @@
 | [Just dance](https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Just dance](https://open.spotify.com/album/06XogB5Kpx7rRWMkGUhH0z) | 2:16 | 2025-10-24 | 2025-12-08 |
 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-04-19 | 2024-08-26 |
 | [King Of My Castle](https://open.spotify.com/track/10KGEuBsD3RwUESCQsNabH) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [King Of My Castle](https://open.spotify.com/album/08Cco6fITT6Z0SayN1u9pp) | 2:17 | 2024-03-08 | 2024-04-09 |
-| [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-08-15 |  |
+| [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-08-15 | 2026-07-27 |
 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 | 2023-09-08 | 2024-08-01 |
 | [Konye](https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Konye](https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z) | 2:44 | 2024-02-02 |  |
 | [Lalala](https://open.spotify.com/track/4LHHkEu5IgNu1CQqTOxUZ9) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Lalala](https://open.spotify.com/album/0VDSo8iWnOvGbXvFegmi1x) | 2:22 | 2026-05-29 | 2026-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 910695,
+  "num_followers": 910622,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,18 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "KRISTALL",
-        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
+        "name": "Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
         }
       ],
-      "duration_ms": 164937,
-      "name": "Alors (feat. CAPO)",
-      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+      "duration_ms": 147730,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -235,18 +231,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Tr\u00e4nen",
-        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
+        "name": "KRISTALL",
+        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
       },
       "artists": [
         {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
         }
       ],
-      "duration_ms": 147730,
-      "name": "Tr\u00e4nen",
-      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
+      "duration_ms": 164937,
+      "name": "Alors (feat. CAPO)",
+      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -499,26 +499,18 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "ONLY ONE",
-        "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
         }
       ],
-      "duration_ms": 191062,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -543,18 +535,26 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
       },
       "artists": [
         {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 171866,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
+      "duration_ms": 191062,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "BOMBA",
-        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 165799,
-      "name": "BOMBA",
-      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "BLN",
         "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 167153,
       "name": "BLN",
       "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "art attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "Wach",
-        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Wach",
-      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -975,6 +955,26 @@
       "duration_ms": 132000,
       "name": "3 ENGEL F\u00dcR CAVE",
       "url": "https://open.spotify.com/track/4nQmittuiFsPeU4nGfXDha"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
-      },
-      "artists": [
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 140168,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "Playboys im AMG",
         "url": "https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 153175,
       "name": "Syt",
       "url": "https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 140168,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
+      },
+      "artists": [
+        {
+          "name": "Kuto",
+          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Vollmond",
         "url": "https://open.spotify.com/album/5R0nZ5Wweeme5DX3LNu3GY"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 147472,
       "name": "Vollmond",
       "url": "https://open.spotify.com/track/075Ii45GRPsho8pG1Clkdz"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
-      },
-      "artists": [
-        {
-          "name": "Kuto",
-          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Flightmode",
-        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
-      },
-      "artists": [
-        {
-          "name": "Lyno Nine8",
-          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 169004,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Flightmode",
+        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
+      },
+      "artists": [
+        {
+          "name": "Lyno Nine8",
+          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
+      },
+      "artists": [
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/3wRejxNrmV3gumjMqzPGG3"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/4AGuMclFqXQScBUF4OICPS"
       },
@@ -1471,30 +1495,6 @@
       "duration_ms": 145339,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
-      },
-      "artists": [
-        {
-          "name": "Tayna",
-          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
-        },
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "Geenaro & Ghana Beats",
-          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/3wRejxNrmV3gumjMqzPGG3"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "Unlock",
         "url": "https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 164360,
       "name": "Miami",
       "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-07-09 22:01:03",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-07-09 22:01:03",
       "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
-    },
-    {
-      "added_at": "2026-07-09 22:01:03",
-      "album": {
         "name": "Heavyweight",
         "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
+    },
+    {
+      "added_at": "2026-07-09 22:01:03",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-07-09 22:01:03",

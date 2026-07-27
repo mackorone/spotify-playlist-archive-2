@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Charli XCX og m\u00f6rgum fleirum!",
-  "num_followers": 9684,
+  "num_followers": 9686,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -347,30 +347,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Disgruntled (feat. J Hus & IRAH)",
-        "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 192685,
-      "name": "Disgruntled (feat. J Hus & IRAH)",
-      "url": "https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "burger",
         "url": "https://open.spotify.com/album/0PlelLEfPrffv3fayPmza9"
       },
@@ -403,18 +379,26 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+        "name": "Disgruntled (feat. J Hus & IRAH)",
+        "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         }
       ],
-      "duration_ms": 198331,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
+      "duration_ms": 192685,
+      "name": "Disgruntled (feat. J Hus & IRAH)",
+      "url": "https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -431,6 +415,22 @@
       "duration_ms": 217797,
       "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6YFaYE4vLLXtXZVQ7v6k93"
-      },
-      "artists": [
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 170345,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2VfoAHtv3PFisHpqFkmvfp"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "HOT AS A BIC",
         "url": "https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 173114,
       "name": "HOT AS A BIC",
       "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6YFaYE4vLLXtXZVQ7v6k93"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 170345,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2VfoAHtv3PFisHpqFkmvfp"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Whisper To Me",
         "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 226896,
       "name": "Whisper To Me",
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Still Dangerous",
         "url": "https://open.spotify.com/album/7s4NBjgfxAAOETtqwRIvRV"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
         "name": "When I Lose You",
         "url": "https://open.spotify.com/album/7ep9mk1hkx3ACOwyFFwQTk"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 194516,
       "name": "When I Lose You",
       "url": "https://open.spotify.com/track/0B95pBce3F6JJS0EnasNYZ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Impressions (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 176444,
+      "name": "Impressions (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -775,26 +795,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Impressions (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 176444,
-      "name": "Impressions (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "After The Love",
         "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
       },
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf"
+        "name": "just my luck",
+        "url": "https://open.spotify.com/album/197RAVKRGjYZAA4ylb1Uv2"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
         }
       ],
-      "duration_ms": 204545,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa"
+      "duration_ms": 149740,
+      "name": "just my luck",
+      "url": "https://open.spotify.com/track/09YSyefcTSh7sajvodaDcQ"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -863,34 +859,38 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "just my luck",
-        "url": "https://open.spotify.com/album/197RAVKRGjYZAA4ylb1Uv2"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf"
       },
       "artists": [
         {
-          "name": "natalie jinju",
-          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
         }
       ],
-      "duration_ms": 149740,
-      "name": "just my luck",
-      "url": "https://open.spotify.com/track/09YSyefcTSh7sajvodaDcQ"
+      "duration_ms": 204545,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa"
     },
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "For Your Eyes Only",
-        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
+        "name": "Never Love Again",
+        "url": "https://open.spotify.com/album/0lfQJG5fOZW56gDkM70PRL"
       },
       "artists": [
         {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+          "name": "Cali Rd",
+          "url": "https://open.spotify.com/artist/6V82gjLbIoCpObPOYwbTXW"
         }
       ],
-      "duration_ms": 177464,
-      "name": "For Your Eyes Only",
-      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
+      "duration_ms": 147567,
+      "name": "Never Love Again",
+      "url": "https://open.spotify.com/track/728Ua2FXaFlYWXEMCpGlr2"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Never Love Again",
-        "url": "https://open.spotify.com/album/0lfQJG5fOZW56gDkM70PRL"
+        "name": "For Your Eyes Only",
+        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
       },
       "artists": [
         {
-          "name": "Cali Rd",
-          "url": "https://open.spotify.com/artist/6V82gjLbIoCpObPOYwbTXW"
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
         }
       ],
-      "duration_ms": 147567,
-      "name": "Never Love Again",
-      "url": "https://open.spotify.com/track/728Ua2FXaFlYWXEMCpGlr2"
+      "duration_ms": 177464,
+      "name": "For Your Eyes Only",
+      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
+        "name": "Beg Me",
+        "url": "https://open.spotify.com/album/7ohGlmYhp81IxchF39tA77"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 136935,
+      "name": "Beg Me",
+      "url": "https://open.spotify.com/track/1rlffWlUZctgAwSAdxtc39"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
         "name": "Do You Miss Me Too?",
         "url": "https://open.spotify.com/album/2mwYnmMV26EaDSms9lLGzg"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Beg Me",
-        "url": "https://open.spotify.com/album/7ohGlmYhp81IxchF39tA77"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        }
-      ],
-      "duration_ms": 136935,
-      "name": "Beg Me",
-      "url": "https://open.spotify.com/track/1rlffWlUZctgAwSAdxtc39"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "THE SCARIEST PART !",
         "url": "https://open.spotify.com/album/5uRt5y4Kq78o7DtnOA8nhB"
       },
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/3UOAWkmPmyiqZ74FSZlHNH"
+        "name": "cry for the camera",
+        "url": "https://open.spotify.com/album/5dvTil1zUbLHnLqVxQlNC3"
       },
       "artists": [
         {
-          "name": "Benny Morrell",
-          "url": "https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9"
+          "name": "disoc8",
+          "url": "https://open.spotify.com/artist/4lEE1YjJwvjoUbzBYYe4ia"
+        },
+        {
+          "name": "Gutzxx",
+          "url": "https://open.spotify.com/artist/1XXCk9zdIaqMoqwpCFurSF"
         }
       ],
-      "duration_ms": 181028,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/0R7vgtCjsS6mlPdg3FLVdv"
+      "duration_ms": 147149,
+      "name": "cry for the camera",
+      "url": "https://open.spotify.com/track/1GdB6Eq4OBGjOmSCdoDSqg"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1127,6 +1131,38 @@
       "duration_ms": 154687,
       "name": "Shifting",
       "url": "https://open.spotify.com/track/2GGL0bg35EswMlH8oXhKQY"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Ain't No Party",
+        "url": "https://open.spotify.com/album/2fy9STAEXigXFiAP5A5eMG"
+      },
+      "artists": [
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ain't No Party",
+      "url": "https://open.spotify.com/track/53Clg1wqIoVvjydOW6UjqA"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/3UOAWkmPmyiqZ74FSZlHNH"
+      },
+      "artists": [
+        {
+          "name": "Benny Morrell",
+          "url": "https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/0R7vgtCjsS6mlPdg3FLVdv"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1163,38 +1199,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "cry for the camera",
-        "url": "https://open.spotify.com/album/5dvTil1zUbLHnLqVxQlNC3"
+        "name": "sucker punch",
+        "url": "https://open.spotify.com/album/2bvqyT9aio0t3FH40yTQvU"
       },
       "artists": [
         {
-          "name": "disoc8",
-          "url": "https://open.spotify.com/artist/4lEE1YjJwvjoUbzBYYe4ia"
-        },
-        {
-          "name": "Gutzxx",
-          "url": "https://open.spotify.com/artist/1XXCk9zdIaqMoqwpCFurSF"
+          "name": "Kennedy Cash",
+          "url": "https://open.spotify.com/artist/16nf2gzDzmXKQuO6aWtpOL"
         }
       ],
-      "duration_ms": 147149,
-      "name": "cry for the camera",
-      "url": "https://open.spotify.com/track/1GdB6Eq4OBGjOmSCdoDSqg"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "Ain't No Party",
-        "url": "https://open.spotify.com/album/2fy9STAEXigXFiAP5A5eMG"
-      },
-      "artists": [
-        {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ain't No Party",
-      "url": "https://open.spotify.com/track/53Clg1wqIoVvjydOW6UjqA"
+      "duration_ms": 139874,
+      "name": "sucker punch",
+      "url": "https://open.spotify.com/track/020qVx6fjkCAJOcUT34NT6"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Castle Of Sand",
-        "url": "https://open.spotify.com/album/29ce2Doeyu5xtbLNIDWe0c"
-      },
-      "artists": [
-        {
-          "name": "Vau",
-          "url": "https://open.spotify.com/artist/2qx4y4ZEEuLFE6UB03i6oa"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Castle Of Sand",
-      "url": "https://open.spotify.com/track/7liFqTYwOpO89C1Y9pEIW1"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Watching You Fall",
         "url": "https://open.spotify.com/album/3IheTWizyRIC2jibKVOmbm"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 185365,
       "name": "Watching You Fall",
       "url": "https://open.spotify.com/track/1Njj1W3WFYYWtW92dhmrEL"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "sucker punch",
-        "url": "https://open.spotify.com/album/2bvqyT9aio0t3FH40yTQvU"
-      },
-      "artists": [
-        {
-          "name": "Kennedy Cash",
-          "url": "https://open.spotify.com/artist/16nf2gzDzmXKQuO6aWtpOL"
-        }
-      ],
-      "duration_ms": 139874,
-      "name": "sucker punch",
-      "url": "https://open.spotify.com/track/020qVx6fjkCAJOcUT34NT6"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1279,6 +1263,22 @@
       "duration_ms": 175909,
       "name": "Djupare",
       "url": "https://open.spotify.com/track/52USstDwASwKPpPLsiwCrH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Castle Of Sand",
+        "url": "https://open.spotify.com/album/29ce2Doeyu5xtbLNIDWe0c"
+      },
+      "artists": [
+        {
+          "name": "Vau",
+          "url": "https://open.spotify.com/artist/2qx4y4ZEEuLFE6UB03i6oa"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Castle Of Sand",
+      "url": "https://open.spotify.com/track/7liFqTYwOpO89C1Y9pEIW1"
     },
     {
       "added_at": "2026-07-24 06:00:31",

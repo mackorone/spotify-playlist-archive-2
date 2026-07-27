@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,527 songs - 5 day 13 hr 46 min
+2,528 songs - 5 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Crazy](https://open.spotify.com/track/5tO2hNJAG7P2pEEuSLAtFp) | [Ellie Carter](https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6) | [Wonderland](https://open.spotify.com/album/3nw4woJFNdPHEBGv0WHxGM) | 2:22 | 2026-02-16 | 2026-03-20 |
 | [Crazy](https://open.spotify.com/track/0gSRwplxKDM7h8hYpFgjZb) | [The Ant & Ang Band](https://open.spotify.com/artist/2TeYentCIfHwvfVlrWla8A) | [Crazy](https://open.spotify.com/album/0DobakSMywcT7GUaX08WPO) | 3:05 | 2026-03-04 | 2026-04-05 |
 | [Crazy Little Fool](https://open.spotify.com/track/2tBesYn37QZ3GTAyyvFvvA) | [Harmonic Molecules](https://open.spotify.com/artist/4mIy6xV2sBGlHWKWpHJ07I) | [Crazy Little Fool](https://open.spotify.com/album/3VgbGGMXKd5NAL07OjHI62) | 1:52 | 2025-10-23 | 2025-11-24 |
-| [Creekside Royalty](https://open.spotify.com/track/276gac7mx7tGzobVpBwH3N) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Creekside Royalty](https://open.spotify.com/album/6F6rmqFrtM5OUiGspgiNYU) | 2:34 | 2026-06-30 |  |
+| [Creekside Royalty](https://open.spotify.com/track/276gac7mx7tGzobVpBwH3N) | [A\-T](https://open.spotify.com/artist/0HilBQEBE33hcuDrGzBfXJ) | [Creekside Royalty](https://open.spotify.com/album/6F6rmqFrtM5OUiGspgiNYU) | 2:34 | 2026-06-30 |  |
 | [creepin'](https://open.spotify.com/track/5iZYECcUa2H4pc7VXljBvN) | [Fresh Morning](https://open.spotify.com/artist/0J9EWj8IZg4DkMwrJ3i1IM) | [creepin'](https://open.spotify.com/album/3u2kAUuL6aGM9oqamP33KC) | 2:24 | 2025-10-26 | 2025-11-29 |
 | [Crepúsculo](https://open.spotify.com/track/6dIVkRxL84oaksSfn83mju) | [Custódio Rezende](https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ), [Oswaldo Amorim](https://open.spotify.com/artist/7fysFxMz5bhFGyyAsSAnpw), [Mauricio Einhorn](https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI), [Natan Gomes](https://open.spotify.com/artist/57aSF4VSCksYMH8wXqwsnu) | [Crepúsculo](https://open.spotify.com/album/1tMb3XTObtbvMB5nB6x5Gg) | 5:59 | 2026-04-28 | 2026-05-29 |
 | [Critical Mass](https://open.spotify.com/track/4spaTikylB1WV0ckpALzH7) | [Shiny Baubles](https://open.spotify.com/artist/2GfcjLOZP7VNM2uI6ZPOVj) | [Critical Mass](https://open.spotify.com/album/1A6frMXAG6GRbl9SJMbR6S) | 2:43 | 2026-07-01 |  |
@@ -2096,6 +2096,7 @@
 | [that kinda girl](https://open.spotify.com/track/0bjWRP9SAOrUftF5nkBZKV) | [valentié](https://open.spotify.com/artist/1smtSrorIh5e6oODXmkbv5), [Gety](https://open.spotify.com/artist/113KLXg1S1nSl6hIjurBRP) | [that kinda girl](https://open.spotify.com/album/4Ih2lmOU71e6U0PPmsmk3G) | 2:17 | 2026-01-04 | 2026-02-05 |
 | [The Angels and Flutes](https://open.spotify.com/track/5hmAJzeiCkq718PYr14Zmy) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [The Angels and Flutes](https://open.spotify.com/album/4GepKdmM76MiexKL2PPrbS) | 4:24 | 2026-04-03 | 2026-07-13 |
 | [The Apocalypse](https://open.spotify.com/track/6iJzuKdprEFq2kmofPkJqY) | [MB1496](https://open.spotify.com/artist/6uXV2A8nGRSbJTVHF8qeEN) | [Not The End?](https://open.spotify.com/album/05Klqv95GuBa8jKESQYY4t) | 3:06 | 2025-12-18 | 2026-01-24 |
+| [The Art of Sinking](https://open.spotify.com/track/550DPoFnDQOEBkqDVShJ25) | [Brasco](https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06) | [The Art of Sinking](https://open.spotify.com/album/0es5Ek0jXawyp6AHXRPDeF) | 3:22 | 2026-07-26 |  |
 | [The Beautiful Dissolution](https://open.spotify.com/track/3ksVA3QdIiqhbLvjTHoHJE) | [Tambarch](https://open.spotify.com/artist/3wWQnjNreKJB0tEUXEXq08) | [Cimmera](https://open.spotify.com/album/2pfMUpkBZ8TQoTNbLBMWbY) | 3:12 | 2025-12-12 | 2026-01-15 |
 | [The Black Hole \(Instrumental\)](https://open.spotify.com/track/2C0z0Z6UiY6A6HveJhMm7P) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [The Black Hole \(Instrumental\)](https://open.spotify.com/album/06ZeLPOFh1O3XgZOuIkxxd) | 4:14 | 2025-10-04 |  |
 | [THE CALL I NEVER MADE](https://open.spotify.com/track/20rBzBZMpEDVcXZeczDTWE) | [Mr.Nak](https://open.spotify.com/artist/6KE02eyElR3My7oOowtvU7) | [THE CALL I NEVER MADE](https://open.spotify.com/album/1NaCcsUte5gjYTWdLFB3Ae) | 3:07 | 2026-06-28 |  |

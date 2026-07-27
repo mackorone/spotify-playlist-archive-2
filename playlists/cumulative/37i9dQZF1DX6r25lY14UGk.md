@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Kamdenboy & Kyraboo
 
-1,189 songs - 2 day 0 hr 16 min
+1,190 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Big Red Ute](https://open.spotify.com/track/0bkiSDHL1ZuQ8bPZRQ5vFI) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Big Red Ute](https://open.spotify.com/album/1HqaEKusGhe7DBbqqdJuN4) | 2:42 | 2024-10-11 | 2025-03-08 |
 | [Bin Night](https://open.spotify.com/track/5VjJJ22yXHpgzaAX4t10gQ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Bin Night](https://open.spotify.com/album/0qHpNfVFUS5JWvhZQJNPFz) | 1:58 | 2024-08-02 | 2025-03-08 |
 | [Bird Song](https://open.spotify.com/track/4p2jnkPVrdwGYMiH9fwUMs) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Bird Song](https://open.spotify.com/album/0Yj9WWoojUiqdvJYayIYU8) | 2:06 | 2024-03-29 | 2024-08-24 |
+| [Birds](https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Fantastic Voyages \(Deluxe Edition\)](https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA) | 2:11 | 2026-07-26 |  |
 | [Birthday Bonanza \- Skye's Music Party](https://open.spotify.com/track/0q4hkNaMQ6B0F8IdFc01mr) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Birthday Bonanza \(Skye's Music Party\)](https://open.spotify.com/album/7d2Ken2gkhL0mhRamBq3kF) | 2:02 | 2025-10-10 | 2026-03-21 |
 | [Blazing Amazing](https://open.spotify.com/track/77bp2pz48Fs64n5v1BrATK) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Blazing Amazing](https://open.spotify.com/album/28BgT315GLpJVn4tO23WrK) | 2:10 | 2024-06-28 | 2025-03-08 |
 | [Blippi Wiggle](https://open.spotify.com/track/15gkovxifchHoS4XvoHYe5) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Wiggle](https://open.spotify.com/album/0H3s22w5so8szwANDs1p9s) | 2:13 | 2024-05-31 | 2025-03-08 |
@@ -775,7 +776,7 @@
 | [Peter, Peter Pickle Eater](https://open.spotify.com/track/4k3DjHmEO59MyihDLvGlcm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Peter, Peter Pickle Eater](https://open.spotify.com/album/2LzJHIuWqawRpxyoALCGRI) | 1:40 | 2024-07-26 | 2025-03-08 |
 | [Pets Are the Best](https://open.spotify.com/track/7yRwJX9D4U8IUCbEhgh1gm) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Neighborhood Pets](https://open.spotify.com/album/0XUoWrmuJAINHQ3pehCaua) | 1:13 | 2026-05-29 |  |
 | [Phonics Song](https://open.spotify.com/track/4v4IGlUUUF2j51T3XXXSSu) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Phonics Song & Circle Time Songs](https://open.spotify.com/album/4PjNoS7VeQjAl7DpO9gTsA) | 2:42 | 2025-03-21 | 2025-07-21 |
-| [Pickles Nursery Rhyme](https://open.spotify.com/track/2Vrd0yqw3QlJuCNvj3CUnm) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Pickles Nursery Rhyme](https://open.spotify.com/album/7hED7OqnreKaU0flEcgAN1) | 0:56 | 2026-06-12 |  |
+| [Pickles Nursery Rhyme](https://open.spotify.com/track/2Vrd0yqw3QlJuCNvj3CUnm) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Pickles Nursery Rhyme](https://open.spotify.com/album/7hED7OqnreKaU0flEcgAN1) | 0:56 | 2026-06-12 | 2026-07-27 |
 | [Piggle Wiggle](https://open.spotify.com/track/1ynbpit9rExgCccCH51iIS) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Piggle Wiggle](https://open.spotify.com/album/7yczGle2QmWtyZs0nfswcC) | 3:03 | 2024-06-21 | 2025-03-08 |
 | [Pillow Fort Song](https://open.spotify.com/track/0IHRM0JHDKNgae74AP6Tp8) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [10 Years of Curiosity](https://open.spotify.com/album/1y0wRZBLHaq5Mac8ekav5R) | 2:06 | 2024-12-13 | 2025-03-08 |
 | [Pineapple People](https://open.spotify.com/track/1l1KEQISk3IXWk1kbSmdvI) | [The Vegetable Plot](https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih) | [Pineapple People](https://open.spotify.com/album/2UCriQfncFhcz5jrgDCnLv) | 3:46 | 2024-05-10 | 2025-03-08 |

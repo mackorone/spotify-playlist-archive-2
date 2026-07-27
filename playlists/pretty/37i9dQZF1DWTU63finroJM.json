@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86266,
+  "num_followers": 86264,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "First Times",
-        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "CONTACTO CONTACTO",
         "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 185118,
       "name": "No pega igual (Stuck on replay)",
       "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "Solo Ama",
+        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
+      },
+      "artists": [
+        {
+          "name": "El Bobo de las 3000",
+          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        }
+      ],
+      "duration_ms": 210097,
+      "name": "Solo Ama",
+      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "stupid cupid luv!",
         "url": "https://open.spotify.com/album/09wOvte9tt0c4XXtQVI1ny"
       },
@@ -355,38 +371,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Something Out Of Nothing",
-      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Solo Ama",
-        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
-      },
-      "artists": [
-        {
-          "name": "El Bobo de las 3000",
-          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
-        }
-      ],
-      "duration_ms": 210097,
-      "name": "Solo Ama",
-      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "failed tailors",
-        "url": "https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05"
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
       },
       "artists": [
         {
-          "name": "MISTER TWO FIVE",
-          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
         }
       ],
-      "duration_ms": 162680,
-      "name": "failed tailors",
-      "url": "https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554"
+      "duration_ms": 206338,
+      "name": "Something Out Of Nothing",
+      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -431,6 +415,22 @@
       "duration_ms": 145333,
       "name": "Speed",
       "url": "https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "failed tailors",
+        "url": "https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05"
+      },
+      "artists": [
+        {
+          "name": "MISTER TWO FIVE",
+          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "failed tailors",
+      "url": "https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554"
     },
     {
       "added_at": "2026-07-24 13:00:01",

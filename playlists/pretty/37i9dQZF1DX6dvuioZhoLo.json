@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover:  Presley Haile",
-  "num_followers": 315343,
+  "num_followers": 315357,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "Cardinal Sin (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 214440,
       "name": "Cardinal Sin (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 133695,
       "name": "Tequila or Whiskey",
       "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Drive & Cry",
         "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Lavender Cowboy",
-        "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
       },
       "artists": [
         {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        },
-        {
-          "name": "H.C. McEntire",
-          "url": "https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4"
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
         }
       ],
-      "duration_ms": 193555,
-      "name": "Lavender Cowboy",
-      "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -843,18 +823,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
+        "name": "Lavender Cowboy",
+        "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
       "artists": [
         {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        },
+        {
+          "name": "H.C. McEntire",
+          "url": "https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4"
         }
       ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+      "duration_ms": 193555,
+      "name": "Lavender Cowboy",
+      "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -871,6 +855,22 @@
       "duration_ms": 176335,
       "name": "Good While It Lasted",
       "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
+      },
+      "artists": [
+        {
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
+        }
+      ],
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Tom Turkey (Alternate Version)",
         "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 234656,
       "name": "Tom Turkey - Alternate Version",
       "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2026-07-17 04:01:13",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-07-17 04:01:13",
       "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
+      },
+      "artists": [
+        {
+          "name": "Adam Chaffins",
+          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
+    },
+    {
+      "added_at": "2026-07-17 04:01:13",
+      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
-    },
-    {
-      "added_at": "2026-07-17 04:01:13",
-      "album": {
-        "name": "Lucky Me",
-        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
-      },
-      "artists": [
-        {
-          "name": "Adam Chaffins",
-          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Lucky Me",
-      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
     },
     {
       "added_at": "2026-07-17 04:01:13",

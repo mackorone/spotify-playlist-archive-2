@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-75 songs - 4 hr 29 min
+76 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 | 2025-08-04 |  |
 | [The Party Must Go On](https://open.spotify.com/track/7F5EJZwssUNp4WaNDtGTDM) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [The Party Must Go On](https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza) | 3:45 | 2026-05-04 |  |
 | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/track/2nMbuh2nlVV0DWraJ21Jhu) | [Debt Shop Boi](https://open.spotify.com/artist/4N47g08XQf481GOUHDaUl9) | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF) | 3:10 | 2025-07-13 | 2026-05-19 |
+| [Three Things](https://open.spotify.com/track/5DF4pwwaU5GUwhAwEGNoFS) | [Cosmic Souls](https://open.spotify.com/artist/21khCytzgwhF3crY0ifDoC) | [Three Things](https://open.spotify.com/album/0q0ZXKeKl9fOIaJOkeaCEM) | 5:57 | 2026-07-26 |  |
 | [Time](https://open.spotify.com/track/4uVRMIKwDMBIH8C2ha2N70) | [juii](https://open.spotify.com/artist/7rJOU9thBiM4SmA6vSwHYw) | [Time](https://open.spotify.com/album/6tPjHey8PdjtJLBHgIMNzx) | 3:02 | 2025-02-15 | 2025-12-11 |
 | [To The Sea](https://open.spotify.com/track/6vE5CldyUzyex2SwEd9fcW) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [To The Sea](https://open.spotify.com/album/1FOplQTQ4T0YRtM33ETBxN) | 5:22 | 2024-05-20 | 2025-12-11 |
 | [Too Broke For Money](https://open.spotify.com/track/7b2Gsa6jg7gHWIj0Hnc29A) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo) | 2:03 | 2025-10-15 | 2025-12-11 |

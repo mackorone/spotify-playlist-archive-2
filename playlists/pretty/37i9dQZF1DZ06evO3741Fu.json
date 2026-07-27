@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAACUbka0+OpqJyRgW0kd69n0",
+  "snapshot_id": "amP8gAAAAAB1kzaxDlU0WWaKjJUxRYzv",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pompie Ballet 1971",
-        "url": "https://open.spotify.com/album/6AD3ZQMRlJD1WvpxFIwQkx"
+        "name": "Incantations for Tape, Precocious Noise and Early Electronica Pt.1",
+        "url": "https://open.spotify.com/album/70pM3i7Co4JWiYitNMOUMA"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 220171,
-      "name": "Pompie Ballet 1971",
-      "url": "https://open.spotify.com/track/6JU47q3FjM4qCb3BB51ZhQ"
+      "duration_ms": 37253,
+      "name": "Band 5: Rhythmic Variation, 2018 Remaster - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5FNfXkhaYlSh2pTmUjRZ9i"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 87675,
-      "name": "Beauty and the Beast, Pt. 1",
-      "url": "https://open.spotify.com/track/3MSsZnD275rZGclyYo4L8b"
+      "duration_ms": 243853,
+      "name": "Pulse Persephone",
+      "url": "https://open.spotify.com/track/5L1kkRgkl4ViC6Uab0HMkR"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incantations for Tape, Precocious Noise and Early Electronica Pt.1",
-        "url": "https://open.spotify.com/album/70pM3i7Co4JWiYitNMOUMA"
+        "name": "Pompie Ballet 1971",
+        "url": "https://open.spotify.com/album/6AD3ZQMRlJD1WvpxFIwQkx"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 37253,
-      "name": "Band 5: Rhythmic Variation, 2018 Remaster - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5FNfXkhaYlSh2pTmUjRZ9i"
+      "duration_ms": 220171,
+      "name": "Pompie Ballet 1971",
+      "url": "https://open.spotify.com/track/6JU47q3FjM4qCb3BB51ZhQ"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 243853,
-      "name": "Pulse Persephone",
-      "url": "https://open.spotify.com/track/5L1kkRgkl4ViC6Uab0HMkR"
+      "duration_ms": 87675,
+      "name": "Beauty and the Beast, Pt. 1",
+      "url": "https://open.spotify.com/track/3MSsZnD275rZGclyYo4L8b"
     },
     {
       "added_at": null,
@@ -272,13 +272,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "xname",
-          "url": "https://open.spotify.com/artist/1zD03h9YNsz1ozCOKVDkXN"
+          "name": "Magz Hall",
+          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
+        },
+        {
+          "name": "Mieko Shimizu",
+          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
         }
       ],
-      "duration_ms": 242826,
-      "name": "SEANCE",
-      "url": "https://open.spotify.com/track/7fqHfIuaHLL3i42EbCW8OW"
+      "duration_ms": 237920,
+      "name": "Folly Tower Blooms",
+      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
     },
     {
       "added_at": null,
@@ -308,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 44773,
-      "name": "Ascending and Decending Sequences of Varying Nature vi",
-      "url": "https://open.spotify.com/track/5Dxeuq3DaLU5fmpWCOpjBD"
+      "duration_ms": 52826,
+      "name": "Rhythmic Variations i",
+      "url": "https://open.spotify.com/track/4yO8htn0r3gjsAVYjkpgE7"
     },
     {
       "added_at": null,
@@ -340,13 +344,13 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Nwando Ebizie",
-          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
+          "name": "xname",
+          "url": "https://open.spotify.com/artist/1zD03h9YNsz1ozCOKVDkXN"
         }
       ],
-      "duration_ms": 229120,
-      "name": "The Art Of Living",
-      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
+      "duration_ms": 242826,
+      "name": "SEANCE",
+      "url": "https://open.spotify.com/track/7fqHfIuaHLL3i42EbCW8OW"
     },
     {
       "added_at": null,
@@ -384,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 52826,
-      "name": "Rhythmic Variations i",
-      "url": "https://open.spotify.com/track/4yO8htn0r3gjsAVYjkpgE7"
+      "duration_ms": 44773,
+      "name": "Ascending and Decending Sequences of Varying Nature vi",
+      "url": "https://open.spotify.com/track/5Dxeuq3DaLU5fmpWCOpjBD"
     },
     {
       "added_at": null,
@@ -416,17 +420,13 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Magz Hall",
-          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
-        },
-        {
-          "name": "Mieko Shimizu",
-          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
+          "name": "Nwando Ebizie",
+          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
         }
       ],
-      "duration_ms": 237920,
-      "name": "Folly Tower Blooms",
-      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
+      "duration_ms": 229120,
+      "name": "The Art Of Living",
+      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 582173,
-      "name": "Ghost Hamlet",
-      "url": "https://open.spotify.com/track/6u0mEmA2x5MQtLT2q1GS6Y"
+      "duration_ms": 844733,
+      "name": "Frightened of Myself",
+      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 844733,
-      "name": "Frightened of Myself",
-      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
+      "duration_ms": 582173,
+      "name": "Ghost Hamlet",
+      "url": "https://open.spotify.com/track/6u0mEmA2x5MQtLT2q1GS6Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=608b4d7e29df4a3c">JEDSOUL</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,006 likes - 141 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,069 likes - 141 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

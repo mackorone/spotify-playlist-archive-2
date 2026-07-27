@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: kurayamisaka \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,324 likes - 73 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,332 likes - 73 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A Field Of Manmade Fires",
+        "url": "https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5"
+      },
+      "artists": [
+        {
+          "name": "BRSR",
+          "url": "https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286916,
+      "name": "All My Reasons",
+      "url": "https://open.spotify.com/track/2DAnhu2YNC6S3PA4tm2Ch9"
+    },
+    {
+      "album": {
         "name": "All of my Hours",
         "url": "https://open.spotify.com/album/1AT97gEgwF831B6rkIlYjL"
       },
@@ -3116,6 +3134,24 @@
       "duration_ms": 126320,
       "name": "Jimmie Rodgers",
       "url": "https://open.spotify.com/track/0F5Q5lS4avgv8oV4vDbF7b"
+    },
+    {
+      "album": {
+        "name": "A Field Of Manmade Fires",
+        "url": "https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5"
+      },
+      "artists": [
+        {
+          "name": "BRSR",
+          "url": "https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245121,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2s94PxF7yqcxrsVaaknPtJ"
     },
     {
       "album": {

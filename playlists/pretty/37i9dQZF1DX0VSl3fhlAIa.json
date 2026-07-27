@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 8718,
+  "num_followers": 8746,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-07-18 07:07:40",
       "album": {
+        "name": "\u7de9\u308a\u3089\u3089",
+        "url": "https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv"
+      },
+      "artists": [
+        {
+          "name": "\u7b20\u539f\u7460\u6597",
+          "url": "https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr"
+        }
+      ],
+      "duration_ms": 240506,
+      "name": "\u7de9\u308a\u3089\u3089",
+      "url": "https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73"
+    },
+    {
+      "added_at": "2026-07-18 07:07:40",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 264006,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5"
-    },
-    {
-      "added_at": "2026-07-18 07:07:40",
-      "album": {
-        "name": "\u7de9\u308a\u3089\u3089",
-        "url": "https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv"
-      },
-      "artists": [
-        {
-          "name": "\u7b20\u539f\u7460\u6597",
-          "url": "https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr"
-        }
-      ],
-      "duration_ms": 240506,
-      "name": "\u7de9\u308a\u3089\u3089",
-      "url": "https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73"
     },
     {
       "added_at": "2026-07-18 07:07:40",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-07-18 07:07:40",
       "album": {
+        "name": "When was that",
+        "url": "https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "no pride",
+      "url": "https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X"
+    },
+    {
+      "added_at": "2026-07-18 07:07:40",
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 209600,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M"
-    },
-    {
-      "added_at": "2026-07-18 07:07:40",
-      "album": {
-        "name": "When was that",
-        "url": "https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB"
-      },
-      "artists": [
-        {
-          "name": "Sincere",
-          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "no pride",
-      "url": "https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X"
     },
     {
       "added_at": "2026-07-18 07:07:40",
@@ -835,18 +835,22 @@
     {
       "added_at": "2026-07-18 07:07:40",
       "album": {
-        "name": "NICO",
-        "url": "https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U"
+        "name": "Rock the Boat",
+        "url": "https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR"
       },
       "artists": [
         {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
         }
       ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP"
+      "duration_ms": 268000,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc"
     }
   ],
   "unique_name": "Kimono R&B",

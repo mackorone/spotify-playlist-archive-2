@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
 | 20 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
 | 21 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
-| 22 | [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 |
-| 23 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
+| 22 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
+| 23 | [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 |
 | 24 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 25 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
 | 26 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 36 | [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 |
 | 37 | [after i left](https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [after i left](https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A) | 1:53 |
 | 38 | [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 |
-| 39 | [7ayati](https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [7ayati](https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms) | 2:31 |
-| 40 | [In The House](https://open.spotify.com/track/3EhJsEMhuTLPqdfuAqNjqC) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Chrome Maxell](https://open.spotify.com/album/2w3drgt7Ke9Z83ZFCLyOEb) | 2:34 |
-| 41 | [Nah Nah](https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Bingo!](https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC) | 2:07 |
+| 39 | [Nah Nah](https://open.spotify.com/track/0oIwCUL8r2XDNYcYZ2PuuD) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Bingo!](https://open.spotify.com/album/6TRNx1xO2gLDKHd85qtNOC) | 2:07 |
+| 40 | [7ayati](https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [7ayati](https://open.spotify.com/album/3UGMlvp7syKa9ze1hNkhms) | 2:31 |
+| 41 | [In The House](https://open.spotify.com/track/3EhJsEMhuTLPqdfuAqNjqC) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Chrome Maxell](https://open.spotify.com/album/2w3drgt7Ke9Z83ZFCLyOEb) | 2:34 |
 | 42 | [Time of Your Life](https://open.spotify.com/track/1mK6XmC8hkJKyKzZfkmaZ3) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Four Days in June](https://open.spotify.com/album/0mESueswYCXof6azv7pUjs) | 3:44 |
 | 43 | [mess in a dress](https://open.spotify.com/track/5XKXxYFSMTstk992dG9gS3) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [it's all a mess!](https://open.spotify.com/album/6wPK2AZAx7gi2pGuL5CJ1V) | 3:29 |
 | 44 | [EVIDENT 2 ME](https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [EVIDENT 2 ME](https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7) | 1:50 |

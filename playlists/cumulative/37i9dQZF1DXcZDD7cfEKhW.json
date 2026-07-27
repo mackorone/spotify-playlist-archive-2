@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Stella Lefty",
   "name": "Pop Remix",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 167619,
       "name": "Before You Leave Me - TELYKAST Remix",
       "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
@@ -1398,6 +1398,28 @@
       "duration_ms": 212880,
       "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv"
     },
     {
       "album": {
@@ -4556,7 +4578,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 121904,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
@@ -7354,6 +7376,28 @@
       "duration_ms": 172694,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/3hHMzB7MDbmj9DYVHqju9T"
+    },
+    {
+      "album": {
+        "name": "Lucky Again (Rebecca & Fiona Remix)",
+        "url": "https://open.spotify.com/album/2ahQrzRf6r4aOUdcAe7KxG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "Lucky Again (Rebecca & Fiona Remix)",
+      "url": "https://open.spotify.com/track/3rAzkMG0n8S9LE77djR004"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,368 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,390 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daily Bundle](https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Daily Bundle](https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh) | 2:41 |
 | 2 | [what do i know](https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [what do i know](https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF) | 2:38 |
 | 3 | [Terms & Conditions](https://open.spotify.com/track/4VMxherKJ6IZbwohaiaRru) | [Nessim](https://open.spotify.com/artist/7cZqF4bgEvw6txGKjL4QGh), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Terms & Conditions](https://open.spotify.com/album/4Jajjc0uUBlzH1YtnlfpF2) | 2:48 |
-| 4 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 4 | [Forgotten \- Live](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 5 | [Nzigulawo II](https://open.spotify.com/track/3dbaGmJXWA6JZAOa6Xny0g) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Nzigulawo II](https://open.spotify.com/album/3ic31cwPvzbVPoEVAsELth) | 3:02 |
 | 6 | [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah Diet](https://open.spotify.com/artist/1q854nDzMdqEarEJI8vq8c) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 |
 | 7 | [Sometimes Love](https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Sometimes Love](https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc) | 5:07 |

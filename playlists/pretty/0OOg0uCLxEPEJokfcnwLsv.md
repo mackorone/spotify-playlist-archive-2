@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,183 likes - 141 songs - 8 hr 44 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,186 likes - 142 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 139 | [Lights Down](https://open.spotify.com/track/7ihxR27tybU9Kf5tx3Rnbg) | [Baby Richman](https://open.spotify.com/artist/0Rflnb0WvYeuK5B6AHVSXE) | [Lights Down](https://open.spotify.com/album/21S1PqYmW5l0WF1uUluF7s) | 3:13 |
 | 140 | [c'mon automaton](https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [c'mon automaton](https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g) | 3:42 |
 | 141 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
+| 142 | [Sail Close To The Wind](https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 4:06 |
 
-Snapshot ID: `AAAGs4FSh9OA9PQWPVAf5nWX/ZJClfip`
+Snapshot ID: `AAAGtNneihLitmcA3aFc0QBbTqKbiSZd`

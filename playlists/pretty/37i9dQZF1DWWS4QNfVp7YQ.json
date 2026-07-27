@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 103307,
+  "num_followers": 103326,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Locos Only",
         "url": "https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 171586,
       "name": "Mi Cumbia!",
       "url": "https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Al\u00f3cate",
+        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
+      },
+      "artists": [
+        {
+          "name": "Kanimals",
+          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
+        }
+      ],
+      "duration_ms": 201543,
+      "name": "Al\u00f3cate",
+      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Al\u00f3cate",
-        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
-      },
-      "artists": [
-        {
-          "name": "Kanimals",
-          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
-        }
-      ],
-      "duration_ms": 201543,
-      "name": "Al\u00f3cate",
-      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Teneloa Kuikayotl",
-        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
       },
       "artists": [
         {
           "name": "Syztema",
           "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        },
-        {
-          "name": "Klpuyi",
-          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
         }
       ],
-      "duration_ms": 174423,
-      "name": "Teneloa Kuikayotl",
-      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -795,18 +791,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+        "name": "Teneloa Kuikayotl",
+        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
       },
       "artists": [
         {
           "name": "Syztema",
           "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        },
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
         }
       ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+      "duration_ms": 174423,
+      "name": "Teneloa Kuikayotl",
+      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
     },
     {
       "added_at": "2024-07-05 22:41:57",

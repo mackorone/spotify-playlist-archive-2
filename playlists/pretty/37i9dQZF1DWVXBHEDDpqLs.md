@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks ⚔️ starring deBasement ⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,782 likes - 117 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,794 likes - 117 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

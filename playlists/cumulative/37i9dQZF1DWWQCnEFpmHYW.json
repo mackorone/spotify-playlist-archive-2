@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 133476,
       "name": "Another Rainy Day",
       "url": "https://open.spotify.com/track/1BQJ4esJ7hiAtK0kCQgNxX"
@@ -2062,6 +2062,24 @@
       "duration_ms": 201061,
       "name": "Rain Drops",
       "url": "https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR"
+    },
+    {
+      "album": {
+        "name": "Rain From The Hammock",
+        "url": "https://open.spotify.com/album/3WfkANsRJTObqrVfMSSIRo"
+      },
+      "artists": [
+        {
+          "name": "Biolume",
+          "url": "https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Rain From The Hammock",
+      "url": "https://open.spotify.com/track/7FrO4p5e3RbUzHZ2EPAofP"
     },
     {
       "album": {

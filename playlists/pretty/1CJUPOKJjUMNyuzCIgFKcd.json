@@ -1,6 +1,6 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21786,
+  "num_followers": 21782,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
@@ -143,17 +143,21 @@
     {
       "added_at": "2026-06-26 21:22:23",
       "album": {
-        "name": "First Round Draft Pick",
+        "name": "First Round Draft Pick (feat. TrapLordSlime)",
         "url": "https://open.spotify.com/album/0emLuDW594Jzjy4Qqt6TSL"
       },
       "artists": [
         {
           "name": "HoodRich Pablo Juan",
           "url": "https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer"
+        },
+        {
+          "name": "TrapLordSlime",
+          "url": "https://open.spotify.com/artist/4PAzLj6CCmN3ERG5Xdi0gO"
         }
       ],
       "duration_ms": 132681,
-      "name": "First Round Draft Pick",
+      "name": "First Round Draft Pick (feat. TrapLordSlime)",
       "url": "https://open.spotify.com/track/426nOEXevpu1BTn3jupxzk"
     },
     {

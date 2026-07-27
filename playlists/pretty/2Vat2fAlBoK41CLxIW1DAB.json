@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEZjJzruz14QB/IjSBsq10WAuQcsyH",
+  "snapshot_id": "AAAEaVGmUs/3tCyCaT4xlJZg5hTAAMVG",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -17911,6 +17911,58 @@
       "duration_ms": 198003,
       "name": "Five Million Ways to Die",
       "url": "https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF"
+    },
+    {
+      "added_at": "2026-07-26 20:12:57",
+      "album": {
+        "name": "Nada Para el Final",
+        "url": "https://open.spotify.com/album/32RmbZnbq7AM5Q4Z9lWFbP"
+      },
+      "artists": [
+        {
+          "name": "Optional Ganesh",
+          "url": "https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5"
+        },
+        {
+          "name": "Germ\u00e1n Villanueva",
+          "url": "https://open.spotify.com/artist/7lzPFDJz9rjFD9LuT3qOXy"
+        }
+      ],
+      "duration_ms": 269231,
+      "name": "Nada Para el Final",
+      "url": "https://open.spotify.com/track/0mHf1ye1UPJtCpXtXU96qg"
+    },
+    {
+      "added_at": "2026-07-26 20:12:59",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y"
+      },
+      "artists": [
+        {
+          "name": "The Opposite Of Falling",
+          "url": "https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo"
+        }
+      ],
+      "duration_ms": 254485,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/3IOiro4TIqIr5iDIxqfIOw"
+    },
+    {
+      "added_at": "2026-07-26 20:13:00",
+      "album": {
+        "name": "Good Friends & Bad Decisions",
+        "url": "https://open.spotify.com/album/2onXjgWRzTud7vk1OrBvbG"
+      },
+      "artists": [
+        {
+          "name": "Be Quiet Brenna",
+          "url": "https://open.spotify.com/artist/2xoRLPY284eB59QCr3J9aT"
+        }
+      ],
+      "duration_ms": 203932,
+      "name": "Good Friends & Bad Decisions",
+      "url": "https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY"
     }
   ],
   "unique_name": "Rock Square",

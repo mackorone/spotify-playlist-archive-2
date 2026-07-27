@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: the paddles
 
-1,887 songs - 4 day 18 hr 9 min
+1,888 songs - 4 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [NATSUKAZE](https://open.spotify.com/track/1bCeQaOaXqIWifB0dBaLdE) | [Layla](https://open.spotify.com/artist/4Q5OpekUpql188omiYrEdv) | [NATSUKAZE](https://open.spotify.com/album/38wZ4uHwvZuAUy2nEItDGH) | 2:35 | 2025-05-27 | 2025-06-04 |
 | [natsunozanzou](https://open.spotify.com/track/7gDj9XLsNvmqt2YEW2MVSa) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [natsunozanzou](https://open.spotify.com/album/55kerHKk89H8hkeXDrzgxn) | 3:22 | 2026-07-08 | 2026-07-17 |
 | [Natsuyo](https://open.spotify.com/track/6HYGsUIBgwJDgqqSAeC2ku) | [Romanha Marshmallow](https://open.spotify.com/artist/0n3dfho50EKlK7HJOZEJ03) | [Natsuyo](https://open.spotify.com/album/0f3BpWCXyl2eHUaQFQs0Dy) | 3:23 | 2025-07-22 | 2025-07-30 |
-| [NEMURENAI YORU](https://open.spotify.com/track/3kLw7SxUhueH0qqUvHlfNc) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [NEMURENAI YORU](https://open.spotify.com/album/37VWkCmYuB1SzDeByPebnT) | 2:48 | 2026-07-08 |  |
+| [NEMURENAI YORU](https://open.spotify.com/track/3kLw7SxUhueH0qqUvHlfNc) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [NEMURENAI YORU](https://open.spotify.com/album/37VWkCmYuB1SzDeByPebnT) | 2:48 | 2026-07-08 | 2026-07-27 |
 | [Neon Lights](https://open.spotify.com/track/37DPCkX9g7DK0RoCQS0aFJ) | [WORSTRASH](https://open.spotify.com/artist/6NQKZrJy0f4GVdBXfs6m4p) | [Neon Lights](https://open.spotify.com/album/6FhTobin9OCWbre2asODCp) | 1:41 | 2025-04-08 | 2025-04-16 |
 | [Neptune](https://open.spotify.com/track/5ie87sMCiBIV3gxyejXNui) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Neptune](https://open.spotify.com/album/6OyzxDepRyonDq53G3kUPU) | 3:18 | 2023-12-19 | 2024-01-10 |
 | [Neptune](https://open.spotify.com/track/6uYCmq0RdnSSyMbue7DV6B) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Neptune](https://open.spotify.com/album/47DC2eyD333Bp74jssM835) | 3:18 | 2023-12-19 | 2023-12-21 |
@@ -1778,6 +1778,7 @@
 | [結目](https://open.spotify.com/track/2HwYkUxWgPE0DUwWQwIKSM) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [It's myself](https://open.spotify.com/album/3LbkhkpzZ9cgpoLcy2fvbX) | 3:49 | 2025-05-21 | 2025-08-20 |
 | [絶命](https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [絶命](https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz) | 4:36 | 2025-07-01 | 2026-02-12 |
 | [絶縁](https://open.spotify.com/track/3jfBAo3lzwD75pOtRQiGY1) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [絶縁](https://open.spotify.com/album/5rpUla5D8iqwDebEU9OgfP) | 6:30 | 2026-05-19 |  |
+| [縁のつき](https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl) | [KI\_EN](https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5) | [縁のつき](https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ) | 3:36 | 2026-07-21 |  |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-08-01 | 2026-02-12 |
 | [美女と野獣](https://open.spotify.com/track/4AJ5EtRjaZuu7xdBPJBZCu) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [美女と野獣](https://open.spotify.com/album/6GE6ZhJonvfaIEqBCqawDl) | 4:10 | 2024-04-02 | 2024-07-01 |
 | [群青謳歌](https://open.spotify.com/track/5qghy9FhJe4NP4639zFjMn) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [群青謳歌](https://open.spotify.com/album/3Rk5UO0XrkQlUxvExmc55z) | 3:53 | 2023-08-15 | 2023-08-17 |

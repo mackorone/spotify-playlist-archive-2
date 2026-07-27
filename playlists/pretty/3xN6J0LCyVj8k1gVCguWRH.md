@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This is a prediction playlist, based on Obama&\#x27;s taste.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,459 likes - 186 songs - 10 hr 49 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,460 likes - 186 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

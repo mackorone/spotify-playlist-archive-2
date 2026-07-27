@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 13275,
+  "num_followers": 13276,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
-        "name": "Mier macheds",
-        "url": "https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb"
-      },
-      "artists": [
-        {
-          "name": "Fratelli-B",
-          "url": "https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY"
-        },
-        {
-          "name": "C.mEE",
-          "url": "https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Kei Respekt",
-      "url": "https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
         "name": "10 Tracks - Vol. 4",
         "url": "https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 400120,
       "name": "Track 05",
       "url": "https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
+        "name": "Mier macheds",
+        "url": "https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb"
+      },
+      "artists": [
+        {
+          "name": "Fratelli-B",
+          "url": "https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY"
+        },
+        {
+          "name": "C.mEE",
+          "url": "https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Kei Respekt",
+      "url": "https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ"
     },
     {
       "added_at": "2026-03-19 09:16:31",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
         "name": "L\u00e4benslauf",
         "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 242293,
       "name": "L\u00e4benslauf",
       "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2026-03-19 09:16:31",

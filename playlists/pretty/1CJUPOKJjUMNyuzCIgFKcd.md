@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,786 likes - 76 songs - 3 hr 31 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,782 likes - 76 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 5 | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s) | 3:14 |
 | 6 | [LOVE AGAIN](https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7) | 3:36 |
 | 7 | [Run It Back](https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Run It Back](https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy) | 2:17 |
-| 8 | [First Round Draft Pick](https://open.spotify.com/track/426nOEXevpu1BTn3jupxzk) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [First Round Draft Pick](https://open.spotify.com/album/0emLuDW594Jzjy4Qqt6TSL) | 2:12 |
+| 8 | [First Round Draft Pick \(feat\. TrapLordSlime\)](https://open.spotify.com/track/426nOEXevpu1BTn3jupxzk) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer), [TrapLordSlime](https://open.spotify.com/artist/4PAzLj6CCmN3ERG5Xdi0gO) | [First Round Draft Pick \(feat\. TrapLordSlime\)](https://open.spotify.com/album/0emLuDW594Jzjy4Qqt6TSL) | 2:12 |
 | 9 | [yeah bop 2](https://open.spotify.com/track/5Ca5QKoqtSYT1GzLvExfxE) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [yeah bop 2](https://open.spotify.com/album/7CtSfT0Yh3NBGZkYJpq3Pm) | 2:31 |
 | 10 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
 | 11 | [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 |

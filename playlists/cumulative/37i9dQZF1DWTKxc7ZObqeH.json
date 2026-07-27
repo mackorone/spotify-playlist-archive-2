@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Long Ago And Far Away",
+        "url": "https://open.spotify.com/album/2tNreTw9Fs57DkiLGTJTG1"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/70Mx5ManAQhfmWany4Ka57"
+    },
+    {
+      "album": {
         "name": "Looking At Stars",
         "url": "https://open.spotify.com/album/2iT554owkVqNwH1BcPTC6t"
       },

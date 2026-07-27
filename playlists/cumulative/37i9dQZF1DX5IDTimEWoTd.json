@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/5HK3UlrV1IYwkxmIUMfECm"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164052,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/7gWygVJ2P5CJTbSObBLy1M"
+    },
+    {
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -5600,7 +5618,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 178954,
       "name": "USE ME",
       "url": "https://open.spotify.com/track/5LAQvCXTaJl0ZRLcYENaiK"

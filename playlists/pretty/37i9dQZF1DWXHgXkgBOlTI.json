@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u4e0b\u4e2d\u6d0b\u4ecb",
-  "num_followers": 33121,
+  "num_followers": 33124,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR"
     },
     {
+      "added_at": "2026-07-21 16:00:22",
+      "album": {
+        "name": "Cross View (from \"UNTITLED\" 2026 Take)",
+        "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 286501,
+      "name": "Cross View - from \"UNTITLED\" 2026 Take",
+      "url": "https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd"
+    },
+    {
       "added_at": "2026-04-28 15:00:59",
       "album": {
         "name": "Susanna",
@@ -619,22 +635,6 @@
       "duration_ms": 452866,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
-    },
-    {
-      "added_at": "2026-07-21 16:00:22",
-      "album": {
-        "name": "Cross View (from \"UNTITLED\" 2026 Take)",
-        "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 286501,
-      "name": "Cross View - from \"UNTITLED\" 2026 Take",
-      "url": "https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd"
     },
     {
       "added_at": "2026-04-28 15:00:59",

@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 74 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 |
 | 75 | [Oh Lord \- Dance Mix](https://open.spotify.com/track/3KvW2saxwzrwSawCq10HWr) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Oh Lord \(feat\. Pixie Lott\)](https://open.spotify.com/album/0jiK8Z621aREseX3nQaBjM) | 2:29 |
 | 76 | [Faller](https://open.spotify.com/track/4r8rbfAPNPgruiLZ5gIHqQ) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Toni Braxton](https://open.spotify.com/album/2BcHVk4npO1TxL74JEd9Gj) | 3:36 |
-| 77 | [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 |
+| 77 | [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 |
 | 78 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 |
 | 79 | [Reflections](https://open.spotify.com/track/1PXwnQuyIq5KipnXdh5BCf) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Reflections](https://open.spotify.com/album/6PVTGF1RVKqt3tFzm9B35D) | 3:12 |
 | 80 | [Subtitles](https://open.spotify.com/track/4rcuPpjHrjDiS2xvxzUigK) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe), [Kinetics](https://open.spotify.com/artist/6MbdoQknD1A8JsZByxbUmB) | [301 to Paradise Mixtape](https://open.spotify.com/album/7fkEYyakqwhcQyNemwQBMr) | 5:28 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcX1SAAAAABtckndpuYWI0CxPbmXyKWw`
+Snapshot ID: `AcX66AAAAAD/RD0wZ5zjllZJY8fyz3OO`

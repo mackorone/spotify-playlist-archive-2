@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 677975,
+  "num_followers": 677997,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAAC4O7LT7vzLGE67B6keL52z",
+  "snapshot_id": "amP8gAAAAAB3uyfitKursSB5Vhp8RrIW",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I No Longer Fear the Razor Guarding My Heel (II)",
-        "url": "https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 152136,
-      "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
-      "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XIII: The Atlantis Saga",
         "url": "https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 139246,
       "name": "New Chains, Same Shackles",
       "url": "https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel (II)",
+        "url": "https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 152136,
+      "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
+      "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,

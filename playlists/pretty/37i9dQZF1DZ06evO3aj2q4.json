@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 463163,
+  "num_followers": 463229,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAADyluEMl09tVg7zvzZqSBno",
+  "snapshot_id": "amP8gAAAAABBo09XlkuvaTf56dcn1FmG",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 206650,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/4RVhdgglsIYWPP4K4RfUzo"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
+      "duration_ms": 206650,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4RVhdgglsIYWPP4K4RfUzo"
     },
     {
       "added_at": null,

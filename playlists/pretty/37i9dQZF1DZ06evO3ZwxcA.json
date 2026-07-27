@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 79853,
+  "num_followers": 79852,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAAC7RT15s6PCnBVyzoPclz4U",
+  "snapshot_id": "amP8gAAAAABI3kL4iAat7VkfnDnHWVgq",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 272546,
-      "name": "Goodbye for Now",
-      "url": "https://open.spotify.com/track/6UO0TGTr33kZLXG4PxRYZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE",
       "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 272546,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/6UO0TGTr33kZLXG4PxRYZx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 7 hr 8 min
+124 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Fire](https://open.spotify.com/track/0nOqsRsL5YcbxiwbJ0gMjk) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8) | [Heartbreak On Hold \(Expanded Edition\)](https://open.spotify.com/album/37Kdd5ge3YN33y0jeudNOf) | 3:28 | 2024-02-27 |  |
 | [Flight 22](https://open.spotify.com/track/3iv26BUAWSn83q8rhGKPE8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:36 | 2024-02-27 |  |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2024-02-27 |  |
-| [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 | 2026-04-11 |  |
+| [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 | 2026-07-26 |  |
+| [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 | 2026-04-11 | 2026-07-27 |
 | [Good At Being Lonely](https://open.spotify.com/track/4DooiStKq9tcTKGuQiSvpA) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 | 2024-02-27 |  |
 | [Good for You](https://open.spotify.com/track/6xkRlf3PL1rJrUWltDJh2o) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:54 | 2024-02-27 |  |
 | [Good Girl](https://open.spotify.com/track/267PdOKSJ1CbfO9Uvr4IZN) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Barbie Lets All Party 2011](https://open.spotify.com/album/4MBKfkni8hJGbZbtWCEoKY) | 3:55 | 2024-12-13 | 2025-04-03 |

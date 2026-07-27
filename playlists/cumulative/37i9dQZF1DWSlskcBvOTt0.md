@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,165 songs - 3 day 22 hr 37 min
+1,166 songs - 3 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
 | [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 | 2022-09-26 |
 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-03-10 | 2024-03-27 |
-| [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 | 2026-07-10 |  |
+| [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 | 2026-07-10 | 2026-07-27 |
 | [Cascada](https://open.spotify.com/track/5M5Lwtcha7fE8UQwSzIhjS) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Cascada](https://open.spotify.com/album/3pp75bcu0VJzigYnGfqcZd) | 4:38 | 2022-07-01 | 2022-07-22 |
 | [Cash Only](https://open.spotify.com/track/0sRtWWtsxrztPvnXWD1SM7) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Cash Only](https://open.spotify.com/album/5GdozmjqIYpkSqymsLKc6t) | 2:26 | 2024-12-06 | 2025-01-25 |
 | [Cash Only \- Andrea Oliva Remix](https://open.spotify.com/track/4wm7PC1t648ATT1pd8Zltr) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Cash Only \(Andrea Oliva Remix\)](https://open.spotify.com/album/3WpCmdQkMWxn0dJmfPtCfe) | 2:59 | 2025-01-24 | 2025-04-08 |
@@ -281,6 +281,7 @@
 | [Disko Axiom](https://open.spotify.com/track/34y5Y8P2RLdWOeu976BvTP) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx) | [Disko Axiom](https://open.spotify.com/album/4KLc86nrptyVfg56zeaZEu) | 4:27 | 2021-04-21 | 2022-09-26 |
 | [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 | 2024-05-03 | 2025-01-11 |
 | [Do It Again](https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z) | [Do It Again](https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL) | 3:05 | 2025-10-03 | 2026-07-11 |
+| [Doin' It All For The Culture](https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Doin' It All For The Culture](https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w) | 5:43 | 2026-07-24 |  |
 | [Don Rosado](https://open.spotify.com/track/2njSVgEXEDk8MFEPbu6ofn) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Don Rosado](https://open.spotify.com/album/58a8fF8y8lW1RR5eX98dTX) | 3:47 | 2026-01-16 | 2026-04-04 |
 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 | 2023-08-11 | 2024-04-19 |
 | [Don't Mind](https://open.spotify.com/track/3ozto6sQWW5OhYFIRoFI5w) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Don't Mind](https://open.spotify.com/album/4vF4lptdekBMTxDVjrUjfJ) | 3:23 | 2026-03-13 | 2026-07-18 |

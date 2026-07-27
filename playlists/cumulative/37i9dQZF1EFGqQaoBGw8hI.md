@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-739 songs - 2 day 3 hr 10 min
+740 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,8 @@
 | [Just Like Belgium \- Remastered 2003](https://open.spotify.com/track/0g04hQLDBQGedUIRDp1mmn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:09 | 2022-09-08 |  |
 | [Just Like Noah's Ark](https://open.spotify.com/track/4ebWknUfhc3lY4BtarK1z0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:33 | 2022-09-08 |  |
 | [Just Like Strange Rain](https://open.spotify.com/track/7vaH8FyS59d7Gyf8futbsP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:44 | 2022-09-08 |  |
-| [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 | 2022-09-08 |  |
+| [Kann Es Wirklich Liebe Sein](https://open.spotify.com/track/7GVqUxY38clcnKoudLsBMY) | [Alexandra Wilcke](https://open.spotify.com/artist/5PpKj1qtEelq9huzcnimO9), [Jocelyn B\. Smith](https://open.spotify.com/artist/0vAl3tVkST25gXLo3sIopW), [Ilja Richter](https://open.spotify.com/artist/3e6shNAdjKsxqMeIKJaP8Z), [Rainer Basedow](https://open.spotify.com/artist/0eun5te9eflPAd3OdQXtO8), [Cusch Jung](https://open.spotify.com/artist/1qhHmFpYXyUr90FJcAOgYE) | [Der König der Löwen Sonderausgabe](https://open.spotify.com/album/2LrcPkHBUfWdr2caUQaha6) | 2:59 | 2026-07-26 |  |
+| [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 | 2022-09-08 | 2026-07-27 |
 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 | 2022-09-08 |  |
 | [Keep It A Mystery](https://open.spotify.com/track/1AARvQLoXfnQstTo6eHJ8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:15 | 2022-09-08 |  |
 | [Kia Rite](https://open.spotify.com/track/2S0LM6YVNPZnKTdVdugCXw) | [Matu Ngaropo](https://open.spotify.com/artist/1jxps5V78K2U2J8sgm3dEM), [Ani\-Piki Tuari](https://open.spotify.com/artist/3gUxbylb1fT8jdb0NgzMXM), [Jase Te Patu](https://open.spotify.com/artist/4VpMhtWonYxwli0P1hFhpa) | [The Lion King Reo Māori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hHY5pxU9pAkDrFtVFCkwa) | 3:39 | 2024-12-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,736 likes - 149 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,838 likes - 149 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 145 | [Ifeoma \(Something good\)](https://open.spotify.com/track/5iJUaoGv7yVy6aEpjdkZMj) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Joy In Only You](https://open.spotify.com/album/6oluHt9qY8kBYROCs7cTux) | 2:40 |
 | 146 | [Follow Go](https://open.spotify.com/track/2MPRwenXMdmMFCin4RWkXL) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Follow Go](https://open.spotify.com/album/0KEcC3dZI9r54Q8I2417UN) | 2:53 |
 | 147 | [Light of the World](https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Light of the World](https://open.spotify.com/album/2AiocbPntbH30SXnX8rq9q) | 2:03 |
-| 148 | [Forgotten \(Live\)](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
+| 148 | [Forgotten \- Live](https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Forgotten \(Live\)](https://open.spotify.com/album/3aOSbxEXQPKl3n9Q8t26GE) | 3:03 |
 | 149 | [Walking on Water](https://open.spotify.com/track/39qfTzWknsUWBrw8QVIjEu) | [Wake](https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn), [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Godson](https://open.spotify.com/album/43ckl6kTjj6DjLsPae3Mui) | 2:49 |
 
 Snapshot ID: `AAAAAICgkVvAahAnlX9MqguzvfOVhy02`

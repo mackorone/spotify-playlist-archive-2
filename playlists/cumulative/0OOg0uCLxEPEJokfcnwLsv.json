@@ -7265,6 +7265,24 @@
     },
     {
       "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246646,
+      "name": "Sail Close To The Wind",
+      "url": "https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0"
+    },
+    {
+      "album": {
         "name": "Sally Feels Bad",
         "url": "https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa"
       },

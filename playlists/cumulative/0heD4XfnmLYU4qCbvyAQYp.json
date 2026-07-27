@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Bajo el Sol",
+        "url": "https://open.spotify.com/album/5xZ7eWuiEXPYI1Gew39wM5"
+      },
+      "artists": [
+        {
+          "name": "Mary Nena",
+          "url": "https://open.spotify.com/artist/0sAQ4d3Dx3Z7IVDeZy9bXL"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154990,
+      "name": "Bajo el Sol",
+      "url": "https://open.spotify.com/track/4JtZDo0l8Pga9n6BvgZ7S0"
+    },
+    {
+      "album": {
         "name": "Ante Todo",
         "url": "https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC"
       },
@@ -1328,6 +1346,24 @@
       "duration_ms": 277224,
       "name": "Lesson to Be Learned",
       "url": "https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp"
+    },
+    {
+      "album": {
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/5zm72aO0CU1HXwKUkdwboa"
+      },
+      "artists": [
+        {
+          "name": "FallenNFaded",
+          "url": "https://open.spotify.com/artist/3Ct1LFryNkGnWXa6BPqwkF"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180919,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/1oBqxv3lalzgjPdzeU6Dd6"
     },
     {
       "album": {

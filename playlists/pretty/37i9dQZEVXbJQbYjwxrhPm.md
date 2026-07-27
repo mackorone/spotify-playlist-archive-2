@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,852 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ne se iztrivash](https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Da gori v lyubov](https://open.spotify.com/album/2IoMC9LCOv4Ns9b5kSldYK) | 4:06 |
 | 50 | [Роклята ти пада](https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Yanitsa](https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR) | [Роклята ти пада](https://open.spotify.com/album/21G1yBasNLkT1pjFXbMG7f) | 3:50 |
 
-Snapshot ID: `MfgmoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mfl6eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

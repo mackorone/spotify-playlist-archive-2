@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-597 songs - 1 day 12 hr 59 min
+598 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 | 2025-12-13 | 2026-01-05 |
 | [Runnin](https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [TRUCKIN' EP](https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f) | 2:12 | 2026-04-03 | 2026-05-08 |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-07 | 2026-02-02 |
+| [Sail Close To The Wind](https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 4:06 | 2026-07-26 |  |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-21 | 2025-12-12 |
 | [Satu](https://open.spotify.com/track/2zBjzjeCTUG0ThIqwhutl8) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Satu](https://open.spotify.com/album/0k9XH2GEapyuRdAD6nH3Me) | 3:18 | 2025-11-02 | 2025-11-22 |
 | [Save Me](https://open.spotify.com/track/0GSW18Q6Gm2sXv5z8NmMro) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:39 | 2025-11-26 | 2026-01-05 |

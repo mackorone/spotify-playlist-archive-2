@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,784 likes - 265 songs - 13 hr 43 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,786 likes - 266 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 60 | [Morning Without Fear](https://open.spotify.com/track/2voUGXuJfsXKOgep0R7bY0) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [Morning Without Fear](https://open.spotify.com/album/6g0bACEBW0zy2pBtkI9cx5) | 3:21 |
 | 61 | [Saccharine](https://open.spotify.com/track/7rSoguqddGylCb54DKRywD) | [PINLIGHT](https://open.spotify.com/artist/2wlHFTJ0NseBKX1cfFCUfC) | [All Things Nice](https://open.spotify.com/album/1F4MNkTfVusB37NtKG6V18) | 3:11 |
 | 62 | [The Colors Fading](https://open.spotify.com/track/0LAdSHvs2SUz3ipMSCUMOu) | [Maddox Gipko](https://open.spotify.com/artist/1TbdCrJzwyGovQ6CUt9vY1) | [The Colors Fading](https://open.spotify.com/album/7FIlHfzgVwbYil7Havk5TQ) | 3:21 |
-| 63 | [Creekside Royalty](https://open.spotify.com/track/276gac7mx7tGzobVpBwH3N) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Creekside Royalty](https://open.spotify.com/album/6F6rmqFrtM5OUiGspgiNYU) | 2:34 |
+| 63 | [Creekside Royalty](https://open.spotify.com/track/276gac7mx7tGzobVpBwH3N) | [A\-T](https://open.spotify.com/artist/0HilBQEBE33hcuDrGzBfXJ) | [Creekside Royalty](https://open.spotify.com/album/6F6rmqFrtM5OUiGspgiNYU) | 2:34 |
 | 64 | [Home](https://open.spotify.com/track/2rladY7PQhqv8UJZX1BoPq) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Home](https://open.spotify.com/album/2nnmxCOWeuwXxG2PI3LmN3) | 3:08 |
 | 65 | [Don't Look Away](https://open.spotify.com/track/7JKSRwQE2JdzUtcZ3a4Prh) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Leo Bagel](https://open.spotify.com/artist/1dQ15Hx2wVHyoTro6o5hIx) | [Don't Look Away](https://open.spotify.com/album/1nfuO8I1Za0HuHjQQnvqJ8) | 3:22 |
 | 66 | [sonya](https://open.spotify.com/track/4nmYilBDQnbHLxTd7rb08q) | [luke lively](https://open.spotify.com/artist/3MNBWC4xUVXYxLiUTTzgYm) | [sonya](https://open.spotify.com/album/1oEtWBQ288bPSSgEeKShQ8) | 3:02 |
@@ -273,5 +273,6 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 263 | [Bet on Summer](https://open.spotify.com/track/51MTUTxlOLVj1CXNfJmy9g) | [Jason Jarrett](https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO) | [Bet on Summer](https://open.spotify.com/album/0ufMzHkK4aYg7EUUnOhGmx) | 3:34 |
 | 264 | [Amazing You](https://open.spotify.com/track/12fC2TPfwjHiWIoNCxUANj) | [Stoneland](https://open.spotify.com/artist/2DDyB5K9XaekqppI8MvpRJ) | [Amazing You](https://open.spotify.com/album/6Z2p5Yhqucs9mfRCP3vm2L) | 3:10 |
 | 265 | [so long\. \(freestyle\)](https://open.spotify.com/track/4pr3uwHUSPIvFbWLA2rYdg) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [so long\. \(freestyle\)](https://open.spotify.com/album/4MImRsjfrE6vVSkpFIsL07) | 2:29 |
+| 266 | [The Art of Sinking](https://open.spotify.com/track/550DPoFnDQOEBkqDVShJ25) | [Brasco](https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06) | [The Art of Sinking](https://open.spotify.com/album/0es5Ek0jXawyp6AHXRPDeF) | 3:22 |
 
-Snapshot ID: `AAA627a7eakntwgeCSdGuSG+lr4KGsYA`
+Snapshot ID: `AAA63I9TXa99UtyJJyQ4LHAagy4ClLG8`

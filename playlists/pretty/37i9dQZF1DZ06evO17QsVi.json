@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1236579,
+  "num_followers": 1236658,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAAB6WuahfsJiLQPOoXVbAfbK",
+  "snapshot_id": "amP8gAAAAACpGObe8udYzZkdRW9Ko2tn",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 257626,
       "name": "Better Dayz",
       "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "To Live & Die In L.A.",
-      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
     },
     {
       "added_at": null,
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 306200,
-      "name": "They Don't Give A F**** About Us",
-      "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
+      "duration_ms": 169600,
+      "name": "Still Ballin' - Nitty Remix",
+      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
     },
     {
       "added_at": null,
@@ -788,13 +788,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Still Ballin' - Nitty Remix",
-      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
+      "duration_ms": 306200,
+      "name": "They Don't Give A F**** About Us",
+      "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
     },
     {
       "added_at": null,

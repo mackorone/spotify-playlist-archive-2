@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أجدد الفنانين في مصر وأصوات جديدة من الفنانين اللي بتحبهم\. الغلاف: خفاش
 
-[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 602 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 10 | [OFF](https://open.spotify.com/track/2xPewsBXjoZMqk63u6fvd3) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [OFF](https://open.spotify.com/album/3d7lUD7dCS3IvUWKnh5E3O) | 2:43 |
 | 11 | [حطيني ف ستوري](https://open.spotify.com/track/0hG9KsyYwd8yNLNPQyPbna) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [حطيني ف ستوري](https://open.spotify.com/album/4UuFOIJTtS2wmRkBPZIWeg) | 3:05 |
 | 12 | [FRATELLO](https://open.spotify.com/track/6plmA7qCOgdxzUxisaVzuO) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [FRATELLO](https://open.spotify.com/album/1VfijmI9OZxRKix0vTRjwG) | 2:43 |
-| 13 | [Eh El Akhbar](https://open.spotify.com/track/3HcTeoLnW3GQVUyP9BEQYM) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Nazra](https://open.spotify.com/album/5m6xyBsH4PL7aMCUWGUbR8) | 2:24 |
+| 13 | [Eh El Akhbar](https://open.spotify.com/track/3HcTeoLnW3GQVUyP9BEQYM) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Nazra](https://open.spotify.com/album/5m6xyBsH4PL7aMCUWGUbR8) | 2:24 |
 | 14 | [Agmal Ensana](https://open.spotify.com/track/1pvvIvXiuBFRkw7y0ZPvNi) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Agmal Ensana](https://open.spotify.com/album/3Ng72kl3kXobSEl3zLWmGb) | 2:50 |
 | 15 | [ASWAT FE DMAGHI](https://open.spotify.com/track/55t9VXtOfTyEoA1rL5n1oD) | [Mado Sam](https://open.spotify.com/artist/1TZ6eoPxUeO9zJqdQtLdKz) | [DAIRA](https://open.spotify.com/album/00bjWCAT4kswzppeAnSRkd) | 2:16 |
 | 16 | [ZAHAB LA ROGOO3](https://open.spotify.com/track/5vpvSY1SrGougwEsdg3ayz) | [Jana](https://open.spotify.com/artist/5VMa28Yqtw5xld5O8HqNON), [ZAF](https://open.spotify.com/artist/5ECY1H5jJxfx7gEukvOAsU) | [KHAZAN A7ZAN](https://open.spotify.com/album/3cVNY8wXTFvCvyD2DVQ26A) | 2:40 |

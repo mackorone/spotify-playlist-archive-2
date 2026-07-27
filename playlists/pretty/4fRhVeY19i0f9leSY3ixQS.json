@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1578,
+  "num_followers": 1581,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASQif4mnlOtia46lXZSTKdJeZ2cw0i",
+  "snapshot_id": "AAASRjpQ1sT9kJBN/al04NI63RRIX7gE",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -5547,6 +5547,70 @@
       "duration_ms": 142195,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2pAephI8rAz9wXCjEmIKtm"
+    },
+    {
+      "added_at": "2026-07-26 11:13:28",
+      "album": {
+        "name": "Stealing Handshakes",
+        "url": "https://open.spotify.com/album/7GpwIkQovatVexeuHCPoIK"
+      },
+      "artists": [
+        {
+          "name": "Stealing Handshakes",
+          "url": "https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ"
+        }
+      ],
+      "duration_ms": 223972,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0146KIhplZ2hSvfx6NJyRf"
+    },
+    {
+      "added_at": "2026-07-26 11:13:14",
+      "album": {
+        "name": "Primetime Illusion",
+        "url": "https://open.spotify.com/album/6QLyW06Ak6SOBor0I8f2pA"
+      },
+      "artists": [
+        {
+          "name": "Trapper Schoepp",
+          "url": "https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS"
+        }
+      ],
+      "duration_ms": 220277,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/4or0yriYKsIKtl2X1oBWWX"
+    },
+    {
+      "added_at": "2026-07-26 11:12:58",
+      "album": {
+        "name": "The U.S. Soldier",
+        "url": "https://open.spotify.com/album/4RiUhyyiDgYwDMRT14QY6F"
+      },
+      "artists": [
+        {
+          "name": "Dark Lamb",
+          "url": "https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "U.S. Soldier - U.S. Soldier Alternate",
+      "url": "https://open.spotify.com/track/61tBAASH0ngAnzbndnRBii"
+    },
+    {
+      "added_at": "2026-07-26 11:16:38",
+      "album": {
+        "name": "Echo Of A Shadow",
+        "url": "https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L"
+      },
+      "artists": [
+        {
+          "name": "The Disorder Unit",
+          "url": "https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2"
+        }
+      ],
+      "duration_ms": 218038,
+      "name": "Succumber",
+      "url": "https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b"
     }
   ],
   "unique_name": "Spotify Radio",

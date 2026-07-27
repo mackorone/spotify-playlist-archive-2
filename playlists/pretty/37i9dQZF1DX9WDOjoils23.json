@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 43282,
+  "num_followers": 43318,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
+        "name": "Tu Mane Ya Na Mane",
+        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "duration_ms": 868387,
+      "name": "Tu Mane Ya Na Mane - Edit Version",
+      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
         "name": "Jogi",
         "url": "https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
-        "name": "Tu Mane Ya Na Mane",
-        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        }
-      ],
-      "duration_ms": 868387,
-      "name": "Tu Mane Ya Na Mane - Edit Version",
-      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
         "name": "Uchiyaan Lambiyaan",
         "url": "https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 525328,
       "name": "Uchiyaan Lambiyaan",
       "url": "https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
-        "name": "Pyar Hoyi Janda Ae (From \"Arjan\")",
-        "url": "https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT"
-      },
-      "artists": [
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Pyar Hoyi Janda Ae - From \"Arjan\"",
-      "url": "https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -551,6 +535,22 @@
       "duration_ms": 206895,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
+        "name": "Pyar Hoyi Janda Ae (From \"Arjan\")",
+        "url": "https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT"
+      },
+      "artists": [
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Pyar Hoyi Janda Ae - From \"Arjan\"",
+      "url": "https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
-        "name": "Treasured Moments",
-        "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
+        "name": "Ek Buta Ambi Da",
+        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
       },
       "artists": [
         {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+          "name": "Deedar Singh Pardesi",
+          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
         }
       ],
-      "duration_ms": 1174226,
-      "name": "Ve Sone Diyan Kangna",
-      "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
+      "duration_ms": 248554,
+      "name": "Raat Chanani Maen Turan",
+      "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
-        "name": "Ek Buta Ambi Da",
-        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
+        "name": "Treasured Moments",
+        "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
       },
       "artists": [
         {
-          "name": "Deedar Singh Pardesi",
-          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
         }
       ],
-      "duration_ms": 248554,
-      "name": "Raat Chanani Maen Turan",
-      "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
+      "duration_ms": 1174226,
+      "name": "Ve Sone Diyan Kangna",
+      "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
+        "name": "Ek Anokhi Dulhan Saavi",
+        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
+      },
+      "artists": [
+        {
+          "name": "Harpreet",
+          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+        },
+        {
+          "name": "Baba Bulleh Shah",
+          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Jaan Na Jaan - Male Version",
+      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
         "name": "Ranjha",
         "url": "https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 291251,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
-        "name": "Ek Anokhi Dulhan Saavi",
-        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
-      },
-      "artists": [
-        {
-          "name": "Harpreet",
-          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
-        },
-        {
-          "name": "Baba Bulleh Shah",
-          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Jaan Na Jaan - Male Version",
-      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
     },
     {
       "added_at": "2026-07-17 10:06:57",
@@ -827,6 +827,30 @@
     {
       "added_at": "2026-07-17 10:06:57",
       "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F"
+      },
+      "artists": [
+        {
+          "name": "Rais Anis Sabri",
+          "url": "https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD"
+        },
+        {
+          "name": "Jaspal Singh",
+          "url": "https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM"
+        },
+        {
+          "name": "Ashok Sharma",
+          "url": "https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5"
+        }
+      ],
+      "duration_ms": 358536,
+      "name": "Bismillah",
+      "url": "https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE"
+    },
+    {
+      "added_at": "2026-07-17 10:06:57",
+      "album": {
         "name": "Charkha (From \"Paro Pinaki Ki Kahani\")",
         "url": "https://open.spotify.com/album/2tHIjdAIk12mBxate3hRTS"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 414589,
       "name": "Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry",
       "url": "https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt"
-    },
-    {
-      "added_at": "2026-07-17 10:06:57",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F"
-      },
-      "artists": [
-        {
-          "name": "Rais Anis Sabri",
-          "url": "https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD"
-        },
-        {
-          "name": "Jaspal Singh",
-          "url": "https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM"
-        },
-        {
-          "name": "Ashok Sharma",
-          "url": "https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5"
-        }
-      ],
-      "duration_ms": 358536,
-      "name": "Bismillah",
-      "url": "https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE"
     },
     {
       "added_at": "2026-07-17 10:06:57",

@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 747275,
+  "num_followers": 747280,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "10% - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Sobrenome (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 192253,
       "name": "Sobrenome - Ao vivo",
       "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Fala Meu Nome A\u00ed",
-        "url": "https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Fulminante",
-      "url": "https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161678,
       "name": "Beijo De Varanda - Ao Vivo",
       "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Fala Meu Nome A\u00ed",
+        "url": "https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Fulminante",
+      "url": "https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Resenha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 182417,
-      "name": "Quase - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Pela Porta da Frente",
         "url": "https://open.spotify.com/album/5a792NJrWn34jwktaRAewS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210426,
       "name": "Vidro Fum\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Resenha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 182417,
+      "name": "Quase - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 182861,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Misturadin (Ao Vivo)",
         "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 182861,
-      "name": "Teu Segredo - Ao Vivo",
-      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "\u00c9 Divino - Ao Vivo Em Campo Grande",
         "url": "https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 230240,
       "name": "Liga L\u00e1 em Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 179722,
-      "name": "quando a bad bater - ao vivo",
-      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Cl\u00e1ssico (Ao Vivo / Edi\u00e7\u00e3o Especial)",
         "url": "https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 193632,
       "name": "Voc\u00ea Me Trocou - Ao Vivo",
       "url": "https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 179722,
+      "name": "quando a bad bater - ao vivo",
+      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

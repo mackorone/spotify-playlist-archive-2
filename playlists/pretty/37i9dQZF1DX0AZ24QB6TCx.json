@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403265,
+  "num_followers": 403266,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Carry On (EarthLife Remix)",
         "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Home (Remixes)",
-        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         },
         {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
         }
       ],
-      "duration_ms": 334867,
-      "name": "Holy (Frank Wiedemann Remix)",
-      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+      "duration_ms": 194434,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi"
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         },
         {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
         }
       ],
-      "duration_ms": 194434,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
+      "duration_ms": 334867,
+      "name": "Holy (Frank Wiedemann Remix)",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

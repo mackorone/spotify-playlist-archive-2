@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-570 songs - 1 day 9 hr 37 min
+571 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 | 2025-04-17 | 2025-07-04 |
 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 | 2025-05-29 | 2026-06-12 |
 | [Crystal](https://open.spotify.com/track/6Kxdy3nt65UFoNhTLQmVo3) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Crystal](https://open.spotify.com/album/6XMDrKCMmHJyOklWqBxZoi) | 3:23 | 2025-04-17 | 2025-04-25 |
-| [Cult Of Bass](https://open.spotify.com/track/6Tcp02SvY4ItFxMh40heHb) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [BUJA \(BR\)](https://open.spotify.com/artist/41aEekLErfG405Fo1e4hqU), [Franksy](https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi) | [Cult Of Bass](https://open.spotify.com/album/3h0pVTscQVD5mZCDfDuiSa) | 3:08 | 2026-07-01 |  |
+| [Cult Of Bass](https://open.spotify.com/track/6Tcp02SvY4ItFxMh40heHb) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [BUJA \(BR\)](https://open.spotify.com/artist/41aEekLErfG405Fo1e4hqU), [Franksy](https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi) | [Cult Of Bass](https://open.spotify.com/album/3h0pVTscQVD5mZCDfDuiSa) | 3:08 | 2026-07-01 | 2026-07-27 |
 | [D.A.N \(Dance All Night\)](https://open.spotify.com/track/28vNgcNGHNKoqnfljWnN26) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [D.A.N \(Dance All Night\)](https://open.spotify.com/album/5Gq5tHER64jRmIS4iHPDcC) | 3:19 | 2025-04-17 | 2025-04-25 |
 | [Danca](https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Danca](https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh) | 2:49 | 2026-04-30 |  |
 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 | 2025-06-26 | 2026-07-02 |
@@ -143,6 +143,7 @@
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-04-17 | 2026-05-01 |
 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 | 2023-10-19 | 2024-04-20 |
 | [Down To The Bone](https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Down To The Bone](https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa) | 2:51 | 2026-04-10 |  |
+| [Dream or Fantasy](https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Ellia Jaya](https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO) | [Energy Crew Pt\. 2](https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ) | 3:14 | 2026-07-23 |  |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2023-04-04 | 2023-05-20 |
 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 | 2026-06-11 |  |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-30 | 2024-04-20 |

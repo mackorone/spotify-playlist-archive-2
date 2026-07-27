@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1916888,
+  "num_followers": 1917023,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrjBS7qzENAntrZBIzVPiyv6pfU",
+  "snapshot_id": "AAAAABvu73wcKV8xDTt7sp9Ln+W5hT2h",
   "tracks": [
     {
       "added_at": "2026-07-17 00:12:53",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Good Charlotte",
         "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Forget What You Know",
-        "url": "https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu"
-      },
-      "artists": [
-        {
-          "name": "Midtown",
-          "url": "https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "For All Of This",
         "url": "https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 210053,
       "name": "I Want To Hear You Sad",
       "url": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Forget What You Know",
+        "url": "https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu"
+      },
+      "artists": [
+        {
+          "name": "Midtown",
+          "url": "https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i"
     },
     {
       "added_at": "2026-07-17 00:12:53",

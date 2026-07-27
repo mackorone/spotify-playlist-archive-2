@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Zaylevelten
 
-796 songs - 1 day 13 hr 20 min
+797 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Keep it Kewt](https://open.spotify.com/track/7cNck7tTqRj8X1JEXEw9no) | [D\-Truce](https://open.spotify.com/artist/0hbjT5EweZ9GzgLl41IJM1) | [Smoke Break](https://open.spotify.com/album/2Q8lB4AzyFrrkg243kfkHn) | 1:46 | 2022-11-15 | 2022-11-25 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-01-15 |
 | [Kilode \(In Particular\)](https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E), [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Kilode \(In Particular\)](https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ) | 3:29 | 2023-03-18 | 2023-03-25 |
-| [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 | 2025-09-26 |  |
+| [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 | 2025-09-26 | 2026-07-27 |
 | [KOMOLE](https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [KOMOLE](https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS) | 2:02 | 2025-09-05 | 2025-09-19 |
 | [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-04-14 | 2023-04-20 |
 | [Kososhi](https://open.spotify.com/track/2NNiNiiqDKmJBiLz5X9f6E) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Rendezvous](https://open.spotify.com/album/2QPGrxmEy6Eppt09jFpPMV) | 1:34 | 2022-10-14 | 2022-10-29 |
@@ -658,6 +658,7 @@
 | [Slide](https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Slide](https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM) | 2:06 | 2025-08-22 | 2025-09-19 |
 | [Slomotion](https://open.spotify.com/track/5r53idwy7v6wuFUd3TeU3e) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/70NUpzVsG0dQLUTPVgSkZN) | 2:48 | 2023-06-30 | 2023-07-14 |
 | [Slow](https://open.spotify.com/track/4RuDuO8bsWob3pELITGjU0) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [Slow](https://open.spotify.com/album/7MS1w9zPyeecLWZrSYC8zP) | 2:19 | 2023-05-26 | 2023-06-03 |
+| [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 | 2026-07-24 |  |
 | [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 | 2023-05-13 |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2022-10-14 | 2022-10-29 |
 | [Sober](https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Sober](https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x) | 4:01 | 2023-03-25 | 2023-06-17 |

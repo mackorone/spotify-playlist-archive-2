@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Barnim",
-  "num_followers": 26292,
+  "num_followers": 26287,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "To jest to!",
-        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 205641,
-      "name": "To jest to!",
-      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "Tylko My",
         "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 130039,
       "name": "Tylko My",
       "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "To jest to!",
+        "url": "https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 205641,
+      "name": "To jest to!",
+      "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Grawitacja",
-        "url": "https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        },
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Grawitacja",
-      "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "Album Niebieski",
         "url": "https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0"
       },
@@ -631,18 +611,22 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "SPOK\u00d3J",
-        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
+        "name": "Grawitacja",
+        "url": "https://open.spotify.com/album/7z7UtlzDsbXxFbQNHDSfJ8"
       },
       "artists": [
         {
-          "name": "Janek Szynal",
-          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        },
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
         }
       ],
-      "duration_ms": 163687,
-      "name": "SPOK\u00d3J",
-      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
+      "duration_ms": 183320,
+      "name": "Grawitacja",
+      "url": "https://open.spotify.com/track/580hVA2gNGGXw3A7lRGt4o"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -675,6 +659,22 @@
       "duration_ms": 184472,
       "name": "disco polo",
       "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "SPOK\u00d3J",
+        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
+      },
+      "artists": [
+        {
+          "name": "Janek Szynal",
+          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
+        }
+      ],
+      "duration_ms": 163687,
+      "name": "SPOK\u00d3J",
+      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Back To Your Hands",
-        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
-      },
-      "artists": [
-        {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Back To Your Hands",
-      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "PRZY TOBIE",
         "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 188976,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "Back To Your Hands",
+        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Back To Your Hands",
+      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "bez s\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
-      },
-      "artists": [
-        {
-          "name": "Manya",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "bez s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "Szk\u0142o",
         "url": "https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 242443,
       "name": "Szk\u0142o",
       "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "bez s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "bez s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Do Ciebie",
-        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 222252,
-      "name": "Do Ciebie",
-      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "je\u015bli pozwolisz",
         "url": "https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 132000,
       "name": "je\u015bli pozwolisz",
       "url": "https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
-        "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
-      },
-      "artists": [
-        {
-          "name": "AJLA",
-          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lawenda",
-      "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 156521,
       "name": "GlowUp",
       "url": "https://open.spotify.com/track/1Mi6JxECW3FyPpWVzxrxP6"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
+        "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lawenda",
+      "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "TopOff",
-        "url": "https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "TopOff",
-      "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "B\u00f3j si\u0119 Boga dziewczyno",
         "url": "https://open.spotify.com/album/11tOYcKt5pyOhusrXg9YMM"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 164671,
       "name": "B\u00f3j si\u0119 Boga dziewczyno",
       "url": "https://open.spotify.com/track/1RurdatzxyZO0FT0Su3p6P"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "TopOff",
+        "url": "https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "TopOff",
+      "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
     }
   ],
   "unique_name": "up next",

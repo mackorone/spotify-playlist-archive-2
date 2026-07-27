@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,609 likes - 154 songs - 8 hr 15 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,610 likes - 154 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 53 | [Love Song \- Acoustic](https://open.spotify.com/track/0DhnEQoMGj6IKgeZDrlkgP) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Love Song \(Acoustic\)](https://open.spotify.com/album/0jlMsFG1tEyuxkw5pTTzfm) | 3:29 |
 | 54 | [Like a Prayer \- Acoustic](https://open.spotify.com/track/5q4me0gn8liVWdocvsmE1j) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Like a Prayer \(Acoustic\)](https://open.spotify.com/album/3ZzhJ9cGQ1QCTp3SVYmFn3) | 2:59 |
 | 55 | [I Just Called to Say I Love You \- Acoustic](https://open.spotify.com/track/026V2pBcCLiVGYCe5LUU12) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [I Just Called to Say I Love You \(Acoustic\)](https://open.spotify.com/album/17hj3sIViJrDstGhuyRFkB) | 2:54 |
-| 56 | [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/7IcHMcOmoxYOxxXPoJakNM) | 2:22 |
+| 56 | [Dreams \- Acoustic](https://open.spotify.com/track/3HkOUsaS5OegmCygBXQ6Mh) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Dreams \(Acoustic\)](https://open.spotify.com/album/6bkzq5ALNHReTml253JUCA) | 3:47 |
 | 57 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 58 | [Lovely Day \- Acoustic Live Session](https://open.spotify.com/track/01pPSz0tquPLuIze7UHjsd) | [Rosie Holloway](https://open.spotify.com/artist/4eWiocR8XDrooQ0LAMMV3m), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Lovely Day \(Acoustic Live Session\)](https://open.spotify.com/album/3HDbFrRgCE6MHA4jWXZLDi) | 2:47 |
 | 59 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 153 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 154 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGK69PU/Z6js0bltPFSuqekVgaZZhf`
+Snapshot ID: `AAAGLTLlXE5VxJsWx2TUUopBFs1pQ9WW`

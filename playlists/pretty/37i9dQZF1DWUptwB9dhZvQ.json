@@ -1,6 +1,6 @@
 {
   "description": "Its time to relish the best themes of Kollywood!\nCover : KH X RK Reunion",
-  "num_followers": 108050,
+  "num_followers": 108066,
   "original_name": "Kollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -997,26 +997,6 @@
       "url": "https://open.spotify.com/track/0uswgpVQNDT9DfEyzzCQcg"
     },
     {
-      "added_at": "2026-07-24 12:46:38",
-      "album": {
-        "name": "DC (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        }
-      ],
-      "duration_ms": 198875,
-      "name": "Raga of Madness",
-      "url": "https://open.spotify.com/track/7pfh5uXaQKnk6h0dRpui9M"
-    },
-    {
       "added_at": "2025-09-10 13:05:37",
       "album": {
         "name": "Coolie (Original Background Score)",
@@ -1111,26 +1091,6 @@
       "duration_ms": 94890,
       "name": "The Vikram Squad - Background Score",
       "url": "https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE"
-    },
-    {
-      "added_at": "2026-07-24 12:46:38",
-      "album": {
-        "name": "DC (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shivapriya",
-          "url": "https://open.spotify.com/artist/1ZNJgmNVon2tZK2UpmWMjH"
-        }
-      ],
-      "duration_ms": 140806,
-      "name": "Thaalam Trip - Instrumental",
-      "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
     },
     {
       "added_at": "2023-09-08 08:39:19",
@@ -1245,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg"
     },
     {
-      "added_at": "2025-09-10 12:08:27",
-      "album": {
-        "name": "Madharaasi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 72983,
-      "name": "Madharaasi Theme",
-      "url": "https://open.spotify.com/track/1NMRkvmHWhuV89yeiIib4j"
-    },
-    {
       "added_at": "2022-09-13 05:37:43",
       "album": {
         "name": "Jailer Announcement Theme (From \"Jailer\")",
@@ -1275,6 +1219,22 @@
       "duration_ms": 60074,
       "name": "Jailer Announcement Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH"
+    },
+    {
+      "added_at": "2025-09-10 12:08:27",
+      "album": {
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 72983,
+      "name": "Madharaasi Theme",
+      "url": "https://open.spotify.com/track/1NMRkvmHWhuV89yeiIib4j"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -1307,6 +1267,42 @@
       "duration_ms": 112405,
       "name": "The Theri Theme",
       "url": "https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP"
+    },
+    {
+      "added_at": "2025-02-18 10:52:00",
+      "album": {
+        "name": "Vidaamuyarchi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Amogh Balaji",
+          "url": "https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Perseverance Theme",
+      "url": "https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO"
+    },
+    {
+      "added_at": "2023-09-21 12:58:01",
+      "album": {
+        "name": "Varman Theme (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 82750,
+      "name": "Varman Theme (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg"
     }
   ],
   "unique_name": "Kollywood Themes",

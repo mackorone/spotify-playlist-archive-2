@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Three Things",
+        "url": "https://open.spotify.com/album/0q0ZXKeKl9fOIaJOkeaCEM"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Souls",
+          "url": "https://open.spotify.com/artist/21khCytzgwhF3crY0ifDoC"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357647,
+      "name": "Three Things",
+      "url": "https://open.spotify.com/track/5DF4pwwaU5GUwhAwEGNoFS"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6tPjHey8PdjtJLBHgIMNzx"
       },

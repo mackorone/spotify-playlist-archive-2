@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ismULUbSO3WkcbV1D7jn8.md) - [plain]
 
 > De beste meezingers van vroeger en nu\. Iedereen kent de tekst en kan deze hits meezingen! Met nu de grootste oude meezingers en sing\-a\-long hits van o.a\. Beyoncé, Rihanna, Dua Lipa, David Guetta en nog veel meer!
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 82,487 likes - 121 songs - 7 hr 34 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 82,478 likes - 121 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

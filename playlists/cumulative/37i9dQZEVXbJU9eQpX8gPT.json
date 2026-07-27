@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "103",
+      "url": "https://open.spotify.com/track/3p59xsENCUBnCC4biGR9GK"
+    },
+    {
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
       },
@@ -6810,7 +6828,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 150857,
       "name": "CANDYSHOP",
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
@@ -7217,6 +7235,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181832,
+      "name": "Cauchemar",
+      "url": "https://open.spotify.com/track/0pyBxhApdbUtBli4gRBTAk"
+    },
+    {
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
       },
@@ -7502,7 +7538,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 208695,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/6mu4J1XrsNcpWPSt2QqrPx"
@@ -9160,7 +9196,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 167920,
       "name": "CVP",
       "url": "https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy"
@@ -9548,6 +9584,28 @@
       "duration_ms": 253714,
       "name": "Datni",
       "url": "https://open.spotify.com/track/4tMCsHp6nZtZR8p7zYhlPK"
+    },
+    {
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        },
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "Datni",
+      "url": "https://open.spotify.com/track/0bIgz3TlFatcoE0GDVkZ4N"
     },
     {
       "album": {
@@ -12637,6 +12695,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Fatcha",
+      "url": "https://open.spotify.com/track/0Q4ZsskQjhHMfQ8QZ0fqGP"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -14403,6 +14479,32 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        },
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Nouvo",
+          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ghetto Star",
+      "url": "https://open.spotify.com/track/1p54KZMTuyEvjcClXygOTC"
+    },
+    {
+      "album": {
         "name": "RECTOVERSO",
         "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
       },
@@ -15799,6 +15901,32 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        },
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        },
+        {
+          "name": "Nouvo",
+          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Hermanos",
+      "url": "https://open.spotify.com/track/6A2EugzacMYcmGxR6RflsS"
+    },
+    {
+      "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
       },
@@ -15886,6 +16014,24 @@
       "duration_ms": 167352,
       "name": "Hiphop is dead",
       "url": "https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh"
+    },
+    {
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190763,
+      "name": "Histoire",
+      "url": "https://open.spotify.com/track/7L8gfaK4OOamXCarouOBxI"
     },
     {
       "album": {
@@ -17830,7 +17976,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -24874,7 +25020,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
@@ -25088,7 +25234,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 211882,
       "name": "MON PAYS",
       "url": "https://open.spotify.com/track/1085UWT4FdQOgQDbmA5pe2"
@@ -26966,7 +27112,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 186857,
       "name": "NINJA (feat. GIMS)",
       "url": "https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e"
@@ -29097,6 +29243,24 @@
     },
     {
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Panthera",
+      "url": "https://open.spotify.com/track/3Qf09y4DTyF8LaFgw3GqcW"
+    },
+    {
+      "album": {
         "name": "PAPA",
         "url": "https://open.spotify.com/album/2orG99ljSUjHmSgM0MXIHB"
       },
@@ -29428,7 +29592,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 171270,
       "name": "PASSAT",
       "url": "https://open.spotify.com/track/6fyDZpCwS630m6moYg5FkV"
@@ -31596,7 +31760,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
@@ -38986,6 +39150,28 @@
       "duration_ms": 143958,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX"
+    },
+    {
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        },
+        {
+          "name": "Nouvo",
+          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/0G7MHAZdq69IBQSVjLJlPO"
     },
     {
       "album": {

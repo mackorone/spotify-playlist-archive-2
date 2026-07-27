@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-143 songs - 9 hr 16 min
+145 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 | 2026-02-07 |
 | [Are We Dreaming?](https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 2:49 | 2026-01-01 | 2026-02-07 |
 | [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 | 2026-02-07 |
+| [Bajo el Sol](https://open.spotify.com/track/4JtZDo0l8Pga9n6BvgZ7S0) | [Mary Nena](https://open.spotify.com/artist/0sAQ4d3Dx3Z7IVDeZy9bXL) | [Bajo el Sol](https://open.spotify.com/album/5xZ7eWuiEXPYI1Gew39wM5) | 2:34 | 2026-07-26 |  |
 | [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 | 2026-07-10 |  |
 | [Ballerina's Dilemma](https://open.spotify.com/track/7LTciIxPjON8ttlOOI1Ue5) | [Jocelyn Stewart](https://open.spotify.com/artist/3ACUC6ruZ4IiXDpFDLZhXK), [Mike Hamilton](https://open.spotify.com/artist/1NImbJcYPrIMmEDpDSskX3) | [Our Little Lives](https://open.spotify.com/album/7mmmpaae8BEEBYMnGXkP7a) | 3:17 | 2026-05-14 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
@@ -81,6 +82,7 @@
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 | 2026-05-16 |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 | 2026-05-16 |
 | [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 | 2026-07-07 |  |
+| [Let You In](https://open.spotify.com/track/1oBqxv3lalzgjPdzeU6Dd6) | [FallenNFaded](https://open.spotify.com/artist/3Ct1LFryNkGnWXa6BPqwkF) | [Let You In](https://open.spotify.com/album/5zm72aO0CU1HXwKUkdwboa) | 3:00 | 2026-07-26 |  |
 | [Lost & Found](https://open.spotify.com/track/2BWoxn24Y3TCo6S3YAyJNx) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Zen Project](https://open.spotify.com/album/336ZUWQwHQrwtVD2w71YC1) | 5:13 | 2026-05-14 |  |
 | [Lungs Enough?](https://open.spotify.com/track/5SeUTbBIcHEcE6a8OwJ2Fe) | [Kahlil's Razor](https://open.spotify.com/artist/7rA1KbuQQ0AZbTKBiw508I) | [Lungs Enough?](https://open.spotify.com/album/418vHl49VRBDt4VZ1f8ceO) | 3:13 | 2026-07-07 |  |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-19 | 2026-02-07 |

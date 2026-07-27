@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -8774,10 +8774,80 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 190426,
       "name": "This Is the Army, Mr. Jones",
       "url": "https://open.spotify.com/track/7cowIEb1EJZdB5tHooysTo"
+    },
+    {
+      "album": {
+        "name": "Kiss The Boys Goodbye (Classic Songs From World War II) - Volume One",
+        "url": "https://open.spotify.com/album/5c5StHVdgg5tsTdJX2g4KA"
+      },
+      "artists": [
+        {
+          "name": "Hal McIntyre & his Orchestra",
+          "url": "https://open.spotify.com/artist/369vKuwLRWYh59mwzpCiwJ"
+        },
+        {
+          "name": "Clarence Willard",
+          "url": "https://open.spotify.com/artist/1Zou9Fpg9i1jwBTXLD4U7S"
+        },
+        {
+          "name": "Jim Emert",
+          "url": "https://open.spotify.com/artist/01pV0w91x5nJKTBcrd0GVp"
+        },
+        {
+          "name": "Howard Gibeling",
+          "url": "https://open.spotify.com/artist/2boZ4KFRI1imsaKuLCDYDa"
+        },
+        {
+          "name": "Vic Hamann",
+          "url": "https://open.spotify.com/artist/78F8V3FxHufgDtMknKdpE4"
+        },
+        {
+          "name": "Larry Kinsey",
+          "url": "https://open.spotify.com/artist/1URbxOmNBwbRRP6qxoWHb1"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
+        {
+          "name": "Art Mendelsohn",
+          "url": "https://open.spotify.com/artist/5YYJZCvODTxOhmSG91nMhD"
+        },
+        {
+          "name": "Dick Rollins",
+          "url": "https://open.spotify.com/artist/2MrBuZmvFVKsTA3pHukIui"
+        },
+        {
+          "name": "Danny Hurd",
+          "url": "https://open.spotify.com/artist/07dfVpgZR304v0f5RpVVQF"
+        },
+        {
+          "name": "Jack Lathrop",
+          "url": "https://open.spotify.com/artist/5hufbwg0yIu3jfXucKe9Me"
+        },
+        {
+          "name": "Eddie Safranski",
+          "url": "https://open.spotify.com/artist/56HfgZloSl1GbqDz5exGy2"
+        },
+        {
+          "name": "Ralph Tilken",
+          "url": "https://open.spotify.com/artist/5tbkbRPgdxVlEvsv2PdEuX"
+        },
+        {
+          "name": "Jerry Stuart",
+          "url": "https://open.spotify.com/artist/1SFDiGVr2IrCENi2OcBZxq"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "This Is the Army, Mr. Jones",
+      "url": "https://open.spotify.com/track/0pTQg0vVR0TzBdYpwFS7tQ"
     },
     {
       "album": {

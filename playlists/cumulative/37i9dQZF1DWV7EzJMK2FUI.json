@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "A Gentle Return",
+        "url": "https://open.spotify.com/album/1I9Z69Y4VZJ5Vag9CuDTg4"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225269,
+      "name": "A Gentle Return",
+      "url": "https://open.spotify.com/track/4pHIbZe2phiS1iXd5QCkjs"
+    },
+    {
+      "album": {
         "name": "A Glance Across the Room",
         "url": "https://open.spotify.com/album/4tXlHGMflBX6647ppnPqVI"
       },
@@ -10095,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "Halfway To Light",
+        "url": "https://open.spotify.com/album/4ErGgFNLWtuvfZurDqQhKy"
+      },
+      "artists": [
+        {
+          "name": "The Small Hours",
+          "url": "https://open.spotify.com/artist/6725YBvkvjUa1jHvygHPk9"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "Halfway To Light",
+      "url": "https://open.spotify.com/track/6BngJIrjrdnk6EEc0lPkBn"
+    },
+    {
+      "album": {
         "name": "Hand over your pocket",
         "url": "https://open.spotify.com/album/3SapH8K9cfr8z3tdJAIuxk"
       },
@@ -11752,7 +11788,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 226500,
       "name": "I'll Find A Way",
       "url": "https://open.spotify.com/track/58WI7T3rQOCSkSY04J1PiF"
@@ -19784,7 +19820,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 241333,
       "name": "On the Rocks",
       "url": "https://open.spotify.com/track/0c7qXavs8YwbhYo0oWKUN9"
@@ -25898,7 +25934,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 221738,
       "name": "The Days Go Slowly By",
       "url": "https://open.spotify.com/track/2B6yiaoOiCtffIskpSNijT"
@@ -26820,6 +26856,24 @@
       "duration_ms": 280938,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
+    },
+    {
+      "album": {
+        "name": "The Shape of Distance",
+        "url": "https://open.spotify.com/album/7BfGT3zbNG0ebLwFWGUzEs"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195272,
+      "name": "The Shape of Distance",
+      "url": "https://open.spotify.com/track/6LXPxUZearJpkdRnfCWJfj"
     },
     {
       "album": {
@@ -29113,6 +29167,24 @@
     },
     {
       "album": {
+        "name": "Walk In The Park",
+        "url": "https://open.spotify.com/album/6nb9MLz1jL3OIYGbey7pRn"
+      },
+      "artists": [
+        {
+          "name": "Downtown Avenue",
+          "url": "https://open.spotify.com/artist/1kbxzv2KcGX4XZCn4AE6lX"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184562,
+      "name": "Walk In The Park",
+      "url": "https://open.spotify.com/track/2etoF22MWEsck7lANaWuPu"
+    },
+    {
+      "album": {
         "name": "Walk My Way",
         "url": "https://open.spotify.com/album/6bfTSrMU67Iwjt6TeROtBy"
       },
@@ -29286,7 +29358,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 199505,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH"
@@ -30158,6 +30230,24 @@
       "duration_ms": 239913,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz"
+    },
+    {
+      "album": {
+        "name": "When the clouds all clear",
+        "url": "https://open.spotify.com/album/24nisyPiaDo9g2I4w3LKMw"
+      },
+      "artists": [
+        {
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "When the clouds all clear",
+      "url": "https://open.spotify.com/track/2XSK8qGdkvBoaJwbolrVlO"
     },
     {
       "album": {

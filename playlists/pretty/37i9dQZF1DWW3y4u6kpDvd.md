@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3y4u6kpDvd.md) - [plain]
 
 > Enjoy the BOYNEXTDOOR TOUR \[KNOCK ON Vol.2\] BEST SET for the upcoming concert! \(다가오는 보이넥스트도어 투어를 준비하며 히트곡 BEST SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,736 likes - 20 songs - 55 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,768 likes - 20 songs - 55 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

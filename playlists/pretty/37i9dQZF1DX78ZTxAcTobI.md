@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78ZTxAcTobI.md) - [plain]
 
 > Love and adventure under the Texas sun\. Listen to the music from, and inspired by, Ransom Canyon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,615 likes - 117 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,800 likes - 117 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

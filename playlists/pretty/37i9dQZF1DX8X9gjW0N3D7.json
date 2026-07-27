@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
-  "num_followers": 69878,
+  "num_followers": 69898,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
+        "name": "Deux places au cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "duration_ms": 148979,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Deux places au cimeti\u00e8re",
-        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 148979,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "Excuse-moi",
         "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Todas mis amigas",
-        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Todas mis amigas",
-      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "les nuits sont blanches",
         "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 202493,
       "name": "verres fum\u00e9s",
       "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Fleuron (feat. Helena Deland)",
-        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
-      },
-      "artists": [
-        {
-          "name": "N NAO",
-          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Fleuron (feat. Helena Deland)",
-      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "rappelle-moi comme je t'aime",
         "url": "https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 217046,
       "name": "Les serpents dans l'eau",
       "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Fleuron (feat. Helena Deland)",
+        "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
+      },
+      "artists": [
+        {
+          "name": "N NAO",
+          "url": "https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Fleuron (feat. Helena Deland)",
+      "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "R\u00e2",
-        "url": "https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
       },
       "artists": [
         {
-          "name": "Pastel Barbo",
-          "url": "https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM"
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
         }
       ],
-      "duration_ms": 247859,
-      "name": "R\u00e2",
-      "url": "https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx"
+      "duration_ms": 134213,
+      "name": "Qu'est-ce que je viens faire ici ?",
+      "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
+        "name": "R\u00e2",
+        "url": "https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa"
       },
       "artists": [
         {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+          "name": "Pastel Barbo",
+          "url": "https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM"
         }
       ],
-      "duration_ms": 134213,
-      "name": "Qu'est-ce que je viens faire ici ?",
-      "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
+      "duration_ms": 247859,
+      "name": "R\u00e2",
+      "url": "https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1183,22 +1183,6 @@
       "duration_ms": 244320,
       "name": "Tour \u00e0 tour",
       "url": "https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
-        "name": "Confort stable",
-        "url": "https://open.spotify.com/album/7ykkRDvvawe6DzLEqQ8RSF"
-      },
-      "artists": [
-        {
-          "name": "Jade Lessard",
-          "url": "https://open.spotify.com/artist/11DkMTZq0ntaKyLicVyjf6"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Bleus & Bl\u00e9s",
-      "url": "https://open.spotify.com/track/5Dj7YKqeInShqPLLitc9k2"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1231,6 +1215,22 @@
       "duration_ms": 232319,
       "name": "Que ta lumi\u00e8re",
       "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Confort stable",
+        "url": "https://open.spotify.com/album/7ykkRDvvawe6DzLEqQ8RSF"
+      },
+      "artists": [
+        {
+          "name": "Jade Lessard",
+          "url": "https://open.spotify.com/artist/11DkMTZq0ntaKyLicVyjf6"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Bleus & Bl\u00e9s",
+      "url": "https://open.spotify.com/track/5Dj7YKqeInShqPLLitc9k2"
     },
     {
       "added_at": "2026-07-24 04:03:23",

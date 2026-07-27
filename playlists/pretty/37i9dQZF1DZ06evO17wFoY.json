@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAABF2BT5rexm1qkwliEoWJss",
+  "snapshot_id": "amP8gAAAAAAc90fQlrqU8uDmrv1CzEQV",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyager - Essential Max Richter",
-        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "The Departure",
-      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 335360,
       "name": "Limu, limu, lima (Arr. Schindler for Piano)",
       "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyager - Essential Max Richter",
+        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
     },
     {
       "added_at": null,
@@ -795,22 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang at Royal Albert Hall",
-        "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Gina Alice",
+          "url": "https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Intermezzo No. 1 in E Minor",
-      "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+      "duration_ms": 290613,
+      "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
+      "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
     },
     {
       "added_at": null,
@@ -855,26 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Lang Lang at Royal Albert Hall",
+        "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Gina Alice",
-          "url": "https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
-      "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
+      "duration_ms": 174013,
+      "name": "Intermezzo No. 1 in E Minor",
+      "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
     },
     {
       "added_at": null,

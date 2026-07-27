@@ -5419,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Soulwave",
+        "url": "https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Hasamura",
+          "url": "https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292960,
+      "name": "Kneel Before the Light (Humilitas)",
+      "url": "https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE"
+    },
+    {
+      "album": {
         "name": "i limoni",
         "url": "https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W"
       },

@@ -9291,6 +9291,24 @@
     },
     {
       "album": {
+        "name": "Oh my god",
+        "url": "https://open.spotify.com/album/3Md41qoyHYFo2uPS56SEud"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Oh my god",
+      "url": "https://open.spotify.com/track/32TyEa7PkqtZp7GMRaTO6k"
+    },
+    {
+      "album": {
         "name": "On m\u2019a d\u00e9j\u00e0",
         "url": "https://open.spotify.com/album/35zPm2aRpic65eRqTTQew1"
       },

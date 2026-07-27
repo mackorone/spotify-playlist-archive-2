@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21219,
+  "num_followers": 21218,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/7Frk59MgpJw7bDixiMCr49"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/53xn9j8QEj4RBJa1MlYqFy"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
         "name": "Kill This Love",
         "url": "https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191225,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/3VN74YiIjtY5ouKahBjmRX"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/7Frk59MgpJw7bDixiMCr49"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/53xn9j8QEj4RBJa1MlYqFy"
     },
     {
       "added_at": "2026-07-03 07:32:57",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/6yetqbA9vli7RLoUWYZLsq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 198866,
       "name": "See U Later",
       "url": "https://open.spotify.com/track/5RBH8ypFAj5HTZTPRpI1XL"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
       "added_at": "2026-07-03 07:32:57",

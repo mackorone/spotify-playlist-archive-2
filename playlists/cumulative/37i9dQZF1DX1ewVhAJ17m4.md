@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-617 songs - 1 day 7 hr 2 min
+618 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Fallen Short](https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Fallen Short](https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi) | 2:37 | 2023-09-15 | 2024-02-24 |
 | [False Hope](https://open.spotify.com/track/14pfQhftB9leV7EFJuiXls) | [glimmers](https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy) | [False Hope](https://open.spotify.com/album/57sUN1f5MGJDOzmfqRo10j) | 3:09 | 2024-11-18 | 2025-02-22 |
 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-09 | 2023-03-10 |
-| [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 | 2026-06-05 |  |
+| [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 | 2026-06-05 | 2026-07-27 |
 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 | 2025-05-15 |  |
 | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/track/3bsZ7QBXsfJ0ZezxUESfxO) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/album/4fp4rOAKrPsPYTFQYiRhKy) | 3:05 | 2021-12-20 | 2022-02-22 |
 | [FEAR OF HEIGHTS](https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [FEAR OF HEIGHTS](https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l) | 2:34 | 2025-07-17 | 2026-05-10 |
@@ -380,6 +380,7 @@
 | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 | 2026-05-09 |  |
 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-17 |  |
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-10 | 2023-04-22 |
+| [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 | 2026-07-24 |  |
 | [Ocular Pat Down](https://open.spotify.com/track/7ynxxDqTAVQF0Kkq5oPLKb) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Ocular Pat Down](https://open.spotify.com/album/1nBknahoIL7AS5a8GskSVx) | 3:47 | 2021-12-22 | 2022-08-19 |
 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 | 2025-09-12 |  |
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-07-05 |

@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 132000,
       "name": "Baciata",
       "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
@@ -18656,7 +18656,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 158117,
       "name": "FREAKED OUT",
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
@@ -22144,7 +22144,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 160601,
       "name": "HOT GIRL SUMMER",
       "url": "https://open.spotify.com/track/5p7wzpasI6uYdGJP7CUYQf"
@@ -35722,7 +35722,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 229444,
       "name": "na b\u0142ysk",
       "url": "https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS"
@@ -40824,7 +40824,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -49226,7 +49226,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 136838,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/2iQpHZw3cPGz7C7qMGqN3Y"
@@ -50414,7 +50414,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 181700,
       "name": "sezon",
       "url": "https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL"
@@ -52773,6 +52773,44 @@
     },
     {
       "album": {
+        "name": "STRAIGHT OUTTA CRACKHOUSE",
+        "url": "https://open.spotify.com/album/0CnRdkRsL51kz0ehoB0tBV"
+      },
+      "artists": [
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        },
+        {
+          "name": "Bandura",
+          "url": "https://open.spotify.com/artist/5baC8UIJpELH6bYjbeABJ3"
+        },
+        {
+          "name": "Divix",
+          "url": "https://open.spotify.com/artist/4epWIBkEMw64xoaz1rXAs3"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/5xm2Kq2tx2ARcQXXboxbgy"
+        },
+        {
+          "name": "Isiah Hilt",
+          "url": "https://open.spotify.com/artist/59mzD80K2ol7gQkwRfNRVH"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "STRAIGHT OUTTA CRACKHOUSE",
+      "url": "https://open.spotify.com/track/5HaL8rp6TjGBFrUazj5NjV"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -54610,7 +54648,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -55000,7 +55038,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 194408,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb"

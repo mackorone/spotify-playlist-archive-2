@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,334 songs - 3 day 7 hr 33 min
+1,335 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Innocence](https://open.spotify.com/track/72g5MSt0ctPo7Sv3Ccctdf) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU) | [Innocence](https://open.spotify.com/album/5ZB36wLX4P7aozcWcmjKc4) | 3:37 | 2022-10-14 | 2024-02-17 |
 | [Inside This Room](https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Inside This Room](https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF) | 3:12 | 2026-04-17 |  |
 | [INTO MY ARMS](https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [INTO MY ARMS](https://open.spotify.com/album/6ZYPZJdWbJrCrCD0wTzM6t) | 3:54 | 2022-07-29 | 2023-07-08 |
+| [Into The Light](https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Into The Light](https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR) | 2:32 | 2026-07-23 |  |
 | [Into the Night](https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF) | [Audorn](https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Into the Night](https://open.spotify.com/album/3wfgKnNiPc0cWt5JWiDdx8) | 4:00 | 2024-06-21 | 2025-05-17 |
 | [Into The Sun](https://open.spotify.com/track/1RuF2s2aFbfc0d1XUtcE6Y) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Into The Sun](https://open.spotify.com/album/60m6YMLSy3skQBRyzc8XnT) | 4:06 | 2026-05-29 | 2026-06-10 |
 | [Invaders](https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj) | [Invaders](https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy) | 3:11 | 2021-12-17 | 2022-07-24 |
@@ -762,7 +763,7 @@
 | [Mistral](https://open.spotify.com/track/3RLYXVhEX3SKr1X3UIfPtk) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Mistral](https://open.spotify.com/album/72X5aUTyjZs8Ito52US9aj) | 3:17 | 2023-08-04 | 2024-11-16 |
 | [Moment](https://open.spotify.com/track/1OhNIHWABDYC8KE7EF3YOK) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Anven](https://open.spotify.com/artist/1vViVD7zHBwKdnkLtNaZg9) | [Moment](https://open.spotify.com/album/0axXxvjQtWnKTvYfpwBFnX) | 3:11 | 2021-12-17 | 2022-05-28 |
 | [Moment In Time](https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues) | [Peter Steele](https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Moment In Time](https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8) | 3:47 | 2025-02-28 | 2026-05-30 |
-| [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 |  |
+| [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 | 2026-07-27 |
 | [Monster](https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Monster](https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp) | 3:01 | 2025-03-07 | 2025-09-27 |
 | [Moon and Sun](https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Moon and Sun](https://open.spotify.com/album/2CbRBnlyKcMrB3OF2e0wPN) | 3:06 | 2022-04-01 | 2022-07-22 |
 | [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 | 2026-06-12 |

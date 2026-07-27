@@ -7960,8 +7960,8 @@
       },
       "artists": [
         {
-          "name": "Austin-Tucker",
-          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+          "name": "A-T",
+          "url": "https://open.spotify.com/artist/0HilBQEBE33hcuDrGzBfXJ"
         }
       ],
       "date_added": "2026-06-30",
@@ -38730,6 +38730,24 @@
       "duration_ms": 186624,
       "name": "The Apocalypse",
       "url": "https://open.spotify.com/track/6iJzuKdprEFq2kmofPkJqY"
+    },
+    {
+      "album": {
+        "name": "The Art of Sinking",
+        "url": "https://open.spotify.com/album/0es5Ek0jXawyp6AHXRPDeF"
+      },
+      "artists": [
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "The Art of Sinking",
+      "url": "https://open.spotify.com/track/550DPoFnDQOEBkqDVShJ25"
     },
     {
       "album": {

@@ -6699,6 +6699,40 @@
     },
     {
       "album": {
+        "name": "Der K\u00f6nig der L\u00f6wen Sonderausgabe",
+        "url": "https://open.spotify.com/album/2LrcPkHBUfWdr2caUQaha6"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Wilcke",
+          "url": "https://open.spotify.com/artist/5PpKj1qtEelq9huzcnimO9"
+        },
+        {
+          "name": "Jocelyn B. Smith",
+          "url": "https://open.spotify.com/artist/0vAl3tVkST25gXLo3sIopW"
+        },
+        {
+          "name": "Ilja Richter",
+          "url": "https://open.spotify.com/artist/3e6shNAdjKsxqMeIKJaP8Z"
+        },
+        {
+          "name": "Rainer Basedow",
+          "url": "https://open.spotify.com/artist/0eun5te9eflPAd3OdQXtO8"
+        },
+        {
+          "name": "Cusch Jung",
+          "url": "https://open.spotify.com/artist/1qhHmFpYXyUr90FJcAOgYE"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Kann Es Wirklich Liebe Sein",
+      "url": "https://open.spotify.com/track/7GVqUxY38clcnKoudLsBMY"
+    },
+    {
+      "album": {
         "name": "Der K\u00f6nig der L\u00f6wen (Deutscher Original Film-Soundtrack)",
         "url": "https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm"
       },
@@ -6722,7 +6756,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 182613,
       "name": "Kann es wirklich Liebe sein",
       "url": "https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y"

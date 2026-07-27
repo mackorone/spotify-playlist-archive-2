@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The soundtrack to lazing around.",
+  "description": "A dreamy, beautiful musical companion to your time for rest and relaxation.",
   "name": "Lazy Afternoon",
   "tracks": [
     {
@@ -746,6 +746,24 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
+    },
+    {
+      "album": {
+        "name": "Keepers",
+        "url": "https://open.spotify.com/album/6NyCqxi70nSuUbEk8qu3ki"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Belt Loop",
+      "url": "https://open.spotify.com/track/6YuFSrw7JXR5MhWQSx338P"
     },
     {
       "album": {
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 198213,
       "name": "Just Life",
       "url": "https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 178352,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
@@ -6574,6 +6592,24 @@
       "duration_ms": 212928,
       "name": "Where Have All the Cowboys Gone?",
       "url": "https://open.spotify.com/track/3qOyhKViRF2Zs8tYzFowfp"
+    },
+    {
+      "album": {
+        "name": "Where The Fades Meet",
+        "url": "https://open.spotify.com/album/7ArgbvFXSCQxHl8ajgtE3Z"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210483,
+      "name": "Where The Fades Meet",
+      "url": "https://open.spotify.com/track/62tS7tUU6Xomv7hDcFuOQq"
     },
     {
       "album": {

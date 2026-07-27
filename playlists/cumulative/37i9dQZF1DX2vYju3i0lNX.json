@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Autumn Changes",
+        "url": "https://open.spotify.com/album/04n31Lj3ua25YoX8J40E5R"
+      },
+      "artists": [
+        {
+          "name": "Belleville Trio",
+          "url": "https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260537,
+      "name": "Autumn Changes",
+      "url": "https://open.spotify.com/track/6WP8qZ0U3acpk5aNSz4iMw"
+    },
+    {
+      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ"
       },
@@ -6323,6 +6341,24 @@
     },
     {
       "album": {
+        "name": "Everything Becomes Lighter",
+        "url": "https://open.spotify.com/album/08jcv8CaDWYYcr5cchFIRH"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201990,
+      "name": "Everything Becomes Lighter",
+      "url": "https://open.spotify.com/track/4nzXuURImUtbgfk6MflUtw"
+    },
+    {
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z"
       },
@@ -9682,7 +9718,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 188558,
       "name": "I've Always Been in Love with You",
       "url": "https://open.spotify.com/track/1Wj1ybcda4EkZgJ3D0GHAU"
@@ -15028,7 +15064,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 221995,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/63hmteDiFGsy3yJNFg6DhT"
@@ -16454,6 +16490,24 @@
       "duration_ms": 234376,
       "name": "Petals on the Water",
       "url": "https://open.spotify.com/track/44rwOqEfeLCMovLhtr2uV1"
+    },
+    {
+      "album": {
+        "name": "Pieces of My Dreams",
+        "url": "https://open.spotify.com/album/4Xbcj91LO23UAk7tRxzZzk"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Alley",
+          "url": "https://open.spotify.com/artist/4rBnqzRZccJ2M5YZSoNzLU"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226827,
+      "name": "Pieces of My Dreams",
+      "url": "https://open.spotify.com/track/22gwWimLPewWelW5j38bWa"
     },
     {
       "album": {
@@ -20799,6 +20853,24 @@
     },
     {
       "album": {
+        "name": "The Night Has Come",
+        "url": "https://open.spotify.com/album/5jyMHs39k6ik6cCJZFSBkM"
+      },
+      "artists": [
+        {
+          "name": "Birch Trio",
+          "url": "https://open.spotify.com/artist/7ENr3R6juZkopBWswxgZiA"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "The Night Has Come",
+      "url": "https://open.spotify.com/track/28vKshxBbDFzV3l2dqjZ4l"
+    },
+    {
+      "album": {
         "name": "The Only One Was Me",
         "url": "https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W"
       },
@@ -22488,7 +22560,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 228569,
       "name": "Unfinished Conversations",
       "url": "https://open.spotify.com/track/6YwzsHlx8Uz6qEVnExyWIv"
@@ -24080,7 +24152,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 209500,
       "name": "Wistman's Wood",
       "url": "https://open.spotify.com/track/3Ws7oJ00Pku52b7jBzs5uC"

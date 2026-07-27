@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Mavo, Tyla, Teni, Taves, Zaylevelten, Ayo Maff, TML Vibes, DJ Neptune  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,494 likes - 61 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,573 likes - 61 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

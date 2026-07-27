@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 519437,
+  "num_followers": 519765,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "DON'T WANNA MISS THIS",
         "url": "https://open.spotify.com/album/0lIyBi6BOkCAjFXGohyNm4"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 160503,
       "name": "DON'T WANNA MISS THIS",
       "url": "https://open.spotify.com/track/0kEmoJeOPaIXVgRT0XREw0"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Kick Drum Talk",
-        "url": "https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1"
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         }
       ],
-      "duration_ms": 227250,
-      "name": "Kick Drum Talk",
-      "url": "https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j"
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -603,18 +599,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+        "name": "Kick Drum Talk",
+        "url": "https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+      "duration_ms": 227250,
+      "name": "Kick Drum Talk",
+      "url": "https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -659,22 +659,18 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "WTF?",
-        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         }
       ],
-      "duration_ms": 222574,
-      "name": "WTF?",
-      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -695,18 +691,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+        "name": "WTF?",
+        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 222574,
+      "name": "WTF?",
+      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -747,22 +747,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
       "artists": [
         {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         },
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 151800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "303 101",
+        "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 184645,
+      "name": "303 101",
+      "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "Rolling",
         "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 164800,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "303 101",
-        "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 184645,
-      "name": "303 101",
-      "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
+        "name": "Gipsy Queen EP",
+        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 202472,
+      "name": "Gipsy Queen",
+      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
         "name": "DANCE NOW",
         "url": "https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 240020,
       "name": "DANCE NOW",
       "url": "https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
-        "name": "Gipsy Queen EP",
-        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        }
-      ],
-      "duration_ms": 202472,
-      "name": "Gipsy Queen",
-      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "NEVER SAY",
-        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
-      },
-      "artists": [
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 187507,
-      "name": "NEVER SAY",
-      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
-    },
-    {
-      "added_at": "2026-07-10 00:01:26",
-      "album": {
         "name": "TASTE MY LOVE",
         "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 185343,
       "name": "TASTE MY LOVE",
       "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
+    },
+    {
+      "added_at": "2026-07-10 00:01:26",
+      "album": {
+        "name": "NEVER SAY",
+        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "NEVER SAY",
+      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1555,22 +1555,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Data Corrupted",
-        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
         },
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Data Corrupted",
-      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
+      "duration_ms": 156003,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
     },
     {
       "added_at": "2026-07-10 00:01:26",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2026-07-10 00:01:26",
       "album": {
-        "name": "Check This Out",
-        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
       },
       "artists": [
         {
-          "name": "SLVL",
-          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         },
         {
-          "name": "Exproz",
-          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
         }
       ],
-      "duration_ms": 156003,
-      "name": "Check This Out",
-      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     },
     {
       "added_at": "2026-07-10 00:01:26",

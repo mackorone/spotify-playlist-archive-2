@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 
 > De beste Jaren 80 Hits op één plek! 🕺 Reis terug in de tijd met de ultieme 80s playlist vol synthpop, classic rock en popmuziek\. Met o.a\. Michael Jackson, Prince, Madonna en Queen\. Geniet van de nostalgie! 📻✨
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,681 likes - 122 songs - 8 hr 38 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,683 likes - 122 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

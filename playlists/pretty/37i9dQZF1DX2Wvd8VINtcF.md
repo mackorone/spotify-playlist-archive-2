@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Kelela & PinkPantheress✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,554 likes - 257 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,557 likes - 257 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

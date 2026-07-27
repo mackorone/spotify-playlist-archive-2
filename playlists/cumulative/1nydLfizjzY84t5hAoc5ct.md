@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-334 songs - 20 hr 42 min
+336 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-06-09 | 2026-06-20 |
 | [All i need \(at Christmas time\)](https://open.spotify.com/track/138VUF1skOZc3UHYuC8uhV) | [Paul Martin](https://open.spotify.com/artist/1XIrTZoEDMzWssZ149WWZ8) | [All i need \(at Christmas time\)](https://open.spotify.com/album/3qxwTQRtZeP45Bl0AsXUPD) | 4:24 | 2025-12-18 | 2025-12-29 |
 | [All Is Forgotten](https://open.spotify.com/track/4Xaq7bgiBr7YK6k1O4gERG) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [All Is Forgotten](https://open.spotify.com/album/0Jfq5rGvMJVW3aWvmxBv3U) | 3:40 | 2026-07-11 | 2026-07-22 |
+| [All My Reasons](https://open.spotify.com/track/2DAnhu2YNC6S3PA4tm2Ch9) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 4:46 | 2026-07-26 |  |
 | [All of my Hours](https://open.spotify.com/track/0kGMkB1AVVOQuht2I3xm21) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [All of my Hours](https://open.spotify.com/album/1AT97gEgwF831B6rkIlYjL) | 3:53 | 2025-11-30 | 2025-12-08 |
 | [ALL THORNS NO ROSES](https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [ALL THORNS NO ROSES](https://open.spotify.com/album/7whk2qSdvWEqv7zO4FX4HH) | 3:43 | 2026-04-17 |  |
 | [All those](https://open.spotify.com/track/4UYUG0f4Gs5WgZ9CXgJ0sR) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [All those](https://open.spotify.com/album/2Om2FXeE1Yl01sO5nTOQE8) | 3:16 | 2026-06-09 | 2026-06-20 |
@@ -173,6 +174,7 @@
 | [Is This All?](https://open.spotify.com/track/40WHt75PDTsyT9bPsYIw3H) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [First a Whisper, Then a Shout](https://open.spotify.com/album/2cwDdnhRCRHzG8OQmjPKXR) | 3:38 | 2025-11-23 | 2026-02-02 |
 | [Island Duty](https://open.spotify.com/track/3jgeUWpSoqOglOQ4MXZZLL) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 5:39 | 2025-12-18 | 2026-02-02 |
 | [Jimmie Rodgers](https://open.spotify.com/track/0F5Q5lS4avgv8oV4vDbF7b) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:06 | 2025-12-14 | 2026-02-01 |
+| [Judas](https://open.spotify.com/track/2s94PxF7yqcxrsVaaknPtJ) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 4:05 | 2026-07-26 |  |
 | [Judas](https://open.spotify.com/track/5BZkuj677SplOOiKKW7uwT) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Judas](https://open.spotify.com/album/6IBD0Y3s5Ulm3L1Ndp8yY6) | 4:05 | 2025-11-16 | 2025-11-24 |
 | [Junkie](https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Fivo](https://open.spotify.com/artist/7zjzFchjxHqoHq46AiglS2), [Tribal John](https://open.spotify.com/artist/2wOJ5rlkn1qN6EovfmygGe) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 3:12 | 2026-02-02 | 2026-05-04 |
 | [Kindness Is The Rule \- Acoustic Version](https://open.spotify.com/track/1FcmeRpxhfVbAegzbWbnKs) | [Frallzone](https://open.spotify.com/artist/1WehD5r0hUWYOK6AK7nsHr) | [Kindness Is The Rule \(Acoustic Version\)](https://open.spotify.com/album/03ekYPM0j2P37vTIJ8ntg5) | 4:06 | 2026-06-09 | 2026-06-20 |

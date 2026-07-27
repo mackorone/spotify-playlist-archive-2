@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,063 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,110 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 12 | [Big Plans](https://open.spotify.com/track/6oiR3TNT3vNRa9KbP7tTAe) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Big Plans](https://open.spotify.com/album/7ykp48rMKqrXmUfn0dzq52) | 2:26 |
 | 13 | [Jaat Bagdo](https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Dj Sky](https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK) | [ROAR](https://open.spotify.com/album/30WIZPazpfNErodEi7fulf) | 3:09 |
 | 14 | [12 Bande](https://open.spotify.com/track/2KcTIyH6LF1yKEysNFViph) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [12 Bande](https://open.spotify.com/album/2z3ehE5Rn7AAQFuqQjkNJ5) | 2:45 |
-| 15 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 |
-| 16 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
+| 15 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
+| 16 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 |
 | 17 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 |
 | 18 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 |
 | 19 | [UP Garh \(feat\. Manjeet Mor\)](https://open.spotify.com/track/74fWbefeRTpxOFm3JRLRMz) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Amar Karnawal](https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS), [Manjeet Mor](https://open.spotify.com/artist/78slqekUy3ukaQNoEmrBWh) | [UP Garh \(feat\. Manjeet Mor\)](https://open.spotify.com/album/1uo0hUhSEYWcnON8H5YpYP) | 2:28 |

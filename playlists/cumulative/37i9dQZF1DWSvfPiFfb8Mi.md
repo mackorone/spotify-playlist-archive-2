@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-448 songs - 1 day 4 hr 55 min
+449 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 | 2024-01-29 |
 | [Take My Heart](https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Josef Scott](https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS) | [Take My Heart](https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS) | 2:47 | 2025-06-06 |  |
 | [Take You Higher](https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Take You Higher](https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ) | 3:15 | 2024-10-18 |  |
-| [Te Connais Déjà](https://open.spotify.com/track/5cJ1Ul9t29KaqpoRRp41ul) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Te Connais Déjà](https://open.spotify.com/album/0m3T9sEr1d6BEp7SUC7igB) | 3:54 | 2026-05-15 |  |
+| [Te Connais Déjà](https://open.spotify.com/track/5cJ1Ul9t29KaqpoRRp41ul) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Te Connais Déjà](https://open.spotify.com/album/0m3T9sEr1d6BEp7SUC7igB) | 3:54 | 2026-05-15 | 2026-07-27 |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-01 | 2025-02-26 |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-27 | 2025-05-17 |
 | [That's Right \- Edit](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [That's Right \(Edit\)](https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z) | 4:36 | 2024-03-15 |  |
@@ -436,6 +436,7 @@
 | [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 | 2025-04-22 |
 | [what i feel](https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [tomorrow never comes](https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT) | 3:20 | 2024-09-27 |  |
 | [What You Mean to Me](https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Free Fall](https://open.spotify.com/album/6XouRdQWRuzp17zN4IMfjU) | 6:24 | 2021-07-24 | 2023-05-20 |
+| [When the Magic Comes](https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [When the Magic Comes](https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp) | 3:30 | 2026-07-24 |  |
 | [When We're Together](https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Bodies in Motion](https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA) | 3:16 | 2024-10-11 | 2024-11-21 |
 | [Where Is Your Love?](https://open.spotify.com/track/6LpcEu4BJpfP17fRsSwwSm) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Where Is Your Love?](https://open.spotify.com/album/3P59XOkYAUdkVAgElTVRW0) | 3:50 | 2025-09-26 | 2025-10-11 |
 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 | 2025-07-25 |  |

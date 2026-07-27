@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126412,
+  "num_followers": 126423,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
-      },
-      "artists": [
-        {
-          "name": "Ambient Endeavors",
-          "url": "https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W"
-        },
-        {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 474353,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
+      },
+      "artists": [
+        {
+          "name": "Ambient Endeavors",
+          "url": "https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Looking at the World Through a Window",
         "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 308666,
       "name": "Stairwell",
       "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 209115,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "VIII",
-      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 165770,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6jYPt1h4G9y56f5DYADhva"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Meteor Shower",
         "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 240461,
       "name": "Massive",
       "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1383,54 +1383,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Barren",
-        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 616188,
-      "name": "Barren",
-      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Bloom II",
-        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Live This Moment",
-      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "you are now listening to a tender spring",
         "url": "https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X"
       },
@@ -1451,6 +1403,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "A Place to Breathe",
         "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
       },
@@ -1467,18 +1435,34 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
       },
       "artists": [
         {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Bloom II",
+        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Live This Moment",
+      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1499,6 +1483,22 @@
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "growing up",
-        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
-      },
-      "artists": [
-        {
-          "name": "asystole",
-          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
-        }
-      ],
-      "duration_ms": 157755,
-      "name": "growing up",
-      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Chronos",
         "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 355360,
       "name": "Abschied",
       "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
+      },
+      "artists": [
+        {
+          "name": "asystole",
+          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
+        }
+      ],
+      "duration_ms": 157755,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Translucent",
-        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
       },
       "artists": [
         {
-          "name": "The Choir",
-          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
         }
       ],
-      "duration_ms": 366000,
-      "name": "Watching Feathers Float",
-      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     }
   ],
   "unique_name": "Ambient Post-Rock",

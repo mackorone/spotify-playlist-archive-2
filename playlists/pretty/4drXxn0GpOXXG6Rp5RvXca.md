@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain]
 
 > Enjoy your morning to great breakfast dub beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

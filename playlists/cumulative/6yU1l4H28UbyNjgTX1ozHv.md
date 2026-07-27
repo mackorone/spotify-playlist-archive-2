@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-333 songs - 17 hr 2 min
+334 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Don’t Stop Believin’ \- Acoustic](https://open.spotify.com/track/7tJPalk1Sk0UQJtlZEQoxg) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Don’t Stop Believin’ \(Acoustic\)](https://open.spotify.com/album/6rDlVxIAFuNQAyQCRRMRMF) | 3:45 | 2026-06-19 |  |
 | [Dream a Little Dream of Me \- Acoustic](https://open.spotify.com/track/2FzyBzNl3GdsUEu6UYvgaa) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Dream a Little Dream of Me \(Acoustic\)](https://open.spotify.com/album/2G2lk9Ge11GkDwlBR9BbUJ) | 2:38 | 2024-05-29 | 2025-02-10 |
 | [Dream Catch Me \- Acoustic](https://open.spotify.com/track/6gGReVbDXMtNmgYAKLmDW3) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Dream Catch Me \(Acoustic\)](https://open.spotify.com/album/6vDSeFV2p6B3YANoUGyjeC) | 3:04 | 2026-06-19 |  |
+| [Dreams \- Acoustic](https://open.spotify.com/track/3HkOUsaS5OegmCygBXQ6Mh) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Dreams \(Acoustic\)](https://open.spotify.com/album/6bkzq5ALNHReTml253JUCA) | 3:47 | 2026-07-26 |  |
 | [Dreams \- Acoustic](https://open.spotify.com/track/7yR5WMFuIBqq3hHTWs1j3B) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Dreams \(Acoustic\)](https://open.spotify.com/album/23JGW0yrp2NyWwlhiOrjzY) | 2:56 | 2023-09-01 | 2024-02-10 |
 | [Drops of Jupiter](https://open.spotify.com/track/6tq7RIjiez8WkGE9LVFfPF) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Drops of Jupiter](https://open.spotify.com/album/4HiTD3yyQzgjbacLpZI4mN) | 3:38 | 2025-04-25 |  |
 | [Drops of Jupiter \- Acoustic](https://open.spotify.com/track/41Mw2D2PZpuIBGbAwQOE5L) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Drops of Jupiter \(Acoustic\)](https://open.spotify.com/album/1Ezpx8ekXRMKbhREQ0lnKq) | 2:49 | 2024-05-10 |  |
@@ -255,7 +256,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/1Zfwf5Sj6hTzFt7dLrdlCu) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Sweet Child O' Mine](https://open.spotify.com/album/4siAdCXWrND8XwIbEVVOcO) | 3:14 | 2025-05-10 |  |
 | [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 | 2020-08-08 | 2022-07-23 |
 | [Sweet Child O' Mine \- Acoustic Version](https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic Version\)](https://open.spotify.com/album/33ZaiLls318tubzqi9Iyl6) | 2:56 | 2023-11-12 | 2024-04-30 |
-| [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/7IcHMcOmoxYOxxXPoJakNM) | 2:22 | 2026-02-13 |  |
+| [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/7IcHMcOmoxYOxxXPoJakNM) | 2:22 | 2026-02-13 | 2026-07-27 |
 | [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE) | 2:43 | 2023-01-20 | 2023-02-11 |
 | [Sweet Home Alabama \- Acoustic](https://open.spotify.com/track/3erRmhqtHch5MPmHYAlsUC) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Sweet Home Alabama \(Acoustic\)](https://open.spotify.com/album/70AdvQHtuUhoLtbIZyCUDL) | 2:32 | 2024-02-23 | 2024-04-28 |
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |

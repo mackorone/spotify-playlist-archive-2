@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pongamonos sentimentales con las novedades de esta semana, Eden Muñoz y Alfredito Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,203 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,298 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

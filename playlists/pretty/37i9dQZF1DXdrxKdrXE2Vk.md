@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,931 likes - 80 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,929 likes - 80 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-357 songs - 20 hr 25 min
+358 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 | 2024-05-20 |  |
 | [Boys & Guitars](https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Boys & Guitars](https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf) | 3:55 | 2024-09-19 | 2024-12-10 |
 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 | 2025-07-17 |  |
-| [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 | 2025-08-14 |  |
+| [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 | 2025-08-14 | 2026-07-27 |
 | [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 | 2026-05-25 |  |
 | [BYOD](https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [BYOD](https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet) | 3:21 | 2025-05-01 | 2025-05-09 |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 | 2024-11-08 |
@@ -124,6 +124,7 @@
 | [For Life](https://open.spotify.com/track/76Iicmgf804bRnQDFHeCr1) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [For Life](https://open.spotify.com/album/2Kk3WcDTY8yEDH3ZK50XMr) | 4:08 | 2024-05-20 | 2024-11-08 |
 | [For Your Leisure](https://open.spotify.com/track/35fslHvYYrojCFRhHatjuN) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Scatterbrains](https://open.spotify.com/album/4GIxVgeRdeYUpPzTygAcbL) | 4:48 | 2025-02-20 | 2025-05-09 |
 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 | 2024-05-20 |  |
+| [Game](https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7) | [Jonathan Bree](https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh) | [Game](https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo) | 5:37 | 2026-07-23 |  |
 | [Gangsta Lean](https://open.spotify.com/track/6cCUTFJ2uRzTO205PGTkhS) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Gangsta Lean](https://open.spotify.com/album/0hgmt43uuaYXt5xcd3vBmF) | 3:23 | 2024-05-20 | 2024-11-08 |
 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2024-05-20 | 2024-10-04 |
 | [Ghost](https://open.spotify.com/track/5kHdsgUGfFEQRgxSHybWss) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Ghost](https://open.spotify.com/album/02ZquFod2IdjAxRJRIk3Sv) | 2:49 | 2024-05-20 | 2024-08-16 |

@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "STATICA",
+        "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138916,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/28YcWUfBEzk8cKrLmrIJww"
+    },
+    {
+      "album": {
         "name": "Single Album",
         "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 302400,
       "name": "St. James",
       "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
+    },
+    {
+      "album": {
+        "name": "STATICA",
+        "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334431,
+      "name": "STATICA",
+      "url": "https://open.spotify.com/track/4c8HSe1ak7v6zoUb13oLdA"
     },
     {
       "album": {

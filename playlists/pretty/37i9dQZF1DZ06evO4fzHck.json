@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 612850,
+  "num_followers": 612992,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAABAQW15svU06pvBOS7QpohJ",
+  "snapshot_id": "amP8gAAAAADm6ACS7fS1P5xAeRg41Flm",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 304640,
-      "name": "A Strange Day",
-      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
+      "duration_ms": 223760,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 223760,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+      "duration_ms": 304640,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
     },
     {
       "added_at": null,

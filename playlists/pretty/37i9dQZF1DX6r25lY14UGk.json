@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Kamdenboy & Kyraboo",
-  "num_followers": 99115,
+  "num_followers": 99134,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzjKT14TaEqsW0CD5XdZ6Pj+amG",
+  "snapshot_id": "AAAAAFIUnpT8G2ZD9FVU03BKpxApCdZb",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:21",
@@ -27,6 +27,26 @@
       "duration_ms": 188944,
       "name": "Bop Goes the Speaker",
       "url": "https://open.spotify.com/track/1bpwK64HjxNDNymb2kRCPU"
+    },
+    {
+      "added_at": "2026-07-26 19:42:03",
+      "album": {
+        "name": "Fantastic Voyages (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR"
     },
     {
       "added_at": "2026-07-24 21:10:58",
@@ -1171,22 +1191,6 @@
       "duration_ms": 109847,
       "name": "Lachy's Sparkle Music Machine",
       "url": "https://open.spotify.com/track/3u240MRJgxb6BYlkYvzxXW"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "Pickles Nursery Rhyme",
-        "url": "https://open.spotify.com/album/7hED7OqnreKaU0flEcgAN1"
-      },
-      "artists": [
-        {
-          "name": "Gabby's Dollhouse",
-          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
-        }
-      ],
-      "duration_ms": 56022,
-      "name": "Pickles Nursery Rhyme",
-      "url": "https://open.spotify.com/track/2Vrd0yqw3QlJuCNvj3CUnm"
     },
     {
       "added_at": "2026-06-12 04:00:57",

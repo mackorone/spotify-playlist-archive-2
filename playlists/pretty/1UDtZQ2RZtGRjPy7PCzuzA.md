@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,084 songs - 2 day 13 hr 14 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,100 songs - 2 day 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1092,5 +1092,21 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1082 | [Confrontation](https://open.spotify.com/track/4PWOQUEfx2dzEJleMs8oDP) | [Jekyll Hyde](https://open.spotify.com/artist/2tm5E77HtK7hjzlrR2rMm7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:42 |
 | 1083 | [Facade \- Reprise 4](https://open.spotify.com/track/7AhrdaimvAyvrtIZLgF1mg) | [Ensemble](https://open.spotify.com/artist/6zMAnfrMg3Wg0BcgoPUbG7) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:04 |
 | 1084 | [Finale](https://open.spotify.com/track/7meNYyUPWbGCSTDzj2LmTa) | [Emma](https://open.spotify.com/artist/1iZ5s9BHbVIx0iYQ4LXy4G) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 1:24 |
+| 1085 | [Searchin](https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:24 |
+| 1086 | [Genius](https://open.spotify.com/track/7kaIn88Hw1UA054Xy3mdJR) | [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Check Out Melodee](https://open.spotify.com/album/6tlAcJ78PqBy6RRcuOqL5v) | 3:00 |
+| 1087 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 1088 | [Pretend Lovers](https://open.spotify.com/track/7GddnyejWAEvLkzwgAPxi6) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 3:13 |
+| 1089 | [Mice City](https://open.spotify.com/track/1YkI4EAlpLsHUmWWGdh6b6) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Mice City](https://open.spotify.com/album/7n7SphKQCxpVNOzpMHDmYq) | 4:30 |
+| 1090 | [Objects in the Mirror](https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U) | 4:19 |
+| 1091 | [You](https://open.spotify.com/track/0Or79X34c1i8SuyewKL6lU) | [Larry Lovestein & The Velvet Revival](https://open.spotify.com/artist/3LTYeDqM0ojTaTpsi63puM) | [You](https://open.spotify.com/album/7wQ8GKBJ2B0eszyLFMjQ0d) | 5:52 |
+| 1092 | [Suspicions](https://open.spotify.com/track/48VYWTDAIuRp1BhGeE64oj) | [Larry Lovestein & The Velvet Revival](https://open.spotify.com/artist/3LTYeDqM0ojTaTpsi63puM) | [You](https://open.spotify.com/album/7wQ8GKBJ2B0eszyLFMjQ0d) | 3:40 |
+| 1093 | [Doctor, My Eyes](https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:14 |
+| 1094 | [Nothing Burns Like The Cold](https://open.spotify.com/track/6G0KITyDe4EQREYyuVQmOn) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:29 |
+| 1095 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
+| 1096 | ['Cause I'm A Man](https://open.spotify.com/track/2O99aywAVBhaPrsiJ6zbSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:01 |
+| 1097 | [Happy With It](https://open.spotify.com/track/6JcsP5IHMUxrwph3K7nQhv) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:17 |
+| 1098 | [Notting Hill](https://open.spotify.com/track/0DDsSbVaPO76UdbWLe95cA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Notting Hill](https://open.spotify.com/album/7zAYZLmTr2H1npTp0jZthc) | 3:10 |
+| 1099 | [18](https://open.spotify.com/track/2Df5ZX1R04fIp5uIyxrA8D) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland \(Bonus Track Version\)](https://open.spotify.com/album/6rLBGig7awR8nRMt0suKbv) | 3:01 |
+| 1100 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `AAALM9WwX3VAcwtycB9S7xMDjDC+ouoZ`
+Snapshot ID: `AAALQ7QvhG2GlcRNSOyPTZ3oGf5IACtN`

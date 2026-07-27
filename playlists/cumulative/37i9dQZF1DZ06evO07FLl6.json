@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Original Jazz Movie Soundtracks, Vol. 1",
+        "url": "https://open.spotify.com/album/4ZGu8UInnXWY5MKY6NRBFr"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Florence Sur Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/0AcQr3LVhWxZ0LnJ2ppoBU"
+    },
+    {
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -492,7 +510,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 172026,
       "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"

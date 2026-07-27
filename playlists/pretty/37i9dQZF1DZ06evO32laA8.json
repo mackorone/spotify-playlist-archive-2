@@ -1,12 +1,12 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 53181,
+  "num_followers": 53175,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAABefJ2kgzecwZYcjMLhLs/E",
+  "snapshot_id": "amP8gAAAAAA4Acw4shg10uwTyeyvOR87",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
       },
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED",
-        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb"
       },
       "artists": [
         {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 137851,
-      "name": "HAUNTED",
-      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
+      "duration_ms": 177245,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU"
     },
     {
       "added_at": null,
@@ -151,6 +135,22 @@
       "duration_ms": 144588,
       "name": "Muse",
       "url": "https://open.spotify.com/track/0GcIpFrLWnB1sLIlxNw1VP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED",
+        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137851,
+      "name": "HAUNTED",
+      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 166816,
-      "name": "The Things That I Would Do To Be Enough For You",
-      "url": "https://open.spotify.com/track/6uHDFTfJ410m2sgkxwv4fp"
+      "duration_ms": 129931,
+      "name": "eyes don't lie sped up",
+      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+        "name": "Promising Young Woman",
+        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 129931,
-      "name": "eyes don't lie sped up",
-      "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
+      "duration_ms": 166816,
+      "name": "The Things That I Would Do To Be Enough For You",
+      "url": "https://open.spotify.com/track/6uHDFTfJ410m2sgkxwv4fp"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/62jwvr04aHhftJigsHmGnn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
       },
@@ -327,22 +311,6 @@
       "duration_ms": 178806,
       "name": "Famous",
       "url": "https://open.spotify.com/track/4OVK8oaLIhx9Xu0P8D3SA7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 122576,
-      "name": "Favorite Sped Up",
-      "url": "https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob"
     },
     {
       "added_at": null,
@@ -372,9 +340,25 @@
           "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 168221,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/6EahR5pla7qourGwPzWUYW"
+      "duration_ms": 171360,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/62jwvr04aHhftJigsHmGnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 122576,
+      "name": "Favorite Sped Up",
+      "url": "https://open.spotify.com/track/0H2hzCPL66lueCl5n9qpob"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Promising Young Woman",
+        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/6EahR5pla7qourGwPzWUYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Promising Young Woman",
-        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 182797,
-      "name": "Hate Myself For Loving You",
-      "url": "https://open.spotify.com/track/3sYBtSEru5zOLg8IwWIeLu"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Promising Young Woman",
+        "url": "https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 182797,
+      "name": "Hate Myself For Loving You",
+      "url": "https://open.spotify.com/track/3sYBtSEru5zOLg8IwWIeLu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5j1y9v7z07RcLBUyTvMvUx"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/4KyTnzwdUOh7Tyr4oVhCdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/012dJutTI1nox9KAK5ER31"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 151021,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/57VTWm2rMYF5MP1H5Cw0qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5j1y9v7z07RcLBUyTvMvUx"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/4KyTnzwdUOh7Tyr4oVhCdg"
     },
     {
       "added_at": null,

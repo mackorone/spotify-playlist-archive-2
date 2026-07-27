@@ -572,6 +572,24 @@
     {
       "album": {
         "name": "Gentleman",
+        "url": "https://open.spotify.com/album/49ztAo70OidQnboagHWUWl"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
         "url": "https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7"
       },
       "artists": [
@@ -582,7 +600,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 215602,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR"

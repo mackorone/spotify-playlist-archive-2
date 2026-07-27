@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 260893,
+  "num_followers": 260944,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Cumbias Y Mas Con Banda",
+        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
+      },
+      "artists": [
+        {
+          "name": "Banda Oasis De Valentin Figueroa",
+          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "La Ni\u00f1a Esta Triste",
+      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "Mi Gran Amor",
-        "url": "https://open.spotify.com/album/70sThx1jwaKNpiBVYbfEYZ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Joya De Antequera",
-          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
-        }
-      ],
-      "duration_ms": 222527,
-      "name": "La Danza de la Chiva",
-      "url": "https://open.spotify.com/track/7myTBGy1lzegbBE61puel8"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Cumbias Y Mas Con Banda",
-        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
+        "name": "Mi Gran Amor",
+        "url": "https://open.spotify.com/album/70sThx1jwaKNpiBVYbfEYZ"
       },
       "artists": [
         {
-          "name": "Banda Oasis De Valentin Figueroa",
-          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
+          "name": "Banda La Joya De Antequera",
+          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
         }
       ],
-      "duration_ms": 165693,
-      "name": "La Ni\u00f1a Esta Triste",
-      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
+      "duration_ms": 222527,
+      "name": "La Danza de la Chiva",
+      "url": "https://open.spotify.com/track/7myTBGy1lzegbBE61puel8"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
-        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "El Tiliche",
-      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
-        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274064,
-      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
-      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -1159,6 +1127,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
+        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "El Tiliche",
+      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "Agua de T\u00e9",
         "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
+        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
+      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+      "duration_ms": 162117,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 162117,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2025-09-01 20:36:31",

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,334 songs - 2 day 3 hr 0 min
+1,335 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-07-27 |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -1191,6 +1191,7 @@
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2021-11-10 | 2022-06-10 |
 | [Tiara](https://open.spotify.com/track/5Bajh2P9CcqPmNTwolJTPP) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [Tiara](https://open.spotify.com/album/3ViTShNy22Hi10GyXLKfrd) | 3:25 | 2025-02-19 | 2025-03-15 |
 | [Tidal Dream](https://open.spotify.com/track/447zVLZbjxNYmeWSm5cm6x) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Tidal Dream](https://open.spotify.com/album/6VpMu9NroBHtc6GsIAPJsy) | 2:40 | 2025-11-25 |  |
+| [Tides](https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Tides](https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP) | 2:58 | 2026-07-23 |  |
 | [Time \- Birds of the West Remix](https://open.spotify.com/track/1kl3d9lcw2OaIx1I3JmfLS) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Time \(Birds of the West Remix\)](https://open.spotify.com/album/5FO1Dap8bsOhZ98WMy5Vv5) | 2:59 | 2022-09-09 | 2023-10-06 |
 | [Time Out](https://open.spotify.com/track/0XucO4F8DbXgABJvfDgY8F) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Time Out](https://open.spotify.com/album/7b3ICAYEyq0JiGVZZgEIth) | 2:14 | 2022-06-10 | 2023-09-22 |
 | [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 | 2025-12-05 |

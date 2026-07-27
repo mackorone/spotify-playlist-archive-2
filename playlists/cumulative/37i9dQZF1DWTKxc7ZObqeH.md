@@ -4,7 +4,7 @@
 
 > Relaxing jazz for warm summer days.
 
-375 songs - 23 hr 26 min
+376 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Little Havana](https://open.spotify.com/track/7CDu3z1Fry3YYNLlFvRPYI) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Little Havana](https://open.spotify.com/album/5hKNsUFtZ7OOH768KdnVTx) | 3:20 | 2023-08-10 | 2026-05-09 |
 | [Li´l Darlin](https://open.spotify.com/track/1lEcERHb1xMw2pxYKIE9qw) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Li´l Darlin](https://open.spotify.com/album/4RKdiX9Za8FoqUmNjU3yJZ) | 3:43 | 2026-05-08 |  |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-02-16 | 2024-03-22 |
+| [Long Ago And Far Away](https://open.spotify.com/track/70Mx5ManAQhfmWany4Ka57) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Long Ago And Far Away](https://open.spotify.com/album/2tNreTw9Fs57DkiLGTJTG1) | 3:06 | 2026-07-26 |  |
 | [Looking At Stars](https://open.spotify.com/track/2jR6fh4E32yt77WuKXg6QL) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [Looking At Stars](https://open.spotify.com/album/2iT554owkVqNwH1BcPTC6t) | 4:16 | 2024-08-12 | 2025-07-24 |
 | [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2022-02-16 | 2024-07-23 |
 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 | 2022-09-06 |  |

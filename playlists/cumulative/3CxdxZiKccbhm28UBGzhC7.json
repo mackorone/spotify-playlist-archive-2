@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/4E9neQ6TnlFxMaLoboETua"
+      },
+      "artists": [
+        {
+          "name": "Super Furry Animals",
+          "url": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108733,
+      "name": "God! Show Me Magic",
+      "url": "https://open.spotify.com/track/6iIE1l1QopHXcDTfbLE9oI"
+    },
+    {
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },

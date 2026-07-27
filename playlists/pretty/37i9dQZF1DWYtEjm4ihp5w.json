@@ -1,12 +1,12 @@
 {
   "description": "Cover: 7ari",
-  "num_followers": 388173,
+  "num_followers": 388227,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTY6p4ZICyzHgp2qUMyYMIikBa4",
+  "snapshot_id": "AAAAAIGtu2dX2b0IXL+Zd/8+8J4upqQU",
   "tracks": [
     {
       "added_at": "2026-07-18 23:00:29",
@@ -113,6 +113,30 @@
       "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
     },
     {
+      "added_at": "2026-07-24 09:08:56",
+      "album": {
+        "name": "Bubbaloo",
+        "url": "https://open.spotify.com/album/5ewr5yE9tQ3f6wRljkGUqw"
+      },
+      "artists": [
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        },
+        {
+          "name": "DEIMI",
+          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "Bubbaloo",
+      "url": "https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ"
+    },
+    {
       "added_at": "2026-07-18 23:00:29",
       "album": {
         "name": "Traitement 2",
@@ -149,22 +173,6 @@
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
     },
     {
-      "added_at": "2026-07-24 09:08:56",
-      "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 208854,
-      "name": "103",
-      "url": "https://open.spotify.com/track/3p59xsENCUBnCC4biGR9GK"
-    },
-    {
       "added_at": "2026-07-18 23:00:29",
       "album": {
         "name": "SPLIT",
@@ -179,6 +187,22 @@
       "duration_ms": 183043,
       "name": "DFN",
       "url": "https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n"
+    },
+    {
+      "added_at": "2026-07-24 09:08:56",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "103",
+      "url": "https://open.spotify.com/track/3p59xsENCUBnCC4biGR9GK"
     },
     {
       "added_at": "2026-07-18 23:00:29",
@@ -363,30 +387,6 @@
       "duration_ms": 177576,
       "name": "ACH DANI",
       "url": "https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel"
-    },
-    {
-      "added_at": "2026-07-24 09:08:56",
-      "album": {
-        "name": "Bubbaloo",
-        "url": "https://open.spotify.com/album/5ewr5yE9tQ3f6wRljkGUqw"
-      },
-      "artists": [
-        {
-          "name": "S13",
-          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
-        },
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        },
-        {
-          "name": "DEIMI",
-          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "Bubbaloo",
-      "url": "https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ"
     },
     {
       "added_at": "2026-07-18 23:00:29",

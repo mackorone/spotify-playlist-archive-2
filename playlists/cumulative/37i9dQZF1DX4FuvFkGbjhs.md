@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Worldpeace DMT
 
-928 songs - 2 day 5 hr 29 min
+929 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [dead giveaway](https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:47 | 2024-09-12 | 2025-01-24 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-27 | 2024-08-09 |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/album/4er5M8euXXFNtJd5PCXA1W) | 3:50 | 2024-06-27 | 2024-07-19 |
-| [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-23 |  |
+| [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-23 | 2026-07-27 |
 | [Declare Me Dead!](https://open.spotify.com/track/4dFScdueJuGXSumYDDhYHi) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Declare Me Dead!](https://open.spotify.com/album/4IVjJgmYHV6fJgxGhWeXqt) | 3:26 | 2025-07-10 | 2025-09-05 |
 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 | 2024-10-03 | 2024-10-18 |
 | [DEGENERATE](https://open.spotify.com/track/6yhRDR8pjoEIXJBOxsijW0) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ), [Oakruled](https://open.spotify.com/artist/1qRVS1GgGkNSbqfgOz1o3R) | [Far Away Grass](https://open.spotify.com/album/3ZwBGCPjYBtpyS6z55IWU3) | 3:14 | 2026-07-09 |  |
@@ -401,6 +401,7 @@
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-10 | 2025-02-21 |
 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 | 2025-07-03 | 2025-09-12 |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 | 2025-09-18 | 2025-11-08 |
+| [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 | 2026-07-23 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [I Would Die 4 U](https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO) | 3:21 | 2024-09-05 | 2024-09-21 |
 | [I'm on your team](https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [I'm on your team](https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT) | 3:47 | 2024-10-24 | 2025-02-21 |
 | [I'm Your Dirt, I'm Your Love](https://open.spotify.com/track/72CUf7pWNkykpZ5dUxdGlb) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Jonatan](https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l) | 2:51 | 2025-05-01 | 2025-08-15 |

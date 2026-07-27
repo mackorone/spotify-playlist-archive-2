@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,085 songs - 2 day 20 hr 21 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,088 songs - 2 day 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1093,5 +1093,8 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1083 | [Busca Soluciones](https://open.spotify.com/track/2PRtmCnP8N1gpNJO8sgrEa) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Como Superman](https://open.spotify.com/album/02FyTy7so3qKytEzvm2hoE) | 3:58 |
 | 1084 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 |
 | 1085 | [Five Million Ways to Die](https://open.spotify.com/track/1v5995U5wIjCYs2AHkPgEF) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Five Million Ways to Die](https://open.spotify.com/album/0BCu84kJvCDGbHm03cPL6T) | 3:18 |
+| 1086 | [Nada Para el Final](https://open.spotify.com/track/0mHf1ye1UPJtCpXtXU96qg) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5), [Germán Villanueva](https://open.spotify.com/artist/7lzPFDJz9rjFD9LuT3qOXy) | [Nada Para el Final](https://open.spotify.com/album/32RmbZnbq7AM5Q4Z9lWFbP) | 4:29 |
+| 1087 | [Left Behind](https://open.spotify.com/track/3IOiro4TIqIr5iDIxqfIOw) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 4:14 |
+| 1088 | [Good Friends & Bad Decisions](https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY) | [Be Quiet Brenna](https://open.spotify.com/artist/2xoRLPY284eB59QCr3J9aT) | [Good Friends & Bad Decisions](https://open.spotify.com/album/2onXjgWRzTud7vk1OrBvbG) | 3:23 |
 
-Snapshot ID: `AAAEZjJzruz14QB/IjSBsq10WAuQcsyH`
+Snapshot ID: `AAAEaVGmUs/3tCyCaT4xlJZg5hTAAMVG`

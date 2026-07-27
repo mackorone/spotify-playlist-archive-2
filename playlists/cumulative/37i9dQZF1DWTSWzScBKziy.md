@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,438 songs - 3 day 15 hr 39 min
+1,439 songs - 3 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,6 +1169,7 @@
 | [Talking Like Friends](https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Talking Like Friends](https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91) | 4:52 | 2026-07-17 |  |
 | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx) | 3:38 | 2022-05-27 | 2024-06-08 |
 | [Tears Of Joy](https://open.spotify.com/track/2Ls93EVqKPAOMm5fxNQh1R) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Tears Of Joy](https://open.spotify.com/album/4LA0F9W4c0RVRqLgq9HzGv) | 3:22 | 2024-11-29 | 2025-03-22 |
+| [Terms & Conditions](https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz) | [Zoe Levert](https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8) | [Terms & Conditions](https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5) | 4:07 | 2026-07-17 |  |
 | [Testament](https://open.spotify.com/track/64VGyBMqnwD7kbLZf8oJvv) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59) | 4:55 | 2024-07-26 | 2024-10-12 |
 | [Testify \- Live](https://open.spotify.com/track/4QQYtU4r6bySFGzJR0kenJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/7GEEof66PEGGqAz5AYc0Do) | 3:48 | 2024-06-07 | 2024-08-10 |
 | [Testify To Love](https://open.spotify.com/track/6jgR72xCkmEMlTfAtBxdne) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Michael Passons](https://open.spotify.com/artist/0nttS1GdwIYdTRwFXx0qd9), [Melissa Greene](https://open.spotify.com/artist/3nGZTPrP9b1aUIHKl2uag5) | [Testify To Love](https://open.spotify.com/album/4j4F2aqgrDHdKzqChgO3iI) | 3:53 | 2026-05-19 | 2026-05-30 |
@@ -1256,7 +1257,7 @@
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2022-10-29 | 2024-04-19 |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-29 | 2023-02-25 |
 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 | 2025-11-15 | 2026-01-18 |
-| [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 | 2026-07-17 |  |
+| [This Is The Christ](https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [This Is The Christ](https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB) | 3:25 | 2026-07-17 | 2026-07-27 |
 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 | 2022-05-27 | 2024-06-08 |
 | [This Is The Kingdom](https://open.spotify.com/track/6X2Hk6NqJZtRaQKi0yDNdR) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [This Is The Kingdom](https://open.spotify.com/album/7KozhBzKtdVRPbQpGF8eQf) | 3:22 | 2025-10-06 | 2025-11-16 |
 | [This Is Where It Ends](https://open.spotify.com/track/3eWh9MGqBQDIh4in5G4aMc) | [Izzy Marcil](https://open.spotify.com/artist/5TLisHXAWT6wxNAPpBtKyW), [Ester Na](https://open.spotify.com/artist/2ovCrxeZKuCtLvBMbVbu4V) | [This Is Where It Ends](https://open.spotify.com/album/16GXDHvlNbXxwBgzIbuhW0) | 3:33 | 2026-02-20 | 2026-03-22 |

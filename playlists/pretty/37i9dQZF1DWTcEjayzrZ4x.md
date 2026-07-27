@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental jazz for your softest moments 🐈
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,434 likes - 195 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,450 likes - 195 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

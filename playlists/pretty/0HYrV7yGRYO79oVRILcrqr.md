@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,879 likes - 90 songs - 5 hr 48 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,879 likes - 91 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 88 | [She Sighs](https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When It Was beautiful EP](https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu) | 2:40 |
 | 89 | [I Know You Feel It Too](https://open.spotify.com/track/7x5GONGzH06p1jdbfM7dnM) | [Capturing Callahan](https://open.spotify.com/artist/1KfGxQ1rveLpPoj1aBHTNy) | [Tailwater Dreams](https://open.spotify.com/album/2btqHPX6FKUXIqQy69VXDS) | 4:01 |
 | 90 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 |
+| 91 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 |
 
-Snapshot ID: `AAAMHZ9FhKZwwI0iSoELuiZ6+6CXus/Z`
+Snapshot ID: `AAAMHhhRpAgsJW21EkHY2jbill2nHOo5`

@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66894,
+  "num_followers": 66900,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Thuis (feat. Per.verz)",
+        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
+      },
+      "artists": [
+        {
+          "name": "Engel & Just",
+          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Thuis (feat. Per.verz)",
+      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Bang To The Boogie EP",
         "url": "https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 268920,
       "name": "Steppin' On My Rhyme (feat. Tienus)",
       "url": "https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Thuis (feat. Per.verz)",
-        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
-      },
-      "artists": [
-        {
-          "name": "Engel & Just",
-          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Thuis (feat. Per.verz)",
-      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Wij Zijn",
+        "url": "https://open.spotify.com/album/4w80bpfxGVJqrPPevTLuGS"
+      },
+      "artists": [
+        {
+          "name": "Boef en de Gelogeerde Aap",
+          "url": "https://open.spotify.com/artist/3evPnx06muDkZD3j1m1QZp"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Wij Zijn",
+      "url": "https://open.spotify.com/track/3GWUyMwZfzLCUktWzns0jP"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Fock Wachten",
         "url": "https://open.spotify.com/album/3b5abxsd9L298UGFz8i3o2"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 228533,
       "name": "Fock Wachten",
       "url": "https://open.spotify.com/track/3i3HOILuSTWdthmqMljJIg"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Wij Zijn",
-        "url": "https://open.spotify.com/album/4w80bpfxGVJqrPPevTLuGS"
-      },
-      "artists": [
-        {
-          "name": "Boef en de Gelogeerde Aap",
-          "url": "https://open.spotify.com/artist/3evPnx06muDkZD3j1m1QZp"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "Wij Zijn",
-      "url": "https://open.spotify.com/track/3GWUyMwZfzLCUktWzns0jP"
     },
     {
       "added_at": "2024-09-09 11:56:35",

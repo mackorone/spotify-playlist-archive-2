@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Alice In Chains",
+        "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4ccNZzUTggy51RFvIzYRhT"
+    },
+    {
+      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -658,6 +676,24 @@
       "duration_ms": 227973,
       "name": "All The Kids Are Right",
       "url": "https://open.spotify.com/track/50kQ7oNv9cGEs8JRC614hl"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
       "album": {
@@ -1497,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "album": {
         "name": "Million Dollars to Kill Me",
         "url": "https://open.spotify.com/album/0yHY93oe7dloYDify7BS18"
       },
@@ -1606,7 +1660,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 725722,
       "name": "black screen",
       "url": "https://open.spotify.com/track/0AUp2LQdUSJRtQa5rTx3fJ"
@@ -2473,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "WWCD",
+        "url": "https://open.spotify.com/album/13PxecK9Bart7ir6STafXP"
+      },
+      "artists": [
+        {
+          "name": "Griselda",
+          "url": "https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168938,
+      "name": "Chef Dreds",
+      "url": "https://open.spotify.com/track/4jtkMB1q0M4icd8Xnwpiwx"
+    },
+    {
+      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -2888,7 +2960,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 209256,
       "name": "Crucified Son",
       "url": "https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa"
@@ -3696,7 +3768,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 302626,
       "name": "Down With the King (feat. Pete Rock & C.L. Smooth)",
       "url": "https://open.spotify.com/track/2oSPru8bef0EMhF9tvMSLn"
@@ -4201,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Link Wray",
+        "url": "https://open.spotify.com/album/6NYyr8iHYfYxCRrvFu0Xfi"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Fallin' Rain",
+      "url": "https://open.spotify.com/track/64dByZjmB5NN5PiWZQdM2X"
+    },
+    {
+      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -4685,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Quality",
+        "url": "https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2"
+    },
+    {
+      "album": {
         "name": "10:10",
         "url": "https://open.spotify.com/album/3pyL2DyrsM2GrzAjrUwPYj"
       },
@@ -4829,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Normal Street",
+        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Good Lord Lorrie",
+      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -4876,7 +5002,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 192826,
       "name": "Goodbye Yellow Brick Road - Remastered 2014",
       "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
@@ -6015,6 +6141,24 @@
     },
     {
       "album": {
+        "name": "I Miss That Feeling",
+        "url": "https://open.spotify.com/album/7JWXCrTzHgiGo95ZG5japE"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "I Miss That Feeling",
+      "url": "https://open.spotify.com/track/42XZcWNSbZCPQarEodiHbi"
+    },
+    {
+      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
@@ -6062,7 +6206,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 496813,
       "name": "I Never Could Get Enough",
       "url": "https://open.spotify.com/track/0GJQO6odBx7Ha2BjiyhlXo"
@@ -6566,7 +6710,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 285943,
       "name": "idkwntht",
       "url": "https://open.spotify.com/track/3AZyeUG0UUzENA5t0V9O09"
@@ -7242,7 +7386,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 229866,
       "name": "Know Better Learn Faster",
       "url": "https://open.spotify.com/track/6uNZ2ixwMy1fj7NOEEJEBA"
@@ -7520,6 +7664,24 @@
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Light Upon the Lake",
+      "url": "https://open.spotify.com/track/5vEL3EpvP50ynXJqLon8yv"
     },
     {
       "album": {
@@ -8970,7 +9132,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 220056,
       "name": "Negus",
       "url": "https://open.spotify.com/track/0oWcVb7OQ2ClG6iv8hwNrU"
@@ -10089,6 +10251,24 @@
     },
     {
       "album": {
+        "name": "The Beach Boys Today! (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/03Uyb8VZwamvPv9z3WHwp0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168946,
+      "name": "Please Let Me Wonder (Stereo)",
+      "url": "https://open.spotify.com/track/4XOMLnCpUmajrwd07JjIqf"
+    },
+    {
+      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -10690,6 +10870,24 @@
       "duration_ms": 289163,
       "name": "Return of the \"G\"",
       "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
+    },
+    {
+      "album": {
+        "name": "Greg Mendez",
+        "url": "https://open.spotify.com/album/7imr7TpCpeWy3JftL8nU1o"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169012,
+      "name": "Rev. John / Friend",
+      "url": "https://open.spotify.com/track/7dn6wg1zv2QzMeFvPskCYy"
     },
     {
       "album": {
@@ -11824,7 +12022,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 203346,
       "name": "Something On Your Mind",
       "url": "https://open.spotify.com/track/23KI77aH4TKcb3rOMsYiSg"
@@ -13896,7 +14094,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
@@ -14726,7 +14924,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 175000,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/2XUYTPkDrF0Qx9iGkOw4qA"

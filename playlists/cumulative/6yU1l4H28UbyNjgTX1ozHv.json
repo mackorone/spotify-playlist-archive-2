@@ -1182,6 +1182,24 @@
     {
       "album": {
         "name": "Dreams (Acoustic)",
+        "url": "https://open.spotify.com/album/6bkzq5ALNHReTml253JUCA"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227082,
+      "name": "Dreams - Acoustic",
+      "url": "https://open.spotify.com/track/3HkOUsaS5OegmCygBXQ6Mh"
+    },
+    {
+      "album": {
+        "name": "Dreams (Acoustic)",
         "url": "https://open.spotify.com/album/23JGW0yrp2NyWwlhiOrjzY"
       },
       "artists": [
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 142758,
       "name": "Sweet Dreams (Are Made of This) - Acoustic",
       "url": "https://open.spotify.com/track/0dIH2PTEvCAoqiLZz4oVsX"

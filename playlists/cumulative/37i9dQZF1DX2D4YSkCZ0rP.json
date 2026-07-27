@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#BGP",
+        "url": "https://open.spotify.com/album/2UBCtI3EM6QkS91zk2Xw8B"
+      },
+      "artists": [
+        {
+          "name": "AYMCE",
+          "url": "https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230896,
+      "name": "#BGP",
+      "url": "https://open.spotify.com/track/7m2oXUvAtrsMxGarL62Hq1"
+    },
+    {
+      "album": {
         "name": "14 en plein \u00e9t\u00e9",
         "url": "https://open.spotify.com/album/77KYVzSuFzI5UnexJ2KqSA"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 187007,
       "name": "2bikini",
       "url": "https://open.spotify.com/track/7GOl1L3xr481JtO2XCRSC6"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 147428,
       "name": "LES DEUX",
       "url": "https://open.spotify.com/track/6TApshryHQoa8jPVugndQZ"
@@ -1708,6 +1726,24 @@
       "duration_ms": 142332,
       "name": "OH MA PICHE",
       "url": "https://open.spotify.com/track/6uYv2ObL0mAtVSAs7j6opu"
+    },
+    {
+      "album": {
+        "name": "OLALA",
+        "url": "https://open.spotify.com/album/6fcHgkUE2wJTAAvIDEfB1V"
+      },
+      "artists": [
+        {
+          "name": "CH\u00c9RI",
+          "url": "https://open.spotify.com/artist/2ueYa1egeXuQXK4QPfd3cF"
+        }
+      ],
+      "date_added": "2026-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139520,
+      "name": "OLALA",
+      "url": "https://open.spotify.com/track/5hyPI9MvNnjhLfZvNKSqwp"
     },
     {
       "album": {
@@ -2280,7 +2316,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 196608,
       "name": "Time To Start Again",
       "url": "https://open.spotify.com/track/3WMXnozHORJk2Ztxr3UWpa"

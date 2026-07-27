@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-653 songs - 1 day 19 hr 49 min
+654 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 | 2026-01-15 |
 | [Na Who You Be](https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Come and See / Na Who You Be](https://open.spotify.com/album/7y06rcPwJmbHVibiNWEjCa) | 2:43 | 2025-03-28 | 2025-06-20 |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 | 2025-02-28 |
-| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 |  |
+| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 | 2026-07-27 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
 | [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 | 2026-07-18 |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-07-11 |
@@ -611,6 +611,7 @@
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-09-27 | 2025-02-07 |
 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 | 2024-10-04 |  |
 | [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 | 2026-01-09 | 2026-02-27 |
+| [What A Life](https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What A Life](https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q) | 2:54 | 2026-07-24 |  |
 | [When I Lift Up My Eyes \- Gratitude Live Version](https://open.spotify.com/track/4fBQfTxjfYsmnpoJuiD7u9) | [Mister Pryz](https://open.spotify.com/artist/5qTx80xfDGeoEIHHHZPlxs) | [When I Lift Up My Eyes \(Gratitude Live Version\)](https://open.spotify.com/album/6LqsZEA6lTwegDkDJfmEG9) | 4:21 | 2024-11-22 | 2025-02-21 |
 | [Who Am I](https://open.spotify.com/track/5edoZF7ljhPV7BE9HNJwXm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Who Am I](https://open.spotify.com/album/4l2LkYv2QarzGQouHoRkqe) | 1:39 | 2025-10-31 | 2025-12-12 |
 | [Will Be Done](https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H) | [Trendsetter Sense](https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Will Be Done](https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd) | 3:41 | 2026-05-01 |  |

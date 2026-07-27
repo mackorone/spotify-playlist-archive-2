@@ -4,7 +4,7 @@
 
 > 
 
-1,085 songs - 2 day 20 hr 21 min
+1,088 songs - 2 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Going out on Top](https://open.spotify.com/track/2tTTnNdQ8tSN9sOgiHg0hG) | [Come On Tiger](https://open.spotify.com/artist/1afu8g2MsViBZAmFWpS5ut) | [Going out on Top](https://open.spotify.com/album/6I4QoJqLAAYc8koIRKs1YU) | 2:04 | 2025-07-05 |  |
 | [Gone Too Soon](https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Gone Too Soon](https://open.spotify.com/album/4KdQsQvZxJfXaTX5wBJtDj) | 3:24 | 2026-01-06 |  |
 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 | 2025-11-12 |  |
+| [Good Friends & Bad Decisions](https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY) | [Be Quiet Brenna](https://open.spotify.com/artist/2xoRLPY284eB59QCr3J9aT) | [Good Friends & Bad Decisions](https://open.spotify.com/album/2onXjgWRzTud7vk1OrBvbG) | 3:23 | 2026-07-26 |  |
 | [Goodbye Letter](https://open.spotify.com/track/77xhjQ8VKYsi4penMt0OLR) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [APOCALIPS](https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH) | 4:07 | 2025-06-12 |  |
 | [Gratitude Impulse](https://open.spotify.com/track/3SufJs4GimU5DoDW5QmwJC) | [Lunar Veil](https://open.spotify.com/artist/3HPjPQfQnLauhwjOTtv3Mv) | [Dominic](https://open.spotify.com/album/1ooMK7vdu0sj0XSkgEclVm) | 4:18 | 2025-02-05 |  |
 | [Gratitude Song](https://open.spotify.com/track/0AAt6Y5oW7kmwZ6D6KdQeT) | [Myles](https://open.spotify.com/artist/3PSii4mKOBn8e5GMhBWOeg) | [Gratitude Song](https://open.spotify.com/album/3d5ozSDHy0Epx8LBJyYnn7) | 3:28 | 2025-07-27 |  |
@@ -471,6 +472,7 @@
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2026-03-18 |  |
 | [Le Bal](https://open.spotify.com/track/3dW8YogKgcwaLkvvI3uIcA) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Catena Aurea](https://open.spotify.com/album/56e8OMpTfiEI8L3MMrrdrS) | 3:55 | 2025-11-27 |  |
 | [Learn How To Breathe](https://open.spotify.com/track/2ygt3OZ0YVolRALTFBsgL2) | [Anger Grinder](https://open.spotify.com/artist/1Rd9Q8gvSQSltJ9GOE5cUk) | [Learn How To Breathe](https://open.spotify.com/album/2psJxyxFkHgZjZqXYu8khj) | 3:18 | 2025-07-25 |  |
+| [Left Behind](https://open.spotify.com/track/3IOiro4TIqIr5iDIxqfIOw) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 4:14 | 2026-07-26 |  |
 | [Left to Weather](https://open.spotify.com/track/7jI5tarHRORfQUnElFk1oE) | [With Abandon](https://open.spotify.com/artist/7kZkmClrQJfxczvl8LOHM3) | [Split](https://open.spotify.com/album/6dHBxQurTI0uAYyxYYAMTM) | 3:39 | 2024-12-12 |  |
 | [Leftist Narcissist](https://open.spotify.com/track/5OnGAv04Ee2zIXMI9VqHD0) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Leftist Narcissist](https://open.spotify.com/album/2K0hoYY7n4aHtbH8d7mFu1) | 3:39 | 2026-02-07 |  |
 | [Let Me Go](https://open.spotify.com/track/6jHS8O6Fssinbzn7X2GCgE) | [My Escape](https://open.spotify.com/artist/1r5qGHsIkbMAUVD0hQw2AF) | [My Escape](https://open.spotify.com/album/5TcxLDwJGMUwVQF18CEIVZ) | 2:26 | 2024-12-20 |  |
@@ -565,6 +567,7 @@
 | [My Way](https://open.spotify.com/track/1Rxzi7td7C5Ekg2bmzSjsS) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [My Way](https://open.spotify.com/album/5tGheYMFTko8nyC9qZpKkO) | 3:24 | 2025-09-30 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-27 |  |
 | [Nacidos Para Morir \- Single Version](https://open.spotify.com/track/50Kdak9iomidvspQPBhzkC) | [Lord Coca](https://open.spotify.com/artist/5AAnBIuxqnTGGcgNckk9ak) | [Nacidos Para Morir](https://open.spotify.com/album/4MCKn2YGyYe62KKnlTccHi) | 2:54 | 2025-03-18 |  |
+| [Nada Para el Final](https://open.spotify.com/track/0mHf1ye1UPJtCpXtXU96qg) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5), [Germán Villanueva](https://open.spotify.com/artist/7lzPFDJz9rjFD9LuT3qOXy) | [Nada Para el Final](https://open.spotify.com/album/32RmbZnbq7AM5Q4Z9lWFbP) | 4:29 | 2026-07-26 |  |
 | [Nationalize](https://open.spotify.com/track/5Tyl8nYoaq9OPUrx7D6snN) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD), [Oliver Hild](https://open.spotify.com/artist/4Wu9JsTDJDrarSwrY3Ocj8) | [Nationalize](https://open.spotify.com/album/0gU6RlfoPfRbPmNeEINKuU) | 5:02 | 2025-05-06 |  |
 | [Natural](https://open.spotify.com/track/3dLC3AnDK6QbxnhPWwWRAE) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Math](https://open.spotify.com/album/3Q5Qp1xWCfFg3YYSNlmwU9) | 3:13 | 2026-02-26 |  |
 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 | 2026-05-09 |  |

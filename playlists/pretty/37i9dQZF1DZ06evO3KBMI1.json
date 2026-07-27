@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 75003,
+  "num_followers": 75005,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amKrAAAAAADFmYQn1HFnueWz+Dq2c5ir",
+  "snapshot_id": "amP8gAAAAABaH4RvMZa0suqhEMBODa1d",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "REVERSI",
-      "url": "https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 274800,
       "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
       "url": "https://open.spotify.com/track/6C0gAZcbctqrkeV3hh0uvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "REVERSI",
+      "url": "https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2"
     },
     {
       "added_at": null,

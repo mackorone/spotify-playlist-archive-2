@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Kany
 
-757 songs - 1 day 11 hr 37 min
+758 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [OFELE](https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:30 | 2026-03-12 | 2026-04-17 |
 | [Off](https://open.spotify.com/track/1NIe6RL8XQBvH3pXkIoy95) | [Meesyz](https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK) | [Off](https://open.spotify.com/album/1lEulBrpMY1Kivj5vt4NqF) | 2:15 | 2024-11-21 | 2025-01-10 |
 | [OG](https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [OG](https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa) | 2:33 | 2024-10-10 | 2024-12-06 |
+| [Oh my god](https://open.spotify.com/track/32TyEa7PkqtZp7GMRaTO6k) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oh my god](https://open.spotify.com/album/3Md41qoyHYFo2uPS56SEud) | 2:15 | 2026-07-26 |  |
 | [On m'a déjà](https://open.spotify.com/track/4TCCaDy1XyKLBm6eFXDmrz) | [Loo](https://open.spotify.com/artist/6uhHMAJ8LR6BcQCtBwW2mc) | [On m’a déjà](https://open.spotify.com/album/35zPm2aRpic65eRqTTQew1) | 3:08 | 2025-10-16 | 2025-11-07 |
 | [On s'en fout](https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:59 | 2023-01-19 | 2023-02-24 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-19 | 2024-01-12 |

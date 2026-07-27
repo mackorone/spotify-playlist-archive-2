@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1ZNLwhnfxZ.md) - [plain]
 
 > 드라마 대사와 함께 더 몰입감 있게 작품의 사운드 트랙을 감상해보세요\. \(Immerse yourself in the soundtrack alongside iconic lines from the drama.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
